@@ -13,3 +13,6 @@ npm-debug.log*
 Thumbs.db
 tools/*/node_modules/
 tools/*/.next/
+
+.vercel
+.env*
