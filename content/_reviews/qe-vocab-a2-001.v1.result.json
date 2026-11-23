@@ -1,0 +1,25 @@
+{
+  "slug": "qe-vocab-a2-001",
+  "revision": "f282fc63ee33f38077f539a7eb29026906aea57ab5d3c64e091f9d435a960b29",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    "Whole pack: unrelated, repeatedly reused distractors make most questions answerable by eliminating obviously irrelevant meanings. Phrase items often contrast a complete sentence with fragments such as tuân thủ or kể từ. Best answers independently selected from the wording follow a predictable A-B-C-D sequence through Q50.",
+    "Q1 (A): sale can mean an act of selling as well as a reduced-price sale. Đợt giảm giá is valid for one sense; use a sales-event context to specify it.",
+    "Q15 (C): Tôi mặc thử được không? assumes clothing. Try it on can also refer to shoes, a hat, or jewellery, requiring đi/thử/đội/đeo in Vietnamese. Tôi thử cái này được không? avoids the unsupported restriction.",
+    "Q17 (A): Bạn gợi ý món nào? adds a food/restaurant context absent from What do you recommend? Prefer Bạn gợi ý gì? or supply restaurant context.",
+    "Q19 (C): quản lý can be read as a verb or activity. Người quản lý is a clearer noun gloss for manager.",
+    "Q22 and Q38, distractor A: do đó; phù hợp is an awkward mixed gloss: phù hợp alone is not clearly adverbial. If the intended distractor concerns manner, use một cách phù hợp.",
+    "Q29 (A): Tôi đến đây để đi nghỉ changes the state of being here into an arrival/purpose statement. Tôi đang ở đây để nghỉ dưỡng/đi nghỉ more directly preserves I am here on holiday."
+  ],
+  "admin_sample": [
+    20,
+    39,
+    47
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

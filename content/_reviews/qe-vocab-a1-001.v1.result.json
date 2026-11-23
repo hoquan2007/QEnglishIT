@@ -1,0 +1,23 @@
+{
+  "slug": "qe-vocab-a1-001",
+  "revision": "7e5f1b1bb0fa6057537f78ff1df933262a59ba2bdb0f75db664a2d724e0f276c",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    "Whole pack: distractors repeatedly reuse unrelated meanings (e.g. tai nạn, tài khoản, kế toán viên for nouns; bỏ rơi, hấp thụ, chấp nhận for verbs). They offer little semantic discrimination. Best answers independently selected from the wording follow A-B-C-D repeatedly through Q50, making positions predictable.",
+    "Q3 (C): friend is more precisely người bạn / một người bạn. Bạn bè is a collective gloss; understandable, but it does not preserve the singular headword as well.",
+    "Q45 (A): Cuối tuần của bạn thế nào? is natural but does not explicitly retain the past-time reference in How was your weekend? Cuối tuần vừa rồi của bạn thế nào? would be clearer in an isolated translation question.",
+    "Q47 (C): red is labelled an adjective, so đỏ is the cleaner gloss; màu đỏ can be read as a noun phrase. C is still clearly the best answer.",
+    "Q50 (B): Mình khỏe, cảm ơn is appropriate as a greeting response. Without a conversational context, I am doing well can also concern how life or work is going; Mình vẫn ổn, cảm ơn is less narrowly about health."
+  ],
+  "admin_sample": [
+    10,
+    23,
+    32
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

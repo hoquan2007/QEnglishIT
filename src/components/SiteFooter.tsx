@@ -5,7 +5,7 @@ const COLS = [
   { title: "Luyện thi", links: [["Đề thi TOEIC", "/luyen-de-toeic"], ["Luyện theo Part", "/luyen-part-5-toeic"], ["Thang điểm", "/thang-diem-toeic"], ["Lộ trình học", "/lo-trinh-hoc-toeic"]] },
   { title: "Kỹ năng", links: [["Ngữ pháp", "/ngu-phap-toeic"], ["Nghe", "/luyen-nghe-toeic"], ["Đọc song ngữ", "/luyen-doc-toeic"], ["Nói – Viết", "/luyen-noi-toeic"]] },
   { title: "Từ vựng", links: [["Từ vựng TOEIC", "/tu-vung-toeic"], ["1000 từ / 50 ngày", "/1000-tu-vung-toeic-50-ngay"], ["IELTS", "/tu-vung-ielts"], ["Giao tiếp", "/tu-vung-tieng-anh-giao-tiep"]] },
-  { title: "QEnglishIT", links: [["Giới thiệu", "/about"], ["Blog", "/blog"], ["Tài liệu", "/tai-lieu"], ["Góp ý", "/gop-y-chia-se"]] },
+  { title: "QEnglishIT", links: [["Giới thiệu", "/about"], ["Blog", "/blog"], ["Tài liệu", "/tai-lieu"], ["Nguồn tài liệu", "/nguon-tai-lieu"], ["Góp ý", "/gop-y-chia-se"]] },
 ];
 
 export function SiteFooter() {

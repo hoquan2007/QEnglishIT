@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-23",
+  "timezone": "Asia/Bangkok",
+  "database": {
+    "counts": [
+      {
+        "table": "content_sources",
+        "rows": 11
+      },
+      {
+        "table": "tests",
+        "rows": 8
+      },
+      {
+        "table": "question_groups",
+        "rows": 251
+      },
+      {
+        "table": "questions",
+        "rows": 690
+      },
+      {
+        "table": "grammar_topics",
+        "rows": 41
+      },
+      {
+        "table": "grammar_questions",
+        "rows": 574
+      },
+      {
+        "table": "vocab_words",
+        "rows": 1553
+      },
+      {
+        "table": "vocab_collections",
+        "rows": 9
+      },
+      {
+        "table": "vocab_lessons",
+        "rows": 93
+      },
+      {
+        "table": "vocab_lesson_words",
+        "rows": 1930
+      },
+      {
+        "table": "reading_passages",
+        "rows": 24
+      },
+      {
+        "table": "listening_lessons",
+        "rows": 28
+      },
+      {
+        "table": "speaking_tasks",
+        "rows": 20
+      },
+      {
+        "table": "writing_tasks",
+        "rows": 16
+      },
+      {
+        "table": "courses",
+        "rows": 4
+      },
+      {
+        "table": "course_lessons",
+        "rows": 52
+      },
+      {
+        "table": "blog_posts",
+        "rows": 12
+      },
+      {
+        "table": "documents",
+        "rows": 26
+      },
+      {
+        "table": "phrases",
+        "rows": 200
+      },
+      {
+        "table": "pronunciation_lessons",
+        "rows": 44
+      },
+      {
+        "table": "irregular_verbs",
+        "rows": 100
+      }
+    ],
+    "coverage": {
+      "distinctExplicitLemmas": 1534,
+      "missingLemma": 0,
+      "missingIpaUS": 150,
+      "missingIpaUK": 1553,
+      "missingAudioUS": 1553,
+      "missingAudioUK": 1553,
+      "fewerThanTwoExamples": 1553,
+      "missingWordSources": 1553,
+      "missingStoredFingerprints": 0,
+      "duplicateComputedFingerprints": 0,
+      "staleStoredFingerprints": 0
+    },
+    "exams": {
+      "vocab_test": {
+        "tests": 5,
+        "published": 0,
+        "actualQuestions": 250
+      },
+      "toeic_part": {
+        "tests": 1,
+        "published": 0,
+        "actualQuestions": 40
+      },
+      "toeic_full": {
+        "tests": 2,
+        "published": 2,
+        "actualQuestions": 400
+      }
+    },
+    "phrases": {
+      "collocation": 100,
+      "phrasal_verb": 50,
+      "idiom": 50
+    },
+    "answers": {
+      "A": 174,
+      "B": 174,
+      "D": 165,
+      "C": 177
+    }
+  },
+  "headword_stage": {
+    "lemmas": 10500,
+    "ipa_us": 10383,
+    "ipa_uk": 10127,
+    "both": 10068,
+    "missing_us": 117,
+    "missing_uk": 373,
+    "complete": false
+  },
+  "pronunciation": {
+    "lessons": 44,
+    "pair_occurrences": 217,
+    "distinct_pairs": 154
+  },
+  "verification": {
+    "content_tests": 49,
+    "python_tests": 5,
+    "strict_new_batches": "pass",
+    "dry_run": "pass_with_legacy_warnings",
+    "reseed_preserved_ids": true,
+    "anonymous_draft_access": "blocked_by_rls",
+    "source_route_http": 200,
+    "webpack_build": "pass",
+    "turbopack_build": "failed_at_css_process_creation",
+    "new_security_advisories": 0
+  },
+  "overall_plan_complete": false
+}

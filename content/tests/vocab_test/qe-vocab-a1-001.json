@@ -1,0 +1,1782 @@
+{
+  "slug": "qe-vocab-a1-001",
+  "title": "Kiểm tra từ vựng A1 – 1",
+  "exam_type": "vocab_test",
+  "level": "A1",
+  "cefr": "A1",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 20,
+  "total_questions": 50,
+  "difficulty": 1,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 50,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “See you later.” (phr) là gì?",
+          "explanation": "Từ “See you later.” có nghĩa là “Hẹn gặp lại sau nhé.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “See you later.”: Hẹn gặp lại sau nhé..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Để mình tự giới thiệu."
+            },
+            {
+              "key": "B",
+              "text": "Hẹn gặp lại sau nhé."
+            },
+            {
+              "key": "C",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "D",
+              "text": "Cuối tuần của bạn thế nào?"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "043842d87c726009f8bdabcdfc9e63229029d9b3"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “mother” (n) là gì?",
+          "explanation": "Từ “mother” có nghĩa là “mẹ” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “mother”: mẹ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "quả táo"
+            },
+            {
+              "key": "B",
+              "text": "chợ"
+            },
+            {
+              "key": "C",
+              "text": "tên"
+            },
+            {
+              "key": "D",
+              "text": "mẹ"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "0b0e19784ab9d7b0cefc208bae05b8b368a024b7"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “cold” (adj) là gì?",
+          "explanation": "Từ “cold” có nghĩa là “lạnh” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “cold”: lạnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "nhỏ"
+            },
+            {
+              "key": "B",
+              "text": "lạnh"
+            },
+            {
+              "key": "C",
+              "text": "cũ, già"
+            },
+            {
+              "key": "D",
+              "text": "màu đỏ"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "0c3ec26a508456cabcbdbdcd0243120bdbf1958e"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “family” (n) là gì?",
+          "explanation": "Từ “family” có nghĩa là “gia đình” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “family”: gia đình.",
+          "options": [
+            {
+              "key": "A",
+              "text": "quyển sách"
+            },
+            {
+              "key": "B",
+              "text": "buổi sáng"
+            },
+            {
+              "key": "C",
+              "text": "gia đình"
+            },
+            {
+              "key": "D",
+              "text": "bạn bè"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "0fc9dcb1df991d9c426469a52c890d6b8b6c77ca"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Please call me Hoa.” (phr) là gì?",
+          "explanation": "Từ “Please call me Hoa.” có nghĩa là “Cứ gọi mình là Hoa nhé.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Please call me Hoa.”: Cứ gọi mình là Hoa nhé..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cứ gọi mình là Hoa nhé."
+            },
+            {
+              "key": "B",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "C",
+              "text": "Cuối tuần của bạn thế nào?"
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "114a571a65c879badde3aab4aa84dd903e6739c7"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “I'm doing well, thanks.” (phr) là gì?",
+          "explanation": "Từ “I'm doing well, thanks.” có nghĩa là “Mình khỏe, cảm ơn.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “I'm doing well, thanks.”: Mình khỏe, cảm ơn..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cuối tuần của bạn thế nào?"
+            },
+            {
+              "key": "B",
+              "text": "Hẹn gặp lại sau nhé."
+            },
+            {
+              "key": "C",
+              "text": "Chào buổi sáng."
+            },
+            {
+              "key": "D",
+              "text": "Mình khỏe, cảm ơn."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "144e621aefa4547ec9fa7b438468423ea6759a81"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “night” (n) là gì?",
+          "explanation": "Từ “night” có nghĩa là “đêm” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “night”: đêm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "chợ"
+            },
+            {
+              "key": "B",
+              "text": "quyển sách"
+            },
+            {
+              "key": "C",
+              "text": "tên"
+            },
+            {
+              "key": "D",
+              "text": "đêm"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "17fd16a353180efe26162eeae9825fea8ced948f"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “food” (n) là gì?",
+          "explanation": "Từ “food” có nghĩa là “thức ăn” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “food”: thức ăn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ngôi nhà"
+            },
+            {
+              "key": "B",
+              "text": "thức ăn"
+            },
+            {
+              "key": "C",
+              "text": "chợ"
+            },
+            {
+              "key": "D",
+              "text": "quả táo"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "18068e1a868addd67cf74b4268378d039bfbebf8"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “write” (v) là gì?",
+          "explanation": "Từ “write” có nghĩa là “viết” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “write”: viết.",
+          "options": [
+            {
+              "key": "A",
+              "text": "viết"
+            },
+            {
+              "key": "B",
+              "text": "đi"
+            },
+            {
+              "key": "C",
+              "text": "ngủ"
+            },
+            {
+              "key": "D",
+              "text": "uống"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "1dc3f2ba4b9bd22700f6f5dd7fb74e27e6a1175a"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “hot” (adj) là gì?",
+          "explanation": "Từ “hot” có nghĩa là “nóng” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “hot”: nóng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to, lớn"
+            },
+            {
+              "key": "B",
+              "text": "tốt"
+            },
+            {
+              "key": "C",
+              "text": "nóng"
+            },
+            {
+              "key": "D",
+              "text": "màu đỏ"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "21ee9536e32f0eb3ff48445d93aefaaaf0295825"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “go” (v) là gì?",
+          "explanation": "Từ “go” có nghĩa là “đi” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “go”: đi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "viết"
+            },
+            {
+              "key": "B",
+              "text": "đi"
+            },
+            {
+              "key": "C",
+              "text": "ăn"
+            },
+            {
+              "key": "D",
+              "text": "có"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "2b0da43a8965b335b99def0f6960283cda14d1ab"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “market” (n) là gì?",
+          "explanation": "Từ “market” có nghĩa là “chợ” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “market”: chợ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bạn bè"
+            },
+            {
+              "key": "B",
+              "text": "quyển sách"
+            },
+            {
+              "key": "C",
+              "text": "chợ"
+            },
+            {
+              "key": "D",
+              "text": "con chó"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "2c7473ccc233e0c16702bee07ecf2285fae81810"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “What's up?” (phr) là gì?",
+          "explanation": "Từ “What's up?” có nghĩa là “Dạo này sao rồi?” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “What's up?”: Dạo này sao rồi?.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hẹn gặp lại sau nhé."
+            },
+            {
+              "key": "B",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "C",
+              "text": "Chúc bạn một ngày tuyệt vời!"
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "307bdff8e43df3767ae6d18588e973e6453b91e4"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “good” (adj) là gì?",
+          "explanation": "Từ “good” có nghĩa là “tốt” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “good”: tốt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "màu đỏ"
+            },
+            {
+              "key": "B",
+              "text": "nóng"
+            },
+            {
+              "key": "C",
+              "text": "mới"
+            },
+            {
+              "key": "D",
+              "text": "tốt"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "3386b005e36d58552fb0e5beb95f4a9bc0adf5ab"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “big” (adj) là gì?",
+          "explanation": "Từ “big” có nghĩa là “to, lớn” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “big”: to, lớn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mới"
+            },
+            {
+              "key": "B",
+              "text": "to, lớn"
+            },
+            {
+              "key": "C",
+              "text": "tốt"
+            },
+            {
+              "key": "D",
+              "text": "lạnh"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "351307abb3e420cc0be96dbb1af3a4abb4d1cc6a"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Long time no see.” (phr) là gì?",
+          "explanation": "Từ “Long time no see.” có nghĩa là “Lâu rồi không gặp.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Long time no see.”: Lâu rồi không gặp..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cứ gọi mình là Hoa nhé."
+            },
+            {
+              "key": "B",
+              "text": "Bạn đến từ đâu?"
+            },
+            {
+              "key": "C",
+              "text": "Lâu rồi không gặp."
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "4012bcd0b6f032e2208f623de69b7da98ba59326"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Good morning.” (phr) là gì?",
+          "explanation": "Từ “Good morning.” có nghĩa là “Chào buổi sáng.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Good morning.”: Chào buổi sáng..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rất vui được gặp bạn."
+            },
+            {
+              "key": "B",
+              "text": "Giữ gìn sức khỏe nhé."
+            },
+            {
+              "key": "C",
+              "text": "Để mình tự giới thiệu."
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "48305c8faa552b373d6f238f2668bd49250ed738"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Where are you from?” (phr) là gì?",
+          "explanation": "Từ “Where are you from?” có nghĩa là “Bạn đến từ đâu?” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Where are you from?”: Bạn đến từ đâu?.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cứ gọi mình là Hoa nhé."
+            },
+            {
+              "key": "B",
+              "text": "Bạn đến từ đâu?"
+            },
+            {
+              "key": "C",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "578f0fe2f3a5e4a57eb81bdca3a63541cb15b414"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “day” (n) là gì?",
+          "explanation": "Từ “day” có nghĩa là “ngày” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “day”: ngày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "quyển sách"
+            },
+            {
+              "key": "B",
+              "text": "ngày"
+            },
+            {
+              "key": "C",
+              "text": "thức ăn"
+            },
+            {
+              "key": "D",
+              "text": "ngôi nhà"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "5e76524dc85a7ecf3e81e292a43489a9fd659e7a"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “read” (v) là gì?",
+          "explanation": "Từ “read” có nghĩa là “đọc” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “read”: đọc.",
+          "options": [
+            {
+              "key": "A",
+              "text": "đọc"
+            },
+            {
+              "key": "B",
+              "text": "đi"
+            },
+            {
+              "key": "C",
+              "text": "chơi"
+            },
+            {
+              "key": "D",
+              "text": "ăn"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "61c3feae00fd24e78ecd2cd208208d3b10c6aee7"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “apple” (n) là gì?",
+          "explanation": "Từ “apple” có nghĩa là “quả táo” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “apple”: quả táo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "thức ăn"
+            },
+            {
+              "key": "B",
+              "text": "buổi sáng"
+            },
+            {
+              "key": "C",
+              "text": "quả táo"
+            },
+            {
+              "key": "D",
+              "text": "con chó"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "63ce164f2ea233d1979bad137e0ccb362b788738"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “eat” (v) là gì?",
+          "explanation": "Từ “eat” có nghĩa là “ăn” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “eat”: ăn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ăn"
+            },
+            {
+              "key": "B",
+              "text": "chơi"
+            },
+            {
+              "key": "C",
+              "text": "đi bộ"
+            },
+            {
+              "key": "D",
+              "text": "ngủ"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "6524819cf9dab109f25f9fcd68fdafa1528e1be2"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “book” (n) là gì?",
+          "explanation": "Từ “book” có nghĩa là “quyển sách” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “book”: quyển sách.",
+          "options": [
+            {
+              "key": "A",
+              "text": "giáo viên"
+            },
+            {
+              "key": "B",
+              "text": "quyển sách"
+            },
+            {
+              "key": "C",
+              "text": "chợ"
+            },
+            {
+              "key": "D",
+              "text": "con chó"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "6a8bd044d9e2b02e3d1b579ffa08b7f38e30a85e"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “teacher” (n) là gì?",
+          "explanation": "Từ “teacher” có nghĩa là “giáo viên” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “teacher”: giáo viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "đêm"
+            },
+            {
+              "key": "B",
+              "text": "ngày"
+            },
+            {
+              "key": "C",
+              "text": "bố"
+            },
+            {
+              "key": "D",
+              "text": "giáo viên"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "6cee515fa4abb5e47ac689a6888cc42c78b1c327"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “cat” (n) là gì?",
+          "explanation": "Từ “cat” có nghĩa là “con mèo” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “cat”: con mèo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "con mèo"
+            },
+            {
+              "key": "B",
+              "text": "quyển sách"
+            },
+            {
+              "key": "C",
+              "text": "nước"
+            },
+            {
+              "key": "D",
+              "text": "chợ"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "6d33e1a179a281526f6f8c00fa2545d36b10708b"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “walk” (v) là gì?",
+          "explanation": "Từ “walk” có nghĩa là “đi bộ” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “walk”: đi bộ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "viết"
+            },
+            {
+              "key": "B",
+              "text": "có"
+            },
+            {
+              "key": "C",
+              "text": "đi bộ"
+            },
+            {
+              "key": "D",
+              "text": "đọc"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "768315b5d5e40d8b6da7809a9cbd0d730e409a1d"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “sleep” (v) là gì?",
+          "explanation": "Từ “sleep” có nghĩa là “ngủ” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “sleep”: ngủ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ngủ"
+            },
+            {
+              "key": "B",
+              "text": "đọc"
+            },
+            {
+              "key": "C",
+              "text": "ăn"
+            },
+            {
+              "key": "D",
+              "text": "có"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "76932fa5ec1b36df4428e25ac8fb24a3f15cc877"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “drink” (v) là gì?",
+          "explanation": "Từ “drink” có nghĩa là “uống” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “drink”: uống.",
+          "options": [
+            {
+              "key": "A",
+              "text": "có"
+            },
+            {
+              "key": "B",
+              "text": "đến"
+            },
+            {
+              "key": "C",
+              "text": "uống"
+            },
+            {
+              "key": "D",
+              "text": "đọc"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "7c78f421f70bd2b29e0001b0eba34284ff2bcdb0"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “This is my friend, Minh.” (phr) là gì?",
+          "explanation": "Từ “This is my friend, Minh.” có nghĩa là “Đây là bạn mình, Minh.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “This is my friend, Minh.”: Đây là bạn mình, Minh..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hẹn gặp lại sau nhé."
+            },
+            {
+              "key": "B",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "C",
+              "text": "Đây là bạn mình, Minh."
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "7e3d71d3dd176aab02af4684200bc515121bb570"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “name” (n) là gì?",
+          "explanation": "Từ “name” có nghĩa là “tên” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “name”: tên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tên"
+            },
+            {
+              "key": "B",
+              "text": "chợ"
+            },
+            {
+              "key": "C",
+              "text": "bạn bè"
+            },
+            {
+              "key": "D",
+              "text": "gia đình"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "7fd88c8ab8395a471433d2e94ff0d57fcedfb951"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “come” (v) là gì?",
+          "explanation": "Từ “come” có nghĩa là “đến” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “come”: đến.",
+          "options": [
+            {
+              "key": "A",
+              "text": "đi bộ"
+            },
+            {
+              "key": "B",
+              "text": "đến"
+            },
+            {
+              "key": "C",
+              "text": "đọc"
+            },
+            {
+              "key": "D",
+              "text": "uống"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "8051f4f1f029d3258b2e09a009e02cd1af7e8f73"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “old” (adj) là gì?",
+          "explanation": "Từ “old” có nghĩa là “cũ, già” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “old”: cũ, già.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cũ, già"
+            },
+            {
+              "key": "B",
+              "text": "mới"
+            },
+            {
+              "key": "C",
+              "text": "to, lớn"
+            },
+            {
+              "key": "D",
+              "text": "nóng"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "8661c794b4b6d4af6e9f2da7a62ea38364822cfb"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Nice to meet you.” (phr) là gì?",
+          "explanation": "Từ “Nice to meet you.” có nghĩa là “Rất vui được gặp bạn.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Nice to meet you.”: Rất vui được gặp bạn..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rất vui được gặp bạn."
+            },
+            {
+              "key": "B",
+              "text": "Mình khỏe, cảm ơn."
+            },
+            {
+              "key": "C",
+              "text": "Chào buổi sáng."
+            },
+            {
+              "key": "D",
+              "text": "Dạo này sao rồi?"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "92fd42c70be92ba97e8a31d94b236eb2c33f9e19"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “school” (n) là gì?",
+          "explanation": "Từ “school” có nghĩa là “trường học” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “school”: trường học.",
+          "options": [
+            {
+              "key": "A",
+              "text": "gia đình"
+            },
+            {
+              "key": "B",
+              "text": "trường học"
+            },
+            {
+              "key": "C",
+              "text": "con mèo"
+            },
+            {
+              "key": "D",
+              "text": "bạn bè"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "93f3f18df8aba4d2ffc13031a0613c41fe9d4502"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “red” (adj) là gì?",
+          "explanation": "Từ “red” có nghĩa là “màu đỏ” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “red”: màu đỏ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "vui, hạnh phúc"
+            },
+            {
+              "key": "B",
+              "text": "màu đỏ"
+            },
+            {
+              "key": "C",
+              "text": "nóng"
+            },
+            {
+              "key": "D",
+              "text": "to, lớn"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "9f4b73abfd7642c08b6cbb6b52321215c0d51380"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Have a great day!” (phr) là gì?",
+          "explanation": "Từ “Have a great day!” có nghĩa là “Chúc bạn một ngày tuyệt vời!” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Have a great day!”: Chúc bạn một ngày tuyệt vời!.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Giữ gìn sức khỏe nhé."
+            },
+            {
+              "key": "B",
+              "text": "Lâu rồi không gặp."
+            },
+            {
+              "key": "C",
+              "text": "Để mình tự giới thiệu."
+            },
+            {
+              "key": "D",
+              "text": "Chúc bạn một ngày tuyệt vời!"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "a16af405a4e92dea210a5ec4dbdcc93441d4e888"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “dog” (n) là gì?",
+          "explanation": "Từ “dog” có nghĩa là “con chó” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “dog”: con chó.",
+          "options": [
+            {
+              "key": "A",
+              "text": "buổi sáng"
+            },
+            {
+              "key": "B",
+              "text": "giáo viên"
+            },
+            {
+              "key": "C",
+              "text": "bạn bè"
+            },
+            {
+              "key": "D",
+              "text": "con chó"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "a9a17c8057d880690c26a7a0061fde6a3ebae019"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Pleased to meet you.” (phr) là gì?",
+          "explanation": "Từ “Pleased to meet you.” có nghĩa là “Hân hạnh được gặp bạn.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Pleased to meet you.”: Hân hạnh được gặp bạn..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Để mình tự giới thiệu."
+            },
+            {
+              "key": "B",
+              "text": "Hân hạnh được gặp bạn."
+            },
+            {
+              "key": "C",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "D",
+              "text": "Chào buổi sáng."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "b36a980ab83284185f82d0f9a701d84f2373f908"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “car” (n) là gì?",
+          "explanation": "Từ “car” có nghĩa là “ô tô” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “car”: ô tô.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ô tô"
+            },
+            {
+              "key": "B",
+              "text": "bạn bè"
+            },
+            {
+              "key": "C",
+              "text": "con chó"
+            },
+            {
+              "key": "D",
+              "text": "quyển sách"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "b6291806d766651ed3cdcd23473cbcb714f8518c"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “Take care.” (phr) là gì?",
+          "explanation": "Từ “Take care.” có nghĩa là “Giữ gìn sức khỏe nhé.” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “Take care.”: Giữ gìn sức khỏe nhé..",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rất vui được gặp bạn."
+            },
+            {
+              "key": "B",
+              "text": "Chào buổi sáng."
+            },
+            {
+              "key": "C",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "D",
+              "text": "Giữ gìn sức khỏe nhé."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "c71ae8b8bc2f9a25e3ffe07b7b788c4e63d8eb5c"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “student” (n) là gì?",
+          "explanation": "Từ “student” có nghĩa là “học sinh, sinh viên” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “student”: học sinh, sinh viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bạn bè"
+            },
+            {
+              "key": "B",
+              "text": "quả táo"
+            },
+            {
+              "key": "C",
+              "text": "học sinh, sinh viên"
+            },
+            {
+              "key": "D",
+              "text": "đêm"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 41,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "ccb0385776aa3fd278e4f0970760c5cf53b4a856"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “play” (v) là gì?",
+          "explanation": "Từ “play” có nghĩa là “chơi” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “play”: chơi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "đi"
+            },
+            {
+              "key": "B",
+              "text": "đọc"
+            },
+            {
+              "key": "C",
+              "text": "chơi"
+            },
+            {
+              "key": "D",
+              "text": "thích"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 42,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "d4c9b5954552fef97a3de69091f1b650ab1da70c"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “How was your weekend?” (phr) là gì?",
+          "explanation": "Từ “How was your weekend?” có nghĩa là “Cuối tuần của bạn thế nào?” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “How was your weekend?”: Cuối tuần của bạn thế nào?.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Để mình tự giới thiệu."
+            },
+            {
+              "key": "B",
+              "text": "Giữ gìn sức khỏe nhé."
+            },
+            {
+              "key": "C",
+              "text": "Dạo này sao rồi?"
+            },
+            {
+              "key": "D",
+              "text": "Cuối tuần của bạn thế nào?"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 43,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "d9469a1f8d152b85611c4bf7c092c94d57779449"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “happy” (adj) là gì?",
+          "explanation": "Từ “happy” có nghĩa là “vui, hạnh phúc” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “happy”: vui, hạnh phúc.",
+          "options": [
+            {
+              "key": "A",
+              "text": "màu đỏ"
+            },
+            {
+              "key": "B",
+              "text": "to, lớn"
+            },
+            {
+              "key": "C",
+              "text": "cũ, già"
+            },
+            {
+              "key": "D",
+              "text": "vui, hạnh phúc"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 44,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "dba41ec8ab695212d87b67d71744cbdf53f0f219"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “How are you doing?” (phr) là gì?",
+          "explanation": "Từ “How are you doing?” có nghĩa là “Bạn dạo này thế nào?” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “How are you doing?”: Bạn dạo này thế nào?.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bạn dạo này thế nào?"
+            },
+            {
+              "key": "B",
+              "text": "Cứ gọi mình là Hoa nhé."
+            },
+            {
+              "key": "C",
+              "text": "Chào buổi sáng."
+            },
+            {
+              "key": "D",
+              "text": "Lâu rồi không gặp."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 45,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\giao-tiep.json",
+          "independent_review": "pending",
+          "fingerprint": "dc866ed0c6b81e5bd1a074e936723e8bf9d1de5e"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “water” (n) là gì?",
+          "explanation": "Từ “water” có nghĩa là “nước” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “water”: nước.",
+          "options": [
+            {
+              "key": "A",
+              "text": "nước"
+            },
+            {
+              "key": "B",
+              "text": "tên"
+            },
+            {
+              "key": "C",
+              "text": "ô tô"
+            },
+            {
+              "key": "D",
+              "text": "quyển sách"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 46,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "e0fc5312084f4fcd0ef7b55d5580b4a4f633be47"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “have” (v) là gì?",
+          "explanation": "Have có nghĩa cơ bản là có, sở hữu. Các lựa chọn còn lại là thích, xây dựng và sửa chữa; chúng không diễn đạt nghĩa của have.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “have”: có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "thích"
+            },
+            {
+              "key": "B",
+              "text": "xây dựng"
+            },
+            {
+              "key": "C",
+              "text": "sửa chữa"
+            },
+            {
+              "key": "D",
+              "text": "có"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 47,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "3c1cb08bb1fa852f2b9b5046eaaa3b8fb45d32d7"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “father” (n) là gì?",
+          "explanation": "Từ “father” có nghĩa là “bố” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “father”: bố.",
+          "options": [
+            {
+              "key": "A",
+              "text": "giáo viên"
+            },
+            {
+              "key": "B",
+              "text": "tên"
+            },
+            {
+              "key": "C",
+              "text": "bố"
+            },
+            {
+              "key": "D",
+              "text": "bạn bè"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 48,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "e845fa8ef28645bb9f9d26247dc2e81bdcdb32c8"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “house” (n) là gì?",
+          "explanation": "Từ “house” có nghĩa là “ngôi nhà” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “house”: ngôi nhà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "gia đình"
+            },
+            {
+              "key": "B",
+              "text": "buổi sáng"
+            },
+            {
+              "key": "C",
+              "text": "ngôi nhà"
+            },
+            {
+              "key": "D",
+              "text": "thức ăn"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 49,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "f16a8f52df83d05c36efdcc1b6ca7be37ee7900d"
+        },
+        {
+          "question_text": "Nghĩa tiếng Việt của từ “morning” (n) là gì?",
+          "explanation": "Từ “morning” có nghĩa là “buổi sáng” theo ngân hàng từ vựng hiện có.",
+          "translation": "Chọn nghĩa tiếng Việt của từ “morning”: buổi sáng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "con mèo"
+            },
+            {
+              "key": "B",
+              "text": "gia đình"
+            },
+            {
+              "key": "C",
+              "text": "buổi sáng"
+            },
+            {
+              "key": "D",
+              "text": "quả táo"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 50,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\vocab\\3000-thong-dung.json",
+          "independent_review": "pending",
+          "fingerprint": "f175c541aabf17458f5e9c61aaa2594614866e9d"
+        }
+      ]
+    }
+  ]
+}

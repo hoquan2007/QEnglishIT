@@ -14,5 +14,14 @@ Thumbs.db
 tools/*/node_modules/
 tools/*/.next/
 
+# Downloaded linguistic corpora and generated media stay local.
+content/vocab/raw/
+media/
+*.wav
+*.mp3
+*.ogg
+content/_reports/seed-*.json
+content/_reports/*.log
+
 .vercel
 .env*

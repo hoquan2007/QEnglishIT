@@ -1,0 +1,22 @@
+{
+  "slug": "qe-vocab-b2-001",
+  "revision": "580f66493d4a7c4ed338178492dcfca7a2f0309a9ebea39487a4446421bcf324",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    {
+      "number": 34,
+      "concern": "B is the closest available answer, but quá trình nâng cấp khu dân cư omits the defining social and economic change in gentrification: a poorer area becomes wealthier as more affluent residents move in, often displacing existing residents. Ordinary neighborhood upgrades alone need not be gentrification. Revise the gloss to include that transformation."
+    }
+  ],
+  "admin_sample": [
+    9,
+    26,
+    30
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

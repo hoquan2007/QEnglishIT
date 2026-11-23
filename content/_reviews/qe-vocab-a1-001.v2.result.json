@@ -1,0 +1,22 @@
+{
+  "slug": "qe-vocab-a1-001",
+  "revision": "2559965568209e769d5be12503d337d3802678be90a52d7ca5a0397f0c76bcf1",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    {
+      "number": 47,
+      "concern": "Material ambiguity: D (có) is the best basic gloss, but B (uống) and C (ăn) are also ordinary senses of have, as in have a drink and have lunch. With no context, all three are defensible. Add a possession context or replace B and C."
+    }
+  ],
+  "admin_sample": [
+    11,
+    21,
+    47
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

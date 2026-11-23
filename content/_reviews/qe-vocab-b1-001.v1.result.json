@@ -1,0 +1,30 @@
+{
+  "slug": "qe-vocab-b1-001",
+  "revision": "b6d5a90000ad191b51dbe95a6b0efc33780a9f119b54543984f0bc20350995c5",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    "Whole pack: repeated distractors such as tai nạn, tài khoản, kế toán viên and bỏ rơi, hấp thụ, chấp nhận are mostly unrelated to the headwords and do not probe B1 semantic distinctions. Best answers independently selected from meanings follow A-B-C-D repeatedly through Q50.",
+    "Q5 (A): make a refund is understandable but give/issue a refund is a more natural teaching collocation for hoàn tiền. Distinguish this from get/request a refund, which refers to the customer receiving/requesting repayment.",
+    "Q7 (C): facility can mean a building/site, an amenity, or an ability. Cơ sở is a valid but underspecified gloss; cơ sở phục vụ một mục đích cụ thể or a sentence context would be clearer.",
+    "Q10 (B): công ty vận chuyển is valid for a transport-company sense of carrier, but the bare noun can also mean a person carrying something, a disease carrier, or other types of carrier. Supply transport context.",
+    "Q15 (C): bài phát biểu chính is the conference-speech sense of keynote; bài phát biểu chủ đạo is clearer. The isolated noun can also mean a central theme or musical keynote.",
+    "Q22 (B): phương tiện is broader than vehicle. Phương tiện giao thông / xe cộ is a more precise basic gloss.",
+    "Q28 (D): kịp hạn chót is understandable but awkward as a standalone action phrase. Hoàn thành đúng hạn better expresses meet a deadline.",
+    "Q30 (B) and Q32 (D): tài liệu đính kèm / gửi kèm are valid correspondence senses of enclosure/enclose. Without a letter/document context, the enclosure/enclosing physical-space senses remain unspecified.",
+    "Q35 (C): dành ra (thời gian) is a possible contextual result of free up, but giải phóng / làm cho có sẵn (thời gian, nguồn lực) better captures making something available. Specify free up time if only the time sense is tested.",
+    "Q38 (B): sơ yếu lý lịch is commonly used as a gloss, but in Vietnamese recruitment practice it can denote a different administrative document. Bản tóm tắt kinh nghiệm, học vấn và kỹ năng ứng tuyển is more precise for résumé.",
+    "Q39 (C): buổi giới thiệu is too vague for the workplace sense of induction, which involves orientation/introduction to a new job or organisation. Prefer chương trình hướng dẫn/hội nhập cho nhân viên mới and supply workplace context; induction also has unrelated scientific and reasoning senses.",
+    "Q45 (A): giao dịch viên is plausible but broad. Giao dịch viên ngân hàng is a clearer gloss for the usual banking sense of teller."
+  ],
+  "admin_sample": [
+    17,
+    21,
+    32
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

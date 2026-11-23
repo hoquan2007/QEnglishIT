@@ -1,0 +1,32 @@
+{
+  "slug": "qe-vocab-c1-001",
+  "revision": "d4da9444103d81ab9423910409d92c6dd403acccaa19678a746d861220fc2340",
+  "check_name": "independent_answer_review",
+  "status": "fail",
+  "total": 50,
+  "missing": [],
+  "disagreements": [
+    {
+      "number": 7,
+      "reviewer_answer": "B",
+      "author_answer": "C"
+    }
+  ],
+  "reviewer_notes": [
+    {
+      "number": 7,
+      "concern": "Material ambiguity: both B (giảm nhẹ) and C (làm dịu bớt) correctly translate alleviate, for example alleviate pain or suffering. B is selected, but C cannot fairly be marked wrong. Replace one of these synonymous options."
+    },
+    {
+      "number": 48,
+      "concern": "Material ambiguity: B (công phu, phức tạp) is the best general gloss, but A (tỉ mỉ) is also defensible for elaborate meaning carefully detailed, as in an elaborate plan or design. Specify a context that distinguishes the choices or replace A."
+    }
+  ],
+  "admin_sample": [
+    11,
+    17,
+    42
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

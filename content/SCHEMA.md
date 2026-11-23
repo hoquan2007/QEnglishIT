@@ -73,3 +73,34 @@ blog: `{ "slug","title","excerpt","content_md","category","tags":[] }` (800–15
 documents: `{ "slug","title","description","category","file_type":"md","content_md" }` (printable study handouts/cheat sheets)
 courses: `{ "slug","title","description","target_score","sort_order","lessons":[{"slug","title","lesson_type":"article"|"link"|"quiz","content_md","link_href","duration_minutes","sort_order"}] }`
 `link_href` points to in-app routes like `/ngu-phap-toeic/present-simple`, `/tu-vung-toeic/<collection>/<lesson>`, `/luyen-de-toeic`, `/luyen-part-5-toeic`.
+
+## Content expansion v1
+
+The complete target and authoring rules are in `Plandataenglish.md`. Existing files remain readable;
+new batches must provide `source` referencing `content/sources/sources.json` (normally `original`).
+Downloaded corpora in `vocab/raw/` and generated files in `media/` are not committed.
+
+- Tests can be nested below `tests/<exam_type>/`. `_specs/` contains authoring specifications, not seed data.
+  Split listening/reading files share a slug and are validated together. Add `exam_type`, `level`,
+  `difficulty` (1–5), `cefr`, `tags`, `sections`, and `source`. New tests stay unpublished until independent
+  answer review and an admin's 5% sample review. Do not label automated checks as human review.
+- Groups add `section`, `instructions`, `audio_duration_seconds`; questions add `question_type`,
+  `answer_data`, `difficulty`, `skill_tags`. `gap_fill`/`short_answer` require nonempty
+  `answer_data.accepted`. `tfng`/`ynng` use explicit option keys. Fingerprints are computed by the validator.
+- `vocab/words/*.json`: arrays of at most 500 records, unique `(word,pos)`. Add `lemma`, `ipa_us`,
+  `ipa_uk`, two bilingual `examples`, `source`, `frequency_rank`, `lists`, `topics`, `word_family`,
+  `synonyms`, `antonyms`, `collocations`, `register`, `reviewed`. Keep `ipa` compatible with `ipa_us`.
+  Headwords are a work queue, not enriched vocabulary and must never be seeded as complete words.
+- `vocab/collections/*.json`: collection/lesson metadata with `words: [{word,pos}]` references;
+  missing references are errors rather than incomplete silently imported lessons.
+- `phrases/*.json`: arrays of `{kind,phrase,meaning_vi,definition_en,examples,level,topics,source}`.
+  Kinds: `phrasal_verb`, `idiom`, `collocation`, `expression`, `proverb`. Natural key: `(kind,phrase)`.
+- `pronunciation/*.json`: arrays of `{slug,symbol,kind,title,description_md,example_words,
+  minimal_pairs,practice_sentences,sort_order,source}`. Minimal pairs must differ by one phoneme.
+- `irregular/*.json`: arrays of `{base,past,past_participle,meaning_vi,ipa,level,source}`.
+- `sources/sources.json`: `{key,title,url,license,attribution,notes}` records. Check the upstream
+  license before downloading; retain source-specific licensing and attribution on derived data.
+- `documents/external-resources.json`: links and original descriptions only, not copied content.
+
+Validate before seeding. `--dry-run` must never modify the database or mark a manifest entry seeded.
+`content/_manifest.json` records completed imports; reports belong under `content/_reports/`.

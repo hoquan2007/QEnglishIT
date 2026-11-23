@@ -1,0 +1,284 @@
+[
+  {
+    "key": "original",
+    "title": "QEnglishIT original content",
+    "url": null,
+    "license": "Original (QEnglishIT)",
+    "attribution": "QEnglishIT",
+    "notes": "Original authored content only; this record does not relicense third-party datasets."
+  },
+  {
+    "key": "bsl-1.20",
+    "title": "Business Service List",
+    "url": "https://www.newgeneralservicelist.com/business-service-list",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Browne, C. and Culligan, B.",
+    "notes": "Headwords and inflection mappings adapted from teaching CSV; retain attribution and CC BY-SA 4.0 for derived list data.",
+    "verified_at": "2026-11-23T16:40:10Z",
+    "license_evidence": [
+      {
+        "url": "https://www.newgeneralservicelist.com/business-service-list",
+        "sha256": "e8b823245ce0fcdb39dcba5b636ab0c2ab8d15bf65b7dc681c146c1f98024245",
+        "notice_path": "scripts/vocab/.cache/evidence/bsl-1.20-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://www.newgeneralservicelist.com/s/BSL_120_lemmatized_for_teaching.csv",
+        "sha256": "0073a91b4186dc0bba0960f2ed9486bd117177403f4e0ac9f3738474f2b2a3c9",
+        "bytes": 43830,
+        "file": "bsl-1.20.csv"
+      }
+    ]
+  },
+  {
+    "key": "cefrj-1.6",
+    "title": "CEFR-J Wordlist Version 1.6",
+    "url": "https://www.cefr-j.org/download.html",
+    "license": "TUFS Tono Laboratory terms: free research/educational/commercial use with citation",
+    "attribution": "The CEFR-J Wordlist Version 1.6. Compiled by Yukio Tono, Tokyo University of Foreign Studies. Retrieved from https://www.cefr-j.org/download.html on 2026-11-23.",
+    "notes": "Not a Creative Commons license. Full terms archived; preserve citation. Commercial supervision/consultation is separately chargeable. A1/A2 subdivisions collapsed to their major level.",
+    "verified_at": "2026-11-23T16:40:27Z",
+    "license_evidence": [
+      {
+        "url": "https://www.cefr-j.org/download.html",
+        "sha256": "b44caaefa496adde0ef122bbea95dcaabbef5fee77d26de2c9611d2bb6284cdd",
+        "notice_path": "scripts/vocab/.cache/evidence/cefrj-1.6-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://www.cefr-j.org/data/CEFRJ_wordlist_ver1.6.zip",
+        "sha256": "c837d2c00ab8954ed8db48e79afd8ef37099570295fec36950dbf9322303a37a",
+        "bytes": 1089155,
+        "file": "cefrj-1.6.zip"
+      }
+    ]
+  },
+  {
+    "key": "cmudict",
+    "title": "Carnegie Mellon Pronouncing Dictionary",
+    "url": "https://github.com/cmusphinx/cmudict",
+    "license": "BSD-2-Clause-style CMUdict license",
+    "attribution": "Copyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.",
+    "notes": "Full exact copyright/conditions/disclaimer retained. ARPAbet-to-IPA is a mechanical broad US transcription, not syllabification or UK inference.",
+    "verified_at": "2026-11-23T16:40:41Z",
+    "license_evidence": [
+      {
+        "url": "https://raw.githubusercontent.com/cmusphinx/cmudict/74790861f652b15e4ac49015a90074ad62a27690/LICENSE",
+        "sha256": "bd4ce8e44170a5f9f481310ca85c51de3c4f851a65e679b40e603b143bd3542a",
+        "notice_path": "scripts/vocab/notices/cmudict-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://raw.githubusercontent.com/cmusphinx/cmudict/74790861f652b15e4ac49015a90074ad62a27690/cmudict.dict",
+        "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+        "bytes": 3618488,
+        "file": "cmudict.dict"
+      }
+    ],
+    "revision": "74790861f652b15e4ac49015a90074ad62a27690"
+  },
+  {
+    "key": "ipa-dict-uk",
+    "title": "ipa-dict en_UK",
+    "url": "https://github.com/open-dict-data/ipa-dict",
+    "license": "GPL-3.0 (ipacards-derived data)",
+    "attribution": "dohliam; Leonardo Boiko / ipacards contributors.",
+    "notes": "Pronunciation data kept in separate generated IPA batches with per-field provenance. UK is not MIT; retain GPL terms, full license and corresponding source URL. ipacards credits trace UK IPA to eSpeak-generated transcriptions (not a licensed commercial dictionary); automated source, not manually reviewed. Google Translate audio mentioned upstream is NOT downloaded or reused.",
+    "verified_at": "2026-11-23T16:55:32Z",
+    "license_evidence": [
+      {
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/README.md",
+        "sha256": "7251a8159f6d1d1a981ae5e79e616e3c7181950c1b6023042a727056a47e87a0",
+        "notice_path": "scripts/vocab/.cache/evidence/ipa-dict-uk-1.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/leoboiko/ipacards/ac25f24df0712562b3c4762e21880fced2ae0b92/LICENSE",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "notice_path": "scripts/vocab/notices/ipa-dict-uk-2.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/leoboiko/ipacards/ac25f24df0712562b3c4762e21880fced2ae0b92/CREDITS",
+        "sha256": "1426ef2d895aabe05d4e869eea0b29df34bb3f0fb6875209aeac7275baabd488",
+        "notice_path": "scripts/vocab/notices/ipa-dict-uk-3.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/leoboiko/ipacards/ac25f24df0712562b3c4762e21880fced2ae0b92/deck_description.md",
+        "sha256": "c14c17dde223a0290aebfbc2b3b0e1e27cf38a921c6c3da2dec91ea7597cc7db",
+        "notice_path": "scripts/vocab/.cache/evidence/ipa-dict-uk-4.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/data/en_UK.txt",
+        "sha256": "221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77",
+        "bytes": 1684124,
+        "file": "ipa-dict-uk.txt"
+      }
+    ],
+    "revision": "972cd67dd5f96bc5660e28070cde26e3928abcd7"
+  },
+  {
+    "key": "ipa-dict-us",
+    "title": "ipa-dict en_US",
+    "url": "https://github.com/open-dict-data/ipa-dict",
+    "license": "MIT; CMUdict BSD-style notice retained",
+    "attribution": "dohliam; Lingliang Zhang; Carnegie Mellon University; Kyle Gorman (syllabify).",
+    "notes": "Pronunciation data kept in separate generated IPA batches with per-field provenance. UK is not MIT; retain GPL terms, full license and corresponding source URL. No manual-review claim.",
+    "verified_at": "2026-11-23T16:40:37Z",
+    "license_evidence": [
+      {
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/LICENSE",
+        "sha256": "2c6a7e4c71f834a8fc0114fa4f65ca85e80bc4b4dc7ed08746963a09a7b0d177",
+        "notice_path": "scripts/vocab/notices/ipa-dict-us-1.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/README.md",
+        "sha256": "7251a8159f6d1d1a981ae5e79e616e3c7181950c1b6023042a727056a47e87a0",
+        "notice_path": "scripts/vocab/.cache/evidence/ipa-dict-us-2.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lingz/cmudict-ipa/629483e9a7fa5b9ff11bb83e3fda6dcc25c5c511/LICENSE",
+        "sha256": "a504bede5a50d1ac19c38984d9bb33371927f72e714946a963bf40bb2de21188",
+        "notice_path": "scripts/vocab/notices/ipa-dict-us-3.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/972cd67dd5f96bc5660e28070cde26e3928abcd7/data/en_US.txt",
+        "sha256": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+        "bytes": 3180267,
+        "file": "ipa-dict-us.txt"
+      }
+    ],
+    "revision": "972cd67dd5f96bc5660e28070cde26e3928abcd7"
+  },
+  {
+    "key": "kaikki-simple",
+    "title": "Simple English Wiktionary via Kaikki / Wiktextract",
+    "url": "https://kaikki.org/dictionary/rawdata.html",
+    "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+    "attribution": "Simple English Wiktionary contributors; extraction by Tatu Ylonen / Wiktextract and Kaikki.org.",
+    "notes": "Only lemma/POS/form/label metadata used; no copied definitions/examples. Per-word attribution: https://simple.wiktionary.org/wiki/<lemma> and its page history. Kaikki explicitly retains Wiktionary licenses; do not relabel as MIT or invent a version. Redistribution must retain applicable upstream share-alike terms.",
+    "verified_at": "2026-11-23T16:40:24Z",
+    "license_evidence": [
+      {
+        "url": "https://kaikki.org/dictionary/",
+        "sha256": "cf9de3055d71ac51596e43a998724fc8ee192177fc7720f7227b02205e4b9e67",
+        "notice_path": "scripts/vocab/.cache/evidence/kaikki-simple-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://kaikki.org/dictionary/downloads/simple/simple-extract.jsonl.gz",
+        "sha256": "79afd871e342db3b87c3f2044ed21efa312e4c4ee006814b57c4cf4536ef70a1",
+        "bytes": 4726754,
+        "file": "kaikki-simple.jsonl.gz"
+      }
+    ]
+  },
+  {
+    "key": "nawl-1.2",
+    "title": "New Academic Word List",
+    "url": "https://www.newgeneralservicelist.com/new-academic-word-list",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Browne, C., Culligan, B., and Phillips, J.",
+    "notes": "Headwords and inflection mappings adapted from teaching CSV; retain attribution and CC BY-SA 4.0 for derived list data.",
+    "verified_at": "2026-11-23T16:40:08Z",
+    "license_evidence": [
+      {
+        "url": "https://www.newgeneralservicelist.com/new-academic-word-list",
+        "sha256": "3cd10b92e30ef173315747e48b51c1576b5ef25de9fd661aadc0870cf649f787",
+        "notice_path": "scripts/vocab/.cache/evidence/nawl-1.2-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://www.newgeneralservicelist.com/s/NAWL_12_lemmatized_for_teaching.csv",
+        "sha256": "1790b0fa22c5815ebf5a9a15c9363c03a6e906c77bf217f99033734f1459137b",
+        "bytes": 23608,
+        "file": "nawl-1.2.csv"
+      }
+    ]
+  },
+  {
+    "key": "ngsl-1.2",
+    "title": "New General Service List",
+    "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Browne, C., Culligan, B., and Phillips, J.",
+    "notes": "Headwords and inflection mappings adapted from teaching CSV; retain attribution and CC BY-SA 4.0 for derived list data.",
+    "verified_at": "2026-11-23T16:40:06Z",
+    "license_evidence": [
+      {
+        "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+        "sha256": "b3af32b16c5e74dc046eab2f8d08c409ce7d2b5491df7eb6b95e8c796f43b0c3",
+        "notice_path": "scripts/vocab/.cache/evidence/ngsl-1.2-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://www.newgeneralservicelist.com/s/NGSL_12_lemmatized_for_teaching.csv",
+        "sha256": "b54e297244988237457e04f823aa8dca68e3d646938dc76d383e099f04cb7666",
+        "bytes": 73146,
+        "file": "ngsl-1.2.csv"
+      }
+    ]
+  },
+  {
+    "key": "tsl-1.2",
+    "title": "Toeic Service List",
+    "url": "https://www.newgeneralservicelist.com/toeic-service-list",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Browne, C. and Culligan, B.",
+    "notes": "Headwords and inflection mappings adapted from teaching CSV; retain attribution and CC BY-SA 4.0 for derived list data.",
+    "verified_at": "2026-11-23T16:40:08Z",
+    "license_evidence": [
+      {
+        "url": "https://www.newgeneralservicelist.com/toeic-service-list",
+        "sha256": "3dc556139ba5d088df57996d54cd113ea547dc5ea8e69afc037b5dfafa6e8d80",
+        "notice_path": "scripts/vocab/.cache/evidence/tsl-1.2-1.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://www.newgeneralservicelist.com/s/TSL_12_lemmatized_for_teaching.csv",
+        "sha256": "aca322f1e8b55c9c85e8b9f04ea384a2fcb069019e6e77fff3eb141ee2b67929",
+        "bytes": 31067,
+        "file": "tsl-1.2.csv"
+      }
+    ]
+  },
+  {
+    "key": "wordfreq",
+    "title": "wordfreq English frequency data",
+    "url": "https://github.com/rspeer/wordfreq",
+    "license": "CC BY-SA 4.0 (data); Apache-2.0 (code)",
+    "attribution": "Robyn Speer; SUBTLEX authors Marc Brysbaert et al. (freely available data); OpenSubtitles; Google Books Ngram Viewer; Leeds Internet Corpus; Wikipedia; ParaCrawl.",
+    "notes": "Derived ranks/list data remain CC BY-SA 4.0. Full upstream attribution retained in notices/wordfreq-2.txt. Original rank is the position in flattened cB buckets, not a CEFR certification.",
+    "verified_at": "2026-11-23T16:40:22Z",
+    "license_evidence": [
+      {
+        "url": "https://raw.githubusercontent.com/rspeer/wordfreq/912caf64b657478d1dff1138efdc078947d54bb1/LICENSE.txt",
+        "sha256": "8990c551671a51765c4dfe9428f3e1d58dc327f49aca346a32d28cc0fcc7aa88",
+        "notice_path": "scripts/vocab/notices/wordfreq-1.txt"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/rspeer/wordfreq/912caf64b657478d1dff1138efdc078947d54bb1/NOTICE.md",
+        "sha256": "d9b104dafe63886af55e7cea7484824e32e12d4e1f57f319923dd643b36d6b15",
+        "notice_path": "scripts/vocab/notices/wordfreq-2.txt"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "https://raw.githubusercontent.com/rspeer/wordfreq/912caf64b657478d1dff1138efdc078947d54bb1/wordfreq/data/large_en.msgpack.gz",
+        "sha256": "dffae8066b78dce0a6667cf5f58e567054f902674667090a7ac8a8a44628b05c",
+        "bytes": 1494836,
+        "file": "wordfreq-en.msgpack.gz"
+      }
+    ],
+    "revision": "912caf64b657478d1dff1138efdc078947d54bb1"
+  }
+]

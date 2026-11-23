@@ -1,0 +1,13 @@
+{
+  "generator": "espeak-ng (configure installed executable and verify voice terms)",
+  "command": "espeak-ng",
+  "args": ["-v", "{voice}", "-w", "{output}", "--stdin"],
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "timeout_ms": 120000,
+  "voices": {
+    "us": {"id": "en-us", "locale": "en-US", "license": "REPLACE_WITH_VERIFIED_VOICE_TERMS", "license_url": "REPLACE_WITH_OFFICIAL_LICENSE_URL"},
+    "uk": {"id": "en-gb", "locale": "en-GB", "license": "REPLACE_WITH_VERIFIED_VOICE_TERMS", "license_url": "REPLACE_WITH_OFFICIAL_LICENSE_URL"}
+  },
+  "speakers": {"M": "us", "M1": "us", "M2": "uk", "W": "uk", "W1": "uk", "W2": "us", "N": "us", "Q": "us"}
+}

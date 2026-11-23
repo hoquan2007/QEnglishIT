@@ -1,6 +1,6 @@
 # Tiến độ clone — QEnglishIT
 
-Cập nhật: 23/11/2026
+Cập nhật: 24/11/2026
 
 ## Tổng quan
 
@@ -51,3 +51,59 @@ Cập nhật: 23/11/2026
 | Hỏi AI | Chưa có | Route handler gọi Claude API |
 | Admin CRUD | Chỉ thống kê / phản hồi / duyệt đánh giá | Trình soạn đề & import Excel |
 | Bộ từ 1000/50 ngày | 20/50 ngày | Bổ sung ngày 21–50 |
+
+## Mở rộng dữ liệu theo Plandataenglish — 23–24/11/2026
+
+**Toàn bộ kế hoạch chưa hoàn thành.** Đã triển khai nền tảng S0, một phần S1 và các lô đầu tiên của S7/S8. Chưa đạt điều kiện tạo PR `content: data expansion v1`.
+
+### Kết quả đã kiểm chứng trên Supabase
+
+| Hạng mục | Hiện tại | Thay đổi trong đợt này |
+|---|---:|---|
+| Đề thi | 8 | Thêm 1 Part 5 và 5 vocab test; cả 6 đang nháp |
+| Đề đã xuất bản | 2 | Giữ hai đề cũ; không tự xuất bản đề chưa được admin duyệt |
+| Câu hỏi | 690 | Thêm 290; đã giải độc lập toàn bộ câu mới, sửa các câu mơ hồ rồi giải lại |
+| Fingerprint | 690/690 | Không thiếu, không trùng; chạy lại seed giữ nguyên ID nhóm/câu |
+| Từ vựng DB | 1.553 bản ghi / 1.534 lemma | Chưa nạp headword thô thành từ hoàn chỉnh |
+| Cụm từ | 200 | 50 phrasal verbs, 50 idioms, 100 collocations; hai ví dụ song ngữ/mục |
+| Bài âm IPA | 44 | 217 lượt cặp tối thiểu / 154 cặp khác nhau; chưa đạt 300 cặp |
+| Động từ bất quy tắc | 100 | Chưa đạt 200 |
+| Tài liệu | 26 | Thêm 16 liên kết tài nguyên ngoài, không sao chép nội dung |
+| Danh mục nguồn | 11 | Giấy phép và ghi công đã lưu; có trang `/nguon-tai-lieu` |
+
+Migration `0004_content_expansion.sql` và `0005_listening_media.sql` đã áp dụng thực tế.
+Migration 0005 bổ sung cột audio cho bài nghe độc lập, còn thiếu trong schema cũ.
+RLS chặn người đọc ẩn danh truy cập đề nháp và câu hỏi nháp; nguồn tài liệu vẫn đọc công khai.
+
+### Danh sách từ và media
+
+- `content/vocab/headwords.json`: **10.500 lemma**, chuẩn hóa các cặp chính tả đã có chứng cứ và bổ sung lại sau khi gộp trùng.
+- Kho IPA riêng: US **10.383**, UK **10.127**, có cả hai **10.068**; thiếu 117 US và 373 UK. **S1 chưa đạt 100%**.
+- CEFR suy từ rank được phân biệt với mức có trong CEFR-J. Từ thiếu POS/rank vẫn được báo, không tự bịa thông tin.
+- Đây là danh sách chờ biên soạn; chưa có 10.000 từ hoàn chỉnh với nghĩa, hai ví dụ song ngữ và audio trong DB.
+- Pipeline TTS/upload đã có và kiểm tra chế độ lỗi/resume; **chưa sinh hoặc upload audio**. Cần cấu hình engine/voice thực tế và FFmpeg/FFprobe.
+- IPA UK của ipa-dict có nguồn **GPL-3.0**, không phải MIT như giả định trong plan; giữ riêng dữ liệu và thông báo giấy phép. Không đổi nhãn thành nội dung gốc.
+
+### Kiểm tra
+
+- `npm run content:test`: **49/49 pass**; Python vocabulary: **5/5 pass**.
+- `npm run typecheck`: pass; ESLint: 0 lỗi, hai cảnh báo điều hướng có sẵn.
+- `npm run seed -- --dry-run`: pass, 0 lỗi; **10.580 cảnh báo** về dữ liệu cũ còn thiếu chuẩn mở rộng được giữ nguyên để xử lý, không coi là đã hoàn thiện.
+- Các lô mới qua validator strict. Sáu kết quả giải độc lập và sáu mẫu admin đang chờ đã ghi vào `content_qa`.
+- `/nguon-tai-lieu`: HTTP 200, đọc được nguồn US/UK và giấy phép GPL. Trình duyệt tích hợp không truy cập được localhost; chưa có xác minh ảnh chụp giao diện.
+- `npm run build -- --webpack`: pass. Build mặc định Turbopack lỗi tạo tiến trình xử lý CSS, kể cả chạy ngoài sandbox; chưa sửa lỗi môi trường này.
+- Advisors: không phát sinh cảnh báo bảo mật mới. Vẫn có 7 cảnh báo quyền hàm cho anon và 8 cho authenticated từ trước; performance còn một FK cũ thiếu index và thông tin index chưa được dùng. Không báo hệ thống đã sạch toàn bộ advisors.
+
+Báo cáo số liệu thực tế: `content/_reports/expansion-2026-11-23.json`.
+Hướng dẫn chạy: `docs/CONTENT_EXPANSION.md`, `scripts/vocab/README.md`, `scripts/audio/README.md`.
+Mẫu cần admin kiểm tra: `docs/ADMIN_CONTENT_REVIEW.md` (chưa đánh dấu duyệt).
+
+### Việc tiếp theo
+
+1. Bổ sung IPA còn thiếu và duyệt POS/CEFR; biên soạn 21 lô từ hoàn chỉnh, không dùng danh sách headword thay thế dữ liệu học tập.
+2. Thiết lập TTS/FFmpeg, tạo và kiểm tra audio thật trước khi upload; kiểm tra dung lượng Storage trước các lô lớn.
+3. Biên soạn đủ đề, audio và ảnh theo S4–S6/S9–S11; hiện mới có 8/300 đề và 690/25.000 câu.
+4. Mở rộng phrases, minimal pairs, irregular verbs; thêm grammar/reading/listening/speaking/writing/blog/courses theo mục tiêu.
+5. Hoàn thiện UI loại đề/câu hỏi mới và các trang học liệu; admin duyệt mẫu trước khi xuất bản.
+
+Các sai lệch số học của plan đã ghi tại `docs/CONTENT_EXPANSION.md`: 315 đề mới theo tổng từng dòng; cần thêm 372 bài nghe để từ 28 lên 400.

@@ -9,7 +9,12 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "seed": "node --env-file=.env.local scripts/seed.mjs"
+    "seed": "node --env-file-if-exists=.env.local scripts/seed.mjs",
+    "content:validate": "node scripts/validate/validate-content.mjs",
+    "content:qa": "node --env-file-if-exists=.env.local scripts/qa/report.mjs",
+    "content:test": "node --test scripts/validate/*.test.mjs scripts/qa/*.test.mjs scripts/audio/*.test.mjs scripts/bank-tests.test.mjs",
+    "vocab:build": "node scripts/vocab/build-wordlist.mjs",
+    "vocab:ipa": "node scripts/vocab/enrich-ipa.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.7.0",

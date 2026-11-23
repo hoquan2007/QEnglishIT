@@ -1,0 +1,30 @@
+{
+  "slug": "qe-vocab-b2-001",
+  "revision": "6539a5505e86d8ff7bb59b67e1cde5de935192a703c218ee9f33a9f33530f72e",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": [
+    "Whole pack: most distractors are repeated unrelated meanings, offering little B2-level discrimination. Best answers independently selected from the option meanings follow a predictable A-B-C-D sequence through Q50.",
+    "Q6 (B): kiệt sức vì công việc captures the occupational sense of burnout. It is clearer as tình trạng kiệt sức do căng thẳng kéo dài trong công việc, distinguishing burnout from ordinary temporary tiredness.",
+    "Q11 (C): khấu trừ tại nguồn is a specialised tax/payroll sense of withhold, not an adequate general gloss of the isolated verb. General senses include giữ lại, không cung cấp/tiết lộ. C is the only defensible option here, but add withhold tax / payroll context or change the gloss.",
+    "Q15 (C): đề xuất biểu quyết is awkward and can sound like a proposal to hold a vote. A procedural motion is a kiến nghị/đề nghị chính thức đưa ra để thảo luận hoặc biểu quyết. The much broader movement sense of motion is unspecified; add meeting context.",
+    "Q20 (D): khí thải is a common environmental sense but narrows emission to gas. The noun can mean sự phát thải or something emitted, including radiation; add an exhaust/pollution context or use sự phát thải.",
+    "Q21 (A): khoản nợ phải trả is valid in accounting, but liability can also mean legal responsibility or a disadvantage. Add accounting context; avoid implying this is the only meaning of the isolated noun.",
+    "Q26 (B): điều khoản is valid for a contractual/legal provision, whereas provision can also mean supplying or providing something. A contract context would make the selected sense explicit.",
+    "Q33 (A): hàng xuất khẩu is valid for exported goods; export as a noun can also denote the act/process of exporting. No competing option is correct, but context would clarify the intended sense.",
+    "Q36 (D): đông dân cư is understandable but can suggest a large population rather than high density. Có mật độ dân số cao / dân cư đông đúc is more precise for densely populated.",
+    "Q38 (B): thời gian học nghề captures a period sense of apprenticeship but not its training/employment arrangement. Chương trình/thời gian đào tạo nghề theo hình thức học việc is more informative.",
+    "Q39 (C): ngay lập tức is stronger than promptly, which can mean nhanh chóng / không chậm trễ and sometimes đúng giờ. C is best among these options; nhanh chóng, không chậm trễ is a safer isolated gloss. Distractor A (do đó; phù hợp) also mixes an adverbial expression with an unmarked adjective.",
+    "Q50 (B): tư cách đủ điều kiện is awkward/redundant Vietnamese. Việc đáp ứng đủ điều kiện or tình trạng đủ điều kiện expresses eligibility more naturally."
+  ],
+  "admin_sample": [
+    28,
+    37,
+    50
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}
