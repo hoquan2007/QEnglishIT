@@ -1,0 +1,11 @@
+{
+  "name": "qenglishit-rea-tools",
+  "private": true,
+  "scripts": {
+    "rea": "node node_modules/rea-agents/scripts/rea.mjs"
+  },
+  "dependencies": {
+    "node": "24.22.3",
+    "rea-agents": "6.10.1"
+  }
+}

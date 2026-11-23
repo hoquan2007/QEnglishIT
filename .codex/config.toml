@@ -1,0 +1,3 @@
+[mcp_servers.rea]
+command = 'D:\QEnglishIT\tools\rea\node_modules\node\bin\node.exe'
+args = ['D:\QEnglishIT\tools\rea\node_modules\rea-agents\scripts\rea.mjs', 'mcp']
