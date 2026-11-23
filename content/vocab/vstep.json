@@ -1,0 +1,938 @@
+{
+ "slug": "vstep",
+ "family": "vstep",
+ "title": "Từ vựng VSTEP",
+ "description": "Từ vựng VSTEP theo các bậc 3, 4, 5.",
+ "level": null,
+ "color": "#ef4444",
+ "sort_order": 5,
+ "lessons": [
+  {
+   "slug": "bac-3",
+   "title": "Level 3",
+   "title_vi": "Bậc 3 (B1)",
+   "day_number": null,
+   "sort_order": 1,
+   "words": [
+    {
+     "word": "accept",
+     "ipa": "/əkˈsept/",
+     "pos": "v",
+     "meaning_vi": "chấp nhận",
+     "definition_en": "to agree to take something offered",
+     "example_en": "She accepted the job offer yesterday.",
+     "example_vi": "Hôm qua cô ấy đã chấp nhận lời mời làm việc.",
+     "cefr": "B1"
+    },
+    {
+     "word": "activity",
+     "ipa": "/ækˈtɪvəti/",
+     "pos": "n",
+     "meaning_vi": "hoạt động",
+     "definition_en": "something that people do for pleasure or a purpose",
+     "example_en": "Swimming is my favorite activity.",
+     "example_vi": "Bơi lội là hoạt động yêu thích của tôi.",
+     "cefr": "B1"
+    },
+    {
+     "word": "advice",
+     "ipa": "/ədˈvaɪs/",
+     "pos": "n",
+     "meaning_vi": "lời khuyên",
+     "definition_en": "an opinion about what someone should do",
+     "example_en": "My teacher gave me useful advice about studying.",
+     "example_vi": "Giáo viên cho tôi lời khuyên hữu ích về việc học.",
+     "cefr": "B1"
+    },
+    {
+     "word": "allow",
+     "ipa": "/əˈlaʊ/",
+     "pos": "v",
+     "meaning_vi": "cho phép",
+     "definition_en": "to let someone do something",
+     "example_en": "Phones are not allowed in the exam room.",
+     "example_vi": "Điện thoại không được phép mang vào phòng thi.",
+     "cefr": "B1"
+    },
+    {
+     "word": "appear",
+     "ipa": "/əˈpɪər/",
+     "pos": "v",
+     "meaning_vi": "xuất hiện",
+     "definition_en": "to come into view",
+     "example_en": "A rainbow appeared after the storm.",
+     "example_vi": "Một chiếc cầu vồng xuất hiện sau cơn bão.",
+     "cefr": "B1"
+    },
+    {
+     "word": "attend",
+     "ipa": "/əˈtend/",
+     "pos": "v",
+     "meaning_vi": "tham dự",
+     "definition_en": "to go to an event or class",
+     "example_en": "He attends evening classes twice a week.",
+     "example_vi": "Anh ấy tham dự lớp buổi tối hai lần mỗi tuần.",
+     "cefr": "B1"
+    },
+    {
+     "word": "audience",
+     "ipa": "/ˈɔːdiəns/",
+     "pos": "n",
+     "meaning_vi": "khán giả",
+     "definition_en": "people watching a show",
+     "example_en": "The audience laughed at every joke.",
+     "example_vi": "Khán giả cười trước mọi câu đùa.",
+     "cefr": "B1"
+    },
+    {
+     "word": "available",
+     "ipa": "/əˈveɪləbl/",
+     "pos": "adj",
+     "meaning_vi": "có sẵn",
+     "definition_en": "able to be used or obtained",
+     "example_en": "Tickets are available at the entrance.",
+     "example_vi": "Vé có sẵn ở lối vào.",
+     "cefr": "B1"
+    },
+    {
+     "word": "background",
+     "ipa": "/ˈbækɡraʊnd/",
+     "pos": "n",
+     "meaning_vi": "bối cảnh, lý lịch",
+     "definition_en": "a person's experience or family history",
+     "example_en": "Her background is in nursing.",
+     "example_vi": "Lý lịch của cô ấy là ngành điều dưỡng.",
+     "cefr": "B1"
+    },
+    {
+     "word": "careful",
+     "ipa": "/ˈkeəfl/",
+     "pos": "adj",
+     "meaning_vi": "cẩn thận",
+     "definition_en": "taking care to avoid mistakes",
+     "example_en": "Be careful when you cross the road.",
+     "example_vi": "Hãy cẩn thận khi bạn băng qua đường.",
+     "cefr": "B1"
+    },
+    {
+     "word": "century",
+     "ipa": "/ˈsentʃəri/",
+     "pos": "n",
+     "meaning_vi": "thế kỷ",
+     "definition_en": "a period of one hundred years",
+     "example_en": "The temple is over a century old.",
+     "example_vi": "Ngôi đền đã hơn một thế kỷ tuổi.",
+     "cefr": "B1"
+    },
+    {
+     "word": "chance",
+     "ipa": "/tʃɑːns/",
+     "pos": "n",
+     "meaning_vi": "cơ hội",
+     "definition_en": "a possibility of something happening",
+     "example_en": "There is a good chance of rain tonight.",
+     "example_vi": "Tối nay có nhiều khả năng sẽ mưa.",
+     "cefr": "B1"
+    },
+    {
+     "word": "competition",
+     "ipa": "/ˌkɒmpəˈtɪʃn/",
+     "pos": "n",
+     "meaning_vi": "cuộc thi",
+     "definition_en": "an event where people try to win",
+     "example_en": "She won first prize in the singing competition.",
+     "example_vi": "Cô ấy giành giải nhất cuộc thi hát.",
+     "cefr": "B1"
+    },
+    {
+     "word": "condition",
+     "ipa": "/kənˈdɪʃn/",
+     "pos": "n",
+     "meaning_vi": "điều kiện, tình trạng",
+     "definition_en": "the state of something",
+     "example_en": "The bike is in good condition.",
+     "example_vi": "Chiếc xe đạp ở tình trạng tốt.",
+     "cefr": "B1"
+    },
+    {
+     "word": "customer",
+     "ipa": "/ˈkʌstəmə/",
+     "pos": "n",
+     "meaning_vi": "khách hàng",
+     "definition_en": "a person who buys goods or services",
+     "example_en": "The customer asked for a refund.",
+     "example_vi": "Khách hàng yêu cầu hoàn tiền.",
+     "cefr": "B1"
+    },
+    {
+     "word": "direction",
+     "ipa": "/dəˈrekʃn/",
+     "pos": "n",
+     "meaning_vi": "hướng",
+     "definition_en": "the way something moves or faces",
+     "example_en": "The wind changed direction this afternoon.",
+     "example_vi": "Gió đã đổi hướng chiều nay.",
+     "cefr": "B1"
+    },
+    {
+     "word": "disappear",
+     "ipa": "/ˌdɪsəˈpɪər/",
+     "pos": "v",
+     "meaning_vi": "biến mất",
+     "definition_en": "to stop being visible",
+     "example_en": "The sun disappeared behind the clouds.",
+     "example_vi": "Mặt trời biến mất sau những đám mây.",
+     "cefr": "B1"
+    },
+    {
+     "word": "education",
+     "ipa": "/ˌedʒuˈkeɪʃn/",
+     "pos": "n",
+     "meaning_vi": "giáo dục",
+     "definition_en": "the process of learning in school",
+     "example_en": "Good education opens many doors.",
+     "example_vi": "Giáo dục tốt mở ra nhiều cánh cửa.",
+     "cefr": "B1"
+    },
+    {
+     "word": "enjoy",
+     "ipa": "/ɪnˈdʒɔɪ/",
+     "pos": "v",
+     "meaning_vi": "thích thú",
+     "definition_en": "to get pleasure from something",
+     "example_en": "They enjoyed the picnic by the lake.",
+     "example_vi": "Họ rất thích buổi dã ngoại bên hồ.",
+     "cefr": "B1"
+    },
+    {
+     "word": "event",
+     "ipa": "/ɪˈvent/",
+     "pos": "n",
+     "meaning_vi": "sự kiện",
+     "definition_en": "something that happens",
+     "example_en": "The school holds a sports event every spring.",
+     "example_vi": "Trường tổ chức một sự kiện thể thao vào mỗi mùa xuân.",
+     "cefr": "B1"
+    },
+    {
+     "word": "exercise",
+     "ipa": "/ˈeksəsaɪz/",
+     "pos": "n",
+     "meaning_vi": "bài tập, sự tập luyện",
+     "definition_en": "physical activity to stay healthy",
+     "example_en": "Daily exercise keeps him fit.",
+     "example_vi": "Tập luyện hằng ngày giúp anh ấy khỏe mạnh.",
+     "cefr": "B1"
+    },
+    {
+     "word": "fashionable",
+     "ipa": "/ˈfæʃnəbl/",
+     "pos": "adj",
+     "meaning_vi": "hợp thời trang",
+     "definition_en": "popular at a particular time",
+     "example_en": "Her fashionable coat attracted attention.",
+     "example_vi": "Chiếc áo khoác hợp thời trang của cô ấy thu hút sự chú ý.",
+     "cefr": "B1"
+    },
+    {
+     "word": "generous",
+     "ipa": "/ˈdʒenərəs/",
+     "pos": "adj",
+     "meaning_vi": "hào phóng",
+     "definition_en": "willing to give more than is expected",
+     "example_en": "He is generous with his time.",
+     "example_vi": "Anh ấy hào phóng với thời gian của mình.",
+     "cefr": "B1"
+    },
+    {
+     "word": "improve",
+     "ipa": "/ɪmˈpruːv/",
+     "pos": "v",
+     "meaning_vi": "cải thiện",
+     "definition_en": "to become or make better",
+     "example_en": "My English has improved a lot this year.",
+     "example_vi": "Tiếng Anh của tôi đã cải thiện nhiều trong năm nay.",
+     "cefr": "B1"
+    },
+    {
+     "word": "instruction",
+     "ipa": "/ɪnˈstrʌkʃn/",
+     "pos": "n",
+     "meaning_vi": "hướng dẫn",
+     "definition_en": "information about how to do something",
+     "example_en": "Read the instructions before you start.",
+     "example_vi": "Hãy đọc hướng dẫn trước khi bạn bắt đầu.",
+     "cefr": "B1"
+    },
+    {
+     "word": "journey",
+     "ipa": "/ˈdʒɜːni/",
+     "pos": "n",
+     "meaning_vi": "chuyến đi",
+     "definition_en": "a trip from one place to another",
+     "example_en": "The journey by train was comfortable.",
+     "example_vi": "Chuyến đi bằng tàu rất thoải mái.",
+     "cefr": "B1"
+    },
+    {
+     "word": "neighbourhood",
+     "ipa": "/ˈneɪbəhʊd/",
+     "pos": "n",
+     "meaning_vi": "khu dân cư",
+     "definition_en": "the area around where you live",
+     "example_en": "It is a friendly neighbourhood with a small market.",
+     "example_vi": "Đó là một khu dân cư thân thiện có một khu chợ nhỏ.",
+     "cefr": "B1"
+    },
+    {
+     "word": "passion",
+     "ipa": "/ˈpæʃn/",
+     "pos": "n",
+     "meaning_vi": "niềm đam mê",
+     "definition_en": "a strong feeling of enthusiasm",
+     "example_en": "Cooking is her passion.",
+     "example_vi": "Nấu ăn là niềm đam mê của cô ấy.",
+     "cefr": "B1"
+    },
+    {
+     "word": "suggest",
+     "ipa": "/səˈdʒest/",
+     "pos": "v",
+     "meaning_vi": "đề nghị",
+     "definition_en": "to offer an idea or plan",
+     "example_en": "I suggest we meet at the station.",
+     "example_vi": "Tôi đề nghị chúng ta gặp nhau ở nhà ga.",
+     "cefr": "B1"
+    },
+    {
+     "word": "volunteer",
+     "ipa": "/ˌvɒlənˈtɪər/",
+     "pos": "n",
+     "meaning_vi": "tình nguyện viên",
+     "definition_en": "a person who works without payment",
+     "example_en": "Volunteers cleaned the beach on Sunday.",
+     "example_vi": "Các tình nguyện viên đã dọn dẹp bãi biển vào Chủ nhật.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "slug": "bac-4",
+   "title": "Level 4",
+   "title_vi": "Bậc 4 (B2)",
+   "day_number": null,
+   "sort_order": 2,
+   "words": [
+    {
+     "word": "abandon",
+     "ipa": "/əˈbændən/",
+     "pos": "v",
+     "meaning_vi": "bỏ rơi, từ bỏ",
+     "definition_en": "to leave something completely",
+     "example_en": "The villagers abandoned their homes after the flood.",
+     "example_vi": "Dân làng bỏ lại nhà cửa sau trận lũ.",
+     "cefr": "B2"
+    },
+    {
+     "word": "absorb",
+     "ipa": "/əbˈzɔːb/",
+     "pos": "v",
+     "meaning_vi": "hấp thụ",
+     "definition_en": "to take in a liquid or information",
+     "example_en": "Plants absorb water through their roots.",
+     "example_vi": "Cây hấp thụ nước qua rễ.",
+     "cefr": "B2"
+    },
+    {
+     "word": "accumulate",
+     "ipa": "/əˈkjuːmjəleɪt/",
+     "pos": "v",
+     "meaning_vi": "tích lũy",
+     "definition_en": "to gradually get more of something",
+     "example_en": "Dust accumulated on the old shelves.",
+     "example_vi": "Bụi tích tụ trên những kệ cũ.",
+     "cefr": "B2"
+    },
+    {
+     "word": "adolescent",
+     "ipa": "/ˌædəˈlesnt/",
+     "pos": "n",
+     "meaning_vi": "thanh thiếu niên",
+     "definition_en": "a young person between child and adult",
+     "example_en": "Adolescents need more sleep than adults.",
+     "example_vi": "Thanh thiếu niên cần ngủ nhiều hơn người lớn.",
+     "cefr": "B2"
+    },
+    {
+     "word": "affect",
+     "ipa": "/əˈfekt/",
+     "pos": "v",
+     "meaning_vi": "ảnh hưởng",
+     "definition_en": "to have an influence on something",
+     "example_en": "Lack of sleep affects your concentration.",
+     "example_vi": "Thiếu ngủ ảnh hưởng đến sự tập trung của bạn.",
+     "cefr": "B2"
+    },
+    {
+     "word": "alternative",
+     "ipa": "/ɔːlˈtɜːnətɪv/",
+     "pos": "n",
+     "meaning_vi": "giải pháp thay thế",
+     "definition_en": "another choice or possibility",
+     "example_en": "Cycling is a healthy alternative to driving.",
+     "example_vi": "Đạp xe là giải pháp thay thế lành mạnh cho việc lái xe.",
+     "cefr": "B2"
+    },
+    {
+     "word": "ancient",
+     "ipa": "/ˈeɪnʃənt/",
+     "pos": "adj",
+     "meaning_vi": "cổ xưa",
+     "definition_en": "very old, from a long time ago",
+     "example_en": "They visited the ancient capital of Hue.",
+     "example_vi": "Họ đã tham quan cố đô Huế cổ kính.",
+     "cefr": "B2"
+    },
+    {
+     "word": "appreciate",
+     "ipa": "/əˈpriːʃieɪt/",
+     "pos": "v",
+     "meaning_vi": "trân trọng, đánh giá cao",
+     "definition_en": "to value something properly",
+     "example_en": "I appreciate your help with the move.",
+     "example_vi": "Tôi trân trọng sự giúp đỡ của bạn khi chuyển nhà.",
+     "cefr": "B2"
+    },
+    {
+     "word": "assess",
+     "ipa": "/əˈses/",
+     "pos": "v",
+     "meaning_vi": "đánh giá",
+     "definition_en": "to judge the quality or level of something",
+     "example_en": "Teachers assess students through projects.",
+     "example_vi": "Giáo viên đánh giá học sinh qua các dự án.",
+     "cefr": "B2"
+    },
+    {
+     "word": "awareness",
+     "ipa": "/əˈweənəs/",
+     "pos": "n",
+     "meaning_vi": "nhận thức",
+     "definition_en": "knowledge that something exists",
+     "example_en": "The campaign raised awareness of road safety.",
+     "example_vi": "Chiến dịch nâng cao nhận thức về an toàn giao thông.",
+     "cefr": "B2"
+    },
+    {
+     "word": "capable",
+     "ipa": "/ˈkeɪpəbl/",
+     "pos": "adj",
+     "meaning_vi": "có khả năng",
+     "definition_en": "having the ability to do something",
+     "example_en": "She is capable of leading a large team.",
+     "example_vi": "Cô ấy có khả năng lãnh đạo một nhóm lớn.",
+     "cefr": "B2"
+    },
+    {
+     "word": "cooperate",
+     "ipa": "/kəʊˈɒpəreɪt/",
+     "pos": "v",
+     "meaning_vi": "hợp tác",
+     "definition_en": "to work together for a shared aim",
+     "example_en": "Neighbors cooperated to clean the canal.",
+     "example_vi": "Hàng xóm hợp tác để dọn dẹp con kênh.",
+     "cefr": "B2"
+    },
+    {
+     "word": "dedicate",
+     "ipa": "/ˈdedɪkeɪt/",
+     "pos": "v",
+     "meaning_vi": "cống hiến",
+     "definition_en": "to give time and energy to a purpose",
+     "example_en": "He dedicated his life to teaching.",
+     "example_vi": "Ông ấy đã cống hiến cả đời cho nghề dạy học.",
+     "cefr": "B2"
+    },
+    {
+     "word": "distribute",
+     "ipa": "/dɪˈstrɪbjuːt/",
+     "pos": "v",
+     "meaning_vi": "phân phát",
+     "definition_en": "to give things out to many people",
+     "example_en": "Volunteers distributed food to flood victims.",
+     "example_vi": "Tình nguyện viên phân phát thức ăn cho nạn nhân lũ lụt.",
+     "cefr": "B2"
+    },
+    {
+     "word": "efficient",
+     "ipa": "/ɪˈfɪʃnt/",
+     "pos": "adj",
+     "meaning_vi": "hiệu quả",
+     "definition_en": "working well with little waste",
+     "example_en": "An efficient bus system saves time and fuel.",
+     "example_vi": "Hệ thống xe buýt hiệu quả tiết kiệm thời gian và nhiên liệu.",
+     "cefr": "B2"
+    },
+    {
+     "word": "encounter",
+     "ipa": "/ɪnˈkaʊntə/",
+     "pos": "v",
+     "meaning_vi": "gặp phải",
+     "definition_en": "to meet or experience something unexpectedly",
+     "example_en": "We encountered heavy traffic near the bridge.",
+     "example_vi": "Chúng tôi gặp phải tình trạng kẹt xe gần cây cầu.",
+     "cefr": "B2"
+    },
+    {
+     "word": "establish",
+     "ipa": "/ɪˈstæblɪʃ/",
+     "pos": "v",
+     "meaning_vi": "thành lập",
+     "definition_en": "to set up an organization",
+     "example_en": "The school was established in 1960.",
+     "example_vi": "Ngôi trường được thành lập vào năm 1960.",
+     "cefr": "B2"
+    },
+    {
+     "word": "exhaust",
+     "ipa": "/ɪɡˈzɔːst/",
+     "pos": "v",
+     "meaning_vi": "làm kiệt sức",
+     "definition_en": "to make someone extremely tired",
+     "example_en": "The long hike exhausted the children.",
+     "example_vi": "Chuyến đi bộ dài làm bọn trẻ kiệt sức.",
+     "cefr": "B2"
+    },
+    {
+     "word": "fundamental",
+     "ipa": "/ˌfʌndəˈmentl/",
+     "pos": "adj",
+     "meaning_vi": "cơ bản",
+     "definition_en": "forming the base of something",
+     "example_en": "Respect is fundamental to any friendship.",
+     "example_vi": "Sự tôn trọng là điều cơ bản của mọi tình bạn.",
+     "cefr": "B2"
+    },
+    {
+     "word": "hesitate",
+     "ipa": "/ˈhezɪteɪt/",
+     "pos": "v",
+     "meaning_vi": "do dự",
+     "definition_en": "to pause before acting",
+     "example_en": "Don't hesitate to ask if you need help.",
+     "example_vi": "Đừng ngần ngại hỏi nếu bạn cần giúp đỡ.",
+     "cefr": "B2"
+    },
+    {
+     "word": "inspire",
+     "ipa": "/ɪnˈspaɪə/",
+     "pos": "v",
+     "meaning_vi": "truyền cảm hứng",
+     "definition_en": "to make someone want to do something",
+     "example_en": "Her story inspired many young readers.",
+     "example_vi": "Câu chuyện của cô ấy truyền cảm hứng cho nhiều độc giả trẻ.",
+     "cefr": "B2"
+    },
+    {
+     "word": "leisure",
+     "ipa": "/ˈleʒə/",
+     "pos": "n",
+     "meaning_vi": "thời gian rảnh",
+     "definition_en": "free time to relax",
+     "example_en": "He spends his leisure time painting.",
+     "example_vi": "Anh ấy dành thời gian rảnh để vẽ tranh.",
+     "cefr": "B2"
+    },
+    {
+     "word": "migrate",
+     "ipa": "/maɪˈɡreɪt/",
+     "pos": "v",
+     "meaning_vi": "di cư",
+     "definition_en": "to move to another area or country",
+     "example_en": "Many birds migrate south in winter.",
+     "example_vi": "Nhiều loài chim di cư về phía nam vào mùa đông.",
+     "cefr": "B2"
+    },
+    {
+     "word": "obstacle",
+     "ipa": "/ˈɒbstəkl/",
+     "pos": "n",
+     "meaning_vi": "trở ngại",
+     "definition_en": "something that blocks progress",
+     "example_en": "Lack of money was the main obstacle.",
+     "example_vi": "Thiếu tiền là trở ngại chính.",
+     "cefr": "B2"
+    },
+    {
+     "word": "participate",
+     "ipa": "/pɑːˈtɪsɪpeɪt/",
+     "pos": "v",
+     "meaning_vi": "tham gia",
+     "definition_en": "to take part in something",
+     "example_en": "All students are encouraged to participate in class.",
+     "example_vi": "Mọi học sinh được khuyến khích tham gia trong lớp.",
+     "cefr": "B2"
+    },
+    {
+     "word": "priority",
+     "ipa": "/praɪˈɒrəti/",
+     "pos": "n",
+     "meaning_vi": "sự ưu tiên",
+     "definition_en": "something that is most important",
+     "example_en": "Health should be everyone's priority.",
+     "example_vi": "Sức khỏe nên là ưu tiên của mọi người.",
+     "cefr": "B2"
+    },
+    {
+     "word": "reputation",
+     "ipa": "/ˌrepjuˈteɪʃn/",
+     "pos": "n",
+     "meaning_vi": "danh tiếng",
+     "definition_en": "the opinion people have about someone",
+     "example_en": "The bakery has an excellent reputation.",
+     "example_vi": "Tiệm bánh có danh tiếng rất tốt.",
+     "cefr": "B2"
+    },
+    {
+     "word": "significant",
+     "ipa": "/sɪɡˈnɪfɪkənt/",
+     "pos": "adj",
+     "meaning_vi": "đáng kể",
+     "definition_en": "large or important enough to notice",
+     "example_en": "There was a significant rise in prices.",
+     "example_vi": "Có một sự tăng giá đáng kể.",
+     "cefr": "B2"
+    },
+    {
+     "word": "tolerate",
+     "ipa": "/ˈtɒləreɪt/",
+     "pos": "v",
+     "meaning_vi": "chịu đựng, khoan dung",
+     "definition_en": "to accept something unpleasant",
+     "example_en": "I cannot tolerate such loud music.",
+     "example_vi": "Tôi không thể chịu nổi âm nhạc ồn ào như vậy.",
+     "cefr": "B2"
+    },
+    {
+     "word": "vulnerable",
+     "ipa": "/ˈvʌlnərəbl/",
+     "pos": "adj",
+     "meaning_vi": "dễ bị tổn thương",
+     "definition_en": "easily harmed or hurt",
+     "example_en": "Old people are vulnerable to extreme heat.",
+     "example_vi": "Người già dễ bị tổn thương do nắng nóng cực độ.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "slug": "bac-5",
+   "title": "Level 5",
+   "title_vi": "Bậc 5 (C1)",
+   "day_number": null,
+   "sort_order": 3,
+   "words": [
+    {
+     "word": "abundant",
+     "ipa": "/əˈbʌndənt/",
+     "pos": "adj",
+     "meaning_vi": "dồi dào",
+     "definition_en": "existing in large quantities",
+     "example_en": "The region has abundant natural resources.",
+     "example_vi": "Vùng này có nguồn tài nguyên thiên nhiên dồi dào.",
+     "cefr": "C1"
+    },
+    {
+     "word": "aesthetic",
+     "ipa": "/iːsˈθetɪk/",
+     "pos": "adj",
+     "meaning_vi": "thuộc thẩm mỹ",
+     "definition_en": "relating to beauty and appearance",
+     "example_en": "The architect cared about aesthetic quality.",
+     "example_vi": "Kiến trúc sư quan tâm đến chất lượng thẩm mỹ.",
+     "cefr": "C1"
+    },
+    {
+     "word": "alleviate",
+     "ipa": "/əˈliːvieɪt/",
+     "pos": "v",
+     "meaning_vi": "làm dịu bớt",
+     "definition_en": "to make pain or a problem less severe",
+     "example_en": "New buses will alleviate traffic jams.",
+     "example_vi": "Xe buýt mới sẽ làm giảm bớt tình trạng kẹt xe.",
+     "cefr": "C1"
+    },
+    {
+     "word": "ambivalent",
+     "ipa": "/æmˈbɪvələnt/",
+     "pos": "adj",
+     "meaning_vi": "mâu thuẫn, lưỡng lự",
+     "definition_en": "having mixed feelings about something",
+     "example_en": "She felt ambivalent about moving abroad.",
+     "example_vi": "Cô ấy cảm thấy mâu thuẫn về việc chuyển ra nước ngoài.",
+     "cefr": "C1"
+    },
+    {
+     "word": "attribute",
+     "ipa": "/əˈtrɪbjuːt/",
+     "pos": "v",
+     "meaning_vi": "cho là do",
+     "definition_en": "to say that something is caused by something",
+     "example_en": "He attributed his success to hard work.",
+     "example_vi": "Anh ấy cho rằng thành công là nhờ làm việc chăm chỉ.",
+     "cefr": "C1"
+    },
+    {
+     "word": "bureaucracy",
+     "ipa": "/bjʊəˈrɒkrəsi/",
+     "pos": "n",
+     "meaning_vi": "bộ máy quan liêu",
+     "definition_en": "a system with too many rules and procedures",
+     "example_en": "Excess bureaucracy delays small businesses.",
+     "example_vi": "Quan liêu quá mức làm chậm các doanh nghiệp nhỏ.",
+     "cefr": "C1"
+    },
+    {
+     "word": "catalyst",
+     "ipa": "/ˈkætəlɪst/",
+     "pos": "n",
+     "meaning_vi": "chất xúc tác",
+     "definition_en": "something that causes change",
+     "example_en": "The crisis was a catalyst for reform.",
+     "example_vi": "Cuộc khủng hoảng là chất xúc tác cho cải cách.",
+     "cefr": "C1"
+    },
+    {
+     "word": "circumvent",
+     "ipa": "/ˌsɜːkəmˈvent/",
+     "pos": "v",
+     "meaning_vi": "lách, né tránh",
+     "definition_en": "to find a way around a rule or problem",
+     "example_en": "Some drivers circumvent the toll by using side roads.",
+     "example_vi": "Một số tài xế né trạm thu phí bằng cách đi đường nhánh.",
+     "cefr": "C1"
+    },
+    {
+     "word": "cohesion",
+     "ipa": "/kəʊˈhiːʒn/",
+     "pos": "n",
+     "meaning_vi": "sự gắn kết",
+     "definition_en": "the state of sticking together",
+     "example_en": "Shared festivals strengthen social cohesion.",
+     "example_vi": "Các lễ hội chung củng cố sự gắn kết xã hội.",
+     "cefr": "C1"
+    },
+    {
+     "word": "contemplate",
+     "ipa": "/ˈkɒntəmpleɪt/",
+     "pos": "v",
+     "meaning_vi": "suy ngẫm, cân nhắc",
+     "definition_en": "to think deeply about something",
+     "example_en": "He contemplated leaving the city for the countryside.",
+     "example_vi": "Anh ấy cân nhắc rời thành phố về vùng quê.",
+     "cefr": "C1"
+    },
+    {
+     "word": "detrimental",
+     "ipa": "/ˌdetrɪˈmentl/",
+     "pos": "adj",
+     "meaning_vi": "có hại",
+     "definition_en": "causing harm or damage",
+     "example_en": "Too much screen time is detrimental to children.",
+     "example_vi": "Dành quá nhiều thời gian trước màn hình có hại cho trẻ em.",
+     "cefr": "C1"
+    },
+    {
+     "word": "discern",
+     "ipa": "/dɪˈsɜːn/",
+     "pos": "v",
+     "meaning_vi": "nhận ra, phân biệt",
+     "definition_en": "to see or understand something with effort",
+     "example_en": "It is hard to discern the real cause of the delay.",
+     "example_vi": "Khó mà nhận ra nguyên nhân thực sự của sự chậm trễ.",
+     "cefr": "C1"
+    },
+    {
+     "word": "disparity",
+     "ipa": "/dɪˈspærəti/",
+     "pos": "n",
+     "meaning_vi": "sự chênh lệch",
+     "definition_en": "a large difference between things",
+     "example_en": "There is a wide disparity between rich and poor regions.",
+     "example_vi": "Có sự chênh lệch lớn giữa các vùng giàu và nghèo.",
+     "cefr": "C1"
+    },
+    {
+     "word": "eradicate",
+     "ipa": "/ɪˈrædɪkeɪt/",
+     "pos": "v",
+     "meaning_vi": "xóa bỏ hoàn toàn",
+     "definition_en": "to destroy something completely",
+     "example_en": "The campaign aims to eradicate polio.",
+     "example_vi": "Chiến dịch nhằm xóa sổ bệnh bại liệt.",
+     "cefr": "C1"
+    },
+    {
+     "word": "exemplify",
+     "ipa": "/ɪɡˈzemplɪfaɪ/",
+     "pos": "v",
+     "meaning_vi": "là ví dụ điển hình",
+     "definition_en": "to be a typical example of something",
+     "example_en": "The village exemplifies traditional rural life.",
+     "example_vi": "Ngôi làng là ví dụ điển hình của cuộc sống nông thôn truyền thống.",
+     "cefr": "C1"
+    },
+    {
+     "word": "formidable",
+     "ipa": "/ˈfɔːmɪdəbl/",
+     "pos": "adj",
+     "meaning_vi": "đáng gờm",
+     "definition_en": "inspiring fear or respect by being strong",
+     "example_en": "The team faced a formidable opponent.",
+     "example_vi": "Đội phải đối mặt với một đối thủ đáng gờm.",
+     "cefr": "C1"
+    },
+    {
+     "word": "hierarchy",
+     "ipa": "/ˈhaɪərɑːki/",
+     "pos": "n",
+     "meaning_vi": "hệ thống thứ bậc",
+     "definition_en": "a system of ranking people by importance",
+     "example_en": "The company has a rigid hierarchy.",
+     "example_vi": "Công ty có hệ thống thứ bậc cứng nhắc.",
+     "cefr": "C1"
+    },
+    {
+     "word": "impetus",
+     "ipa": "/ˈɪmpɪtəs/",
+     "pos": "n",
+     "meaning_vi": "động lực thúc đẩy",
+     "definition_en": "a force that makes something happen faster",
+     "example_en": "The new law gave impetus to green energy.",
+     "example_vi": "Luật mới tạo động lực thúc đẩy năng lượng xanh.",
+     "cefr": "C1"
+    },
+    {
+     "word": "indigenous",
+     "ipa": "/ɪnˈdɪdʒɪnəs/",
+     "pos": "adj",
+     "meaning_vi": "bản địa",
+     "definition_en": "originally from a particular place",
+     "example_en": "Indigenous communities protect the highland forests.",
+     "example_vi": "Các cộng đồng bản địa bảo vệ rừng miền cao.",
+     "cefr": "C1"
+    },
+    {
+     "word": "inhibit",
+     "ipa": "/ɪnˈhɪbɪt/",
+     "pos": "v",
+     "meaning_vi": "kìm hãm",
+     "definition_en": "to prevent something from developing",
+     "example_en": "Fear of failure can inhibit creativity.",
+     "example_vi": "Nỗi sợ thất bại có thể kìm hãm sự sáng tạo.",
+     "cefr": "C1"
+    },
+    {
+     "word": "juxtapose",
+     "ipa": "/ˌdʒʌkstəˈpəʊz/",
+     "pos": "v",
+     "meaning_vi": "đặt cạnh nhau để đối chiếu",
+     "definition_en": "to place things together to show contrast",
+     "example_en": "The exhibition juxtaposes old and modern photographs.",
+     "example_vi": "Triển lãm đặt cạnh nhau ảnh cũ và ảnh hiện đại để đối chiếu.",
+     "cefr": "C1"
+    },
+    {
+     "word": "legitimate",
+     "ipa": "/lɪˈdʒɪtɪmət/",
+     "pos": "adj",
+     "meaning_vi": "hợp pháp, chính đáng",
+     "definition_en": "reasonable and allowed by law",
+     "example_en": "She raised a legitimate concern about safety.",
+     "example_vi": "Cô ấy nêu một mối lo chính đáng về an toàn.",
+     "cefr": "C1"
+    },
+    {
+     "word": "marginalize",
+     "ipa": "/ˈmɑːdʒɪnəlaɪz/",
+     "pos": "v",
+     "meaning_vi": "gạt ra bên lề",
+     "definition_en": "to treat a group as unimportant",
+     "example_en": "Poor language skills can marginalize new arrivals.",
+     "example_vi": "Kỹ năng ngôn ngữ kém có thể khiến người mới đến bị gạt ra bên lề.",
+     "cefr": "C1"
+    },
+    {
+     "word": "paradigm",
+     "ipa": "/ˈpærədaɪm/",
+     "pos": "n",
+     "meaning_vi": "mô hình, khuôn mẫu",
+     "definition_en": "a typical pattern or way of thinking",
+     "example_en": "Online learning created a new educational paradigm.",
+     "example_vi": "Học trực tuyến tạo ra một mô hình giáo dục mới.",
+     "cefr": "C1"
+    },
+    {
+     "word": "perpetuate",
+     "ipa": "/pəˈpetʃueɪt/",
+     "pos": "v",
+     "meaning_vi": "duy trì, làm kéo dài",
+     "definition_en": "to make something continue for a long time",
+     "example_en": "Stereotypes perpetuate unfair attitudes.",
+     "example_vi": "Định kiến làm kéo dài những thái độ bất công.",
+     "cefr": "C1"
+    },
+    {
+     "word": "prevalent",
+     "ipa": "/ˈprevələnt/",
+     "pos": "adj",
+     "meaning_vi": "phổ biến",
+     "definition_en": "widespread at a particular time",
+     "example_en": "Remote work is now prevalent in the tech industry.",
+     "example_vi": "Làm việc từ xa hiện phổ biến trong ngành công nghệ.",
+     "cefr": "C1"
+    },
+    {
+     "word": "rhetoric",
+     "ipa": "/ˈretərɪk/",
+     "pos": "n",
+     "meaning_vi": "lối hùng biện",
+     "definition_en": "language designed to persuade",
+     "example_en": "The minister's rhetoric did not match the facts.",
+     "example_vi": "Lối hùng biện của bộ trưởng không khớp với thực tế.",
+     "cefr": "C1"
+    },
+    {
+     "word": "stringent",
+     "ipa": "/ˈstrɪndʒənt/",
+     "pos": "adj",
+     "meaning_vi": "nghiêm ngặt",
+     "definition_en": "strict and demanding",
+     "example_en": "Stringent rules protect food safety.",
+     "example_vi": "Các quy định nghiêm ngặt bảo vệ an toàn thực phẩm.",
+     "cefr": "C1"
+    },
+    {
+     "word": "sustain",
+     "ipa": "/səˈsteɪn/",
+     "pos": "v",
+     "meaning_vi": "duy trì",
+     "definition_en": "to keep something going over time",
+     "example_en": "It is hard to sustain growth without investment.",
+     "example_vi": "Rất khó duy trì tăng trưởng nếu không có đầu tư.",
+     "cefr": "C1"
+    },
+    {
+     "word": "underlying",
+     "ipa": "/ˌʌndəˈlaɪɪŋ/",
+     "pos": "adj",
+     "meaning_vi": "cơ bản, tiềm ẩn",
+     "definition_en": "forming the real basis of something",
+     "example_en": "We need to address the underlying causes of poverty.",
+     "example_vi": "Chúng ta cần giải quyết các nguyên nhân cơ bản của nghèo đói.",
+     "cefr": "C1"
+    }
+   ]
+  }
+ ]
+}

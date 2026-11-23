@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.env
+.env.local
+.env*.local
+npm-debug.log*
+.DS_Store
+Thumbs.db
+tools/*/node_modules/
+tools/*/.next/

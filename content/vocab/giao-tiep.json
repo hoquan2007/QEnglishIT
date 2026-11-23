@@ -1,0 +1,1601 @@
+{
+ "slug": "giao-tiep",
+ "family": "giao-tiep",
+ "title": "Tiếng Anh giao tiếp",
+ "description": "Mẫu câu giao tiếp tiếng Anh theo tình huống thực tế.",
+ "level": null,
+ "color": "#06b6d4",
+ "sort_order": 6,
+ "lessons": [
+  {
+   "slug": "greetings",
+   "title": "Greetings",
+   "title_vi": "Chào hỏi",
+   "day_number": null,
+   "sort_order": 1,
+   "words": [
+    {
+     "word": "Nice to meet you.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Rất vui được gặp bạn.",
+     "definition_en": "said when you meet someone for the first time",
+     "example_en": "Hi, I'm Lan. Nice to meet you.",
+     "example_vi": "Chào, mình là Lan. Rất vui được gặp bạn.",
+     "cefr": "A1"
+    },
+    {
+     "word": "How are you doing?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn dạo này thế nào?",
+     "definition_en": "a friendly way to ask about someone's day or life",
+     "example_en": "Hey Tom, how are you doing?",
+     "example_vi": "Này Tom, dạo này bạn thế nào?",
+     "cefr": "A1"
+    },
+    {
+     "word": "Good morning.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chào buổi sáng.",
+     "definition_en": "a greeting used before noon",
+     "example_en": "Good morning, everyone. Shall we start?",
+     "example_vi": "Chào buổi sáng mọi người. Chúng ta bắt đầu nhé?",
+     "cefr": "A1"
+    },
+    {
+     "word": "Long time no see.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Lâu rồi không gặp.",
+     "definition_en": "said to someone you have not seen for a while",
+     "example_en": "Long time no see! You look great.",
+     "example_vi": "Lâu rồi không gặp! Trông bạn tuyệt lắm.",
+     "cefr": "A1"
+    },
+    {
+     "word": "What's up?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Dạo này sao rồi?",
+     "definition_en": "an informal way to ask what is happening",
+     "example_en": "Hey, what's up? Any plans for the weekend?",
+     "example_vi": "Này, dạo này sao rồi? Cuối tuần có kế hoạch gì không?",
+     "cefr": "A1"
+    },
+    {
+     "word": "I'm doing well, thanks.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mình khỏe, cảm ơn.",
+     "definition_en": "a polite reply to a greeting",
+     "example_en": "I'm doing well, thanks. And you?",
+     "example_vi": "Mình khỏe, cảm ơn. Còn bạn?",
+     "cefr": "A1"
+    },
+    {
+     "word": "Let me introduce myself.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Để mình tự giới thiệu.",
+     "definition_en": "used to begin introducing yourself",
+     "example_en": "Let me introduce myself. I'm the new designer.",
+     "example_vi": "Để mình tự giới thiệu. Mình là nhà thiết kế mới.",
+     "cefr": "A1"
+    },
+    {
+     "word": "This is my friend, Minh.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đây là bạn mình, Minh.",
+     "definition_en": "used to introduce another person",
+     "example_en": "This is my friend, Minh. He works in IT.",
+     "example_vi": "Đây là bạn mình, Minh. Anh ấy làm ngành IT.",
+     "cefr": "A1"
+    },
+    {
+     "word": "Where are you from?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn đến từ đâu?",
+     "definition_en": "a common question when meeting new people",
+     "example_en": "Where are you from? Your accent is lovely.",
+     "example_vi": "Bạn đến từ đâu vậy? Giọng của bạn dễ thương quá.",
+     "cefr": "A1"
+    },
+    {
+     "word": "Have a great day!",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chúc bạn một ngày tuyệt vời!",
+     "definition_en": "a friendly way to say goodbye",
+     "example_en": "Thanks for your help. Have a great day!",
+     "example_vi": "Cảm ơn bạn đã giúp. Chúc bạn một ngày tuyệt vời!",
+     "cefr": "A1"
+    },
+    {
+     "word": "See you later.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hẹn gặp lại sau nhé.",
+     "definition_en": "said when you will meet again soon",
+     "example_en": "I have to go now. See you later.",
+     "example_vi": "Mình phải đi rồi. Hẹn gặp lại sau nhé.",
+     "cefr": "A1"
+    },
+    {
+     "word": "Take care.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Giữ gìn sức khỏe nhé.",
+     "definition_en": "a warm way to say goodbye",
+     "example_en": "It was great to talk. Take care.",
+     "example_vi": "Rất vui được trò chuyện. Giữ gìn sức khỏe nhé.",
+     "cefr": "A1"
+    },
+    {
+     "word": "How was your weekend?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cuối tuần của bạn thế nào?",
+     "definition_en": "a common question on Monday morning",
+     "example_en": "How was your weekend? Did you go anywhere?",
+     "example_vi": "Cuối tuần của bạn thế nào? Bạn có đi đâu không?",
+     "cefr": "A1"
+    },
+    {
+     "word": "Pleased to meet you.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hân hạnh được gặp bạn.",
+     "definition_en": "a formal way to greet someone new",
+     "example_en": "Pleased to meet you, Mr. Brown.",
+     "example_vi": "Hân hạnh được gặp ông, ông Brown.",
+     "cefr": "A1"
+    },
+    {
+     "word": "Please call me Hoa.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cứ gọi mình là Hoa nhé.",
+     "definition_en": "used to tell people what name to use",
+     "example_en": "My full name is long. Please call me Hoa.",
+     "example_vi": "Tên đầy đủ của mình dài lắm. Cứ gọi mình là Hoa nhé.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "slug": "at-the-airport",
+   "title": "At the airport",
+   "title_vi": "Ở sân bay",
+   "day_number": null,
+   "sort_order": 2,
+   "words": [
+    {
+     "word": "Where is the check-in counter?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Quầy làm thủ tục ở đâu?",
+     "definition_en": "used to ask where to check in for a flight",
+     "example_en": "Excuse me, where is the check-in counter for Flight 214?",
+     "example_vi": "Xin lỗi, quầy làm thủ tục cho chuyến bay 214 ở đâu?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'd like a window seat, please.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi ghế cạnh cửa sổ.",
+     "definition_en": "used to choose a seat when checking in",
+     "example_en": "I'd like a window seat, please, if possible.",
+     "example_vi": "Nếu được, cho tôi ghế cạnh cửa sổ.",
+     "cefr": "A2"
+    },
+    {
+     "word": "How many bags are you checking in?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn ký gửi mấy túi hành lý?",
+     "definition_en": "a question asked by airline staff",
+     "example_en": "How many bags are you checking in today?",
+     "example_vi": "Hôm nay bạn ký gửi mấy túi hành lý?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Here is my passport.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đây là hộ chiếu của tôi.",
+     "definition_en": "used when handing your passport to an officer",
+     "example_en": "Here is my passport and boarding pass.",
+     "example_vi": "Đây là hộ chiếu và thẻ lên máy bay của tôi.",
+     "cefr": "A2"
+    },
+    {
+     "word": "What time does boarding start?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mấy giờ bắt đầu lên máy bay?",
+     "definition_en": "used to ask when passengers can get on",
+     "example_en": "What time does boarding start for Gate 12?",
+     "example_vi": "Mấy giờ bắt đầu lên máy bay ở cổng 12?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Which gate is my flight?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chuyến bay của tôi ở cổng nào?",
+     "definition_en": "used to ask for the departure gate",
+     "example_en": "Excuse me, which gate is my flight to Osaka?",
+     "example_vi": "Xin lỗi, chuyến bay đi Osaka của tôi ở cổng nào?",
+     "cefr": "A2"
+    },
+    {
+     "word": "My flight has been delayed.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chuyến bay của tôi bị hoãn.",
+     "definition_en": "used to say a flight will leave later",
+     "example_en": "My flight has been delayed by two hours.",
+     "example_vi": "Chuyến bay của tôi bị hoãn hai tiếng.",
+     "cefr": "A2"
+    },
+    {
+     "word": "I missed my connecting flight.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi lỡ chuyến bay nối chuyến.",
+     "definition_en": "used to report a missed transfer",
+     "example_en": "I missed my connecting flight. What should I do?",
+     "example_vi": "Tôi lỡ chuyến bay nối chuyến. Tôi nên làm gì?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Where can I collect my luggage?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi nhận hành lý ở đâu?",
+     "definition_en": "used after landing to find the baggage claim",
+     "example_en": "Where can I collect my luggage from Flight 88?",
+     "example_vi": "Tôi nhận hành lý của chuyến bay 88 ở đâu?",
+     "cefr": "A2"
+    },
+    {
+     "word": "My suitcase hasn't arrived.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Vali của tôi chưa đến.",
+     "definition_en": "used to report lost or late baggage",
+     "example_en": "My suitcase hasn't arrived. Can you help me?",
+     "example_vi": "Vali của tôi chưa đến. Bạn giúp tôi được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do I need to declare anything?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi có cần khai báo gì không?",
+     "definition_en": "used at customs to ask about declaring goods",
+     "example_en": "Do I need to declare this gift for my sister?",
+     "example_vi": "Tôi có cần khai báo món quà này cho chị tôi không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "What is the purpose of your visit?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mục đích chuyến đi của bạn là gì?",
+     "definition_en": "a question asked by immigration officers",
+     "example_en": "What is the purpose of your visit? Tourism or business?",
+     "example_vi": "Mục đích chuyến đi của bạn là gì? Du lịch hay công tác?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'm here on holiday.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi đến đây để đi nghỉ.",
+     "definition_en": "a reply to explain your reason for visiting",
+     "example_en": "I'm here on holiday for ten days.",
+     "example_vi": "Tôi đến đây nghỉ mười ngày.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is there a shuttle to the city?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Có xe đưa đón vào thành phố không?",
+     "definition_en": "used to ask about transport from the airport",
+     "example_en": "Is there a shuttle to the city center from here?",
+     "example_vi": "Từ đây có xe đưa đón vào trung tâm thành phố không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could you tell me where the toilets are?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn cho tôi hỏi nhà vệ sinh ở đâu?",
+     "definition_en": "a polite way to ask for toilets",
+     "example_en": "Could you tell me where the toilets are?",
+     "example_vi": "Bạn cho tôi hỏi nhà vệ sinh ở đâu?",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "slug": "at-the-hotel",
+   "title": "At the hotel",
+   "title_vi": "Ở khách sạn",
+   "day_number": null,
+   "sort_order": 3,
+   "words": [
+    {
+     "word": "I have a reservation.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi có đặt phòng trước.",
+     "definition_en": "used when you arrive at a hotel",
+     "example_en": "I have a reservation under the name Pham.",
+     "example_vi": "Tôi có đặt phòng dưới tên Phạm.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do you have any rooms available?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Khách sạn còn phòng trống không?",
+     "definition_en": "used to ask about free rooms",
+     "example_en": "Do you have any rooms available for tonight?",
+     "example_vi": "Tối nay khách sạn còn phòng trống không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'd like to check in.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi muốn nhận phòng.",
+     "definition_en": "used when you arrive at the hotel",
+     "example_en": "Good evening. I'd like to check in, please.",
+     "example_vi": "Chào buổi tối. Tôi muốn nhận phòng.",
+     "cefr": "A2"
+    },
+    {
+     "word": "What time is check-out?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mấy giờ phải trả phòng?",
+     "definition_en": "used to ask the last time to leave the room",
+     "example_en": "What time is check-out tomorrow?",
+     "example_vi": "Mai mấy giờ phải trả phòng?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is breakfast included?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đã bao gồm bữa sáng chưa?",
+     "definition_en": "used to ask whether breakfast is free",
+     "example_en": "Is breakfast included in the room price?",
+     "example_vi": "Giá phòng đã bao gồm bữa sáng chưa?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could I have a wake-up call at six?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Làm ơn gọi đánh thức tôi lúc sáu giờ.",
+     "definition_en": "used to request a morning call",
+     "example_en": "Could I have a wake-up call at six tomorrow?",
+     "example_vi": "Làm ơn gọi đánh thức tôi lúc sáu giờ sáng mai.",
+     "cefr": "A2"
+    },
+    {
+     "word": "The air conditioner isn't working.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Máy lạnh không hoạt động.",
+     "definition_en": "used to report a problem in the room",
+     "example_en": "The air conditioner isn't working in room 305.",
+     "example_vi": "Máy lạnh phòng 305 không hoạt động.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could you send someone to fix it?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn cử người đến sửa giúp được không?",
+     "definition_en": "used to ask for repairs",
+     "example_en": "The shower is broken. Could you send someone to fix it?",
+     "example_vi": "Vòi sen bị hỏng. Bạn cử người đến sửa giúp được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can I have an extra towel?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi thêm một chiếc khăn tắm được không?",
+     "definition_en": "used to ask for more items",
+     "example_en": "Can I have an extra towel and two pillows?",
+     "example_vi": "Cho tôi thêm một khăn tắm và hai cái gối được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "What is the Wi-Fi password?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mật khẩu Wi-Fi là gì?",
+     "definition_en": "used to ask for the internet password",
+     "example_en": "What is the Wi-Fi password for the lobby?",
+     "example_vi": "Mật khẩu Wi-Fi ở sảnh là gì?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can I keep my bags here?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi gửi hành lý ở đây được không?",
+     "definition_en": "used to ask to store luggage",
+     "example_en": "Can I keep my bags here until three o'clock?",
+     "example_vi": "Tôi gửi hành lý ở đây đến ba giờ được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'd like a quiet room.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi muốn một phòng yên tĩnh.",
+     "definition_en": "used to state a preference",
+     "example_en": "I'd like a quiet room away from the street.",
+     "example_vi": "Tôi muốn một phòng yên tĩnh, xa đường phố.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could you call a taxi for me?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn gọi giúp tôi một chiếc taxi nhé?",
+     "definition_en": "used to ask staff for help",
+     "example_en": "Could you call a taxi for me at seven?",
+     "example_vi": "Bạn gọi giúp tôi một chiếc taxi lúc bảy giờ nhé?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'd like to extend my stay.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi muốn ở thêm.",
+     "definition_en": "used to stay longer than planned",
+     "example_en": "I'd like to extend my stay by two nights.",
+     "example_vi": "Tôi muốn ở thêm hai đêm.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could I get the bill, please?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi xin hóa đơn.",
+     "definition_en": "used when checking out",
+     "example_en": "Could I get the bill, please? I'm checking out.",
+     "example_vi": "Cho tôi xin hóa đơn. Tôi đang trả phòng.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "slug": "at-a-restaurant",
+   "title": "At a restaurant",
+   "title_vi": "Ở nhà hàng",
+   "day_number": null,
+   "sort_order": 4,
+   "words": [
+    {
+     "word": "A table for two, please.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi một bàn hai người.",
+     "definition_en": "used to ask for a table",
+     "example_en": "Good evening. A table for two, please.",
+     "example_vi": "Chào buổi tối. Cho tôi một bàn hai người.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could we see the menu?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho chúng tôi xem thực đơn được không?",
+     "definition_en": "used to ask for the menu",
+     "example_en": "Could we see the menu and the wine list?",
+     "example_vi": "Cho chúng tôi xem thực đơn và danh sách rượu được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "What do you recommend?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn gợi ý món nào?",
+     "definition_en": "used to ask for a suggestion",
+     "example_en": "It's our first time here. What do you recommend?",
+     "example_vi": "Đây là lần đầu chúng tôi đến. Bạn gợi ý món nào?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'll have the grilled fish.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi món cá nướng.",
+     "definition_en": "used to order a dish",
+     "example_en": "I'll have the grilled fish with rice.",
+     "example_vi": "Cho tôi món cá nướng ăn với cơm.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is this dish spicy?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Món này có cay không?",
+     "definition_en": "used to ask about spice level",
+     "example_en": "Is this dish spicy? I can't eat hot food.",
+     "example_vi": "Món này có cay không? Tôi không ăn cay được.",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'm allergic to peanuts.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi bị dị ứng đậu phộng.",
+     "definition_en": "used to warn about an allergy",
+     "example_en": "I'm allergic to peanuts. Does this sauce contain any?",
+     "example_vi": "Tôi bị dị ứng đậu phộng. Nước sốt này có không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "No onions, please.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin đừng cho hành.",
+     "definition_en": "used to remove an ingredient",
+     "example_en": "I'll have the salad, but no onions, please.",
+     "example_vi": "Cho tôi món salad nhưng xin đừng cho hành.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could I have some more water?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi thêm ít nước được không?",
+     "definition_en": "used to ask for more of something",
+     "example_en": "Could I have some more water, please?",
+     "example_vi": "Cho tôi thêm ít nước nhé?",
+     "cefr": "A2"
+    },
+    {
+     "word": "We're ready to order.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chúng tôi sẵn sàng gọi món.",
+     "definition_en": "used to call the waiter to take an order",
+     "example_en": "Excuse me, we're ready to order.",
+     "example_vi": "Xin lỗi, chúng tôi sẵn sàng gọi món.",
+     "cefr": "A2"
+    },
+    {
+     "word": "This isn't what I ordered.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đây không phải món tôi gọi.",
+     "definition_en": "used to politely correct a wrong dish",
+     "example_en": "Sorry, this isn't what I ordered.",
+     "example_vi": "Xin lỗi, đây không phải món tôi gọi.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could we have the bill, please?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho chúng tôi thanh toán.",
+     "definition_en": "used to ask for the bill",
+     "example_en": "That was delicious. Could we have the bill, please?",
+     "example_vi": "Món rất ngon. Cho chúng tôi thanh toán nhé.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can we split the bill?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chúng tôi chia hóa đơn được không?",
+     "definition_en": "used to pay separately",
+     "example_en": "Can we split the bill between four people?",
+     "example_vi": "Chúng tôi chia hóa đơn cho bốn người được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is service included?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đã bao gồm phí phục vụ chưa?",
+     "definition_en": "used to ask about service charge",
+     "example_en": "Is service included in the total?",
+     "example_vi": "Tổng tiền đã bao gồm phí phục vụ chưa?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could I get this to go?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi mang món này đi được không?",
+     "definition_en": "used to take food away",
+     "example_en": "I'm in a hurry. Could I get this to go?",
+     "example_vi": "Tôi đang vội. Cho tôi mang món này đi được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "The food was delicious.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đồ ăn rất ngon.",
+     "definition_en": "used to praise the meal",
+     "example_en": "Thank you. The food was delicious.",
+     "example_vi": "Cảm ơn bạn. Đồ ăn rất ngon.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "slug": "shopping",
+   "title": "Shopping",
+   "title_vi": "Mua sắm",
+   "day_number": null,
+   "sort_order": 5,
+   "words": [
+    {
+     "word": "How much is this?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cái này giá bao nhiêu?",
+     "definition_en": "used to ask the price",
+     "example_en": "How much is this blue jacket?",
+     "example_vi": "Chiếc áo khoác xanh này giá bao nhiêu?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do you have this in a bigger size?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cái này có cỡ lớn hơn không?",
+     "definition_en": "used to ask for another size",
+     "example_en": "Do you have this in a bigger size?",
+     "example_vi": "Cái này có cỡ lớn hơn không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can I try it on?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi mặc thử được không?",
+     "definition_en": "used to ask to try clothes",
+     "example_en": "I like these jeans. Can I try them on?",
+     "example_vi": "Tôi thích chiếc quần jeans này. Tôi mặc thử được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Where is the fitting room?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Phòng thử đồ ở đâu?",
+     "definition_en": "used to find the changing room",
+     "example_en": "Excuse me, where is the fitting room?",
+     "example_vi": "Xin lỗi, phòng thử đồ ở đâu?",
+     "cefr": "A2"
+    },
+    {
+     "word": "It's too expensive for me.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cái này đắt quá với tôi.",
+     "definition_en": "used to say that the price is too high",
+     "example_en": "It's a nice bag, but it's too expensive for me.",
+     "example_vi": "Chiếc túi đẹp nhưng đắt quá với tôi.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do you have anything cheaper?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn có món nào rẻ hơn không?",
+     "definition_en": "used to ask for a lower price",
+     "example_en": "Do you have anything cheaper than this?",
+     "example_vi": "Bạn có món nào rẻ hơn món này không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can you give me a discount?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn giảm giá cho tôi được không?",
+     "definition_en": "used to ask for a lower price",
+     "example_en": "I'm buying three. Can you give me a discount?",
+     "example_vi": "Tôi mua ba cái. Bạn giảm giá cho tôi được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'm just looking, thanks.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi chỉ xem thôi, cảm ơn.",
+     "definition_en": "a polite reply to a shop assistant",
+     "example_en": "I'm just looking, thanks.",
+     "example_vi": "Tôi chỉ xem thôi, cảm ơn.",
+     "cefr": "A2"
+    },
+    {
+     "word": "I'll take it.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi lấy cái này.",
+     "definition_en": "used when you decide to buy",
+     "example_en": "It fits well. I'll take it.",
+     "example_vi": "Vừa vặn quá. Tôi lấy cái này.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do you accept credit cards?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bên bạn nhận thẻ tín dụng không?",
+     "definition_en": "used to ask about payment methods",
+     "example_en": "Do you accept credit cards or only cash?",
+     "example_vi": "Bên bạn nhận thẻ tín dụng hay chỉ nhận tiền mặt?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could I have a receipt?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi xin biên lai.",
+     "definition_en": "used to ask for proof of payment",
+     "example_en": "Could I have a receipt, please?",
+     "example_vi": "Cho tôi xin biên lai nhé?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Can I return this if it doesn't fit?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Nếu không vừa tôi trả lại được không?",
+     "definition_en": "used to ask about the return policy",
+     "example_en": "Can I return this if it doesn't fit?",
+     "example_vi": "Nếu không vừa tôi trả lại được không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is this on sale?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cái này có đang giảm giá không?",
+     "definition_en": "used to ask if an item is discounted",
+     "example_en": "Is this coat on sale this week?",
+     "example_vi": "Tuần này áo khoác này có giảm giá không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Do you have it in another color?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cái này có màu khác không?",
+     "definition_en": "used to ask for different colors",
+     "example_en": "Do you have it in another color, maybe black?",
+     "example_vi": "Cái này có màu khác không, chẳng hạn màu đen?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could you wrap it as a gift?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn gói giúp như một món quà được không?",
+     "definition_en": "used to ask for gift wrapping",
+     "example_en": "Could you wrap it as a gift, please?",
+     "example_vi": "Bạn gói giúp như một món quà nhé?",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "slug": "asking-for-directions",
+   "title": "Asking for directions",
+   "title_vi": "Hỏi đường",
+   "day_number": null,
+   "sort_order": 6,
+   "words": [
+    {
+     "word": "Excuse me, how do I get to the station?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin lỗi, đến nhà ga đi thế nào?",
+     "definition_en": "used to ask the way to a place",
+     "example_en": "Excuse me, how do I get to the station?",
+     "example_vi": "Xin lỗi, đến nhà ga đi thế nào?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Is it far from here?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Chỗ đó có xa đây không?",
+     "definition_en": "used to ask about distance",
+     "example_en": "Is the museum far from here?",
+     "example_vi": "Bảo tàng có xa đây không?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Go straight ahead.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đi thẳng về phía trước.",
+     "definition_en": "used to tell someone to continue forward",
+     "example_en": "Go straight ahead for two blocks.",
+     "example_vi": "Đi thẳng về phía trước hai dãy nhà.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Turn left at the traffic lights.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Rẽ trái ở đèn giao thông.",
+     "definition_en": "used to give a turning direction",
+     "example_en": "Turn left at the traffic lights, then walk on.",
+     "example_vi": "Rẽ trái ở đèn giao thông rồi đi tiếp.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Take the second right.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Rẽ phải ở ngã rẽ thứ hai.",
+     "definition_en": "used to give turning directions",
+     "example_en": "Take the second right after the bank.",
+     "example_vi": "Rẽ phải ở ngã rẽ thứ hai sau ngân hàng.",
+     "cefr": "A2"
+    },
+    {
+     "word": "It's next to the post office.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Nó nằm cạnh bưu điện.",
+     "definition_en": "used to describe a location",
+     "example_en": "The pharmacy is next to the post office.",
+     "example_vi": "Hiệu thuốc nằm cạnh bưu điện.",
+     "cefr": "A2"
+    },
+    {
+     "word": "It's across from the park.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Nó nằm đối diện công viên.",
+     "definition_en": "used to describe a location",
+     "example_en": "My hotel is across from the park.",
+     "example_vi": "Khách sạn của tôi nằm đối diện công viên.",
+     "cefr": "A2"
+    },
+    {
+     "word": "You can't miss it.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn không thể nhầm được đâu.",
+     "definition_en": "used when a place is easy to see",
+     "example_en": "It's a big red building. You can't miss it.",
+     "example_vi": "Đó là tòa nhà lớn màu đỏ. Bạn không thể nhầm được đâu.",
+     "cefr": "A2"
+    },
+    {
+     "word": "How long does it take on foot?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đi bộ mất bao lâu?",
+     "definition_en": "used to ask walking time",
+     "example_en": "How long does it take on foot to the market?",
+     "example_vi": "Đi bộ đến chợ mất bao lâu?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Which bus goes to the airport?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xe buýt nào đi sân bay?",
+     "definition_en": "used to ask about public transport",
+     "example_en": "Which bus goes to the airport from here?",
+     "example_vi": "Từ đây xe buýt nào đi sân bay?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Where can I catch a taxi?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi bắt taxi ở đâu được?",
+     "definition_en": "used to ask where taxis are",
+     "example_en": "Where can I catch a taxi around here?",
+     "example_vi": "Quanh đây tôi bắt taxi ở đâu được?",
+     "cefr": "A2"
+    },
+    {
+     "word": "I think I'm lost.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi nghĩ mình bị lạc rồi.",
+     "definition_en": "used to say you do not know where you are",
+     "example_en": "I think I'm lost. Where is Main Street?",
+     "example_vi": "Tôi nghĩ mình bị lạc rồi. Đường Main ở đâu vậy?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Could you show me on the map?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn chỉ giúp tôi trên bản đồ được không?",
+     "definition_en": "used to ask for map help",
+     "example_en": "Could you show me on the map, please?",
+     "example_vi": "Bạn chỉ giúp tôi trên bản đồ nhé?",
+     "cefr": "A2"
+    },
+    {
+     "word": "Keep going until you see the bridge.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cứ đi cho đến khi thấy cây cầu.",
+     "definition_en": "used to give a landmark",
+     "example_en": "Keep going until you see the bridge, then turn right.",
+     "example_vi": "Cứ đi đến khi thấy cây cầu rồi rẽ phải.",
+     "cefr": "A2"
+    },
+    {
+     "word": "Thanks, that's very helpful.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cảm ơn, rất hữu ích.",
+     "definition_en": "used to thank someone for directions",
+     "example_en": "Thanks, that's very helpful. I'll find it now.",
+     "example_vi": "Cảm ơn, rất hữu ích. Giờ tôi sẽ tìm được.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "slug": "at-work",
+   "title": "At work",
+   "title_vi": "Ở nơi làm việc",
+   "day_number": null,
+   "sort_order": 7,
+   "words": [
+    {
+     "word": "Do you have a minute?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn có rảnh một chút không?",
+     "definition_en": "used to ask for a short talk",
+     "example_en": "Do you have a minute? I need your advice.",
+     "example_vi": "Bạn có rảnh một chút không? Tôi cần lời khuyên của bạn.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Could you send me the file?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn gửi cho tôi tệp đó được không?",
+     "definition_en": "used to request a document",
+     "example_en": "Could you send me the file by noon?",
+     "example_vi": "Bạn gửi tệp đó cho tôi trước trưa được không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'll get back to you by Friday.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi sẽ phản hồi bạn trước thứ Sáu.",
+     "definition_en": "used to promise a later answer",
+     "example_en": "I'll get back to you by Friday with the numbers.",
+     "example_vi": "Tôi sẽ phản hồi bạn kèm số liệu trước thứ Sáu.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Let's schedule a meeting.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hãy lên lịch một cuộc họp.",
+     "definition_en": "used to arrange a meeting",
+     "example_en": "Let's schedule a meeting for Tuesday morning.",
+     "example_vi": "Hãy lên lịch một cuộc họp vào sáng thứ Ba.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'm running behind schedule.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi đang chậm tiến độ.",
+     "definition_en": "used to say work is late",
+     "example_en": "I'm running behind schedule on the report.",
+     "example_vi": "Tôi đang chậm tiến độ với bản báo cáo.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Could you give me a hand?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn giúp tôi một tay được không?",
+     "definition_en": "used to ask for help",
+     "example_en": "Could you give me a hand with these boxes?",
+     "example_vi": "Bạn giúp tôi một tay với những thùng này được không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'll take care of it.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Để tôi lo việc đó.",
+     "definition_en": "used to accept a task",
+     "example_en": "Don't worry about the invoice. I'll take care of it.",
+     "example_vi": "Đừng lo về hóa đơn. Để tôi lo.",
+     "cefr": "B1"
+    },
+    {
+     "word": "What's the deadline?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hạn chót là khi nào?",
+     "definition_en": "used to ask when work is due",
+     "example_en": "What's the deadline for this proposal?",
+     "example_vi": "Hạn chót của đề xuất này là khi nào?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Let me check my calendar.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Để tôi kiểm tra lịch.",
+     "definition_en": "used before agreeing on a time",
+     "example_en": "Let me check my calendar and tell you.",
+     "example_vi": "Để tôi kiểm tra lịch rồi báo bạn.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'd like to take a day off.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi muốn xin nghỉ một ngày.",
+     "definition_en": "used to ask for leave",
+     "example_en": "I'd like to take a day off next Monday.",
+     "example_vi": "Tôi muốn xin nghỉ một ngày vào thứ Hai tới.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Sorry to interrupt, but...",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin lỗi vì ngắt lời, nhưng...",
+     "definition_en": "used to politely interrupt",
+     "example_en": "Sorry to interrupt, but the client is on line two.",
+     "example_vi": "Xin lỗi vì ngắt lời, nhưng khách hàng đang ở máy hai.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Let's go over the plan again.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hãy xem lại kế hoạch một lần nữa.",
+     "definition_en": "used to review something",
+     "example_en": "Let's go over the plan again before we begin.",
+     "example_vi": "Hãy xem lại kế hoạch một lần nữa trước khi bắt đầu.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I agree with your point.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi đồng ý với ý của bạn.",
+     "definition_en": "used to show agreement",
+     "example_en": "I agree with your point about the budget.",
+     "example_vi": "Tôi đồng ý với ý của bạn về ngân sách.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'm afraid I disagree.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi e là tôi không đồng ý.",
+     "definition_en": "used to disagree politely",
+     "example_en": "I'm afraid I disagree. The plan seems risky.",
+     "example_vi": "Tôi e là tôi không đồng ý. Kế hoạch có vẻ rủi ro.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Thanks for your hard work.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cảm ơn sự chăm chỉ của bạn.",
+     "definition_en": "used to thank a colleague",
+     "example_en": "Thanks for your hard work on this project.",
+     "example_vi": "Cảm ơn sự chăm chỉ của bạn trong dự án này.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "slug": "phone-calls",
+   "title": "Phone calls",
+   "title_vi": "Gọi điện thoại",
+   "day_number": null,
+   "sort_order": 8,
+   "words": [
+    {
+     "word": "Hello, this is Nam speaking.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin chào, Nam đang nghe máy.",
+     "definition_en": "used to answer or begin a call",
+     "example_en": "Hello, this is Nam speaking. How can I help?",
+     "example_vi": "Xin chào, Nam đang nghe máy. Tôi có thể giúp gì?",
+     "cefr": "B1"
+    },
+    {
+     "word": "May I speak to Ms. Tran?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cho tôi nói chuyện với cô Trần.",
+     "definition_en": "used to ask for a person on the phone",
+     "example_en": "May I speak to Ms. Tran, please?",
+     "example_vi": "Cho tôi nói chuyện với cô Trần nhé?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Who's calling, please?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin cho biết ai đang gọi?",
+     "definition_en": "used to ask a caller's name",
+     "example_en": "Who's calling, please?",
+     "example_vi": "Xin cho biết ai đang gọi ạ?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Please hold on a moment.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin vui lòng giữ máy một lát.",
+     "definition_en": "used to ask a caller to wait",
+     "example_en": "Please hold on a moment while I transfer you.",
+     "example_vi": "Xin vui lòng giữ máy một lát để tôi chuyển máy.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'll put you through.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi sẽ nối máy cho bạn.",
+     "definition_en": "used to connect a caller",
+     "example_en": "I'll put you through to the sales team.",
+     "example_vi": "Tôi sẽ nối máy cho bạn đến nhóm kinh doanh.",
+     "cefr": "B1"
+    },
+    {
+     "word": "She's not available right now.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hiện cô ấy không có mặt.",
+     "definition_en": "used when someone cannot take the call",
+     "example_en": "She's not available right now. Can I take a message?",
+     "example_vi": "Hiện cô ấy không có mặt. Tôi ghi lại lời nhắn được không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Can I leave a message?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi để lại lời nhắn được không?",
+     "definition_en": "used to leave information",
+     "example_en": "Can I leave a message for Mr. Lee?",
+     "example_vi": "Tôi để lại lời nhắn cho ông Lee được không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Could you ask her to call me back?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn nhờ cô ấy gọi lại cho tôi nhé?",
+     "definition_en": "used to request a return call",
+     "example_en": "Could you ask her to call me back today?",
+     "example_vi": "Bạn nhờ cô ấy gọi lại cho tôi trong hôm nay nhé?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'm calling about my order.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi gọi về đơn hàng của tôi.",
+     "definition_en": "used to state the reason for a call",
+     "example_en": "I'm calling about my order from last week.",
+     "example_vi": "Tôi gọi về đơn hàng của tôi tuần trước.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Could you speak more slowly?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn nói chậm hơn được không?",
+     "definition_en": "used to ask for slower speech",
+     "example_en": "Sorry, could you speak more slowly?",
+     "example_vi": "Xin lỗi, bạn nói chậm hơn được không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Could you repeat that, please?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn nhắc lại giúp tôi được không?",
+     "definition_en": "used to ask someone to say it again",
+     "example_en": "Could you repeat that, please? The line is bad.",
+     "example_vi": "Bạn nhắc lại giúp tôi được không? Đường truyền kém quá.",
+     "cefr": "B1"
+    },
+    {
+     "word": "The line is breaking up.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Đường truyền đang bị ngắt quãng.",
+     "definition_en": "used when the connection is poor",
+     "example_en": "I can't hear you. The line is breaking up.",
+     "example_vi": "Tôi không nghe rõ bạn. Đường truyền đang bị ngắt quãng.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Sorry, I think you have the wrong number.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin lỗi, hình như bạn gọi nhầm số.",
+     "definition_en": "used when someone calls the wrong number",
+     "example_en": "Sorry, I think you have the wrong number.",
+     "example_vi": "Xin lỗi, hình như bạn gọi nhầm số.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I'll call you back later.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Lát nữa tôi sẽ gọi lại cho bạn.",
+     "definition_en": "used to end a call and promise a return call",
+     "example_en": "I'm in a meeting. I'll call you back later.",
+     "example_vi": "Tôi đang họp. Lát nữa tôi sẽ gọi lại cho bạn.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Thanks for calling.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cảm ơn bạn đã gọi.",
+     "definition_en": "used to end a call politely",
+     "example_en": "Thanks for calling. Have a nice day.",
+     "example_vi": "Cảm ơn bạn đã gọi. Chúc một ngày tốt lành.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "slug": "doctors-visit",
+   "title": "Doctor's visit",
+   "title_vi": "Đi khám bác sĩ",
+   "day_number": null,
+   "sort_order": 9,
+   "words": [
+    {
+     "word": "I'd like to make an appointment.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi muốn đặt lịch hẹn.",
+     "definition_en": "used to book a medical visit",
+     "example_en": "I'd like to make an appointment for Monday.",
+     "example_vi": "Tôi muốn đặt lịch hẹn vào thứ Hai.",
+     "cefr": "B1"
+    },
+    {
+     "word": "What seems to be the problem?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn gặp vấn đề gì vậy?",
+     "definition_en": "a doctor's question at the start",
+     "example_en": "What seems to be the problem today?",
+     "example_vi": "Hôm nay bạn gặp vấn đề gì vậy?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I have a sore throat.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi bị đau họng.",
+     "definition_en": "used to describe a symptom",
+     "example_en": "I have a sore throat and a slight fever.",
+     "example_vi": "Tôi bị đau họng và sốt nhẹ.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I've had a headache since yesterday.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi bị đau đầu từ hôm qua.",
+     "definition_en": "used to describe how long you have felt ill",
+     "example_en": "I've had a headache since yesterday morning.",
+     "example_vi": "Tôi bị đau đầu từ sáng hôm qua.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I feel dizzy.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi cảm thấy chóng mặt.",
+     "definition_en": "used to describe a symptom",
+     "example_en": "I feel dizzy when I stand up quickly.",
+     "example_vi": "Tôi cảm thấy chóng mặt khi đứng dậy nhanh.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I think I have a fever.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi nghĩ mình bị sốt.",
+     "definition_en": "used to say you feel hot and ill",
+     "example_en": "I think I have a fever. I feel very hot.",
+     "example_vi": "Tôi nghĩ mình bị sốt. Tôi thấy rất nóng.",
+     "cefr": "B1"
+    },
+    {
+     "word": "It hurts here.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi đau ở chỗ này.",
+     "definition_en": "used to point to pain",
+     "example_en": "It hurts here when I breathe deeply.",
+     "example_vi": "Tôi đau ở chỗ này khi hít thở sâu.",
+     "cefr": "B1"
+    },
+    {
+     "word": "How long have you had these symptoms?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn bị các triệu chứng này bao lâu rồi?",
+     "definition_en": "a doctor's question",
+     "example_en": "How long have you had these symptoms?",
+     "example_vi": "Bạn bị các triệu chứng này bao lâu rồi?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Are you allergic to any medicine?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn có dị ứng với loại thuốc nào không?",
+     "definition_en": "a question before prescribing",
+     "example_en": "Are you allergic to any medicine, such as penicillin?",
+     "example_vi": "Bạn có dị ứng với loại thuốc nào không, như penicillin?",
+     "cefr": "B1"
+    },
+    {
+     "word": "You should get plenty of rest.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn nên nghỉ ngơi thật nhiều.",
+     "definition_en": "common medical advice",
+     "example_en": "You should get plenty of rest and drink water.",
+     "example_vi": "Bạn nên nghỉ ngơi thật nhiều và uống nhiều nước.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Take this twice a day after meals.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Uống thuốc này hai lần mỗi ngày sau bữa ăn.",
+     "definition_en": "instructions for taking medicine",
+     "example_en": "Take this twice a day after meals for a week.",
+     "example_vi": "Uống thuốc này hai lần mỗi ngày sau bữa ăn trong một tuần.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Do I need any tests?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi có cần xét nghiệm gì không?",
+     "definition_en": "used to ask about medical tests",
+     "example_en": "Do I need any tests, or is it just a cold?",
+     "example_vi": "Tôi có cần xét nghiệm gì không, hay chỉ là cảm lạnh?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Will it take long to recover?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Có lâu hồi phục không?",
+     "definition_en": "used to ask about recovery time",
+     "example_en": "Will it take long to recover from this?",
+     "example_vi": "Hồi phục sau bệnh này có lâu không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Where can I fill this prescription?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi mua thuốc theo đơn này ở đâu?",
+     "definition_en": "used to ask where to buy medicine",
+     "example_en": "Where can I fill this prescription nearby?",
+     "example_vi": "Gần đây tôi mua thuốc theo đơn này ở đâu?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I need a medical certificate.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Tôi cần giấy xác nhận sức khỏe.",
+     "definition_en": "used to request a doctor's note",
+     "example_en": "I need a medical certificate for my employer.",
+     "example_vi": "Tôi cần giấy xác nhận sức khỏe cho công ty.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "slug": "small-talk",
+   "title": "Small talk",
+   "title_vi": "Trò chuyện xã giao",
+   "day_number": null,
+   "sort_order": 10,
+   "words": [
+    {
+     "word": "Nice weather today, isn't it?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hôm nay thời tiết đẹp nhỉ?",
+     "definition_en": "a common way to start a chat",
+     "example_en": "Nice weather today, isn't it? Perfect for a walk.",
+     "example_vi": "Hôm nay thời tiết đẹp nhỉ? Thích hợp để đi dạo.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Did you have a good weekend?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Cuối tuần của bạn vui chứ?",
+     "definition_en": "a friendly question to start a chat",
+     "example_en": "Did you have a good weekend? I went hiking.",
+     "example_vi": "Cuối tuần của bạn vui chứ? Mình đã đi leo núi.",
+     "cefr": "B1"
+    },
+    {
+     "word": "What do you do for a living?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn làm nghề gì?",
+     "definition_en": "used to ask about someone's job",
+     "example_en": "What do you do for a living? I'm a nurse.",
+     "example_vi": "Bạn làm nghề gì? Mình là y tá.",
+     "cefr": "B1"
+    },
+    {
+     "word": "What do you do in your free time?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn làm gì lúc rảnh?",
+     "definition_en": "used to ask about hobbies",
+     "example_en": "What do you do in your free time? I paint.",
+     "example_vi": "Bạn làm gì lúc rảnh? Mình vẽ tranh.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Have you been here before?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn từng đến đây chưa?",
+     "definition_en": "used to talk about a place",
+     "example_en": "Have you been here before? The coffee is great.",
+     "example_vi": "Bạn từng đến đây chưa? Cà phê ở đây rất ngon.",
+     "cefr": "B1"
+    },
+    {
+     "word": "That sounds interesting.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Nghe thú vị đấy.",
+     "definition_en": "used to show interest",
+     "example_en": "You're learning the violin? That sounds interesting.",
+     "example_vi": "Bạn đang học vĩ cầm à? Nghe thú vị đấy.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Really? Tell me more.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Thật sao? Kể thêm cho mình nghe.",
+     "definition_en": "used to encourage someone to continue",
+     "example_en": "You met a famous singer? Really? Tell me more.",
+     "example_vi": "Bạn gặp một ca sĩ nổi tiếng à? Thật sao? Kể thêm cho mình nghe.",
+     "cefr": "B1"
+    },
+    {
+     "word": "I couldn't agree more.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mình hoàn toàn đồng ý.",
+     "definition_en": "used to strongly agree",
+     "example_en": "The food here is amazing. I couldn't agree more.",
+     "example_vi": "Đồ ăn ở đây tuyệt vời. Mình hoàn toàn đồng ý.",
+     "cefr": "B1"
+    },
+    {
+     "word": "It's a small world!",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Thế giới nhỏ thật!",
+     "definition_en": "said when you meet an unexpected link",
+     "example_en": "You know my cousin? It's a small world!",
+     "example_vi": "Bạn quen anh họ mình à? Thế giới nhỏ thật!",
+     "cefr": "B1"
+    },
+    {
+     "word": "How's your family?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Gia đình bạn thế nào?",
+     "definition_en": "used to ask about someone's family",
+     "example_en": "How's your family? Are the kids well?",
+     "example_vi": "Gia đình bạn thế nào? Các con khỏe chứ?",
+     "cefr": "B1"
+    },
+    {
+     "word": "Do you have any plans for the holidays?",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Bạn có kế hoạch gì cho kỳ nghỉ không?",
+     "definition_en": "used to ask about future plans",
+     "example_en": "Do you have any plans for the holidays?",
+     "example_vi": "Bạn có kế hoạch gì cho kỳ nghỉ không?",
+     "cefr": "B1"
+    },
+    {
+     "word": "I've heard so much about you.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Mình nghe nhiều về bạn lắm.",
+     "definition_en": "used when meeting someone you know of",
+     "example_en": "I've heard so much about you from Linh.",
+     "example_vi": "Mình nghe Linh nói nhiều về bạn lắm.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Let's keep in touch.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Hãy giữ liên lạc nhé.",
+     "definition_en": "used when parting",
+     "example_en": "It was great to meet you. Let's keep in touch.",
+     "example_vi": "Rất vui được gặp bạn. Hãy giữ liên lạc nhé.",
+     "cefr": "B1"
+    },
+    {
+     "word": "Sorry, I have to run.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Xin lỗi, mình phải đi đây.",
+     "definition_en": "used to end a conversation politely",
+     "example_en": "Sorry, I have to run. I have a class at six.",
+     "example_vi": "Xin lỗi, mình phải đi đây. Sáu giờ mình có lớp.",
+     "cefr": "B1"
+    },
+    {
+     "word": "It was lovely talking to you.",
+     "ipa": null,
+     "pos": "phr",
+     "meaning_vi": "Rất vui được nói chuyện với bạn.",
+     "definition_en": "used to end a conversation politely",
+     "example_en": "It was lovely talking to you. Safe trip home!",
+     "example_vi": "Rất vui được nói chuyện với bạn. Về nhà an toàn nhé!",
+     "cefr": "B1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3297 @@
+{
+  "slug": "qe-test-01",
+  "title": "Test 01",
+  "collection": "QEnglishIT 2026",
+  "groups": [
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 101,
+          "question_text": "The marketing team will ------- the new product line at the trade fair next month.",
+          "options": [
+            {
+              "key": "A",
+              "text": "presents"
+            },
+            {
+              "key": "B",
+              "text": "present"
+            },
+            {
+              "key": "C",
+              "text": "presenting"
+            },
+            {
+              "key": "D",
+              "text": "presented"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau động từ khuyết thiếu \"will\" phải dùng động từ nguyên mẫu không \"to\" nên đáp án là present.",
+          "translation": "Nhóm tiếp thị sẽ giới thiệu dòng sản phẩm mới tại hội chợ thương mại vào tháng sau.\n(A) (chia ngôi 3 số ít); (B) giới thiệu; (C) đang giới thiệu; (D) đã giới thiệu",
+          "tags": [
+            "verb-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 102,
+          "question_text": "Ms. Tran was ------- for her outstanding sales performance at the annual banquet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "recognize"
+            },
+            {
+              "key": "B",
+              "text": "recognizing"
+            },
+            {
+              "key": "C",
+              "text": "recognized"
+            },
+            {
+              "key": "D",
+              "text": "recognition"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"was\" + V3 tạo thành câu bị động; cô Tran được ghi nhận (recognized) nhờ thành tích bán hàng xuất sắc.",
+          "translation": "Cô Tran được ghi nhận vì thành tích bán hàng xuất sắc tại buổi tiệc thường niên.\n(A) ghi nhận; (B) đang ghi nhận; (C) được ghi nhận; (D) sự ghi nhận",
+          "tags": [
+            "passive"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 103,
+          "question_text": "All visitors must sign in at the front desk ------- entering the laboratory.",
+          "options": [
+            {
+              "key": "A",
+              "text": "before"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "among"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"before + V-ing\" nghĩa là trước khi vào phòng thí nghiệm. During/despite/among không hợp nghĩa hoặc không đi với hành động này.",
+          "translation": "Mọi khách tham quan phải đăng ký tại quầy lễ tân trước khi vào phòng thí nghiệm.\n(A) trước khi; (B) trong suốt; (C) mặc dù; (D) giữa",
+          "tags": [
+            "preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 104,
+          "question_text": "The new accounting software is ------- easier to use than the previous version.",
+          "options": [
+            {
+              "key": "A",
+              "text": "considerable"
+            },
+            {
+              "key": "B",
+              "text": "consider"
+            },
+            {
+              "key": "C",
+              "text": "considering"
+            },
+            {
+              "key": "D",
+              "text": "considerably"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cần một trạng từ bổ nghĩa cho so sánh hơn \"easier\": considerably (đáng kể).",
+          "translation": "Phần mềm kế toán mới dễ sử dụng hơn đáng kể so với phiên bản trước.\n(A) (tính từ); (B) xem xét; (C) xem xét (V-ing); (D) đáng kể",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 105,
+          "question_text": "Please submit your expense report to the finance department ------- the end of the week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "by"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"by\" chỉ hạn chót của hành động xảy ra một lần (nộp báo cáo). \"until\" dùng cho hành động kéo dài liên tục.",
+          "translation": "Vui lòng nộp báo cáo chi phí cho phòng tài chính trước cuối tuần.\n(A) cho đến khi; (B) trước (hạn chót); (C) trong suốt; (D) kể từ",
+          "tags": [
+            "preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 106,
+          "question_text": "Mr. Okafor is responsible for ------- that all shipments leave the warehouse on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ensuring"
+            },
+            {
+              "key": "B",
+              "text": "ensure"
+            },
+            {
+              "key": "C",
+              "text": "ensured"
+            },
+            {
+              "key": "D",
+              "text": "ensures"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau giới từ \"for\" dùng danh động từ (V-ing): ensuring.",
+          "translation": "Ông Okafor chịu trách nhiệm đảm bảo mọi lô hàng rời kho đúng giờ.\n(A) đảm bảo (V-ing); (B) đảm bảo; (C) đã đảm bảo; (D) đảm bảo (ngôi 3)",
+          "tags": [
+            "gerund"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 107,
+          "question_text": "The restaurant's popularity has grown ------- since it was reviewed in a national magazine.",
+          "options": [
+            {
+              "key": "A",
+              "text": "steady"
+            },
+            {
+              "key": "B",
+              "text": "steadiness"
+            },
+            {
+              "key": "C",
+              "text": "steadily"
+            },
+            {
+              "key": "D",
+              "text": "steadier"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cần trạng từ bổ nghĩa cho động từ \"has grown\": steadily.",
+          "translation": "Mức độ nổi tiếng của nhà hàng tăng đều đặn kể từ khi được một tạp chí quốc gia đánh giá.\n(A) đều đặn (tính từ); (B) sự đều đặn; (C) đều đặn (trạng từ); (D) đều hơn",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 108,
+          "question_text": "Employees who wish to work from home must obtain ------- from their department manager.",
+          "options": [
+            {
+              "key": "A",
+              "text": "approve"
+            },
+            {
+              "key": "B",
+              "text": "approved"
+            },
+            {
+              "key": "C",
+              "text": "approving"
+            },
+            {
+              "key": "D",
+              "text": "approval"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau động từ \"obtain\" cần một danh từ làm tân ngữ: approval (sự chấp thuận).",
+          "translation": "Nhân viên muốn làm việc tại nhà phải có sự chấp thuận của trưởng phòng.\n(A) chấp thuận; (B) đã được chấp thuận; (C) đang chấp thuận; (D) sự chấp thuận",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 109,
+          "question_text": "The conference room is available to all staff ------- it has been reserved in advance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "owing to"
+            },
+            {
+              "key": "B",
+              "text": "as long as"
+            },
+            {
+              "key": "C",
+              "text": "rather than"
+            },
+            {
+              "key": "D",
+              "text": "in spite of"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Chỗ trống cần một liên từ nối với mệnh đề \"it has been reserved\"; \"as long as\" (miễn là) hợp nghĩa. Các lựa chọn còn lại là giới từ/cụm giới từ.",
+          "translation": "Phòng họp dành cho mọi nhân viên miễn là đã được đặt trước.\n(A) do bởi; (B) miễn là; (C) thay vì; (D) mặc dù",
+          "tags": [
+            "conjunction"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 110,
+          "question_text": "Ms. Park's presentation was so ------- that several clients asked for a copy of her slides.",
+          "options": [
+            {
+              "key": "A",
+              "text": "informative"
+            },
+            {
+              "key": "B",
+              "text": "inform"
+            },
+            {
+              "key": "C",
+              "text": "information"
+            },
+            {
+              "key": "D",
+              "text": "informatively"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau \"was so\" cần tính từ: informative (bổ ích, nhiều thông tin).",
+          "translation": "Bài thuyết trình của cô Park bổ ích đến mức vài khách hàng xin bản sao các slide.\n(A) nhiều thông tin; (B) thông báo; (C) thông tin; (D) một cách bổ ích",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 111,
+          "question_text": "The company plans to ------- its customer service department by hiring ten new representatives.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attend"
+            },
+            {
+              "key": "B",
+              "text": "reserve"
+            },
+            {
+              "key": "C",
+              "text": "predict"
+            },
+            {
+              "key": "D",
+              "text": "expand"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"expand a department\" (mở rộng bộ phận) hợp nghĩa với việc thuê thêm mười nhân viên.",
+          "translation": "Công ty dự định mở rộng bộ phận chăm sóc khách hàng bằng cách thuê mười đại diện mới.\n(A) tham dự; (B) đặt trước; (C) dự đoán; (D) mở rộng",
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 112,
+          "question_text": "Applicants ------- résumés were received after the deadline will not be considered.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "their"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sở hữu \"résumés của ứng viên\" cần đại từ quan hệ sở hữu \"whose\" đứng trước danh từ.",
+          "translation": "Những ứng viên có hồ sơ được nhận sau hạn chót sẽ không được xem xét.\n(A) người mà; (B) cái mà; (C) mà ... của họ; (D) của họ",
+          "tags": [
+            "relative-pronoun"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 113,
+          "question_text": "The newly hired designer is expected to ------- closely with the engineering team.",
+          "options": [
+            {
+              "key": "A",
+              "text": "collaboration"
+            },
+            {
+              "key": "B",
+              "text": "collaborate"
+            },
+            {
+              "key": "C",
+              "text": "collaborative"
+            },
+            {
+              "key": "D",
+              "text": "collaboratively"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau \"to\" (trong \"is expected to\") dùng động từ nguyên mẫu: collaborate.",
+          "translation": "Nhà thiết kế mới được tuyển dự kiến sẽ cộng tác chặt chẽ với nhóm kỹ thuật.\n(A) sự cộng tác; (B) cộng tác; (C) mang tính cộng tác; (D) một cách cộng tác",
+          "tags": [
+            "verb-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 114,
+          "question_text": "Hotel guests may use the fitness center free of charge, ------- the swimming pool requires a small fee.",
+          "options": [
+            {
+              "key": "A",
+              "text": "however"
+            },
+            {
+              "key": "B",
+              "text": "therefore"
+            },
+            {
+              "key": "C",
+              "text": "moreover"
+            },
+            {
+              "key": "D",
+              "text": "whereas"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cần liên từ nối hai mệnh đề đối lập: whereas (trong khi). However/therefore/moreover là trạng từ, không nối được hai mệnh đề bằng dấu phẩy.",
+          "translation": "Khách khách sạn có thể dùng phòng tập miễn phí, trong khi hồ bơi yêu cầu một khoản phí nhỏ.\n(A) tuy nhiên; (B) vì vậy; (C) hơn nữa; (D) trong khi",
+          "tags": [
+            "conjunction"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 115,
+          "question_text": "The company's new headquarters is located ------- the river, near the central train station.",
+          "options": [
+            {
+              "key": "A",
+              "text": "along"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "between"
+            },
+            {
+              "key": "D",
+              "text": "toward"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"along the river\" (dọc theo bờ sông) là cách diễn đạt tự nhiên cho vị trí.",
+          "translation": "Trụ sở mới của công ty nằm dọc bờ sông, gần ga tàu trung tâm.\n(A) dọc theo; (B) giữa (nhiều); (C) giữa (hai); (D) hướng về",
+          "tags": [
+            "preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 116,
+          "question_text": "Before ------- a contract, both parties should read every clause carefully.",
+          "options": [
+            {
+              "key": "A",
+              "text": "signed"
+            },
+            {
+              "key": "B",
+              "text": "signs"
+            },
+            {
+              "key": "C",
+              "text": "signing"
+            },
+            {
+              "key": "D",
+              "text": "to sign"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau giới từ \"before\" dùng V-ing: signing.",
+          "translation": "Trước khi ký hợp đồng, cả hai bên nên đọc kỹ từng điều khoản.\n(A) đã ký; (B) ký (ngôi 3); (C) ký (V-ing); (D) để ký",
+          "tags": [
+            "gerund"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 117,
+          "question_text": "Dr. Lim is one of the most ------- engineers in the aerospace industry.",
+          "options": [
+            {
+              "key": "A",
+              "text": "respect"
+            },
+            {
+              "key": "B",
+              "text": "respectful"
+            },
+            {
+              "key": "C",
+              "text": "respecting"
+            },
+            {
+              "key": "D",
+              "text": "respected"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cần tính từ mang nghĩa bị động: \"most respected engineers\" (kỹ sư được kính trọng nhất). Respectful có nghĩa là lễ phép nên sai nghĩa.",
+          "translation": "Tiến sĩ Lim là một trong những kỹ sư được kính trọng nhất ngành hàng không vũ trụ.\n(A) sự kính trọng; (B) lễ phép; (C) đang kính trọng; (D) được kính trọng",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 118,
+          "question_text": "The shipment will be sent to the customer's home ------- a different address is specified.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "besides"
+            },
+            {
+              "key": "D",
+              "text": "between"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cần liên từ mở mệnh đề: unless (trừ khi). Các lựa chọn còn lại là giới từ.",
+          "translation": "Lô hàng sẽ được gửi đến nhà khách trừ khi có chỉ định địa chỉ khác.\n(A) mặc dù; (B) trừ khi; (C) ngoài ra; (D) giữa",
+          "tags": [
+            "conjunction"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 119,
+          "question_text": "Ticket prices for the summer concert series have been ------- reduced to attract more visitors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "temporarily"
+            },
+            {
+              "key": "B",
+              "text": "temporary"
+            },
+            {
+              "key": "C",
+              "text": "temporaries"
+            },
+            {
+              "key": "D",
+              "text": "temporize"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Giữa \"have been\" và V3 \"reduced\" cần trạng từ: temporarily (một cách tạm thời).",
+          "translation": "Giá vé loạt hòa nhạc mùa hè đã được giảm tạm thời để thu hút thêm khách.\n(A) tạm thời (trạng từ); (B) tạm thời (tính từ); (C) nhân viên tạm; (D) trì hoãn",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 120,
+          "question_text": "Please keep your receipt as ------- of purchase when returning an item.",
+          "options": [
+            {
+              "key": "A",
+              "text": "prove"
+            },
+            {
+              "key": "B",
+              "text": "proven"
+            },
+            {
+              "key": "C",
+              "text": "proof"
+            },
+            {
+              "key": "D",
+              "text": "proving"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau \"as\" cần danh từ: \"proof of purchase\" (bằng chứng mua hàng).",
+          "translation": "Vui lòng giữ biên lai làm bằng chứng mua hàng khi trả lại món đồ.\n(A) chứng minh; (B) đã được chứng minh; (C) bằng chứng; (D) đang chứng minh",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 121,
+          "question_text": "The factory's output increased ------- 12 percent after the new machines were installed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "by"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"increase by + số lượng\" diễn tả mức tăng lên là bao nhiêu.",
+          "translation": "Sản lượng nhà máy tăng thêm 12 phần trăm sau khi lắp máy mới.\n(A) cho; (B) thêm (mức); (C) với; (D) trên",
+          "tags": [
+            "preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 122,
+          "question_text": "------- the heavy traffic, Ms. Alvarez arrived at the client meeting on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Because"
+            },
+            {
+              "key": "D",
+              "text": "Despite"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau chỗ trống là cụm danh từ \"the heavy traffic\" nên cần giới từ: Despite.",
+          "translation": "Mặc dù giao thông đông đúc, cô Alvarez vẫn đến buổi họp với khách hàng đúng giờ.\n(A) Mặc dù (liên từ); (B) Tuy nhiên; (C) Bởi vì; (D) Mặc dù (giới từ)",
+          "tags": [
+            "preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 123,
+          "question_text": "Mr. Dubois asked his assistant to ------- the figures once more before the report was printed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "invite"
+            },
+            {
+              "key": "B",
+              "text": "reply"
+            },
+            {
+              "key": "C",
+              "text": "verify"
+            },
+            {
+              "key": "D",
+              "text": "pursue"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"verify the figures\" (kiểm chứng các số liệu) hợp nghĩa với ngữ cảnh trước khi in báo cáo.",
+          "translation": "Ông Dubois yêu cầu trợ lý kiểm tra lại các số liệu một lần nữa trước khi báo cáo được in.\n(A) mời; (B) trả lời; (C) kiểm tra lại; (D) theo đuổi",
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 124,
+          "question_text": "The two firms have agreed to ------- their research and development departments.",
+          "options": [
+            {
+              "key": "A",
+              "text": "merge"
+            },
+            {
+              "key": "B",
+              "text": "gather"
+            },
+            {
+              "key": "C",
+              "text": "donate"
+            },
+            {
+              "key": "D",
+              "text": "insist"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"merge departments\" (sáp nhập các bộ phận) là cụm đúng nghĩa; các từ còn lại không đi với tân ngữ này.",
+          "translation": "Hai công ty đã đồng ý sáp nhập các bộ phận nghiên cứu và phát triển.\n(A) sáp nhập; (B) tập hợp; (C) quyên tặng; (D) khăng khăng",
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 125,
+          "question_text": "A ------- of the museum's collection will be on display at the airport throughout June.",
+          "options": [
+            {
+              "key": "A",
+              "text": "select"
+            },
+            {
+              "key": "B",
+              "text": "selective"
+            },
+            {
+              "key": "C",
+              "text": "selecting"
+            },
+            {
+              "key": "D",
+              "text": "selection"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau mạo từ \"A\" và trước giới từ \"of\" cần danh từ: selection.",
+          "translation": "Một tuyển chọn từ bộ sưu tập của bảo tàng sẽ được trưng bày tại sân bay suốt tháng Sáu.\n(A) chọn; (B) có chọn lọc; (C) đang chọn; (D) tuyển chọn (danh từ)",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 126,
+          "question_text": "Ms. Hayashi has been working at the bank ------- more than fifteen years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "since"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hiện tại hoàn thành tiếp diễn + \"for + khoảng thời gian\" (more than fifteen years).",
+          "translation": "Bà Hayashi đã làm việc tại ngân hàng hơn mười lăm năm.\n(A) kể từ; (B) trong (khoảng); (C) trong suốt (sự kiện); (D) từ",
+          "tags": [
+            "tense-preposition"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 127,
+          "question_text": "Neither the manager nor the assistants ------- aware of the schedule change.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "being"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Với \"neither ... nor\", động từ hòa hợp với chủ ngữ gần nhất là \"the assistants\" (số nhiều) và câu ở quá khứ nên dùng were.",
+          "translation": "Cả người quản lý lẫn các trợ lý đều không biết về việc thay đổi lịch.\n(A) đã (số nhiều); (B) đã (số ít); (C) đang là; (D) đang",
+          "tags": [
+            "subject-verb-agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 128,
+          "question_text": "The seminar is intended for employees ------- want to improve their presentation skills.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whom"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "who"
+            },
+            {
+              "key": "D",
+              "text": "what"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đại từ quan hệ thay cho \"employees\" (người) và làm chủ ngữ của \"want\" là \"who\".",
+          "translation": "Buổi hội thảo dành cho những nhân viên muốn cải thiện kỹ năng thuyết trình.\n(A) người mà (tân ngữ); (B) cái mà; (C) người mà (chủ ngữ); (D) cái gì",
+          "tags": [
+            "relative-pronoun"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 129,
+          "question_text": "We are pleased to announce that Ms. Greene has been ------- to regional director.",
+          "options": [
+            {
+              "key": "A",
+              "text": "promote"
+            },
+            {
+              "key": "B",
+              "text": "promoting"
+            },
+            {
+              "key": "C",
+              "text": "promotion"
+            },
+            {
+              "key": "D",
+              "text": "promoted"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"has been + V3\" là bị động hoàn thành; \"promoted to\" nghĩa là được thăng chức lên.",
+          "translation": "Chúng tôi vui mừng thông báo bà Greene đã được thăng chức lên giám đốc khu vực.\n(A) thăng chức; (B) đang thăng chức; (C) sự thăng chức; (D) được thăng chức",
+          "tags": [
+            "passive"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "passage": null,
+      "passage_vi": null,
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 130,
+          "question_text": "Customers can track their orders by using ------- the mobile app or the Web site.",
+          "options": [
+            {
+              "key": "A",
+              "text": "neither"
+            },
+            {
+              "key": "B",
+              "text": "either"
+            },
+            {
+              "key": "C",
+              "text": "both"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cấu trúc \"either ... or\" (hoặc ... hoặc). \"Both\" phải đi với \"and\".",
+          "translation": "Khách hàng có thể theo dõi đơn hàng bằng ứng dụng di động hoặc trang web.\n(A) không cái nào; (B) hoặc (một trong hai); (C) cả hai; (D) liệu",
+          "tags": [
+            "correlative"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "To: All Staff\nFrom: Rebecca Lindqvist, Facilities Manager\nDate: March 3\nSubject: Third-floor renovation\n\nDear colleagues,\n\nBeginning March 17, the third floor of our building -------(131)------- for renovation. The work is expected to take approximately six weeks. During this period, employees in the Accounting and Human Resources departments will relocate temporarily to the fifth floor. -------(132)-------. Moving boxes will be delivered to each desk on March 10, and all personal items should be packed -------(133)------- the end of that week.\n\nThe main elevator will remain in service, but the construction may cause some -------(134)-------. We will do everything we can to keep it to a minimum. Thank you for your patience and cooperation.\n\nRebecca Lindqvist",
+      "passage_vi": "Đến: Toàn thể nhân viên\nTừ: Rebecca Lindqvist, Quản lý cơ sở vật chất\nNgày: 3 tháng 3\nChủ đề: Cải tạo tầng ba\n\nThưa các đồng nghiệp,\n\nBắt đầu từ ngày 17 tháng 3, tầng ba của tòa nhà sẽ bị đóng cửa để cải tạo. Công việc dự kiến kéo dài khoảng sáu tuần. Trong thời gian này, nhân viên phòng Kế toán và phòng Nhân sự sẽ tạm thời chuyển lên tầng năm. Khu làm việc mới của họ đã được trang bị cùng loại máy tính và điện thoại mà họ đang dùng. Hộp đựng đồ sẽ được giao đến từng bàn vào ngày 10 tháng 3, và mọi đồ dùng cá nhân cần được đóng gói trước cuối tuần đó.\n\nThang máy chính vẫn hoạt động, nhưng việc thi công có thể gây ra một số bất tiện. Chúng tôi sẽ cố gắng hết sức để giữ ở mức tối thiểu. Cảm ơn sự kiên nhẫn và hợp tác của quý vị.\n\nRebecca Lindqvist",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 131,
+          "question_text": "-------(131)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "was closed"
+            },
+            {
+              "key": "B",
+              "text": "closing"
+            },
+            {
+              "key": "C",
+              "text": "will be closed"
+            },
+            {
+              "key": "D",
+              "text": "has closed"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Mốc \"Beginning March 17\" ở tương lai và tầng nhà là đối tượng bị tác động nên dùng bị động tương lai: will be closed.",
+          "translation": "Chỗ trống (131): tầng ba ... để cải tạo. (A) đã bị đóng (B) đang đóng (C) sẽ bị đóng (D) đã đóng",
+          "tags": [
+            "tense"
+          ]
+        },
+        {
+          "number": 132,
+          "question_text": "-------(132)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their new workspaces have been equipped with the same computers and telephones they use now."
+            },
+            {
+              "key": "B",
+              "text": "The renovation was originally planned for last year."
+            },
+            {
+              "key": "C",
+              "text": "Please remember to turn off the lights when you leave."
+            },
+            {
+              "key": "D",
+              "text": "The cafeteria will serve a new menu starting in April."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu trước nói nhân viên chuyển lên tầng năm, câu sau nói về hộp đựng đồ. Câu A nối mạch: khu làm việc mới (\"Their new workspaces\") đã có trang thiết bị giống cũ.",
+          "translation": "(A) Khu làm việc mới của họ đã được trang bị cùng loại máy tính và điện thoại họ đang dùng. (B) Việc cải tạo ban đầu được lên kế hoạch từ năm ngoái. (C) Nhớ tắt đèn khi ra về. (D) Căng-tin sẽ phục vụ thực đơn mới từ tháng Tư.",
+          "tags": [
+            "sentence-insertion"
+          ]
+        },
+        {
+          "number": 133,
+          "question_text": "-------(133)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "during"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "until"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"by the end of that week\" nghĩa là chậm nhất vào cuối tuần đó (hạn chót). Until dùng cho hành động kéo dài liên tục.",
+          "translation": "Chỗ trống (133): ... cuối tuần đó. (A) trong suốt (B) kể từ (C) cho đến khi (D) trước/chậm nhất vào",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "number": 134,
+          "question_text": "-------(134)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "inconvenient"
+            },
+            {
+              "key": "B",
+              "text": "inconvenience"
+            },
+            {
+              "key": "C",
+              "text": "inconveniently"
+            },
+            {
+              "key": "D",
+              "text": "inconvenienced"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"cause some ...\" cần một danh từ làm tân ngữ: inconvenience (sự bất tiện).",
+          "translation": "Chỗ trống (134): gây ra một số ... (A) bất tiện (tính từ) (B) sự bất tiện (C) một cách bất tiện (D) bị làm phiền",
+          "tags": [
+            "word-form"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "NOTICE TO ALL TENANTS\n\nEffective April 1, Harbor Point Office Park will introduce a new parking permit system. Each tenant -------(135)------- a permit sticker for every vehicle that will be parked in the lots. -------(136)-------. Permits can be requested at the management office on the ground floor of Building A. You will need to bring your vehicle registration and a -------(137)------- photo ID. Vehicles without a permit will be -------(138)------- after April 15, and owners will be charged a towing fee.\n\nThank you for helping us keep the park safe and orderly.\n\nHarbor Point Management Office",
+      "passage_vi": "THÔNG BÁO CHO TOÀN BỘ NGƯỜI THUÊ\n\nCó hiệu lực từ ngày 1 tháng 4, Khu văn phòng Harbor Point sẽ áp dụng hệ thống thẻ đỗ xe mới. Mỗi người thuê phải dán nhãn thẻ đỗ xe cho mọi phương tiện đỗ trong các bãi. Thẻ đầu tiên miễn phí, nhưng các thẻ bổ sung có giá 20 đô la mỗi thẻ. Có thể đăng ký thẻ tại văn phòng quản lý ở tầng trệt tòa nhà A. Quý vị cần mang theo giấy đăng ký xe và giấy tờ tùy thân có ảnh còn hiệu lực. Xe không có thẻ sẽ bị kéo đi sau ngày 15 tháng 4, và chủ xe sẽ bị tính phí kéo xe.\n\nCảm ơn quý vị đã giúp chúng tôi giữ khu văn phòng an toàn và trật tự.\n\nVăn phòng quản lý Harbor Point",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 135,
+          "question_text": "-------(135)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "display"
+            },
+            {
+              "key": "B",
+              "text": "displayed"
+            },
+            {
+              "key": "C",
+              "text": "displaying"
+            },
+            {
+              "key": "D",
+              "text": "must display"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Chủ ngữ \"Each tenant\" cần một động từ có chia/động từ khuyết thiếu; chỉ \"must display\" tạo thành vị ngữ hoàn chỉnh.",
+          "translation": "Chỗ trống (135): Mỗi người thuê ... nhãn thẻ đỗ xe. (A) hiển thị (B) đã hiển thị (C) đang hiển thị (D) phải dán/hiển thị",
+          "tags": [
+            "verb-form"
+          ]
+        },
+        {
+          "number": 136,
+          "question_text": "-------(136)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The lots are cleaned every Tuesday morning."
+            },
+            {
+              "key": "B",
+              "text": "Harbor Point Office Park was built ten years ago."
+            },
+            {
+              "key": "C",
+              "text": "The first permit is free of charge, but additional ones cost $20 each."
+            },
+            {
+              "key": "D",
+              "text": "Visitors may use the lobby telephone at any time."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu trước nói mỗi xe cần một thẻ, câu sau nói cách xin thẻ. Câu C nói về chi phí của thẻ, nối tiếp hợp lý (\"additional ones\" chỉ các thẻ thêm).",
+          "translation": "(A) Các bãi xe được dọn vào sáng thứ Ba hằng tuần. (B) Khu văn phòng được xây cách đây mười năm. (C) Thẻ đầu tiên miễn phí, nhưng các thẻ thêm giá 20 đô la mỗi thẻ. (D) Khách có thể dùng điện thoại sảnh bất cứ lúc nào.",
+          "tags": [
+            "sentence-insertion"
+          ]
+        },
+        {
+          "number": 137,
+          "question_text": "-------(137)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "valid"
+            },
+            {
+              "key": "B",
+              "text": "validate"
+            },
+            {
+              "key": "C",
+              "text": "validity"
+            },
+            {
+              "key": "D",
+              "text": "validly"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cần tính từ đứng trước cụm danh từ \"photo ID\": valid (còn hiệu lực).",
+          "translation": "Chỗ trống (137): giấy tờ tùy thân có ảnh ... (A) còn hiệu lực (B) xác nhận (C) tính hợp lệ (D) một cách hợp lệ",
+          "tags": [
+            "word-form"
+          ]
+        },
+        {
+          "number": 138,
+          "question_text": "-------(138)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "tow"
+            },
+            {
+              "key": "B",
+              "text": "towed"
+            },
+            {
+              "key": "C",
+              "text": "towing"
+            },
+            {
+              "key": "D",
+              "text": "tows"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"will be + V3\": will be towed (sẽ bị kéo đi), phù hợp với câu sau về phí kéo xe.",
+          "translation": "Chỗ trống (138): Xe không có thẻ sẽ bị ... sau ngày 15/4. (A) kéo (B) bị kéo đi (C) đang kéo (D) kéo (ngôi 3)",
+          "tags": [
+            "passive"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "Greenfield Bakery Opens Second Location\n\nDUNMORE (June 5) – Greenfield Bakery, a popular family-owned business in Dunmore, will open its second location on Elm Street this Saturday. The owner, Carla Medina, says the decision to expand came -------(139)------- customers repeatedly asked for a shop closer to the downtown area.\n\nThe new shop will offer the same -------(140)------- of breads and pastries as the original. -------(141)-------. To staff the new shop, Ms. Medina -------(142)------- twelve additional employees, most of whom are local residents.\n\nThe grand opening will begin at 7 A.M. The first one hundred customers will receive a free loaf of bread.",
+      "passage_vi": "Tiệm bánh Greenfield khai trương cơ sở thứ hai\n\nDUNMORE (5 tháng 6) – Tiệm bánh Greenfield, một cơ sở kinh doanh gia đình nổi tiếng ở Dunmore, sẽ mở cơ sở thứ hai trên phố Elm vào thứ Bảy này. Chủ tiệm, bà Carla Medina, cho biết quyết định mở rộng đến sau khi khách hàng liên tục đề nghị có một cửa hàng gần khu trung tâm hơn.\n\nCửa hàng mới sẽ có cùng tuyển chọn bánh mì và bánh ngọt như cửa hàng gốc. Ngoài ra, cửa hàng còn có một quán cà phê nhỏ để khách thưởng thức cà phê và bánh sandwich. Để có đủ nhân sự cho cửa hàng mới, bà Medina đã tuyển thêm mười hai nhân viên, hầu hết là cư dân địa phương.\n\nLễ khai trương bắt đầu lúc 7 giờ sáng. Một trăm khách hàng đầu tiên sẽ nhận được một ổ bánh mì miễn phí.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 139,
+          "question_text": "-------(139)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "therefore"
+            },
+            {
+              "key": "B",
+              "text": "after"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "rather"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cần liên từ mở mệnh đề \"customers repeatedly asked...\"; \"after\" hợp nghĩa (quyết định đến sau khi khách đề nghị). Despite là giới từ, therefore/rather là trạng từ.",
+          "translation": "Chỗ trống (139): quyết định mở rộng đến ... khách hàng liên tục đề nghị. (A) vì vậy (B) sau khi (C) mặc dù (D) đúng hơn",
+          "tags": [
+            "conjunction"
+          ]
+        },
+        {
+          "number": 140,
+          "question_text": "-------(140)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "proposal"
+            },
+            {
+              "key": "B",
+              "text": "entrance"
+            },
+            {
+              "key": "C",
+              "text": "rental"
+            },
+            {
+              "key": "D",
+              "text": "selection"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"the same selection of breads and pastries\" (cùng sự tuyển chọn bánh) là cụm đúng; các danh từ khác không hợp nghĩa.",
+          "translation": "Chỗ trống (140): cùng ... bánh mì và bánh ngọt. (A) đề xuất (B) lối vào (C) tiền thuê (D) tuyển chọn/danh mục",
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "number": 141,
+          "question_text": "-------(141)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "In addition, it will feature a small café where customers can enjoy coffee and sandwiches."
+            },
+            {
+              "key": "B",
+              "text": "The original shop will close permanently next month."
+            },
+            {
+              "key": "C",
+              "text": "Ms. Medina studied business at a university abroad."
+            },
+            {
+              "key": "D",
+              "text": "Bread prices have risen across the country this year."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu trước nói cửa hàng mới có cùng danh mục bánh; câu A bổ sung thêm tiện ích (quán cà phê) bằng \"In addition\", mạch lạc. Các câu khác không liên quan hoặc mâu thuẫn.",
+          "translation": "(A) Ngoài ra, cửa hàng có quán cà phê nhỏ để khách dùng cà phê và sandwich. (B) Cửa hàng gốc sẽ đóng cửa vĩnh viễn vào tháng sau. (C) Bà Medina học kinh doanh ở một trường đại học nước ngoài. (D) Giá bánh mì tăng khắp cả nước năm nay.",
+          "tags": [
+            "sentence-insertion"
+          ]
+        },
+        {
+          "number": 142,
+          "question_text": "-------(142)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "hire"
+            },
+            {
+              "key": "B",
+              "text": "hiring"
+            },
+            {
+              "key": "C",
+              "text": "has hired"
+            },
+            {
+              "key": "D",
+              "text": "to hire"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cần động từ có chia làm vị ngữ cho \"Ms. Medina\"; thì hiện tại hoàn thành \"has hired\" diễn tả việc đã tuyển xong trước khai trương.",
+          "translation": "Chỗ trống (142): bà Medina ... mười hai nhân viên. (A) tuyển (B) đang tuyển (C) đã tuyển (D) để tuyển",
+          "tags": [
+            "tense"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "passage": "Dear Mr. Kowalski,\n\nThank you for being a loyal customer of Delmar Office Supply. We are writing to -------(143)------- you that your Preferred Member status will expire on May 31. To keep enjoying free shipping and a 10 percent discount on all orders, please renew -------(144)------- the end of the month. -------(145)-------.\n\nRenewing is simple. Just log in to your account on our Web site and click the \"Renew\" button. If you -------(146)------- any questions, call our customer service line at 555-0142.\n\nSincerely,\nCustomer Care Team\nDelmar Office Supply",
+      "passage_vi": "Kính gửi ông Kowalski,\n\nCảm ơn ông đã là khách hàng thân thiết của Delmar Office Supply. Chúng tôi viết thư này để nhắc ông rằng tư cách Thành viên Ưu đãi của ông sẽ hết hạn vào ngày 31 tháng 5. Để tiếp tục hưởng miễn phí vận chuyển và giảm giá 10 phần trăm cho mọi đơn hàng, xin vui lòng gia hạn trước cuối tháng. Các thành viên gia hạn đúng hạn cũng sẽ nhận được một hộp bút miễn phí.\n\nViệc gia hạn rất đơn giản. Ông chỉ cần đăng nhập vào tài khoản trên trang web của chúng tôi và nhấp vào nút \"Renew\". Nếu ông có bất kỳ câu hỏi nào, hãy gọi đường dây chăm sóc khách hàng theo số 555-0142.\n\nTrân trọng,\nNhóm Chăm sóc khách hàng\nDelmar Office Supply",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 143,
+          "question_text": "-------(143)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "remind"
+            },
+            {
+              "key": "B",
+              "text": "reminder"
+            },
+            {
+              "key": "C",
+              "text": "reminded"
+            },
+            {
+              "key": "D",
+              "text": "reminding"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau \"to\" (we are writing to ...) dùng động từ nguyên mẫu: remind you that... (nhắc ông rằng...).",
+          "translation": "Chỗ trống (143): Chúng tôi viết thư để ... ông rằng... (A) nhắc (B) lời nhắc (C) đã nhắc (D) đang nhắc",
+          "tags": [
+            "verb-form"
+          ]
+        },
+        {
+          "number": 144,
+          "question_text": "-------(144)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "while"
+            },
+            {
+              "key": "B",
+              "text": "except"
+            },
+            {
+              "key": "C",
+              "text": "before"
+            },
+            {
+              "key": "D",
+              "text": "among"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"renew before the end of the month\" (gia hạn trước cuối tháng) hợp nghĩa; các từ còn lại không phù hợp.",
+          "translation": "Chỗ trống (144): hãy gia hạn ... cuối tháng. (A) trong khi (B) ngoại trừ (C) trước (D) giữa",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "number": 145,
+          "question_text": "-------(145)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Our store hours have changed for the holiday season."
+            },
+            {
+              "key": "B",
+              "text": "Delmar Office Supply was founded in 1985."
+            },
+            {
+              "key": "C",
+              "text": "Your last order was shipped on April 3 by ground."
+            },
+            {
+              "key": "D",
+              "text": "Members who renew on time will also receive a free box of pens."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu trước nhắc gia hạn để giữ ưu đãi; câu D bổ sung ưu đãi cho người gia hạn đúng hạn, nối tiếp tự nhiên. Các câu khác không liên quan đến việc gia hạn.",
+          "translation": "(A) Giờ mở cửa của cửa hàng đã thay đổi vào mùa lễ. (B) Delmar được thành lập năm 1985. (C) Đơn hàng gần nhất của ông được giao ngày 3/4. (D) Thành viên gia hạn đúng hạn cũng sẽ nhận một hộp bút miễn phí.",
+          "tags": [
+            "sentence-insertion"
+          ]
+        },
+        {
+          "number": 146,
+          "question_text": "-------(146)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "having"
+            },
+            {
+              "key": "B",
+              "text": "will have"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Mệnh đề điều kiện loại 1: \"If + chủ ngữ + V hiện tại\" nên dùng \"you have\".",
+          "translation": "Chỗ trống (146): Nếu ông ... bất kỳ câu hỏi nào. (A) đang có (B) sẽ có (C) có (D) có (ngôi 3)",
+          "tags": [
+            "tense"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "BRIGHTLINE CLEANING SERVICES\n\nIs your office ready for spring? Brightline offers professional cleaning for offices of any size. Our trained staff work in the evenings, so your employees are never disturbed. Choose from weekly, biweekly, or monthly plans. All plans include window washing and carpet care at no extra charge.\n\nNew customers who sign a six-month agreement before April 30 will receive their first month at half price. To request a free estimate, call 555-0188 or visit www.brightlineclean.example.",
+      "passage_vi": "DỊCH VỤ VỆ SINH BRIGHTLINE\n\nVăn phòng của bạn đã sẵn sàng cho mùa xuân chưa? Brightline cung cấp dịch vụ vệ sinh chuyên nghiệp cho văn phòng mọi quy mô. Nhân viên được đào tạo của chúng tôi làm việc vào buổi tối nên nhân viên của bạn không bao giờ bị làm phiền. Hãy chọn gói hằng tuần, hai tuần một lần hoặc hằng tháng. Mọi gói đều bao gồm rửa cửa sổ và chăm sóc thảm miễn phí.\n\nKhách hàng mới ký hợp đồng sáu tháng trước ngày 30 tháng 4 sẽ được giảm nửa giá tháng đầu tiên. Để yêu cầu báo giá miễn phí, hãy gọi 555-0188 hoặc truy cập www.brightlineclean.example.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 147,
+          "question_text": "What is indicated about Brightline's cleaning staff?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They offer training courses."
+            },
+            {
+              "key": "B",
+              "text": "They work in the evenings."
+            },
+            {
+              "key": "C",
+              "text": "They clean only large offices."
+            },
+            {
+              "key": "D",
+              "text": "They charge extra for window washing."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn 1: \"Our trained staff work in the evenings, so your employees are never disturbed.\" Vậy nhân viên làm việc vào buổi tối. Window washing đã gồm trong gói nên D sai.",
+          "translation": "Điều gì được nêu về nhân viên vệ sinh của Brightline? (A) Họ cung cấp khóa đào tạo. (B) Họ làm việc vào buổi tối. (C) Họ chỉ dọn văn phòng lớn. (D) Họ tính thêm phí rửa cửa sổ.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 148,
+          "question_text": "What must new customers do to receive a discount?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call before noon"
+            },
+            {
+              "key": "B",
+              "text": "Request a free estimate"
+            },
+            {
+              "key": "C",
+              "text": "Choose a monthly plan"
+            },
+            {
+              "key": "D",
+              "text": "Sign a six-month agreement by the end of April"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn 2: \"New customers who sign a six-month agreement before April 30 will receive their first month at half price.\"",
+          "translation": "Khách hàng mới phải làm gì để được giảm giá? (A) Gọi trước buổi trưa (B) Yêu cầu báo giá miễn phí (C) Chọn gói hằng tháng (D) Ký hợp đồng sáu tháng trước cuối tháng Tư",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Dana Wu [9:12 A.M.]: Kevin, did the printer cartridges arrive? We're almost out in the design studio.\n\nKevin Brandt [9:15 A.M.]: Not yet. The supplier said the truck was delayed because of road work on Route 9.\n\nDana Wu [9:16 A.M.]: Can you ask them for a new delivery time?\n\nKevin Brandt [9:20 A.M.]: Already did. They now expect to arrive by 2 P.M.\n\nDana Wu [9:21 A.M.]: That's too late. We have a client printing deadline at noon.\n\nKevin Brandt [9:23 A.M.]: I can pick up some cartridges at Moreno Office Mart. It's only ten minutes away.\n\nDana Wu [9:24 A.M.]: Please do. I'll send you the model number.",
+      "passage_vi": "Dana Wu [9:12 sáng]: Kevin, hộp mực máy in đã đến chưa? Studio thiết kế sắp hết rồi.\n\nKevin Brandt [9:15 sáng]: Chưa. Nhà cung cấp nói xe tải bị chậm vì sửa đường ở Đường 9.\n\nDana Wu [9:16 sáng]: Anh hỏi họ giờ giao mới được không?\n\nKevin Brandt [9:20 sáng]: Hỏi rồi. Giờ họ dự kiến đến trước 2 giờ chiều.\n\nDana Wu [9:21 sáng]: Muộn quá. Chúng ta có hạn in cho khách hàng vào buổi trưa.\n\nKevin Brandt [9:23 sáng]: Tôi có thể mua vài hộp mực ở Moreno Office Mart. Chỉ cách đây mười phút.\n\nDana Wu [9:24 sáng]: Anh làm đi. Tôi sẽ gửi anh số hiệu mẫu máy.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 149,
+          "question_text": "Why was the delivery delayed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The supplier ran out of stock."
+            },
+            {
+              "key": "B",
+              "text": "The order was placed late."
+            },
+            {
+              "key": "C",
+              "text": "A truck was held up by road work."
+            },
+            {
+              "key": "D",
+              "text": "The address was incorrect."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Kevin viết: \"the truck was delayed because of road work on Route 9.\"",
+          "translation": "Vì sao việc giao hàng bị chậm? (A) Nhà cung cấp hết hàng. (B) Đơn hàng được đặt muộn. (C) Xe tải bị chậm vì sửa đường. (D) Địa chỉ không chính xác.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 150,
+          "question_text": "At 9:21 A.M., what does Ms. Wu imply when she writes, \"That's too late\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She cannot wait until 2 P.M. for the cartridges."
+            },
+            {
+              "key": "B",
+              "text": "She wants to cancel the order."
+            },
+            {
+              "key": "C",
+              "text": "She has already left for lunch."
+            },
+            {
+              "key": "D",
+              "text": "She needs a different printer model."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Giao lúc 2 giờ chiều nhưng hạn in của khách là buổi trưa, nên \"too late\" nghĩa là cô không thể đợi đến 2 giờ chiều.",
+          "translation": "Lúc 9:21, cô Wu ngụ ý gì khi viết \"That's too late\"? (A) Cô không thể đợi đến 2 giờ chiều để có hộp mực. (B) Cô muốn hủy đơn hàng. (C) Cô đã đi ăn trưa. (D) Cô cần mẫu máy in khác.",
+          "tags": [
+            "intent"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "To: Production Team\nFrom: Hector Villanueva, Safety Officer\nDate: June 5\nSubject: Annual safety training\n\nAll production employees must complete the annual safety training before July 1. This year, the course will be held online instead of in the training room, so you can finish it at your own pace on any company computer. The course takes about 90 minutes. Upon completion, print your certificate and give it to your shift supervisor. Employees who have not finished by the deadline will not be allowed on the factory floor until they do.\n\nIf you encounter technical problems logging in, contact the IT help desk at extension 204.",
+      "passage_vi": "Đến: Nhóm sản xuất\nTừ: Hector Villanueva, Cán bộ an toàn\nNgày: 5 tháng 6\nChủ đề: Đào tạo an toàn hằng năm\n\nTất cả nhân viên sản xuất phải hoàn thành khóa đào tạo an toàn hằng năm trước ngày 1 tháng 7. Năm nay, khóa học sẽ diễn ra trực tuyến thay vì trong phòng đào tạo, nên bạn có thể hoàn thành theo tốc độ riêng trên bất kỳ máy tính nào của công ty. Khóa học kéo dài khoảng 90 phút. Sau khi hoàn thành, hãy in chứng nhận và nộp cho giám sát ca của bạn. Nhân viên chưa hoàn thành trước hạn sẽ không được vào khu nhà máy cho đến khi hoàn thành.\n\nNếu gặp sự cố kỹ thuật khi đăng nhập, hãy liên hệ bộ phận hỗ trợ CNTT ở số máy nhánh 204.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 151,
+          "question_text": "What is different about this year's safety training?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is shorter than before."
+            },
+            {
+              "key": "B",
+              "text": "It is optional."
+            },
+            {
+              "key": "C",
+              "text": "It will be completed online."
+            },
+            {
+              "key": "D",
+              "text": "It will be led by a supervisor."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"This year, the course will be held online instead of in the training room.\"",
+          "translation": "Điều gì khác biệt ở khóa đào tạo an toàn năm nay? (A) Ngắn hơn trước. (B) Không bắt buộc. (C) Hoàn thành trực tuyến. (D) Do giám sát viên hướng dẫn.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 152,
+          "question_text": "What will happen to employees who miss the deadline?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will pay a fee."
+            },
+            {
+              "key": "B",
+              "text": "They will repeat the course in person."
+            },
+            {
+              "key": "C",
+              "text": "They will be moved to another shift."
+            },
+            {
+              "key": "D",
+              "text": "They will not be allowed to work on the factory floor."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"Employees who have not finished by the deadline will not be allowed on the factory floor until they do.\"",
+          "translation": "Điều gì xảy ra với nhân viên lỡ hạn? (A) Họ phải trả phí. (B) Họ phải học lại trực tiếp. (C) Họ bị chuyển sang ca khác. (D) Họ không được làm việc ở khu nhà máy.",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "SUTTON HOME & GARDEN\nThank you for your order!\n\nOrder #: 48215          Order date: November 2\n\nItems\n1 Cedar patio table ........ $240.00\n1 Cushioned chair set (4) ........ $180.00\nShipping ........ $35.00\nTotal ........ $455.00\n\nDelivery information: Your items will ship in two packages. The table is expected to arrive between November 9 and 11. The chairs are currently on back order and will be shipped within three weeks. You will receive an e-mail with tracking details once each package leaves our warehouse.\n\nTo change or cancel your order, call 555-0123 within 24 hours.",
+      "passage_vi": "SUTTON HOME & GARDEN\nCảm ơn bạn đã đặt hàng!\n\nMã đơn: 48215          Ngày đặt: 2 tháng 11\n\nMặt hàng\n1 Bàn sân vườn gỗ tuyết tùng ........ 240,00 đô la\n1 Bộ ghế có đệm (4 chiếc) ........ 180,00 đô la\nPhí vận chuyển ........ 35,00 đô la\nTổng cộng ........ 455,00 đô la\n\nThông tin giao hàng: Hàng của bạn sẽ được gửi trong hai kiện. Bàn dự kiến đến từ ngày 9 đến 11 tháng 11. Ghế hiện đang chờ hàng về và sẽ được gửi trong vòng ba tuần. Bạn sẽ nhận được e-mail kèm thông tin theo dõi khi mỗi kiện rời kho.\n\nĐể thay đổi hoặc hủy đơn, hãy gọi 555-0123 trong vòng 24 giờ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 153,
+          "question_text": "What is indicated about the chairs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are not currently in stock."
+            },
+            {
+              "key": "B",
+              "text": "They will arrive with the table."
+            },
+            {
+              "key": "C",
+              "text": "They cost $240."
+            },
+            {
+              "key": "D",
+              "text": "They were delivered on November 9."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"The chairs are currently on back order\" nghĩa là hiện chưa có hàng trong kho.",
+          "translation": "Điều gì được nêu về những chiếc ghế? (A) Hiện chưa có trong kho. (B) Sẽ đến cùng bàn. (C) Giá 240 đô la. (D) Được giao ngày 9/11.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 154,
+          "question_text": "How will customers learn that a package has shipped?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By calling the store"
+            },
+            {
+              "key": "B",
+              "text": "By visiting the warehouse"
+            },
+            {
+              "key": "C",
+              "text": "By receiving an e-mail with tracking details"
+            },
+            {
+              "key": "D",
+              "text": "By checking a printed invoice"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"You will receive an e-mail with tracking details once each package leaves our warehouse.\"",
+          "translation": "Khách hàng sẽ biết kiện hàng đã gửi đi bằng cách nào? (A) Gọi cho cửa hàng (B) Đến kho (C) Nhận e-mail kèm thông tin theo dõi (D) Xem hóa đơn in",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Riverton Library to Extend Hours\n\nRIVERTON (May 12) – Beginning June 1, the Riverton Public Library will stay open until 9 P.M. on weekdays, three hours later than its current closing time. The change follows a survey of residents in which 62 percent of respondents said they would use the library more often if evening hours were available.\n\nLibrary director Samuel Ortiz said the extended hours will be made possible by a grant from the Riverton Community Foundation. \"The grant covers the cost of two additional part-time staff members,\" he said. Mr. Ortiz added that the children's section will continue to close at 6 P.M. because of staffing limits.\n\nIn addition, the library will launch a free lending program for laptops in July. Residents with a library card can borrow a laptop for up to two weeks.",
+      "passage_vi": "Thư viện Riverton kéo dài giờ mở cửa\n\nRIVERTON (12 tháng 5) – Từ ngày 1 tháng 6, Thư viện công cộng Riverton sẽ mở cửa đến 9 giờ tối các ngày trong tuần, muộn hơn ba giờ so với giờ đóng cửa hiện tại. Thay đổi này diễn ra sau một cuộc khảo sát cư dân, trong đó 62 phần trăm người trả lời cho biết họ sẽ dùng thư viện thường xuyên hơn nếu có giờ buổi tối.\n\nGiám đốc thư viện Samuel Ortiz cho biết việc kéo dài giờ được thực hiện nhờ khoản tài trợ từ Quỹ Cộng đồng Riverton. \"Khoản tài trợ chi trả cho hai nhân viên bán thời gian bổ sung,\" ông nói. Ông Ortiz nói thêm rằng khu thiếu nhi vẫn đóng cửa lúc 6 giờ chiều do giới hạn nhân sự.\n\nNgoài ra, thư viện sẽ khởi động chương trình cho mượn máy tính xách tay miễn phí vào tháng Bảy. Cư dân có thẻ thư viện có thể mượn một máy tính xách tay tối đa hai tuần.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 155,
+          "question_text": "Why will the library extend its hours?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new building has opened."
+            },
+            {
+              "key": "B",
+              "text": "The director is retiring."
+            },
+            {
+              "key": "C",
+              "text": "Schools have requested it."
+            },
+            {
+              "key": "D",
+              "text": "Residents expressed interest in a survey."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"The change follows a survey of residents in which 62 percent... said they would use the library more often if evening hours were available.\"",
+          "translation": "Vì sao thư viện kéo dài giờ mở cửa? (A) Một tòa nhà mới đã mở. (B) Giám đốc nghỉ hưu. (C) Các trường học yêu cầu. (D) Cư dân bày tỏ sự quan tâm trong khảo sát.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 156,
+          "question_text": "What time does the library currently close on weekdays?",
+          "options": [
+            {
+              "key": "A",
+              "text": "5 P.M."
+            },
+            {
+              "key": "B",
+              "text": "6 P.M."
+            },
+            {
+              "key": "C",
+              "text": "7 P.M."
+            },
+            {
+              "key": "D",
+              "text": "8 P.M."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Giờ đóng cửa mới là 9 giờ tối, muộn hơn ba giờ so với hiện tại, nên hiện nay đóng lúc 6 giờ chiều.",
+          "translation": "Hiện nay thư viện đóng cửa lúc mấy giờ vào các ngày trong tuần? (A) 5 giờ chiều (B) 6 giờ chiều (C) 7 giờ tối (D) 8 giờ tối",
+          "tags": [
+            "calculation"
+          ]
+        },
+        {
+          "number": 157,
+          "question_text": "What will happen in July?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laptops will be available to borrow."
+            },
+            {
+              "key": "B",
+              "text": "Two part-time workers will be hired."
+            },
+            {
+              "key": "C",
+              "text": "The children's section will expand."
+            },
+            {
+              "key": "D",
+              "text": "The grant will end."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"the library will launch a free lending program for laptops in July.\"",
+          "translation": "Điều gì sẽ xảy ra vào tháng Bảy? (A) Có thể mượn máy tính xách tay. (B) Tuyển hai nhân viên bán thời gian. (C) Khu thiếu nhi mở rộng. (D) Khoản tài trợ kết thúc.",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "From: Naomi Fischer <nfischer@tradewinds.example>\nTo: Dr. Albert Chen <achen@portresearch.example>\nDate: August 22\nSubject: Speaking engagement\n\nDear Dr. Chen,\n\nOn behalf of the Tradewinds Logistics Forum, I am delighted to confirm your participation as a keynote speaker on October 14. Your session, \"The Future of Port Automation,\" is scheduled for 10:00 A.M. in the Grand Hall and will last 45 minutes, followed by a 15-minute question period.\n\nWe will reserve a room for you at the Marlow Hotel for the nights of October 13 and 14, and a car will meet you at the airport. Please send us your travel itinerary by September 15. We would also appreciate receiving your presentation slides one week before the event so that our technicians can test them on the main screen.\n\nPlease let me know if you have any dietary restrictions for the speakers' dinner on October 13.\n\nSincerely,\nNaomi Fischer\nProgram Coordinator",
+      "passage_vi": "Từ: Naomi Fischer <nfischer@tradewinds.example>\nĐến: TS. Albert Chen <achen@portresearch.example>\nNgày: 22 tháng 8\nChủ đề: Lời mời diễn thuyết\n\nKính gửi Tiến sĩ Chen,\n\nThay mặt Diễn đàn Logistics Tradewinds, tôi rất vui được xác nhận sự tham gia của ông với tư cách diễn giả chính vào ngày 14 tháng 10. Phiên của ông, \"Tương lai của tự động hóa cảng biển\", được lên lịch lúc 10 giờ sáng tại Đại sảnh và kéo dài 45 phút, sau đó là 15 phút hỏi đáp.\n\nChúng tôi sẽ đặt phòng cho ông tại Khách sạn Marlow trong các đêm 13 và 14 tháng 10, và sẽ có xe đón ông tại sân bay. Xin vui lòng gửi lịch trình di chuyển của ông trước ngày 15 tháng 9. Chúng tôi cũng mong nhận được slide thuyết trình một tuần trước sự kiện để kỹ thuật viên kiểm tra trên màn hình chính.\n\nXin cho tôi biết nếu ông có yêu cầu về chế độ ăn cho bữa tối diễn giả vào ngày 13 tháng 10.\n\nTrân trọng,\nNaomi Fischer\nĐiều phối viên chương trình",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 158,
+          "question_text": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce a schedule change"
+            },
+            {
+              "key": "B",
+              "text": "To confirm a speaker's participation"
+            },
+            {
+              "key": "C",
+              "text": "To ask for a hotel recommendation"
+            },
+            {
+              "key": "D",
+              "text": "To advertise a new product"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu mở đầu: \"I am delighted to confirm your participation as a keynote speaker.\"",
+          "translation": "Mục đích của e-mail là gì? (A) Thông báo thay đổi lịch (B) Xác nhận sự tham gia của diễn giả (C) Hỏi gợi ý khách sạn (D) Quảng cáo sản phẩm mới",
+          "tags": [
+            "purpose"
+          ]
+        },
+        {
+          "number": 159,
+          "question_text": "What is Dr. Chen asked to do by September 15?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Submit his slides"
+            },
+            {
+              "key": "B",
+              "text": "Pay a registration fee"
+            },
+            {
+              "key": "C",
+              "text": "Provide his travel plans"
+            },
+            {
+              "key": "D",
+              "text": "Select a dinner menu"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"Please send us your travel itinerary by September 15.\" Itinerary = lịch trình đi lại (travel plans).",
+          "translation": "Tiến sĩ Chen được yêu cầu làm gì trước ngày 15/9? (A) Nộp slide (B) Trả phí đăng ký (C) Cung cấp kế hoạch di chuyển (D) Chọn thực đơn bữa tối",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 160,
+          "question_text": "What is indicated about the speakers' dinner?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will be open to the public."
+            },
+            {
+              "key": "B",
+              "text": "It will take place at the airport."
+            },
+            {
+              "key": "C",
+              "text": "It will follow Dr. Chen's session."
+            },
+            {
+              "key": "D",
+              "text": "It will be held the night before Dr. Chen speaks."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bữa tối diễn giả vào ngày 13/10, còn phiên của ông Chen vào ngày 14/10, tức là đêm trước khi ông phát biểu.",
+          "translation": "Điều gì được nêu về bữa tối của diễn giả? (A) Mở cho công chúng. (B) Diễn ra ở sân bay. (C) Sau phiên của TS. Chen. (D) Diễn ra vào đêm trước khi TS. Chen phát biểu.",
+          "tags": [
+            "inference"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "MEMO\n\nTo: All Employees\nFrom: Human Resources\nDate: January 8\nRe: Flexible Work Pilot\n\nBeginning February 1, Calderon Textiles will begin a three-month pilot program allowing eligible employees to work from home up to two days per week. To be eligible, employees must have been with the company for at least one year and must have written approval from a supervisor. Employees in the shipping and production departments are not eligible because their duties require them to be on site.\n\nParticipants will be expected to be reachable by phone and e-mail during regular business hours (8:30 A.M. to 5:00 P.M.) and to attend all in-person meetings. At the end of the pilot, HR will gather feedback through an online survey to decide whether to make the program permanent.\n\nApplication forms are available on the intranet. Completed forms should be submitted to Ms. Ibarra in HR by January 22.",
+      "passage_vi": "THÔNG BÁO NỘI BỘ\n\nĐến: Toàn thể nhân viên\nTừ: Phòng Nhân sự\nNgày: 8 tháng 1\nV/v: Thí điểm làm việc linh hoạt\n\nBắt đầu từ ngày 1 tháng 2, Calderon Textiles sẽ triển khai chương trình thí điểm ba tháng cho phép nhân viên đủ điều kiện làm việc tại nhà tối đa hai ngày mỗi tuần. Để đủ điều kiện, nhân viên phải làm việc ở công ty ít nhất một năm và có sự chấp thuận bằng văn bản của người giám sát. Nhân viên bộ phận vận chuyển và sản xuất không đủ điều kiện vì công việc đòi hỏi phải có mặt tại chỗ.\n\nNgười tham gia phải liên lạc được qua điện thoại và e-mail trong giờ hành chính (8:30 sáng đến 5:00 chiều) và tham dự mọi cuộc họp trực tiếp. Khi kết thúc đợt thí điểm, Phòng Nhân sự sẽ thu thập phản hồi qua khảo sát trực tuyến để quyết định có biến chương trình thành lâu dài hay không.\n\nMẫu đơn đăng ký có trên mạng nội bộ. Đơn đã điền xin nộp cho bà Ibarra ở Phòng Nhân sự trước ngày 22 tháng 1.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 161,
+          "question_text": "What is the purpose of the memo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce a temporary hiring plan"
+            },
+            {
+              "key": "B",
+              "text": "To describe a trial of flexible work arrangements"
+            },
+            {
+              "key": "C",
+              "text": "To report survey results"
+            },
+            {
+              "key": "D",
+              "text": "To change business hours"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Thư thông báo \"a three-month pilot program allowing eligible employees to work from home\" tức là chương trình thử nghiệm làm việc linh hoạt.",
+          "translation": "Mục đích của thông báo là gì? (A) Thông báo kế hoạch tuyển dụng tạm thời (B) Mô tả đợt thử nghiệm làm việc linh hoạt (C) Báo cáo kết quả khảo sát (D) Thay đổi giờ làm việc",
+          "tags": [
+            "purpose"
+          ]
+        },
+        {
+          "number": 162,
+          "question_text": "Who is most likely eligible for the program?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An accountant who has worked at the company for 18 months and has her supervisor's approval"
+            },
+            {
+              "key": "B",
+              "text": "A new hire starting in February"
+            },
+            {
+              "key": "C",
+              "text": "A shipping clerk with three years of experience"
+            },
+            {
+              "key": "D",
+              "text": "A production worker who has permission from his manager"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Điều kiện: làm ít nhất một năm và có chấp thuận bằng văn bản; bộ phận vận chuyển và sản xuất bị loại. Chỉ kế toán 18 tháng có chấp thuận đáp ứng.",
+          "translation": "Ai có nhiều khả năng đủ điều kiện nhất? (A) Một kế toán làm việc 18 tháng và có sự chấp thuận của giám sát (B) Nhân viên mới bắt đầu từ tháng Hai (C) Nhân viên vận chuyển có ba năm kinh nghiệm (D) Công nhân sản xuất được quản lý cho phép",
+          "tags": [
+            "inference"
+          ]
+        },
+        {
+          "number": 163,
+          "question_text": "What will Human Resources do at the end of the pilot?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Extend the program to shipping staff"
+            },
+            {
+              "key": "B",
+              "text": "Reduce regular business hours"
+            },
+            {
+              "key": "C",
+              "text": "Ask employees to apply again"
+            },
+            {
+              "key": "D",
+              "text": "Gather feedback through an online survey"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"At the end of the pilot, HR will gather feedback through an online survey.\"",
+          "translation": "Phòng Nhân sự sẽ làm gì khi kết thúc đợt thí điểm? (A) Mở rộng cho nhân viên vận chuyển (B) Giảm giờ làm (C) Yêu cầu nhân viên đăng ký lại (D) Thu thập phản hồi qua khảo sát trực tuyến",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Harlow Foods to Acquire Local Producer\n\nHARLOW (October 3) – [1] Harlow Foods, one of the region's largest grocery chains, announced yesterday that it has agreed to acquire Bellwether Farms, a family-run producer of organic dairy products. The deal is expected to be completed by the end of the year. [2]\n\nBellwether Farms, founded in 1974 by the Okoro family, supplies milk, yogurt, and cheese to about 40 restaurants and shops in the area. Under the agreement, the farm will keep its name and its current employees, and Harlow Foods will invest in new equipment to double production over the next three years. [3]\n\n\"We have admired Bellwether's products for years,\" said Harlow Foods CEO Marisol Reyes. \"This partnership lets us offer customers more local, organic choices at a fair price.\" Bellwether co-owner Peter Okoro said the family chose Harlow Foods because it promised to maintain the farm's quality standards. [4]",
+      "passage_vi": "Harlow Foods sẽ mua lại nhà sản xuất địa phương\n\nHARLOW (3 tháng 10) – [1] Harlow Foods, một trong những chuỗi cửa hàng tạp hóa lớn nhất khu vực, hôm qua thông báo đã đồng ý mua lại Bellwether Farms, một nhà sản xuất sản phẩm sữa hữu cơ do gia đình điều hành. Thương vụ dự kiến hoàn tất vào cuối năm. [2]\n\nBellwether Farms, do gia đình Okoro thành lập năm 1974, cung cấp sữa, sữa chua và phô mai cho khoảng 40 nhà hàng và cửa hàng trong khu vực. Theo thỏa thuận, trang trại sẽ giữ tên và đội ngũ nhân viên hiện tại, và Harlow Foods sẽ đầu tư thiết bị mới để tăng gấp đôi sản lượng trong ba năm tới. [3]\n\n\"Chúng tôi ngưỡng mộ sản phẩm của Bellwether từ nhiều năm nay,\" Giám đốc điều hành Harlow Foods Marisol Reyes nói. \"Sự hợp tác này giúp chúng tôi mang đến cho khách hàng nhiều lựa chọn hữu cơ, địa phương hơn với mức giá hợp lý.\" Đồng sở hữu Bellwether Peter Okoro cho biết gia đình chọn Harlow Foods vì công ty hứa duy trì tiêu chuẩn chất lượng của trang trại. [4]",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 164,
+          "question_text": "What is the article mainly about?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A farm's plan to open restaurants"
+            },
+            {
+              "key": "B",
+              "text": "A new standard for organic products"
+            },
+            {
+              "key": "C",
+              "text": "A grocery chain's agreement to purchase a farm"
+            },
+            {
+              "key": "D",
+              "text": "A chief executive's resignation"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu đầu: Harlow Foods \"has agreed to acquire Bellwether Farms\" - một chuỗi tạp hóa đồng ý mua lại trang trại.",
+          "translation": "Bài báo chủ yếu nói về điều gì? (A) Kế hoạch mở nhà hàng của một trang trại (B) Tiêu chuẩn mới cho sản phẩm hữu cơ (C) Thỏa thuận mua một trang trại của chuỗi tạp hóa (D) Việc từ chức của một giám đốc",
+          "tags": [
+            "main-idea"
+          ]
+        },
+        {
+          "number": 165,
+          "question_text": "What is indicated about Bellwether Farms after the deal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will keep its name."
+            },
+            {
+              "key": "B",
+              "text": "It will relocate."
+            },
+            {
+              "key": "C",
+              "text": "It will lay off workers."
+            },
+            {
+              "key": "D",
+              "text": "It will stop selling to restaurants."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"the farm will keep its name and its current employees.\"",
+          "translation": "Điều gì được nêu về Bellwether Farms sau thương vụ? (A) Giữ tên cũ. (B) Chuyển địa điểm. (C) Sa thải công nhân. (D) Ngừng bán cho nhà hàng.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 166,
+          "question_text": "Why did the Okoro family choose Harlow Foods?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It offered the highest price."
+            },
+            {
+              "key": "B",
+              "text": "It is also family-owned."
+            },
+            {
+              "key": "C",
+              "text": "It plans to sell cheese overseas."
+            },
+            {
+              "key": "D",
+              "text": "It promised to maintain product quality."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"the family chose Harlow Foods because it promised to maintain the farm's quality standards.\"",
+          "translation": "Vì sao gia đình Okoro chọn Harlow Foods? (A) Trả giá cao nhất. (B) Cũng là doanh nghiệp gia đình. (C) Có kế hoạch bán phô mai ra nước ngoài. (D) Hứa duy trì chất lượng sản phẩm.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 167,
+          "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The price of the deal was not disclosed.\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu về giá thương vụ nên đi ngay sau câu nói về thương vụ và thời điểm hoàn tất, tức vị trí [2].",
+          "translation": "Câu \"Giá của thương vụ không được tiết lộ\" phù hợp nhất ở vị trí nào? (A) [1] (B) [2] (C) [3] (D) [4]",
+          "tags": [
+            "sentence-insertion"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "Cordova Grand Hotel\nGuest Relations Office\nJuly 14\n\nMr. Leonard Abernathy\n27 Linden Road\nBrookfield\n\nDear Mr. Abernathy,\n\nThank you for your letter of July 8 regarding your stay with us from July 1 to July 5. I sincerely apologize that the air conditioning in your room failed on two nights and that the front desk did not resolve the issue promptly.\n\nWe take your comments seriously. Our maintenance team has inspected all units on the fourth floor and replaced the faulty system in Room 412. In addition, I have spoken with the front desk staff about the importance of responding quickly to guest complaints, and a new procedure will be in place by August 1.\n\nTo show our regret, we would like to refund 50 percent of your room charges for the two affected nights. The refund will be credited to your credit card within ten business days. We would also like to offer you a complimentary two-night stay, valid through December 31. We hope to welcome you back.\n\nSincerely,\nTeresa Gallo\nGuest Relations Manager",
+      "passage_vi": "Khách sạn Cordova Grand\nVăn phòng Quan hệ khách hàng\n14 tháng 7\n\nÔng Leonard Abernathy\n27 đường Linden\nBrookfield\n\nKính gửi ông Abernathy,\n\nCảm ơn thư ngày 8 tháng 7 của ông về kỳ lưu trú từ ngày 1 đến ngày 5 tháng 7. Tôi chân thành xin lỗi vì máy điều hòa trong phòng của ông hỏng hai đêm và quầy lễ tân đã không giải quyết vấn đề kịp thời.\n\nChúng tôi rất coi trọng góp ý của ông. Đội bảo trì đã kiểm tra tất cả các thiết bị ở tầng bốn và thay hệ thống bị lỗi ở phòng 412. Ngoài ra, tôi đã trao đổi với nhân viên lễ tân về tầm quan trọng của việc phản hồi nhanh các phàn nàn của khách, và một quy trình mới sẽ được áp dụng trước ngày 1 tháng 8.\n\nĐể thể hiện sự tiếc nuối, chúng tôi muốn hoàn lại 50 phần trăm tiền phòng cho hai đêm bị ảnh hưởng. Khoản hoàn sẽ được chuyển vào thẻ tín dụng của ông trong vòng mười ngày làm việc. Chúng tôi cũng xin tặng ông một kỳ nghỉ hai đêm miễn phí, có giá trị đến hết ngày 31 tháng 12. Chúng tôi hy vọng được đón tiếp ông trở lại.\n\nTrân trọng,\nTeresa Gallo\nQuản lý Quan hệ khách hàng",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 168,
+          "question_text": "Why did Ms. Gallo write the letter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To confirm a reservation"
+            },
+            {
+              "key": "B",
+              "text": "To respond to a guest's complaint"
+            },
+            {
+              "key": "C",
+              "text": "To announce renovation plans"
+            },
+            {
+              "key": "D",
+              "text": "To request a payment"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Thư mở đầu bằng việc cảm ơn thư của khách và xin lỗi về điều hòa hỏng, tức là phản hồi một khiếu nại.",
+          "translation": "Vì sao bà Gallo viết thư? (A) Xác nhận đặt phòng (B) Trả lời phàn nàn của khách (C) Thông báo kế hoạch cải tạo (D) Yêu cầu thanh toán",
+          "tags": [
+            "purpose"
+          ]
+        },
+        {
+          "number": 169,
+          "question_text": "What did the hotel do about the air conditioning problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It refunded all guests on the fourth floor."
+            },
+            {
+              "key": "B",
+              "text": "It closed the fourth floor."
+            },
+            {
+              "key": "C",
+              "text": "It replaced the system in Room 412."
+            },
+            {
+              "key": "D",
+              "text": "It hired additional technicians."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"replaced the faulty system in Room 412.\"",
+          "translation": "Khách sạn đã làm gì với sự cố điều hòa? (A) Hoàn tiền cho mọi khách tầng bốn (B) Đóng cửa tầng bốn (C) Thay hệ thống ở phòng 412 (D) Thuê thêm kỹ thuật viên",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 170,
+          "question_text": "What is NOT offered to Mr. Abernathy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A partial refund"
+            },
+            {
+              "key": "B",
+              "text": "A free two-night stay"
+            },
+            {
+              "key": "C",
+              "text": "A refund to his credit card"
+            },
+            {
+              "key": "D",
+              "text": "A voucher for meals"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thư đề cập hoàn 50% tiền phòng (A, C) và hai đêm miễn phí (B). Không đề cập phiếu ăn uống.",
+          "translation": "Điều gì KHÔNG được đề nghị cho ông Abernathy? (A) Hoàn tiền một phần (B) Hai đêm lưu trú miễn phí (C) Hoàn tiền vào thẻ tín dụng (D) Phiếu ăn uống",
+          "tags": [
+            "NOT"
+          ]
+        },
+        {
+          "number": 171,
+          "question_text": "The word \"resolve\" in paragraph 1, line 2, is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "fix"
+            },
+            {
+              "key": "B",
+              "text": "decide"
+            },
+            {
+              "key": "C",
+              "text": "demand"
+            },
+            {
+              "key": "D",
+              "text": "report"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"did not resolve the issue\" nghĩa là không giải quyết/khắc phục vấn đề, gần nghĩa nhất với fix.",
+          "translation": "Từ \"resolve\" gần nghĩa nhất với (A) khắc phục (B) quyết định (C) đòi hỏi (D) báo cáo",
+          "tags": [
+            "vocabulary-in-context"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "MAPLEWOOD CONSULTING ANNUAL RETREAT\nLakeview Lodge, September 19-20\n\nThursday, September 19\n8:00 A.M.   Bus departs from the main office (parking lot B)\n10:30 A.M.  Check-in and welcome refreshments\n12:00 P.M.  Lunch\n1:30 P.M.   Workshop: Effective Client Communication (Ms. Priya Nair)\n4:00 P.M.   Team-building activities (outdoor)\n7:00 P.M.   Dinner and awards ceremony\n\nFriday, September 20\n8:30 A.M.   Breakfast\n9:30 A.M.   Workshop: Managing Project Budgets (Mr. Daniel Cho)\n12:00 P.M.  Lunch and closing remarks\n1:30 P.M.   Return bus departs\n\nNotes: Employees who prefer to drive must notify Ms. Okafor in HR by September 10 and park in the lodge's lower lot. Please bring comfortable clothing for outdoor activities. In case of rain, team-building activities will be moved indoors to the lodge's main hall. Vegetarian meals are available upon request; please tell Ms. Okafor when you register.",
+      "passage_vi": "HỘI NGHỊ THƯỜNG NIÊN CỦA MAPLEWOOD CONSULTING\nLakeview Lodge, 19-20 tháng 9\n\nThứ Năm, ngày 19 tháng 9\n8:00 sáng   Xe buýt khởi hành từ văn phòng chính (bãi đỗ B)\n10:30 sáng  Nhận phòng và dùng đồ uống chào mừng\n12:00 trưa  Ăn trưa\n1:30 chiều  Hội thảo: Giao tiếp hiệu quả với khách hàng (bà Priya Nair)\n4:00 chiều  Hoạt động gắn kết nhóm (ngoài trời)\n7:00 tối    Bữa tối và lễ trao giải\n\nThứ Sáu, ngày 20 tháng 9\n8:30 sáng   Ăn sáng\n9:30 sáng   Hội thảo: Quản lý ngân sách dự án (ông Daniel Cho)\n12:00 trưa  Ăn trưa và phát biểu bế mạc\n1:30 chiều  Xe buýt quay về khởi hành\n\nLưu ý: Nhân viên muốn tự lái xe phải thông báo cho bà Okafor ở Phòng Nhân sự trước ngày 10 tháng 9 và đỗ ở bãi dưới của nhà nghỉ. Hãy mang quần áo thoải mái cho các hoạt động ngoài trời. Nếu trời mưa, hoạt động gắn kết nhóm sẽ chuyển vào trong sảnh chính của nhà nghỉ. Có suất ăn chay theo yêu cầu; xin báo cho bà Okafor khi đăng ký.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 172,
+          "question_text": "Where should employees meet to take the bus on Thursday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the lodge"
+            },
+            {
+              "key": "B",
+              "text": "In the main office parking lot"
+            },
+            {
+              "key": "C",
+              "text": "In the lodge's lower lot"
+            },
+            {
+              "key": "D",
+              "text": "At the Human Resources desk"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"8:00 A.M. Bus departs from the main office (parking lot B)\".",
+          "translation": "Nhân viên tập trung ở đâu để đi xe buýt vào thứ Năm? (A) Tại nhà nghỉ (B) Ở bãi đỗ xe của văn phòng chính (C) Ở bãi dưới của nhà nghỉ (D) Ở bàn Nhân sự",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 173,
+          "question_text": "What topic will Mr. Cho address?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Client communication"
+            },
+            {
+              "key": "B",
+              "text": "Team building"
+            },
+            {
+              "key": "C",
+              "text": "The awards program"
+            },
+            {
+              "key": "D",
+              "text": "Project budgets"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"9:30 A.M. Workshop: Managing Project Budgets (Mr. Daniel Cho)\".",
+          "translation": "Ông Cho sẽ trình bày chủ đề gì? (A) Giao tiếp với khách hàng (B) Gắn kết nhóm (C) Chương trình trao giải (D) Ngân sách dự án",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 174,
+          "question_text": "What must employees do if they wish to drive to the lodge?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tell Ms. Okafor by September 10"
+            },
+            {
+              "key": "B",
+              "text": "Park in lot B"
+            },
+            {
+              "key": "C",
+              "text": "Register for a workshop"
+            },
+            {
+              "key": "D",
+              "text": "Arrive before 8 A.M."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"Employees who prefer to drive must notify Ms. Okafor in HR by September 10.\"",
+          "translation": "Nhân viên muốn tự lái đến nhà nghỉ phải làm gì? (A) Báo cho bà Okafor trước ngày 10/9 (B) Đỗ ở bãi B (C) Đăng ký hội thảo (D) Đến trước 8 giờ sáng",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 175,
+          "question_text": "What will happen if it rains on Thursday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The retreat will be canceled."
+            },
+            {
+              "key": "B",
+              "text": "Activities will be postponed to Friday."
+            },
+            {
+              "key": "C",
+              "text": "Team-building will take place in the main hall."
+            },
+            {
+              "key": "D",
+              "text": "The bus will leave earlier."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"In case of rain, team-building activities will be moved indoors to the lodge's main hall.\"",
+          "translation": "Điều gì xảy ra nếu thứ Năm trời mưa? (A) Hội nghị bị hủy. (B) Hoạt động dời sang thứ Sáu. (C) Hoạt động gắn kết nhóm diễn ra trong sảnh chính. (D) Xe buýt đi sớm hơn.",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "SUNRISE TRAVEL - Customer Experience Coordinator (Full-time, Lisbon office)\n\nSunrise Travel, a leading provider of group tours across Europe, is seeking a Customer Experience Coordinator to join our growing team. Responsibilities include responding to customer inquiries, handling booking changes, and preparing post-trip surveys. The successful candidate will have at least two years of experience in customer service, excellent written English and Portuguese, and strong computer skills. Experience in the travel industry is an advantage but not required.\n\nWe offer a competitive salary, 25 days of paid leave, and a travel allowance of EUR 500 per year. To apply, send your résumé and a cover letter to Mr. Rui Teixeira at hiring@sunrisetravel.example by 30 November. Interviews will be held in the week of 9 December.\n\n---\n\nTo: hiring@sunrisetravel.example\nFrom: Clara Moreau <cmoreau@mailbox.example>\nDate: 27 November\nSubject: Customer Experience Coordinator application\n\nDear Mr. Teixeira,\n\nI am writing to apply for the Customer Experience Coordinator position advertised on your Web site. I have worked for three years as a reservations agent at Bluewave Cruises, where I handled up to 80 customer inquiries a day and helped to redesign our post-trip survey, which raised the response rate by 20 percent. I am fluent in English and Portuguese and also speak some Spanish.\n\nAlthough I have not worked directly for a tour operator, I have traveled extensively and understand what customers value. My résumé is attached. I have not attached a cover letter because I have explained my motivation here. Unfortunately, I will be abroad from 9 to 13 December. Would it be possible to arrange a video interview that week, or an in-person meeting the following week?\n\nThank you for your consideration.\n\nSincerely,\nClara Moreau",
+      "passage_vi": "SUNRISE TRAVEL - Điều phối viên trải nghiệm khách hàng (Toàn thời gian, văn phòng Lisbon)\n\nSunrise Travel, nhà cung cấp tour theo đoàn hàng đầu khắp châu Âu, đang tìm một Điều phối viên trải nghiệm khách hàng gia nhập đội ngũ đang phát triển của chúng tôi. Trách nhiệm gồm trả lời thắc mắc của khách hàng, xử lý thay đổi đặt chỗ và chuẩn bị khảo sát sau chuyến đi. Ứng viên thành công có ít nhất hai năm kinh nghiệm chăm sóc khách hàng, viết tiếng Anh và tiếng Bồ Đào Nha xuất sắc và kỹ năng máy tính tốt. Kinh nghiệm ngành du lịch là lợi thế nhưng không bắt buộc.\n\nChúng tôi đưa ra mức lương cạnh tranh, 25 ngày nghỉ phép có lương và trợ cấp du lịch 500 euro mỗi năm. Để ứng tuyển, hãy gửi sơ yếu lý lịch và thư xin việc cho ông Rui Teixeira tại hiring@sunrisetravel.example trước ngày 30 tháng 11. Phỏng vấn sẽ diễn ra trong tuần của ngày 9 tháng 12.\n\n---\n\nĐến: hiring@sunrisetravel.example\nTừ: Clara Moreau <cmoreau@mailbox.example>\nNgày: 27 tháng 11\nChủ đề: Đơn ứng tuyển Điều phối viên trải nghiệm khách hàng\n\nKính gửi ông Teixeira,\n\nTôi viết thư để ứng tuyển vị trí Điều phối viên trải nghiệm khách hàng được đăng trên trang web của quý công ty. Tôi đã làm ba năm với vai trò nhân viên đặt chỗ tại Bluewave Cruises, nơi tôi xử lý tới 80 thắc mắc của khách mỗi ngày và giúp thiết kế lại khảo sát sau chuyến đi, làm tỷ lệ phản hồi tăng 20 phần trăm. Tôi thông thạo tiếng Anh và tiếng Bồ Đào Nha, và biết một ít tiếng Tây Ban Nha.\n\nDù chưa từng làm trực tiếp cho một nhà điều hành tour, tôi đã đi du lịch nhiều và hiểu khách hàng coi trọng điều gì. Sơ yếu lý lịch của tôi được đính kèm. Tôi không đính kèm thư xin việc vì đã nêu động lực ngay trong thư này. Rất tiếc, tôi sẽ ở nước ngoài từ ngày 9 đến 13 tháng 12. Liệu có thể sắp xếp một buổi phỏng vấn video trong tuần đó, hoặc gặp trực tiếp vào tuần sau không?\n\nCảm ơn ông đã xem xét.\n\nTrân trọng,\nClara Moreau",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 176,
+          "question_text": "Which is NOT mentioned as a responsibility of the position?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Responding to customer inquiries"
+            },
+            {
+              "key": "B",
+              "text": "Handling booking changes"
+            },
+            {
+              "key": "C",
+              "text": "Preparing surveys"
+            },
+            {
+              "key": "D",
+              "text": "Leading group tours"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Quảng cáo nêu trả lời thắc mắc, xử lý thay đổi đặt chỗ, chuẩn bị khảo sát. Không có dẫn tour.",
+          "translation": "Điều nào KHÔNG được nêu là trách nhiệm của vị trí? (A) Trả lời thắc mắc của khách (B) Xử lý thay đổi đặt chỗ (C) Chuẩn bị khảo sát (D) Dẫn tour theo đoàn",
+          "tags": [
+            "NOT"
+          ]
+        },
+        {
+          "number": 177,
+          "question_text": "What benefit is mentioned in the advertisement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Free hotel stays"
+            },
+            {
+              "key": "B",
+              "text": "A yearly allowance for travel"
+            },
+            {
+              "key": "C",
+              "text": "Language classes"
+            },
+            {
+              "key": "D",
+              "text": "Flexible working hours"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"a travel allowance of EUR 500 per year\" = khoản trợ cấp du lịch hằng năm.",
+          "translation": "Phúc lợi nào được nêu trong quảng cáo? (A) Ở khách sạn miễn phí (B) Trợ cấp du lịch hằng năm (C) Lớp ngôn ngữ (D) Giờ làm linh hoạt",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 178,
+          "question_text": "What does Ms. Moreau say she did at Bluewave Cruises?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Opened a new office"
+            },
+            {
+              "key": "B",
+              "text": "Trained new staff"
+            },
+            {
+              "key": "C",
+              "text": "Helped increase survey responses"
+            },
+            {
+              "key": "D",
+              "text": "Created a booking system"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"helped to redesign our post-trip survey, which raised the response rate by 20 percent.\"",
+          "translation": "Cô Moreau nói cô đã làm gì ở Bluewave Cruises? (A) Mở văn phòng mới (B) Đào tạo nhân viên mới (C) Giúp tăng số phản hồi khảo sát (D) Tạo hệ thống đặt chỗ",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 179,
+          "question_text": "What is suggested about Ms. Moreau's application?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It does not include a cover letter."
+            },
+            {
+              "key": "B",
+              "text": "It was sent after the deadline."
+            },
+            {
+              "key": "C",
+              "text": "It was sent to the wrong address."
+            },
+            {
+              "key": "D",
+              "text": "It includes several references."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cô viết: \"I have not attached a cover letter\", trong khi quảng cáo yêu cầu gửi cả thư xin việc. Ngày gửi 27/11 chưa quá hạn 30/11.",
+          "translation": "Điều gì được ngụ ý về hồ sơ của cô Moreau? (A) Không có thư xin việc. (B) Gửi sau hạn chót. (C) Gửi sai địa chỉ. (D) Có nhiều người giới thiệu.",
+          "tags": [
+            "inference"
+          ]
+        },
+        {
+          "number": 180,
+          "question_text": "Why does Ms. Moreau request a video interview?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She lives overseas."
+            },
+            {
+              "key": "B",
+              "text": "She prefers not to meet in person."
+            },
+            {
+              "key": "C",
+              "text": "She will be traveling during the interview week."
+            },
+            {
+              "key": "D",
+              "text": "She wants to see the office first."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Quảng cáo: phỏng vấn trong tuần 9/12; cô viết sẽ ở nước ngoài từ 9 đến 13/12, nên đề nghị phỏng vấn video.",
+          "translation": "Vì sao cô Moreau yêu cầu phỏng vấn video? (A) Cô sống ở nước ngoài. (B) Cô không muốn gặp trực tiếp. (C) Cô sẽ đi xa trong tuần phỏng vấn. (D) Cô muốn xem văn phòng trước.",
+          "tags": [
+            "inference"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "NORTHGATE ELECTRONICS - Dealer Preview Day\n\nJoin us on Tuesday, 18 March at the Northgate Showroom (22 Cannon Road) for an exclusive preview of our spring product line, including the new Aura series of wireless speakers.\n\nSchedule\n9:30 Registration and coffee\n10:00 Product presentations\n12:30 Lunch\n2:00 Hands-on demonstrations\n4:00 Closing and order sessions\n\nRegistration is free for current dealers and must be completed by 7 March at www.northgate.example/preview. Each dealer may bring up to two staff members. Parking is limited; we recommend using Cannon Road Station, a five-minute walk from the showroom. Dealers who place orders at the event will receive a 12 percent discount on all Aura products.\n\n---\n\nTo: events@northgate.example\nFrom: Julia Santos <jsantos@santossound.example>\nDate: 5 March\nSubject: Preview Day registration\n\nHello,\n\nI registered myself and my colleague Tomas Ferreira for the Preview Day last week. Unfortunately, Tomas has a family commitment and cannot attend. My other colleague, Anita Cole, would like to take his place. Could you please update our registration?\n\nAlso, I would like to arrive early to discuss a delivery issue with a sales representative before the presentations begin. Is anyone available at 9:00?\n\nFinally, I am interested in the Aura series and plan to order several units. Thank you for your help.\n\nJulia Santos\nSantos Sound & Vision",
+      "passage_vi": "NORTHGATE ELECTRONICS - Ngày xem trước dành cho đại lý\n\nMời bạn tham dự vào thứ Ba, ngày 18 tháng 3 tại Showroom Northgate (22 đường Cannon) để xem trước độc quyền dòng sản phẩm mùa xuân của chúng tôi, bao gồm loa không dây Aura mới.\n\nChương trình\n9:30 Đăng ký và cà phê\n10:00 Giới thiệu sản phẩm\n12:30 Ăn trưa\n2:00 Trải nghiệm trực tiếp\n4:00 Bế mạc và phiên đặt hàng\n\nĐăng ký miễn phí cho các đại lý hiện tại và phải hoàn tất trước ngày 7 tháng 3 tại www.northgate.example/preview. Mỗi đại lý có thể đưa theo tối đa hai nhân viên. Chỗ đỗ xe hạn chế; chúng tôi khuyên dùng ga Cannon Road, cách showroom năm phút đi bộ. Đại lý đặt hàng tại sự kiện sẽ được giảm 12 phần trăm cho mọi sản phẩm Aura.\n\n---\n\nĐến: events@northgate.example\nTừ: Julia Santos <jsantos@santossound.example>\nNgày: 5 tháng 3\nChủ đề: Đăng ký Ngày xem trước\n\nXin chào,\n\nTuần trước tôi đã đăng ký cho bản thân và đồng nghiệp Tomas Ferreira tham dự Ngày xem trước. Rất tiếc Tomas có việc gia đình và không thể tham dự. Đồng nghiệp khác của tôi, Anita Cole, muốn thay anh ấy. Xin vui lòng cập nhật đăng ký của chúng tôi.\n\nNgoài ra, tôi muốn đến sớm để trao đổi về một vấn đề giao hàng với nhân viên bán hàng trước khi phần giới thiệu bắt đầu. Có ai rảnh lúc 9:00 không?\n\nCuối cùng, tôi quan tâm đến dòng Aura và dự định đặt vài chiếc. Cảm ơn sự giúp đỡ của quý vị.\n\nJulia Santos\nSantos Sound & Vision",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 181,
+          "question_text": "What is the purpose of the event?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To show new products to dealers"
+            },
+            {
+              "key": "B",
+              "text": "To train new employees"
+            },
+            {
+              "key": "C",
+              "text": "To open a new store"
+            },
+            {
+              "key": "D",
+              "text": "To announce a merger"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Quảng cáo: \"an exclusive preview of our spring product line\" dành cho đại lý (dealer).",
+          "translation": "Mục đích của sự kiện là gì? (A) Giới thiệu sản phẩm mới cho đại lý (B) Đào tạo nhân viên mới (C) Khai trương cửa hàng mới (D) Thông báo sáp nhập",
+          "tags": [
+            "purpose"
+          ]
+        },
+        {
+          "number": 182,
+          "question_text": "What is suggested about Ms. Santos?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She works at Northgate."
+            },
+            {
+              "key": "B",
+              "text": "She is a current Northgate dealer."
+            },
+            {
+              "key": "C",
+              "text": "She lives near Cannon Road Station."
+            },
+            {
+              "key": "D",
+              "text": "She has attended the event before."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đăng ký miễn phí chỉ dành cho đại lý hiện tại và cô đã đăng ký, cũng như đang xin gặp nhân viên bán hàng về vấn đề giao hàng, nên cô là đại lý hiện tại.",
+          "translation": "Điều gì được ngụ ý về cô Santos? (A) Cô làm việc ở Northgate. (B) Cô là đại lý hiện tại của Northgate. (C) Cô sống gần ga Cannon Road. (D) Cô từng tham dự sự kiện này.",
+          "tags": [
+            "inference"
+          ]
+        },
+        {
+          "number": 183,
+          "question_text": "What does Ms. Santos ask Northgate to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reserve a parking space"
+            },
+            {
+              "key": "B",
+              "text": "Send a product catalog"
+            },
+            {
+              "key": "C",
+              "text": "Extend the registration deadline"
+            },
+            {
+              "key": "D",
+              "text": "Replace one registered attendee"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"My other colleague, Anita Cole, would like to take his place. Could you please update our registration?\"",
+          "translation": "Cô Santos yêu cầu Northgate làm gì? (A) Giữ chỗ đỗ xe (B) Gửi danh mục sản phẩm (C) Gia hạn đăng ký (D) Thay một người đã đăng ký",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 184,
+          "question_text": "When does Ms. Santos want to speak with a sales representative?",
+          "options": [
+            {
+              "key": "A",
+              "text": "After lunch"
+            },
+            {
+              "key": "B",
+              "text": "During the demonstrations"
+            },
+            {
+              "key": "C",
+              "text": "Before the product presentations"
+            },
+            {
+              "key": "D",
+              "text": "At the closing session"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cô muốn gặp \"before the presentations begin\", lúc 9:00 - tức là trước phần giới thiệu sản phẩm.",
+          "translation": "Cô Santos muốn nói chuyện với nhân viên bán hàng khi nào? (A) Sau bữa trưa (B) Trong lúc trải nghiệm (C) Trước phần giới thiệu sản phẩm (D) Ở phiên bế mạc",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 185,
+          "question_text": "How many people from Santos Sound & Vision will most likely attend?",
+          "options": [
+            {
+              "key": "A",
+              "text": "One"
+            },
+            {
+              "key": "B",
+              "text": "Two"
+            },
+            {
+              "key": "C",
+              "text": "Three"
+            },
+            {
+              "key": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ban đầu có Julia và Tomas; Tomas không đi và Anita thay thế, nên có hai người: Julia và Anita.",
+          "translation": "Có khả năng bao nhiêu người của Santos Sound & Vision sẽ tham dự? (A) Một (B) Hai (C) Ba (D) Bốn",
+          "tags": [
+            "inference"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "FERNHILL CATERING - Corporate Menu Packages\n\nPackage A: Breakfast Box - $9 per person (pastries, fruit, coffee). Minimum 10 people.\nPackage B: Working Lunch - $14 per person (sandwiches, salad, dessert, drinks). Minimum 15 people.\nPackage C: Reception Platters - $22 per person (hot and cold appetizers, beverages). Minimum 20 people.\n\nDelivery is free within 10 kilometers of our kitchen; beyond that, a fee of $25 applies. Orders must be placed at least 48 hours in advance. Cancellations made less than 24 hours before delivery are charged 50 percent. Vegetarian and gluten-free options are available at no extra cost.\n\n---\n\nTo: orders@fernhill.example\nFrom: Owen Pritchard <opritchard@altitude.example>\nDate: June 10\nSubject: Catering order\n\nHello,\n\nI would like to order catering for our quarterly sales meeting on Friday, June 14. We expect 18 people. We would like the working lunch delivered to our office at 500 Harbor Drive by 11:45 A.M. Three attendees are vegetarian and one needs gluten-free food. Please also send an invoice to our accounting department.\n\nThanks,\nOwen Pritchard\nAltitude Software\n\n---\n\nTo: Owen Pritchard\nFrom: Lucia Ferrer <lferrer@fernhill.example>\nDate: June 10\nSubject: RE: Catering order\n\nDear Mr. Pritchard,\n\nThank you for your request. Unfortunately, our kitchen is fully booked for the lunch hour on June 14. We can, however, deliver your order at 10:30 A.M. or after 1:30 P.M. Also, your office is 14 kilometers from our kitchen, so the delivery fee will apply.\n\nIf you move your meeting to Monday, June 17, we can deliver at 11:45 A.M. and will waive the delivery fee as a courtesy. Please confirm by e-mail by noon tomorrow.\n\nRegards,\nLucia Ferrer\nFernhill Catering",
+      "passage_vi": "FERNHILL CATERING - Gói thực đơn cho doanh nghiệp\n\nGói A: Hộp bữa sáng - 9 đô la/người (bánh ngọt, trái cây, cà phê). Tối thiểu 10 người.\nGói B: Bữa trưa công việc - 14 đô la/người (sandwich, salad, tráng miệng, đồ uống). Tối thiểu 15 người.\nGói C: Khay tiệc chiêu đãi - 22 đô la/người (món khai vị nóng và lạnh, đồ uống). Tối thiểu 20 người.\n\nGiao hàng miễn phí trong bán kính 10 km quanh bếp của chúng tôi; xa hơn sẽ tính phí 25 đô la. Đơn phải được đặt trước ít nhất 48 giờ. Hủy đơn dưới 24 giờ trước giờ giao sẽ bị tính 50 phần trăm. Có tùy chọn ăn chay và không gluten, không tính thêm phí.\n\n---\n\nĐến: orders@fernhill.example\nTừ: Owen Pritchard <opritchard@altitude.example>\nNgày: 10 tháng 6\nChủ đề: Đặt tiệc\n\nXin chào,\n\nTôi muốn đặt tiệc cho buổi họp kinh doanh hằng quý vào thứ Sáu, ngày 14 tháng 6. Chúng tôi dự kiến 18 người. Chúng tôi muốn gói bữa trưa công việc được giao đến văn phòng tại 500 Harbor Drive trước 11:45 sáng. Ba người dự họp ăn chay và một người cần đồ ăn không gluten. Xin gửi hóa đơn đến phòng kế toán của chúng tôi.\n\nCảm ơn,\nOwen Pritchard\nAltitude Software\n\n---\n\nĐến: Owen Pritchard\nTừ: Lucia Ferrer <lferrer@fernhill.example>\nNgày: 10 tháng 6\nChủ đề: RE: Đặt tiệc\n\nKính gửi ông Pritchard,\n\nCảm ơn yêu cầu của ông. Rất tiếc bếp của chúng tôi đã kín lịch vào giờ trưa ngày 14 tháng 6. Tuy nhiên, chúng tôi có thể giao lúc 10:30 sáng hoặc sau 1:30 chiều. Ngoài ra, văn phòng của ông cách bếp chúng tôi 14 km nên sẽ tính phí giao hàng.\n\nNếu ông dời cuộc họp sang thứ Hai, ngày 17 tháng 6, chúng tôi có thể giao lúc 11:45 sáng và sẽ miễn phí giao hàng như một sự ưu ái. Xin xác nhận qua e-mail trước trưa mai.\n\nTrân trọng,\nLucia Ferrer\nFernhill Catering",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 186,
+          "question_text": "Which package does Mr. Pritchard want to order?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Package A"
+            },
+            {
+              "key": "B",
+              "text": "Package B"
+            },
+            {
+              "key": "C",
+              "text": "Package C"
+            },
+            {
+              "key": "D",
+              "text": "A custom package"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ông muốn \"the working lunch\" = Package B.",
+          "translation": "Ông Pritchard muốn đặt gói nào? (A) Gói A (B) Gói B (C) Gói C (D) Gói tùy chỉnh",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 187,
+          "question_text": "How much would the food for Mr. Pritchard's meeting cost, excluding delivery?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$162"
+            },
+            {
+              "key": "B",
+              "text": "$198"
+            },
+            {
+              "key": "C",
+              "text": "$252"
+            },
+            {
+              "key": "D",
+              "text": "$396"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Gói B giá 14 đô la/người x 18 người = 252 đô la. Món chay và không gluten không tính thêm phí.",
+          "translation": "Chi phí đồ ăn cho buổi họp (chưa tính giao hàng) là bao nhiêu? (A) 162 đô la (B) 198 đô la (C) 252 đô la (D) 396 đô la",
+          "tags": [
+            "calculation"
+          ]
+        },
+        {
+          "number": 188,
+          "question_text": "What is indicated about the vegetarian and gluten-free meals?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They cost nothing extra."
+            },
+            {
+              "key": "B",
+              "text": "They require 48 hours' notice."
+            },
+            {
+              "key": "C",
+              "text": "They are available only with Package C."
+            },
+            {
+              "key": "D",
+              "text": "They must be picked up."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thực đơn: \"Vegetarian and gluten-free options are available at no extra cost.\"",
+          "translation": "Điều gì được nêu về các suất ăn chay và không gluten? (A) Không tính thêm phí. (B) Cần báo trước 48 giờ. (C) Chỉ có với gói C. (D) Phải tự đến lấy.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 189,
+          "question_text": "Why can Fernhill NOT deliver at the requested time on June 14?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The office is too far away."
+            },
+            {
+              "key": "B",
+              "text": "The order is below the minimum."
+            },
+            {
+              "key": "C",
+              "text": "The invoice has not been approved."
+            },
+            {
+              "key": "D",
+              "text": "The kitchen is fully booked at lunchtime."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cô Ferrer: \"our kitchen is fully booked for the lunch hour on June 14.\"",
+          "translation": "Vì sao Fernhill KHÔNG thể giao đúng giờ yêu cầu ngày 14/6? (A) Văn phòng quá xa. (B) Đơn dưới mức tối thiểu. (C) Hóa đơn chưa được duyệt. (D) Bếp kín lịch vào giờ trưa.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 190,
+          "question_text": "What does Ms. Ferrer offer if the meeting is moved to June 17?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A 50 percent discount"
+            },
+            {
+              "key": "B",
+              "text": "A free dessert"
+            },
+            {
+              "key": "C",
+              "text": "Delivery at no charge"
+            },
+            {
+              "key": "D",
+              "text": "An extra package"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"we can deliver at 11:45 A.M. and will waive the delivery fee as a courtesy.\" Waive the fee = miễn phí giao hàng.",
+          "translation": "Bà Ferrer đề nghị gì nếu dời họp sang 17/6? (A) Giảm giá 50 phần trăm (B) Món tráng miệng miễn phí (C) Giao hàng miễn phí (D) Thêm một gói",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "GLOBAL HR SUMMIT - Singapore, 21-23 October\n\nRegistration fees\nEarly bird (before 1 September): $480\nStandard (1 September - 30 September): $620\nLate (after 30 September): $750\n\nGroup discount: three or more registrants from the same organization receive 10 percent off the total. The fee includes meals and conference materials but not accommodation. A list of partner hotels offering reduced rates is available on our Web site.\n\nCancellation: full refund until 15 September; 50 percent refund until 5 October; no refund after that date.\n\n---\n\nTo: Greg Hallam\nFrom: Mina Joshi\nDate: 12 September\nSubject: HR Summit\n\nHi Greg,\n\nI would like to attend the Global HR Summit in Singapore next month. Two colleagues, Pablo and Emma, are also interested, so the three of us would qualify for a discount. The sessions on remote-work policy would directly help our project to revise the employee handbook. I estimate flights at $900 each and a hotel at $150 per night for three nights. Could you let me know whether the budget allows this?\n\nMina\n\n---\n\nTo: Mina Joshi\nFrom: Greg Hallam\nDate: 13 September\nSubject: RE: HR Summit\n\nMina,\n\nThanks for the proposal. I support it, but our travel budget this quarter can cover only two people. Please go with Pablo, since he leads the payroll system change. Emma can attend next year. Register before the end of this month to avoid higher fees, and remember that expense claims must be filed within 14 days of your return.\n\nGreg",
+      "passage_vi": "HỘI NGHỊ NHÂN SỰ TOÀN CẦU - Singapore, 21-23 tháng 10\n\nPhí đăng ký\nĐăng ký sớm (trước 1 tháng 9): 480 đô la\nTiêu chuẩn (1 tháng 9 - 30 tháng 9): 620 đô la\nĐăng ký muộn (sau 30 tháng 9): 750 đô la\n\nGiảm giá theo nhóm: từ ba người đăng ký trở lên cùng một tổ chức được giảm 10 phần trăm trên tổng số. Phí đã bao gồm bữa ăn và tài liệu hội nghị nhưng không gồm chỗ ở. Danh sách khách sạn đối tác có giá ưu đãi có trên trang web của chúng tôi.\n\nHủy đăng ký: hoàn tiền toàn bộ đến ngày 15 tháng 9; hoàn 50 phần trăm đến ngày 5 tháng 10; không hoàn tiền sau ngày đó.\n\n---\n\nĐến: Greg Hallam\nTừ: Mina Joshi\nNgày: 12 tháng 9\nChủ đề: Hội nghị Nhân sự\n\nChào Greg,\n\nTôi muốn tham dự Hội nghị Nhân sự Toàn cầu ở Singapore vào tháng sau. Hai đồng nghiệp là Pablo và Emma cũng quan tâm, nên ba chúng tôi sẽ đủ điều kiện được giảm giá. Các phiên về chính sách làm việc từ xa sẽ giúp trực tiếp cho dự án sửa đổi sổ tay nhân viên của chúng ta. Tôi ước tính vé máy bay 900 đô la mỗi người và khách sạn 150 đô la mỗi đêm trong ba đêm. Anh cho tôi biết ngân sách có cho phép không nhé?\n\nMina\n\n---\n\nĐến: Mina Joshi\nTừ: Greg Hallam\nNgày: 13 tháng 9\nChủ đề: RE: Hội nghị Nhân sự\n\nMina,\n\nCảm ơn đề xuất. Tôi ủng hộ, nhưng ngân sách đi lại quý này chỉ đủ cho hai người. Hãy đi cùng Pablo, vì anh ấy phụ trách việc đổi hệ thống tính lương. Emma có thể đi vào năm sau. Hãy đăng ký trước cuối tháng này để tránh mức phí cao hơn, và nhớ rằng phiếu thanh toán chi phí phải nộp trong vòng 14 ngày sau khi trở về.\n\nGreg",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 191,
+          "question_text": "How much will the company most likely pay in registration fees for Ms. Joshi and Pablo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$960"
+            },
+            {
+              "key": "B",
+              "text": "$1,116"
+            },
+            {
+              "key": "C",
+              "text": "$1,240"
+            },
+            {
+              "key": "D",
+              "text": "$1,500"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đăng ký trong tháng 9 theo mức tiêu chuẩn 620 đô la. Chỉ hai người nên không đủ ba người để được giảm 10%: 2 x 620 = 1.240 đô la.",
+          "translation": "Công ty nhiều khả năng sẽ trả bao nhiêu phí đăng ký cho cô Joshi và Pablo? (A) 960 đô la (B) 1.116 đô la (C) 1.240 đô la (D) 1.500 đô la",
+          "tags": [
+            "calculation"
+          ]
+        },
+        {
+          "number": 192,
+          "question_text": "What is included in the registration fee?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Meals and conference materials"
+            },
+            {
+              "key": "B",
+              "text": "Hotel accommodation"
+            },
+            {
+              "key": "C",
+              "text": "Airfare"
+            },
+            {
+              "key": "D",
+              "text": "Local transportation"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "\"The fee includes meals and conference materials but not accommodation.\"",
+          "translation": "Phí đăng ký bao gồm gì? (A) Bữa ăn và tài liệu hội nghị (B) Chỗ ở khách sạn (C) Vé máy bay (D) Đi lại nội địa",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 193,
+          "question_text": "Why does Ms. Joshi want to attend the summit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To meet a former colleague"
+            },
+            {
+              "key": "B",
+              "text": "To learn about topics related to a work project"
+            },
+            {
+              "key": "C",
+              "text": "To receive an award"
+            },
+            {
+              "key": "D",
+              "text": "To interview job candidates"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "\"The sessions on remote-work policy would directly help our project to revise the employee handbook.\"",
+          "translation": "Vì sao cô Joshi muốn tham dự hội nghị? (A) Gặp đồng nghiệp cũ (B) Tìm hiểu các chủ đề liên quan đến một dự án công việc (C) Nhận giải thưởng (D) Phỏng vấn ứng viên",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 194,
+          "question_text": "What can be inferred about Emma?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She will register for the early bird rate."
+            },
+            {
+              "key": "B",
+              "text": "She leads the payroll project."
+            },
+            {
+              "key": "C",
+              "text": "She will attend with Ms. Joshi."
+            },
+            {
+              "key": "D",
+              "text": "She will not go to the summit this year."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Greg chỉ cho phép hai người đi (Mina và Pablo) và nói \"Emma can attend next year\".",
+          "translation": "Có thể suy ra điều gì về Emma? (A) Cô đăng ký giá sớm. (B) Cô phụ trách dự án lương. (C) Cô đi cùng cô Joshi. (D) Cô không đi hội nghị năm nay.",
+          "tags": [
+            "inference"
+          ]
+        },
+        {
+          "number": 195,
+          "question_text": "What does Mr. Hallam remind Ms. Joshi to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Book the hotel immediately"
+            },
+            {
+              "key": "B",
+              "text": "Cancel before September 15"
+            },
+            {
+              "key": "C",
+              "text": "Submit expense claims within two weeks"
+            },
+            {
+              "key": "D",
+              "text": "Send her slides in advance"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "\"expense claims must be filed within 14 days of your return\" = trong vòng hai tuần.",
+          "translation": "Ông Hallam nhắc cô Joshi làm gì? (A) Đặt khách sạn ngay (B) Hủy trước 15/9 (C) Nộp phiếu chi phí trong vòng hai tuần (D) Gửi trước slide",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "passage": "OFFICE SPACE FOR LEASE - Thornberry Building, 88 Mill Street\n\nFloor 2, Suite 210: 120 square meters, open plan, $2,400 per month.\nFloor 4, Suite 405: 85 square meters, two private rooms, $1,950 per month.\n\nBoth include high-speed internet, 24-hour access, and use of the shared meeting room (reservable up to 8 hours per month). Underground parking is available for $60 per space per month. Minimum lease: 12 months. Tours are available on weekdays between 10 A.M. and 4 P.M. Contact property manager Elise Brandt at 555-0171.\n\n---\n\nTo: Elise Brandt\nFrom: Hiro Tanaka <hiro@tanakadesign.example>\nDate: April 2\nSubject: Suite 405\n\nDear Ms. Brandt,\n\nMy studio has five employees and we need a space with at least two private rooms for client calls. Is Suite 405 still available? We would need to move in by June 1. We would also need parking for two cars, and since we hold client workshops about 12 hours each month, I wonder if extra meeting room time can be arranged. May I visit on Thursday at 4:30 P.M.?\n\nHiro Tanaka\nTanaka Design Studio\n\n---\n\nTo: Hiro Tanaka\nFrom: Elise Brandt <ebrandt@thornberry.example>\nDate: April 3\nSubject: RE: Suite 405\n\nDear Mr. Tanaka,\n\nSuite 405 is available from June 1. Unfortunately, our tours end at 4 P.M., but I can show you the suite at 3:30 P.M. on Thursday. Regarding the meeting room, we can offer up to 6 additional hours per month for $20 per hour. Parking for two cars would be $120 per month. Please bring a copy of your business registration so that I can prepare the lease.\n\nSincerely,\nElise Brandt",
+      "passage_vi": "CHO THUÊ VĂN PHÒNG - Tòa nhà Thornberry, 88 phố Mill\n\nTầng 2, Phòng 210: 120 mét vuông, không gian mở, 2.400 đô la/tháng.\nTầng 4, Phòng 405: 85 mét vuông, hai phòng riêng, 1.950 đô la/tháng.\n\nCả hai đều bao gồm internet tốc độ cao, ra vào 24 giờ và sử dụng phòng họp chung (đặt tối đa 8 giờ mỗi tháng). Có bãi đỗ xe ngầm với giá 60 đô la mỗi chỗ mỗi tháng. Hợp đồng thuê tối thiểu: 12 tháng. Có thể đi xem vào các ngày trong tuần từ 10 giờ sáng đến 4 giờ chiều. Liên hệ quản lý tòa nhà Elise Brandt theo số 555-0171.\n\n---\n\nĐến: Elise Brandt\nTừ: Hiro Tanaka <hiro@tanakadesign.example>\nNgày: 2 tháng 4\nChủ đề: Phòng 405\n\nKính gửi bà Brandt,\n\nStudio của tôi có năm nhân viên và chúng tôi cần không gian có ít nhất hai phòng riêng để gọi điện cho khách. Phòng 405 còn trống không? Chúng tôi cần dọn vào trước ngày 1 tháng 6. Chúng tôi cũng cần chỗ đỗ cho hai xe, và vì chúng tôi tổ chức hội thảo cho khách khoảng 12 giờ mỗi tháng, tôi muốn hỏi có thể sắp xếp thêm giờ phòng họp không. Tôi có thể đến xem vào thứ Năm lúc 4:30 chiều không?\n\nHiro Tanaka\nTanaka Design Studio\n\n---\n\nĐến: Hiro Tanaka\nTừ: Elise Brandt <ebrandt@thornberry.example>\nNgày: 3 tháng 4\nChủ đề: RE: Phòng 405\n\nKính gửi ông Tanaka,\n\nPhòng 405 còn trống từ ngày 1 tháng 6. Rất tiếc các buổi xem phòng kết thúc lúc 4 giờ chiều, nhưng tôi có thể dẫn ông xem phòng lúc 3:30 chiều thứ Năm. Về phòng họp, chúng tôi có thể cung cấp thêm tối đa 6 giờ mỗi tháng với giá 20 đô la mỗi giờ. Chỗ đỗ cho hai xe là 120 đô la mỗi tháng. Xin mang theo bản sao giấy đăng ký kinh doanh để tôi chuẩn bị hợp đồng thuê.\n\nTrân trọng,\nElise Brandt",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 196,
+          "question_text": "Why is Suite 405 suitable for Mr. Tanaka's studio?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has the largest floor area."
+            },
+            {
+              "key": "B",
+              "text": "It has two private rooms."
+            },
+            {
+              "key": "C",
+              "text": "It includes free parking."
+            },
+            {
+              "key": "D",
+              "text": "It is on the ground floor."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ông cần \"at least two private rooms for client calls\" và Phòng 405 có \"two private rooms\".",
+          "translation": "Vì sao Phòng 405 phù hợp với studio của ông Tanaka? (A) Diện tích lớn nhất. (B) Có hai phòng riêng. (C) Có chỗ đỗ xe miễn phí. (D) Ở tầng trệt.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 197,
+          "question_text": "Why does Ms. Brandt suggest 3:30 P.M. for the visit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tours are not given after 4 P.M."
+            },
+            {
+              "key": "B",
+              "text": "She has a meeting at 4:30 P.M."
+            },
+            {
+              "key": "C",
+              "text": "The building closes at 4:00 P.M."
+            },
+            {
+              "key": "D",
+              "text": "The suite is occupied in the afternoon."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bảng thông tin: tours từ 10 sáng đến 4 chiều; bà viết \"our tours end at 4 P.M.\" nên đề xuất 3:30 chiều.",
+          "translation": "Vì sao bà Brandt đề xuất 3:30 chiều để xem phòng? (A) Không có buổi xem sau 4 giờ chiều. (B) Bà có cuộc họp lúc 4:30. (C) Tòa nhà đóng cửa lúc 4 giờ. (D) Phòng có người dùng buổi chiều.",
+          "tags": [
+            "detail"
+          ]
+        },
+        {
+          "number": 198,
+          "question_text": "How much would Mr. Tanaka pay each month for the suite and parking for two cars?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$1,950"
+            },
+            {
+              "key": "B",
+              "text": "$2,010"
+            },
+            {
+              "key": "C",
+              "text": "$2,070"
+            },
+            {
+              "key": "D",
+              "text": "$2,150"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Tiền phòng 1.950 đô la + chỗ đỗ hai xe 120 đô la = 2.070 đô la mỗi tháng.",
+          "translation": "Mỗi tháng ông Tanaka phải trả bao nhiêu cho phòng và chỗ đỗ hai xe? (A) 1.950 (B) 2.010 (C) 2.070 (D) 2.150 đô la",
+          "tags": [
+            "calculation"
+          ]
+        },
+        {
+          "number": 199,
+          "question_text": "How many additional meeting-room hours would Mr. Tanaka need each month?",
+          "options": [
+            {
+              "key": "A",
+              "text": "4"
+            },
+            {
+              "key": "B",
+              "text": "6"
+            },
+            {
+              "key": "C",
+              "text": "8"
+            },
+            {
+              "key": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Ông cần khoảng 12 giờ mỗi tháng; gói thuê đã gồm 8 giờ, nên cần thêm 12 - 8 = 4 giờ.",
+          "translation": "Mỗi tháng ông Tanaka cần thêm bao nhiêu giờ phòng họp? (A) 4 (B) 6 (C) 8 (D) 12",
+          "tags": [
+            "calculation"
+          ]
+        },
+        {
+          "number": 200,
+          "question_text": "What is Mr. Tanaka asked to bring to the visit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A deposit check"
+            },
+            {
+              "key": "B",
+              "text": "References from clients"
+            },
+            {
+              "key": "C",
+              "text": "A floor plan"
+            },
+            {
+              "key": "D",
+              "text": "A copy of his business registration"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "\"Please bring a copy of your business registration so that I can prepare the lease.\"",
+          "translation": "Ông Tanaka được yêu cầu mang gì khi đến xem phòng? (A) Séc đặt cọc (B) Thư giới thiệu từ khách hàng (C) Sơ đồ mặt bằng (D) Bản sao giấy đăng ký kinh doanh",
+          "tags": [
+            "detail"
+          ]
+        }
+      ]
+    }
+  ]
+}
