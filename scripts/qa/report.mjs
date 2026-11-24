@@ -2,6 +2,8 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { fetchAll, request } from '../db-ops.mjs';
+import { goalMatrix } from './goal-matrix.mjs';
 
 export const sections = ['sources','words','vocab','collections','tests','grammar','reading','listening','speaking','writing','blog','documents','courses','phrases','pronunciation','irregular'];
 export const root = join(import.meta.dirname, '../../content');
@@ -83,8 +85,12 @@ export async function databaseReport(sb,{ fetchAll,request,fingerprint }) {
   }
   const words = await fetchAll(sb,'vocab_words','id,word,pos,lemma,ipa_us,ipa_uk,audio_us_url,audio_uk_url,examples,source_id');
   const tests = await fetchAll(sb,'tests','id,exam_type,is_published,total_questions');
-  const questions = await fetchAll(sb,'questions','id,test_id,number,question_type,question_text,options,correct_answer,fingerprint');
+  const questions = await fetchAll(sb,'questions','id,test_id,number,part,question_type,question_text,options,correct_answer,fingerprint');
   const phrases = await fetchAll(sb,'phrases','id,kind');
+  const pronunciation = await fetchAll(sb,'pronunciation_lessons','id,slug,symbol,kind,minimal_pairs,audio_url');
+  const listening = await fetchAll(sb,'listening_lessons','id,kind,audio_url');
+  const reading = await fetchAll(sb,'reading_passages','id,level');
+  const grammarQuestions = await fetchAll(sb,'grammar_questions','topic_id,kind');
   const exams = {}, kinds = {}, answers = {}, hashes = new Set();
   let duplicateQuestions = 0;
   for (const t of tests) {
@@ -93,14 +99,50 @@ export async function databaseReport(sb,{ fetchAll,request,fingerprint }) {
     exams[type].tests++; exams[type].published += Number(t.is_published);
   }
   const types = new Map(tests.map(t => [t.id,t.exam_type ?? '(missing)']));
+  const partTests = new Map();
   for (const q of questions) {
     if (exams[types.get(q.test_id)]) exams[types.get(q.test_id)].actualQuestions++;
+    if (types.get(q.test_id) === 'toeic_part') {
+      if (!partTests.has(q.test_id)) partTests.set(q.test_id,new Set());
+      partTests.get(q.test_id).add(q.part);
+    }
     if ((q.question_type ?? 'mcq') === 'mcq') answers[q.correct_answer] = (answers[q.correct_answer] ?? 0) + 1;
     const hash = fingerprint(q);
     if (hashes.has(hash)) duplicateQuestions++;
     hashes.add(hash);
   }
   phrases.forEach(p => { kinds[p.kind] = (kinds[p.kind] ?? 0) + 1; });
+  const partCounts = Object.fromEntries(Array.from({length:7},(_,index) => [
+    index + 1,[...partTests.values()].filter(parts => parts.size === 1 && parts.has(index + 1)).length,
+  ]));
+  const uniquePairs = new Set();
+  for (const lesson of pronunciation) for (const pair of lesson.minimal_pairs ?? []) {
+    if (typeof pair.a !== 'string' || typeof pair.b !== 'string') continue;
+    const [a,b] = [pair.a.normalize('NFC').toLowerCase().trim(),pair.b.normalize('NFC').toLowerCase().trim()].sort();
+    if (a && b && a !== b) uniquePairs.add(`${a}\u0000${b}`);
+  }
+  const soundLessons = pronunciation.filter(p => p.slug.startsWith('ipa-') && ['vowel','diphthong','consonant'].includes(p.kind));
+  const pronunciationStats = {
+    distinctMinimalPairs:uniquePairs.size,
+    distinctIpaSounds:new Set(soundLessons.map(p => p.symbol)).size,
+    extensionLessons:{
+      stress:pronunciation.filter(p => p.kind === 'stress').length,
+      intonation:pronunciation.filter(p => p.kind === 'intonation').length,
+      linking:pronunciation.filter(p => p.kind === 'linking').length,
+      endings:pronunciation.filter(p => p.slug.startsWith('ending-') || p.slug.startsWith('endings-')).length,
+    },
+  };
+  const grammarCounts = new Map();
+  for (const question of grammarQuestions) {
+    if (!grammarCounts.has(question.topic_id)) grammarCounts.set(question.topic_id,{ exercise:0,quiz:0 });
+    const counter = grammarCounts.get(question.topic_id);
+    if (question.kind === 'exercise' || question.kind === 'quiz') counter[question.kind]++;
+  }
+  const grammar = { qualifiedTopics:[...grammarCounts.values()].filter(n => n.exercise >= 10 && n.quiz >= 10).length };
+  const media = {
+    pronunciationAudioLessons:new Set(soundLessons.filter(p => p.audio_url).map(p => p.symbol)).size,
+    listeningAudioLessons:listening.filter(l => l.audio_url).length,
+  };
   const coverage = {
     distinctExplicitLemmas:new Set(words.filter(w => w.lemma).map(w => w.lemma)).size,
     missingLemma:words.filter(w => !w.lemma).length,
@@ -108,7 +150,10 @@ export async function databaseReport(sb,{ fetchAll,request,fingerprint }) {
     missingIpaUK:words.filter(w => !w.ipa_uk).length,
     missingAudioUS:words.filter(w => !w.audio_us_url).length,
     missingAudioUK:words.filter(w => !w.audio_uk_url).length,
-    fewerThanTwoExamples:words.filter(w => !Array.isArray(w.examples) || w.examples.length < 2).length,
+    fewerThanTwoExamples:words.filter(w => {
+      const bilingual = Array.isArray(w.examples) ? w.examples.filter(e => e?.en?.trim?.() && e?.vi?.trim?.()) : [];
+      return new Set(bilingual.map(e => e.en.trim().toLowerCase())).size < 2;
+    }).length,
     missingWordSources:words.filter(w => !w.source_id).length,
     missingStoredFingerprints:questions.filter(q => !q.fingerprint).length,
     duplicateComputedFingerprints:duplicateQuestions,
@@ -120,7 +165,25 @@ export async function databaseReport(sb,{ fetchAll,request,fingerprint }) {
   console.log('Exam types:',JSON.stringify(exams));
   console.log('Phrase kinds:',JSON.stringify(kinds));
   console.log('MCQ answers:',JSON.stringify(answers));
-  return { counts,coverage,exams,phrases:kinds,answers };
+  console.log('Grammar topics with >=10 exercises and >=10 quiz questions:',grammar.qualifiedTopics);
+  const goals = goalMatrix({ counts,coverage,exams,phrases:kinds,pronunciation:pronunciationStats,media,grammar });
+  const readingLevels = Object.fromEntries(Object.entries({A2:100,B1:150,B2:150,C1:100})
+    .map(([level,target]) => [level,{actual:reading.filter(p => p.level === level).length,target}]));
+  const listeningKinds = Object.fromEntries(['bilingual','syllabus'].map(kind => [
+    kind,{actual:listening.filter(l => l.kind === kind).length,withAudio:listening.filter(l => l.kind === kind && l.audio_url).length},
+  ]));
+  console.log('Plan thresholds (verified DB counts; media only URL coverage, not file validity):');
+  console.table(goals.metrics);
+  console.log('Exam distribution (317 total including two legacy full tests):');
+  console.table(goals.examDistribution);
+  console.log('TOEIC single-part tests (target 10 each):',JSON.stringify(partCounts));
+  console.log('Reading CEFR distribution:',JSON.stringify(readingLevels));
+  console.log('Listening lesson types:',JSON.stringify(listeningKinds));
+  console.log('Supplemental pronunciation:',JSON.stringify(pronunciationStats.extensionLessons));
+  console.log('Vocabulary row quality:');
+  console.table(goals.wordQuality);
+  console.log('Integrity:',JSON.stringify(goals.integrity));
+  return { counts,coverage,exams,partCounts,readingLevels,listeningKinds,phrases:kinds,answers,pronunciation:pronunciationStats,media,grammar,goals };
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   try {
@@ -138,7 +201,6 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
       if (!process.env.NEXT_PUBLIC_SUPABASE_URL || !process.env.SUPABASE_SECRET_KEY) throw new Error('Missing NEXT_PUBLIC_SUPABASE_URL or SUPABASE_SECRET_KEY');
       if (!fingerprint) throw new Error('Shared validator required for database fingerprint report');
       const { createClient } = await import('@supabase/supabase-js');
-      const { fetchAll,request } = await import('../seed.mjs');
       const sb = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL,process.env.SUPABASE_SECRET_KEY,{ auth:{ persistSession:false,autoRefreshToken:false } });
       await databaseReport(sb,{ fetchAll,request,fingerprint });
     } else report(entries,{ fingerprint });

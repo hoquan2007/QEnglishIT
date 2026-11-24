@@ -1,0 +1,420 @@
+{
+  "slug": "qe-p5-008",
+  "content_path": "content/tests/toeic_part/qe-p5-008.json",
+  "title": "TOEIC Part 5 – Incomplete Sentences 08 (Technology, Procurement, and Service Operations)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "900",
+  "cefr": "C1",
+  "difficulty": 5,
+  "duration_minutes": 20,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part5",
+      "title": "Part 5 – Incomplete Sentences",
+      "parts": [
+        5
+      ],
+      "count": 40,
+      "minutes": 20
+    }
+  ],
+  "authoring_scope": "Forty original incomplete sentences, one question per group; questions numbered 1–40.",
+  "difficulty_rationale_vi": "Đề dùng bối cảnh công nghệ, mua sắm và vận hành dịch vụ ở mức B2–C1. Câu khó kiểm tra điều kiện, quan hệ mệnh đề, collocation chuyên nghiệp và lựa chọn từ loại trong câu dài nhưng vẫn có một đáp án rõ ràng.",
+  "topic_distribution": {
+    "word-form": 8,
+    "verb-form": 5,
+    "preposition": 5,
+    "connector": 5,
+    "vocabulary": 5,
+    "relative-clause": 3,
+    "collocation": 4,
+    "tense": 2,
+    "pronoun": 2,
+    "determiner": 1
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 5,
+      "category": "word-form",
+      "context": "cloud-service cost review",
+      "difficulty": 4
+    },
+    {
+      "number": 2,
+      "group_order": 2,
+      "part": 5,
+      "category": "verb-form",
+      "context": "receipt reconciliation",
+      "difficulty": 5
+    },
+    {
+      "number": 3,
+      "group_order": 3,
+      "part": 5,
+      "category": "preposition",
+      "context": "warranty shipping procedure",
+      "difficulty": 4
+    },
+    {
+      "number": 4,
+      "group_order": 4,
+      "part": 5,
+      "category": "connector",
+      "context": "inventory access restriction",
+      "difficulty": 5
+    },
+    {
+      "number": 5,
+      "group_order": 5,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "network replacement planning",
+      "difficulty": 5
+    },
+    {
+      "number": 6,
+      "group_order": 6,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "consulting recommendations",
+      "difficulty": 4
+    },
+    {
+      "number": 7,
+      "group_order": 7,
+      "part": 5,
+      "category": "collocation",
+      "context": "shipping fee dispute",
+      "difficulty": 5
+    },
+    {
+      "number": 8,
+      "group_order": 8,
+      "part": 5,
+      "category": "tense",
+      "context": "customer response metrics",
+      "difficulty": 4
+    },
+    {
+      "number": 9,
+      "group_order": 9,
+      "part": 5,
+      "category": "word-form",
+      "context": "outage investigation",
+      "difficulty": 4
+    },
+    {
+      "number": 10,
+      "group_order": 10,
+      "part": 5,
+      "category": "pronoun",
+      "context": "cable reconnection",
+      "difficulty": 4
+    },
+    {
+      "number": 11,
+      "group_order": 11,
+      "part": 5,
+      "category": "preposition",
+      "context": "service agreement effective date",
+      "difficulty": 4
+    },
+    {
+      "number": 12,
+      "group_order": 12,
+      "part": 5,
+      "category": "connector",
+      "context": "security release gate",
+      "difficulty": 5
+    },
+    {
+      "number": 13,
+      "group_order": 13,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "replacement-parts stock",
+      "difficulty": 4
+    },
+    {
+      "number": 14,
+      "group_order": 14,
+      "part": 5,
+      "category": "word-form",
+      "context": "refund authorization",
+      "difficulty": 4
+    },
+    {
+      "number": 15,
+      "group_order": 15,
+      "part": 5,
+      "category": "verb-form",
+      "context": "secure-area badge policy",
+      "difficulty": 4
+    },
+    {
+      "number": 16,
+      "group_order": 16,
+      "part": 5,
+      "category": "collocation",
+      "context": "performance bond requirement",
+      "difficulty": 5
+    },
+    {
+      "number": 17,
+      "group_order": 17,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "training lab location",
+      "difficulty": 5
+    },
+    {
+      "number": 18,
+      "group_order": 18,
+      "part": 5,
+      "category": "preposition",
+      "context": "premium support hours",
+      "difficulty": 4
+    },
+    {
+      "number": 19,
+      "group_order": 19,
+      "part": 5,
+      "category": "word-form",
+      "context": "refrigeration incident response",
+      "difficulty": 4
+    },
+    {
+      "number": 20,
+      "group_order": 20,
+      "part": 5,
+      "category": "connector",
+      "context": "delivery rescheduling policy",
+      "difficulty": 4
+    },
+    {
+      "number": 21,
+      "group_order": 21,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "data-breach contract term",
+      "difficulty": 5
+    },
+    {
+      "number": 22,
+      "group_order": 22,
+      "part": 5,
+      "category": "verb-form",
+      "context": "regional shipment comparison",
+      "difficulty": 4
+    },
+    {
+      "number": 23,
+      "group_order": 23,
+      "part": 5,
+      "category": "determiner",
+      "context": "payment-data security training",
+      "difficulty": 5
+    },
+    {
+      "number": 24,
+      "group_order": 24,
+      "part": 5,
+      "category": "collocation",
+      "context": "delivery-date confirmation",
+      "difficulty": 4
+    },
+    {
+      "number": 25,
+      "group_order": 25,
+      "part": 5,
+      "category": "word-form",
+      "context": "proposal evaluation",
+      "difficulty": 4
+    },
+    {
+      "number": 26,
+      "group_order": 26,
+      "part": 5,
+      "category": "tense",
+      "context": "billing platform migration",
+      "difficulty": 5
+    },
+    {
+      "number": 27,
+      "group_order": 27,
+      "part": 5,
+      "category": "preposition",
+      "context": "browser extension policy",
+      "difficulty": 4
+    },
+    {
+      "number": 28,
+      "group_order": 28,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "duplicate-charge investigation",
+      "difficulty": 5
+    },
+    {
+      "number": 29,
+      "group_order": 29,
+      "part": 5,
+      "category": "connector",
+      "context": "maintenance contingency",
+      "difficulty": 5
+    },
+    {
+      "number": 30,
+      "group_order": 30,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "overheating adapter action",
+      "difficulty": 5
+    },
+    {
+      "number": 31,
+      "group_order": 31,
+      "part": 5,
+      "category": "word-form",
+      "context": "revenue reporting",
+      "difficulty": 4
+    },
+    {
+      "number": 32,
+      "group_order": 32,
+      "part": 5,
+      "category": "verb-form",
+      "context": "approved invoice protection",
+      "difficulty": 4
+    },
+    {
+      "number": 33,
+      "group_order": 33,
+      "part": 5,
+      "category": "pronoun",
+      "context": "automatic schedule configuration",
+      "difficulty": 4
+    },
+    {
+      "number": 34,
+      "group_order": 34,
+      "part": 5,
+      "category": "collocation",
+      "context": "transport rate agreement",
+      "difficulty": 5
+    },
+    {
+      "number": 35,
+      "group_order": 35,
+      "part": 5,
+      "category": "preposition",
+      "context": "invoice cutoff",
+      "difficulty": 4
+    },
+    {
+      "number": 36,
+      "group_order": 36,
+      "part": 5,
+      "category": "connector",
+      "context": "cafeteria supplier standards",
+      "difficulty": 5
+    },
+    {
+      "number": 37,
+      "group_order": 37,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "billing fee analysis",
+      "difficulty": 5
+    },
+    {
+      "number": 38,
+      "group_order": 38,
+      "part": 5,
+      "category": "word-form",
+      "context": "archived payroll access",
+      "difficulty": 5
+    },
+    {
+      "number": 39,
+      "group_order": 39,
+      "part": 5,
+      "category": "verb-form",
+      "context": "remote sensor diagnosis",
+      "difficulty": 4
+    },
+    {
+      "number": 40,
+      "group_order": 40,
+      "part": 5,
+      "category": "word-form",
+      "context": "multi-site delivery planning",
+      "difficulty": 5
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 10
+    },
+    "sequence": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "B",
+      "A",
+      "D",
+      "C",
+      "C",
+      "D",
+      "A",
+      "B",
+      "A",
+      "D",
+      "C",
+      "B",
+      "A",
+      "D",
+      "B",
+      "C",
+      "B",
+      "D",
+      "C",
+      "A",
+      "D",
+      "B",
+      "A",
+      "C",
+      "A",
+      "D",
+      "C",
+      "B",
+      "D",
+      "A",
+      "C",
+      "B",
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu tiếng Anh và các phương án cho người giải độc lập. Giữ riêng đáp án, lời giải, bản dịch và file đặc tả."
+  }
+}

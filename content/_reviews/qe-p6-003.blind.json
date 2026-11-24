@@ -1,0 +1,416 @@
+{
+  "slug": "qe-p6-003",
+  "revision": "188bc99798fcac009ead25c6b82a78b96e3323d13730920599f83b4bcde10990",
+  "title": "TOEIC Part 6 – Text Completion 03 (Operations and Service Updates)",
+  "exam_type": "toeic_part",
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: New regional coordinators\nFrom: People Operations\nSubject: First-week mentoring schedule\n\nEach new coordinator will be paired with an experienced colleague for the first five working days. Please contact your assigned mentor -------(1)------- Monday morning to confirm where you will meet. The first session will focus on the regional reporting dashboard and the weekly planning routine.\n\nMentors have been asked to reserve one hour each afternoon for questions. -------(2)------- This arrangement should help new coordinators resolve small issues without waiting for the next formal training session.\n\nOn Thursday, all new coordinators will join a virtual workshop on handling schedule changes. The workshop link will be sent automatically, so no separate registration is -------(3)-------. If you cannot attend, inform People Operations as early as possible so that an alternative session can be -------(4)-------.",
+      "transcript": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "before"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "beside"
+            },
+            {
+              "key": "D",
+              "text": "throughout"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The dashboard will be replaced with a paper form next month."
+            },
+            {
+              "key": "B",
+              "text": "New coordinators can note issues during the day and discuss them during that time."
+            },
+            {
+              "key": "C",
+              "text": "Regional offices are closed every Thursday afternoon."
+            },
+            {
+              "key": "D",
+              "text": "Mentors are responsible for approving all travel expenses."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "require"
+            },
+            {
+              "key": "B",
+              "text": "requiring"
+            },
+            {
+              "key": "C",
+              "text": "required"
+            },
+            {
+              "key": "D",
+              "text": "requirement"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "measured"
+            },
+            {
+              "key": "B",
+              "text": "translated"
+            },
+            {
+              "key": "C",
+              "text": "borrowed"
+            },
+            {
+              "key": "D",
+              "text": "arranged"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "**Cold-storage inspection notice**\n\nOn 12 November, the west warehouse will undergo its annual temperature-control inspection. Normal receiving will continue, -------(5)------- drivers may experience short delays while inspectors test the loading-bay sensors.\n\nWarehouse staff should keep the marked inspection lanes clear from 8 A.M. until noon. Pallets waiting for quality checks should be placed in the temporary holding zone near Door 4. The zone is refrigerated and has been prepared -------(6)------- for this inspection.\n\n-------(7)------- The maintenance team will review every alert before normal sensor settings are restored. Employees should therefore avoid resetting alarms themselves during the inspection.\n\nThe inspection is expected to finish by 1 P.M. A supervisor will send a message when the warehouse can resume -------(8)------- receiving procedures.",
+      "transcript": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "but"
+            },
+            {
+              "key": "C",
+              "text": "therefore"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "specifically"
+            },
+            {
+              "key": "B",
+              "text": "specific"
+            },
+            {
+              "key": "C",
+              "text": "specification"
+            },
+            {
+              "key": "D",
+              "text": "specify"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "question_type": "sentence_insert",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The warehouse will stop accepting all deliveries for the rest of the week."
+            },
+            {
+              "key": "B",
+              "text": "Inspectors will replace every refrigerated pallet in the west warehouse."
+            },
+            {
+              "key": "C",
+              "text": "Drivers should reset the loading-bay sensors whenever an alert appears."
+            },
+            {
+              "key": "D",
+              "text": "During testing, some temperature alerts may appear on the dashboard even when stored goods remain within safe limits."
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "routines"
+            },
+            {
+              "key": "B",
+              "text": "routinely"
+            },
+            {
+              "key": "C",
+              "text": "routine"
+            },
+            {
+              "key": "D",
+              "text": "routine's"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "**Community solar project reaches installation stage**\n\nAfter six months of site surveys and permit reviews, Greenline Cooperative will begin installing rooftop solar panels on three neighborhood service buildings next week. The first shipment of mounting equipment arrived Monday and was inspected -------(9)------- it entered storage.\n\nInstallation will start at the health center because its roof work was completed ahead of schedule. Crews will then move to the library and the recreation hall. -------(10)------- This sequence allows the same lifting equipment to be used at all three locations without an extra rental period.\n\nThe cooperative expects installation to take four weeks. Weather delays have been included in the schedule, so the project manager is -------(11)------- that the final inspection can still occur before the end of the month.\n\nOnce each system passes inspection, electricity production will be tracked online. The cooperative plans to publish monthly reports showing -------(12)------- power each building generates.",
+      "transcript": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "before"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The library has canceled all community programs for the year."
+            },
+            {
+              "key": "B",
+              "text": "Each building will purchase a different type of lifting equipment."
+            },
+            {
+              "key": "C",
+              "text": "The cooperative will store the panels at the recreation hall indefinitely."
+            },
+            {
+              "key": "D",
+              "text": "The crane will move with the installation crew after work is completed at each site."
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "confident"
+            },
+            {
+              "key": "B",
+              "text": "confidence"
+            },
+            {
+              "key": "C",
+              "text": "confidently"
+            },
+            {
+              "key": "D",
+              "text": "confide"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "whether"
+            },
+            {
+              "key": "B",
+              "text": "how much"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Dear event coordinator,\n\nThank you for choosing the Riverside Hotel for your October leadership meeting. We have reviewed the room setup you submitted and can provide the requested U-shaped table arrangement. The meeting room is currently being renovated, but the work is scheduled to finish -------(13)------- three days before your event.\n\nOur audiovisual team will install the presentation screen and two wireless microphones the evening before the meeting. -------(14)------- This gives your presenter time to confirm that the slides, sound, and remote control are working as expected.\n\nYou also asked whether coffee can be available before registration begins. We can open the refreshment station at 7:30 A.M., which is thirty minutes -------(15)------- than the standard service time. There is no additional room charge for this change.\n\nPlease send the final attendance number by 5 October. We use that figure to prepare seating and to make the catering order as -------(16)------- as possible.",
+      "transcript": null,
+      "image_description": null,
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "during"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "through"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The hotel will close the meeting room immediately after installation."
+            },
+            {
+              "key": "B",
+              "text": "The presenter must bring a separate screen from another venue."
+            },
+            {
+              "key": "C",
+              "text": "A technician will be available from 7:45 the next morning to assist with a final equipment check."
+            },
+            {
+              "key": "D",
+              "text": "The wireless microphones cannot be tested until after the meeting begins."
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "earliest"
+            },
+            {
+              "key": "B",
+              "text": "earlier"
+            },
+            {
+              "key": "C",
+              "text": "early"
+            },
+            {
+              "key": "D",
+              "text": "earliness"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "accurately"
+            },
+            {
+              "key": "B",
+              "text": "accuracy"
+            },
+            {
+              "key": "C",
+              "text": "accurate"
+            },
+            {
+              "key": "D",
+              "text": "accuracies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "qe-p3-006",
+  "content_path": "content/tests/toeic_part/qe-p3-006.json",
+  "title": "TOEIC Part 3 – Hội thoại 06",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "difficulty": 4,
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Listening Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "conference booth shipment delay",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "software subscription renewal seats",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "commuter rail reimbursement policy",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "dental appointment rescheduling",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "catering order dietary restriction",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "rental property inspection access",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "library study room reservation extension",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "retail inventory count discrepancy",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "courier route road closure",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "coworking room video call setup",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "employee travel receipt correction",
+      "first_question": 31,
+      "last_question": 33,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "laboratory equipment calibration slot",
+      "first_question": 34,
+      "last_question": 36,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "community festival volunteer reassignment",
+      "first_question": 37,
+      "last_question": 39,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 9
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript tiếng Anh, câu hỏi và các phương án. Không xem đáp án, giải thích, bản dịch hoặc đặc tả trước khi nộp bài."
+  }
+}

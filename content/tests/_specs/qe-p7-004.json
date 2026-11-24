@@ -1,0 +1,202 @@
+{
+  "slug": "qe-p7-004",
+  "content_path": "content/tests/toeic_part/qe-p7-004.json",
+  "title": "TOEIC Part 7 Practice 04 – Workplace Services and Events",
+  "exam_type": "toeic_part",
+  "part": 7,
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 27,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 27
+    }
+  ],
+  "format": "Five single passages with four questions each, one double passage with five questions, and one triple passage with five questions.",
+  "difficulty_rationale_vi": "Mở đầu bằng hội thoại và biểu mẫu ngắn, sau đó chuyển sang đọc bảng giờ, vận dụng điều kiện trong báo giá và kết hợp hướng dẫn, bảng phân ca, tin nhắn.",
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "group_order": 1,
+      "part": 7,
+      "section": "reading",
+      "topic": "Retail window display",
+      "genre": "staff chat",
+      "passage_count": 1,
+      "first_question": 1,
+      "last_question": 4,
+      "difficulty": 2,
+      "skill_distribution": {
+        "purpose": 1,
+        "detail": 2,
+        "inference": 1
+      }
+    },
+    {
+      "group_order": 2,
+      "part": 7,
+      "section": "reading",
+      "topic": "Commercial photography",
+      "genre": "equipment return form",
+      "passage_count": 1,
+      "first_question": 5,
+      "last_question": 8,
+      "difficulty": 2,
+      "skill_distribution": {
+        "detail": 2,
+        "not-true": 1,
+        "inference": 1
+      }
+    },
+    {
+      "group_order": 3,
+      "part": 7,
+      "section": "reading",
+      "topic": "Garden center customer service",
+      "genre": "customer-service email",
+      "passage_count": 1,
+      "first_question": 9,
+      "last_question": 12,
+      "difficulty": 3,
+      "skill_distribution": {
+        "purpose": 1,
+        "sentence-insertion": 1,
+        "vocab-in-context": 1,
+        "detail": 1
+      }
+    },
+    {
+      "group_order": 4,
+      "part": 7,
+      "section": "reading",
+      "topic": "Staff shuttle",
+      "genre": "service timetable",
+      "passage_count": 1,
+      "first_question": 13,
+      "last_question": 16,
+      "difficulty": 3,
+      "skill_distribution": {
+        "detail": 2,
+        "inference": 2
+      }
+    },
+    {
+      "group_order": 5,
+      "part": 7,
+      "section": "reading",
+      "topic": "Audio production",
+      "genre": "trade newsletter article",
+      "passage_count": 1,
+      "first_question": 17,
+      "last_question": 20,
+      "difficulty": 3,
+      "skill_distribution": {
+        "detail": 1,
+        "vocab-in-context": 1,
+        "inference": 2
+      }
+    },
+    {
+      "group_order": 6,
+      "part": 7,
+      "section": "reading",
+      "topic": "Hotel linen purchasing",
+      "genre": "quotation and purchase email",
+      "passage_count": 2,
+      "first_question": 21,
+      "last_question": 25,
+      "difficulty": 3,
+      "skill_distribution": {
+        "detail": 3,
+        "cross-passage": 2
+      }
+    },
+    {
+      "group_order": 7,
+      "part": 7,
+      "section": "reading",
+      "topic": "Book festival staffing",
+      "genre": "volunteer guide, shift roster and team message",
+      "passage_count": 3,
+      "first_question": 26,
+      "last_question": 30,
+      "difficulty": 4,
+      "skill_distribution": {
+        "detail": 1,
+        "cross-passage": 3,
+        "inference": 1
+      }
+    }
+  ],
+  "skill_distribution": {
+    "purpose": 2,
+    "detail": 12,
+    "inference": 7,
+    "not-true": 1,
+    "sentence-insertion": 1,
+    "vocab-in-context": 2,
+    "cross-passage": 5
+  },
+  "answer_plan": {
+    "counts": {
+      "A": 8,
+      "B": 7,
+      "C": 8,
+      "D": 7
+    },
+    "sequence": [
+      "A",
+      "D",
+      "B",
+      "C",
+      "C",
+      "A",
+      "D",
+      "A",
+      "B",
+      "B",
+      "C",
+      "D",
+      "D",
+      "A",
+      "B",
+      "C",
+      "B",
+      "A",
+      "D",
+      "C",
+      "B",
+      "A",
+      "C",
+      "D",
+      "A",
+      "D",
+      "C",
+      "B",
+      "C",
+      "A"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Chỉ cung cấp văn bản tiếng Anh, câu hỏi và phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và đặc tả."
+  }
+}

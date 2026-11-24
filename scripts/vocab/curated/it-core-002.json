@@ -1,0 +1,2584 @@
+[
+  {
+    "lemma": "administrator",
+    "pos": "n",
+    "meaning_vi": "quản trị viên hệ thống",
+    "definition_en": "a person who manages a computer system and controls how others use it",
+    "examples": [
+      {
+        "en": "Ask an administrator to restore your access to the shared drive.",
+        "vi": "Hãy nhờ quản trị viên khôi phục quyền truy cập của bạn vào ổ đĩa dùng chung."
+      },
+      {
+        "en": "The administrator reviewed account permissions before the new interns arrived.",
+        "vi": "Quản trị viên đã rà soát quyền của các tài khoản trước khi nhóm thực tập sinh mới đến."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "system administrator",
+        "vi": "quản trị viên hệ thống"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "agile",
+    "pos": "adj",
+    "meaning_vi": "linh hoạt, phát triển theo các chu kỳ ngắn và điều chỉnh theo phản hồi",
+    "definition_en": "using short development cycles and adapting plans in response to feedback",
+    "examples": [
+      {
+        "en": "An agile team reviews completed work and adjusts what it will do next.",
+        "vi": "Nhóm làm việc theo phương pháp linh hoạt xem lại phần việc đã hoàn thành rồi điều chỉnh kế hoạch tiếp theo."
+      },
+      {
+        "en": "We adopted an agile approach so store managers could comment on early versions.",
+        "vi": "Chúng tôi áp dụng phương pháp linh hoạt để quản lý các cửa hàng có thể góp ý về những phiên bản đầu tiên."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "agile approach",
+        "vi": "phương pháp phát triển linh hoạt"
+      }
+    ],
+    "topics": [
+      "project-management"
+    ]
+  },
+  {
+    "lemma": "amendment",
+    "pos": "n",
+    "meaning_vi": "khoản sửa đổi hoặc bổ sung chính thức trong văn bản",
+    "definition_en": "a formal change or addition to a written agreement or document",
+    "examples": [
+      {
+        "en": "The amendment adds an extra week to the delivery schedule.",
+        "vi": "Khoản sửa đổi kéo dài lịch giao hàng thêm một tuần."
+      },
+      {
+        "en": "Both companies signed the amendment before the technicians began work at the second site.",
+        "vi": "Cả hai công ty đã ký văn bản sửa đổi trước khi kỹ thuật viên bắt đầu làm việc tại địa điểm thứ hai."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contract amendment",
+        "vi": "văn bản sửa đổi hợp đồng"
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "appendix",
+    "pos": "n",
+    "meaning_vi": "phụ lục ở cuối tài liệu",
+    "definition_en": "a section at the end of a document that contains supporting information",
+    "examples": [
+      {
+        "en": "The appendix lists the dates of all site visits.",
+        "vi": "Phụ lục liệt kê ngày của tất cả các chuyến khảo sát thực địa."
+      },
+      {
+        "en": "We placed the interview questions in an appendix to keep the report brief.",
+        "vi": "Chúng tôi đưa các câu hỏi phỏng vấn vào phụ lục để báo cáo được ngắn gọn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "report appendix",
+        "vi": "phụ lục báo cáo"
+      }
+    ],
+    "topics": [
+      "documentation"
+    ]
+  },
+  {
+    "lemma": "archive",
+    "pos": "n",
+    "meaning_vi": "kho lưu trữ tài liệu hoặc dữ liệu cũ",
+    "definition_en": "a collection of older records kept for future reference",
+    "examples": [
+      {
+        "en": "The archive contains every version of the installation guide.",
+        "vi": "Kho lưu trữ có đủ mọi phiên bản của hướng dẫn cài đặt."
+      },
+      {
+        "en": "Our legal team checked the email archive for the original approval.",
+        "vi": "Bộ phận pháp chế đã tra kho thư điện tử để tìm văn bản phê duyệt ban đầu."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "email archive",
+        "vi": "kho thư điện tử"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "artifact",
+    "pos": "n",
+    "meaning_vi": "tệp đầu ra của một bước trong quy trình phát triển phần mềm",
+    "definition_en": "a file produced by a software development step and retained for later use",
+    "examples": [
+      {
+        "en": "The build artifact includes the installer and a list of bundled libraries.",
+        "vi": "Tệp đầu ra của quá trình dựng phần mềm chứa bộ cài và danh sách thư viện đi kèm."
+      },
+      {
+        "en": "The release team tested the same artifact that customers would download.",
+        "vi": "Nhóm phát hành đã kiểm thử đúng tệp mà khách hàng sẽ tải xuống."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "build artifact",
+        "vi": "tệp đầu ra của quá trình dựng phần mềm"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "atomic",
+    "pos": "adj",
+    "meaning_vi": "có tính nguyên tử, được thực hiện trọn vẹn hoặc không thực hiện",
+    "definition_en": "performed as a single unit that either completes entirely or has no effect",
+    "examples": [
+      {
+        "en": "An atomic transfer debits the sender and credits the recipient as one operation.",
+        "vi": "Thao tác chuyển tiền nguyên tử ghi nợ tài khoản gửi và ghi có tài khoản nhận trong cùng một thao tác."
+      },
+      {
+        "en": "The engineers made the update atomic so related records could never remain partly changed.",
+        "vi": "Các kỹ sư bảo đảm tính nguyên tử của thao tác cập nhật để các bản ghi liên quan luôn được cập nhật đồng bộ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "atomic update",
+        "vi": "thao tác cập nhật nguyên tử"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "auditor",
+    "pos": "n",
+    "meaning_vi": "kiểm toán viên",
+    "definition_en": "a person who examines records or processes to check that they meet established requirements",
+    "examples": [
+      {
+        "en": "The auditor compared the receipts with the amounts in the ledger.",
+        "vi": "Kiểm toán viên đối chiếu các biên lai với số tiền ghi trong sổ cái."
+      },
+      {
+        "en": "Our auditor requested evidence that former staff could no longer access the payroll system.",
+        "vi": "Kiểm toán viên yêu cầu bằng chứng cho thấy nhân viên đã nghỉ việc không còn truy cập được hệ thống bảng lương."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "internal auditor",
+        "vi": "kiểm toán viên nội bộ"
+      }
+    ],
+    "topics": [
+      "compliance"
+    ]
+  },
+  {
+    "lemma": "baseline",
+    "pos": "n",
+    "meaning_vi": "mức chuẩn ban đầu dùng để đối chiếu",
+    "definition_en": "a starting measurement used to assess later changes",
+    "examples": [
+      {
+        "en": "Last month's response time provides a baseline for the comparison.",
+        "vi": "Thời gian phản hồi của tháng trước là mức chuẩn ban đầu để so sánh."
+      },
+      {
+        "en": "The team recorded a baseline before enabling the new search feature.",
+        "vi": "Nhóm đã ghi lại mức đo ban đầu trước khi bật tính năng tìm kiếm mới."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "performance baseline",
+        "vi": "mức hiệu năng ban đầu"
+      }
+    ],
+    "topics": [
+      "quality-assurance"
+    ]
+  },
+  {
+    "lemma": "binary",
+    "pos": "adj",
+    "meaning_vi": "nhị phân",
+    "definition_en": "using only two values, often represented as zero and one",
+    "examples": [
+      {
+        "en": "The diagram shows how to write seven in binary notation.",
+        "vi": "Sơ đồ minh họa cách viết số bảy trong hệ nhị phân."
+      },
+      {
+        "en": "The analyst added a binary field to record whether each invoice had been paid.",
+        "vi": "Chuyên viên phân tích đã thêm một trường nhị phân để ghi nhận từng hóa đơn đã được thanh toán hay chưa."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "binary notation",
+        "vi": "ký pháp nhị phân"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "briefing",
+    "pos": "n",
+    "meaning_vi": "buổi phổ biến thông tin cần thiết cho một công việc hoặc sự kiện",
+    "definition_en": "a short meeting where people receive the information they need for a task or event",
+    "examples": [
+      {
+        "en": "The morning briefing covered the delivery route and expected road closures.",
+        "vi": "Buổi phổ biến thông tin sáng nay đề cập đến tuyến giao hàng và những đoạn đường dự kiến bị đóng."
+      },
+      {
+        "en": "Team leads attended a briefing on the new procedure for reporting equipment faults.",
+        "vi": "Các trưởng nhóm đã dự một buổi phổ biến quy trình báo lỗi thiết bị mới."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "project briefing",
+        "vi": "buổi phổ biến thông tin về dự án"
+      }
+    ],
+    "topics": [
+      "workplace-communication"
+    ]
+  },
+  {
+    "lemma": "broadband",
+    "pos": "n",
+    "meaning_vi": "kết nối Internet băng rộng",
+    "definition_en": "a high-speed internet connection that can carry large amounts of data",
+    "examples": [
+      {
+        "en": "The village finally has broadband fast enough for video calls.",
+        "vi": "Ngôi làng cuối cùng cũng có Internet băng rộng đủ nhanh để gọi video."
+      },
+      {
+        "en": "The branch upgraded its broadband before moving staff training online.",
+        "vi": "Chi nhánh đã nâng cấp đường truyền băng rộng trước khi chuyển hoạt động đào tạo nhân viên sang trực tuyến."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "broadband connection",
+        "vi": "kết nối băng rộng"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "buffer",
+    "pos": "n",
+    "meaning_vi": "bộ đệm dữ liệu",
+    "definition_en": "temporary storage that holds data until another part of a system can use it",
+    "examples": [
+      {
+        "en": "A full buffer can delay new audio samples.",
+        "vi": "Bộ đệm đầy có thể làm chậm việc xử lý các mẫu âm thanh mới."
+      },
+      {
+        "en": "We increased the buffer to keep training videos playing smoothly on slow connections.",
+        "vi": "Chúng tôi đã tăng dung lượng bộ đệm để video đào tạo phát mượt trên đường truyền chậm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "audio buffer",
+        "vi": "bộ đệm âm thanh"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "cascade",
+    "pos": "n",
+    "meaning_vi": "chuỗi sự cố hoặc thay đổi nối tiếp nhau",
+    "definition_en": "a series of events in which each event causes the next",
+    "examples": [
+      {
+        "en": "A small billing error triggered a cascade of incorrect reminders.",
+        "vi": "Một lỗi tính phí nhỏ đã kéo theo hàng loạt thông báo nhắc thanh toán sai."
+      },
+      {
+        "en": "The engineers traced the cascade of failures to one shared service.",
+        "vi": "Các kỹ sư lần ra nguyên nhân của chuỗi sự cố là một dịch vụ dùng chung."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cascade of failures",
+        "vi": "chuỗi sự cố liên tiếp"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "categorization",
+    "pos": "n",
+    "meaning_vi": "việc phân loại theo nhóm",
+    "definition_en": "the process of putting items into groups based on shared features",
+    "examples": [
+      {
+        "en": "The categorization separates repair requests from general questions.",
+        "vi": "Việc phân loại giúp tách yêu cầu sửa chữa khỏi các câu hỏi chung."
+      },
+      {
+        "en": "The help desk revised its categorization of tickets to improve monthly reporting.",
+        "vi": "Bộ phận hỗ trợ đã điều chỉnh cách phân loại phiếu yêu cầu để cải thiện báo cáo hằng tháng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "ticket categorization",
+        "vi": "việc phân loại phiếu yêu cầu hỗ trợ"
+      }
+    ],
+    "topics": [
+      "operations"
+    ]
+  },
+  {
+    "lemma": "checklist",
+    "pos": "n",
+    "meaning_vi": "danh sách các mục cần thực hiện hoặc kiểm tra",
+    "definition_en": "a list used to confirm that required tasks or checks have been completed",
+    "examples": [
+      {
+        "en": "The checklist reminds trainees to save a copy of the form.",
+        "vi": "Danh sách kiểm tra nhắc học viên lưu một bản sao của biểu mẫu."
+      },
+      {
+        "en": "The office coordinator added badge collection to the checklist for departing employees.",
+        "vi": "Điều phối viên văn phòng đã bổ sung mục thu hồi thẻ vào danh sách thủ tục dành cho nhân viên nghỉ việc."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "release checklist",
+        "vi": "danh sách kiểm tra trước khi phát hành"
+      }
+    ],
+    "topics": [
+      "operations"
+    ]
+  },
+  {
+    "lemma": "cluster",
+    "pos": "n",
+    "meaning_vi": "cụm máy tính hoạt động cùng nhau",
+    "definition_en": "a group of computers that work together to run tasks or services",
+    "examples": [
+      {
+        "en": "One machine in the cluster stopped accepting new jobs.",
+        "vi": "Một máy trong cụm đã ngừng nhận tác vụ mới."
+      },
+      {
+        "en": "Our team moved the nightly reports to a separate cluster.",
+        "vi": "Nhóm chúng tôi đã chuyển tác vụ tạo báo cáo hằng đêm sang một cụm máy riêng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "server cluster",
+        "vi": "cụm máy chủ"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "collision",
+    "pos": "n",
+    "meaning_vi": "sự trùng giá trị đầu ra của hàm băm",
+    "definition_en": "a case where different inputs produce the same hash value",
+    "examples": [
+      {
+        "en": "A hash collision does not mean the original files are identical.",
+        "vi": "Trùng giá trị băm không có nghĩa là các tệp gốc giống hệt nhau."
+      },
+      {
+        "en": "The developers tested how the index handled a collision between two document identifiers.",
+        "vi": "Các lập trình viên đã kiểm thử cách chỉ mục xử lý khi hai mã định danh tài liệu có cùng giá trị băm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "hash collision",
+        "vi": "trùng giá trị băm"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "compliant",
+    "pos": "adj",
+    "meaning_vi": "tuân thủ quy định hoặc tiêu chuẩn",
+    "definition_en": "meeting the requirements of a rule, policy, or standard",
+    "examples": [
+      {
+        "en": "The updated form is compliant with the organization's privacy policy.",
+        "vi": "Biểu mẫu đã cập nhật tuân thủ chính sách về quyền riêng tư của tổ chức."
+      },
+      {
+        "en": "Our vendor must remain compliant with the access rules throughout the contract.",
+        "vi": "Nhà cung cấp của chúng tôi phải tuân thủ các quy tắc truy cập trong suốt thời hạn hợp đồng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "compliant with a standard",
+        "vi": "tuân thủ một tiêu chuẩn"
+      }
+    ],
+    "topics": [
+      "compliance"
+    ]
+  },
+  {
+    "lemma": "compression",
+    "pos": "n",
+    "meaning_vi": "việc nén dữ liệu",
+    "definition_en": "the process of reducing the amount of space needed to store or send data",
+    "examples": [
+      {
+        "en": "Compression made the map tiles small enough to download over a mobile connection.",
+        "vi": "Việc nén giúp các ô bản đồ đủ nhỏ để tải qua mạng di động."
+      },
+      {
+        "en": "We tested image compression on screenshots from the support manual.",
+        "vi": "Chúng tôi đã thử nén các ảnh chụp màn hình trong sổ tay hỗ trợ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "image compression",
+        "vi": "việc nén ảnh"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "concurrent",
+    "pos": "adj",
+    "meaning_vi": "đồng thời, có thời gian thực hiện chồng lấp",
+    "definition_en": "happening within overlapping periods of time",
+    "examples": [
+      {
+        "en": "The app supports two concurrent downloads without freezing.",
+        "vi": "Ứng dụng hỗ trợ hai lượt tải xuống đồng thời mà không bị treo."
+      },
+      {
+        "en": "The test team simulated a hundred concurrent sessions before opening registration.",
+        "vi": "Nhóm kiểm thử đã mô phỏng một trăm phiên đồng thời trước khi mở đăng ký."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "concurrent sessions",
+        "vi": "các phiên đồng thời"
+      }
+    ],
+    "topics": [
+      "quality-assurance"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "connector",
+    "pos": "n",
+    "meaning_vi": "đầu nối thiết bị hoặc dây cáp",
+    "definition_en": "a part that joins a cable or device to another piece of equipment",
+    "examples": [
+      {
+        "en": "Dust inside the connector interrupted the display signal.",
+        "vi": "Bụi trong đầu nối làm gián đoạn tín hiệu đến màn hình."
+      },
+      {
+        "en": "The technician replaced a bent connector on the meeting room projector.",
+        "vi": "Kỹ thuật viên đã thay đầu nối bị cong trên máy chiếu của phòng họp."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cable connector",
+        "vi": "đầu nối cáp"
+      }
+    ],
+    "topics": [
+      "hardware"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "consortium",
+    "pos": "n",
+    "meaning_vi": "liên danh các tổ chức cùng thực hiện một mục tiêu",
+    "definition_en": "a group of organizations that cooperate on a shared project or goal",
+    "examples": [
+      {
+        "en": "A consortium of libraries shares the cost of the digital catalog.",
+        "vi": "Một liên danh các thư viện cùng chia sẻ chi phí duy trì danh mục điện tử."
+      },
+      {
+        "en": "The consortium invited local suppliers to a meeting about the joint procurement project.",
+        "vi": "Liên danh đã mời các nhà cung cấp địa phương dự cuộc họp về dự án mua sắm chung."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "research consortium",
+        "vi": "liên danh nghiên cứu"
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "constraint",
+    "pos": "n",
+    "meaning_vi": "ràng buộc dữ liệu",
+    "definition_en": "a rule that restricts what values a database can accept",
+    "examples": [
+      {
+        "en": "The constraint prevents two orders from sharing the same reference number.",
+        "vi": "Ràng buộc này không cho phép hai đơn hàng dùng chung một mã tham chiếu."
+      },
+      {
+        "en": "We added a constraint so the booking system would reject negative prices.",
+        "vi": "Chúng tôi đã thêm một ràng buộc để hệ thống đặt chỗ từ chối giá trị âm ở trường giá."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "database constraint",
+        "vi": "ràng buộc cơ sở dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "controller",
+    "pos": "n",
+    "meaning_vi": "bộ điều khiển thiết bị",
+    "definition_en": "a component that directs how a machine or one of its parts operates",
+    "examples": [
+      {
+        "en": "The controller adjusts the fan speed when the cabinet warms up.",
+        "vi": "Bộ điều khiển điều chỉnh tốc độ quạt khi nhiệt độ trong tủ tăng lên."
+      },
+      {
+        "en": "The maintenance team swapped the faulty controller during the lunch break.",
+        "vi": "Nhóm bảo trì đã thay bộ điều khiển bị lỗi trong giờ nghỉ trưa."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "motor controller",
+        "vi": "bộ điều khiển động cơ"
+      }
+    ],
+    "topics": [
+      "hardware"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "cookie",
+    "pos": "n",
+    "meaning_vi": "mẩu dữ liệu mà trang web lưu trong trình duyệt",
+    "definition_en": "a small piece of data a website stores in a browser for later use",
+    "examples": [
+      {
+        "en": "A cookie remembers which language you chose on the website.",
+        "vi": "Một cookie lưu lại ngôn ngữ bạn đã chọn trên trang web."
+      },
+      {
+        "en": "The support agent asked me to delete the cookie for the booking site.",
+        "vi": "Nhân viên hỗ trợ yêu cầu tôi xóa cookie của trang đặt chỗ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "session cookie",
+        "vi": "cookie phiên"
+      }
+    ],
+    "topics": [
+      "web"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "cursor",
+    "pos": "n",
+    "meaning_vi": "con trỏ trên màn hình",
+    "definition_en": "a screen marker that shows where input or an action will take effect",
+    "examples": [
+      {
+        "en": "Place the cursor after the last digit of the code.",
+        "vi": "Hãy đặt con trỏ sau chữ số cuối cùng của mã."
+      },
+      {
+        "en": "During the training session, we enlarged the cursor so everyone could follow the demonstration.",
+        "vi": "Trong buổi đào tạo, chúng tôi đã phóng to con trỏ để mọi người theo dõi được thao tác minh họa."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "text cursor",
+        "vi": "con trỏ văn bản"
+      }
+    ],
+    "topics": [
+      "digital-literacy"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "dictionary",
+    "pos": "n",
+    "meaning_vi": "cấu trúc dữ liệu ánh xạ khóa tới giá trị",
+    "definition_en": "a data structure that associates each key with a value",
+    "examples": [
+      {
+        "en": "The dictionary uses product codes as keys and prices as values.",
+        "vi": "Từ điển dữ liệu này dùng mã sản phẩm làm khóa và giá làm giá trị."
+      },
+      {
+        "en": "Our script builds a dictionary so it can look up office names by code.",
+        "vi": "Đoạn mã của chúng tôi tạo một từ điển để tra tên văn phòng theo mã."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "dictionary key",
+        "vi": "khóa của từ điển"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "directory",
+    "pos": "n",
+    "meaning_vi": "thư mục chứa tệp hoặc thư mục con",
+    "definition_en": "a location in a file system that can contain files and other directories",
+    "examples": [
+      {
+        "en": "Save the recordings in a directory named after the interview date.",
+        "vi": "Hãy lưu các bản ghi vào một thư mục mang tên ngày phỏng vấn."
+      },
+      {
+        "en": "The reporting script reads files from a directory shared by both branches.",
+        "vi": "Đoạn mã tạo báo cáo đọc các tệp từ một thư mục dùng chung giữa hai chi nhánh."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "root directory",
+        "vi": "thư mục gốc"
+      }
+    ],
+    "topics": [
+      "digital-literacy"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "dissent",
+    "pos": "n",
+    "meaning_vi": "ý kiến phản đối quyết định hoặc quan điểm của số đông",
+    "definition_en": "disagreement with a decision or opinion supported by the majority",
+    "examples": [
+      {
+        "en": "Two members expressed dissent when the committee voted to close the site.",
+        "vi": "Hai thành viên đã bày tỏ ý kiến phản đối khi ủy ban bỏ phiếu đóng địa điểm đó."
+      },
+      {
+        "en": "The chair asked the secretary to record the dissent in the minutes.",
+        "vi": "Chủ tọa yêu cầu thư ký ghi ý kiến phản đối vào biên bản."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "express dissent",
+        "vi": "bày tỏ ý kiến phản đối"
+      }
+    ],
+    "topics": [
+      "workplace-communication"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "driver",
+    "pos": "n",
+    "meaning_vi": "trình điều khiển thiết bị",
+    "definition_en": "software that allows an operating system to communicate with a device",
+    "examples": [
+      {
+        "en": "The scanner requires a driver before the laptop can use it.",
+        "vi": "Máy quét cần có trình điều khiển thì máy tính xách tay mới sử dụng được."
+      },
+      {
+        "en": "Our help desk installed a compatible driver on the reception computer.",
+        "vi": "Bộ phận hỗ trợ đã cài trình điều khiển tương thích trên máy tính ở quầy lễ tân."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "printer driver",
+        "vi": "trình điều khiển máy in"
+      }
+    ],
+    "topics": [
+      "hardware"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "duplication",
+    "pos": "n",
+    "meaning_vi": "sự trùng lặp hoặc việc làm lại cùng một công việc",
+    "definition_en": "the unnecessary repetition of data or work that already exists",
+    "examples": [
+      {
+        "en": "Duplication made the same delivery appear twice in the weekly figures.",
+        "vi": "Dữ liệu trùng lặp khiến cùng một lượt giao hàng xuất hiện hai lần trong số liệu tuần."
+      },
+      {
+        "en": "The two teams shared a work log to avoid duplication of effort.",
+        "vi": "Hai nhóm dùng chung nhật ký công việc để tránh làm trùng phần việc của nhau."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "duplication of effort",
+        "vi": "việc làm trùng phần việc"
+      }
+    ],
+    "topics": [
+      "project-management"
+    ]
+  },
+  {
+    "lemma": "editor",
+    "pos": "n",
+    "meaning_vi": "trình chỉnh sửa văn bản, mã hoặc nội dung số",
+    "definition_en": "a program used to create or modify text, code, or other digital content",
+    "examples": [
+      {
+        "en": "The editor highlights matching brackets as you type.",
+        "vi": "Trình chỉnh sửa tô sáng các cặp dấu ngoặc tương ứng khi bạn nhập."
+      },
+      {
+        "en": "The design team opened the logo in an editor that supports transparent backgrounds.",
+        "vi": "Nhóm thiết kế đã mở biểu trưng bằng một trình chỉnh sửa hỗ trợ nền trong suốt."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "code editor",
+        "vi": "trình soạn thảo mã"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "efficiency",
+    "pos": "n",
+    "meaning_vi": "hiệu suất sử dụng thời gian, công sức hoặc nguồn lực",
+    "definition_en": "the ability to achieve results with little waste of time, effort, or resources",
+    "examples": [
+      {
+        "en": "The new layout improved efficiency by shortening the distance between workstations.",
+        "vi": "Cách bố trí mới giúp tăng hiệu suất vì rút ngắn khoảng cách giữa các trạm làm việc."
+      },
+      {
+        "en": "We measured efficiency by tracking how many forms each clerk processed per hour.",
+        "vi": "Chúng tôi đo hiệu suất bằng cách theo dõi số biểu mẫu mỗi nhân viên xử lý trong một giờ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "operational efficiency",
+        "vi": "hiệu suất vận hành"
+      }
+    ],
+    "topics": [
+      "operations"
+    ]
+  },
+  {
+    "lemma": "estimation",
+    "pos": "n",
+    "meaning_vi": "việc ước tính thời gian, chi phí hoặc khối lượng",
+    "definition_en": "the process of calculating an approximate amount, cost, or duration",
+    "examples": [
+      {
+        "en": "Cost estimation was difficult before the supplier confirmed the material prices.",
+        "vi": "Việc ước tính chi phí gặp khó khăn khi nhà cung cấp chưa xác nhận giá vật liệu."
+      },
+      {
+        "en": "The project lead improved estimation by comparing planned hours with actual hours from previous jobs.",
+        "vi": "Trưởng dự án đã cải thiện cách ước tính bằng việc đối chiếu số giờ dự kiến với số giờ thực tế của các công việc trước."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cost estimation",
+        "vi": "việc ước tính chi phí"
+      }
+    ],
+    "topics": [
+      "project-management"
+    ]
+  },
+  {
+    "lemma": "expiration",
+    "pos": "n",
+    "meaning_vi": "sự hết hạn, thời điểm không còn hiệu lực",
+    "definition_en": "the end of the period during which something remains valid or usable",
+    "examples": [
+      {
+        "en": "The pass stops working after expiration.",
+        "vi": "Thẻ sẽ không còn sử dụng được sau khi hết hạn."
+      },
+      {
+        "en": "We added a reminder for the expiration of each contractor's temporary access.",
+        "vi": "Chúng tôi đã thêm thông báo nhắc khi quyền truy cập tạm thời của từng nhà thầu sắp hết hạn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "expiration date",
+        "vi": "ngày hết hạn"
+      }
+    ],
+    "topics": [
+      "operations"
+    ]
+  },
+  {
+    "lemma": "flag",
+    "pos": "n",
+    "meaning_vi": "cờ báo trạng thái hoặc cờ điều khiển tính năng",
+    "definition_en": "a value that marks a condition or controls whether a program behavior is enabled",
+    "examples": [
+      {
+        "en": "The flag tells the script whether to show extra details.",
+        "vi": "Cờ này cho đoạn mã biết có cần hiển thị thêm chi tiết hay không."
+      },
+      {
+        "en": "The release manager enabled the feature flag for the pilot group.",
+        "vi": "Quản lý phát hành đã bật cờ tính năng cho nhóm dùng thử."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feature flag",
+        "vi": "cờ bật tắt tính năng"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "footprint",
+    "pos": "n",
+    "meaning_vi": "lượng tài nguyên mà phần mềm chiếm dụng",
+    "definition_en": "the amount of computing resources a program or system uses",
+    "examples": [
+      {
+        "en": "Removing unused fonts reduced the application's storage footprint.",
+        "vi": "Bỏ các phông chữ không dùng đến giúp giảm dung lượng lưu trữ mà ứng dụng chiếm."
+      },
+      {
+        "en": "We compared each tool's memory footprint before choosing one for the kiosk computers.",
+        "vi": "Chúng tôi đã so sánh lượng bộ nhớ mỗi công cụ sử dụng trước khi chọn công cụ cho các máy tại quầy tự phục vụ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "memory footprint",
+        "vi": "lượng bộ nhớ chiếm dụng"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "gateway",
+    "pos": "n",
+    "meaning_vi": "cổng kết nối giữa các mạng",
+    "definition_en": "a device or service through which traffic passes between networks",
+    "examples": [
+      {
+        "en": "The gateway sends requests from the branch network to the internet.",
+        "vi": "Cổng kết nối chuyển các yêu cầu từ mạng của chi nhánh ra Internet."
+      },
+      {
+        "en": "The network team replaced the gateway after office staff reported repeated disconnections.",
+        "vi": "Nhóm phụ trách mạng đã thay cổng kết nối sau khi nhân viên báo mất kết nối nhiều lần."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "network gateway",
+        "vi": "cổng kết nối mạng"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "gradient",
+    "pos": "n",
+    "meaning_vi": "véc-tơ chỉ hướng và tốc độ tăng nhanh nhất của một hàm",
+    "definition_en": "a vector showing the direction and rate at which a function increases fastest",
+    "examples": [
+      {
+        "en": "The gradient points uphill on the plotted surface.",
+        "vi": "Véc-tơ gradient chỉ về hướng dốc lên nhanh nhất trên mặt được vẽ."
+      },
+      {
+        "en": "Our team checked the gradient when the model stopped improving during training.",
+        "vi": "Nhóm đã kiểm tra véc-tơ gradient khi mô hình ngừng cải thiện trong quá trình huấn luyện."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "gradient of the loss function",
+        "vi": "gradient của hàm mất mát"
+      }
+    ],
+    "topics": [
+      "artificial-intelligence"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "handbook",
+    "pos": "n",
+    "meaning_vi": "sổ tay hướng dẫn hoặc tra cứu",
+    "definition_en": "a guide that collects practical instructions or information for a group of readers",
+    "examples": [
+      {
+        "en": "The handbook explains how to request a replacement access card.",
+        "vi": "Sổ tay hướng dẫn cách yêu cầu cấp lại thẻ ra vào."
+      },
+      {
+        "en": "New hires received a handbook with the team's working hours and support contacts.",
+        "vi": "Nhân viên mới nhận được sổ tay ghi giờ làm việc và thông tin liên hệ hỗ trợ của nhóm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "employee handbook",
+        "vi": "sổ tay nhân viên"
+      }
+    ],
+    "topics": [
+      "documentation"
+    ]
+  },
+  {
+    "lemma": "handshake",
+    "pos": "n",
+    "meaning_vi": "quá trình trao đổi tín hiệu để thiết lập kết nối",
+    "definition_en": "an initial exchange of messages that establishes how two systems will communicate",
+    "examples": [
+      {
+        "en": "The connection closed before the handshake finished.",
+        "vi": "Kết nối bị đóng trước khi quá trình bắt tay hoàn tất."
+      },
+      {
+        "en": "The technician checked whether both devices completed the handshake after the update.",
+        "vi": "Kỹ thuật viên đã kiểm tra xem cả hai thiết bị có hoàn tất quá trình bắt tay sau khi cập nhật hay không."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "connection handshake",
+        "vi": "quá trình bắt tay thiết lập kết nối"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "hash",
+    "pos": "n",
+    "meaning_vi": "giá trị băm",
+    "definition_en": "a value calculated from data by a hash function",
+    "examples": [
+      {
+        "en": "A change to the file will usually change its hash.",
+        "vi": "Việc sửa tệp thường làm thay đổi giá trị băm của tệp đó."
+      },
+      {
+        "en": "Our release notes include a hash so staff can verify the downloaded installer.",
+        "vi": "Ghi chú phát hành có kèm giá trị băm để nhân viên kiểm tra tính toàn vẹn của bộ cài đã tải xuống."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "file hash",
+        "vi": "giá trị băm của tệp"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "header",
+    "pos": "n",
+    "meaning_vi": "phần đầu chứa thông tin mô tả hoặc điều khiển",
+    "definition_en": "a part of a file or message that carries information about the data it accompanies",
+    "examples": [
+      {
+        "en": "The header tells the reader which format the file uses.",
+        "vi": "Phần đầu tệp cho trình đọc biết tệp có định dạng nào."
+      },
+      {
+        "en": "The developer checked the response header to confirm the report's format.",
+        "vi": "Lập trình viên đã kiểm tra phần đầu của phản hồi để xác nhận định dạng của báo cáo."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "response header",
+        "vi": "phần đầu của phản hồi"
+      }
+    ],
+    "topics": [
+      "web"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "imperative",
+    "pos": "adj",
+    "meaning_vi": "mang tính mệnh lệnh, mô tả từng thao tác cần thực hiện",
+    "definition_en": "using explicit instructions that describe the steps a computer should perform",
+    "examples": [
+      {
+        "en": "An imperative style spells out how to build the list one step at a time.",
+        "vi": "Phong cách lập trình mệnh lệnh nêu rõ cách tạo danh sách qua từng bước."
+      },
+      {
+        "en": "Our team kept the imperative version because new hires could follow every step of the conversion.",
+        "vi": "Nhóm giữ phiên bản viết theo kiểu mệnh lệnh vì nhân viên mới có thể theo dõi từng bước chuyển đổi."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "imperative programming",
+        "vi": "lập trình mệnh lệnh"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "incident",
+    "pos": "n",
+    "meaning_vi": "sự cố cần được ghi nhận và xử lý",
+    "definition_en": "an unexpected event that disrupts normal operations or requires a response",
+    "examples": [
+      {
+        "en": "The incident left several kiosks unable to print receipts.",
+        "vi": "Sự cố khiến một số quầy tự phục vụ không thể in biên lai."
+      },
+      {
+        "en": "After resolving the incident, the support lead wrote a short account of what happened.",
+        "vi": "Sau khi xử lý sự cố, trưởng nhóm hỗ trợ viết bản tường trình ngắn về những gì đã xảy ra."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "incident report",
+        "vi": "báo cáo sự cố"
+      }
+    ],
+    "topics": [
+      "operations"
+    ]
+  },
+  {
+    "lemma": "incremental",
+    "pos": "adj",
+    "meaning_vi": "thực hiện từng bước hoặc chỉ xử lý phần mới thay đổi",
+    "definition_en": "done in small steps, often by processing only what has changed since the previous run",
+    "examples": [
+      {
+        "en": "An incremental backup saves files that changed since the last backup.",
+        "vi": "Bản sao lưu gia tăng lưu những tệp đã thay đổi kể từ lần sao lưu trước."
+      },
+      {
+        "en": "We chose an incremental import to avoid reloading years of records each night.",
+        "vi": "Chúng tôi chọn nhập dữ liệu theo phần thay đổi để tránh phải nạp lại dữ liệu của nhiều năm vào mỗi đêm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "incremental backup",
+        "vi": "sao lưu gia tăng"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "index",
+    "pos": "n",
+    "meaning_vi": "chỉ mục giúp truy xuất dữ liệu nhanh hơn",
+    "definition_en": "a data structure that helps a system locate records quickly",
+    "examples": [
+      {
+        "en": "An index on the customer number made the search faster.",
+        "vi": "Chỉ mục trên trường mã khách hàng giúp tìm kiếm nhanh hơn."
+      },
+      {
+        "en": "The database team rebuilt the index after importing the archived orders.",
+        "vi": "Nhóm cơ sở dữ liệu đã dựng lại chỉ mục sau khi nhập các đơn hàng lưu trữ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "database index",
+        "vi": "chỉ mục cơ sở dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "inference",
+    "pos": "n",
+    "meaning_vi": "giai đoạn dùng mô hình đã huấn luyện để tạo đầu ra",
+    "definition_en": "the use of a trained model to produce an output from new input",
+    "examples": [
+      {
+        "en": "The model performs inference on each image as it arrives.",
+        "vi": "Mô hình chạy suy luận trên từng ảnh ngay khi nhận được."
+      },
+      {
+        "en": "The team measured inference time on the phones used by field staff.",
+        "vi": "Nhóm đã đo thời gian suy luận trên các điện thoại mà nhân viên hiện trường sử dụng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "inference time",
+        "vi": "thời gian suy luận"
+      }
+    ],
+    "topics": [
+      "artificial-intelligence"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "instance",
+    "pos": "n",
+    "meaning_vi": "bản chạy riêng lẻ của một ứng dụng hoặc dịch vụ",
+    "definition_en": "an individual running copy of an application or service",
+    "examples": [
+      {
+        "en": "A second instance can handle requests while the first restarts.",
+        "vi": "Một bản chạy khác có thể xử lý yêu cầu trong lúc bản đầu tiên khởi động lại."
+      },
+      {
+        "en": "We started a separate instance for the finance team's acceptance tests.",
+        "vi": "Chúng tôi khởi chạy một bản riêng để bộ phận tài chính kiểm thử nghiệm thu."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "application instance",
+        "vi": "bản chạy của ứng dụng"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "integer",
+    "pos": "n",
+    "meaning_vi": "số nguyên",
+    "definition_en": "a whole number that can be positive, negative, or zero",
+    "examples": [
+      {
+        "en": "The scanner sends the item count as an integer.",
+        "vi": "Máy quét gửi số lượng mặt hàng dưới dạng số nguyên."
+      },
+      {
+        "en": "The payroll developer changed the field to accept only an integer.",
+        "vi": "Lập trình viên phụ trách bảng lương đã sửa trường này để chỉ chấp nhận số nguyên."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "positive integer",
+        "vi": "số nguyên dương"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "kernel",
+    "pos": "n",
+    "meaning_vi": "nhân của hệ điều hành",
+    "definition_en": "the central part of an operating system that manages hardware and system resources",
+    "examples": [
+      {
+        "en": "The kernel decides which process can use the processor next.",
+        "vi": "Nhân hệ điều hành quyết định tiến trình nào được dùng bộ xử lý tiếp theo."
+      },
+      {
+        "en": "The infrastructure team tested the new kernel on two workstations before wider rollout.",
+        "vi": "Nhóm hạ tầng đã thử nhân hệ điều hành mới trên hai máy trạm trước khi triển khai rộng hơn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "operating system kernel",
+        "vi": "nhân hệ điều hành"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "listener",
+    "pos": "n",
+    "meaning_vi": "thành phần lắng nghe sự kiện",
+    "definition_en": "a software component that waits for a particular event and responds when it occurs",
+    "examples": [
+      {
+        "en": "A listener updates the total whenever a new item is added.",
+        "vi": "Một thành phần lắng nghe sự kiện sẽ cập nhật tổng số mỗi khi có mặt hàng mới được thêm vào."
+      },
+      {
+        "en": "Our developer moved the listener outside the screen so updates could continue after navigation.",
+        "vi": "Lập trình viên đã chuyển thành phần lắng nghe sự kiện ra ngoài màn hình đó để việc cập nhật vẫn tiếp tục khi chuyển màn hình."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "event listener",
+        "vi": "thành phần lắng nghe sự kiện"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "load",
+    "pos": "n",
+    "meaning_vi": "tải xử lý của hệ thống",
+    "definition_en": "the amount of work a system has to handle at a given time",
+    "examples": [
+      {
+        "en": "The server load rose when all the sensors sent readings together.",
+        "vi": "Tải của máy chủ tăng khi tất cả cảm biến gửi số đo cùng lúc."
+      },
+      {
+        "en": "We moved report generation to midnight to reduce the load during business hours.",
+        "vi": "Chúng tôi dời việc tạo báo cáo sang nửa đêm để giảm tải trong giờ làm việc."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "server load",
+        "vi": "tải máy chủ"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "memorandum",
+    "pos": "n",
+    "meaning_vi": "bản ghi nhớ hoặc thông báo chính thức trong tổ chức",
+    "definition_en": "a formal written message used to communicate or record information within an organization",
+    "examples": [
+      {
+        "en": "The memorandum explains why the records room will be closed next week.",
+        "vi": "Bản thông báo nêu lý do phòng lưu trữ hồ sơ sẽ đóng cửa vào tuần tới."
+      },
+      {
+        "en": "The director sent a memorandum confirming which teams could approve purchases.",
+        "vi": "Giám đốc gửi bản thông báo xác nhận những bộ phận có quyền phê duyệt mua sắm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "internal memorandum",
+        "vi": "bản ghi nhớ nội bộ"
+      }
+    ],
+    "topics": [
+      "workplace-communication"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "mirror",
+    "pos": "n",
+    "meaning_vi": "bản sao của trang hoặc kho tệp được cung cấp ở địa chỉ khác",
+    "definition_en": "a copy of a site or collection of files made available from another location",
+    "examples": [
+      {
+        "en": "The regional mirror provides the same installation files as the main site.",
+        "vi": "Máy chủ bản sao trong khu vực cung cấp cùng bộ tệp cài đặt như trang chính."
+      },
+      {
+        "en": "Employees downloaded the update from an internal mirror while the public site was offline.",
+        "vi": "Nhân viên đã tải bản cập nhật từ một máy chủ bản sao nội bộ trong lúc trang công khai ngừng hoạt động."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "download mirror",
+        "vi": "máy chủ bản sao dùng để tải tệp"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "modem",
+    "pos": "n",
+    "meaning_vi": "thiết bị điều chế và giải điều chế tín hiệu truyền dữ liệu",
+    "definition_en": "a device that converts signals so data can travel over a communications line",
+    "examples": [
+      {
+        "en": "Unplugging the modem interrupted the internet connection.",
+        "vi": "Rút nguồn thiết bị modem đã làm gián đoạn kết nối Internet."
+      },
+      {
+        "en": "The branch manager ordered a replacement modem after the connection began dropping each morning.",
+        "vi": "Quản lý chi nhánh đã đặt mua modem thay thế sau khi kết nối bắt đầu bị ngắt vào mỗi buổi sáng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cable modem",
+        "vi": "modem dùng đường truyền cáp"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "modular",
+    "pos": "adj",
+    "meaning_vi": "có cấu trúc mô-đun, gồm các phần có thể thay riêng",
+    "definition_en": "built from separate parts that can be combined or replaced individually",
+    "examples": [
+      {
+        "en": "A modular shelf lets you add another level without replacing the frame.",
+        "vi": "Kệ dạng mô-đun cho phép bạn lắp thêm một tầng mà không cần thay khung."
+      },
+      {
+        "en": "The developers chose a modular design so each team could update its own component.",
+        "vi": "Các lập trình viên chọn thiết kế mô-đun để từng nhóm có thể cập nhật thành phần do mình phụ trách."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "modular design",
+        "vi": "thiết kế mô-đun"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "module",
+    "pos": "n",
+    "meaning_vi": "mô-đun phần mềm thực hiện một chức năng riêng",
+    "definition_en": "a unit of software that groups code for a particular purpose",
+    "examples": [
+      {
+        "en": "One module converts dates into a format the calendar can display.",
+        "vi": "Một mô-đun chuyển đổi ngày tháng sang định dạng mà lịch có thể hiển thị."
+      },
+      {
+        "en": "The team tested the billing module separately before connecting it to the checkout page.",
+        "vi": "Nhóm đã kiểm thử riêng mô-đun tính phí trước khi kết nối nó với trang thanh toán."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "billing module",
+        "vi": "mô-đun tính phí"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "mutable",
+    "pos": "adj",
+    "meaning_vi": "có thể thay đổi sau khi được tạo",
+    "definition_en": "able to change after creation without being replaced with a new object",
+    "examples": [
+      {
+        "en": "A mutable list lets you replace an element in place.",
+        "vi": "Danh sách khả biến cho phép bạn thay một phần tử ngay trong danh sách hiện có."
+      },
+      {
+        "en": "The reviewer noticed that two routines were editing the same mutable object.",
+        "vi": "Người rà soát nhận ra rằng hai đoạn chương trình đang sửa cùng một đối tượng khả biến."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mutable object",
+        "vi": "đối tượng khả biến"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "notebook",
+    "pos": "n",
+    "meaning_vi": "sổ tay tính toán tương tác chứa mã, ghi chú và kết quả",
+    "definition_en": "an interactive document that combines runnable code with notes and results",
+    "examples": [
+      {
+        "en": "Open the notebook to see the code behind the chart.",
+        "vi": "Hãy mở sổ tay tính toán để xem đoạn mã tạo biểu đồ."
+      },
+      {
+        "en": "The analyst shared a notebook that the finance team could rerun with fresh sales data.",
+        "vi": "Chuyên viên phân tích đã chia sẻ một sổ tay tính toán để bộ phận tài chính có thể chạy lại với dữ liệu doanh số mới."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "analysis notebook",
+        "vi": "sổ tay phân tích dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "optical",
+    "pos": "adj",
+    "meaning_vi": "dùng ánh sáng để truyền hoặc ghi nhận tín hiệu",
+    "definition_en": "using light to transmit or detect signals",
+    "examples": [
+      {
+        "en": "The optical sensor detects when a package passes the marker.",
+        "vi": "Cảm biến quang học phát hiện khi một kiện hàng đi qua vạch đánh dấu."
+      },
+      {
+        "en": "The network team installed an optical link between the two buildings.",
+        "vi": "Nhóm phụ trách mạng đã lắp một tuyến kết nối quang giữa hai tòa nhà."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "optical sensor",
+        "vi": "cảm biến quang học"
+      }
+    ],
+    "topics": [
+      "hardware"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "outage",
+    "pos": "n",
+    "meaning_vi": "sự cố làm gián đoạn dịch vụ",
+    "definition_en": "a period when a service or system is unavailable",
+    "examples": [
+      {
+        "en": "The outage prevented passengers from checking the bus schedule online.",
+        "vi": "Sự cố gián đoạn khiến hành khách không thể tra lịch xe buýt trực tuyến."
+      },
+      {
+        "en": "The service desk posted hourly updates during the payment outage.",
+        "vi": "Bộ phận hỗ trợ đăng thông tin cập nhật mỗi giờ trong thời gian hệ thống thanh toán bị gián đoạn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "service outage",
+        "vi": "sự cố gián đoạn dịch vụ"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "ownership",
+    "pos": "n",
+    "meaning_vi": "trách nhiệm chính đối với một công việc hoặc vấn đề",
+    "definition_en": "responsibility for making sure a task or problem is handled",
+    "examples": [
+      {
+        "en": "Clear ownership helps everyone know who should make the next decision.",
+        "vi": "Việc phân công trách nhiệm rõ ràng giúp mọi người biết ai nên đưa ra quyết định tiếp theo."
+      },
+      {
+        "en": "The support lead took ownership of the issue and called the customer that afternoon.",
+        "vi": "Trưởng nhóm hỗ trợ nhận trách nhiệm xử lý vấn đề và gọi cho khách hàng ngay chiều hôm đó."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take ownership of an issue",
+        "vi": "nhận trách nhiệm xử lý một vấn đề"
+      }
+    ],
+    "topics": [
+      "project-management"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "palette",
+    "pos": "n",
+    "meaning_vi": "bảng màu được chọn cho một thiết kế",
+    "definition_en": "a set of colors selected for use in a design",
+    "examples": [
+      {
+        "en": "The palette uses three shades of blue and one shade of orange.",
+        "vi": "Bảng màu gồm ba sắc độ xanh lam và một sắc độ cam."
+      },
+      {
+        "en": "The design team revised the palette to make warning messages easier to read.",
+        "vi": "Nhóm thiết kế đã điều chỉnh bảng màu để thông báo cảnh báo dễ đọc hơn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "color palette",
+        "vi": "bảng màu"
+      }
+    ],
+    "topics": [
+      "interface-design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "partition",
+    "pos": "n",
+    "meaning_vi": "phân vùng của thiết bị lưu trữ",
+    "definition_en": "a section of a storage device that can be managed separately",
+    "examples": [
+      {
+        "en": "The recovery files are stored on a separate partition.",
+        "vi": "Các tệp khôi phục nằm trên một phân vùng riêng."
+      },
+      {
+        "en": "The technician checked the system partition before installing the update.",
+        "vi": "Kỹ thuật viên đã kiểm tra phân vùng hệ thống trước khi cài bản cập nhật."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "disk partition",
+        "vi": "phân vùng ổ đĩa"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "persistence",
+    "pos": "n",
+    "meaning_vi": "khả năng lưu giữ dữ liệu qua các lần chạy chương trình",
+    "definition_en": "the ability to keep data after the program that created it stops running",
+    "examples": [
+      {
+        "en": "Without persistence, the draft disappears when the service stops.",
+        "vi": "Nếu dữ liệu không được lưu lại, bản nháp sẽ biến mất khi dịch vụ dừng."
+      },
+      {
+        "en": "The engineers added persistence so kiosk preferences would survive a restart.",
+        "vi": "Các kỹ sư đã bổ sung cơ chế lưu dữ liệu để hệ thống giữ lại tùy chọn của quầy tự phục vụ sau khi khởi động lại."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "data persistence",
+        "vi": "khả năng lưu giữ dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "persistent",
+    "pos": "adj",
+    "meaning_vi": "được lưu giữ sau khi chương trình kết thúc",
+    "definition_en": "retained even after the process that created it has ended",
+    "examples": [
+      {
+        "en": "Place the settings in persistent storage so they survive a restart.",
+        "vi": "Hãy lưu thiết lập vào bộ nhớ bền vững để vẫn giữ được sau khi khởi động lại."
+      },
+      {
+        "en": "The developer made the draft persistent so staff could resume editing after logging out.",
+        "vi": "Lập trình viên đã lưu lại bản nháp để nhân viên có thể chỉnh sửa tiếp sau khi đăng xuất."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "persistent storage",
+        "vi": "bộ nhớ bền vững"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "pixel",
+    "pos": "n",
+    "meaning_vi": "điểm ảnh",
+    "definition_en": "one of the tiny elements that make up a digital image or display",
+    "examples": [
+      {
+        "en": "A bright pixel was visible against the dark background.",
+        "vi": "Một điểm ảnh sáng hiện rõ trên nền tối."
+      },
+      {
+        "en": "The designer nudged the icon one pixel to align it with the text.",
+        "vi": "Nhà thiết kế dịch biểu tượng một điểm ảnh để căn thẳng hàng với văn bản."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "single pixel",
+        "vi": "một điểm ảnh"
+      }
+    ],
+    "topics": [
+      "interface-design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "pointer",
+    "pos": "n",
+    "meaning_vi": "con trỏ lưu địa chỉ trong bộ nhớ",
+    "definition_en": "a value that stores the memory address of an object or other data",
+    "examples": [
+      {
+        "en": "The pointer stores the address of the first element.",
+        "vi": "Con trỏ lưu địa chỉ của phần tử đầu tiên."
+      },
+      {
+        "en": "The reviewer flagged a pointer that could refer to memory already released.",
+        "vi": "Người rà soát đánh dấu một con trỏ có thể trỏ tới vùng nhớ đã được giải phóng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "null pointer",
+        "vi": "con trỏ rỗng"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "portal",
+    "pos": "n",
+    "meaning_vi": "cổng thông tin trực tuyến",
+    "definition_en": "a website through which users access a related set of information or services",
+    "examples": [
+      {
+        "en": "The student portal displays deadlines for all current courses.",
+        "vi": "Cổng thông tin sinh viên hiển thị hạn nộp bài của tất cả môn học đang theo học."
+      },
+      {
+        "en": "Suppliers can submit invoices through the same portal they use to confirm orders.",
+        "vi": "Nhà cung cấp có thể nộp hóa đơn qua chính cổng thông tin họ dùng để xác nhận đơn hàng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "supplier portal",
+        "vi": "cổng thông tin dành cho nhà cung cấp"
+      }
+    ],
+    "topics": [
+      "web"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "predecessor",
+    "pos": "n",
+    "meaning_vi": "người tiền nhiệm",
+    "definition_en": "a person who held a role before the person who holds it now",
+    "examples": [
+      {
+        "en": "Her predecessor left detailed notes about the equipment inventory.",
+        "vi": "Người tiền nhiệm của cô để lại ghi chú chi tiết về danh mục thiết bị."
+      },
+      {
+        "en": "The new manager asked his predecessor why the support schedule changed in winter.",
+        "vi": "Quản lý mới hỏi người tiền nhiệm vì sao lịch hỗ trợ thay đổi vào mùa đông."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "immediate predecessor",
+        "vi": "người tiền nhiệm liền trước"
+      }
+    ],
+    "topics": [
+      "business"
+    ]
+  },
+  {
+    "lemma": "privacy",
+    "pos": "n",
+    "meaning_vi": "quyền riêng tư đối với thông tin cá nhân",
+    "definition_en": "control over who can collect, see, or use one's personal information",
+    "examples": [
+      {
+        "en": "The form protects privacy by making the phone number optional.",
+        "vi": "Biểu mẫu bảo vệ quyền riêng tư bằng cách cho phép người dùng bỏ qua trường số điện thoại."
+      },
+      {
+        "en": "Staff raised a privacy concern when the draft report included customer names.",
+        "vi": "Nhân viên nêu lo ngại về quyền riêng tư khi bản dự thảo báo cáo có tên khách hàng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "privacy concern",
+        "vi": "mối lo ngại về quyền riêng tư"
+      }
+    ],
+    "topics": [
+      "compliance"
+    ]
+  },
+  {
+    "lemma": "proxy",
+    "pos": "n",
+    "meaning_vi": "máy chủ trung gian chuyển tiếp yêu cầu",
+    "definition_en": "a server that receives requests and forwards them to another service",
+    "examples": [
+      {
+        "en": "The proxy passes requests to the correct internal service.",
+        "vi": "Máy chủ trung gian chuyển yêu cầu đến đúng dịch vụ nội bộ."
+      },
+      {
+        "en": "The team replaced the old proxy after testing access from both office locations.",
+        "vi": "Nhóm đã thay máy chủ trung gian cũ sau khi kiểm tra khả năng truy cập từ cả hai văn phòng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "forward proxy",
+        "vi": "máy chủ proxy chuyển tiếp"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "quarantine",
+    "pos": "n",
+    "meaning_vi": "khu cách ly dành cho tệp bị nghi là nguy hiểm",
+    "definition_en": "an isolated location used to hold files that may be unsafe",
+    "examples": [
+      {
+        "en": "Files in quarantine remain inaccessible to ordinary applications.",
+        "vi": "Các ứng dụng thông thường không thể truy cập tệp trong khu cách ly."
+      },
+      {
+        "en": "Support staff examined the attachment in quarantine after a colleague reported it.",
+        "vi": "Nhân viên hỗ trợ đã kiểm tra tệp đính kèm trong khu cách ly sau khi một đồng nghiệp báo cáo tệp đó."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "move a file to quarantine",
+        "vi": "chuyển tệp vào khu cách ly"
+      }
+    ],
+    "topics": [
+      "security"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "queue",
+    "pos": "n",
+    "meaning_vi": "hàng đợi tác vụ hoặc yêu cầu",
+    "definition_en": "a holding area for items waiting to be processed",
+    "examples": [
+      {
+        "en": "The queue grew as more receipts arrived for scanning.",
+        "vi": "Hàng đợi dài thêm khi có nhiều biên lai được đưa vào để quét."
+      },
+      {
+        "en": "Support moved the request to a priority queue because the customer could not sign in.",
+        "vi": "Bộ phận hỗ trợ chuyển yêu cầu sang hàng đợi ưu tiên vì khách hàng không thể đăng nhập."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "task queue",
+        "vi": "hàng đợi tác vụ"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "quota",
+    "pos": "n",
+    "meaning_vi": "hạn mức tài nguyên được phép sử dụng",
+    "definition_en": "a limit on how much of a resource a user or service may use",
+    "examples": [
+      {
+        "en": "The upload failed because the folder had reached its storage quota.",
+        "vi": "Tệp không tải lên được vì thư mục đã chạm hạn mức lưu trữ."
+      },
+      {
+        "en": "We raised the quota for the design team during the video project.",
+        "vi": "Chúng tôi đã nâng hạn mức cho nhóm thiết kế trong thời gian thực hiện dự án video."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "storage quota",
+        "vi": "hạn mức lưu trữ"
+      }
+    ],
+    "topics": [
+      "infrastructure"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "registry",
+    "pos": "n",
+    "meaning_vi": "kho đăng ký tập trung để tìm và lấy các thành phần phần mềm",
+    "definition_en": "a service that catalogs software components and makes them available for retrieval",
+    "examples": [
+      {
+        "en": "The registry lists every published version of the package.",
+        "vi": "Kho đăng ký liệt kê mọi phiên bản đã phát hành của gói phần mềm."
+      },
+      {
+        "en": "The build team moved approved packages into a private registry before the audit.",
+        "vi": "Nhóm phụ trách dựng phần mềm đã chuyển các gói được phê duyệt vào một kho đăng ký riêng trước đợt kiểm tra."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "package registry",
+        "vi": "kho đăng ký gói phần mềm"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "repayment",
+    "pos": "n",
+    "meaning_vi": "việc hoàn trả khoản tiền đã vay",
+    "definition_en": "the act of paying back money that was borrowed",
+    "examples": [
+      {
+        "en": "The borrower arranged repayment in six monthly installments.",
+        "vi": "Người vay thu xếp trả nợ thành sáu kỳ hằng tháng."
+      },
+      {
+        "en": "The accounts team updated the records after receiving the final repayment.",
+        "vi": "Bộ phận kế toán đã cập nhật sổ sách sau khi nhận khoản trả nợ cuối cùng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "loan repayment",
+        "vi": "việc hoàn trả khoản vay"
+      }
+    ],
+    "topics": [
+      "finance"
+    ]
+  },
+  {
+    "lemma": "replication",
+    "pos": "n",
+    "meaning_vi": "việc sao chép và đồng bộ dữ liệu giữa nhiều nơi",
+    "definition_en": "the process of keeping copies of data in more than one location",
+    "examples": [
+      {
+        "en": "Replication lets another server keep a copy of each new record.",
+        "vi": "Cơ chế sao chép giúp một máy chủ khác giữ bản sao của từng bản ghi mới."
+      },
+      {
+        "en": "Our team paused replication while checking why the secondary database was behind.",
+        "vi": "Nhóm tạm dừng đồng bộ bản sao trong lúc kiểm tra vì sao cơ sở dữ liệu phụ cập nhật chậm hơn."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "database replication",
+        "vi": "việc sao chép và đồng bộ cơ sở dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "responsive",
+    "pos": "adj",
+    "meaning_vi": "thích ứng với kích thước màn hình",
+    "definition_en": "designed to adjust its layout to fit different screen sizes",
+    "examples": [
+      {
+        "en": "A responsive page puts the menu below the title on narrow screens.",
+        "vi": "Trang có thiết kế thích ứng đặt trình đơn dưới tiêu đề khi màn hình hẹp."
+      },
+      {
+        "en": "The design team made the booking form responsive for employees using tablets.",
+        "vi": "Nhóm thiết kế đã điều chỉnh để biểu mẫu đặt chỗ tự thích ứng với màn hình máy tính bảng của nhân viên."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "responsive layout",
+        "vi": "bố cục thích ứng với màn hình"
+      }
+    ],
+    "topics": [
+      "interface-design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "revision",
+    "pos": "n",
+    "meaning_vi": "bản chỉnh sửa của tài liệu",
+    "definition_en": "a version of a document produced by changing an earlier version",
+    "examples": [
+      {
+        "en": "The latest revision replaces three outdated diagrams.",
+        "vi": "Bản chỉnh sửa mới nhất thay ba sơ đồ đã lỗi thời."
+      },
+      {
+        "en": "The coordinator sent the second revision of the schedule to every department.",
+        "vi": "Điều phối viên đã gửi bản chỉnh sửa lần thứ hai của lịch cho tất cả các bộ phận."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "latest revision",
+        "vi": "bản chỉnh sửa mới nhất"
+      }
+    ],
+    "topics": [
+      "documentation"
+    ]
+  },
+  {
+    "lemma": "rotate",
+    "pos": "v",
+    "meaning_vi": "định kỳ thay thế thông tin xác thực đang sử dụng",
+    "definition_en": "to replace an existing credential or key with a new one as part of regular maintenance",
+    "examples": [
+      {
+        "en": "The system can rotate its signing key without interrupting routine requests.",
+        "vi": "Hệ thống có thể thay khóa ký định kỳ mà không làm gián đoạn các yêu cầu thông thường."
+      },
+      {
+        "en": "Administrators rotate service credentials during the scheduled maintenance window.",
+        "vi": "Quản trị viên thay thông tin xác thực của dịch vụ trong khung giờ bảo trì định kỳ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rotate credentials",
+        "vi": "thay thông tin xác thực định kỳ"
+      }
+    ],
+    "topics": [
+      "security"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "settlement",
+    "pos": "n",
+    "meaning_vi": "thỏa thuận giải quyết tranh chấp",
+    "definition_en": "an agreement that resolves a disagreement or claim",
+    "examples": [
+      {
+        "en": "The two firms reached a settlement after discussing the damaged shipment.",
+        "vi": "Hai công ty đạt được thỏa thuận sau khi trao đổi về lô hàng bị hư hỏng."
+      },
+      {
+        "en": "The settlement required the supplier to replace the damaged units within a month.",
+        "vi": "Thỏa thuận yêu cầu nhà cung cấp thay các thiết bị hư hỏng trong vòng một tháng."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reach a settlement",
+        "vi": "đạt được thỏa thuận giải quyết tranh chấp"
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "shell",
+    "pos": "n",
+    "meaning_vi": "trình thông dịch lệnh",
+    "definition_en": "a program that accepts commands and tells the operating system what to run",
+    "examples": [
+      {
+        "en": "The shell prints an error when it cannot find the command.",
+        "vi": "Trình thông dịch lệnh hiển thị lỗi khi không tìm thấy lệnh."
+      },
+      {
+        "en": "The trainer opened a shell to demonstrate how to list files by date.",
+        "vi": "Người hướng dẫn mở trình thông dịch lệnh để minh họa cách liệt kê tệp theo ngày."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "command shell",
+        "vi": "trình thông dịch dòng lệnh"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "socket",
+    "pos": "n",
+    "meaning_vi": "điểm cuối giao tiếp dùng để gửi hoặc nhận dữ liệu",
+    "definition_en": "a software endpoint through which programs can send or receive data",
+    "examples": [
+      {
+        "en": "The program opens a socket to receive status messages.",
+        "vi": "Chương trình mở một điểm cuối kết nối để nhận thông báo trạng thái."
+      },
+      {
+        "en": "The developer closed the socket when the monitoring tool stopped collecting readings.",
+        "vi": "Lập trình viên đã đóng điểm cuối kết nối khi công cụ giám sát ngừng thu thập số đo."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "network socket",
+        "vi": "điểm cuối giao tiếp mạng"
+      }
+    ],
+    "topics": [
+      "networking"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "static",
+    "pos": "adj",
+    "meaning_vi": "tĩnh, có nội dung được chuẩn bị sẵn",
+    "definition_en": "prepared in advance and served without generating fresh content for each request",
+    "examples": [
+      {
+        "en": "The static help page displays the same instructions to every reader.",
+        "vi": "Trang trợ giúp tĩnh hiển thị cùng một hướng dẫn cho mọi người đọc."
+      },
+      {
+        "en": "We published a static status page that could stay online during maintenance.",
+        "vi": "Chúng tôi đã đăng một trang báo trạng thái tĩnh có thể tiếp tục hoạt động trong thời gian bảo trì."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "static page",
+        "vi": "trang tĩnh"
+      }
+    ],
+    "topics": [
+      "web"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "string",
+    "pos": "n",
+    "meaning_vi": "chuỗi ký tự",
+    "definition_en": "a sequence of characters treated as a single value in a program",
+    "examples": [
+      {
+        "en": "An empty string contains no characters.",
+        "vi": "Chuỗi rỗng không chứa ký tự nào."
+      },
+      {
+        "en": "The developer stored each employee number as a string to preserve the leading zeros.",
+        "vi": "Lập trình viên lưu mỗi mã nhân viên dưới dạng chuỗi để giữ các số không ở đầu."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "empty string",
+        "vi": "chuỗi rỗng"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "symbolic",
+    "pos": "adj",
+    "meaning_vi": "dùng ký hiệu để biểu diễn giá trị hoặc biểu thức",
+    "definition_en": "using symbols to represent values or expressions that can be manipulated directly",
+    "examples": [
+      {
+        "en": "The calculator leaves the symbolic result in terms of x.",
+        "vi": "Máy tính giữ nguyên kết quả dưới dạng biểu thức theo biến x."
+      },
+      {
+        "en": "The analyst used symbolic computation to simplify the formula before writing the code.",
+        "vi": "Chuyên viên phân tích dùng phương pháp tính toán ký hiệu để rút gọn công thức trước khi viết mã."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "symbolic computation",
+        "vi": "tính toán ký hiệu"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "tablet",
+    "pos": "n",
+    "meaning_vi": "máy tính bảng",
+    "definition_en": "a portable computer with a touchscreen that serves as its main input surface",
+    "examples": [
+      {
+        "en": "The visitor signed the form on a tablet at reception.",
+        "vi": "Khách đến làm việc ký biểu mẫu trên máy tính bảng ở quầy lễ tân."
+      },
+      {
+        "en": "Field staff use a tablet to record meter readings during each visit.",
+        "vi": "Nhân viên hiện trường dùng máy tính bảng để ghi chỉ số đồng hồ trong mỗi chuyến đi."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "tablet screen",
+        "vi": "màn hình máy tính bảng"
+      }
+    ],
+    "topics": [
+      "hardware"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "terminal",
+    "pos": "n",
+    "meaning_vi": "giao diện nhập lệnh và xem kết quả dạng văn bản",
+    "definition_en": "an interface for entering commands and viewing text output",
+    "examples": [
+      {
+        "en": "The terminal shows the name of the current folder.",
+        "vi": "Giao diện dòng lệnh hiển thị tên thư mục hiện tại."
+      },
+      {
+        "en": "The trainer asked everyone to open a terminal before starting the workshop.",
+        "vi": "Người hướng dẫn yêu cầu mọi người mở giao diện dòng lệnh trước khi bắt đầu buổi thực hành."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "terminal window",
+        "vi": "cửa sổ dòng lệnh"
+      }
+    ],
+    "topics": [
+      "digital-literacy"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "termination",
+    "pos": "n",
+    "meaning_vi": "việc chấm dứt hợp đồng hoặc thỏa thuận",
+    "definition_en": "the act of bringing a contract or agreement to an end",
+    "examples": [
+      {
+        "en": "The supplier asked for written confirmation of the termination.",
+        "vi": "Nhà cung cấp yêu cầu văn bản xác nhận việc chấm dứt hợp đồng."
+      },
+      {
+        "en": "The project lead returned the rented equipment after termination of the service agreement.",
+        "vi": "Trưởng dự án đã trả lại thiết bị thuê sau khi thỏa thuận dịch vụ chấm dứt."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contract termination",
+        "vi": "việc chấm dứt hợp đồng"
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "thread",
+    "pos": "n",
+    "meaning_vi": "luồng thực thi trong một tiến trình",
+    "definition_en": "a sequence of instructions that can run independently within a process",
+    "examples": [
+      {
+        "en": "A background thread saves changes while the window remains open.",
+        "vi": "Một luồng chạy nền lưu các thay đổi trong khi cửa sổ vẫn mở."
+      },
+      {
+        "en": "The developer moved file loading to a separate thread so the interface would stay responsive.",
+        "vi": "Lập trình viên chuyển việc đọc tệp sang một luồng riêng để giao diện vẫn phản hồi nhanh."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "background thread",
+        "vi": "luồng chạy nền"
+      }
+    ],
+    "topics": [
+      "software-development"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "trace",
+    "pos": "n",
+    "meaning_vi": "bản ghi các bước thực thi để theo dõi hoạt động hệ thống",
+    "definition_en": "a record showing the steps a program or request passes through",
+    "examples": [
+      {
+        "en": "The trace shows where processing slowed down.",
+        "vi": "Bản ghi theo dõi cho thấy quá trình xử lý chậm lại ở bước nào."
+      },
+      {
+        "en": "The engineers used a trace to find which service delayed order confirmation.",
+        "vi": "Các kỹ sư dùng bản ghi theo dõi để tìm dịch vụ khiến việc xác nhận đơn hàng bị chậm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "request trace",
+        "vi": "bản ghi theo dõi quá trình xử lý yêu cầu"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "transient",
+    "pos": "adj",
+    "meaning_vi": "tạm thời, chỉ tồn tại trong thời gian ngắn",
+    "definition_en": "lasting for a short time before clearing or disappearing",
+    "examples": [
+      {
+        "en": "A transient network error may clear before the next request.",
+        "vi": "Lỗi mạng tạm thời có thể tự hết trước yêu cầu kế tiếp."
+      },
+      {
+        "en": "The help desk recorded a transient fault that cleared before technicians arrived.",
+        "vi": "Bộ phận hỗ trợ đã ghi nhận một lỗi tạm thời tự hết trước khi kỹ thuật viên đến."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "transient fault",
+        "vi": "lỗi tạm thời"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "trigger",
+    "pos": "n",
+    "meaning_vi": "cơ chế tự động chạy khi xảy ra một sự kiện đã định",
+    "definition_en": "a mechanism that starts an action automatically when a specified event occurs",
+    "examples": [
+      {
+        "en": "A trigger records the time whenever a row changes.",
+        "vi": "Một cơ chế kích hoạt tự động ghi lại thời điểm mỗi khi một hàng thay đổi."
+      },
+      {
+        "en": "The database team tested the trigger that records changes to supplier addresses.",
+        "vi": "Nhóm cơ sở dữ liệu đã kiểm thử cơ chế tự động ghi nhận thay đổi địa chỉ nhà cung cấp."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "database trigger",
+        "vi": "cơ chế kích hoạt trong cơ sở dữ liệu"
+      }
+    ],
+    "topics": [
+      "data-management"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "vector",
+    "pos": "n",
+    "meaning_vi": "véc-tơ dùng để biểu diễn dữ liệu bằng các số có thứ tự",
+    "definition_en": "an ordered collection of numbers used to represent features or other values",
+    "examples": [
+      {
+        "en": "The vector records three measurements from the same sensor.",
+        "vi": "Véc-tơ biểu diễn ba số đo từ cùng một cảm biến."
+      },
+      {
+        "en": "The search team uses a vector to represent each product description.",
+        "vi": "Nhóm phụ trách tìm kiếm dùng một véc-tơ để biểu diễn mỗi mô tả sản phẩm."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feature vector",
+        "vi": "véc-tơ đặc trưng"
+      }
+    ],
+    "topics": [
+      "artificial-intelligence"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "verification",
+    "pos": "n",
+    "meaning_vi": "việc xác minh thông tin hoặc kiểm tra sự phù hợp với yêu cầu",
+    "definition_en": "the process of checking that something is accurate, genuine, or meets a requirement",
+    "examples": [
+      {
+        "en": "Identity verification takes longer when the photograph is blurry.",
+        "vi": "Việc xác minh danh tính mất nhiều thời gian hơn khi ảnh bị nhòe."
+      },
+      {
+        "en": "The release team completed verification of the installer before sending it to staff.",
+        "vi": "Nhóm phát hành đã kiểm tra xong bộ cài trước khi gửi cho nhân viên."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "identity verification",
+        "vi": "xác minh danh tính"
+      }
+    ],
+    "topics": [
+      "quality-assurance"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "waiver",
+    "pos": "n",
+    "meaning_vi": "văn bản cho phép miễn thực hiện một yêu cầu",
+    "definition_en": "written permission to be excused from a requirement",
+    "examples": [
+      {
+        "en": "The trainees obtained a waiver for the registration fee.",
+        "vi": "Các học viên được cấp văn bản miễn lệ phí đăng ký."
+      },
+      {
+        "en": "Finance granted a waiver so the team could submit the receipts after the internal deadline.",
+        "vi": "Bộ phận tài chính chấp thuận ngoại lệ bằng văn bản để nhóm có thể nộp biên lai sau thời hạn nội bộ."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fee waiver",
+        "vi": "văn bản miễn lệ phí"
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "workload",
+    "pos": "n",
+    "meaning_vi": "khối lượng tác vụ mà hệ thống phải xử lý",
+    "definition_en": "the amount of computing work a system needs to perform",
+    "examples": [
+      {
+        "en": "The evening workload includes a full backup and several reports.",
+        "vi": "Các tác vụ buổi tối gồm một lượt sao lưu toàn bộ và việc tạo một số báo cáo."
+      },
+      {
+        "en": "We spread the workload across three machines during the stock count.",
+        "vi": "Chúng tôi đã chia khối lượng xử lý cho ba máy trong đợt kiểm kê hàng tồn kho."
+      }
+    ],
+    "collocations": [
+      {
+        "en": "distribute the workload",
+        "vi": "phân bổ khối lượng xử lý"
+      }
+    ],
+    "topics": [
+      "operations"
+    ],
+    "register": "technical"
+  }
+]

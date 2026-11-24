@@ -1,0 +1,1905 @@
+{
+  "slug": "qe-thpt-004",
+  "title": "Đề luyện thi tiếng Anh THPT 04 – Giáo dục, Văn hóa và Công nghệ",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "A2-B2",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "status": "draft",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "grammar",
+    "vocabulary",
+    "cloze",
+    "reading"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best word or phrase to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Since 2021, the youth centre ------- free coding lessons every summer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "organises"
+            },
+            {
+              "key": "B",
+              "text": "organised"
+            },
+            {
+              "key": "C",
+              "text": "has organised"
+            },
+            {
+              "key": "D",
+              "text": "had organised"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Since 2021' chỉ khoảng thời gian kéo dài đến hiện tại nên dùng hiện tại hoàn thành 'has organised'.",
+          "translation": "Từ năm 2021, trung tâm thanh thiếu niên đã tổ chức các lớp lập trình miễn phí vào mỗi mùa hè.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "present-perfect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "My sister is ------- engineer at a company that designs medical devices.",
+          "options": [
+            {
+              "key": "A",
+              "text": "an"
+            },
+            {
+              "key": "B",
+              "text": "a"
+            },
+            {
+              "key": "C",
+              "text": "the"
+            },
+            {
+              "key": "D",
+              "text": "some"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Engineer' bắt đầu bằng âm nguyên âm nên danh từ nghề nghiệp số ít dùng mạo từ 'an'.",
+          "translation": "Chị tôi là kỹ sư ở một công ty thiết kế thiết bị y tế.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "articles"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "You will miss the last bus ------- you leave the sports hall now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as long as"
+            },
+            {
+              "key": "B",
+              "text": "in case of"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "unless"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Unless' nghĩa là 'nếu không'; cần rời nhà thi đấu ngay để kịp chuyến xe buýt cuối.",
+          "translation": "Bạn sẽ lỡ chuyến xe buýt cuối nếu không rời nhà thi đấu ngay bây giờ.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "unless-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The new community centre ------- last October after two years of construction.",
+          "options": [
+            {
+              "key": "A",
+              "text": "opens"
+            },
+            {
+              "key": "B",
+              "text": "was opened"
+            },
+            {
+              "key": "C",
+              "text": "has opened"
+            },
+            {
+              "key": "D",
+              "text": "is opening"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Công trình 'được khai trương' ở thời điểm quá khứ 'last October' nên dùng bị động quá khứ đơn.",
+          "translation": "Trung tâm cộng đồng mới được khai trương tháng Mười năm ngoái sau hai năm xây dựng.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "past-passive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The guide told us that the museum ------- the following Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will close"
+            },
+            {
+              "key": "B",
+              "text": "closes"
+            },
+            {
+              "key": "C",
+              "text": "has closed"
+            },
+            {
+              "key": "D",
+              "text": "would close"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Lời tường thuật với 'told' và 'the following Monday' cần lùi 'will close' thành 'would close'.",
+          "translation": "Hướng dẫn viên nói với chúng tôi rằng bảo tàng sẽ đóng cửa vào thứ Hai tuần kế tiếp.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "reported-speech"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Mai enjoys ------- short stories in English before going to sleep.",
+          "options": [
+            {
+              "key": "A",
+              "text": "read"
+            },
+            {
+              "key": "B",
+              "text": "reading"
+            },
+            {
+              "key": "C",
+              "text": "to reading"
+            },
+            {
+              "key": "D",
+              "text": "reads"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau 'enjoy' dùng danh động từ 'reading'.",
+          "translation": "Mai thích đọc truyện ngắn tiếng Anh trước khi ngủ.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "gerunds"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There ------- be a small bakery on this street, but it closed years ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "used to"
+            },
+            {
+              "key": "B",
+              "text": "use to"
+            },
+            {
+              "key": "C",
+              "text": "is used to"
+            },
+            {
+              "key": "D",
+              "text": "was used"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Used to + V' nói về tình trạng từng tồn tại trong quá khứ nhưng hiện không còn.",
+          "translation": "Ngày trước trên phố này từng có tiệm bánh nhỏ, nhưng nó đã đóng cửa nhiều năm trước.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "used-to"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The suitcase is light ------- for Linh to carry without help.",
+          "options": [
+            {
+              "key": "A",
+              "text": "too"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "enough"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cấu trúc 'adjective + enough + for somebody + to V' diễn tả đủ nhẹ để mang.",
+          "translation": "Chiếc va li đủ nhẹ để Linh tự xách mà không cần giúp đỡ.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "adjective-enough"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Neither the director nor the actors ------- satisfied with the first rehearsal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Động từ trong 'neither ... nor' hòa hợp với chủ ngữ gần nhất 'the actors' số nhiều; bối cảnh buổi tập đã diễn ra dùng 'were'.",
+          "translation": "Cả đạo diễn lẫn diễn viên đều không hài lòng với buổi tập đầu tiên.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "subject-verb-agreement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "If the team had checked the address, it ------- the equipment to the wrong building.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will not send"
+            },
+            {
+              "key": "B",
+              "text": "does not send"
+            },
+            {
+              "key": "C",
+              "text": "would not send"
+            },
+            {
+              "key": "D",
+              "text": "would not have sent"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Điều kiện loại ba giả định trái quá khứ: 'If + had V3, would not have V3'.",
+          "translation": "Nếu nhóm kiểm tra địa chỉ trước, họ đã không gửi thiết bị nhầm tòa nhà.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "third-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The charity hopes to ------- awareness of the importance of clean drinking water.",
+          "options": [
+            {
+              "key": "A",
+              "text": "raise"
+            },
+            {
+              "key": "B",
+              "text": "lift"
+            },
+            {
+              "key": "C",
+              "text": "grow"
+            },
+            {
+              "key": "D",
+              "text": "rise"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cụm từ đúng là 'raise awareness' (nâng cao nhận thức), còn 'rise' không nhận tân ngữ.",
+          "translation": "Tổ chức từ thiện hy vọng nâng cao nhận thức về tầm quan trọng của nước uống sạch.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "collocation-awareness"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "We had to ------- the picnic because heavy rain was forecast all afternoon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "look after"
+            },
+            {
+              "key": "B",
+              "text": "bring in"
+            },
+            {
+              "key": "C",
+              "text": "call off"
+            },
+            {
+              "key": "D",
+              "text": "put on"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Call off' nghĩa là hủy một hoạt động đã lên kế hoạch.",
+          "translation": "Chúng tôi phải hủy buổi dã ngoại vì dự báo mưa lớn suốt chiều.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "phrasal-call-off"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the most suitable word or response for each situation.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The exhibition starts at two. Would you like to come with us? — ------- I have been looking forward to it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I cannot remember."
+            },
+            {
+              "key": "B",
+              "text": "That sounds great!"
+            },
+            {
+              "key": "C",
+              "text": "The exhibition was closed."
+            },
+            {
+              "key": "D",
+              "text": "I bought it yesterday."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Người nói mong chờ triển lãm nên phản hồi đồng ý hào hứng 'That sounds great!' hợp ngữ cảnh.",
+          "translation": "Triển lãm bắt đầu lúc hai giờ. Bạn muốn đi cùng không? — Tuyệt quá! Tôi đã mong dịp này từ lâu.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "communication-invitation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The researcher gave a clear ------- of how the new water filter worked.",
+          "options": [
+            {
+              "key": "A",
+              "text": "explain"
+            },
+            {
+              "key": "B",
+              "text": "explanatory"
+            },
+            {
+              "key": "C",
+              "text": "explained"
+            },
+            {
+              "key": "D",
+              "text": "explanation"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau tính từ 'clear' và mạo từ 'a' cần danh từ 'explanation'.",
+          "translation": "Nhà nghiên cứu đưa ra lời giải thích rõ ràng về cách hoạt động của bộ lọc nước mới.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "word-formation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Students are responsible ------- returning borrowed tablets before five o'clock.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "with"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cấu trúc 'be responsible for + V-ing' chỉ trách nhiệm làm một việc.",
+          "translation": "Học sinh có trách nhiệm trả máy tính bảng mượn trước năm giờ.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "preposition-responsible"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The village built a covered waiting area to ------- passengers from the midday sun.",
+          "options": [
+            {
+              "key": "A",
+              "text": "protect"
+            },
+            {
+              "key": "B",
+              "text": "rescue"
+            },
+            {
+              "key": "C",
+              "text": "borrow"
+            },
+            {
+              "key": "D",
+              "text": "exchange"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Protect somebody from something' nghĩa là bảo vệ khỏi tác động có hại, ở đây là nắng trưa.",
+          "translation": "Ngôi làng làm chỗ chờ có mái để che nắng trưa cho hành khách.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary-protect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The route ------- on the noticeboard is shorter than the one in the old leaflet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "showing"
+            },
+            {
+              "key": "B",
+              "text": "shows"
+            },
+            {
+              "key": "C",
+              "text": "has shown"
+            },
+            {
+              "key": "D",
+              "text": "shown"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Shown on the noticeboard' là mệnh đề quan hệ rút gọn bị động bổ nghĩa 'the route'.",
+          "translation": "Lộ trình được hiển thị trên bảng thông báo ngắn hơn lộ trình trong tờ rơi cũ.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "reduced-relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The committee postponed its decision ------- several important documents were missing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Because' nối hai mệnh đề và giới thiệu nguyên nhân trì hoãn quyết định.",
+          "translation": "Ủy ban hoãn quyết định vì thiếu một số tài liệu quan trọng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "conjunction-cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "There were ------- chairs for all the guests, so nobody had to stand.",
+          "options": [
+            {
+              "key": "A",
+              "text": "enough"
+            },
+            {
+              "key": "B",
+              "text": "little"
+            },
+            {
+              "key": "C",
+              "text": "much"
+            },
+            {
+              "key": "D",
+              "text": "any"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Enough chairs' nghĩa là đủ ghế cho tất cả mọi người; 'chairs' là danh từ số nhiều.",
+          "translation": "Có đủ ghế cho mọi vị khách nên không ai phải đứng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "quantifiers-enough"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The travel blog recommends that visitors ------- local guides when entering the protected cave.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hired"
+            },
+            {
+              "key": "B",
+              "text": "hire"
+            },
+            {
+              "key": "C",
+              "text": "hiring"
+            },
+            {
+              "key": "D",
+              "text": "to hire"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau 'recommend that' ở cách dùng trang trọng, mệnh đề dùng dạng nguyên mẫu 'hire' (subjunctive).",
+          "translation": "Blog du lịch khuyên khách nên thuê hướng dẫn viên địa phương khi vào hang được bảo vệ.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "mandative-subjunctive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the text about tactile picture books and choose the best option for each blank.",
+      "source": "original",
+      "passage": "At Fernhill College, art students worked with a nearby primary school to make tactile picture books. Unlike ordinary illustrations, the pages contained raised shapes that readers could (21) ------- with their fingers.\n\nThe group first tested rough materials, but these irritated sensitive skin. After (22) ------- advice from a specialist, they switched to smoother fabrics and safe glue.\n\nEach page also included a short sentence (23) ------- readers could follow the story through both touch and words. The students invited children to try the prototypes and paid attention to (24) ------- comments.\n\nThe final books were placed in the local library, where families could borrow them (25) ------- charge.",
+      "passage_vi": "Tại Cao đẳng Fernhill, sinh viên nghệ thuật phối hợp với một trường tiểu học gần đó làm sách tranh có thể sờ để cảm nhận. Khác tranh thường, trang sách có hình nổi mà người đọc có thể sờ bằng ngón tay.\n\nBan đầu nhóm thử vật liệu thô ráp, nhưng chúng gây kích ứng da nhạy cảm. Sau khi tìm lời khuyên chuyên gia, nhóm chuyển sang vải mềm hơn và keo an toàn.\n\nMỗi trang còn có một câu ngắn để người đọc theo dõi câu chuyện bằng cả xúc giác lẫn chữ viết. Sinh viên mời trẻ em thử bản mẫu và lắng nghe nhận xét của các em.\n\nSách hoàn thành được đặt ở thư viện địa phương, nơi gia đình có thể mượn miễn phí.",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (21).",
+          "options": [
+            {
+              "key": "A",
+              "text": "draw"
+            },
+            {
+              "key": "B",
+              "text": "feel"
+            },
+            {
+              "key": "C",
+              "text": "erase"
+            },
+            {
+              "key": "D",
+              "text": "repair"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hình nổi trong sách có thể được cảm nhận bằng đầu ngón tay, nên 'feel' phù hợp.",
+          "translation": "Chọn từ cho chỗ trống (21): cảm nhận các hình nổi bằng ngón tay.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-verb"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (22).",
+          "options": [
+            {
+              "key": "A",
+              "text": "seek"
+            },
+            {
+              "key": "B",
+              "text": "to seek"
+            },
+            {
+              "key": "C",
+              "text": "sought"
+            },
+            {
+              "key": "D",
+              "text": "seeking"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau giới từ 'after' dùng V-ing: 'after seeking advice' (sau khi xin lời khuyên).",
+          "translation": "Chọn từ cho chỗ trống (22): sau khi xin ý kiến chuyên gia.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-gerund"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best phrase for blank (23).",
+          "options": [
+            {
+              "key": "A",
+              "text": "even if"
+            },
+            {
+              "key": "B",
+              "text": "rather than"
+            },
+            {
+              "key": "C",
+              "text": "so that"
+            },
+            {
+              "key": "D",
+              "text": "as though"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'So that' chỉ mục đích thêm câu ngắn để người đọc theo dõi bằng hai cách.",
+          "translation": "Chọn cụm cho chỗ trống (23): để người đọc theo dõi câu chuyện bằng xúc giác và chữ.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (24).",
+          "options": [
+            {
+              "key": "A",
+              "text": "their"
+            },
+            {
+              "key": "B",
+              "text": "its"
+            },
+            {
+              "key": "C",
+              "text": "our"
+            },
+            {
+              "key": "D",
+              "text": "his"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Children' là số nhiều nên tính từ sở hữu chỉ các nhận xét của trẻ là 'their'.",
+          "translation": "Chọn từ cho chỗ trống (24): lắng nghe nhận xét của các em nhỏ.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-possessive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best phrase for blank (25).",
+          "options": [
+            {
+              "key": "A",
+              "text": "outside"
+            },
+            {
+              "key": "B",
+              "text": "without"
+            },
+            {
+              "key": "C",
+              "text": "free of"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cụm cố định 'free of charge' có nghĩa là miễn phí.",
+          "translation": "Chọn cụm cho chỗ trống (25): các gia đình có thể mượn sách miễn phí.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-idiom"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Read the text about a community storytelling walk and choose the best option.",
+      "source": "original",
+      "passage": "During the annual Lantern Walk in Hillcrest, organisers wanted visitors to learn local stories without carrying printed brochures. Volunteers recorded short interviews with long-time residents and linked the clips to signs along the route.\n\nBecause some visitors did not have smartphones, the team (26) ------- simple listening stations near the square. They checked the recordings carefully to (27) ------- that every speaker had agreed to share a story.\n\nThe guided walk started at dusk, (28) ------- people could also explore the route during daylight. Afterwards, organisers asked participants which stories they found most (29) -------.\n\nThey hope to (30) ------- more languages in next year's recordings so that additional families can enjoy the event.",
+      "passage_vi": "Trong sự kiện Đi bộ Ngắm Đèn Lồng thường niên ở Hillcrest, ban tổ chức muốn khách tìm hiểu chuyện địa phương mà không phải mang tờ gấp giấy. Tình nguyện viên ghi các cuộc phỏng vấn ngắn với cư dân lâu năm rồi liên kết bản ghi tới biển chỉ dẫn dọc lộ trình.\n\nVì một số khách không có điện thoại thông minh, nhóm dựng các trạm nghe đơn giản gần quảng trường. Họ kiểm tra bản ghi cẩn thận để bảo đảm từng người kể đã đồng ý chia sẻ câu chuyện.\n\nChuyến đi bộ có hướng dẫn bắt đầu lúc chạng vạng, mặc dù mọi người cũng có thể tự tham quan ban ngày. Sau sự kiện, ban tổ chức hỏi người tham gia chuyện nào đáng nhớ nhất.\n\nHọ hy vọng đưa thêm nhiều ngôn ngữ vào bản ghi năm tới để nhiều gia đình cùng thưởng thức sự kiện.",
+      "questions": [
+        {
+          "number": 26,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best phrase for blank (26).",
+          "options": [
+            {
+              "key": "A",
+              "text": "put down"
+            },
+            {
+              "key": "B",
+              "text": "set up"
+            },
+            {
+              "key": "C",
+              "text": "turned away"
+            },
+            {
+              "key": "D",
+              "text": "taken off"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Set up listening stations' nghĩa là bố trí, thiết lập trạm nghe cho khách không có điện thoại.",
+          "translation": "Chọn cụm cho chỗ trống (26): dựng các trạm nghe đơn giản.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-phrasal-verb"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (27).",
+          "options": [
+            {
+              "key": "A",
+              "text": "avoid"
+            },
+            {
+              "key": "B",
+              "text": "imagine"
+            },
+            {
+              "key": "C",
+              "text": "compare"
+            },
+            {
+              "key": "D",
+              "text": "ensure"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Ensure that' nghĩa là bảo đảm mọi người kể chuyện đã đồng ý chia sẻ bản ghi.",
+          "translation": "Chọn từ cho chỗ trống (27): bảo đảm tất cả người kể đã đồng ý.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-verb-choice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (28).",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "until"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Although' diễn tả sự tương phản giữa buổi đi bộ có hướng dẫn lúc tối và khả năng tự tham quan ban ngày.",
+          "translation": "Chọn từ cho chỗ trống (28): mặc dù mọi người vẫn có thể tham quan ban ngày.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (29).",
+          "options": [
+            {
+              "key": "A",
+              "text": "crowded"
+            },
+            {
+              "key": "B",
+              "text": "asleep"
+            },
+            {
+              "key": "C",
+              "text": "memorable"
+            },
+            {
+              "key": "D",
+              "text": "careful"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Người tổ chức hỏi chuyện nào 'memorable' (đáng nhớ) nhất đối với khách.",
+          "translation": "Chọn từ cho chỗ trống (29): những câu chuyện đáng nhớ nhất.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-adjective"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (30).",
+          "options": [
+            {
+              "key": "A",
+              "text": "refuse"
+            },
+            {
+              "key": "B",
+              "text": "lose"
+            },
+            {
+              "key": "C",
+              "text": "divide"
+            },
+            {
+              "key": "D",
+              "text": "include"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Include more languages' nghĩa là đưa thêm các ngôn ngữ vào bản ghi để nhiều người có thể tiếp cận.",
+          "translation": "Chọn từ cho chỗ trống (30): đưa thêm nhiều ngôn ngữ vào bản ghi năm tới.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the passage about the school weather postcard exchange and choose the best answer.",
+      "source": "original",
+      "passage": "Two secondary schools, one in the highland village of Birch Pass and the other on the island of Sunhaven, began a weather postcard project in September. Teachers wanted students to compare everyday life in places with different landscapes. Each class kept a simple diary of temperature, clouds and rainfall, then wrote a postcard every Friday describing one surprising observation.\n\nAt first, several island students assumed that the highland village was covered in snow for most of the year. Some highland students imagined the island was always sunny. The September diaries challenged both ideas. Birch Pass had mild afternoons but chilly mornings, while Sunhaven experienced strong winds and a week of heavy showers.\n\nBecause postal deliveries to the island were sometimes delayed by rough seas, the schools agreed to exchange photographs of the cards through a private classroom platform as well. Teachers obtained parental permission before any photographs showing students were shared. The handwritten cards still arrived later and were displayed in both schools.\n\nDuring an online meeting, pupils compared records from the same dates and noticed that one place could be cool and dry while the other was warm and wet. Their teachers reminded them that a few weeks of classroom observations could not replace official climate records or weather forecasts. At the end of term, families visited an exhibition of cards, drawings and temperature charts. Students said the project taught them to question assumptions, check dates and listen carefully to people whose daily routines were different from their own.",
+      "passage_vi": "Hai trường trung học, một ở làng miền núi Birch Pass và một trên đảo Sunhaven, bắt đầu dự án bưu thiếp thời tiết vào tháng Chín. Giáo viên muốn học sinh so sánh đời sống thường ngày tại những nơi có địa hình khác nhau. Mỗi lớp ghi nhật ký đơn giản về nhiệt độ, mây và mưa, rồi viết bưu thiếp mỗi thứ Sáu về một điều quan sát gây ngạc nhiên.\n\nBan đầu, vài học sinh đảo cho rằng làng núi có tuyết hầu như quanh năm. Một số học sinh miền núi tưởng đảo lúc nào cũng nắng. Nhật ký tháng Chín phản bác cả hai suy đoán. Birch Pass có chiều dịu nhưng sáng lạnh, còn Sunhaven nhiều gió và một tuần mưa lớn.\n\nVì thư tới đảo đôi lúc chậm do biển động, các trường còn đồng ý gửi ảnh bưu thiếp qua nền tảng lớp học riêng. Giáo viên xin phép phụ huynh trước khi chia sẻ ảnh có học sinh. Những bưu thiếp viết tay vẫn đến sau đó và được trưng bày ở cả hai trường.\n\nTrong buổi họp trực tuyến, học sinh so số liệu cùng ngày và thấy một nơi có thể mát, khô trong khi nơi kia ấm, ẩm. Giáo viên nhắc dữ liệu lớp học vài tuần không thể thay thế hồ sơ khí hậu chính thức hay dự báo thời tiết. Cuối học kỳ, gia đình tham quan triển lãm bưu thiếp, tranh và biểu đồ nhiệt độ. Học sinh cho biết dự án dạy các em xem xét lại giả định, kiểm tra ngày tháng và lắng nghe người có nếp sống khác mình.",
+      "questions": [
+        {
+          "number": 31,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What was the project's main purpose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell postcards to tourists."
+            },
+            {
+              "key": "B",
+              "text": "To identify the best place for a new airport."
+            },
+            {
+              "key": "C",
+              "text": "To predict next year's exact rainfall."
+            },
+            {
+              "key": "D",
+              "text": "To compare daily weather and life in two different places."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Mục tiêu giáo viên nêu ở đoạn đầu là giúp học sinh so sánh cuộc sống ở những vùng có địa hình và thời tiết khác nhau.",
+          "translation": "Mục đích chính của dự án là gì? Đáp án D: so sánh thời tiết và đời sống thường ngày ở hai nơi khác nhau.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-main-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What did some island students originally believe about Birch Pass?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It was snowy during most of the year."
+            },
+            {
+              "key": "B",
+              "text": "It never had chilly mornings."
+            },
+            {
+              "key": "C",
+              "text": "It was located beside a warm sea."
+            },
+            {
+              "key": "D",
+              "text": "It had no secondary school."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn hai nói học sinh đảo từng tưởng làng miền núi có tuyết phần lớn thời gian trong năm.",
+          "translation": "Ban đầu một số học sinh trên đảo nghĩ gì về Birch Pass? Đáp án A: nơi đó có tuyết gần như quanh năm.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-assumption"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which information did the classes record in their diaries?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The number of ferry passengers."
+            },
+            {
+              "key": "B",
+              "text": "Temperature, clouds and rainfall."
+            },
+            {
+              "key": "C",
+              "text": "The cost of sending postcards."
+            },
+            {
+              "key": "D",
+              "text": "The price of food on the island."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Nhật ký gồm 'temperature, clouds and rainfall', đúng với đáp án B.",
+          "translation": "Các lớp ghi thông tin gì vào nhật ký? Đáp án B: nhiệt độ, mây và lượng mưa.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-data"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why were photographs of postcards exchanged online?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Teachers wanted to cancel handwriting lessons."
+            },
+            {
+              "key": "B",
+              "text": "Students had lost all the original cards."
+            },
+            {
+              "key": "C",
+              "text": "Postal deliveries to the island were sometimes delayed."
+            },
+            {
+              "key": "D",
+              "text": "The online meeting was the only school activity."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Biển động làm bưu điện có lúc giao thư tới đảo chậm, vì thế ảnh bưu thiếp được gửi qua nền tảng lớp học.",
+          "translation": "Vì sao các trường trao đổi ảnh bưu thiếp trực tuyến? Đáp án C: thư gửi đến đảo đôi khi bị trễ.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What did teachers do before sharing photographs that showed students?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They asked the town council to buy cameras."
+            },
+            {
+              "key": "B",
+              "text": "They obtained parents' permission."
+            },
+            {
+              "key": "C",
+              "text": "They published the photographs in a newspaper."
+            },
+            {
+              "key": "D",
+              "text": "They waited until the exhibition ended."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bài nói rõ giáo viên xin phép phụ huynh trước khi chia sẻ ảnh có học sinh.",
+          "translation": "Giáo viên làm gì trước khi chia sẻ ảnh có học sinh? Đáp án B: xin phép cha mẹ.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-privacy"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What did the pupils discover when comparing the same dates?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Weather conditions could differ greatly between the two places."
+            },
+            {
+              "key": "B",
+              "text": "The two schools always had identical weather."
+            },
+            {
+              "key": "C",
+              "text": "Neither place ever received rain."
+            },
+            {
+              "key": "D",
+              "text": "Temperature changes were caused by the postcards."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Số liệu cùng ngày cho thấy một nơi mát, khô còn nơi kia ấm, ướt, tức điều kiện thời tiết rất khác.",
+          "translation": "Học sinh phát hiện gì khi so dữ liệu cùng ngày? Đáp án A: thời tiết hai nơi có thể khác nhau đáng kể.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "The word 'assumptions' in the final paragraph is closest in meaning to -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "careful measurements"
+            },
+            {
+              "key": "B",
+              "text": "written instructions"
+            },
+            {
+              "key": "C",
+              "text": "official predictions"
+            },
+            {
+              "key": "D",
+              "text": "beliefs accepted without checking"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Assumptions' trong bài là các suy nghĩ ban đầu chưa được kiểm chứng về tuyết và nắng.",
+          "translation": "'Assumptions' trong đoạn cuối gần nghĩa nhất với gì? Đáp án D: niềm tin chưa kiểm chứng.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-context-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why did the teachers caution against relying only on the diaries?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They believed students could not write accurately."
+            },
+            {
+              "key": "B",
+              "text": "The postcards were printed on thin paper."
+            },
+            {
+              "key": "C",
+              "text": "A few weeks of observations were insufficient for official climate conclusions."
+            },
+            {
+              "key": "D",
+              "text": "The temperature charts had disappeared."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Giáo viên nhắc nhật ký vài tuần không thay thế hồ sơ khí hậu và dự báo chính thức.",
+          "translation": "Vì sao giáo viên nhắc không nên chỉ dựa vào nhật ký? Đáp án C: vài tuần quan sát chưa đủ kết luận khí hậu.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-limitation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Who attended the end-of-term exhibition?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only weather forecasters."
+            },
+            {
+              "key": "B",
+              "text": "Students' families."
+            },
+            {
+              "key": "C",
+              "text": "Only the island's postal workers."
+            },
+            {
+              "key": "D",
+              "text": "People who had never visited a school."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn cuối nêu 'families visited an exhibition' nên người tham dự là các gia đình học sinh.",
+          "translation": "Ai tham quan triển lãm cuối học kỳ? Đáp án B: các gia đình học sinh.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-event"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which lesson did students say they had learned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To test their expectations against evidence and listen to others."
+            },
+            {
+              "key": "B",
+              "text": "To trust their first guesses about other places."
+            },
+            {
+              "key": "C",
+              "text": "To stop comparing dates in weather records."
+            },
+            {
+              "key": "D",
+              "text": "To replace local forecasts with postcards."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Kết bài nêu ba điều học sinh rút ra: xét lại giả định, kiểm tra ngày tháng và lắng nghe người khác.",
+          "translation": "Bài học nào học sinh nói mình đã rút ra? Đáp án A: kiểm chứng suy đoán bằng bằng chứng và lắng nghe người khác.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-synthesis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the passage about waste-heat recovery at a swimming pool and answer the questions.",
+      "source": "original",
+      "passage": "Heated water is essential for Millcross's indoor swimming pool, yet rising energy bills had forced the town council to consider shortening opening hours. A young engineer noticed that a small data centre next door released a steady stream of heat as its computers operated. She proposed using some of that otherwise wasted heat to warm the pool.\n\nThe design used a heat exchanger, a device that transfers heat between two separate water systems. Warm water from the data centre passed through one side of the exchanger, while pool water moved through the other. The two supplies never mixed. A conventional heater remained available for especially cold days or unexpected breakdowns.\n\nDuring a three-month trial, technicians measured water temperature, electricity use and maintenance time. Early reports appeared to show enormous savings. However, the pool had been closed for five days during the first month to repair damaged tiles. Those closed days required much less energy, so comparing the total monthly bills gave a misleading picture. The team corrected the calculation by comparing days with similar opening hours and temperatures.\n\nThe revised results showed moderate savings, although maintenance costs were higher than expected. Residents also wanted assurance that extra pumps would not create noise at night. The engineer proposed sound insulation and a maintenance schedule. Before paying for a larger system, the council requested an independent energy audit. It hoped the project would show that useful innovations could be assessed carefully before public money was committed.",
+      "passage_vi": "Nước ấm rất cần cho bể bơi trong nhà của Millcross, nhưng hóa đơn năng lượng tăng khiến hội đồng thị trấn cân nhắc rút ngắn giờ mở cửa. Một kỹ sư trẻ nhận thấy trung tâm dữ liệu nhỏ bên cạnh liên tục tỏa nhiệt khi máy tính hoạt động. Cô đề xuất tận dụng một phần nhiệt thường bị lãng phí để sưởi nước bể bơi.\n\nThiết kế sử dụng bộ trao đổi nhiệt, thiết bị truyền nhiệt giữa hai hệ thống nước riêng biệt. Nước ấm từ trung tâm dữ liệu chảy qua một phía, còn nước bể bơi qua phía kia. Hai nguồn nước không trộn lẫn. Máy sưởi thông thường vẫn sẵn sàng khi trời đặc biệt lạnh hoặc máy móc hỏng đột xuất.\n\nTrong ba tháng thử nghiệm, kỹ thuật viên đo nhiệt độ nước, lượng điện và thời gian bảo dưỡng. Báo cáo đầu cho thấy mức tiết kiệm rất lớn. Nhưng bể bơi đã đóng cửa năm ngày trong tháng đầu để sửa gạch vỡ. Ngày đóng cửa dùng ít năng lượng hơn, nên so sánh tổng hóa đơn tháng gây hiểu sai. Nhóm sửa cách tính bằng cách so sánh những ngày có giờ mở cửa và nhiệt độ tương tự.\n\nKết quả điều chỉnh cho thấy tiết kiệm vừa phải, dù chi phí bảo dưỡng cao hơn dự kiến. Người dân còn muốn chắc rằng bơm bổ sung không gây ồn về đêm. Kỹ sư đề xuất cách âm và lịch bảo dưỡng. Trước khi trả tiền mở rộng hệ thống, hội đồng yêu cầu kiểm toán năng lượng độc lập. Họ hy vọng dự án cho thấy đổi mới hữu ích cần được đánh giá cẩn thận trước khi chi tiền công.",
+      "questions": [
+        {
+          "number": 41,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What is the main subject of the passage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A plan to replace an indoor pool with a data centre."
+            },
+            {
+              "key": "B",
+              "text": "A competition to design swimming equipment."
+            },
+            {
+              "key": "C",
+              "text": "A trial that used a data centre's surplus heat to warm a pool."
+            },
+            {
+              "key": "D",
+              "text": "A course teaching computers to monitor swimmers."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Toàn bài mô tả thử nghiệm tận dụng nhiệt thừa của trung tâm dữ liệu để sưởi bể bơi.",
+          "translation": "Chủ đề chính của bài là gì? Đáp án C: thử nghiệm dùng nhiệt thừa từ trung tâm dữ liệu để sưởi bể bơi.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 42,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why was the council considering shorter pool opening hours?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Energy bills had increased."
+            },
+            {
+              "key": "B",
+              "text": "There were no local swimmers."
+            },
+            {
+              "key": "C",
+              "text": "The pool had no clean water."
+            },
+            {
+              "key": "D",
+              "text": "The building was going to become a school."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn một cho biết chi phí năng lượng tăng khiến hội đồng cân nhắc giảm giờ mở cửa.",
+          "translation": "Vì sao hội đồng tính rút ngắn giờ mở cửa bể bơi? Đáp án A: hóa đơn năng lượng tăng.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "How did the heat exchanger keep the two water supplies separate?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It sent both supplies to the same open tank."
+            },
+            {
+              "key": "B",
+              "text": "It replaced all pool water with data-centre water."
+            },
+            {
+              "key": "C",
+              "text": "It turned all water into steam."
+            },
+            {
+              "key": "D",
+              "text": "It transferred heat between separate circuits without mixing the water."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bộ trao đổi nhiệt có hai phía riêng, truyền nhiệt nhưng hai nguồn nước không hòa vào nhau.",
+          "translation": "Bộ trao đổi nhiệt giữ hai nguồn nước tách biệt như thế nào? Đáp án D: truyền nhiệt giữa hai mạch mà không trộn nước.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-process"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which measurements were collected during the trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitor ages and ticket prices."
+            },
+            {
+              "key": "B",
+              "text": "Water temperature, electricity use and maintenance time."
+            },
+            {
+              "key": "C",
+              "text": "The distance between the town's schools."
+            },
+            {
+              "key": "D",
+              "text": "The number of computers sold by the data centre."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn ba liệt kê nhiệt độ nước, điện tiêu thụ và thời gian bảo dưỡng.",
+          "translation": "Các phép đo nào được thu thập? Đáp án B: nhiệt độ nước, điện sử dụng và thời gian bảo dưỡng.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did the first savings estimate appear too high?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The technicians had measured the air rather than the water."
+            },
+            {
+              "key": "B",
+              "text": "The data centre had stopped working for three months."
+            },
+            {
+              "key": "C",
+              "text": "The town council had invented the electricity bills."
+            },
+            {
+              "key": "D",
+              "text": "The pool had been closed for repairs on five days, reducing energy demand."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Năm ngày đóng cửa để sửa gạch làm mức tiêu thụ điện thấp bất thường, gây sai lệch khi so tổng hóa đơn tháng.",
+          "translation": "Vì sao ước tính tiết kiệm ban đầu quá cao? Đáp án D: bể bơi đóng cửa sửa chữa năm ngày nên dùng ít năng lượng.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-data-interpretation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 46,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "In the passage, 'moderate savings' most nearly means -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a complete removal of all costs"
+            },
+            {
+              "key": "B",
+              "text": "losses greater than every saving"
+            },
+            {
+              "key": "C",
+              "text": "a noticeable but limited reduction in costs"
+            },
+            {
+              "key": "D",
+              "text": "an increase in opening hours"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Moderate' nghĩa là ở mức vừa phải; có tiết kiệm nhưng không lớn như báo cáo đầu.",
+          "translation": "'Moderate savings' gần nghĩa nhất với gì? Đáp án C: mức giảm chi phí đáng kể nhưng có giới hạn.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 47,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What equipment was kept for very cold days or breakdowns?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A conventional heater."
+            },
+            {
+              "key": "B",
+              "text": "A second swimming pool."
+            },
+            {
+              "key": "C",
+              "text": "A printer for monthly bills."
+            },
+            {
+              "key": "D",
+              "text": "A replacement set of tiles."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn hai ghi máy sưởi thông thường vẫn có để dùng khi trời lạnh đặc biệt hoặc sự cố.",
+          "translation": "Thiết bị nào được giữ lại cho ngày rất lạnh hoặc khi hỏng máy? Đáp án A: máy sưởi thông thường.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-backup"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 48,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What concern did residents raise about the project?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The pool might change its name."
+            },
+            {
+              "key": "B",
+              "text": "The data centre would stop collecting data."
+            },
+            {
+              "key": "C",
+              "text": "Additional pumps might make noise at night."
+            },
+            {
+              "key": "D",
+              "text": "The building would have no windows."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Người dân lo bơm mới tạo tiếng ồn ban đêm, nên kỹ sư đề nghị cách âm.",
+          "translation": "Người dân lo điều gì về dự án? Đáp án C: các máy bơm bổ sung có thể gây ồn ban đêm.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-concern"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 49,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What did the council request before funding a bigger system?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new swimming competition."
+            },
+            {
+              "key": "B",
+              "text": "An independent energy audit."
+            },
+            {
+              "key": "C",
+              "text": "A week without recording temperatures."
+            },
+            {
+              "key": "D",
+              "text": "A larger room for the data-centre computers."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn cuối nêu hội đồng yêu cầu kiểm toán năng lượng độc lập trước khi mở rộng.",
+          "translation": "Hội đồng yêu cầu gì trước khi cấp kinh phí hệ thống lớn hơn? Đáp án B: kiểm toán năng lượng độc lập.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 50,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which principle best describes the council's final position?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All engineering projects should be accepted immediately."
+            },
+            {
+              "key": "B",
+              "text": "High initial savings figures are always reliable."
+            },
+            {
+              "key": "C",
+              "text": "Public pools should operate only in summer."
+            },
+            {
+              "key": "D",
+              "text": "Promising innovations should be evaluated carefully before spending public funds."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Hội đồng muốn đánh giá kỹ kết quả, chi phí và tác động trước khi chi tiền công cho mở rộng.",
+          "translation": "Nguyên tắc nào thể hiện lập trường cuối của hội đồng? Đáp án D: đánh giá kỹ đổi mới trước khi chi ngân sách công.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

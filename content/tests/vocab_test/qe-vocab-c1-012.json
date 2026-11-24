@@ -1,0 +1,1782 @@
+{
+  "slug": "qe-vocab-c1-012",
+  "title": "Kiểm tra từ vựng C1 – 012",
+  "exam_type": "vocab_test",
+  "level": "C1",
+  "cefr": "C1",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 20,
+  "total_questions": 50,
+  "difficulty": 5,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 50,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The project started with one weekly meeting, then acquired a newsletter and a help desk. What best describes this unplanned expansion of its scope?",
+          "explanation": "“Scope creep” chỉ việc các nhiệm vụ hoặc yêu cầu của dự án tăng dần ngoài phạm vi ban đầu.",
+          "translation": "Dự án bắt đầu với một buổi họp mỗi tuần, rồi có thêm bản tin và bộ phận hỗ trợ. Cụm nào mô tả đúng việc mở rộng phạm vi ngoài dự tính này?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Scope creep."
+            },
+            {
+              "key": "B",
+              "text": "A planned reduction in scope."
+            },
+            {
+              "key": "C",
+              "text": "A formal review of the project's remit."
+            },
+            {
+              "key": "D",
+              "text": "A change made through a scheduled restructuring."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "dab4f4ea7206ff0692ace40467635520a1f555b3"
+        },
+        {
+          "question_text": "The researcher included both the instrument logs and the original notes so readers could ___ the results for themselves.",
+          "explanation": "“Verify” là đối chiếu với bằng chứng để xác nhận kết quả có đúng không.",
+          "translation": "Nhà nghiên cứu đưa cả nhật ký thiết bị và ghi chép gốc để người đọc tự kiểm chứng kết quả.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rebut in advance"
+            },
+            {
+              "key": "B",
+              "text": "stipulate"
+            },
+            {
+              "key": "C",
+              "text": "verify"
+            },
+            {
+              "key": "D",
+              "text": "extrapolate beyond"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "6b3f50b3e0918f01a4eef713addc1cf27dbc4db5"
+        },
+        {
+          "question_text": "The report is described as “selective” in its use of evidence. Which omission would justify that criticism?",
+          "explanation": "“Selective” mang sắc thái phê phán khi nguồn được chọn thiên về một phía.",
+          "translation": "Báo cáo bị nhận xét là chỉ chọn một số bằng chứng có lợi. Việc lược bỏ nào biện minh cho phê bình đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It omits footnotes that duplicate the bibliography."
+            },
+            {
+              "key": "B",
+              "text": "It groups similar survey replies into a single row."
+            },
+            {
+              "key": "C",
+              "text": "It removes earlier drafts after publication."
+            },
+            {
+              "key": "D",
+              "text": "It leaves out relevant studies with opposing findings."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-c1-professional-005.json",
+          "independent_review": "pending",
+          "fingerprint": "31af75ac58fd4ce38d10ec2d6429dce6ff0df541"
+        },
+        {
+          "question_text": "The two estimates rest on different assumptions. We should not ___ their apparent agreement as independent confirmation.",
+          "explanation": "“Construe A as B” là diễn giải A theo cách hiểu B.",
+          "translation": "Hai ước tính dựa trên giả định khác nhau. Ta không nên diễn giải sự trùng khớp bề ngoài như sự xác nhận độc lập.",
+          "options": [
+            {
+              "key": "A",
+              "text": "construe"
+            },
+            {
+              "key": "B",
+              "text": "invoke against"
+            },
+            {
+              "key": "C",
+              "text": "enact"
+            },
+            {
+              "key": "D",
+              "text": "defer"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "465f68d78dbfa5c2e88f2bb159d07b5f2523b11b"
+        },
+        {
+          "question_text": "‘The chief engineer was “adamant” that the old pump should be replaced.’ Which response fits her position?",
+          "explanation": "“Adamant” chỉ sự kiên quyết, khó lay chuyển.",
+          "translation": "Kỹ sư trưởng nhất quyết rằng phải thay máy bơm cũ. Phản ứng nào phù hợp với lập trường của bà?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She asked the team to postpone making up its mind."
+            },
+            {
+              "key": "B",
+              "text": "She refused to entertain further repairs as an option."
+            },
+            {
+              "key": "C",
+              "text": "She thought replacement and repair were equally attractive."
+            },
+            {
+              "key": "D",
+              "text": "She deferred completely to whoever submitted the lowest bid."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "360ccc5fc53afaea194511a82191ee0ba36bbddf"
+        },
+        {
+          "question_text": "The draft contains a promise to release every file, which the next paragraph ___ by excluding personal records.",
+          "explanation": "“Qualify a statement” là thêm điều kiện hoặc giới hạn phạm vi của lời nói.",
+          "translation": "Bản nháp hứa công bố mọi hồ sơ, nhưng đoạn sau giới hạn lời hứa đó bằng cách loại trừ hồ sơ cá nhân.",
+          "options": [
+            {
+              "key": "A",
+              "text": "substantiates"
+            },
+            {
+              "key": "B",
+              "text": "echoes"
+            },
+            {
+              "key": "C",
+              "text": "qualifies"
+            },
+            {
+              "key": "D",
+              "text": "overstates"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f2c030a2601e96834baa6f58152fc1d5bbb96020"
+        },
+        {
+          "question_text": "Which revision suggests the writer knows a statistic is weak and is using it only as a pointer?",
+          "explanation": "“Indicative” nghĩa là có tính gợi ý, chưa đủ để kết luận dứt khoát.",
+          "translation": "Cách viết nào cho thấy tác giả biết số liệu chưa đủ mạnh và chỉ dùng nó như một dấu hiệu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The figure is conclusive in its own right."
+            },
+            {
+              "key": "B",
+              "text": "The figure is indicative rather than definitive."
+            },
+            {
+              "key": "C",
+              "text": "The figure supersedes all previous evidence."
+            },
+            {
+              "key": "D",
+              "text": "The figure is exhaustive and beyond dispute."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8d8f04b1ad1d4940311a6ddb0227ab20eabc139b"
+        },
+        {
+          "question_text": "The team designed the schedule to ___ the need for overnight stays by finishing all visits before the last train.",
+          "explanation": "“Eliminate the need for” là sắp xếp sao cho một việc hoàn toàn không còn cần.",
+          "translation": "Nhóm lập lịch để tránh phải ở lại qua đêm bằng cách hoàn tất mọi chuyến thăm trước chuyến tàu cuối.",
+          "options": [
+            {
+              "key": "A",
+              "text": "anticipate"
+            },
+            {
+              "key": "B",
+              "text": "eliminate"
+            },
+            {
+              "key": "C",
+              "text": "conceal"
+            },
+            {
+              "key": "D",
+              "text": "stipulate"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "1fe5e777db35d4bd39f6baedfb6fd303aa55170d"
+        },
+        {
+          "question_text": "‘Her account was “dispassionate”.’ Which feature is most likely?",
+          "explanation": "“Dispassionate” chỉ cách trình bày không để cảm xúc mạnh chi phối.",
+          "translation": "Lời kể của cô khách quan và điềm tĩnh. Đặc điểm nào dễ thấy nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She praised her allies and denounced her critics."
+            },
+            {
+              "key": "B",
+              "text": "She refused to describe anything that upset her."
+            },
+            {
+              "key": "C",
+              "text": "She reported what happened without displaying strong emotion."
+            },
+            {
+              "key": "D",
+              "text": "She added vivid expressions of grief to every paragraph."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "6e7f4f3bffafe292e07e0c4fe2bdf511cb6431df"
+        },
+        {
+          "question_text": "The editor kept the statistic but added a note to ___ it by explaining how the sample had been selected.",
+          "explanation": "“Contextualise” là cung cấp bối cảnh giúp người đọc hiểu đúng thông tin.",
+          "translation": "Biên tập viên giữ số liệu nhưng thêm ghi chú giải thích cách chọn mẫu để đặt nó vào đúng bối cảnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "suppress"
+            },
+            {
+              "key": "B",
+              "text": "contextualise"
+            },
+            {
+              "key": "C",
+              "text": "misattribute"
+            },
+            {
+              "key": "D",
+              "text": "discredit"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c5dd848a5dd612dbfd8bfa8d6f5adfc8af2ec3d2"
+        },
+        {
+          "question_text": "The draft was meant to apply to one pilot scheme, but its wording could be “sweeping”. Which sentence would cause that concern?",
+          "explanation": "“Sweeping” mô tả tuyên bố hoặc quy định có phạm vi quá rộng trong ngữ cảnh này.",
+          "translation": "Bản nháp dành cho một chương trình thí điểm nhưng có thể dùng lời lẽ quá bao quát. Câu nào gây lo ngại đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All participating organisations must replace their internal systems."
+            },
+            {
+              "key": "B",
+              "text": "The trial applies to staff who volunteered at one office."
+            },
+            {
+              "key": "C",
+              "text": "One site will review the procedure before adoption."
+            },
+            {
+              "key": "D",
+              "text": "Two pilot sites will test one optional setting."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "720706f7c0e59c10f70f4451bc17e22412e8bb65"
+        },
+        {
+          "question_text": "A handful of residents, all from one block, cannot be considered ___ of the entire district.",
+          "explanation": "“Representative of” chỉ mẫu phản ánh được nhóm lớn hơn.",
+          "translation": "Một nhóm nhỏ cư dân đều ở cùng một dãy nhà không thể được xem là đại diện cho cả quận.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exclusive"
+            },
+            {
+              "key": "B",
+              "text": "indicative of the size"
+            },
+            {
+              "key": "C",
+              "text": "characteristic"
+            },
+            {
+              "key": "D",
+              "text": "representative"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ab470d721f06776d1ed15c7a011648e84c5aca14"
+        },
+        {
+          "question_text": "When the speaker says, ‘At that point the delay became a “fait accompli”,’ which claim is she making?",
+          "explanation": "“Fait accompli” là sự việc đã xảy ra, để người khác chỉ còn cách chấp nhận.",
+          "translation": "Khi nói việc chậm trễ lúc đó đã thành chuyện rồi, người nói khẳng định điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The delay had been avoided through planning."
+            },
+            {
+              "key": "B",
+              "text": "The delay affected only unfinished paperwork."
+            },
+            {
+              "key": "C",
+              "text": "The delay was still a remote possibility."
+            },
+            {
+              "key": "D",
+              "text": "The delay had already happened and could no longer be avoided."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e4cce2a34705cef16f24946348328b4efbcf1458"
+        },
+        {
+          "question_text": "Rather than promising a complete recovery, the statement was carefully worded to ___ expectations about next quarter.",
+          "explanation": "“Temper expectations” nghĩa là làm kỳ vọng bớt cao hoặc bớt mạnh.",
+          "translation": "Thay vì hứa phục hồi hoàn toàn, thông cáo được viết cẩn thận để hạ bớt kỳ vọng cho quý sau.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fuel"
+            },
+            {
+              "key": "B",
+              "text": "maximise"
+            },
+            {
+              "key": "C",
+              "text": "temper"
+            },
+            {
+              "key": "D",
+              "text": "vindicate"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f7d12dce05ebedbce5544e016688983f32417ad3"
+        },
+        {
+          "question_text": "The proposal was rejected because its costs were clear but its promised savings were “speculative”. Which detail supports the decision?",
+          "explanation": "“Speculative” chỉ dự báo thiếu cơ sở kiểm chứng vững chắc.",
+          "translation": "Đề xuất bị bác vì chi phí rõ nhưng khoản tiết kiệm hứa hẹn còn mang tính suy đoán. Chi tiết nào củng cố quyết định đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The savings were already shown in audited accounts."
+            },
+            {
+              "key": "B",
+              "text": "The savings relied on untested assumptions about demand."
+            },
+            {
+              "key": "C",
+              "text": "The savings came from a signed contract at a fixed rate."
+            },
+            {
+              "key": "D",
+              "text": "The savings had been measured each quarter for five years."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "db4f6e5cb2cfd572c9e548350b85843101217cca"
+        },
+        {
+          "question_text": "An exception made for one supplier may ___ similar requests from others, the procurement team warned.",
+          "explanation": "“Invite” ở đây là tạo điều kiện để một hệ quả dễ xảy ra.",
+          "translation": "Nhóm thu mua cảnh báo rằng ngoại lệ cho một nhà cung cấp có thể kéo theo yêu cầu tương tự từ những bên khác.",
+          "options": [
+            {
+              "key": "A",
+              "text": "preclude"
+            },
+            {
+              "key": "B",
+              "text": "resolve"
+            },
+            {
+              "key": "C",
+              "text": "invite"
+            },
+            {
+              "key": "D",
+              "text": "make others withdraw"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "171ba373df9b42b64493ad955e09e8b64540ae65"
+        },
+        {
+          "question_text": "The reviewer calls an argument “internally inconsistent”. Which flaw does that identify?",
+          "explanation": "“Internally inconsistent” nghĩa là các mệnh đề trong chính lập luận mâu thuẫn với nhau.",
+          "translation": "Người phản biện nói lập luận thiếu nhất quán nội tại. Lỗi nào được chỉ ra?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its own claims contradict one another."
+            },
+            {
+              "key": "B",
+              "text": "Its conclusion is supported by several sources."
+            },
+            {
+              "key": "C",
+              "text": "It is written for more than one audience."
+            },
+            {
+              "key": "D",
+              "text": "It disputes the conclusion of another report."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "923dd41b42abf13d5153cfde3754c520ba8b2769"
+        },
+        {
+          "question_text": "Uncertainty about the new pricing model made the board ___ to commit funds before seeing the pilot results.",
+          "explanation": "“Reluctant to” là do dự hoặc không sẵn lòng làm điều gì.",
+          "translation": "Sự bất định về mô hình giá khiến hội đồng ngần ngại cam kết cấp vốn trước khi thấy kết quả thí điểm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "predisposed"
+            },
+            {
+              "key": "B",
+              "text": "poised"
+            },
+            {
+              "key": "C",
+              "text": "obliged"
+            },
+            {
+              "key": "D",
+              "text": "reluctant"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "2e8feafbcfbf7fd8c4fc80b76e02f5f5f50e3560"
+        },
+        {
+          "question_text": "‘The rise in complaints was “attributable” to longer waiting times.’ What relationship does the writer assert?",
+          "explanation": "“Attributable to” xác định yếu tố được xem là nguyên nhân.",
+          "translation": "Số khiếu nại tăng là do thời gian chờ lâu hơn. Tác giả nêu mối quan hệ gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The rise caused the wait."
+            },
+            {
+              "key": "B",
+              "text": "The wait was a cause of the rise."
+            },
+            {
+              "key": "C",
+              "text": "The rise made the wait easier to measure."
+            },
+            {
+              "key": "D",
+              "text": "The wait went unnoticed until complaints stopped."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c80e0f8ea4b9561264223db53622dd36252f94e8"
+        },
+        {
+          "question_text": "A second round of interviews was added to ___ any doubts about whether applicants could handle the role.",
+          "explanation": "“Resolve doubts” là làm sáng tỏ điều còn khiến người ta chưa chắc chắn.",
+          "translation": "Vòng phỏng vấn thứ hai được thêm để giải tỏa nghi ngờ về khả năng đảm nhiệm vị trí của ứng viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "intensify"
+            },
+            {
+              "key": "B",
+              "text": "conceal"
+            },
+            {
+              "key": "C",
+              "text": "leave unanswered"
+            },
+            {
+              "key": "D",
+              "text": "resolve"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "974c3f0993f6b1f9d8d46e4d73a767676d10b773"
+        },
+        {
+          "question_text": "The manager's approval was “contingent on” the venue having step-free access. Which detail matters?",
+          "explanation": "“Contingent on” nghĩa là phụ thuộc vào điều kiện được nêu.",
+          "translation": "Sự chấp thuận của quản lý phụ thuộc vào việc địa điểm có lối vào không bậc. Chi tiết nào quan trọng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The venue must provide an entrance without steps."
+            },
+            {
+              "key": "B",
+              "text": "The approval is independent of the entrance."
+            },
+            {
+              "key": "C",
+              "text": "The venue must raise its fee before approval."
+            },
+            {
+              "key": "D",
+              "text": "The venue only needs to show photographs of the steps."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c1ae9024b4f9016c98dd317f24b7fb172d10d48b"
+        },
+        {
+          "question_text": "The editorial makes a nominal concession before ___ the critics' main claim as unsupported.",
+          "explanation": "“Dismiss a claim as unsupported” là bác một nhận định vì không có đủ cơ sở.",
+          "translation": "Bài xã luận nhượng bộ lấy lệ rồi gạt bỏ luận điểm chính của các nhà phê bình vì thiếu căn cứ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dismissing"
+            },
+            {
+              "key": "B",
+              "text": "amplifying"
+            },
+            {
+              "key": "C",
+              "text": "adopting"
+            },
+            {
+              "key": "D",
+              "text": "endorsing"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "60a90f3a633e611dff22ed71aa2d159bd3199573"
+        },
+        {
+          "question_text": "‘The review sets out the “salient” points.’ Which details should it prioritise?",
+          "explanation": "“Salient” chỉ các điểm nổi bật và liên quan nhất đến vấn đề.",
+          "translation": "Bản đánh giá nêu các điểm quan trọng nhất. Nó nên ưu tiên chi tiết nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "those that happen to share the same source"
+            },
+            {
+              "key": "B",
+              "text": "those most relevant to the decision"
+            },
+            {
+              "key": "C",
+              "text": "those published most recently, regardless of relevance"
+            },
+            {
+              "key": "D",
+              "text": "those easiest to find in a footnote"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "77745a807b7223d14f100388b5e2aa78c1c04976"
+        },
+        {
+          "question_text": "Prices have stabilised, but one month's figures are too little to ___ a prediction about the rest of the year.",
+          "explanation": "“Warrant” nghĩa là đủ căn cứ để biện minh cho một hành động hoặc kết luận.",
+          "translation": "Giá đã ổn định, nhưng số liệu một tháng không đủ cơ sở để dự báo phần còn lại của năm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "warrant"
+            },
+            {
+              "key": "B",
+              "text": "elicit automatically"
+            },
+            {
+              "key": "C",
+              "text": "disavow"
+            },
+            {
+              "key": "D",
+              "text": "invalidate in themselves"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "927aaf89c50e6b40ad0421472ff5e926396691a8"
+        },
+        {
+          "question_text": "As part of their training, junior staff were assigned to observe an experienced colleague handling negotiations for a week. What label best fits the arrangement?",
+          "explanation": "“Shadowing” là theo sát một người để học bằng quan sát công việc thực tế.",
+          "translation": "Trong chương trình đào tạo, nhân viên mới được phân công quan sát một đồng nghiệp giàu kinh nghiệm đàm phán trong một tuần. Cụm nào mô tả đúng cách sắp xếp đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "independent arbitration"
+            },
+            {
+              "key": "B",
+              "text": "structured shadowing"
+            },
+            {
+              "key": "C",
+              "text": "delegated authority"
+            },
+            {
+              "key": "D",
+              "text": "anonymous peer review"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8def88e3639d479b63eaf56636a9e7c4f39758ca"
+        },
+        {
+          "question_text": "A second local employer is expected to ___ the town's dependence on a single factory.",
+          "explanation": "“Lessen dependence” là làm mức độ phụ thuộc giảm đi.",
+          "translation": "Một đơn vị tuyển dụng thứ hai dự kiến giúp thị trấn giảm phụ thuộc vào một nhà máy duy nhất.",
+          "options": [
+            {
+              "key": "A",
+              "text": "lessen"
+            },
+            {
+              "key": "B",
+              "text": "perpetuate"
+            },
+            {
+              "key": "C",
+              "text": "entrench"
+            },
+            {
+              "key": "D",
+              "text": "illustrate"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e33fe448f3f771547e6ae7d265337b26f920ff9b"
+        },
+        {
+          "question_text": "‘Her praise was “qualified”.’ Which comment fits?",
+          "explanation": "“Qualified praise” là lời khen có giới hạn hoặc điều kiện đi kèm.",
+          "translation": "Lời khen của cô đi kèm điều kiện. Nhận xét nào phù hợp?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The plan ought to be scrapped immediately."
+            },
+            {
+              "key": "B",
+              "text": "The plan is promising, provided we can secure funding."
+            },
+            {
+              "key": "C",
+              "text": "The plan is flawless in every respect."
+            },
+            {
+              "key": "D",
+              "text": "The plan was presented at last week's meeting."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "187bab31ddc680ef1f2ac5ad8cd314b44a5f87f8"
+        },
+        {
+          "question_text": "Changing the name alone would leave the problem ___ because the two services would still perform identical functions.",
+          "explanation": "“Leave a problem unresolved” nghĩa là để vấn đề tồn tại mà chưa xử lý được.",
+          "translation": "Chỉ đổi tên sẽ khiến vấn đề còn nguyên vì hai dịch vụ vẫn có chức năng giống hệt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "settled"
+            },
+            {
+              "key": "B",
+              "text": "overstated"
+            },
+            {
+              "key": "C",
+              "text": "unrecognisable"
+            },
+            {
+              "key": "D",
+              "text": "unresolved"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f61e28a5a31d966e5129711d704cd952bf857711"
+        },
+        {
+          "question_text": "The guide calls the junction “notorious” among cyclists. Which detail would justify the label?",
+          "explanation": "“Notorious” chỉ nơi hoặc người nổi tiếng vì một lý do xấu.",
+          "translation": "Cẩm nang gọi nút giao này là tai tiếng trong giới đi xe đạp. Chi tiết nào giải thích cách gọi?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It was resurfaced with a standard material."
+            },
+            {
+              "key": "B",
+              "text": "It was named after a nearby farm."
+            },
+            {
+              "key": "C",
+              "text": "It marks the border between two postcodes."
+            },
+            {
+              "key": "D",
+              "text": "It has long been associated with a high number of near misses."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e055e1a23ed79efafc87c12fa04bebb1dfd4d94a"
+        },
+        {
+          "question_text": "The centre will ___ one of its smaller grant schemes after next year and redirect the money to shared facilities.",
+          "explanation": "“Discontinue” là chấm dứt hoạt động đang được duy trì.",
+          "translation": "Sau năm tới, trung tâm sẽ ngừng một chương trình tài trợ nhỏ và chuyển tiền sang cơ sở dùng chung.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reinstate"
+            },
+            {
+              "key": "B",
+              "text": "expand"
+            },
+            {
+              "key": "C",
+              "text": "discontinue"
+            },
+            {
+              "key": "D",
+              "text": "underwrite"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "5bb3339fb5c15f9a5a13ee7c5a2e1c3832c19768"
+        },
+        {
+          "question_text": "‘The board's endorsement was “unanimous”.’ What does the adjective tell us?",
+          "explanation": "“Unanimous” nghĩa là tất cả thành viên cùng đồng ý.",
+          "translation": "Hội đồng nhất trí tán thành. Tính từ đó cho ta biết gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The chair made the decision alone."
+            },
+            {
+              "key": "B",
+              "text": "Some members wanted to revisit the decision."
+            },
+            {
+              "key": "C",
+              "text": "Every member supported the decision."
+            },
+            {
+              "key": "D",
+              "text": "Most members supported the decision."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f4e79b03e151499cd7fa4f3e138684db13c1dead"
+        },
+        {
+          "question_text": "The article's framing ___ the role of residents by attributing the entire turnaround to one official.",
+          "explanation": "“Marginalise” là gạt một nhóm hoặc vai trò ra rìa, khiến họ có vẻ ít quan trọng.",
+          "translation": "Cách đặt vấn đề của bài viết xem nhẹ vai trò cư dân khi quy toàn bộ bước ngoặt cho một quan chức.",
+          "options": [
+            {
+              "key": "A",
+              "text": "legitimises"
+            },
+            {
+              "key": "B",
+              "text": "substantiates"
+            },
+            {
+              "key": "C",
+              "text": "marginalises"
+            },
+            {
+              "key": "D",
+              "text": "foregrounds"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "5345963e0b22f9162517ee49939df9771cac5632"
+        },
+        {
+          "question_text": "Which phrase gives the strongest indication that two goals cannot both be met under the stated rules?",
+          "explanation": "“Irreconcilable” chỉ hai điều không thể dung hòa.",
+          "translation": "Cụm nào cho thấy rõ nhất hai mục tiêu không thể cùng đạt được theo quy định đã nêu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The goals are irreconcilable."
+            },
+            {
+              "key": "B",
+              "text": "The goals have different deadlines."
+            },
+            {
+              "key": "C",
+              "text": "The goals overlap in some areas."
+            },
+            {
+              "key": "D",
+              "text": "The goals need further definition."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d61f1b027314f7303c53e54289e067096ae050e3"
+        },
+        {
+          "question_text": "The study is too narrow to ___ claims about all schools, though it raises questions worth investigating.",
+          "explanation": "“Substantiate” là cung cấp bằng chứng đủ sức củng cố một nhận định.",
+          "translation": "Nghiên cứu có phạm vi quá hẹp để chứng minh nhận định về mọi trường, dù đặt ra câu hỏi đáng tìm hiểu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "document the popularity of"
+            },
+            {
+              "key": "B",
+              "text": "amplify"
+            },
+            {
+              "key": "C",
+              "text": "substantiate"
+            },
+            {
+              "key": "D",
+              "text": "issue"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "bf4ae413c1bbd0ab4978ad79202e13fb2ebad1a2"
+        },
+        {
+          "question_text": "‘An apparent improvement may be an “artefact” of the revised questionnaire.’ What is the concern?",
+          "explanation": "“Artefact” ở đây là kết quả biểu kiến do phương pháp đo tạo ra.",
+          "translation": "Cải thiện bề ngoài có thể là sản phẩm của việc sửa bảng hỏi. Người viết lo điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The respondents may have lost their old questionnaires."
+            },
+            {
+              "key": "B",
+              "text": "The change may be greater than the questionnaire can show."
+            },
+            {
+              "key": "C",
+              "text": "The improvement may have caused the questionnaire to be revised."
+            },
+            {
+              "key": "D",
+              "text": "The new method may have produced the appearance of change."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c596079f74d581441af6e84393d61372a348277c"
+        },
+        {
+          "question_text": "The city did not scrap the proposal but ___ all spending on it until its funding sources could be checked.",
+          "explanation": "“Suspend” là tạm ngừng một hoạt động với khả năng tiếp tục sau.",
+          "translation": "Thành phố chưa bỏ đề xuất nhưng tạm ngừng mọi chi tiêu cho đến khi xác minh được nguồn vốn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exceeded"
+            },
+            {
+              "key": "B",
+              "text": "suspended"
+            },
+            {
+              "key": "C",
+              "text": "authorised"
+            },
+            {
+              "key": "D",
+              "text": "accelerated"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ac604a73c630aaa66a66dfadae8e12caca033728"
+        },
+        {
+          "question_text": "The statement says there is “scope for” improving turnaround times. Which reading fits?",
+          "explanation": "“Scope for” chỉ còn khả năng hoặc dư địa để thực hiện điều gì.",
+          "translation": "Thông báo nói vẫn có dư địa để rút ngắn thời gian xử lý. Cách hiểu nào phù hợp?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Turnaround times must stay exactly the same."
+            },
+            {
+              "key": "B",
+              "text": "Turnaround times have already improved as much as possible."
+            },
+            {
+              "key": "C",
+              "text": "There is still room to improve turnaround times."
+            },
+            {
+              "key": "D",
+              "text": "Turnaround times are no longer measured."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d7988e5dcbbff51612e66e47bbc2ffe82b14e49d"
+        },
+        {
+          "question_text": "The lawyer asked for a definition of ‘electronic record’ to ___ disputes about whether saved text messages would count.",
+          "explanation": "“Forestall” nghĩa là hành động trước để ngăn điều có thể phát sinh.",
+          "translation": "Luật sư yêu cầu định nghĩa “hồ sơ điện tử” để ngăn trước tranh chấp về việc tin nhắn đã lưu có được tính không.",
+          "options": [
+            {
+              "key": "A",
+              "text": "provoke"
+            },
+            {
+              "key": "B",
+              "text": "forestall"
+            },
+            {
+              "key": "C",
+              "text": "adjudicate"
+            },
+            {
+              "key": "D",
+              "text": "endorse"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "913ca5a2eeadaa8a1fe5acd78d0bff21ae5eed01"
+        },
+        {
+          "question_text": "A reviewer describes the budget cuts as “indiscriminate”. Which detail supports that assessment?",
+          "explanation": "“Indiscriminate” chỉ cách áp dụng thiếu chọn lọc, không xét sự khác biệt liên quan.",
+          "translation": "Người đánh giá mô tả việc cắt ngân sách là cào bằng. Chi tiết nào phù hợp?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only duplicated services were cut."
+            },
+            {
+              "key": "B",
+              "text": "Every department lost the same share regardless of need or performance."
+            },
+            {
+              "key": "C",
+              "text": "The departments with unused funds faced the largest cuts."
+            },
+            {
+              "key": "D",
+              "text": "The cuts were set after each department's needs were compared."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "0487ba2214c6109367ff2da73d10c07b1ec476e4"
+        },
+        {
+          "question_text": "The team could test temperature and humidity separately, but changing both at once would ___ interpretation of the results.",
+          "explanation": "“Complicate” là làm phức tạp. Khi hai yếu tố đổi cùng lúc, khó tách tác động của từng yếu tố.",
+          "translation": "Nhóm có thể thử nhiệt độ và độ ẩm riêng, nhưng đổi cả hai cùng lúc sẽ khiến việc diễn giải kết quả khó hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "complicate"
+            },
+            {
+              "key": "B",
+              "text": "settle"
+            },
+            {
+              "key": "C",
+              "text": "standardise"
+            },
+            {
+              "key": "D",
+              "text": "clarify"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "063e206c385b84000f627bc622a44556d5a0f3e8"
+        },
+        {
+          "question_text": "‘The name is “misleadingly specific”.’ Which title illustrates the criticism?",
+          "explanation": "“Misleadingly specific” chỉ chi tiết tạo ấn tượng sai rằng phạm vi hẹp hơn thực tế.",
+          "translation": "Tên gọi cụ thể đến mức gây hiểu nhầm. Tiêu đề nào minh họa lời phê bình đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "‘The Northern Region’ for a survey of the whole northern region."
+            },
+            {
+              "key": "B",
+              "text": "‘July Rainfall’ for a chart of rain in July."
+            },
+            {
+              "key": "C",
+              "text": "‘Local Transport’ for an overview of town buses and trains."
+            },
+            {
+              "key": "D",
+              "text": "‘Three Villages’ for a book that covers the entire region."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 41,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d1213eb142e21fd80584085796cf302f997e0458"
+        },
+        {
+          "question_text": "Instead of giving an immediate answer, the board agreed to ___ a response until the external report became available.",
+          "explanation": "“Withhold a response” là giữ lại hoặc chưa công bố phản hồi.",
+          "translation": "Thay vì trả lời ngay, hội đồng đồng ý chưa đưa ra phản hồi cho tới khi có báo cáo bên ngoài.",
+          "options": [
+            {
+              "key": "A",
+              "text": "formulate publicly"
+            },
+            {
+              "key": "B",
+              "text": "expedite"
+            },
+            {
+              "key": "C",
+              "text": "withhold"
+            },
+            {
+              "key": "D",
+              "text": "disseminate"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 42,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "30e6c46b440ceea43cfb9f61fb64d2395fbc1fa1"
+        },
+        {
+          "question_text": "The report treats lack of attendance as “symptomatic of” wider access problems. Which relationship is intended?",
+          "explanation": "“Symptomatic of” nghĩa là biểu hiện của một vấn đề bên dưới hoặc rộng hơn.",
+          "translation": "Báo cáo coi việc ít người tham gia là dấu hiệu của vấn đề tiếp cận rộng hơn. Câu nói hàm ý quan hệ gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Low attendance rules out any difficulty getting access."
+            },
+            {
+              "key": "B",
+              "text": "Low attendance is a sign of broader difficulties getting access."
+            },
+            {
+              "key": "C",
+              "text": "Low attendance suggests the problems affect only one person."
+            },
+            {
+              "key": "D",
+              "text": "Low attendance resolves the difficulties getting access."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 43,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "82449d1058c2a31ffcba6f26ff1cdf122a57db72"
+        },
+        {
+          "question_text": "The writer carefully ___ a boundary between what the archives establish and what she can only infer.",
+          "explanation": "“Delineate” là mô tả hoặc vạch ra ranh giới rõ ràng.",
+          "translation": "Tác giả vạch rõ ranh giới giữa điều tài liệu lưu trữ xác nhận và điều bà chỉ có thể suy ra.",
+          "options": [
+            {
+              "key": "A",
+              "text": "obscures"
+            },
+            {
+              "key": "B",
+              "text": "erases"
+            },
+            {
+              "key": "C",
+              "text": "crosses repeatedly"
+            },
+            {
+              "key": "D",
+              "text": "delineates"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 44,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "58d93011ba3fe49662f3af09b50fad79bf7827af"
+        },
+        {
+          "question_text": "Which revision retains the idea that the deadline still stands despite a minor concession?",
+          "explanation": "“Does not alter” nghĩa là không làm thay đổi hạn đã đặt.",
+          "translation": "Cách viết nào giữ được ý là hạn chót vẫn có hiệu lực dù có nhượng bộ nhỏ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The concession does not alter the deadline."
+            },
+            {
+              "key": "B",
+              "text": "The deadline is subject to the concession."
+            },
+            {
+              "key": "C",
+              "text": "The deadline lapses under the concession."
+            },
+            {
+              "key": "D",
+              "text": "The concession overrides the deadline."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 45,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "776747b48c35bf0ae53cd64a2fa02cbb2f8014f0"
+        },
+        {
+          "question_text": "The retailer saw an opening in the market but could not ___ it before a larger competitor launched a similar product.",
+          "explanation": "“Capitalise on” là tận dụng một cơ hội để thu lợi.",
+          "translation": "Nhà bán lẻ thấy một cơ hội thị trường nhưng không kịp tận dụng trước khi đối thủ lớn ra sản phẩm tương tự.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reconcile with"
+            },
+            {
+              "key": "B",
+              "text": "dispense with"
+            },
+            {
+              "key": "C",
+              "text": "rule out"
+            },
+            {
+              "key": "D",
+              "text": "capitalise on"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 46,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "2a420a0dbd48b5d664831968551ace49cd661090"
+        },
+        {
+          "question_text": "‘The witness's account was “at odds with” the archived footage.’ What should the investigator do first?",
+          "explanation": "“At odds with” nghĩa là mâu thuẫn hoặc không phù hợp với nguồn còn lại.",
+          "translation": "Lời kể nhân chứng không khớp với đoạn phim lưu trữ. Điều tra viên nên làm gì trước tiên?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Identify where the account and footage disagree."
+            },
+            {
+              "key": "B",
+              "text": "Treat the account as a description of the camera."
+            },
+            {
+              "key": "C",
+              "text": "Record both as if they were identical."
+            },
+            {
+              "key": "D",
+              "text": "Assume the footage confirms every detail."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 47,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ccdf2ce6349fe3512f84f50ce1c692816ef40a98"
+        },
+        {
+          "question_text": "The old handbook has been ___ by a new edition, which is now the only one used for training.",
+          "explanation": "“Supersede” là thay thế một thứ cũ để trở thành bản hiện hành.",
+          "translation": "Sổ tay cũ đã được ấn bản mới thay thế. Hiện chỉ ấn bản mới được dùng để đào tạo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "supplemented"
+            },
+            {
+              "key": "B",
+              "text": "abridged"
+            },
+            {
+              "key": "C",
+              "text": "superseded"
+            },
+            {
+              "key": "D",
+              "text": "replicated"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 48,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "6a25265166d961170640838dfcc4d0b0cb44b786"
+        },
+        {
+          "question_text": "The building looked refurbished, but the changes were “cosmetic”. Which example fits?",
+          "explanation": "“Cosmetic” nói về sự thay đổi hình thức, như sơn lại mà hệ thống sưởi vẫn hỏng.",
+          "translation": "Tòa nhà trông như đã cải tạo nhưng các thay đổi chỉ ở bề ngoài. Ví dụ nào phù hợp?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The wiring was replaced throughout the building."
+            },
+            {
+              "key": "B",
+              "text": "The roof supports were reinforced from below."
+            },
+            {
+              "key": "C",
+              "text": "The lobby was repainted while the heating remained faulty."
+            },
+            {
+              "key": "D",
+              "text": "The lifts were rebuilt to carry heavier loads."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 49,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "9bae37d079fadf2c77e402f56f11f5aa6cd6bab2"
+        },
+        {
+          "question_text": "The claim has been repeated so often that readers may ___ repetition for independent confirmation.",
+          "explanation": "“Mistake A for B” nghĩa là nhầm A thành B.",
+          "translation": "Nhận định được nhắc lại nhiều đến mức người đọc có thể lầm tưởng sự lặp lại là bằng chứng xác nhận độc lập.",
+          "options": [
+            {
+              "key": "A",
+              "text": "compensate"
+            },
+            {
+              "key": "B",
+              "text": "exchange"
+            },
+            {
+              "key": "C",
+              "text": "substitute"
+            },
+            {
+              "key": "D",
+              "text": "mistake"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 50,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 5,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d82cac052e1437f9f96d07b03feb4fce1abeb64f"
+        }
+      ]
+    }
+  ]
+}

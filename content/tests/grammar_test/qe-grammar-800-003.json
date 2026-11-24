@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-800-003",
+  "title": "Kiểm tra ngữ pháp 800 – 12",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 4,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "All forms ------- after 5 P.M. will be processed the following day.",
+          "explanation": "V3 rút gọn mệnh đề quan hệ bị động: forms that are received. Dịch: Các biểu mẫu nhận sau 5 giờ chiều sẽ được xử lý vào ngày kế tiếp.",
+          "translation": "Tất cả biểu mẫu ------- sau 5 giờ chiều sẽ được xử lý vào ngày hôm sau. A. được nhận; B. đang nhận; C. nhận; D. để nhận.",
+          "options": [
+            {
+              "key": "A",
+              "text": "receiving"
+            },
+            {
+              "key": "B",
+              "text": "receive"
+            },
+            {
+              "key": "C",
+              "text": "received"
+            },
+            {
+              "key": "D",
+              "text": "to receive"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "308b00657f28d706baa32b5fc9326f729be8fed3"
+        },
+        {
+          "question_text": "Not only ------- the budget, but it also reduced waste.",
+          "explanation": "Not only + did + S + V (nguyên mẫu).",
+          "translation": "Kế hoạch không những ------- ngân sách mà còn giảm lãng phí. A. cắt giảm (không đảo); B. thực sự cắt giảm (không đảo); C. đã cắt giảm (đảo ngữ đúng); D. cắt giảm (đảo sai).",
+          "options": [
+            {
+              "key": "A",
+              "text": "the plan cut"
+            },
+            {
+              "key": "B",
+              "text": "the plan did cut"
+            },
+            {
+              "key": "C",
+              "text": "did the plan cut"
+            },
+            {
+              "key": "D",
+              "text": "cut the plan"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "32c81047f05e70e8e5fc64a19f142ccdec86c6c1"
+        },
+        {
+          "question_text": "------- he resigned came as a surprise to everyone.",
+          "explanation": "That-clause làm chủ ngữ: that + S + V.",
+          "translation": "------- anh ấy từ chức khiến mọi người ngạc nhiên. A. Điều gì; B. Liệu có (sai cấu trúc); C. Việc (mệnh đề bắt đầu bằng that); D. Bằng cách nào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "What"
+            },
+            {
+              "key": "C",
+              "text": "Whether is"
+            },
+            {
+              "key": "D",
+              "text": "How"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "376bd4deadf7ebce6abf8c75b608f493fd849822"
+        },
+        {
+          "question_text": "We are pleased to announce a new loyalty program. ------- . Members will earn one point for every dollar spent.",
+          "explanation": "Câu sau nói về điểm thưởng nên câu chèn phải giới thiệu chương trình, cụ thể là ngày bắt đầu.",
+          "translation": "Chúng tôi vui mừng công bố chương trình khách hàng thân thiết mới. ------- . Thành viên sẽ nhận một điểm cho mỗi đô la chi tiêu. A. Chương trình bắt đầu từ ngày 1 tháng Sáu; B. Cửa hàng nằm ở trung tâm thành phố; C. Nhà sáng lập bắt đầu công ty vào năm 1990; D. Phí vận chuyển vẫn không thay đổi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The program begins on June 1."
+            },
+            {
+              "key": "B",
+              "text": "The store is located downtown."
+            },
+            {
+              "key": "C",
+              "text": "Our founder started the company in 1990."
+            },
+            {
+              "key": "D",
+              "text": "Shipping rates have not changed."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "38769bd73fdffad00fb6608a0c678847218ba86a"
+        },
+        {
+          "question_text": "The funds were divided ------- the three departments.",
+          "explanation": "Ba đối tượng: among.",
+          "translation": "Nguồn kinh phí được chia ------- ba phòng ban. A. giữa (thường dùng cho hai); B. trong suốt; C. giữa/cho (từ ba đối tượng trở lên); D. xuyên qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "among"
+            },
+            {
+              "key": "B",
+              "text": "between"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "through"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3911d6c4cbecedcebe7e4657ee67508cc0fd1f4c"
+        },
+        {
+          "question_text": "------- matters most is whether the system remains accessible.",
+          "explanation": "What đứng đầu mệnh đề danh từ và diễn tả điều quan trọng nhất. Dịch: Điều quan trọng nhất là hệ thống có tiếp tục truy cập được hay không.",
+          "translation": "------- quan trọng nhất là liệu hệ thống có tiếp tục truy cập được hay không. A. Cái nào; B. Điều mà; C. Ai; D. Của ai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Which"
+            },
+            {
+              "key": "B",
+              "text": "Who"
+            },
+            {
+              "key": "C",
+              "text": "Whose"
+            },
+            {
+              "key": "D",
+              "text": "What"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/exercises",
+          "independent_review": "pending",
+          "fingerprint": "39aaac4ef6767f349f52b9ddde958d76e552ddc0"
+        },
+        {
+          "question_text": "Some customers reported delays. ------- . We have since hired extra drivers.",
+          "explanation": "Giải thích nguyên nhân dẫn đến việc thuê thêm tài xế.",
+          "translation": "Một số khách hàng báo việc giao hàng bị chậm. ------- . Từ đó, chúng tôi đã tuyển thêm tài xế. A. Nguyên nhân là thiếu nhân sự; B. Thực đơn đã thay đổi; C. Văn phòng mở cửa lúc chín giờ; D. Chỗ đỗ xe có hạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The cause was a shortage of staff."
+            },
+            {
+              "key": "B",
+              "text": "The menu has changed."
+            },
+            {
+              "key": "C",
+              "text": "Our offices open at nine."
+            },
+            {
+              "key": "D",
+              "text": "Parking is limited."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3a5a08f408d3bbfa3bfb1f3c26307d75d4f571bb"
+        },
+        {
+          "question_text": "------- the reviewers recommend will determine our next steps.",
+          "explanation": "What đóng vai trò tân ngữ của recommend và là chủ ngữ của mệnh đề chính. Dịch: Những gì hội đồng đánh giá đề xuất sẽ quyết định bước tiếp theo.",
+          "translation": "------- những người phản biện đề xuất sẽ quyết định các bước tiếp theo. A. Của ai; B. Ở đâu; C. Những gì; D. Rằng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "What"
+            },
+            {
+              "key": "B",
+              "text": "Whose"
+            },
+            {
+              "key": "C",
+              "text": "Where"
+            },
+            {
+              "key": "D",
+              "text": "That"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3c175408ab3660ac880698b47f34349fc74934a2"
+        },
+        {
+          "question_text": "Under no circumstances ------- the archive keys leave this building.",
+          "explanation": "Cụm phủ định đầu câu yêu cầu đảo may lên trước chủ ngữ. Dịch: Trong mọi trường hợp, chìa khóa kho lưu trữ đều không được rời khỏi tòa nhà.",
+          "translation": "Trong bất kỳ trường hợp nào cũng không ------- chìa khóa kho lưu trữ rời khỏi tòa nhà. A. những chìa khóa có thể (không đảo); B. những chìa khóa có lẽ (không đảo); C. được phép (đảo ngữ); D. đã/có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the keys may"
+            },
+            {
+              "key": "B",
+              "text": "the keys might"
+            },
+            {
+              "key": "C",
+              "text": "may"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3c49933a48d37e74033a9f40f7268ef4d91cf1bb"
+        },
+        {
+          "question_text": "------- the supplier change its payment terms, we will update the purchase order.",
+          "explanation": "Should + chủ ngữ + V là đảo ngữ điều kiện loại 1. Dịch: Nếu nhà cung cấp thay đổi điều khoản thanh toán, chúng tôi sẽ cập nhật đơn mua hàng.",
+          "translation": "------- nhà cung cấp thay đổi điều khoản thanh toán, chúng tôi sẽ cập nhật đơn đặt hàng. A. Nếu; B. Nếu đã; C. Nếu (giả định); D. Trừ khi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Were"
+            },
+            {
+              "key": "C",
+              "text": "Should"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3cceee0d3e95262c316f0b66c3cd884c60365cd9"
+        },
+        {
+          "question_text": "The package ------- from Berlin has arrived.",
+          "explanation": "The package bị gửi: sent.",
+          "translation": "Bưu kiện ------- từ Berlin đã đến. A. đang gửi; B. được gửi; C. để gửi; D. gửi (chia ngôi).",
+          "options": [
+            {
+              "key": "A",
+              "text": "sending"
+            },
+            {
+              "key": "B",
+              "text": "sent"
+            },
+            {
+              "key": "C",
+              "text": "to send"
+            },
+            {
+              "key": "D",
+              "text": "sends"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3da3369ae2a45ccc0b6824fd2c24d714fb80cda9"
+        },
+        {
+          "question_text": "------- the company needs is a stronger marketing plan.",
+          "explanation": "What + S + V + is: câu giả chẻ.",
+          "translation": "------- công ty cần là một kế hoạch tiếp thị mạnh hơn. A. Điều mà; B. Rằng; C. Cái nào; D. Nó.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "Which"
+            },
+            {
+              "key": "C",
+              "text": "It"
+            },
+            {
+              "key": "D",
+              "text": "What"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3fe87d7ead1520240b4d1d7e920ecc3cf369e8d6"
+        },
+        {
+          "question_text": "------- its high operating costs, the clinic expanded its weekend hours.",
+          "explanation": "Despite đứng trước cụm danh từ its high operating costs. Dịch: Mặc dù chi phí hoạt động cao, phòng khám vẫn mở rộng giờ cuối tuần.",
+          "translation": "------- chi phí vận hành cao, phòng khám vẫn mở rộng giờ hoạt động cuối tuần. A. Mặc dù (cần mệnh đề); B. Bất chấp; C. Bởi vì (cần mệnh đề); D. Trừ khi (cần mệnh đề).",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Because"
+            },
+            {
+              "key": "C",
+              "text": "Despite"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3ff38cbabd6550ccbb9cb051bec31d450314f286"
+        },
+        {
+          "question_text": "Anyone ------- to apply must submit a résumé by Friday.",
+          "explanation": "Anyone who wishes to apply được rút gọn thành anyone wishing to apply vì người đó chủ động mong muốn ứng tuyển. Wishing là hiện tại phân từ.",
+          "translation": "Bất kỳ ai ------- nộp đơn phải gửi sơ yếu lý lịch trước thứ Sáu. A. đã muốn; B. muốn (dạng -ing); C. muốn (chia ngôi); D. để muốn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wished"
+            },
+            {
+              "key": "B",
+              "text": "wishes"
+            },
+            {
+              "key": "C",
+              "text": "to wish"
+            },
+            {
+              "key": "D",
+              "text": "wishing"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "41ce6b6a925cc36e37452f2ff7a76ed5b392f87d"
+        },
+        {
+          "question_text": "Our warehouse will be closed next Monday. ------- . Orders will resume shipping on Tuesday.",
+          "explanation": "Giải thích lý do đóng cửa, liên kết với thông báo đóng cửa.",
+          "translation": "Kho hàng của chúng tôi sẽ đóng cửa vào thứ Hai tới. ------- . Các đơn hàng sẽ được gửi trở lại từ thứ Ba. A. Có chỗ đỗ xe tại cơ sở; B. Chúng tôi nhận trả hàng miễn phí; C. Nhiều khách thích đặt hàng trực tuyến; D. Nguyên nhân là đợt nâng cấp hệ thống đã lên lịch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Parking is available on site."
+            },
+            {
+              "key": "B",
+              "text": "This is due to a scheduled system upgrade."
+            },
+            {
+              "key": "C",
+              "text": "We offer free returns."
+            },
+            {
+              "key": "D",
+              "text": "Many customers prefer online orders."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "43e6cd3b40dc632743c2383feb7ad0d97a14c701"
+        },
+        {
+          "question_text": "It was last Friday ------- the contract was signed.",
+          "explanation": "It-cleft với trạng ngữ thời gian: that.",
+          "translation": "Chính vào thứ Sáu tuần trước ------- hợp đồng đã được ký. A. khi; B. điều gì; C. ai; D. mà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/exercises",
+          "independent_review": "pending",
+          "fingerprint": "44ac9e183890af627329d894b322eccd6e2c73e6"
+        },
+        {
+          "question_text": "The first employee ------- the office usually turns on the lights.",
+          "explanation": "Sau the first employee, dùng to + động từ để rút gọn mệnh đề quan hệ chỉ người đầu tiên làm việc gì. To arrive at nghĩa là đến văn phòng.",
+          "translation": "Nhân viên đầu tiên ------- văn phòng thường bật đèn. A. tới (dạng -ing); B. đến (sai cấu trúc); C. đã đến; D. tới (to-infinitive).",
+          "options": [
+            {
+              "key": "A",
+              "text": "arriving at"
+            },
+            {
+              "key": "B",
+              "text": "arrives at to"
+            },
+            {
+              "key": "C",
+              "text": "to arrive at"
+            },
+            {
+              "key": "D",
+              "text": "arrived at"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "45918cde1e5030c149b49038414bce8b66bd4b42"
+        },
+        {
+          "question_text": "The agency recommended that the application ------- before the end of the month.",
+          "explanation": "Be filed (bị động giả định).",
+          "translation": "Cơ quan khuyến nghị đơn đăng ký ------- trước cuối tháng. A. được nộp (thiếu be); B. được nộp (giả định bị động); C. được nộp (hiện tại); D. đang nộp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be filed"
+            },
+            {
+              "key": "B",
+              "text": "filed"
+            },
+            {
+              "key": "C",
+              "text": "is filed"
+            },
+            {
+              "key": "D",
+              "text": "filing"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/quiz",
+          "independent_review": "pending",
+          "fingerprint": "47e2271483cbfc6e884d2855d475f1624acb79d3"
+        },
+        {
+          "question_text": "The inspector recommended that the damaged railing ------- replaced at once.",
+          "explanation": "Recommend that + chủ ngữ + be + V3 dùng thể giả định bị động. Dịch: Thanh tra đề xuất thay ngay lan can bị hỏng.",
+          "translation": "Thanh tra viên khuyến nghị lan can hư hỏng ------- thay ngay lập tức. A. được (hiện tại); B. đã được; C. được (giả định); D. đang được.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "being"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/exercises",
+          "independent_review": "pending",
+          "fingerprint": "4ccbd20d9cfd4398912cfa53cbf27984bb789eb6"
+        },
+        {
+          "question_text": "The director insisted that the report ------- submitted by Friday.",
+          "explanation": "Sau insisted that mang nghĩa yêu cầu, dùng thể giả định với be + phân từ quá khứ trong câu bị động. Be submitted nghĩa là báo cáo phải được nộp trước thứ Sáu.",
+          "translation": "Giám đốc khăng khăng yêu cầu báo cáo ------- nộp trước thứ Sáu. A. được (hiện tại đơn); B. đã được; C. được (giả định); D. đang được.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "being"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/exercises",
+          "independent_review": "pending",
+          "fingerprint": "4d1db36017e78f062334515b590dd0b110c9bea1"
+        },
+        {
+          "question_text": "Anyone ------- to inspect the prototype must sign the visitor log.",
+          "explanation": "Wishing diễn tả người có mong muốn, rút gọn từ who wishes. Dịch: Bất kỳ ai muốn xem mẫu thử đều phải ký sổ khách.",
+          "translation": "Bất kỳ ai ------- kiểm tra nguyên mẫu phải ký vào sổ khách. A. muốn (nguyên mẫu); B. đã muốn; C. muốn (chia ngôi); D. muốn (dạng -ing).",
+          "options": [
+            {
+              "key": "A",
+              "text": "wish"
+            },
+            {
+              "key": "B",
+              "text": "wishing"
+            },
+            {
+              "key": "C",
+              "text": "wished"
+            },
+            {
+              "key": "D",
+              "text": "wishes"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "55d38aa258d757a1d8f4c3cfbbabdea42f58c947"
+        },
+        {
+          "question_text": "Had the team ------- the deadline, the client would have been pleased.",
+          "explanation": "Trong đảo ngữ điều kiện loại ba, Had + chủ ngữ + phân từ quá khứ thay cho If + quá khứ hoàn thành. Met là phân từ quá khứ của meet, nghĩa là đáp ứng thời hạn.",
+          "translation": "Nếu nhóm đã ------- hạn chót, khách hàng hẳn đã hài lòng. A. đáp ứng/đúng hạn (quá khứ phân từ); B. đáp ứng (nguyên mẫu); C. đang đáp ứng; D. để đáp ứng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "meet"
+            },
+            {
+              "key": "B",
+              "text": "meeting"
+            },
+            {
+              "key": "C",
+              "text": "to meet"
+            },
+            {
+              "key": "D",
+              "text": "met"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "57371779cacc052017f88a3299d14d693577583e"
+        },
+        {
+          "question_text": "Your reimbursement request has been received. ------- . You will get an email once the review is complete.",
+          "explanation": "Câu kiểm tra hóa đơn liên kết việc tiếp nhận yêu cầu và thông báo kết quả. Dịch: Bộ phận tài chính sẽ kiểm tra các hóa đơn ngay bây giờ.",
+          "translation": "Yêu cầu hoàn trả chi phí của bạn đã được tiếp nhận. ------- . Bạn sẽ nhận email sau khi việc xét duyệt hoàn tất. A. Khách tham quan có thể mua vé trực tuyến; B. Thực đơn trưa đổi mỗi ngày; C. Nhóm tài chính sẽ xác minh biên lai ngay bây giờ; D. Quầy lễ tân ở tầng hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitors can purchase tickets online."
+            },
+            {
+              "key": "B",
+              "text": "The lunch menu changes daily."
+            },
+            {
+              "key": "C",
+              "text": "The reception desk is on the second floor."
+            },
+            {
+              "key": "D",
+              "text": "Our finance team will now verify the receipts."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "5781ffc1bc1371f2c04d2d90ae8ba821638b9679"
+        },
+        {
+          "question_text": "Mr. Nam, ------- the committee, announced the results.",
+          "explanation": "Mr. Nam chủ trì: chairing.",
+          "translation": "Ông Nam, ------- ủy ban, đã công bố kết quả. A. chủ tịch (danh từ); B. đã chủ trì; C. đang chủ trì; D. để chủ trì.",
+          "options": [
+            {
+              "key": "A",
+              "text": "chair"
+            },
+            {
+              "key": "B",
+              "text": "chairing"
+            },
+            {
+              "key": "C",
+              "text": "chaired"
+            },
+            {
+              "key": "D",
+              "text": "to chair"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "57fa19daad7eec28e533f54d0f02324a990c0a9b"
+        },
+        {
+          "question_text": "The manager asked ------- the report had been completed.",
+          "explanation": "Hỏi có/không: if (hoặc whether).",
+          "translation": "Người quản lý hỏi ------- báo cáo đã được hoàn thành chưa. A. rằng; B. liệu rằng; C. cái gì; D. ai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "who"
+            },
+            {
+              "key": "D",
+              "text": "if"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "5ae994d6e6913d53b5774be0a20d93ce726c509a"
+        },
+        {
+          "question_text": "------- anyone require a receipt, please contact the cashier.",
+          "explanation": "Should anyone require tương đương If anyone requires trong lời hướng dẫn lịch sự. Dịch: Nếu ai cần biên lai, vui lòng liên hệ thu ngân.",
+          "translation": "------- bất kỳ ai cần biên lai, vui lòng liên hệ thu ngân. A. Nếu đã; B. Nếu là; C. Nếu (đảo ngữ với should); D. Có phải.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5b64fa7794730dc3081db493faaa109753447f5f"
+        },
+        {
+          "question_text": "Please complete the attached survey. ------- . Your answers will remain confidential.",
+          "explanation": "Thông tin liên quan đến khảo sát đang được nói đến.",
+          "translation": "Vui lòng hoàn thành khảo sát đính kèm. ------- . Câu trả lời của bạn sẽ được giữ bí mật. A. Thứ Sáu được mặc trang phục thoải mái; B. Công ty có ba văn phòng; C. Khảo sát chỉ mất chưa đến năm phút; D. Có sẵn máy in.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fridays are casual days."
+            },
+            {
+              "key": "B",
+              "text": "It should take less than five minutes."
+            },
+            {
+              "key": "C",
+              "text": "The company has three offices."
+            },
+            {
+              "key": "D",
+              "text": "Printers are available."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5b8d1af6d4bf77dc23eb812a58b926e28e8fd472"
+        },
+        {
+          "question_text": "The training session was a success. ------- . Participants rated it highly.",
+          "explanation": "Số lượng người tham dự hỗ trợ cho việc thành công.",
+          "translation": "Buổi đào tạo đã diễn ra thành công. ------- . Người tham dự đánh giá rất cao. A. Đỗ xe miễn phí; B. Thời tiết ấm áp; C. Doanh số của chúng tôi tăng; D. Hơn 100 nhân viên đã tham dự.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Parking was free."
+            },
+            {
+              "key": "B",
+              "text": "The weather was warm."
+            },
+            {
+              "key": "C",
+              "text": "Over 100 employees attended."
+            },
+            {
+              "key": "D",
+              "text": "Our sales rose."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5cc4e565eae83e5bc003f3d0bd1531c170f587b6"
+        },
+        {
+          "question_text": "The man ------- to the client is our director.",
+          "explanation": "Mệnh đề the man who is speaking to the client được rút gọn thành the man speaking to the client. Speaking mang nghĩa người đàn ông đang nói chuyện với khách hàng.",
+          "translation": "Người đàn ông ------- với khách hàng là giám đốc của chúng tôi. A. để nói chuyện; B. được nói; C. nói (chia ngôi); D. đang nói chuyện.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to speak"
+            },
+            {
+              "key": "B",
+              "text": "spoken"
+            },
+            {
+              "key": "C",
+              "text": "speaking"
+            },
+            {
+              "key": "D",
+              "text": "speaks"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5d7c603d06f2ffbaa6c0907a3cb997c3e880f512"
+        },
+        {
+          "question_text": "We sent ------- invitations to all clients last week.",
+          "explanation": "Our invitations: chủ ngữ We; sở hữu our.",
+          "translation": "Tuần trước, chúng tôi đã gửi các thiệp mời ------- tới tất cả khách hàng. A. nó là; B. của nó; C. của chúng tôi; D. của họ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it's"
+            },
+            {
+              "key": "B",
+              "text": "our"
+            },
+            {
+              "key": "C",
+              "text": "its"
+            },
+            {
+              "key": "D",
+              "text": "their"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5d99d3804357058c7020e27c7a58fdd7e5f96824"
+        },
+        {
+          "question_text": "It was Ms. Park ------- first noticed the error.",
+          "explanation": "Nhấn mạnh người: who.",
+          "translation": "Chính bà Park ------- phát hiện lỗi đầu tiên. A. người mà; B. cái mà; C. điều gì; D. có...của.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5fad13ad3230f34303bdf5db08f1966dae15a599"
+        },
+        {
+          "question_text": "No sooner had the manager arrived ------- the meeting started.",
+          "explanation": "Cặp đảo ngữ no sooner ... than diễn tả hai việc xảy ra liên tiếp. Người quản lý vừa đến thì cuộc họp bắt đầu.",
+          "translation": "Người quản lý vừa đến ------- cuộc họp đã bắt đầu. A. khi; B. sau đó; C. thì/ngay lúc đó (than); D. trong khi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "then"
+            },
+            {
+              "key": "C",
+              "text": "while"
+            },
+            {
+              "key": "D",
+              "text": "than"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "602b48bb712ebc17df809a9afa98da1b915921e7"
+        },
+        {
+          "question_text": "What we aim to achieve ------- to double sales this year.",
+          "explanation": "What-clause làm chủ ngữ số ít: is.",
+          "translation": "Điều chúng ta muốn đạt được ------- tăng gấp đôi doanh số năm nay. A. là (số ít); B. là (số nhiều); C. làm; D. có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/quiz",
+          "independent_review": "pending",
+          "fingerprint": "6166eba70e940a2d0dfadfd7f0bcd7395d5e61c9"
+        },
+        {
+          "question_text": "Applicants ------- the position must have a degree.",
+          "explanation": "Applicants chủ động tìm việc: seeking.",
+          "translation": "Ứng viên ------- vị trí đó phải có bằng cấp. A. tìm kiếm (nguyên mẫu); B. đã tìm kiếm; C. đang tìm kiếm; D. để tìm kiếm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "seek"
+            },
+            {
+              "key": "B",
+              "text": "sought"
+            },
+            {
+              "key": "C",
+              "text": "to seek"
+            },
+            {
+              "key": "D",
+              "text": "seeking"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "639689aedf736b3c0a25fbd3be2e236ab17722f1"
+        },
+        {
+          "question_text": "We regret to inform you that your order is delayed. ------- . We will notify you once it ships.",
+          "explanation": "Xin lỗi là mục đích thư sau thông báo trễ.",
+          "translation": "Chúng tôi rất tiếc phải thông báo đơn hàng của bạn bị chậm. ------- . Chúng tôi sẽ báo khi hàng được gửi. A. Có bán thẻ quà tặng; B. Công ty chúng tôi được thành lập năm ngoái; C. Nhiều nhãn hiệu đang giảm giá; D. Chúng tôi xin lỗi vì sự bất tiện này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Gift cards are available."
+            },
+            {
+              "key": "B",
+              "text": "We apologize for the inconvenience."
+            },
+            {
+              "key": "C",
+              "text": "Our company was founded last year."
+            },
+            {
+              "key": "D",
+              "text": "Many brands are on sale."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/quiz",
+          "independent_review": "pending",
+          "fingerprint": "64d792a21cb1dd8ef2b1a732d0016f851e4e8ebb"
+        },
+        {
+          "question_text": "Orders placed before noon ship the same day. -------, orders placed later ship the next day.",
+          "explanation": "Hai trường hợp đối lập: In contrast.",
+          "translation": "Đơn đặt trước trưa được gửi trong ngày. -------, đơn đặt sau thời điểm đó được gửi hôm sau. A. Vì vậy; B. Ngược lại; C. Hơn nữa; D. Do đó.",
+          "options": [
+            {
+              "key": "A",
+              "text": "In contrast"
+            },
+            {
+              "key": "B",
+              "text": "Therefore"
+            },
+            {
+              "key": "C",
+              "text": "Furthermore"
+            },
+            {
+              "key": "D",
+              "text": "Hence"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#linking-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "651c0fbb9c5320b45964804cc5189834c419adb4"
+        },
+        {
+          "question_text": "Under no circumstances ------- customer data be shared.",
+          "explanation": "Cụm phủ định Under no circumstances ở đầu câu yêu cầu đảo trợ động từ. Should customer data be shared tạo nghĩa tuyệt đối không được chia sẻ dữ liệu khách hàng.",
+          "translation": "Tuyệt đối không được ------- chia sẻ dữ liệu khách hàng. A. đã; B. đang/là; C. làm; D. nên/được phép (trợ động từ).",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "should"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "673dbf3d9686dcea1d770d9beaee730e9565081b"
+        },
+        {
+          "question_text": "------- the museum secured the artifacts earlier, it would have avoided the damage.",
+          "explanation": "Had + chủ ngữ + V3 thay cho If + quá khứ hoàn thành. Dịch: Nếu bảo tàng bảo quản hiện vật sớm hơn thì đã tránh được thiệt hại.",
+          "translation": "------- bảo tàng bảo vệ hiện vật sớm hơn, họ đã tránh được thiệt hại. A. Nếu; B. Nếu đã; C. Nếu (giả định); D. Nếu (cấu trúc thông thường).",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "If"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "6a89cfd867db8aba24a21369b9c7b1fc911e297d"
+        },
+        {
+          "question_text": "Only after the audit ------- the discrepancy.",
+          "explanation": "Khi Only after đứng đầu câu, mệnh đề chính cần đảo trợ động từ did lên trước chủ ngữ. Did they discover diễn tả việc họ chỉ phát hiện sai lệch sau đợt kiểm toán.",
+          "translation": "Chỉ sau cuộc kiểm toán ------- sự sai lệch. A. họ mới phát hiện (đảo ngữ đúng); B. họ phát hiện (không đảo); C. họ thực sự phát hiện (không đảo); D. phát hiện họ (sai trật tự).",
+          "options": [
+            {
+              "key": "A",
+              "text": "did they discover"
+            },
+            {
+              "key": "B",
+              "text": "they discovered"
+            },
+            {
+              "key": "C",
+              "text": "they did discover"
+            },
+            {
+              "key": "D",
+              "text": "discovered they"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "6d22cbc1da2d4de287d17378a674f785f5d87028"
+        },
+        {
+          "question_text": "------- the company not lost the key client, it would still be profitable.",
+          "explanation": "Mệnh đề điều kiện loại 3 phủ định: Had + S + not + V3.",
+          "translation": "------- công ty không đánh mất khách hàng quan trọng ấy, đến nay vẫn có lãi. A. Nếu đã; B. Nếu là; C. Nếu; D. Liệu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Were"
+            },
+            {
+              "key": "C",
+              "text": "Should"
+            },
+            {
+              "key": "D",
+              "text": "Would"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/quiz",
+          "independent_review": "pending",
+          "fingerprint": "6ea20eba04b57cbe345fa95333520d5abd917041"
+        }
+      ]
+    }
+  ]
+}

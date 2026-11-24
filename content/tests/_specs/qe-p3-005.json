@@ -1,0 +1,150 @@
+{
+  "slug": "qe-p3-005",
+  "content_path": "content/tests/toeic_part/qe-p3-005.json",
+  "title": "TOEIC Part 3 – Hội thoại 05",
+  "exam_type": "toeic_part",
+  "level": "650",
+  "difficulty": 3,
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Listening Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "office printer supply delivery",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "cafe reservation weather change",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "apartment water maintenance notice",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "bookstore author event volunteers",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "airport hotel shuttle timing",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "gym instructor substitution",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "electronics store digital receipt return",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "museum audio guide battery",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "meeting room projector adapter",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "dry cleaner rush pickup",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "community garden tool shed key",
+      "first_question": 31,
+      "last_question": 33,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "hotel late checkout and luggage",
+      "first_question": 34,
+      "last_question": 36,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "bakery custom cake pickup",
+      "first_question": 37,
+      "last_question": 39,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 9
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript tiếng Anh, câu hỏi và các phương án. Không xem đáp án, giải thích, bản dịch hoặc đặc tả trước khi nộp bài."
+  }
+}

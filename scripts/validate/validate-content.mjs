@@ -11,7 +11,7 @@
  * options.strict=true upgrades legacy quality/expansion warnings to errors.
  * Only the original, explicitly listed repository files qualify as legacy.
  * options.contentRoot defaults to repository content; sources are loaded from
- * sources/sources.json, or options.sources (array of source records).
+ * sources/*.json, or options.sources (array of source records).
  * options.db is OPTIONAL and never created from environment variables:
  *   { questionFingerprints: async (string[]) => [{fingerprint}],
  *     words: async ([{word,pos}]) => [{word,pos}] }
@@ -104,19 +104,29 @@ export async function validateContent(pathsOrPath, options = {}) {
     } catch { emit(ctx,'json','Unable to read or parse JSON'); }
   }
   const sources = new Map();
-  const catalogFile = join(root,'sources/sources.json');
-  let catalog = options.sources;
-  if (catalog === undefined) {
-    const supplied = documents.find(d=>d.rel === 'sources/sources.json');
-    if (supplied) catalog = supplied.data;
-    else {
-      try { catalog = JSON.parse(await readFile(catalogFile,'utf8')); }
-      catch (error) { if (error.code !== 'ENOENT') emit({file:catalogFile},'sources_read','Unable to read source catalog'); }
+  const sourceDirectory = join(root,'sources');
+  const catalogs = [];
+  if (options.sources !== undefined) {
+    catalogs.push({file:join(sourceDirectory,'sources.json'),data:options.sources});
+  } else {
+    let files = [];
+    try { files = await readdir(sourceDirectory,{withFileTypes:true}); }
+    catch (error) {
+      if (error.code !== 'ENOENT') emit({file:sourceDirectory},'sources_read','Unable to read sources directory');
+    }
+    const sourceFiles = files.filter(entry => entry.isFile() && !entry.name.startsWith('_') && entry.name.endsWith('.json'));
+    for (const entry of sourceFiles.sort((a,b) => a.name.localeCompare(b.name))) {
+      const file = join(sourceDirectory,entry.name);
+      const supplied = documents.find(document => document.ctx.file === file);
+      try {
+        const data = supplied?.data ?? JSON.parse((await readFile(file,'utf8')).replace(/^\uFEFF/,''));
+        catalogs.push({file,data});
+      } catch { emit({file},'sources_read','Unable to read source catalog'); }
     }
   }
-  if (catalog !== undefined) {
-    for (const [i,s] of array(catalog,{file:catalogFile},0).entries()) {
-      const ctx = {file:catalogFile,path:`$[${i}]`};
+  for (const {file,data} of catalogs) {
+    for (const [i,s] of array(data,{file},0).entries()) {
+      const ctx = {file,path:`$[${i}]`};
       if (!object(s)) { emit(ctx,'object','Expected a source object'); continue; }
       required(s,['key','title','license'],ctx);
       if (sources.has(s.key)) emit(ctx,'duplicate_source',`Duplicate source key: ${s.key}`);

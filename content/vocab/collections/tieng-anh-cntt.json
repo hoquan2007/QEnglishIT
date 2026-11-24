@@ -1,0 +1,515 @@
+{
+  "slug": "tieng-anh-cntt",
+  "family": "it",
+  "title": "Tiếng Anh CNTT",
+  "description": "Từ vựng theo chủ đề lập trình, hạ tầng, bảo mật và dữ liệu.",
+  "color": "#0f766e",
+  "sort_order": 1,
+  "source": "original",
+  "lessons": [
+    {
+      "slug": "software-development",
+      "title": "Software development",
+      "title_vi": "Lập trình và phát triển phần mềm",
+      "sort_order": 1,
+      "words": [
+        {
+          "word": "repository",
+          "pos": "n"
+        },
+        {
+          "word": "deployment",
+          "pos": "n"
+        },
+        {
+          "word": "framework",
+          "pos": "n"
+        },
+        {
+          "word": "compiler",
+          "pos": "n"
+        },
+        {
+          "word": "dependency",
+          "pos": "n"
+        },
+        {
+          "word": "validation",
+          "pos": "n"
+        },
+        {
+          "word": "parameter",
+          "pos": "n"
+        },
+        {
+          "word": "interpreter",
+          "pos": "n"
+        },
+        {
+          "word": "syntax",
+          "pos": "n"
+        },
+        {
+          "word": "regression",
+          "pos": "n"
+        },
+        {
+          "word": "compatibility",
+          "pos": "n"
+        },
+        {
+          "word": "component",
+          "pos": "n"
+        },
+        {
+          "word": "architecture",
+          "pos": "n"
+        },
+        {
+          "word": "implementation",
+          "pos": "n"
+        },
+        {
+          "word": "developer",
+          "pos": "n"
+        },
+        {
+          "word": "version",
+          "pos": "n"
+        },
+        {
+          "word": "production",
+          "pos": "n"
+        },
+        {
+          "word": "exception",
+          "pos": "n"
+        },
+        {
+          "word": "artifact",
+          "pos": "n"
+        },
+        {
+          "word": "binary",
+          "pos": "adj"
+        },
+        {
+          "word": "collision",
+          "pos": "n"
+        },
+        {
+          "word": "dictionary",
+          "pos": "n"
+        },
+        {
+          "word": "editor",
+          "pos": "n"
+        },
+        {
+          "word": "flag",
+          "pos": "n"
+        },
+        {
+          "word": "imperative",
+          "pos": "adj"
+        },
+        {
+          "word": "integer",
+          "pos": "n"
+        },
+        {
+          "word": "listener",
+          "pos": "n"
+        },
+        {
+          "word": "modular",
+          "pos": "adj"
+        },
+        {
+          "word": "module",
+          "pos": "n"
+        },
+        {
+          "word": "mutable",
+          "pos": "adj"
+        },
+        {
+          "word": "pointer",
+          "pos": "n"
+        },
+        {
+          "word": "shell",
+          "pos": "n"
+        },
+        {
+          "word": "static",
+          "pos": "adj"
+        },
+        {
+          "word": "string",
+          "pos": "n"
+        },
+        {
+          "word": "symbolic",
+          "pos": "adj"
+        },
+        {
+          "word": "thread",
+          "pos": "n"
+        },
+        {
+          "word": "trace",
+          "pos": "n"
+        },
+        {
+          "word": "trigger",
+          "pos": "n"
+        },
+        {
+          "word": "verification",
+          "pos": "n"
+        },
+        {
+          "word": "concurrent",
+          "pos": "adj"
+        }
+      ]
+    },
+    {
+      "slug": "infrastructure-and-security",
+      "title": "Infrastructure and security",
+      "title_vi": "Hạ tầng, mạng và bảo mật",
+      "sort_order": 2,
+      "words": [
+        {
+          "word": "encryption",
+          "pos": "n"
+        },
+        {
+          "word": "server",
+          "pos": "n"
+        },
+        {
+          "word": "configuration",
+          "pos": "n"
+        },
+        {
+          "word": "request",
+          "pos": "n"
+        },
+        {
+          "word": "response",
+          "pos": "n"
+        },
+        {
+          "word": "token",
+          "pos": "n"
+        },
+        {
+          "word": "protocol",
+          "pos": "n"
+        },
+        {
+          "word": "cache",
+          "pos": "n"
+        },
+        {
+          "word": "monitoring",
+          "pos": "n"
+        },
+        {
+          "word": "reliability",
+          "pos": "n"
+        },
+        {
+          "word": "vulnerability",
+          "pos": "n"
+        },
+        {
+          "word": "permission",
+          "pos": "n"
+        },
+        {
+          "word": "logging",
+          "pos": "n"
+        },
+        {
+          "word": "packet",
+          "pos": "n"
+        },
+        {
+          "word": "domain",
+          "pos": "n"
+        },
+        {
+          "word": "administrator",
+          "pos": "n"
+        },
+        {
+          "word": "broadband",
+          "pos": "n"
+        },
+        {
+          "word": "buffer",
+          "pos": "n"
+        },
+        {
+          "word": "cascade",
+          "pos": "n"
+        },
+        {
+          "word": "cluster",
+          "pos": "n"
+        },
+        {
+          "word": "connector",
+          "pos": "n"
+        },
+        {
+          "word": "controller",
+          "pos": "n"
+        },
+        {
+          "word": "cookie",
+          "pos": "n"
+        },
+        {
+          "word": "driver",
+          "pos": "n"
+        },
+        {
+          "word": "expiration",
+          "pos": "n"
+        },
+        {
+          "word": "footprint",
+          "pos": "n"
+        },
+        {
+          "word": "gateway",
+          "pos": "n"
+        },
+        {
+          "word": "handshake",
+          "pos": "n"
+        },
+        {
+          "word": "hash",
+          "pos": "n"
+        },
+        {
+          "word": "header",
+          "pos": "n"
+        },
+        {
+          "word": "incident",
+          "pos": "n"
+        },
+        {
+          "word": "instance",
+          "pos": "n"
+        },
+        {
+          "word": "kernel",
+          "pos": "n"
+        },
+        {
+          "word": "modem",
+          "pos": "n"
+        },
+        {
+          "word": "outage",
+          "pos": "n"
+        },
+        {
+          "word": "privacy",
+          "pos": "n"
+        },
+        {
+          "word": "proxy",
+          "pos": "n"
+        },
+        {
+          "word": "quarantine",
+          "pos": "n"
+        },
+        {
+          "word": "socket",
+          "pos": "n"
+        },
+        {
+          "word": "workload",
+          "pos": "n"
+        }
+      ]
+    },
+    {
+      "slug": "data-and-operations",
+      "title": "Data and operations",
+      "title_vi": "Dữ liệu và vận hành kỹ thuật",
+      "sort_order": 3,
+      "words": [
+        {
+          "word": "query",
+          "pos": "n"
+        },
+        {
+          "word": "notification",
+          "pos": "n"
+        },
+        {
+          "word": "transaction",
+          "pos": "n"
+        },
+        {
+          "word": "prediction",
+          "pos": "n"
+        },
+        {
+          "word": "classification",
+          "pos": "n"
+        },
+        {
+          "word": "agile",
+          "pos": "adj"
+        },
+        {
+          "word": "archive",
+          "pos": "n"
+        },
+        {
+          "word": "atomic",
+          "pos": "adj"
+        },
+        {
+          "word": "baseline",
+          "pos": "n"
+        },
+        {
+          "word": "briefing",
+          "pos": "n"
+        },
+        {
+          "word": "categorization",
+          "pos": "n"
+        },
+        {
+          "word": "checklist",
+          "pos": "n"
+        },
+        {
+          "word": "compression",
+          "pos": "n"
+        },
+        {
+          "word": "constraint",
+          "pos": "n"
+        },
+        {
+          "word": "cursor",
+          "pos": "n"
+        },
+        {
+          "word": "directory",
+          "pos": "n"
+        },
+        {
+          "word": "duplication",
+          "pos": "n"
+        },
+        {
+          "word": "efficiency",
+          "pos": "n"
+        },
+        {
+          "word": "estimation",
+          "pos": "n"
+        },
+        {
+          "word": "gradient",
+          "pos": "n"
+        },
+        {
+          "word": "incremental",
+          "pos": "adj"
+        },
+        {
+          "word": "index",
+          "pos": "n"
+        },
+        {
+          "word": "inference",
+          "pos": "n"
+        },
+        {
+          "word": "load",
+          "pos": "n"
+        },
+        {
+          "word": "mirror",
+          "pos": "n"
+        },
+        {
+          "word": "notebook",
+          "pos": "n"
+        },
+        {
+          "word": "ownership",
+          "pos": "n"
+        },
+        {
+          "word": "palette",
+          "pos": "n"
+        },
+        {
+          "word": "partition",
+          "pos": "n"
+        },
+        {
+          "word": "persistence",
+          "pos": "n"
+        },
+        {
+          "word": "persistent",
+          "pos": "adj"
+        },
+        {
+          "word": "pixel",
+          "pos": "n"
+        },
+        {
+          "word": "portal",
+          "pos": "n"
+        },
+        {
+          "word": "queue",
+          "pos": "n"
+        },
+        {
+          "word": "quota",
+          "pos": "n"
+        },
+        {
+          "word": "registry",
+          "pos": "n"
+        },
+        {
+          "word": "replication",
+          "pos": "n"
+        },
+        {
+          "word": "responsive",
+          "pos": "adj"
+        },
+        {
+          "word": "revision",
+          "pos": "n"
+        },
+        {
+          "word": "vector",
+          "pos": "n"
+        }
+      ]
+    }
+  ]
+}

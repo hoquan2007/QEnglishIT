@@ -3,7 +3,7 @@ import { Headphones, BookOpenText } from "lucide-react";
 import { getMyAttempts, getTests } from "@/lib/queries";
 import { TestGrid } from "@/components/tests/TestGrid";
 import { PageHero } from "@/components/PageHero";
-import { PARTS } from "@/lib/toeic";
+import { getToeicParts, PARTS } from "@/lib/toeic";
 
 const TIPS: Record<number, string[]> = {
   1: ["Quan sát hình trước khi nghe: người, hành động, vật, vị trí.", "Cẩn thận bẫy âm giống nhau và động từ bị động 'is being'."],
@@ -39,7 +39,7 @@ export default async function Page({ params }: { params: Promise<{ n: string }> 
           </ul>
         }
       />
-      <TestGrid tests={tests} attempts={attempts.filter((a) => a.parts.length === 1 && a.parts[0] === n)} fixedParts={[n]} />
+      <TestGrid tests={tests.filter((test) => getToeicParts(test).includes(n))} attempts={attempts.filter((a) => a.parts.length === 1 && a.parts[0] === n)} fixedParts={[n]} />
     </>
   );
 }

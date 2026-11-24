@@ -150,6 +150,22 @@ test('matrix cycles exact levels without borrowing from surplus levels', () => {
   });
 });
 
+test('incremental batches continue numbering and never reuse previous questions', () => {
+  const grammar = MATRIX.grammar_test.levels.flatMap((level, j) =>
+    Array.from({ length: 80 }, (_, i) => grammarRow(j * 80 + i, level)));
+  const first = buildBatch({ grammar, vocab: [] }, { count: 4, type: 'grammar' });
+  const existing = first.tests.map(test => ({ test }));
+  const next = buildBatch({ grammar, vocab: [], existing }, { count: 4, start: 4, type: 'grammar' });
+  assert.deepEqual(next.tests.map(t => t.slug), [
+    'qe-grammar-450-002', 'qe-grammar-600-002', 'qe-grammar-700-002', 'qe-grammar-800-002',
+  ]);
+  const fingerprints = [...first.tests, ...next.tests].flatMap(t =>
+    t.groups.flatMap(g => g.questions.map(questionFingerprint)));
+  assert.equal(new Set(fingerprints).size, 320);
+  assert.throws(() => buildBatch({ grammar, vocab: [], existing },
+    { count: 4, start: 3, type: 'grammar' }), /Existing test slug/);
+});
+
 test('missing grammar translations and non-original sources are ineligible', () => {
   const data = banks();
   for (let i = 0; i < 41; i++) delete data.grammar[i].translation;
@@ -240,6 +256,10 @@ test('CLI rejects malformed counts and unknown flags', () => {
   for (const value of ['0', '-1', '1.5', '1x', '21', 'NaN']) assert.throws(() => parseArgs(['--count', value]));
   assert.throws(() => parseArgs(['--count']), /Missing value/);
   assert.throws(() => parseArgs(['--force']), /Unknown argument/);
+  assert.throws(() => parseArgs(['--start', '-1']), /nonnegative integer/);
+  assert.throws(() => buildBatch(banks(), { start: 20, count: 1 }), /first 20 tests/);
+  assert.deepEqual(parseArgs(['--count', '1', '--start', '4', '--type', 'grammar']),
+    { count: 1, start: 4, type: 'grammar' });
   assert.deepEqual(parseArgs(['--count', '1', '--type', 'vocab', '--dry-run']), { count: 1, type: 'vocab', dryRun: true });
 });
 
@@ -247,12 +267,24 @@ test('current repository bank capacity is measured without writing production co
   const root = resolve(dirname(fileURLToPath(import.meta.url)), '../content');
   const data = await loadBanks(root);
   assert.ok(data.grammar.length > 0);
-  assert.throws(() => buildBatch(data), e => {
-    assert.equal(e.report.grammar_test.raw_rows, data.grammar.length);
-    assert.ok(e.report.grammar_test.raw_rows < 800);
-    assert.equal(e.report.grammar_test.required_questions, 800);
-    return true;
-  });
+  // Bank inventory changes as new lessons and tests are added. Both a full
+  // bank and a bank with shortages are valid states of this read-only check.
+  let inventory;
+  try {
+    inventory = buildBatch({ ...data, existing: [] }).report;
+  } catch (error) {
+    assert.match(error.message, /Insufficient local bank capacity/);
+    inventory = error.report;
+  }
+  for (const [type, required] of [['grammar_test', 800], ['vocab_test', 1000]]) {
+    const row = inventory[type];
+    assert.ok(row);
+    assert.equal(row.raw_rows, type === 'grammar_test' ? data.grammar.length : data.vocab.length);
+    assert.equal(row.required_questions, required);
+    for (const [level, need] of Object.entries(row.required_by_level)) {
+      assert.equal(row.shortage_by_level[level], Math.max(0, need - row.eligible_by_level[level]));
+    }
+  }
 });
 
 test('prospective real-bank five-test batch validates in isolation and preserves existing files', async t => {

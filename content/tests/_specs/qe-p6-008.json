@@ -1,0 +1,202 @@
+{
+  "slug": "qe-p6-008",
+  "content_path": "content/tests/toeic_part/qe-p6-008.json",
+  "title": "TOEIC Part 6 – Text Completion 08 (Training, Maintenance, and Business Growth)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "authoring_scope": "Four original texts, four blanks per text, one sentence insertion per text; questions numbered 1–16.",
+  "difficulty_rationale_vi": "Các đoạn ở mức B2 cao sử dụng điều kiện thời gian, liên kết tham chiếu và cụm từ công việc thường gặp. Câu chèn yêu cầu nhận diện từ nối và đại từ tham chiếu giữa các câu.",
+  "topic_distribution": {
+    "connector": 1,
+    "sentence-insertion": 4,
+    "word-form": 3,
+    "preposition": 2,
+    "verb-form": 3,
+    "comparison": 1,
+    "quantifier": 1,
+    "collocation": 1
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 6,
+      "category": "connector",
+      "context": "email: supervisor training",
+      "difficulty": 3
+    },
+    {
+      "number": 2,
+      "group_order": 1,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "email: supervisor training",
+      "difficulty": 4
+    },
+    {
+      "number": 3,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "email: supervisor training",
+      "difficulty": 4
+    },
+    {
+      "number": 4,
+      "group_order": 1,
+      "part": 6,
+      "category": "preposition",
+      "context": "email: supervisor training",
+      "difficulty": 3
+    },
+    {
+      "number": 5,
+      "group_order": 2,
+      "part": 6,
+      "category": "verb-form",
+      "context": "notice: data center maintenance",
+      "difficulty": 3
+    },
+    {
+      "number": 6,
+      "group_order": 2,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "notice: data center maintenance",
+      "difficulty": 5
+    },
+    {
+      "number": 7,
+      "group_order": 2,
+      "part": 6,
+      "category": "word-form",
+      "context": "notice: data center maintenance",
+      "difficulty": 4
+    },
+    {
+      "number": 8,
+      "group_order": 2,
+      "part": 6,
+      "category": "word-form",
+      "context": "notice: data center maintenance",
+      "difficulty": 3
+    },
+    {
+      "number": 9,
+      "group_order": 3,
+      "part": 6,
+      "category": "comparison",
+      "context": "article: coworking expansion",
+      "difficulty": 3
+    },
+    {
+      "number": 10,
+      "group_order": 3,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "article: coworking expansion",
+      "difficulty": 5
+    },
+    {
+      "number": 11,
+      "group_order": 3,
+      "part": 6,
+      "category": "verb-form",
+      "context": "article: coworking expansion",
+      "difficulty": 4
+    },
+    {
+      "number": 12,
+      "group_order": 3,
+      "part": 6,
+      "category": "quantifier",
+      "context": "article: coworking expansion",
+      "difficulty": 4
+    },
+    {
+      "number": 13,
+      "group_order": 4,
+      "part": 6,
+      "category": "preposition",
+      "context": "advertisement: software exhibition",
+      "difficulty": 3
+    },
+    {
+      "number": 14,
+      "group_order": 4,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "advertisement: software exhibition",
+      "difficulty": 5
+    },
+    {
+      "number": 15,
+      "group_order": 4,
+      "part": 6,
+      "category": "collocation",
+      "context": "advertisement: software exhibition",
+      "difficulty": 4
+    },
+    {
+      "number": 16,
+      "group_order": 4,
+      "part": 6,
+      "category": "verb-form",
+      "context": "advertisement: software exhibition",
+      "difficulty": 4
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 4,
+      "B": 4,
+      "C": 4,
+      "D": 4
+    },
+    "sequence": [
+      "B",
+      "C",
+      "D",
+      "A",
+      "C",
+      "D",
+      "A",
+      "B",
+      "D",
+      "A",
+      "B",
+      "C",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, đoạn văn tiếng Anh và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

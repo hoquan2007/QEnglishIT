@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-600-001",
+  "title": "Kiểm tra ngữ pháp 600 – 2",
+  "exam_type": "grammar_test",
+  "level": "600",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 2,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "While our representative ------- the contract, the client asked a question.",
+          "explanation": "While cùng asked diễn tả hành động đang diễn ra trong quá khứ, nên dùng was explaining.",
+          "translation": "Trong khi đại diện của chúng tôi đang giải thích hợp đồng, khách hàng đặt một câu hỏi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has explained"
+            },
+            {
+              "key": "B",
+              "text": "was explaining"
+            },
+            {
+              "key": "C",
+              "text": "explains"
+            },
+            {
+              "key": "D",
+              "text": "will explain"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#tense-agreement-part-5/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0314603670e5a9a253df3422bb3774b7b0640576"
+        },
+        {
+          "question_text": "The revised instructions describe the steps -------.",
+          "explanation": "Describe là động từ, cần trạng từ accurately để chỉ cách mô tả.",
+          "translation": "Hướng dẫn đã sửa đổi mô tả chính xác các bước thực hiện.",
+          "options": [
+            {
+              "key": "A",
+              "text": "accurate"
+            },
+            {
+              "key": "B",
+              "text": "accurately"
+            },
+            {
+              "key": "C",
+              "text": "accuracy"
+            },
+            {
+              "key": "D",
+              "text": "accurateness"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#adjectives-vs-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "03c3603f647d590e9529dae880bcccdcccfbcf35"
+        },
+        {
+          "question_text": "By noon yesterday, the restaurant ------- all its reserved tables for the gala.",
+          "explanation": "By noon yesterday là hạn chót trong quá khứ nên diễn tả việc đã hoàn tất trước mốc này bằng had prepared.",
+          "translation": "Đến trưa hôm qua, nhà hàng đã chuẩn bị xong tất cả các bàn được đặt cho buổi dạ tiệc.",
+          "options": [
+            {
+              "key": "A",
+              "text": "prepares"
+            },
+            {
+              "key": "B",
+              "text": "has prepared"
+            },
+            {
+              "key": "C",
+              "text": "had prepared"
+            },
+            {
+              "key": "D",
+              "text": "prepare"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-perfect/exercises",
+          "independent_review": "pending",
+          "fingerprint": "06a5bb4a959bc6c75b5595100679b9f65c5d1358"
+        },
+        {
+          "question_text": "The shipment had already ------- before the customer canceled the order.",
+          "explanation": "Sau had already phải dùng quá khứ phân từ, left là dạng phân từ của leave.",
+          "translation": "Lô hàng đã rời đi trước khi khách hàng hủy đơn đặt hàng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "left"
+            },
+            {
+              "key": "B",
+              "text": "leaves"
+            },
+            {
+              "key": "C",
+              "text": "leaving"
+            },
+            {
+              "key": "D",
+              "text": "leave"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-perfect/exercises",
+          "independent_review": "pending",
+          "fingerprint": "098922f8aaef864baa2b0b3ff62cfa25bae0cf80"
+        },
+        {
+          "question_text": "The intern submitted three ------- for next month's advertising campaign.",
+          "explanation": "Three yêu cầu danh từ số nhiều đếm được, vì vậy chọn proposals.",
+          "translation": "Thực tập sinh đã nộp ba đề xuất cho chiến dịch quảng cáo tháng tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "proposal"
+            },
+            {
+              "key": "B",
+              "text": "propose"
+            },
+            {
+              "key": "C",
+              "text": "proposed"
+            },
+            {
+              "key": "D",
+              "text": "proposals"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0a5dd478f8a53ffb8478e50619cc31e57d09d1ed"
+        },
+        {
+          "question_text": "Our legal advisors ------- the revised terms yet.",
+          "explanation": "Yet ở cuối câu phủ định thường đi với hiện tại hoàn thành, advisors số nhiều nên dùng haven't approved.",
+          "translation": "Các cố vấn pháp lý của chúng tôi vẫn chưa phê duyệt những điều khoản đã sửa đổi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven't approved"
+            },
+            {
+              "key": "B",
+              "text": "didn't approve"
+            },
+            {
+              "key": "C",
+              "text": "don't approve"
+            },
+            {
+              "key": "D",
+              "text": "aren't approving"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-perfect/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0c78d53592727c10d68ceefa8c2cb24d545bedea"
+        },
+        {
+          "question_text": "Our neighbors baked cookies ------- the firefighters.",
+          "explanation": "Bake tạo ra sản phẩm cho người hưởng lợi, dùng for.",
+          "translation": "Hàng xóm làm bánh quy cho những người lính cứu hỏa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0d26f94a954cd1e1327d76a15666e998a6708158"
+        },
+        {
+          "question_text": "We usually travel to the training center by ------- bus.",
+          "explanation": "Trong cụm chỉ phương tiện by bus, không dùng mạo từ trước bus.",
+          "translation": "Chúng tôi thường đi xe buýt đến trung tâm đào tạo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "an"
+            },
+            {
+              "key": "C",
+              "text": "the"
+            },
+            {
+              "key": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#articles/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0dad21c4bb72341290e40554bd7c6af4dfd4133a"
+        },
+        {
+          "question_text": "The printers ------- continuously when the technician arrived.",
+          "explanation": "Hành động máy in chạy đang tiếp diễn khi kỹ thuật viên đến, nên dùng were running.",
+          "translation": "Các máy in đang chạy liên tục khi kỹ thuật viên đến.",
+          "options": [
+            {
+              "key": "A",
+              "text": "run"
+            },
+            {
+              "key": "B",
+              "text": "were running"
+            },
+            {
+              "key": "C",
+              "text": "have run"
+            },
+            {
+              "key": "D",
+              "text": "are running"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-continuous/quiz",
+          "independent_review": "pending",
+          "fingerprint": "139176f6950550862dfef5fb2cd813983166ec99"
+        },
+        {
+          "question_text": "The laptop belongs to Mr. Khoa, so please return it to -------.",
+          "explanation": "Sau giới từ to cần đại từ tân ngữ him để thay cho Mr. Khoa.",
+          "translation": "Máy tính xách tay thuộc về ông Khoa, vì vậy hãy trả lại nó cho ông ấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "his"
+            },
+            {
+              "key": "B",
+              "text": "he"
+            },
+            {
+              "key": "C",
+              "text": "himself"
+            },
+            {
+              "key": "D",
+              "text": "him"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#pronouns-reflexives/quiz",
+          "independent_review": "pending",
+          "fingerprint": "13caa53347608e59cbd12474ec4b0c78b5e15827"
+        },
+        {
+          "question_text": "They bought a ------- desk for the studio.",
+          "explanation": "Second-hand là tính từ ghép chỉ đồ đã qua sử dụng.",
+          "translation": "Họ mua một chiếc bàn đã qua sử dụng cho phòng làm việc.",
+          "options": [
+            {
+              "key": "A",
+              "text": "second-hand"
+            },
+            {
+              "key": "B",
+              "text": "second hands"
+            },
+            {
+              "key": "C",
+              "text": "seconds-hand"
+            },
+            {
+              "key": "D",
+              "text": "secondly-hand"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#compound-adjectives-and-hyphens/exercises",
+          "independent_review": "pending",
+          "fingerprint": "159773110ac36c48b53b91304db2fd4621f98cde"
+        },
+        {
+          "question_text": "This is a ------- solution for busy parents.",
+          "explanation": "Low-cost là tính từ ghép bổ nghĩa cho solution.",
+          "translation": "Đây là giải pháp chi phí thấp cho các phụ huynh bận rộn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "low costs"
+            },
+            {
+              "key": "B",
+              "text": "low-cost"
+            },
+            {
+              "key": "C",
+              "text": "lower costing"
+            },
+            {
+              "key": "D",
+              "text": "costs-low"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#compound-adjectives-and-hyphens/quiz",
+          "independent_review": "pending",
+          "fingerprint": "175f4f4848de6e8f55fe5ae0a6b38ea133112f2f"
+        },
+        {
+          "question_text": "The accounting team meets ------- Thursdays to review expenses.",
+          "explanation": "Trước thứ trong tuần dùng giới từ on.",
+          "translation": "Nhóm kế toán họp vào các thứ Năm để rà soát chi phí.",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-time-place/exercises",
+          "independent_review": "pending",
+          "fingerprint": "17614d0f3ad6ee002259f2662e5429f250e586ec"
+        },
+        {
+          "question_text": "The exchange rate ------- steadily over the last several weeks.",
+          "explanation": "Over the last several weeks nối khoảng thời gian quá khứ với hiện tại nên dùng has risen.",
+          "translation": "Tỷ giá hối đoái đã tăng đều trong vài tuần qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rises"
+            },
+            {
+              "key": "B",
+              "text": "has risen"
+            },
+            {
+              "key": "C",
+              "text": "rose"
+            },
+            {
+              "key": "D",
+              "text": "is rising"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-perfect/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1ce68ce72f6a8af0441b0e4b7b84fa1216ca8b6f"
+        },
+        {
+          "question_text": "Please send the final schedule ------- the volunteers.",
+          "explanation": "Send chuyển tài liệu đến người nhận nên dùng to.",
+          "translation": "Vui lòng gửi lịch cuối cùng cho các tình nguyện viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "upon"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/exercises",
+          "independent_review": "pending",
+          "fingerprint": "220bc900bc2ff586126ca36691c00fd1fd327e5a"
+        },
+        {
+          "question_text": "The technician described the problem ------- the supervisor.",
+          "explanation": "Describe + sự việc + to + người nghe.",
+          "translation": "Kỹ thuật viên mô tả sự cố cho người giám sát.",
+          "options": [
+            {
+              "key": "A",
+              "text": "upon"
+            },
+            {
+              "key": "B",
+              "text": "of"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/exercises",
+          "independent_review": "pending",
+          "fingerprint": "245c32f7972908d82f9e5f0a3a926f466ba7fbdb"
+        },
+        {
+          "question_text": "The exhibition includes ------- unusual collection of early cameras.",
+          "explanation": "Unusual bắt đầu bằng âm nguyên âm nên mạo từ bất định thích hợp là an.",
+          "translation": "Triển lãm có một bộ sưu tập máy ảnh đời đầu khác thường.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "several"
+            },
+            {
+              "key": "C",
+              "text": "no article"
+            },
+            {
+              "key": "D",
+              "text": "an"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#articles/quiz",
+          "independent_review": "pending",
+          "fingerprint": "298f8b26fa43c7ca8aa22444d49cbd17fe5b9d28"
+        },
+        {
+          "question_text": "We used a ------- tool to summarize the survey.",
+          "explanation": "Time-saving mô tả chức năng giúp tiết kiệm thời gian của tool.",
+          "translation": "Chúng tôi sử dụng công cụ tiết kiệm thời gian để tóm tắt khảo sát.",
+          "options": [
+            {
+              "key": "A",
+              "text": "times-saving"
+            },
+            {
+              "key": "B",
+              "text": "time-saved"
+            },
+            {
+              "key": "C",
+              "text": "time-saves"
+            },
+            {
+              "key": "D",
+              "text": "time-saving"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#compound-adjectives-and-hyphens/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2aedadf38f24536c67f6616ad8ca2080afd1cf96"
+        },
+        {
+          "question_text": "This year's conference drew ------- participants than last year's event.",
+          "explanation": "So sánh số lượng danh từ đếm được số nhiều với than cần more.",
+          "translation": "Hội nghị năm nay thu hút nhiều người tham dự hơn sự kiện năm ngoái.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "most"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#comparatives-superlatives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2b51f8b399a0da39de07936e96f07d4ba1b37184"
+        },
+        {
+          "question_text": "Every one of the safety helmets ------- a unique identification number.",
+          "explanation": "Every one là chủ ngữ số ít, nên động từ have chia thành has.",
+          "translation": "Mỗi chiếc mũ bảo hộ đều có một mã nhận dạng riêng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "having"
+            },
+            {
+              "key": "C",
+              "text": "are having"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#subject-verb-agreement/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2e6d02d7a420a4c9db69823d0035fe347e83d95f"
+        },
+        {
+          "question_text": "The clerk offered ------- a seat near the window.",
+          "explanation": "Offer + người + vật, dùng đại từ tân ngữ him.",
+          "translation": "Nhân viên đề nghị cho anh ấy một chỗ ngồi gần cửa sổ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he"
+            },
+            {
+              "key": "B",
+              "text": "him"
+            },
+            {
+              "key": "C",
+              "text": "his"
+            },
+            {
+              "key": "D",
+              "text": "him to"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2fa397f231617755ceb8787ee1de5d8d05e2c913"
+        },
+        {
+          "question_text": "The guide taught ------- a new card game.",
+          "explanation": "Teach + người + vật, người phải dùng đại từ them.",
+          "translation": "Hướng dẫn viên dạy họ một trò chơi bài mới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "they"
+            },
+            {
+              "key": "B",
+              "text": "their"
+            },
+            {
+              "key": "C",
+              "text": "them"
+            },
+            {
+              "key": "D",
+              "text": "theirs"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "306c4785316448d255fff16660331db6b53f7b2e"
+        },
+        {
+          "question_text": "We ------- any updates from the carrier since Monday.",
+          "explanation": "Since Monday yêu cầu hiện tại hoàn thành phủ định, dùng haven't received.",
+          "translation": "Chúng tôi chưa nhận được thông tin cập nhật nào từ đơn vị vận chuyển kể từ thứ Hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't receive"
+            },
+            {
+              "key": "B",
+              "text": "don't receive"
+            },
+            {
+              "key": "C",
+              "text": "aren't receiving"
+            },
+            {
+              "key": "D",
+              "text": "haven't received"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-perfect/quiz",
+          "independent_review": "pending",
+          "fingerprint": "31832033f86aaf83686fd6d2985eb32531550cae"
+        },
+        {
+          "question_text": "Tuan emailed the photos ------- his classmates.",
+          "explanation": "Email chuyển ảnh đến người nhận, dùng to.",
+          "translation": "Tuấn gửi ảnh qua email cho các bạn cùng lớp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "upon"
+            },
+            {
+              "key": "C",
+              "text": "of"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "32c3d4a0e94b336ecf635a30c6538987a12a5406"
+        },
+        {
+          "question_text": "------- Mekong River passes through several countries in Southeast Asia.",
+          "explanation": "Tên sông thường đi với mạo từ xác định the, nên chọn The Mekong River.",
+          "translation": "Sông Mê Kông chảy qua một số quốc gia ở Đông Nam Á.",
+          "options": [
+            {
+              "key": "A",
+              "text": "A"
+            },
+            {
+              "key": "B",
+              "text": "The"
+            },
+            {
+              "key": "C",
+              "text": "An"
+            },
+            {
+              "key": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#articles/exercises",
+          "independent_review": "pending",
+          "fingerprint": "32d3c2fe3a7102463df31619fc4abe368fdae811"
+        },
+        {
+          "question_text": "The survey results were ------- encouraging for the research team.",
+          "explanation": "Bổ nghĩa cho tính từ encouraging cần trạng từ highly để nhấn mạnh mức độ.",
+          "translation": "Kết quả khảo sát rất đáng khích lệ đối với nhóm nghiên cứu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "significant"
+            },
+            {
+              "key": "B",
+              "text": "significance"
+            },
+            {
+              "key": "C",
+              "text": "highly"
+            },
+            {
+              "key": "D",
+              "text": "signify"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#adjectives-vs-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "34a0430abbfdb7cf4615b653f83b15d2d8d1e5a2"
+        },
+        {
+          "question_text": "Ms. Bui prepared the shipping labels -------.",
+          "explanation": "Herself là đại từ phản thân nhấn mạnh chính bà Bùi tự chuẩn bị nhãn gửi hàng.",
+          "translation": "Chính bà Bùi đã chuẩn bị các nhãn vận chuyển.",
+          "options": [
+            {
+              "key": "A",
+              "text": "her"
+            },
+            {
+              "key": "B",
+              "text": "hers"
+            },
+            {
+              "key": "C",
+              "text": "herself"
+            },
+            {
+              "key": "D",
+              "text": "she"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#pronouns-reflexives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "36bce88e170b6036becd31d9de5f4d842f26dcc1"
+        },
+        {
+          "question_text": "------- member of the panel received a printed agenda.",
+          "explanation": "Member số ít đếm được nên dùng Each để chỉ từng thành viên.",
+          "translation": "Mỗi thành viên của hội đồng đều nhận được một chương trình nghị sự in sẵn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Each"
+            },
+            {
+              "key": "B",
+              "text": "Many"
+            },
+            {
+              "key": "C",
+              "text": "Both"
+            },
+            {
+              "key": "D",
+              "text": "Several"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#determiners-quantifiers/exercises",
+          "independent_review": "pending",
+          "fingerprint": "37274073fac63e65e1b3403b8c6cd07a99bb92d3"
+        },
+        {
+          "question_text": "We need a ------- estimate before ordering the supplies.",
+          "explanation": "Trước danh từ estimate cần tính từ precise.",
+          "translation": "Chúng tôi cần một bản ước tính chính xác trước khi đặt mua vật tư.",
+          "options": [
+            {
+              "key": "A",
+              "text": "precise"
+            },
+            {
+              "key": "B",
+              "text": "precision"
+            },
+            {
+              "key": "C",
+              "text": "precisely"
+            },
+            {
+              "key": "D",
+              "text": "preciseness"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#adjectives-vs-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3a30c46095adb863f167cca481253f444e7dadaa"
+        },
+        {
+          "question_text": "The consultant introduced the plan ------- the board.",
+          "explanation": "Introduce + nội dung + to + người nghe.",
+          "translation": "Chuyên gia tư vấn giới thiệu kế hoạch cho hội đồng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "upon"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "by"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3b082b90801358499d2303e1b8ff29bc0412bd37"
+        },
+        {
+          "question_text": "The consultant presented ------- only feasible option during the crisis.",
+          "explanation": "Only xác định một phương án duy nhất nên dùng mạo từ the.",
+          "translation": "Chuyên gia tư vấn đã trình bày phương án khả thi duy nhất trong thời kỳ khủng hoảng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "an"
+            },
+            {
+              "key": "B",
+              "text": "a"
+            },
+            {
+              "key": "C",
+              "text": "the"
+            },
+            {
+              "key": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#articles/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3b711ea36cbeb216418a7a950f5ccb10350313b1"
+        },
+        {
+          "question_text": "Could you show ------- the updated chart?",
+          "explanation": "Show + đại từ tân ngữ me + vật.",
+          "translation": "Bạn có thể cho tôi xem biểu đồ đã cập nhật không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "I"
+            },
+            {
+              "key": "B",
+              "text": "mine"
+            },
+            {
+              "key": "C",
+              "text": "me"
+            },
+            {
+              "key": "D",
+              "text": "my"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3ca42b9daf4a5992cd2cad12187f1d27bc5044ea"
+        },
+        {
+          "question_text": "What ------- the delivery drivers doing when the storm began?",
+          "explanation": "Drivers số nhiều, cấu trúc quá khứ tiếp diễn trong câu hỏi là were ... doing.",
+          "translation": "Các tài xế giao hàng đang làm gì khi cơn bão bắt đầu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3e00c8ac2da5c6847ba2ac8b8a8dbab3844c0be1"
+        },
+        {
+          "question_text": "The accreditation audit is scheduled ------- February next year.",
+          "explanation": "Trước tên tháng dùng giới từ in.",
+          "translation": "Đợt đánh giá công nhận được lên lịch vào tháng Hai năm tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-time-place/quiz",
+          "independent_review": "pending",
+          "fingerprint": "409215321dfad79328b8ed5572655118ef2b9cc7"
+        },
+        {
+          "question_text": "The new warehouse has three separate ------- for fragile items.",
+          "explanation": "Three đòi hỏi danh từ đếm được số nhiều, cụm danh từ ghép phù hợp là storage rooms.",
+          "translation": "Nhà kho mới có ba phòng lưu trữ riêng cho các mặt hàng dễ vỡ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "storage room"
+            },
+            {
+              "key": "B",
+              "text": "storage room's"
+            },
+            {
+              "key": "C",
+              "text": "storage"
+            },
+            {
+              "key": "D",
+              "text": "storage rooms"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#nouns/exercises",
+          "independent_review": "pending",
+          "fingerprint": "40c567f02bf7259300437ca10aee35a5c8b2390a"
+        },
+        {
+          "question_text": "We expect the replacement chairs to arrive ------- the next 48 hours.",
+          "explanation": "Within the next 48 hours có nghĩa là trong vòng 48 giờ tới.",
+          "translation": "Chúng tôi dự kiến những chiếc ghế thay thế sẽ đến trong vòng 48 giờ tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "within"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "on"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-time-place/exercises",
+          "independent_review": "pending",
+          "fingerprint": "415b7c0ab9fbf32fdf4c2551aeae88f37c26a410"
+        },
+        {
+          "question_text": "The technician explained the procedure ------- to the trainees.",
+          "explanation": "Động từ explained cần trạng từ chỉ cách thức patiently.",
+          "translation": "Kỹ thuật viên kiên nhẫn giải thích quy trình cho các học viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "patient"
+            },
+            {
+              "key": "B",
+              "text": "patience"
+            },
+            {
+              "key": "C",
+              "text": "patients"
+            },
+            {
+              "key": "D",
+              "text": "patiently"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#adjectives-vs-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "42284c890e049fcb50fad59548d7a32a8c8013fe"
+        },
+        {
+          "question_text": "Mr. Hoang asked the receptionist to call ------- as soon as the guests arrived.",
+          "explanation": "Sau động từ call cần đại từ tân ngữ him để chỉ ông Hoàng.",
+          "translation": "Ông Hoàng nhờ lễ tân gọi cho mình ngay khi các vị khách đến.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he"
+            },
+            {
+              "key": "B",
+              "text": "him"
+            },
+            {
+              "key": "C",
+              "text": "his"
+            },
+            {
+              "key": "D",
+              "text": "himself"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#pronouns-reflexives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "429606c3fa9ec69b66c8e4a4710ad9345046c5a4"
+        },
+        {
+          "question_text": "------- of the two suppliers can meet our delivery deadline, so we must find another.",
+          "explanation": "Với two suppliers và ý phải tìm bên khác, Neither of có nghĩa không bên nào đáp ứng.",
+          "translation": "Không nhà cung cấp nào trong hai bên đáp ứng được hạn giao hàng nên chúng tôi phải tìm bên khác.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Neither"
+            },
+            {
+              "key": "B",
+              "text": "Every"
+            },
+            {
+              "key": "C",
+              "text": "Each"
+            },
+            {
+              "key": "D",
+              "text": "All"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#determiners-quantifiers/quiz",
+          "independent_review": "pending",
+          "fingerprint": "42b7b261b9aba5f803326a86565ebe83785a06bd"
+        },
+        {
+          "question_text": "The instructor suggested a different route ------- the hikers.",
+          "explanation": "Suggest + nội dung + to + người nhận đề xuất.",
+          "translation": "Người hướng dẫn đề xuất một tuyến đường khác cho nhóm đi bộ đường dài.",
+          "options": [
+            {
+              "key": "A",
+              "text": "upon"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#double-object-verbs-to-and-for/quiz",
+          "independent_review": "pending",
+          "fingerprint": "461a8dbc4289fdaecce6ff184ff4e5c13d0dfc08"
+        }
+      ]
+    }
+  ]
+}

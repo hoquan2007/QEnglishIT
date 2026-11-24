@@ -1,0 +1,1580 @@
+{
+  "slug": "qe-p3-001",
+  "title": "TOEIC Part 3 – Hội thoại 01 (Mục tiêu 650)",
+  "collection": "QEnglishIT TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "650",
+  "difficulty": 3,
+  "cefr": "B1-B2",
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part3",
+    "listening"
+  ],
+  "sections": [
+    {
+      "key": "part3",
+      "title": "Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: I tried my badge at the east entrance, but the reader flashed red.\nW: That entrance is restricted while the lobby floor is being resurfaced. Use the loading-bay door today.\nM: Will my regular badge work there?\nW: Yes. Security activated employee access to that door until six this evening.",
+      "transcript_vi": "M: Tôi thử thẻ ở cửa phía đông nhưng máy đọc nháy đỏ.\nW: Cửa đó bị hạn chế trong lúc sàn sảnh được làm lại. Hôm nay hãy dùng cửa khu bốc dỡ.\nM: Thẻ thường của tôi dùng được ở đó chứ?\nW: Được. An ninh đã kích hoạt quyền vào cho nhân viên ở cửa đó đến sáu giờ tối.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "Why is the east entrance unavailable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The badge reader is being replaced."
+            },
+            {
+              "key": "B",
+              "text": "The lobby floor is being resurfaced."
+            },
+            {
+              "key": "C",
+              "text": "A delivery is blocking the doorway."
+            },
+            {
+              "key": "D",
+              "text": "The office closes early today."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng sàn sảnh đang được làm lại.",
+          "translation": "Vì sao cửa phía đông không dùng được?\n(A) Máy đọc thẻ đang được thay.\n(B) Sàn sảnh đang được làm lại.\n(C) Một chuyến giao hàng chắn cửa.\n(D) Văn phòng hôm nay đóng sớm.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What does the woman suggest the man do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wait in the lobby."
+            },
+            {
+              "key": "B",
+              "text": "Request a visitor badge."
+            },
+            {
+              "key": "C",
+              "text": "Return after six o'clock."
+            },
+            {
+              "key": "D",
+              "text": "Enter through the loading-bay door."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng đi vào bằng cửa khu bốc dỡ.",
+          "translation": "Người phụ nữ đề nghị người đàn ông làm gì?\n(A) Chờ ở sảnh.\n(B) Xin thẻ khách.\n(C) Quay lại sau sáu giờ.\n(D) Đi vào bằng cửa khu bốc dỡ.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What has security done?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Temporarily enabled employee access to another door."
+            },
+            {
+              "key": "B",
+              "text": "Issued new badges to every employee."
+            },
+            {
+              "key": "C",
+              "text": "Closed the loading bay for repairs."
+            },
+            {
+              "key": "D",
+              "text": "Extended office hours for visitors."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng tạm thời cho phép nhân viên dùng một cửa khác.",
+          "translation": "Bộ phận an ninh đã làm gì?\n(A) Tạm thời cho phép nhân viên dùng một cửa khác.\n(B) Cấp thẻ mới cho mọi nhân viên.\n(C) Đóng khu bốc dỡ để sửa chữa.\n(D) Kéo dài giờ làm việc cho khách.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: The training group grew from eighteen to twenty-four, so our sandwich order is too small.\nM: The café needs final numbers by eleven. I can call them now.\nW: Please add six vegetarian lunches. Two of the new participants noted that preference, and extras will give us some flexibility.\nM: I'll also confirm that the fruit trays stay the same.",
+      "transcript_vi": "W: Nhóm đào tạo tăng từ mười tám lên hai mươi bốn người nên đơn bánh mì của chúng ta không đủ.\nM: Quán cần số lượng cuối trước mười một giờ. Tôi có thể gọi ngay.\nW: Hãy thêm sáu suất chay. Hai người mới ghi yêu cầu đó, và suất dư sẽ giúp linh hoạt hơn.\nM: Tôi cũng sẽ xác nhận các khay trái cây giữ nguyên.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "Why must the order be changed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The café changed its menu."
+            },
+            {
+              "key": "B",
+              "text": "The training starts earlier."
+            },
+            {
+              "key": "C",
+              "text": "More people will attend the training."
+            },
+            {
+              "key": "D",
+              "text": "Fruit is no longer available."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng có thêm người tham gia buổi đào tạo.",
+          "translation": "Vì sao đơn hàng phải thay đổi?\n(A) Quán đã đổi thực đơn.\n(B) Buổi đào tạo bắt đầu sớm hơn.\n(C) Có thêm người tham gia buổi đào tạo.\n(D) Trái cây không còn sẵn.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "What does the woman ask to add?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Six vegetarian lunches."
+            },
+            {
+              "key": "B",
+              "text": "Two fruit trays."
+            },
+            {
+              "key": "C",
+              "text": "Six bottles of water."
+            },
+            {
+              "key": "D",
+              "text": "Twenty-four desserts."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng sáu suất ăn chay.",
+          "translation": "Người phụ nữ yêu cầu thêm gì?\n(A) Sáu suất ăn chay.\n(B) Hai khay trái cây.\n(C) Sáu chai nước.\n(D) Hai mươi bốn món tráng miệng.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "What will the man probably do next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Print training certificates."
+            },
+            {
+              "key": "B",
+              "text": "Move the training room."
+            },
+            {
+              "key": "C",
+              "text": "Ask participants to bring food."
+            },
+            {
+              "key": "D",
+              "text": "Call the café."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng gọi cho quán.",
+          "translation": "Người đàn ông có lẽ sẽ làm gì tiếp theo?\n(A) In chứng nhận đào tạo.\n(B) Chuyển phòng đào tạo.\n(C) Yêu cầu người tham gia tự mang đồ ăn.\n(D) Gọi cho quán.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: The color printer on the second floor keeps leaving a blue line on every page.\nW: I cleaned the glass yesterday, so the problem may be inside the toner unit.\nM: Should I submit a service ticket?\nW: Yes, and attach one of the bad printouts. The technician can identify the pattern before coming over.",
+      "transcript_vi": "M: Máy in màu tầng hai cứ để lại một vệt xanh trên mọi trang.\nW: Hôm qua tôi đã lau kính nên vấn đề có thể nằm trong bộ phận mực.\nM: Tôi có nên gửi phiếu yêu cầu sửa chữa không?\nW: Có, và đính kèm một bản in lỗi. Kỹ thuật viên có thể nhận ra dạng lỗi trước khi đến.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "What problem does the man report?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The printer has no paper."
+            },
+            {
+              "key": "B",
+              "text": "Printed pages have a blue line."
+            },
+            {
+              "key": "C",
+              "text": "The glass is cracked."
+            },
+            {
+              "key": "D",
+              "text": "The printer cannot connect to the network."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng các trang in có một vệt xanh.",
+          "translation": "Người đàn ông báo vấn đề gì?\n(A) Máy in hết giấy.\n(B) Các trang in có một vệt xanh.\n(C) Mặt kính bị nứt.\n(D) Máy in không kết nối được mạng.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "What did the woman do yesterday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She replaced the toner unit."
+            },
+            {
+              "key": "B",
+              "text": "She moved the printer downstairs."
+            },
+            {
+              "key": "C",
+              "text": "She cleaned the printer glass."
+            },
+            {
+              "key": "D",
+              "text": "She contacted a technician."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng cô ấy đã lau kính máy in.",
+          "translation": "Hôm qua người phụ nữ đã làm gì?\n(A) Cô ấy thay bộ phận mực.\n(B) Cô ấy chuyển máy in xuống tầng dưới.\n(C) Cô ấy đã lau kính máy in.\n(D) Cô ấy liên hệ kỹ thuật viên.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "Why should a printout be attached to the ticket?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It can help the technician recognize the fault."
+            },
+            {
+              "key": "B",
+              "text": "It proves how much paper was used."
+            },
+            {
+              "key": "C",
+              "text": "It contains the printer password."
+            },
+            {
+              "key": "D",
+              "text": "It shows where the printer is located."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng nó giúp kỹ thuật viên nhận ra lỗi.",
+          "translation": "Vì sao nên đính kèm bản in vào phiếu yêu cầu?\n(A) Nó giúp kỹ thuật viên nhận ra lỗi.\n(B) Nó chứng minh lượng giấy đã dùng.\n(C) Nó chứa mật khẩu máy in.\n(D) Nó cho biết máy in ở đâu.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: I registered for the logistics conference, but my confirmation lists the afternoon workshop. I selected the morning one.\nM: Morning seats filled quickly. Did you register before Friday?\nW: Thursday evening. I still have the receipt with the selection.\nM: Forward it to me. If the timestamp confirms that, I can ask the organizer to correct your session.",
+      "transcript_vi": "W: Tôi đăng ký hội nghị logistics nhưng xác nhận lại ghi hội thảo buổi chiều. Tôi đã chọn buổi sáng.\nM: Chỗ buổi sáng hết nhanh. Bạn đăng ký trước thứ Sáu chứ?\nW: Tối thứ Năm. Tôi vẫn còn biên nhận ghi lựa chọn.\nM: Chuyển tiếp cho tôi. Nếu dấu thời gian xác nhận điều đó, tôi có thể đề nghị ban tổ chức sửa phiên của bạn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "What is wrong with the woman's confirmation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has the wrong conference date."
+            },
+            {
+              "key": "B",
+              "text": "It omits her payment."
+            },
+            {
+              "key": "C",
+              "text": "It shows another attendee's name."
+            },
+            {
+              "key": "D",
+              "text": "It lists the afternoon workshop."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng nó ghi hội thảo buổi chiều.",
+          "translation": "Xác nhận của người phụ nữ có gì sai?\n(A) Nó ghi sai ngày hội nghị.\n(B) Nó bỏ sót khoản thanh toán.\n(C) Nó ghi tên người tham dự khác.\n(D) Nó ghi hội thảo buổi chiều.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "When did the woman register?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Friday morning."
+            },
+            {
+              "key": "B",
+              "text": "Thursday evening."
+            },
+            {
+              "key": "C",
+              "text": "Wednesday afternoon."
+            },
+            {
+              "key": "D",
+              "text": "Saturday evening."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng tối thứ năm.",
+          "translation": "Người phụ nữ đăng ký khi nào?\n(A) Sáng thứ Sáu.\n(B) Tối thứ Năm.\n(C) Chiều thứ Tư.\n(D) Tối thứ Bảy.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "What does the man ask the woman to send?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new registration form."
+            },
+            {
+              "key": "B",
+              "text": "A workshop handout."
+            },
+            {
+              "key": "C",
+              "text": "Her receipt."
+            },
+            {
+              "key": "D",
+              "text": "Her travel schedule."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng biên nhận của cô ấy.",
+          "translation": "Người đàn ông yêu cầu người phụ nữ gửi gì?\n(A) Một mẫu đăng ký mới.\n(B) Tài liệu hội thảo.\n(C) Biên nhận của cô ấy.\n(D) Lịch trình đi lại của cô ấy.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: The new reusable bottles arrived, but the front display is still full of winter mugs.\nW: Let's move the mugs to the clearance shelf and put the bottles by the entrance.\nM: The shelf labels still show last week's prices.\nW: I'll print updated labels while you move the stock.",
+      "transcript_vi": "M: Bình nước tái sử dụng mới đã về nhưng quầy trưng bày phía trước vẫn đầy cốc mùa đông.\nW: Hãy chuyển cốc sang kệ giảm giá và đặt bình nước cạnh lối vào.\nM: Nhãn kệ vẫn ghi giá tuần trước.\nW: Tôi sẽ in nhãn mới trong lúc bạn chuyển hàng.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What has recently arrived?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reusable bottles."
+            },
+            {
+              "key": "B",
+              "text": "Winter coats."
+            },
+            {
+              "key": "C",
+              "text": "Shelf labels."
+            },
+            {
+              "key": "D",
+              "text": "Coffee machines."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng bình nước tái sử dụng.",
+          "translation": "Mặt hàng nào vừa đến?\n(A) Bình nước tái sử dụng.\n(B) Áo khoác mùa đông.\n(C) Nhãn kệ.\n(D) Máy pha cà phê.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "Where will the mugs be moved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Beside the entrance."
+            },
+            {
+              "key": "B",
+              "text": "To the clearance shelf."
+            },
+            {
+              "key": "C",
+              "text": "Into the stockroom."
+            },
+            {
+              "key": "D",
+              "text": "Next to the cash register."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng đến kệ giảm giá.",
+          "translation": "Các cốc sẽ được chuyển đi đâu?\n(A) Cạnh lối vào.\n(B) Đến kệ giảm giá.\n(C) Vào kho.\n(D) Bên cạnh quầy thu ngân.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What will the woman do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Count the bottles."
+            },
+            {
+              "key": "B",
+              "text": "Call the supplier."
+            },
+            {
+              "key": "C",
+              "text": "Clean the entrance."
+            },
+            {
+              "key": "D",
+              "text": "Print updated labels."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng in nhãn mới.",
+          "translation": "Người phụ nữ sẽ làm gì?\n(A) Đếm số bình nước.\n(B) Gọi nhà cung cấp.\n(C) Lau khu lối vào.\n(D) In nhãn mới.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: A guest in 514 asked for a quieter room. The elevator machinery is louder than usual tonight.\nM: We have a courtyard room on the sixth floor, but housekeeping has not released it yet.\nW: Could you ask them to inspect it first? The guest is having dinner downstairs for another hour.\nM: Sure. If it's ready, I'll prepare the new key cards.",
+      "transcript_vi": "W: Một khách ở phòng 514 xin phòng yên tĩnh hơn. Máy móc thang máy tối nay ồn hơn thường lệ.\nM: Chúng ta có phòng hướng sân trong ở tầng sáu nhưng bộ phận buồng phòng chưa bàn giao.\nW: Bạn nhờ họ kiểm tra phòng đó trước được không? Khách còn ăn tối dưới nhà thêm một giờ.\nM: Được. Nếu phòng sẵn sàng, tôi sẽ chuẩn bị thẻ khóa mới.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "Why does the guest want another room?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room is too cold."
+            },
+            {
+              "key": "B",
+              "text": "The window will not open."
+            },
+            {
+              "key": "C",
+              "text": "There is unusual elevator noise."
+            },
+            {
+              "key": "D",
+              "text": "Housekeeping missed the room."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng có tiếng ồn bất thường từ thang máy.",
+          "translation": "Vì sao khách muốn đổi phòng?\n(A) Phòng quá lạnh.\n(B) Cửa sổ không mở được.\n(C) Có tiếng ồn bất thường từ thang máy.\n(D) Buồng phòng bỏ sót phòng.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "What is true about the courtyard room?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Housekeeping has not released it yet."
+            },
+            {
+              "key": "B",
+              "text": "It is on the fifth floor."
+            },
+            {
+              "key": "C",
+              "text": "A guest is currently using it."
+            },
+            {
+              "key": "D",
+              "text": "Its key cards are missing."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng buồng phòng chưa bàn giao phòng đó.",
+          "translation": "Điều gì đúng về phòng hướng sân trong?\n(A) Buồng phòng chưa bàn giao phòng đó.\n(B) Nó ở tầng năm.\n(C) Hiện có khách đang ở.\n(D) Thẻ khóa của phòng bị mất.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What will the man probably prepare?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A dinner voucher."
+            },
+            {
+              "key": "B",
+              "text": "An elevator repair invoice."
+            },
+            {
+              "key": "C",
+              "text": "Extra towels."
+            },
+            {
+              "key": "D",
+              "text": "New key cards."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng thẻ khóa mới.",
+          "translation": "Người đàn ông có lẽ sẽ chuẩn bị gì?\n(A) Phiếu ăn tối.\n(B) Hóa đơn sửa thang máy.\n(C) Khăn tắm bổ sung.\n(D) Thẻ khóa mới.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: The replacement chairs are ready at the supplier, but they can only deliver between two and four tomorrow.\nW: Our loading dock is booked then for the archive shipment. Could they come in the morning?\nM: Not tomorrow. I can ask for Thursday morning instead.\nW: Do that. The meeting room can use the old chairs one more day.",
+      "transcript_vi": "M: Ghế thay thế đã sẵn sàng ở nhà cung cấp nhưng họ chỉ giao được từ hai đến bốn giờ chiều mai.\nW: Bến nhận hàng lúc đó đã dành cho chuyến hồ sơ lưu trữ. Họ giao buổi sáng được không?\nM: Ngày mai thì không. Tôi có thể hỏi sáng thứ Năm.\nW: Làm vậy đi. Phòng họp có thể dùng ghế cũ thêm một ngày.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why is tomorrow afternoon unsuitable for the chair delivery?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The supplier is closed."
+            },
+            {
+              "key": "B",
+              "text": "The loading dock is already booked."
+            },
+            {
+              "key": "C",
+              "text": "The meeting room is in use."
+            },
+            {
+              "key": "D",
+              "text": "The old chairs are being repaired."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng bến nhận hàng đã được đặt lịch.",
+          "translation": "Vì sao chiều mai không phù hợp để giao ghế?\n(A) Nhà cung cấp đóng cửa.\n(B) Bến nhận hàng đã được đặt lịch.\n(C) Phòng họp đang được sử dụng.\n(D) Ghế cũ đang được sửa.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "What alternative does the man suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tomorrow evening."
+            },
+            {
+              "key": "B",
+              "text": "Friday afternoon."
+            },
+            {
+              "key": "C",
+              "text": "Thursday morning."
+            },
+            {
+              "key": "D",
+              "text": "This morning."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng sáng thứ năm.",
+          "translation": "Người đàn ông đề xuất phương án nào?\n(A) Tối mai.\n(B) Chiều thứ Sáu.\n(C) Sáng thứ Năm.\n(D) Sáng nay.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "What does the woman imply about the old chairs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They can remain in use for another day."
+            },
+            {
+              "key": "B",
+              "text": "They must be thrown away immediately."
+            },
+            {
+              "key": "C",
+              "text": "They belong to the supplier."
+            },
+            {
+              "key": "D",
+              "text": "They are stored at the loading dock."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng chúng vẫn có thể dùng thêm một ngày.",
+          "translation": "Người phụ nữ ngụ ý gì về ghế cũ?\n(A) Chúng vẫn có thể dùng thêm một ngày.\n(B) Chúng phải bỏ ngay.\n(C) Chúng thuộc về nhà cung cấp.\n(D) Chúng được cất ở bến nhận hàng.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: The school group arrives at ten, but the sculpture gallery does not open until eleven today.\nM: Then I'll start them in the design lab. The hands-on activity takes about forty minutes.\nW: Good. After that, you can show them the photography exhibit before the gallery opens.\nM: I'll revise the route on the guide sheet.",
+      "transcript_vi": "W: Nhóm học sinh đến lúc mười giờ nhưng hôm nay phòng điêu khắc đến mười một giờ mới mở.\nM: Vậy tôi sẽ cho họ bắt đầu ở phòng thiết kế. Hoạt động thực hành mất khoảng bốn mươi phút.\nW: Tốt. Sau đó bạn có thể cho họ xem triển lãm ảnh trước khi phòng kia mở.\nM: Tôi sẽ sửa lộ trình trên tờ hướng dẫn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "What scheduling problem do the speakers discuss?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The school bus will be late."
+            },
+            {
+              "key": "B",
+              "text": "A gallery opens after the group arrives."
+            },
+            {
+              "key": "C",
+              "text": "The design lab closes at ten."
+            },
+            {
+              "key": "D",
+              "text": "The photography exhibit has been canceled."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng một phòng trưng bày mở sau khi nhóm đến.",
+          "translation": "Hai người đang bàn về vấn đề lịch nào?\n(A) Xe buýt trường sẽ đến muộn.\n(B) Một phòng trưng bày mở sau khi nhóm đến.\n(C) Phòng thiết kế đóng lúc mười giờ.\n(D) Triển lãm ảnh đã bị hủy.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "Where will the group begin?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the sculpture gallery."
+            },
+            {
+              "key": "B",
+              "text": "At the museum café."
+            },
+            {
+              "key": "C",
+              "text": "In the design lab."
+            },
+            {
+              "key": "D",
+              "text": "In the photography studio."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng ở phòng thiết kế.",
+          "translation": "Nhóm sẽ bắt đầu ở đâu?\n(A) Ở phòng điêu khắc.\n(B) Tại quán cà phê bảo tàng.\n(C) Ở phòng thiết kế.\n(D) Ở xưởng chụp ảnh.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "What will the man revise?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The school invoice."
+            },
+            {
+              "key": "B",
+              "text": "The gallery opening hours."
+            },
+            {
+              "key": "C",
+              "text": "The activity materials."
+            },
+            {
+              "key": "D",
+              "text": "The route on the guide sheet."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng lộ trình trên tờ hướng dẫn.",
+          "translation": "Người đàn ông sẽ sửa gì?\n(A) Hóa đơn của trường.\n(B) Giờ mở cửa phòng trưng bày.\n(C) Vật liệu hoạt động.\n(D) Lộ trình trên tờ hướng dẫn.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: I watched the new inventory tutorial, but it skips the step for returning damaged items.\nW: That procedure changed yesterday. The help page has the new steps, but the video has not been updated.\nM: Could you add a note under the video? People on the evening shift may rely on it.\nW: Yes, and I'll ask the trainer to record a short replacement section tomorrow.",
+      "transcript_vi": "M: Tôi xem hướng dẫn tồn kho mới nhưng video bỏ qua bước trả hàng bị hỏng.\nW: Quy trình đó đổi hôm qua. Trang trợ giúp có bước mới nhưng video chưa cập nhật.\nM: Bạn thêm ghi chú dưới video được không? Ca tối có thể dựa vào video đó.\nW: Được, và ngày mai tôi sẽ nhờ giảng viên thu một đoạn thay thế ngắn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "What is missing from the tutorial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Instructions for ordering new computers."
+            },
+            {
+              "key": "B",
+              "text": "A list of evening-shift employees."
+            },
+            {
+              "key": "C",
+              "text": "The procedure for returning damaged items."
+            },
+            {
+              "key": "D",
+              "text": "The trainer's contact information."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng quy trình trả hàng bị hỏng.",
+          "translation": "Hướng dẫn đang thiếu nội dung gì?\n(A) Hướng dẫn đặt máy tính mới.\n(B) Danh sách nhân viên ca tối.\n(C) Quy trình trả hàng bị hỏng.\n(D) Thông tin liên hệ của giảng viên.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "Where can the current procedure be found?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the old video."
+            },
+            {
+              "key": "B",
+              "text": "On the help page."
+            },
+            {
+              "key": "C",
+              "text": "On a printed poster."
+            },
+            {
+              "key": "D",
+              "text": "In the inventory room."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng trên trang trợ giúp.",
+          "translation": "Có thể tìm quy trình hiện tại ở đâu?\n(A) Trong video cũ.\n(B) Trên trang trợ giúp.\n(C) Trên áp phích in.\n(D) Trong phòng tồn kho.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "What will the woman ask the trainer to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Record a replacement section."
+            },
+            {
+              "key": "B",
+              "text": "Lead the evening shift."
+            },
+            {
+              "key": "C",
+              "text": "Delete the help page."
+            },
+            {
+              "key": "D",
+              "text": "Inspect damaged products."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng thu một đoạn thay thế.",
+          "translation": "Người phụ nữ sẽ nhờ giảng viên làm gì?\n(A) Thu một đoạn thay thế.\n(B) Phụ trách ca tối.\n(C) Xóa trang trợ giúp.\n(D) Kiểm tra sản phẩm bị hỏng.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: We have permission to hold the book exchange in the square, but the forecast now shows heavy rain.\nM: The community hall is free Saturday afternoon. It has fewer tables, though.\nW: We can ask participants to bring books in small boxes instead of spreading them all out.\nM: I'll reserve the hall before someone else does.",
+      "transcript_vi": "W: Chúng ta được phép tổ chức đổi sách ở quảng trường nhưng dự báo giờ có mưa lớn.\nM: Hội trường cộng đồng trống chiều thứ Bảy. Tuy nhiên ở đó ít bàn hơn.\nW: Ta có thể đề nghị mọi người mang sách trong hộp nhỏ thay vì bày hết ra.\nM: Tôi sẽ đặt hội trường trước khi người khác đặt.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "Why might the event move indoors?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The square is being sold."
+            },
+            {
+              "key": "B",
+              "text": "The book supply is too small."
+            },
+            {
+              "key": "C",
+              "text": "The event date changed."
+            },
+            {
+              "key": "D",
+              "text": "Heavy rain is forecast."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng dự báo có mưa lớn.",
+          "translation": "Vì sao sự kiện có thể chuyển vào trong nhà?\n(A) Quảng trường đang được bán.\n(B) Nguồn sách quá ít.\n(C) Ngày tổ chức đã đổi.\n(D) Dự báo có mưa lớn.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "What limitation does the community hall have?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has fewer tables."
+            },
+            {
+              "key": "B",
+              "text": "It is unavailable Saturday."
+            },
+            {
+              "key": "C",
+              "text": "It has no entrance."
+            },
+            {
+              "key": "D",
+              "text": "It prohibits books."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng nó có ít bàn hơn.",
+          "translation": "Hội trường cộng đồng có hạn chế gì?\n(A) Nó có ít bàn hơn.\n(B) Nó không trống vào thứ Bảy.\n(C) Nó không có lối vào.\n(D) Nó cấm mang sách.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "What will the man do next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel the event."
+            },
+            {
+              "key": "B",
+              "text": "Buy more tables."
+            },
+            {
+              "key": "C",
+              "text": "Reserve the hall."
+            },
+            {
+              "key": "D",
+              "text": "Change the weather forecast."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng đặt hội trường.",
+          "translation": "Người đàn ông sẽ làm gì tiếp theo?\n(A) Hủy sự kiện.\n(B) Mua thêm bàn.\n(C) Đặt hội trường.\n(D) Thay đổi dự báo thời tiết.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: I received a text saying my eye appointment was moved to 3:30, but the patient portal still shows two o'clock.\nW: Let me check the scheduling system. Yes, 3:30 is correct. The portal update is delayed this morning.\nM: Do I need to arrive at the original time for any tests?\nW: No. Come fifteen minutes before the new time to complete the vision form.",
+      "transcript_vi": "M: Tôi nhận tin nhắn nói lịch khám mắt chuyển sang 3 giờ 30 nhưng cổng bệnh nhân vẫn ghi 2 giờ.\nW: Để tôi kiểm tra hệ thống lịch. Đúng, 3 giờ 30 là giờ chính xác. Cổng thông tin cập nhật chậm sáng nay.\nM: Tôi có cần đến theo giờ cũ để làm xét nghiệm nào không?\nW: Không. Hãy đến trước giờ mới mười lăm phút để điền biểu mẫu thị lực.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "question_type": "mcq",
+          "question_text": "What information is inconsistent?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The clinic address."
+            },
+            {
+              "key": "B",
+              "text": "The appointment time."
+            },
+            {
+              "key": "C",
+              "text": "The patient's phone number."
+            },
+            {
+              "key": "D",
+              "text": "The doctor's name."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng giờ hẹn.",
+          "translation": "Thông tin nào không thống nhất?\n(A) Địa chỉ phòng khám.\n(B) Giờ hẹn.\n(C) Số điện thoại bệnh nhân.\n(D) Tên bác sĩ.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "question_type": "mcq",
+          "question_text": "Why does the portal show an old time?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The patient canceled online."
+            },
+            {
+              "key": "B",
+              "text": "The clinic is closed."
+            },
+            {
+              "key": "C",
+              "text": "The text message was sent by mistake."
+            },
+            {
+              "key": "D",
+              "text": "Its update is delayed."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng việc cập nhật đang bị chậm.",
+          "translation": "Vì sao cổng thông tin hiển thị giờ cũ?\n(A) Bệnh nhân đã hủy trực tuyến.\n(B) Phòng khám đóng cửa.\n(C) Tin nhắn được gửi nhầm.\n(D) Việc cập nhật đang bị chậm.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "question_type": "mcq",
+          "question_text": "When should the man arrive?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fifteen minutes before 3:30."
+            },
+            {
+              "key": "B",
+              "text": "At two o'clock."
+            },
+            {
+              "key": "C",
+              "text": "Exactly at 3:30."
+            },
+            {
+              "key": "D",
+              "text": "After four o'clock."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng mười lăm phút trước 3 giờ 30.",
+          "translation": "Người đàn ông nên đến khi nào?\n(A) Mười lăm phút trước 3 giờ 30.\n(B) Lúc 2 giờ.\n(C) Đúng 3 giờ 30.\n(D) Sau 4 giờ.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "W: The plants by the south windows are drying out faster now that the heating is on.\nM: I can move the ferns away from the vents, but the tall palms are too heavy.\nW: Let's put water trays under the palms and ask facilities to lower the nearby vent.\nM: I'll send the request and move the ferns after lunch.",
+      "transcript_vi": "W: Cây cạnh cửa sổ phía nam khô nhanh hơn từ khi bật hệ thống sưởi.\nM: Tôi có thể chuyển dương xỉ ra xa miệng gió nhưng các cây cọ cao quá nặng.\nW: Hãy đặt khay nước dưới cây cọ và nhờ bộ phận cơ sở vật chất giảm luồng gió gần đó.\nM: Tôi sẽ gửi yêu cầu và chuyển dương xỉ sau bữa trưa.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 34,
+          "question_type": "mcq",
+          "question_text": "What problem do the plants have?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They receive too much rain."
+            },
+            {
+              "key": "B",
+              "text": "They are drying out faster."
+            },
+            {
+              "key": "C",
+              "text": "Their pots are broken."
+            },
+            {
+              "key": "D",
+              "text": "They block a doorway."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng chúng khô nhanh hơn.",
+          "translation": "Các cây đang gặp vấn đề gì?\n(A) Chúng nhận quá nhiều mưa.\n(B) Chúng khô nhanh hơn.\n(C) Chậu cây bị vỡ.\n(D) Chúng chắn cửa ra vào.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "question_type": "mcq",
+          "question_text": "Why will the tall palms stay where they are?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They need direct rain."
+            },
+            {
+              "key": "B",
+              "text": "They belong to another office."
+            },
+            {
+              "key": "C",
+              "text": "They are too heavy to move easily."
+            },
+            {
+              "key": "D",
+              "text": "They are attached to the floor."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng chúng quá nặng để di chuyển dễ dàng.",
+          "translation": "Vì sao các cây cọ cao sẽ ở nguyên chỗ?\n(A) Chúng cần mưa trực tiếp.\n(B) Chúng thuộc văn phòng khác.\n(C) Chúng quá nặng để di chuyển dễ dàng.\n(D) Chúng được gắn vào sàn.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "question_type": "mcq",
+          "question_text": "What will the man request?",
+          "options": [
+            {
+              "key": "A",
+              "text": "New office windows."
+            },
+            {
+              "key": "B",
+              "text": "A larger water tank."
+            },
+            {
+              "key": "C",
+              "text": "Removal of all the plants."
+            },
+            {
+              "key": "D",
+              "text": "An adjustment to a nearby vent."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Nội dung nghe cho biết rõ rằng điều chỉnh miệng gió gần đó.",
+          "translation": "Người đàn ông sẽ yêu cầu gì?\n(A) Cửa sổ văn phòng mới.\n(B) Một bể nước lớn hơn.\n(C) Dỡ bỏ toàn bộ cây.\n(D) Điều chỉnh miệng gió gần đó.",
+          "difficulty": 4,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "next-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen to the conversation and answer the three questions.",
+      "transcript": "M: I finished the travel expense report, but one hotel receipt is still missing.\nW: The monthly close is at noon. Can the hotel email a copy before then?\nM: I already called. They said it should arrive within twenty minutes.\nW: Good. Upload it as soon as it comes in, and I can approve the report before the deadline.",
+      "transcript_vi": "M: Tôi đã hoàn thành báo cáo chi phí đi lại nhưng vẫn thiếu một biên nhận khách sạn.\nW: Kỳ chốt tháng là lúc trưa. Khách sạn có thể gửi bản sao qua email trước đó không?\nM: Tôi đã gọi rồi. Họ nói biên nhận sẽ đến trong vòng hai mươi phút.\nW: Tốt. Tải lên ngay khi nhận được và tôi có thể duyệt báo cáo trước hạn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 37,
+          "question_type": "mcq",
+          "question_text": "What is missing from the expense report?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A flight schedule."
+            },
+            {
+              "key": "B",
+              "text": "A hotel receipt."
+            },
+            {
+              "key": "C",
+              "text": "A manager's signature."
+            },
+            {
+              "key": "D",
+              "text": "A mileage calculation."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Nội dung nghe cho biết rõ rằng một biên nhận khách sạn.",
+          "translation": "Báo cáo chi phí còn thiếu gì?\n(A) Lịch chuyến bay.\n(B) Một biên nhận khách sạn.\n(C) Chữ ký quản lý.\n(D) Phép tính quãng đường.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "question_type": "mcq",
+          "question_text": "What has the man already done?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Called the hotel."
+            },
+            {
+              "key": "B",
+              "text": "Closed the monthly accounts."
+            },
+            {
+              "key": "C",
+              "text": "Approved the report."
+            },
+            {
+              "key": "D",
+              "text": "Booked another hotel."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nội dung nghe cho biết rõ rằng gọi cho khách sạn.",
+          "translation": "Người đàn ông đã làm gì rồi?\n(A) Gọi cho khách sạn.\n(B) Chốt sổ tháng.\n(C) Duyệt báo cáo.\n(D) Đặt khách sạn khác.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "question_type": "mcq",
+          "question_text": "Why should the receipt be uploaded quickly?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The hotel will delete the copy."
+            },
+            {
+              "key": "B",
+              "text": "The traveler is leaving today."
+            },
+            {
+              "key": "C",
+              "text": "The report must be approved before noon."
+            },
+            {
+              "key": "D",
+              "text": "The expense system closes permanently."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nội dung nghe cho biết rõ rằng báo cáo phải được duyệt trước buổi trưa.",
+          "translation": "Vì sao cần tải biên nhận lên nhanh?\n(A) Khách sạn sẽ xóa bản sao.\n(B) Người đi công tác rời đi hôm nay.\n(C) Báo cáo phải được duyệt trước buổi trưa.\n(D) Hệ thống chi phí sẽ đóng vĩnh viễn.",
+          "difficulty": 3,
+          "tags": [
+            "listening"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

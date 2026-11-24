@@ -1,0 +1,23 @@
+{
+  "slug": "qe-thpt-016",
+  "revision": "1237d7a3c06594bc36bd73624a456bfca432c0ce1e5e6bb346d3f2d50a243165",
+  "check_name": "independent_answer_review",
+  "status": "fail",
+  "total": 50,
+  "missing": [],
+  "disagreements": [
+    {
+      "number": 17,
+      "reviewer_answer": "D",
+      "author_answer": "C"
+    }
+  ],
+  "reviewer_notes": "Independent blind review. Q27: Instead of is the strongest contextual fit, but In addition to could describe a mixed approach; consider explicitly stating that the readings replaced guesswork. Q45–50 show some alternating key positions but no sustained deterministic pattern. Q1, Q5, Q6, Q10 overlap closely in grammar or wording with THPT018 Q1, Q2, Q3, Q13; diversify across the bank.",
+  "admin_sample": [
+    6,
+    34,
+    37
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

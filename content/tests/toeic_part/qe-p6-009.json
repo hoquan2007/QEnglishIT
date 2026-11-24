@@ -1,0 +1,662 @@
+{
+  "slug": "qe-p6-009",
+  "title": "TOEIC Part 6 – Text Completion 09 (Finance, Manufacturing, and Sustainable Delivery)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "reading",
+    "business-english"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: All Department Coordinators\nFrom: Finance Office\nSubject: Monthly expense reports\n\nStarting in July, department expense reports must be submitted by the third business day of the following month. Receipts should be attached -------(1)------- to each transaction in the online form.\n\n-------(2)------- Coordinators should resolve those alerts before forwarding the report to their department head.\n\nReports returned for correction will keep their original submission date, -------(3)------- they are resubmitted within two business days. The finance team expects the new process to reduce -------(4)------- follow-up emails.",
+      "passage_vi": "Đến: Các điều phối viên phòng ban\nTừ: Phòng Tài chính\nChủ đề: Báo cáo chi phí hằng tháng\n\nTừ tháng Bảy, báo cáo chi phí phòng ban phải được nộp trước ngày làm việc thứ ba của tháng tiếp theo. Biên lai nên được đính kèm trực tiếp vào từng giao dịch trong biểu mẫu trực tuyến.\n\nHệ thống sẽ hiển thị cảnh báo nếu thiếu biên lai hoặc nếu mã chi phí không khớp với danh mục đã chọn. Điều phối viên nên xử lý các cảnh báo đó trước khi chuyển báo cáo cho trưởng phòng.\n\nBáo cáo bị trả lại để chỉnh sửa vẫn giữ ngày nộp ban đầu, miễn là được nộp lại trong vòng hai ngày làm việc. Nhóm tài chính kỳ vọng quy trình mới sẽ giảm các email theo dõi không cần thiết.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "direct"
+            },
+            {
+              "key": "B",
+              "text": "direction"
+            },
+            {
+              "key": "C",
+              "text": "directly"
+            },
+            {
+              "key": "D",
+              "text": "directness"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Directly là trạng từ bổ nghĩa cho hành động “attached”.",
+          "translation": "Chỗ trống (1). Đáp án đúng là “directly” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The finance office will close permanently at the end of June."
+            },
+            {
+              "key": "B",
+              "text": "Department heads must print every report on colored paper."
+            },
+            {
+              "key": "C",
+              "text": "Employees can use the form only from a public computer."
+            },
+            {
+              "key": "D",
+              "text": "The system will display an alert if a receipt is missing or an expense code conflicts with the selected category."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu này giới thiệu “alerts” mà câu sau yêu cầu điều phối viên xử lý.",
+          "translation": "Chỗ trống (2). Đáp án đúng là “The system will display an alert if a receipt is missing or an expense code conflicts with the selected category.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "provided that"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "meanwhile"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Provided that diễn tả điều kiện để giữ ngày nộp ban đầu.",
+          "translation": "Chỗ trống (3). Đáp án đúng là “provided that” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "unnecessarily"
+            },
+            {
+              "key": "B",
+              "text": "unnecessary"
+            },
+            {
+              "key": "C",
+              "text": "necessity"
+            },
+            {
+              "key": "D",
+              "text": "unnecessaryness"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Unnecessary là tính từ bổ nghĩa cho “follow-up emails”.",
+          "translation": "Chỗ trống (4). Đáp án đúng là “unnecessary” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Production notice: Line 3 shift change\n\nBeginning Monday, Line 3 will start its morning shift at 6:30 A.M. instead of 7:00 A.M. The change was made -------(5)------- a new packaging machine requires a longer warm-up period.\n\nEmployees assigned to Line 3 should clock in no later than 6:20. -------(6)------- Supervisors will be available near the time clocks this Friday to answer scheduling questions.\n\nThe afternoon shift will begin at its usual time, but its first break will be -------(7)------- by fifteen minutes. Updated schedules have been posted -------(8)------- the production office and cafeteria.",
+      "passage_vi": "Thông báo sản xuất: Thay đổi ca của Dây chuyền 3\n\nTừ thứ Hai, Dây chuyền 3 sẽ bắt đầu ca sáng lúc 6 giờ 30 thay vì 7 giờ. Thay đổi được thực hiện vì một máy đóng gói mới cần thời gian làm nóng lâu hơn.\n\nNhân viên thuộc Dây chuyền 3 nên chấm công không muộn hơn 6 giờ 20. Những người dùng xe buýt công ty có thể đi chuyến sớm hơn rời bãi đỗ phía bắc lúc 5 giờ 55. Giám sát viên sẽ có mặt gần máy chấm công vào thứ Sáu này để trả lời câu hỏi về lịch.\n\nCa chiều bắt đầu như thường lệ, nhưng giờ nghỉ đầu tiên sẽ được dời muộn hơn mười lăm phút. Lịch cập nhật đã được niêm yết trong văn phòng sản xuất và nhà ăn.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "whereas"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Because giới thiệu nguyên nhân của thay đổi giờ làm.",
+          "translation": "Chỗ trống (5). Đáp án đúng là “because” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees who use the company bus may take an earlier route that leaves the north lot at 5:55 A.M."
+            },
+            {
+              "key": "B",
+              "text": "The packaging machine was purchased from a restaurant."
+            },
+            {
+              "key": "C",
+              "text": "Visitors may operate Line 3 without supervision."
+            },
+            {
+              "key": "D",
+              "text": "The afternoon shift has been canceled for the month."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu này cung cấp phương án di chuyển phù hợp với giờ vào ca mới.",
+          "translation": "Chỗ trống (6). Đáp án đúng là “Employees who use the company bus may take an earlier route that leaves the north lot at 5:55 A.M.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "delay"
+            },
+            {
+              "key": "B",
+              "text": "delayed"
+            },
+            {
+              "key": "C",
+              "text": "delaying"
+            },
+            {
+              "key": "D",
+              "text": "delays"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cấu trúc bị động “will be delayed” cần quá khứ phân từ.",
+          "translation": "Chỗ trống (7). Đáp án đúng là “delayed” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "upon"
+            },
+            {
+              "key": "B",
+              "text": "toward"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "during"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "In phù hợp với vị trí bên trong văn phòng và nhà ăn.",
+          "translation": "Chỗ trống (8). Đáp án đúng là “in” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Courier expands electric-bike deliveries downtown\n\nSwiftParcel has added 24 electric cargo bicycles to its downtown delivery fleet. The company says the bicycles can move through congested streets -------(9)------- than vans during the busiest hours.\n\n-------(10)------- Couriers will collect packages there, complete nearby routes by bicycle, and return for the next load.\n\nThe company tested six bicycles last winter and recorded a 17-percent -------(11)------- in average delivery time within the central district. SwiftParcel plans to compare maintenance and staffing costs before deciding -------(12)------- the program should expand to two other neighborhoods.",
+      "passage_vi": "Đơn vị chuyển phát mở rộng giao hàng bằng xe đạp điện ở trung tâm\n\nSwiftParcel đã bổ sung 24 xe đạp chở hàng điện vào đội giao hàng trung tâm. Công ty cho biết xe đạp có thể di chuyển qua đường đông nhanh hơn xe tải trong giờ cao điểm.\n\nĐể hỗ trợ đội xe mới, SwiftParcel đã thuê một điểm trung chuyển nhỏ gần ga Central. Nhân viên giao hàng sẽ nhận gói ở đó, hoàn thành các tuyến gần bằng xe đạp rồi quay lại lấy lô tiếp theo.\n\nCông ty đã thử sáu xe vào mùa đông năm ngoái và ghi nhận mức giảm 17 phần trăm thời gian giao trung bình trong khu trung tâm. SwiftParcel sẽ so sánh chi phí bảo trì và nhân sự trước khi quyết định liệu chương trình có nên mở rộng sang hai khu khác hay không.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "more quickly"
+            },
+            {
+              "key": "B",
+              "text": "quickest"
+            },
+            {
+              "key": "C",
+              "text": "quick"
+            },
+            {
+              "key": "D",
+              "text": "most quickly"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "So sánh với “than” cần dạng “more quickly”.",
+          "translation": "Chỗ trống (9). Đáp án đúng là “more quickly” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every bicycle must be transported by van between deliveries."
+            },
+            {
+              "key": "B",
+              "text": "To support the new fleet, SwiftParcel has leased a small transfer point near Central Station."
+            },
+            {
+              "key": "C",
+              "text": "The company has stopped accepting packages from local businesses."
+            },
+            {
+              "key": "D",
+              "text": "Central Station will close for reconstruction next week."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu này giới thiệu điểm trung chuyển được tham chiếu bằng “there” ở câu sau.",
+          "translation": "Chỗ trống (10). Đáp án đúng là “To support the new fleet, SwiftParcel has leased a small transfer point near Central Station.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "reduce"
+            },
+            {
+              "key": "B",
+              "text": "reduced"
+            },
+            {
+              "key": "C",
+              "text": "reduction"
+            },
+            {
+              "key": "D",
+              "text": "reducing"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau “a 17-percent” cần danh từ “reduction”.",
+          "translation": "Chỗ trống (11). Đáp án đúng là “reduction” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "therefore"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "beside"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Whether phù hợp với cấu trúc “deciding whether”.",
+          "translation": "Chỗ trống (12). Đáp án đúng là “whether” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "indirect-question"
+          ],
+          "skill_tags": [
+            "indirect-question"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Dear Museum Member,\n\nWe are pleased to introduce a new household membership beginning January 1. The plan allows two named adults and up to four children under 18 to visit the museum -------(13)------- one annual fee.\n\n-------(14)------- Existing individual members may upgrade at any time and will receive credit for the unused portion of their current membership.\n\nHousehold members also receive priority registration for weekend workshops and a 10-percent -------(15)------- at the museum shop. To upgrade online, sign in to your account and select “Membership Options” -------(16)------- the profile menu.\n\nSincerely,\nMember Services",
+      "passage_vi": "Kính gửi Thành viên bảo tàng,\n\nChúng tôi vui mừng giới thiệu gói thành viên hộ gia đình mới từ ngày 1 tháng Một. Gói cho phép hai người lớn có tên và tối đa bốn trẻ em dưới 18 tuổi tham quan bảo tàng với một khoản phí hằng năm.\n\nGói này được tạo ra để đáp lại yêu cầu của các gia đình muốn quản lý quyền lợi trong một tài khoản. Thành viên cá nhân hiện tại có thể nâng cấp bất cứ lúc nào và được khấu trừ phần giá trị chưa sử dụng của gói hiện tại.\n\nThành viên hộ gia đình cũng được ưu tiên đăng ký hội thảo cuối tuần và giảm 10 phần trăm tại cửa hàng bảo tàng. Để nâng cấp trực tuyến, hãy đăng nhập tài khoản và chọn “Membership Options” từ menu hồ sơ.\n\nTrân trọng,\nDịch vụ Thành viên",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "between"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "among"
+            },
+            {
+              "key": "D",
+              "text": "toward"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "For phù hợp với ý đổi một khoản phí lấy quyền lợi thành viên.",
+          "translation": "Chỗ trống (13). Đáp án đúng là “for” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The museum will stop offering exhibitions to children next year."
+            },
+            {
+              "key": "B",
+              "text": "Individual members must visit the museum every week."
+            },
+            {
+              "key": "C",
+              "text": "The plan was created in response to requests from families who wanted to manage benefits under one account."
+            },
+            {
+              "key": "D",
+              "text": "The shop accepts only cash from household members."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu này giải thích lý do ra mắt gói và liên kết tự nhiên với nhóm thành viên hiện tại ở câu sau.",
+          "translation": "Chỗ trống (14). Đáp án đúng là “The plan was created in response to requests from families who wanted to manage benefits under one account.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "discounted"
+            },
+            {
+              "key": "B",
+              "text": "discounting"
+            },
+            {
+              "key": "C",
+              "text": "discounts"
+            },
+            {
+              "key": "D",
+              "text": "discount"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “a 10-percent” cần danh từ số ít “discount”.",
+          "translation": "Chỗ trống (15). Đáp án đúng là “discount” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "collocation"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "from"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "against"
+            },
+            {
+              "key": "D",
+              "text": "throughout"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "From diễn tả lựa chọn một mục từ menu hồ sơ.",
+          "translation": "Chỗ trống (16). Đáp án đúng là “from” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

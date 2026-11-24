@@ -1,0 +1,1508 @@
+{
+  "slug": "qe-grammar-c1-012",
+  "title": "Advanced Grammar C1 – Research and Interpretation",
+  "collection": "QEnglishIT Grammar Assessments",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "cefr": "C1",
+  "difficulty": 4,
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "grammar",
+    "C1",
+    "research-interpretation"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Advanced Grammar in Context",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The findings do not ------- support the proposed mechanism: a rival explanation is equally consistent with the data.",
+          "options": [
+            {
+              "key": "A",
+              "text": "under no circumstances"
+            },
+            {
+              "key": "B",
+              "text": "by no means"
+            },
+            {
+              "key": "C",
+              "text": "necessarily"
+            },
+            {
+              "key": "D",
+              "text": "in no way"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Not necessarily phủ định tính chắc chắn. Nó vẫn để ngỏ khả năng nhận định đúng.",
+          "translation": "Các phát hiện chưa chắc ủng hộ cơ chế được đề xuất vì một cách giải thích khác cũng phù hợp với dữ liệu.",
+          "difficulty": 4,
+          "tags": [
+            "scope-of-negation"
+          ],
+          "skill_tags": [
+            "scope-of-negation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The variation within each group far exceeds ------- between the two groups.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what it"
+            },
+            {
+              "key": "B",
+              "text": "those"
+            },
+            {
+              "key": "C",
+              "text": "the one of"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "That thay cho the variation, giúp đối chiếu hai mức biến thiên.",
+          "translation": "Mức biến thiên trong mỗi nhóm lớn hơn hẳn mức biến thiên giữa hai nhóm.",
+          "difficulty": 4,
+          "tags": [
+            "comparative-substitution"
+          ],
+          "skill_tags": [
+            "comparative-substitution"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "------- the team to relax its inclusion criteria, the sample would no longer represent the target population.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Would"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "Should"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Were + chủ ngữ + to-infinitive là dạng đảo của điều kiện giả định.",
+          "translation": "Nếu nhóm nới lỏng tiêu chí đưa vào mẫu, mẫu sẽ không còn đại diện cho quần thể mục tiêu.",
+          "difficulty": 4,
+          "tags": [
+            "conditional-inversion"
+          ],
+          "skill_tags": [
+            "conditional-inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "When ------- as a proportion of household income, the cost is greatest in rural areas.",
+          "options": [
+            {
+              "key": "A",
+              "text": "expressing"
+            },
+            {
+              "key": "B",
+              "text": "having been expressing"
+            },
+            {
+              "key": "C",
+              "text": "expressed"
+            },
+            {
+              "key": "D",
+              "text": "having expressed"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "When expressed rút gọn when it is expressed. The cost là đại lượng được biểu diễn.",
+          "translation": "Khi được tính theo tỷ lệ thu nhập hộ gia đình, chi phí cao nhất ở vùng nông thôn.",
+          "difficulty": 4,
+          "tags": [
+            "reduced-passive-clause"
+          ],
+          "skill_tags": [
+            "reduced-passive-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "What made the interview data difficult to compare ------- that some questions had been reworded midway through the study.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it was"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "was because"
+            },
+            {
+              "key": "D",
+              "text": "was due"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Mệnh đề What made ... là chủ ngữ. Was nối nó với mệnh đề that nêu nguyên nhân cụ thể.",
+          "translation": "Điều khiến dữ liệu phỏng vấn khó so sánh là một số câu hỏi đã được diễn đạt lại giữa chừng.",
+          "difficulty": 4,
+          "tags": [
+            "pseudo-cleft"
+          ],
+          "skill_tags": [
+            "pseudo-cleft"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The shoreline is understood ------- at roughly a metre a year for the past decade, with no sign of slowing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have been retreating"
+            },
+            {
+              "key": "B",
+              "text": "having retreated"
+            },
+            {
+              "key": "C",
+              "text": "to be retreated"
+            },
+            {
+              "key": "D",
+              "text": "to have been retreated"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "To have been retreating diễn tả quá trình chủ động kéo dài đến hiện tại sau is understood.",
+          "translation": "Người ta cho rằng đường bờ biển đã lùi với tốc độ khoảng một mét mỗi năm suốt thập kỷ qua và chưa có dấu hiệu chậm lại.",
+          "difficulty": 4,
+          "tags": [
+            "reporting-passive-progressive"
+          ],
+          "skill_tags": [
+            "reporting-passive-progressive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The second estimate supports the same conclusion, ------- with a wider margin of error.",
+          "options": [
+            {
+              "key": "A",
+              "text": "albeit"
+            },
+            {
+              "key": "B",
+              "text": "whereupon"
+            },
+            {
+              "key": "C",
+              "text": "inasmuch"
+            },
+            {
+              "key": "D",
+              "text": "provided"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Albeit có thể dẫn cụm giới từ bổ sung một giới hạn cho nhận định vừa nêu.",
+          "translation": "Ước tính thứ hai ủng hộ cùng kết luận, tuy biên độ sai số rộng hơn.",
+          "difficulty": 4,
+          "tags": [
+            "concessive-albeit"
+          ],
+          "skill_tags": [
+            "concessive-albeit"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "A field tag is a small label attached to a specimen. ------- in the locked drawer belong to this spring's collection.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That one"
+            },
+            {
+              "key": "B",
+              "text": "The ones"
+            },
+            {
+              "key": "C",
+              "text": "Ones of them"
+            },
+            {
+              "key": "D",
+              "text": "Each ones"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "The ones thay cho the field tags và chỉ tập hợp xác định nhờ cụm in the locked drawer.",
+          "translation": "Thẻ thực địa là nhãn nhỏ gắn trên mẫu vật. Những thẻ trong ngăn kéo khóa lại thuộc bộ sưu tập mùa xuân năm nay.",
+          "difficulty": 4,
+          "tags": [
+            "nominal-substitution"
+          ],
+          "skill_tags": [
+            "nominal-substitution"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There appear ------- two distinct clusters in the data, though one is too small to analyse separately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be"
+            },
+            {
+              "key": "B",
+              "text": "being"
+            },
+            {
+              "key": "C",
+              "text": "to have"
+            },
+            {
+              "key": "D",
+              "text": "to be"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "There appear to be là cấu trúc tồn tại kết hợp với động từ chỉ vẻ bề ngoài appear.",
+          "translation": "Dữ liệu có vẻ có hai cụm riêng biệt, dù một cụm quá nhỏ để phân tích riêng.",
+          "difficulty": 4,
+          "tags": [
+            "infinitive-raising"
+          ],
+          "skill_tags": [
+            "infinitive-raising"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "A stable baseline was established, without ------- the observed changes would have been impossible to interpret.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "what"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Without which mở mệnh đề quan hệ và dùng which thay cho a stable baseline.",
+          "translation": "Nhóm đã xác lập một mức nền ổn định. Nếu thiếu mức nền đó thì không thể diễn giải các thay đổi quan sát được.",
+          "difficulty": 4,
+          "tags": [
+            "relative-without"
+          ],
+          "skill_tags": [
+            "relative-without"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "One interviewer translated the answers on the spot, thereby ------- an additional source of variation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "introducing"
+            },
+            {
+              "key": "B",
+              "text": "introduced"
+            },
+            {
+              "key": "C",
+              "text": "having been introduced"
+            },
+            {
+              "key": "D",
+              "text": "to introduce"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thereby + V-ing nêu hệ quả phát sinh từ hành động ở mệnh đề chính.",
+          "translation": "Một người phỏng vấn dịch câu trả lời ngay tại chỗ, qua đó tạo thêm một nguồn biến thiên.",
+          "difficulty": 4,
+          "tags": [
+            "participle-result"
+          ],
+          "skill_tags": [
+            "participle-result"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Only by pooling the results from all three sites ------- estimate the seasonal effect with any precision.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could we"
+            },
+            {
+              "key": "B",
+              "text": "had we"
+            },
+            {
+              "key": "C",
+              "text": "were we"
+            },
+            {
+              "key": "D",
+              "text": "we could"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Only by + V-ing đặt đầu câu đòi hỏi đảo trợ động từ could trước chủ ngữ we.",
+          "translation": "Chỉ bằng cách gộp kết quả từ cả ba địa điểm, chúng tôi mới có thể ước tính hiệu ứng theo mùa với độ chính xác nhất định.",
+          "difficulty": 4,
+          "tags": [
+            "restrictive-inversion"
+          ],
+          "skill_tags": [
+            "restrictive-inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A total of ninety samples were collected, ------- of which was given a distinct barcode.",
+          "options": [
+            {
+              "key": "A",
+              "text": "all"
+            },
+            {
+              "key": "B",
+              "text": "any"
+            },
+            {
+              "key": "C",
+              "text": "each"
+            },
+            {
+              "key": "D",
+              "text": "both"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Each of which chỉ từng mẫu riêng lẻ nên phù hợp với was số ít.",
+          "translation": "Tổng cộng chín mươi mẫu được thu thập và mỗi mẫu được cấp một mã vạch riêng.",
+          "difficulty": 4,
+          "tags": [
+            "distributive-each"
+          ],
+          "skill_tags": [
+            "distributive-each"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The algorithm flags cases for follow-up, but its accuracy in younger participants is ------- to be established.",
+          "options": [
+            {
+              "key": "A",
+              "text": "by now"
+            },
+            {
+              "key": "B",
+              "text": "as yet already"
+            },
+            {
+              "key": "C",
+              "text": "for now already"
+            },
+            {
+              "key": "D",
+              "text": "yet"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Be yet to + nguyên mẫu diễn tả việc còn chờ thực hiện. To be established là dạng bị động.",
+          "translation": "Thuật toán đánh dấu các trường hợp cần theo dõi, nhưng độ chính xác ở nhóm người tham gia trẻ tuổi vẫn chưa được xác định.",
+          "difficulty": 4,
+          "tags": [
+            "as-yet"
+          ],
+          "skill_tags": [
+            "as-yet"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The change reflects a shift in how results are recorded as much ------- a shift in the underlying behaviour.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as does it reflect"
+            },
+            {
+              "key": "B",
+              "text": "as it reflects"
+            },
+            {
+              "key": "C",
+              "text": "as it is reflected"
+            },
+            {
+              "key": "D",
+              "text": "than it reflects"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "As much as nối hai đối tượng so sánh về mức độ. It reflects theo trật tự mệnh đề thông thường.",
+          "translation": "Sự thay đổi phản ánh cách ghi nhận kết quả mới ở mức tương đương với mức nó phản ánh thay đổi trong chính hành vi.",
+          "difficulty": 4,
+          "tags": [
+            "comparative-as-much"
+          ],
+          "skill_tags": [
+            "comparative-as-much"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The difficulty arose not so much from a lack of evidence ------- from uncertainty about what counted as evidence.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rather"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "as"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Not so much A as B điều chỉnh trọng tâm giải thích từ A sang B.",
+          "translation": "Khó khăn chủ yếu đến từ việc chưa thống nhất điều gì được coi là bằng chứng hơn là từ việc thiếu bằng chứng.",
+          "difficulty": 4,
+          "tags": [
+            "not-so-much"
+          ],
+          "skill_tags": [
+            "not-so-much"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The layout makes the two graphs easy to confuse. They ------- look similar at first glance, but they plot different quantities on the vertical axis.",
+          "options": [
+            {
+              "key": "A",
+              "text": "may well"
+            },
+            {
+              "key": "B",
+              "text": "need not to"
+            },
+            {
+              "key": "C",
+              "text": "cannot possibly"
+            },
+            {
+              "key": "D",
+              "text": "are likely to have been"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "May well đưa ra khả năng đáng kể, để vế but bổ sung điểm cần phân biệt.",
+          "translation": "Cách trình bày khiến hai đồ thị dễ bị nhầm lẫn. Thoạt nhìn chúng rất có thể giống nhau, nhưng trục dọc biểu diễn những đại lượng khác nhau.",
+          "difficulty": 4,
+          "tags": [
+            "modal-concession"
+          ],
+          "skill_tags": [
+            "modal-concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "It is essential that no participant ------- access to the answer key before the debriefing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been giving"
+            },
+            {
+              "key": "B",
+              "text": "to be given"
+            },
+            {
+              "key": "C",
+              "text": "be given"
+            },
+            {
+              "key": "D",
+              "text": "is giving"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Essential that có thể theo sau bằng giả định thức. Be given là dạng bị động nguyên mẫu.",
+          "translation": "Điều thiết yếu là không người tham gia nào được xem đáp án trước buổi giải thích sau nghiên cứu.",
+          "difficulty": 4,
+          "tags": [
+            "subjunctive-essential"
+          ],
+          "skill_tags": [
+            "subjunctive-essential"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The early figures are likely ------- the true rate, since cases with mild symptoms often go unrecorded.",
+          "options": [
+            {
+              "key": "A",
+              "text": "underestimate"
+            },
+            {
+              "key": "B",
+              "text": "to be underestimated"
+            },
+            {
+              "key": "C",
+              "text": "underestimating"
+            },
+            {
+              "key": "D",
+              "text": "to underestimate"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Likely đi với to-infinitive. Early figures là chủ ngữ của động từ chủ động underestimate.",
+          "translation": "Các số liệu ban đầu có khả năng đánh giá thấp tỷ lệ thực vì những ca có triệu chứng nhẹ thường không được ghi nhận.",
+          "difficulty": 4,
+          "tags": [
+            "hedged-infinitive"
+          ],
+          "skill_tags": [
+            "hedged-infinitive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A second reader checked every transcript. Otherwise several crucial omissions ------- unnoticed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "might be going yesterday"
+            },
+            {
+              "key": "B",
+              "text": "will go"
+            },
+            {
+              "key": "C",
+              "text": "might have gone"
+            },
+            {
+              "key": "D",
+              "text": "had gone"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Otherwise thay cho điều kiện trái quá khứ. Might have gone diễn tả hệ quả có thể đã xảy ra.",
+          "translation": "Một người thứ hai đã kiểm tra từng bản chép lời. Nếu không, một số chỗ bỏ sót quan trọng có thể đã không bị phát hiện.",
+          "difficulty": 4,
+          "tags": [
+            "conditional-implied"
+          ],
+          "skill_tags": [
+            "conditional-implied"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The more precisely the codebook defines each category, the ------- agreement tends to be between raters.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as high"
+            },
+            {
+              "key": "B",
+              "text": "more high"
+            },
+            {
+              "key": "C",
+              "text": "higher"
+            },
+            {
+              "key": "D",
+              "text": "highest"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Dạng so sánh tương liên the more ..., the higher ... đòi hỏi so sánh hơn ở cả hai vế.",
+          "translation": "Sổ mã càng định nghĩa rõ từng nhóm thì người chấm thường càng nhất trí.",
+          "difficulty": 4,
+          "tags": [
+            "proportional-comparison"
+          ],
+          "skill_tags": [
+            "proportional-comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The omission was deliberate: the team were concerned about ------- identifying the interviewees.",
+          "options": [
+            {
+              "key": "A",
+              "text": "readers inadvertently"
+            },
+            {
+              "key": "B",
+              "text": "readers had inadvertently"
+            },
+            {
+              "key": "C",
+              "text": "inadvertent readers to"
+            },
+            {
+              "key": "D",
+              "text": "readers to inadvertently"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau giới từ about, readers có thể làm chủ thể của cụm V-ing identifying. Inadvertently bổ nghĩa cho hành động nhận diện.",
+          "translation": "Việc bỏ thông tin là có chủ ý vì nhóm lo độc giả vô tình nhận ra người được phỏng vấn.",
+          "difficulty": 4,
+          "tags": [
+            "nominalised-gerund"
+          ],
+          "skill_tags": [
+            "nominalised-gerund"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The figures should be transcribed exactly -------, including the original rounding errors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as publishing"
+            },
+            {
+              "key": "B",
+              "text": "as having publish"
+            },
+            {
+              "key": "C",
+              "text": "as published"
+            },
+            {
+              "key": "D",
+              "text": "as to publish"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "As published rút gọn as they were published để chỉ hình thức cần giữ nguyên.",
+          "translation": "Các số liệu cần được chép đúng như đã công bố, kể cả lỗi làm tròn ban đầu.",
+          "difficulty": 4,
+          "tags": [
+            "manner-as"
+          ],
+          "skill_tags": [
+            "manner-as"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The hypothesis ------- the article dismisses was the one on which the original study depended.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whose"
+            },
+            {
+              "key": "B",
+              "text": "where"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "That mở mệnh đề quan hệ xác định và làm tân ngữ của dismisses.",
+          "translation": "Giả thuyết mà bài viết bác bỏ chính là giả thuyết mà nghiên cứu ban đầu dựa vào.",
+          "difficulty": 4,
+          "tags": [
+            "object-relative"
+          ],
+          "skill_tags": [
+            "object-relative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Such ------- of detail in the field notes that the team was able to reconstruct the entire sequence.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was there a level"
+            },
+            {
+              "key": "B",
+              "text": "a level had been"
+            },
+            {
+              "key": "C",
+              "text": "the level was"
+            },
+            {
+              "key": "D",
+              "text": "was the level"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Such đứng đầu câu kéo theo đảo was trước the level of detail. That giới thiệu kết quả.",
+          "translation": "Ghi chép thực địa chi tiết đến mức nhóm có thể dựng lại toàn bộ trình tự.",
+          "difficulty": 4,
+          "tags": [
+            "inverse-result"
+          ],
+          "skill_tags": [
+            "inverse-result"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The lead author denied ------- the outlier after seeing how much it changed the average.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have removed"
+            },
+            {
+              "key": "B",
+              "text": "having removed"
+            },
+            {
+              "key": "C",
+              "text": "being removed"
+            },
+            {
+              "key": "D",
+              "text": "to remove"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Deny nhận bổ ngữ V-ing. Having removed làm rõ hành động bị phủ nhận thuộc về quá khứ.",
+          "translation": "Tác giả chính phủ nhận đã loại điểm ngoại lệ sau khi thấy nó làm thay đổi giá trị trung bình đến mức nào.",
+          "difficulty": 4,
+          "tags": [
+            "perfect-gerund"
+          ],
+          "skill_tags": [
+            "perfect-gerund"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Interpretation turns on ------- the effect persists after the unusually cold years are excluded.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "wherever"
+            },
+            {
+              "key": "D",
+              "text": "whatever"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau on dùng whether để mở câu hỏi gián tiếp có hai khả năng.",
+          "translation": "Cách diễn giải phụ thuộc vào việc hiệu ứng có còn sau khi loại các năm lạnh bất thường hay không.",
+          "difficulty": 4,
+          "tags": [
+            "whether-complement"
+          ],
+          "skill_tags": [
+            "whether-complement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "All the initial screening did was ------- obvious duplicates. It made no attempt to verify authorship.",
+          "options": [
+            {
+              "key": "A",
+              "text": "having removed"
+            },
+            {
+              "key": "B",
+              "text": "removed"
+            },
+            {
+              "key": "C",
+              "text": "was removing"
+            },
+            {
+              "key": "D",
+              "text": "remove"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Trong câu chẻ với all ... did, bổ ngữ sau was có thể là động từ nguyên mẫu không to.",
+          "translation": "Bước sàng lọc đầu tiên chỉ loại các mục trùng rõ ràng. Nó không xác minh tác giả.",
+          "difficulty": 4,
+          "tags": [
+            "bare-what-cleft"
+          ],
+          "skill_tags": [
+            "bare-what-cleft"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "------- the review covers a wide geographical area, its strongest evidence comes from only two sites.",
+          "options": [
+            {
+              "key": "A",
+              "text": "While"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "Instead"
+            },
+            {
+              "key": "D",
+              "text": "As opposed to"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "While ở đầu mệnh đề có thể diễn tả sự nhượng bộ khi đối chiếu phạm vi và sức mạnh của bằng chứng.",
+          "translation": "Tuy tổng quan bao quát một vùng địa lý rộng, bằng chứng mạnh nhất chỉ đến từ hai địa điểm.",
+          "difficulty": 4,
+          "tags": [
+            "contrast-while"
+          ],
+          "skill_tags": [
+            "contrast-while"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The survey is unlikely ------- the current decline, as most responses were collected before it began.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have been captured"
+            },
+            {
+              "key": "B",
+              "text": "to have captured"
+            },
+            {
+              "key": "C",
+              "text": "having captured"
+            },
+            {
+              "key": "D",
+              "text": "to be captured"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "To have captured đặt việc ghi nhận được xem xét trước thời điểm nhận định hiện tại.",
+          "translation": "Khảo sát khó có thể đã ghi nhận đà suy giảm hiện tại vì đa số phản hồi được thu thập trước lúc xu hướng đó bắt đầu.",
+          "difficulty": 4,
+          "tags": [
+            "perfect-infinitive-aspect"
+          ],
+          "skill_tags": [
+            "perfect-infinitive-aspect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The sample is small. -------, the pattern is strong enough to warrant a larger study.",
+          "options": [
+            {
+              "key": "A",
+              "text": "As though"
+            },
+            {
+              "key": "B",
+              "text": "Insofar as"
+            },
+            {
+              "key": "C",
+              "text": "Even so"
+            },
+            {
+              "key": "D",
+              "text": "Provided that"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Even so là cụm nối độc lập, giới thiệu kết luận vẫn đúng bất chấp hạn chế vừa nói.",
+          "translation": "Mẫu nhỏ. Dù vậy, xu hướng đủ rõ để tiến hành một nghiên cứu lớn hơn.",
+          "difficulty": 4,
+          "tags": [
+            "adverbial-stance"
+          ],
+          "skill_tags": [
+            "adverbial-stance"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The paper describes a trial ------- participants could move between groups at predetermined intervals.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wherein"
+            },
+            {
+              "key": "B",
+              "text": "whose they"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "which of"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Wherein là dạng trang trọng tương đương in which, giới thiệu bối cảnh của quy trình.",
+          "translation": "Bài viết mô tả một thử nghiệm trong đó người tham gia được chuyển nhóm theo những khoảng thời gian định sẵn.",
+          "difficulty": 4,
+          "tags": [
+            "formal-wherein"
+          ],
+          "skill_tags": [
+            "formal-wherein"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "------- every sample was lost, as a sealed tray survived the power cut.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Neither of"
+            },
+            {
+              "key": "B",
+              "text": "Not"
+            },
+            {
+              "key": "C",
+              "text": "No"
+            },
+            {
+              "key": "D",
+              "text": "None of"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Not every phủ định tính toàn thể và cho phép vẫn có mẫu được giữ lại.",
+          "translation": "Không phải mẫu nào cũng mất, vì một khay được niêm phong vẫn nguyên vẹn sau khi mất điện.",
+          "difficulty": 4,
+          "tags": [
+            "determiner-scope"
+          ],
+          "skill_tags": [
+            "determiner-scope"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Suppose the original notebooks ------- in the fire. How could we have checked the dates against the published table?",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be destroyed"
+            },
+            {
+              "key": "B",
+              "text": "would destroy"
+            },
+            {
+              "key": "C",
+              "text": "have been destroying"
+            },
+            {
+              "key": "D",
+              "text": "had been destroyed"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Suppose + quá khứ hoàn thành đặt ra một tình huống trái quá khứ. Had been destroyed giữ nghĩa bị động.",
+          "translation": "Giả sử các sổ ghi chép gốc đã cháy trong vụ hỏa hoạn. Khi đó chúng ta làm sao kiểm tra ngày tháng với bảng đã công bố?",
+          "difficulty": 4,
+          "tags": [
+            "past-counterfactual"
+          ],
+          "skill_tags": [
+            "past-counterfactual"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "In the first trial the temperature was held constant, and in the second ------- the pressure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was so"
+            },
+            {
+              "key": "B",
+              "text": "so was"
+            },
+            {
+              "key": "C",
+              "text": "so had"
+            },
+            {
+              "key": "D",
+              "text": "so did"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "So was the pressure lược bỏ held constant. So kéo theo đảo was trước chủ ngữ.",
+          "translation": "Trong lần thử đầu, nhiệt độ được giữ cố định, còn ở lần thứ hai, áp suất cũng được giữ cố định.",
+          "difficulty": 4,
+          "tags": [
+            "auxiliary-ellipsis"
+          ],
+          "skill_tags": [
+            "auxiliary-ellipsis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Beside each specimen ------- a card giving the date and location of collection.",
+          "options": [
+            {
+              "key": "A",
+              "text": "lay"
+            },
+            {
+              "key": "B",
+              "text": "had been lain"
+            },
+            {
+              "key": "C",
+              "text": "did lie it"
+            },
+            {
+              "key": "D",
+              "text": "was lain"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Với cụm nơi chốn đứng đầu, động từ chỉ vị trí lay có thể đứng trước chủ ngữ a card.",
+          "translation": "Bên cạnh mỗi mẫu vật có một thẻ ghi ngày và địa điểm thu mẫu.",
+          "difficulty": 4,
+          "tags": [
+            "preposition-inversion"
+          ],
+          "skill_tags": [
+            "preposition-inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The replication was praised for ------- its exclusion rules in advance rather than after looking at the results.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have published"
+            },
+            {
+              "key": "B",
+              "text": "having published"
+            },
+            {
+              "key": "C",
+              "text": "having been published"
+            },
+            {
+              "key": "D",
+              "text": "published"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau for cần cụm V-ing. Having published cho thấy việc công bố có trước lúc được khen.",
+          "translation": "Nghiên cứu lặp lại được khen vì đã công bố quy tắc loại trừ từ trước thay vì sau khi xem kết quả.",
+          "difficulty": 4,
+          "tags": [
+            "preposition-gerund-perfect"
+          ],
+          "skill_tags": [
+            "preposition-gerund-perfect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The river carries nearly twice ------- sediment at the lower station as it does at the upper one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more of"
+            },
+            {
+              "key": "B",
+              "text": "as many"
+            },
+            {
+              "key": "C",
+              "text": "the most"
+            },
+            {
+              "key": "D",
+              "text": "as much"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sediment ở đây là danh từ khối. Twice as much ... as dùng để so sánh lượng.",
+          "translation": "Tại trạm hạ lưu, sông mang lượng trầm tích gần gấp đôi tại trạm thượng lưu.",
+          "difficulty": 4,
+          "tags": [
+            "comparison-double"
+          ],
+          "skill_tags": [
+            "comparison-double"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The dates may not agree exactly, but the accounts are ------- incompatible: each covers a different part of the day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "by no means"
+            },
+            {
+              "key": "B",
+              "text": "entirely"
+            },
+            {
+              "key": "C",
+              "text": "under no such"
+            },
+            {
+              "key": "D",
+              "text": "not only"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "By no means phủ định mạnh adjective incompatible sau động từ be.",
+          "translation": "Ngày tháng có thể không khớp hoàn toàn, nhưng hai lời tường thuật tuyệt nhiên không mâu thuẫn vì mỗi lời kể về một thời điểm khác nhau trong ngày.",
+          "difficulty": 4,
+          "tags": [
+            "negative-concession"
+          ],
+          "skill_tags": [
+            "negative-concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The question is ------- the instrument can detect changes that small at room temperature.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "which one"
+            },
+            {
+              "key": "D",
+              "text": "that whether"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Whether mở mệnh đề nghi vấn làm bổ ngữ sau is, nêu vấn đề cần trả lời.",
+          "translation": "Vấn đề là thiết bị có phát hiện được những thay đổi nhỏ như vậy ở nhiệt độ phòng hay không.",
+          "difficulty": 4,
+          "tags": [
+            "subject-complement-clause"
+          ],
+          "skill_tags": [
+            "subject-complement-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -1,14 +1,17 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { options, root, config, positive, voiceFor, preflight, json, safeName, confined, manifest, cached, synthesize, encode, probe, run, hash, save, cli } from './lib.mjs';
 
-export function transcriptTurns(transcript) {
+export function transcriptTurns(transcript, part) {
   if (typeof transcript !== 'string' || !transcript.trim()) throw new Error('Missing transcript');
   const turns = [];
   for (const line of transcript.split(/\r?\n/).map(s => s.trim()).filter(Boolean)) {
     const labeled = line.match(/^([A-Z][A-Z0-9]*):\s*(.+)$/);
-    if (labeled) turns.push({ speaker: labeled[1], en: labeled[2] });
+    const response = part === 2 && line.match(/^\(([ABC])\)\s+(.+)$/);
+    if (response) turns.push({ speaker: 'N', en: `${response[1]}. ${response[2]}` });
+    else if (labeled) turns.push({ speaker: labeled[1], en: labeled[2] });
     else if (turns.length) turns.at(-1).en += '\n' + line;
     else turns.push({ speaker: 'N', en: line });
   }
@@ -23,7 +26,7 @@ export function listeningJobs(input) {
     if (group.section === 'reading' || Number(group.part) > 4) return [];
     const order = group.group_order ?? index + 1;
     if (!Number.isInteger(order) || order < 1) throw new Error('group_order must be positive integer');
-    const turns = transcriptTurns(group.transcript);
+    const turns = transcriptTurns(group.transcript,Number(group.part));
     if ([3, 4].includes(Number(group.part))) {
       for (const question of group.questions || []) {
         if (!question.question_text) throw new Error('Part 3/4 question text required for audio');
@@ -104,4 +107,4 @@ async function main() {
   console.log(JSON.stringify({ generated, skipped, manifest: manifestPath }));
 }
 // Keep parsers importable for unit tests without executing the CLI.
-if (process.argv[1] && path.resolve(process.argv[1]) === new URL(import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1').replaceAll('/', path.sep)) cli(main);
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) cli(main);

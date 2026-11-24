@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { FileText, Clock, Flame, Play, Dumbbell } from "lucide-react";
 import type { Attempt, Test } from "@/lib/types";
+import { isToeicListeningReading } from "@/lib/toeic";
 import { formatNumber } from "@/lib/utils";
 import { ModeDialog } from "./ModeDialog";
 
@@ -17,13 +18,16 @@ export function TestGrid({ tests, attempts, fixedParts }: { tests: Test[]; attem
 
   const status = (t: Test) => {
     const mine = attempts.filter((a) => a.test_id === t.id);
-    const done = mine.filter((a) => a.status === "submitted" && a.parts.length === 7);
+    const done = mine.filter((a) => a.status === "submitted" && a.total_score !== null && a.parts.length === 7);
     if (done.length) {
       const best = Math.max(...done.map((a) => a.total_score ?? 0));
       return { label: `Đã làm ${done.length} lần · Cao nhất ${best}/990`, tone: "bg-emerald-50 text-emerald-700" };
     }
     if (mine.some((a) => a.status === "in_progress")) return { label: "Đang làm dở", tone: "bg-amber-50 text-amber-700" };
-    if (mine.length) return { label: `Đã luyện ${mine.length} lần theo Part`, tone: "bg-sky-50 text-sky-700" };
+    if (mine.length) return {
+      label: `Đã làm ${mine.length} lần${isToeicListeningReading(t) ? " theo Part" : ""}`,
+      tone: "bg-sky-50 text-sky-700",
+    };
     return { label: "Chưa làm bài", tone: "bg-slate-50 text-slate-500" };
   };
 

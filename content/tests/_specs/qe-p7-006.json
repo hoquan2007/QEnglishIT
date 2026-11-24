@@ -1,0 +1,134 @@
+{
+  "slug": "qe-p7-006",
+  "content_path": "content/tests/toeic_part/qe-p7-006.json",
+  "title": "TOEIC Part 7 Practice 06 – Facilities, Services, and Procurement",
+  "exam_type": "toeic_part",
+  "part": 7,
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 29,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [7],
+      "count": 30,
+      "minutes": 29
+    }
+  ],
+  "format": "Five single passages with four questions each, one double passage with five questions, and one triple passage with five questions.",
+  "difficulty_rationale_vi": "Năm văn bản đơn kiểm tra mục đích, chi tiết và suy luận trong bối cảnh nơi làm việc. Hai cụm cuối yêu cầu đối chiếu điều kiện, lịch trình, định mức và phép tính giữa nhiều tài liệu.",
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "group_order": 1,
+      "part": 7,
+      "section": "reading",
+      "topic": "Workplace cafeteria sustainability",
+      "genre": "employee program notice",
+      "passage_count": 1,
+      "first_question": 1,
+      "last_question": 4,
+      "difficulty": 3,
+      "skill_distribution": {"purpose": 1, "detail": 2, "inference": 1}
+    },
+    {
+      "group_order": 2,
+      "part": 7,
+      "section": "reading",
+      "topic": "Customer-service training",
+      "genre": "training office email",
+      "passage_count": 1,
+      "first_question": 5,
+      "last_question": 8,
+      "difficulty": 3,
+      "skill_distribution": {"detail": 4}
+    },
+    {
+      "group_order": 3,
+      "part": 7,
+      "section": "reading",
+      "topic": "Office building maintenance",
+      "genre": "tenant maintenance notice",
+      "passage_count": 1,
+      "first_question": 9,
+      "last_question": 12,
+      "difficulty": 3,
+      "skill_distribution": {"detail": 2, "inference": 2}
+    },
+    {
+      "group_order": 4,
+      "part": 7,
+      "section": "reading",
+      "topic": "Urban delivery optimization",
+      "genre": "business profile article",
+      "passage_count": 1,
+      "first_question": 13,
+      "last_question": 16,
+      "difficulty": 4,
+      "skill_distribution": {"inference": 2, "detail": 2}
+    },
+    {
+      "group_order": 5,
+      "part": 7,
+      "section": "reading",
+      "topic": "Conference exhibition operations",
+      "genre": "exhibitor access email",
+      "passage_count": 1,
+      "first_question": 17,
+      "last_question": 20,
+      "difficulty": 4,
+      "skill_distribution": {"detail": 2, "purpose": 1, "inference": 1}
+    },
+    {
+      "group_order": 6,
+      "part": 7,
+      "section": "reading",
+      "topic": "Office equipment procurement",
+      "genre": "lease rate table and buyer email",
+      "passage_count": 2,
+      "first_question": 21,
+      "last_question": 25,
+      "difficulty": 4,
+      "skill_distribution": {"cross-passage": 4, "detail": 1}
+    },
+    {
+      "group_order": 7,
+      "part": 7,
+      "section": "reading",
+      "topic": "Warehouse inventory transfer",
+      "genre": "route schedule, transfer request and manager message",
+      "passage_count": 3,
+      "first_question": 26,
+      "last_question": 30,
+      "difficulty": 5,
+      "skill_distribution": {"cross-passage": 4, "detail": 1}
+    }
+  ],
+  "skill_distribution": {
+    "purpose": 2,
+    "detail": 14,
+    "inference": 6,
+    "cross-passage": 8
+  },
+  "answer_plan": {
+    "counts": {"A": 8, "B": 8, "C": 7, "D": 7},
+    "sequence": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "A", "B", "C", "D", "B"],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Chỉ cung cấp văn bản tiếng Anh, câu hỏi và phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và đặc tả."
+  }
+}

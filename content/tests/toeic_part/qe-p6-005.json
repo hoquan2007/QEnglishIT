@@ -1,0 +1,664 @@
+{
+  "slug": "qe-p6-005",
+  "title": "TOEIC Part 6 – Text Completion 05 (Projects, Logistics, and Client Communication)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "projects",
+    "logistics",
+    "clients",
+    "operations"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: Customer Support Team\nFrom: Systems Manager\nSubject: Ticket dashboard update\n\nThe support dashboard will be updated overnight on Wednesday. When employees sign in Thursday morning, their saved filters should appear -------(1)-------. If a filter is missing, please do not rebuild it immediately.\n\n-------(2)------- The systems team can restore most saved settings from the previous version within a few minutes. To help us trace any issue, include the filter name and the approximate time it was last used.\n\nThe update also introduces a summary panel that -------(3)------- open tickets by priority. We expect this change to make handovers between shifts more -------(4)-------.",
+      "passage_vi": "Đến: Nhóm Hỗ trợ Khách hàng\nTừ: Quản lý Hệ thống\nChủ đề: Cập nhật bảng theo dõi yêu cầu\n\nBảng theo dõi hỗ trợ sẽ được cập nhật qua đêm vào thứ Tư. Khi nhân viên đăng nhập vào sáng thứ Năm, các bộ lọc đã lưu sẽ xuất hiện bình thường. Nếu thiếu bộ lọc, vui lòng đừng tạo lại ngay.\n\nThay vào đó, hãy báo vấn đề qua kênh hỗ trợ nội bộ. Nhóm hệ thống có thể khôi phục phần lớn cài đặt đã lưu từ phiên bản trước trong vài phút. Để giúp truy vết, hãy ghi tên bộ lọc và thời điểm gần đúng lần cuối sử dụng.\n\nBản cập nhật cũng bổ sung bảng tóm tắt nhóm các yêu cầu đang mở theo mức độ ưu tiên. Chúng tôi kỳ vọng thay đổi này sẽ giúp việc bàn giao giữa các ca nhất quán hơn.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "normal"
+            },
+            {
+              "key": "B",
+              "text": "normally"
+            },
+            {
+              "key": "C",
+              "text": "normalize"
+            },
+            {
+              "key": "D",
+              "text": "normality"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Normally là trạng từ bổ nghĩa cho appear.",
+          "translation": "Chỗ trống (1). (A) bình thường, tính từ · (B) bình thường, trạng từ · (C) chuẩn hóa · (D) tính bình thường",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The update will permanently delete all saved filters."
+            },
+            {
+              "key": "B",
+              "text": "Please send customers a new password before Thursday."
+            },
+            {
+              "key": "C",
+              "text": "Instead, report the problem through the internal support channel."
+            },
+            {
+              "key": "D",
+              "text": "The dashboard is available only from the office lobby."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "“Instead” đưa ra hành động thay thế trực tiếp cho việc không tự tạo lại bộ lọc.",
+          "translation": "Chỗ trống (2). Đáp án đúng yêu cầu báo sự cố qua kênh hỗ trợ nội bộ.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "grouped"
+            },
+            {
+              "key": "B",
+              "text": "grouping"
+            },
+            {
+              "key": "C",
+              "text": "group"
+            },
+            {
+              "key": "D",
+              "text": "groups"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Chủ ngữ “a summary panel” số ít nên động từ hiện tại đơn groups là phù hợp.",
+          "translation": "Chỗ trống (3). (A) đã nhóm · (B) đang nhóm · (C) nhóm, nguyên mẫu · (D) nhóm, ngôi số ít",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "consistent"
+            },
+            {
+              "key": "B",
+              "text": "consistently"
+            },
+            {
+              "key": "C",
+              "text": "consistency"
+            },
+            {
+              "key": "D",
+              "text": "consist"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau “make ... more” cần tính từ consistent để mô tả handovers.",
+          "translation": "Chỗ trống (4). (A) nhất quán · (B) một cách nhất quán · (C) tính nhất quán · (D) gồm có",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Warehouse notice: Annual inventory count\n\nThe east warehouse will stop outbound loading at 3 p.m. on June 18 so staff can begin the annual inventory count. Deliveries already scheduled to arrive after that time will still be -------(5)-------, but their contents will remain in the receiving zone overnight.\n\nSupervisors have assigned each counting team a numbered aisle. -------(6)------- This arrangement is intended to prevent the same stock from being counted twice.\n\nEmployees should record damaged packaging separately rather than -------(7)------- those items from the count. Normal shipping will resume the next morning, -------(8)------- the inventory records have been checked.",
+      "passage_vi": "Thông báo kho: Kiểm kê hằng năm\n\nKho phía đông sẽ dừng xuất hàng lúc 3 giờ chiều ngày 18 tháng Sáu để nhân viên bắt đầu kiểm kê hằng năm. Các chuyến giao đã lên lịch đến sau thời điểm đó vẫn được tiếp nhận, nhưng hàng sẽ ở khu nhận qua đêm.\n\nGiám sát viên đã phân cho mỗi nhóm kiểm kê một dãy được đánh số. Các nhóm không nên sang dãy khác nếu chưa được giám sát viên phân công lại. Cách bố trí này nhằm tránh việc cùng một lượng hàng bị đếm hai lần.\n\nNhân viên nên ghi riêng bao bì hư hỏng thay vì loại các mặt hàng đó khỏi kiểm kê. Hoạt động giao hàng bình thường sẽ tiếp tục vào sáng hôm sau, sau khi hồ sơ kiểm kê được kiểm tra.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "accepting"
+            },
+            {
+              "key": "B",
+              "text": "acceptable"
+            },
+            {
+              "key": "C",
+              "text": "accepted"
+            },
+            {
+              "key": "D",
+              "text": "acceptance"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Will still be accepted cần quá khứ phân từ trong cấu trúc bị động.",
+          "translation": "Chỗ trống (5). (A) đang tiếp nhận · (B) có thể chấp nhận · (C) được tiếp nhận · (D) sự chấp nhận",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Teams should not move to another aisle unless a supervisor reassigns them."
+            },
+            {
+              "key": "B",
+              "text": "The receiving zone was renovated three years ago."
+            },
+            {
+              "key": "C",
+              "text": "Outbound trucks use blue identification cards."
+            },
+            {
+              "key": "D",
+              "text": "The warehouse cafeteria will close during the count."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu hạn chế di chuyển giữa các dãy giải thích cách tránh hai nhóm đếm trùng cùng một hàng.",
+          "translation": "Chỗ trống (6). Đáp án đúng yêu cầu các nhóm không đổi dãy nếu chưa được phân công lại.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "exclude"
+            },
+            {
+              "key": "B",
+              "text": "excluding"
+            },
+            {
+              "key": "C",
+              "text": "excluded"
+            },
+            {
+              "key": "D",
+              "text": "exclusion"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau rather than trong cấu trúc này, excluding tạo cụm V-ing tự nhiên song song với hành động record.",
+          "translation": "Chỗ trống (7). (A) loại trừ · (B) việc loại trừ · (C) đã bị loại · (D) sự loại trừ",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "while"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "after"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "After diễn tả việc vận chuyển chỉ tiếp tục sau khi bước kiểm tra hồ sơ hoàn tất.",
+          "translation": "Chỗ trống (8). (A) trong khi · (B) kể từ khi/vì · (C) trừ khi · (D) sau khi",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Harbor Hotel reports first results from rooftop garden\n\nHarbor Hotel began growing herbs on an unused section of its roof last autumn. The kitchen now uses small amounts of basil, mint, and rosemary from the garden, reducing the need for -------(9)------- deliveries of those herbs.\n\nThe first season produced less than the chefs had forecast. -------(10)------- Strong winds dried the soil more quickly than expected, so the maintenance team installed low screens around the planting beds.\n\nThe screens have improved moisture retention without -------(11)------- sunlight. The hotel will continue the project for another year to determine -------(12)------- the garden can supply a reliable share of the kitchen's needs.",
+      "passage_vi": "Khách sạn Harbor công bố kết quả đầu tiên từ vườn trên mái\n\nKhách sạn Harbor bắt đầu trồng thảo mộc trên phần mái không sử dụng vào mùa thu năm ngoái. Nhà bếp hiện dùng một lượng nhỏ húng quế, bạc hà và hương thảo từ vườn, nhờ đó giảm nhu cầu giao thường xuyên các loại rau thơm này.\n\nMùa đầu tiên cho sản lượng thấp hơn dự báo của đầu bếp. Một nguyên nhân chính là gió mạnh trên mái. Gió làm đất khô nhanh hơn dự kiến nên đội bảo trì lắp các tấm chắn thấp quanh luống trồng.\n\nCác tấm chắn giúp giữ ẩm tốt hơn mà không làm giảm đáng kể ánh sáng. Khách sạn sẽ tiếp tục dự án thêm một năm để xác định liệu khu vườn có thể cung cấp một phần ổn định nhu cầu của bếp hay không.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "frequency"
+            },
+            {
+              "key": "B",
+              "text": "frequently"
+            },
+            {
+              "key": "C",
+              "text": "frequented"
+            },
+            {
+              "key": "D",
+              "text": "frequent"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Frequent là tính từ bổ nghĩa cho danh từ deliveries.",
+          "translation": "Chỗ trống (9). (A) tần suất · (B) một cách thường xuyên · (C) được lui tới thường xuyên · (D) thường xuyên",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The hotel plans to replace every roof tile with planting soil."
+            },
+            {
+              "key": "B",
+              "text": "One major reason was the strong wind on the roof."
+            },
+            {
+              "key": "C",
+              "text": "Guests were asked to water the garden after dinner."
+            },
+            {
+              "key": "D",
+              "text": "The kitchen stopped using herbs during the trial."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu này nêu nguyên nhân cho sản lượng thấp và được giải thích ngay sau đó bởi tác động của gió.",
+          "translation": "Chỗ trống (10). Đáp án đúng nêu gió mạnh là một nguyên nhân chính.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "significantly reducing"
+            },
+            {
+              "key": "B",
+              "text": "reduce"
+            },
+            {
+              "key": "C",
+              "text": "reduced"
+            },
+            {
+              "key": "D",
+              "text": "reduction"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau without cần dạng V-ing, và significantly reducing sunlight là cụm tự nhiên.",
+          "translation": "Chỗ trống (11). (A) làm giảm đáng kể · (B) giảm, nguyên mẫu · (C) đã giảm · (D) sự giảm",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "whenever"
+            },
+            {
+              "key": "B",
+              "text": "whatever"
+            },
+            {
+              "key": "C",
+              "text": "whether"
+            },
+            {
+              "key": "D",
+              "text": "wherever"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Determine whether dùng để đánh giá liệu khu vườn có thể cung cấp lượng ổn định hay không.",
+          "translation": "Chỗ trống (12). (A) bất cứ khi nào · (B) bất cứ điều gì · (C) liệu có · (D) bất cứ nơi đâu",
+          "difficulty": 3,
+          "tags": [
+            "indirect-question"
+          ],
+          "skill_tags": [
+            "indirect-question"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Dear Ms. Ortega,\n\nThank you for asking Northline Consulting to present the preliminary findings from your customer survey. We can deliver the presentation on July 9, as requested, -------(13)------- we receive the final response file by July 2.\n\nOur analyst will use the additional week to verify unusual responses and prepare comparisons among customer groups. -------(14)------- This will allow your managers to see both the overall trend and the differences by region.\n\nPlease let us know whether the meeting room has a display with an HDMI connection. If it does not, we can bring a projector at no -------(15)------- charge. I will send the final slide deck one business day -------(16)------- the meeting.",
+      "passage_vi": "Kính gửi bà Ortega,\n\nCảm ơn bà đã mời Northline Consulting trình bày các kết quả sơ bộ từ khảo sát khách hàng. Chúng tôi có thể trình bày vào ngày 9 tháng Bảy như yêu cầu, miễn là nhận được tệp phản hồi cuối cùng trước ngày 2 tháng Bảy.\n\nChuyên viên phân tích sẽ dùng thêm một tuần để kiểm tra các phản hồi bất thường và chuẩn bị so sánh giữa các nhóm khách hàng. Ngoài biểu đồ tổng hợp, chúng tôi sẽ chuẩn bị một bảng ngắn cho từng khu vực. Điều này sẽ giúp các quản lý thấy cả xu hướng chung lẫn khác biệt theo vùng.\n\nVui lòng cho biết phòng họp có màn hình với cổng HDMI hay không. Nếu không, chúng tôi có thể mang máy chiếu mà không tính thêm phí. Tôi sẽ gửi bộ slide cuối cùng một ngày làm việc trước cuộc họp.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "provided that"
+            },
+            {
+              "key": "B",
+              "text": "in contrast"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "even though"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Provided that diễn tả điều kiện cần thiết để giữ lịch trình ngày 9 tháng Bảy.",
+          "translation": "Chỗ trống (13). (A) với điều kiện là · (B) trái lại · (C) bởi vì · (D) mặc dù",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The survey software license expires in December."
+            },
+            {
+              "key": "B",
+              "text": "Several managers will be away during the first week of July."
+            },
+            {
+              "key": "C",
+              "text": "The final response file should be printed in color."
+            },
+            {
+              "key": "D",
+              "text": "In addition to summary charts, we will prepare a short table for each region."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu về bảng theo từng khu vực dẫn trực tiếp đến câu sau nói quản lý sẽ thấy khác biệt theo vùng.",
+          "translation": "Chỗ trống (14). Đáp án đúng nói sẽ chuẩn bị một bảng ngắn cho từng khu vực.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "adding"
+            },
+            {
+              "key": "B",
+              "text": "addition"
+            },
+            {
+              "key": "C",
+              "text": "additional"
+            },
+            {
+              "key": "D",
+              "text": "additionally"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Additional charge là cụm danh từ tự nhiên nghĩa là phụ phí.",
+          "translation": "Chỗ trống (15). (A) đang thêm · (B) sự bổ sung · (C) bổ sung · (D) thêm vào đó",
+          "difficulty": 3,
+          "tags": [
+            "collocation"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "among"
+            },
+            {
+              "key": "B",
+              "text": "before"
+            },
+            {
+              "key": "C",
+              "text": "through"
+            },
+            {
+              "key": "D",
+              "text": "beside"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "One business day before the meeting xác định thời điểm gửi bộ slide cuối cùng.",
+          "translation": "Chỗ trống (16). (A) giữa · (B) trước · (C) xuyên suốt · (D) bên cạnh",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

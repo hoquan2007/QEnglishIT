@@ -1,0 +1,1205 @@
+{
+  "slug": "qe-p7-010",
+  "title": "TOEIC Part 7 Practice 10 – Workplace Technology, Logistics, and Events",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 29,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part7",
+    "reading",
+    "business-english"
+  ],
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 29
+    }
+  ],
+  "groups": [
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**IT team chat – account migration**\n\nPriya 10:03: The sales team moves to the new login system Wednesday morning.\nJon 10:05: I’ll be at the support desk from 8 to 10. Should we send another reminder?\nPriya 10:07: Yes. Ask everyone to sign out of the old portal Tuesday before leaving. Their saved reports are already copied.\nJon 10:09: Good. I’ll include the support extension in the reminder.\nPriya 10:11: Please do. Passwords stay the same, so most people should need only the new sign-in link.",
+      "passage_vi": "**Trò chuyện IT – chuyển hệ thống tài khoản**\n\nĐội bán hàng chuyển sang hệ thống đăng nhập mới sáng thứ Tư. Jon trực bàn hỗ trợ 8–10 giờ. Priya muốn gửi nhắc nhở yêu cầu mọi người đăng xuất cổng cũ trước khi rời đi thứ Ba. Báo cáo đã lưu đã được sao chép. Jon sẽ đưa số máy lẻ hỗ trợ vào thông báo. Mật khẩu giữ nguyên.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What are Priya and Jon discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A sales conference"
+            },
+            {
+              "key": "B",
+              "text": "A password policy cancellation"
+            },
+            {
+              "key": "C",
+              "text": "A new office lease"
+            },
+            {
+              "key": "D",
+              "text": "A login-system migration"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cuộc trò chuyện nói về việc chuyển đội bán hàng sang hệ thống đăng nhập mới.",
+          "translation": "Câu 1. Hãy chọn đáp án phù hợp nhất theo văn bản. Cuộc trò chuyện nói về việc chuyển đội bán hàng sang hệ thống đăng nhập mới.",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When will Jon be at the support desk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wednesday from 8 to 10 A.M."
+            },
+            {
+              "key": "B",
+              "text": "Tuesday from 8 to 10 A.M."
+            },
+            {
+              "key": "C",
+              "text": "Wednesday after 10 P.M."
+            },
+            {
+              "key": "D",
+              "text": "Tuesday at noon"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Jon nói sẽ trực 8–10 giờ vào sáng chuyển hệ thống.",
+          "translation": "Câu 2. Hãy chọn đáp án phù hợp nhất theo văn bản. Jon nói sẽ trực 8–10 giờ vào sáng chuyển hệ thống.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why should employees sign out of the old portal Tuesday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their saved reports were deleted."
+            },
+            {
+              "key": "B",
+              "text": "They are moving to the new system Wednesday."
+            },
+            {
+              "key": "C",
+              "text": "Their passwords expire Tuesday."
+            },
+            {
+              "key": "D",
+              "text": "The support desk is closing permanently."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Việc đăng xuất chuẩn bị cho chuyển đổi hệ thống vào sáng hôm sau.",
+          "translation": "Câu 3. Hãy chọn đáp án phù hợp nhất theo văn bản. Việc đăng xuất chuẩn bị cho chuyển đổi hệ thống vào sáng hôm sau.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will remain unchanged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The sign-in link"
+            },
+            {
+              "key": "B",
+              "text": "The support extension"
+            },
+            {
+              "key": "C",
+              "text": "Employees’ passwords"
+            },
+            {
+              "key": "D",
+              "text": "The old portal"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Priya nói mật khẩu giữ nguyên.",
+          "translation": "Câu 4. Hãy chọn đáp án phù hợp nhất theo văn bản. Priya nói mật khẩu giữ nguyên.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Tool loan form – Design Workshop**\n\nBorrower: Amira Bell\nCheckout: November 6, 3:15 P.M.\nDue: November 8, 5 P.M.\n\nItems\n- Laser measure LM-4 — returned Nov. 8, 4:25 P.M.\n- Cordless drill D-12 — returned Nov. 8, 4:25 P.M.; charger missing\n- Safety glasses G-07 — returned Nov. 8, 4:25 P.M.\n- Folding stand ST-2 — extension approved to Nov. 10, 10 A.M.\n\nWorkshop note: A spare D-12 charger has been reserved for Amira to collect after 9 A.M. Monday.",
+      "passage_vi": "**Phiếu mượn dụng cụ – Xưởng Thiết kế**\n\nAmira Bell mượn ngày 6 tháng Mười Một, hạn 8 tháng Mười Một 17 giờ. Máy đo laser đã trả 16:25. Khoan D-12 đã trả nhưng thiếu sạc. Kính bảo hộ đã trả. Chân gấp ST-2 được gia hạn đến 10 tháng Mười Một 10 giờ. Một sạc D-12 dự phòng được giữ cho Amira lấy sau 9 giờ thứ Hai.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which item has an approved extension?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laser measure LM-4"
+            },
+            {
+              "key": "B",
+              "text": "Cordless drill D-12"
+            },
+            {
+              "key": "C",
+              "text": "Safety glasses G-07"
+            },
+            {
+              "key": "D",
+              "text": "Folding stand ST-2"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Chân gấp ST-2 được gia hạn đến ngày 10.",
+          "translation": "Câu 5. Hãy chọn đáp án phù hợp nhất theo văn bản. Chân gấp ST-2 được gia hạn đến ngày 10.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What part is missing from the returned drill?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its charger"
+            },
+            {
+              "key": "B",
+              "text": "Its battery"
+            },
+            {
+              "key": "C",
+              "text": "Its handle"
+            },
+            {
+              "key": "D",
+              "text": "Its case"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Phiếu ghi charger missing.",
+          "translation": "Câu 6. Hãy chọn đáp án phù hợp nhất theo văn bản. Phiếu ghi charger missing.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which statement is NOT true about the loan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The drill was returned on November 8."
+            },
+            {
+              "key": "B",
+              "text": "The laser measure was returned after 5 P.M."
+            },
+            {
+              "key": "C",
+              "text": "The safety glasses were returned."
+            },
+            {
+              "key": "D",
+              "text": "A spare charger has been reserved."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Máy đo laser được trả lúc 16:25, trước 17 giờ.",
+          "translation": "Câu 7. Hãy chọn đáp án phù hợp nhất theo văn bản. Máy đo laser được trả lúc 16:25, trước 17 giờ.",
+          "difficulty": 3,
+          "tags": [
+            "not-true"
+          ],
+          "skill_tags": [
+            "not-true"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will Amira most likely collect on Monday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new laser measure"
+            },
+            {
+              "key": "B",
+              "text": "A second folding stand"
+            },
+            {
+              "key": "C",
+              "text": "A spare drill charger"
+            },
+            {
+              "key": "D",
+              "text": "Replacement safety glasses"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Ghi chú nói sạc dự phòng đã được giữ cho Amira.",
+          "translation": "Câu 8. Hãy chọn đáp án phù hợp nhất theo văn bản. Ghi chú nói sạc dự phòng đã được giữ cho Amira.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Email from CloudLedger Billing**\n\nSubject: Duplicate renewal charge\n\nHello Mr. Wynn,\n\nWe reviewed the two renewal charges shown on your October statement. [1] One charge was generated when your annual plan renewed automatically, and the second resulted from a manual renewal submitted later the same day. [2] We have canceled the duplicate transaction. [3] Most banks display the credit within three to five business days. [4] Your account remains active through next October, and no further action is required.\n\nCloudLedger Billing",
+      "passage_vi": "**Email từ CloudLedger Billing**\n\nChúng tôi đã xem xét hai khoản gia hạn trên sao kê tháng Mười. [1] Một khoản do gia hạn tự động, khoản thứ hai do gia hạn thủ công cùng ngày. [2] Chúng tôi đã hủy giao dịch trùng. [3] Hầu hết ngân hàng hiển thị khoản hoàn trong 3–5 ngày làm việc. [4] Tài khoản vẫn hoạt động đến tháng Mười năm sau và không cần làm gì thêm.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why did CloudLedger send the email?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell a more expensive plan"
+            },
+            {
+              "key": "B",
+              "text": "To close Mr. Wynn’s account"
+            },
+            {
+              "key": "C",
+              "text": "To request a new bank card"
+            },
+            {
+              "key": "D",
+              "text": "To explain the resolution of a duplicate charge"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Email giải thích nguyên nhân hai khoản thu và việc hủy giao dịch trùng.",
+          "translation": "Câu 9. Hãy chọn đáp án phù hợp nhất theo văn bản. Email giải thích nguyên nhân hai khoản thu và việc hủy giao dịch trùng.",
+          "difficulty": 3,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "In which position marked [1], [2], [3], or [4] does the following sentence best belong? “Both charges appeared under the same CloudLedger account number.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu này bổ sung chi tiết trực tiếp cho hai khoản thu vừa được nêu ở câu mở đầu, nên phù hợp nhất ở vị trí [1] trước khi email giải thích nguồn gốc từng khoản.",
+          "translation": "Câu 10. Câu được cho bổ sung thông tin về hai khoản thu vừa nêu, nên phù hợp nhất ở vị trí [1].",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "The word “display” is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "delay"
+            },
+            {
+              "key": "B",
+              "text": "show"
+            },
+            {
+              "key": "C",
+              "text": "calculate"
+            },
+            {
+              "key": "D",
+              "text": "remove"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Display the credit nghĩa là hiển thị khoản hoàn trên tài khoản.",
+          "translation": "Câu 11. Hãy chọn đáp án phù hợp nhất theo văn bản. Display the credit nghĩa là hiển thị khoản hoàn trên tài khoản.",
+          "difficulty": 3,
+          "tags": [
+            "vocab-in-context"
+          ],
+          "skill_tags": [
+            "vocab-in-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How long may the bank take to show the credit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "One calendar day"
+            },
+            {
+              "key": "B",
+              "text": "Two weeks"
+            },
+            {
+              "key": "C",
+              "text": "Three to five business days"
+            },
+            {
+              "key": "D",
+              "text": "Until next October"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Email nêu khoảng ba đến năm ngày làm việc.",
+          "translation": "Câu 12. Hãy chọn đáp án phù hợp nhất theo văn bản. Email nêu khoảng ba đến năm ngày làm việc.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Professional Development Day – session schedule**\n\n9:00–10:00 Room 201: Writing Clear Reports\n9:00–10:30 Room 305: Data Visualization\n10:30–11:30 Room 201: Managing Deadlines\n11:00–noon Room 305: Customer Interviews\n1:00–2:30 Room 201: Contract Basics\n1:30–2:30 Room 305: Presentation Practice\n\nParticipants need a laptop only for Data Visualization. Presentation Practice is limited to 16 people and requires advance registration.",
+      "passage_vi": "**Ngày phát triển chuyên môn – lịch phiên học**\n\n9–10 Phòng 201 Viết báo cáo rõ ràng. 9–10:30 Phòng 305 Trực quan hóa dữ liệu. 10:30–11:30 Phòng 201 Quản lý hạn. 11–12 Phòng 305 Phỏng vấn khách hàng. 13–14:30 Phòng 201 Hợp đồng cơ bản. 13:30–14:30 Phòng 305 Luyện thuyết trình. Chỉ lớp Trực quan hóa cần laptop. Luyện thuyết trình giới hạn 16 người và phải đăng ký trước.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which session requires participants to bring a laptop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Writing Clear Reports"
+            },
+            {
+              "key": "B",
+              "text": "Customer Interviews"
+            },
+            {
+              "key": "C",
+              "text": "Contract Basics"
+            },
+            {
+              "key": "D",
+              "text": "Data Visualization"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Ghi chú nói chỉ Data Visualization cần laptop.",
+          "translation": "Câu 13. Hãy chọn đáp án phù hợp nhất theo văn bản. Ghi chú nói chỉ Data Visualization cần laptop.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "A participant finishes Writing Clear Reports at 10 A.M. Which session in Room 201 can the person attend next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Managing Deadlines"
+            },
+            {
+              "key": "B",
+              "text": "Data Visualization"
+            },
+            {
+              "key": "C",
+              "text": "Customer Interviews"
+            },
+            {
+              "key": "D",
+              "text": "Presentation Practice"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Managing Deadlines bắt đầu 10:30 tại cùng Room 201.",
+          "translation": "Câu 14. Hãy chọn đáp án phù hợp nhất theo văn bản. Managing Deadlines bắt đầu 10:30 tại cùng Room 201.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why should someone register early for Presentation Practice?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room changes during the session."
+            },
+            {
+              "key": "B",
+              "text": "Attendance is limited."
+            },
+            {
+              "key": "C",
+              "text": "A laptop is required."
+            },
+            {
+              "key": "D",
+              "text": "The session begins before 9 A.M."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Phiên này giới hạn 16 người và cần đăng ký trước.",
+          "translation": "Câu 15. Hãy chọn đáp án phù hợp nhất theo văn bản. Phiên này giới hạn 16 người và cần đăng ký trước.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where is Contract Basics held?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Room 305"
+            },
+            {
+              "key": "B",
+              "text": "The lobby"
+            },
+            {
+              "key": "C",
+              "text": "Room 201"
+            },
+            {
+              "key": "D",
+              "text": "An online classroom"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lịch ghi Contract Basics ở Room 201.",
+          "translation": "Câu 16. Hãy chọn đáp án phù hợp nhất theo văn bản. Lịch ghi Contract Basics ở Room 201.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Office tower reduces evening energy use**\n\nThe Marlowe Center has completed a six-month trial of occupancy-based lighting on four office floors. Sensors now dim lights in empty work zones after ten minutes while keeping corridors and emergency areas fully lit. Building management reports that evening electricity use on the test floors fell 18 percent compared with the same months last year.\n\nTenants initially worried that lights might dim during quiet desk work. To address this, technicians adjusted sensor sensitivity and added wall controls that let employees restore full lighting instantly. Service requests declined sharply after the second month.\n\nManagement will install the system on six more floors next spring, beginning with floors where most tenants have evening shifts.",
+      "passage_vi": "**Tòa nhà văn phòng giảm điện buổi tối**\n\nMarlowe Center thử đèn dựa trên cảm biến hiện diện trong sáu tháng ở bốn tầng. Đèn giảm sau 10 phút khi khu vực trống, còn hành lang và khu khẩn cấp vẫn sáng. Điện buổi tối giảm 18%. Ban đầu người thuê lo đèn tắt khi làm việc yên tĩnh, nên kỹ thuật viên chỉnh độ nhạy và thêm công tắc tường để bật sáng lại. Yêu cầu hỗ trợ giảm mạnh sau tháng thứ hai. Hệ thống sẽ mở rộng thêm sáu tầng vào mùa xuân.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How much did evening electricity use fall on the test floors?",
+          "options": [
+            {
+              "key": "A",
+              "text": "6 percent"
+            },
+            {
+              "key": "B",
+              "text": "10 percent"
+            },
+            {
+              "key": "C",
+              "text": "28 percent"
+            },
+            {
+              "key": "D",
+              "text": "18 percent"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bài viết nêu mức giảm 18 phần trăm.",
+          "translation": "Câu 17. Hãy chọn đáp án phù hợp nhất theo văn bản. Bài viết nêu mức giảm 18 phần trăm.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "The word “restore” is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "bring back"
+            },
+            {
+              "key": "B",
+              "text": "measure"
+            },
+            {
+              "key": "C",
+              "text": "remove"
+            },
+            {
+              "key": "D",
+              "text": "schedule"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Restore full lighting nghĩa là đưa ánh sáng trở lại mức đầy đủ.",
+          "translation": "Câu 18. Hãy chọn đáp án phù hợp nhất theo văn bản. Restore full lighting nghĩa là đưa ánh sáng trở lại mức đầy đủ.",
+          "difficulty": 3,
+          "tags": [
+            "vocab-in-context"
+          ],
+          "skill_tags": [
+            "vocab-in-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why were wall controls added?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To lock emergency corridors"
+            },
+            {
+              "key": "B",
+              "text": "To let employees return lights to full brightness"
+            },
+            {
+              "key": "C",
+              "text": "To record tenant attendance"
+            },
+            {
+              "key": "D",
+              "text": "To charge portable devices"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Công tắc cho phép nhân viên khôi phục ánh sáng ngay.",
+          "translation": "Câu 19. Hãy chọn đáp án phù hợp nhất theo văn bản. Công tắc cho phép nhân viên khôi phục ánh sáng ngay.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which floors will be prioritized for the next installation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only vacant floors"
+            },
+            {
+              "key": "B",
+              "text": "Floors with no corridors"
+            },
+            {
+              "key": "C",
+              "text": "Floors with many evening-shift tenants"
+            },
+            {
+              "key": "D",
+              "text": "The four floors already completed"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn cuối nêu ưu tiên các tầng có nhiều ca tối.",
+          "translation": "Câu 20. Hãy chọn đáp án phù hợp nhất theo văn bản. Đoạn cuối nêu ưu tiên các tầng có nhiều ca tối.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**MetroFreight regional delivery rates**\n\nZone 1: up to 20 kg $28; 21–40 kg $42; next-day surcharge $15\nZone 2: up to 20 kg $36; 21–40 kg $55; next-day surcharge $18\nZone 3: up to 20 kg $49; 21–40 kg $72; next-day surcharge $22\nInsurance up to $500 value is included. Orders booked before 2 P.M. qualify for next-day service.\n\n---\n\n**Shipping request from Alder Components**\n\nPlease send one 32-kg box to our Zone 2 repair partner tomorrow. The replacement parts inside are valued at $430. I am submitting this request at 1:20 P.M. today. Use the standard included insurance, and choose next-day service because the repair team needs the parts before its morning shift ends.",
+      "passage_vi": "**Giá giao vùng MetroFreight**\n\nZone 1: đến 20 kg $28, 21–40 kg $42, phụ phí ngày sau $15. Zone 2: $36/$55, phụ phí $18. Zone 3: $49/$72, phụ phí $22. Bảo hiểm đến $500 đã gồm. Đặt trước 14 giờ đủ điều kiện giao ngày sau.\n\n---\n\n**Yêu cầu Alder Components**\n\nGửi hộp 32 kg đến đối tác sửa ở Zone 2 vào ngày mai. Hàng trị giá $430. Gửi yêu cầu lúc 13:20. Dùng bảo hiểm tiêu chuẩn và dịch vụ ngày sau vì đội sửa cần hàng trước khi ca sáng kết thúc.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the base charge for the Alder Components box?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$36"
+            },
+            {
+              "key": "B",
+              "text": "$49"
+            },
+            {
+              "key": "C",
+              "text": "$72"
+            },
+            {
+              "key": "D",
+              "text": "$55"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Hộp 32 kg thuộc mức 21–40 kg ở Zone 2, giá $55.",
+          "translation": "Câu 21. Hãy chọn đáp án phù hợp nhất theo văn bản. Hộp 32 kg thuộc mức 21–40 kg ở Zone 2, giá $55.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why does the request qualify for next-day service?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It was submitted before 2 P.M."
+            },
+            {
+              "key": "B",
+              "text": "The box weighs less than 20 kg."
+            },
+            {
+              "key": "C",
+              "text": "The destination is in Zone 1."
+            },
+            {
+              "key": "D",
+              "text": "The shipment has extra insurance."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Yêu cầu gửi lúc 13:20, trước hạn 14 giờ.",
+          "translation": "Câu 22. Hãy chọn đáp án phù hợp nhất theo văn bản. Yêu cầu gửi lúc 13:20, trước hạn 14 giờ.",
+          "difficulty": 4,
+          "tags": [
+            "cross-passage"
+          ],
+          "skill_tags": [
+            "cross-passage"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How much insurance coverage is needed beyond the included amount?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$70"
+            },
+            {
+              "key": "B",
+              "text": "$0"
+            },
+            {
+              "key": "C",
+              "text": "$430"
+            },
+            {
+              "key": "D",
+              "text": "$500"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Giá trị hàng $430 thấp hơn mức bảo hiểm $500 đã bao gồm.",
+          "translation": "Câu 23. Hãy chọn đáp án phù hợp nhất theo văn bản. Giá trị hàng $430 thấp hơn mức bảo hiểm $500 đã bao gồm.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the total delivery charge including next-day service?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$55"
+            },
+            {
+              "key": "B",
+              "text": "$91"
+            },
+            {
+              "key": "C",
+              "text": "$73"
+            },
+            {
+              "key": "D",
+              "text": "$110"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Zone 2 giá cơ bản $55 cộng phụ phí ngày sau $18 bằng $73.",
+          "translation": "Câu 24. Hãy chọn đáp án phù hợp nhất theo văn bản. Zone 2 giá cơ bản $55 cộng phụ phí ngày sau $18 bằng $73.",
+          "difficulty": 4,
+          "tags": [
+            "cross-passage"
+          ],
+          "skill_tags": [
+            "cross-passage"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why did Alder Components select next-day delivery?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The box is too heavy for standard delivery."
+            },
+            {
+              "key": "B",
+              "text": "Insurance is unavailable on standard service."
+            },
+            {
+              "key": "C",
+              "text": "Zone 2 accepts shipments only on the next day."
+            },
+            {
+              "key": "D",
+              "text": "The repair team needs the parts soon."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Email nói đội sửa cần linh kiện trước khi ca sáng kết thúc.",
+          "translation": "Câu 25. Hãy chọn đáp án phù hợp nhất theo văn bản. Email nói đội sửa cần linh kiện trước khi ca sáng kết thúc.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Conference Center – Tuesday room schedule**\n\nRoom A: 8–10 Product Demo; 10:30–noon open; 1–3 Vendor Briefing\nRoom B: 8–9:30 Finance Panel; 10:30 A.M.–noon open; 1–3 Staff Briefing\nRoom C: 9–11 Design Workshop; 11:30–1 Lunch Setup; 2–4 open\n\n---\n\n**Booking request BR-62**\nSubmitted Monday 3 P.M.\nNeed: Tuesday, 10:30 A.M.–noon\nAttendees: 24\nRequirement: video projector and movable tables\nPreferred room: A\n\n---\n\n**Coordinator message**\n\nRoom A has the projector, but its tables are fixed. Room B seats 30, has movable tables, and a portable projector can be delivered there by 10:15. Please move BR-62 to Room B and ask Facilities to bring the projector. After the session, leave the tables in rows for the noon catering setup in the adjacent foyer.",
+      "passage_vi": "**Trung tâm Hội nghị – lịch phòng thứ Ba**\n\nRoom A 8–10 Demo, 10:30–12 trống, 13–15 Họp nhà cung cấp. Room B 8–9:30 Hội đồng tài chính, 10:30–12 trống, 13–15 Họp nhân viên. Room C 9–11 Xưởng thiết kế, 11:30–13 Chuẩn bị trưa, 14–16 trống.\n\n---\n\n**Yêu cầu BR-62**\nThứ Ba 10:30–12, 24 người, cần máy chiếu và bàn di chuyển được, ưu tiên Room A.\n\n---\n\n**Tin nhắn điều phối**\nRoom A có máy chiếu nhưng bàn cố định. Room B 30 chỗ, bàn di chuyển được và có thể đưa máy chiếu di động đến trước 10:15. Hãy chuyển BR-62 sang Room B và nhờ Facilities mang máy chiếu. Sau phiên học để bàn thành hàng cho khu catering bên cạnh.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What time period does BR-62 request?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8 to 10 A.M. Tuesday"
+            },
+            {
+              "key": "B",
+              "text": "Noon to 2 P.M. Tuesday"
+            },
+            {
+              "key": "C",
+              "text": "2 to 4 P.M. Tuesday"
+            },
+            {
+              "key": "D",
+              "text": "10:30 A.M. to noon Tuesday"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Yêu cầu BR-62 ghi 10:30 đến trưa thứ Ba.",
+          "translation": "Câu 26. Hãy chọn đáp án phù hợp nhất theo văn bản. Yêu cầu BR-62 ghi 10:30 đến trưa thứ Ba.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why is Room A unsuitable despite being preferred?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its tables cannot be moved."
+            },
+            {
+              "key": "B",
+              "text": "It has fewer than 24 seats."
+            },
+            {
+              "key": "C",
+              "text": "It has no projector."
+            },
+            {
+              "key": "D",
+              "text": "It is occupied all morning."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Điều phối viên nói Room A có máy chiếu nhưng bàn cố định, trái yêu cầu.",
+          "translation": "Câu 27. Hãy chọn đáp án phù hợp nhất theo văn bản. Điều phối viên nói Room A có máy chiếu nhưng bàn cố định, trái yêu cầu.",
+          "difficulty": 4,
+          "tags": [
+            "cross-passage"
+          ],
+          "skill_tags": [
+            "cross-passage"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What equipment must Facilities bring to Room B?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fixed tables"
+            },
+            {
+              "key": "B",
+              "text": "A portable projector"
+            },
+            {
+              "key": "C",
+              "text": "A sound system"
+            },
+            {
+              "key": "D",
+              "text": "A catering cart"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Tin nhắn yêu cầu Facilities mang máy chiếu di động.",
+          "translation": "Câu 28. Hãy chọn đáp án phù hợp nhất theo văn bản. Tin nhắn yêu cầu Facilities mang máy chiếu di động.",
+          "difficulty": 4,
+          "tags": [
+            "cross-passage"
+          ],
+          "skill_tags": [
+            "cross-passage"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should happen after the BR-62 session?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Room B should be locked."
+            },
+            {
+              "key": "B",
+              "text": "The projector should be moved to Room A before noon."
+            },
+            {
+              "key": "C",
+              "text": "The tables should be left in rows."
+            },
+            {
+              "key": "D",
+              "text": "The session should continue until 2 P.M."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Điều phối viên yêu cầu để bàn thành hàng sau phiên học.",
+          "translation": "Câu 29. Hãy chọn đáp án phù hợp nhất theo văn bản. Điều phối viên yêu cầu để bàn thành hàng sau phiên học.",
+          "difficulty": 4,
+          "tags": [
+            "cross-passage"
+          ],
+          "skill_tags": [
+            "cross-passage"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What can be inferred about Room B?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It seats fewer than 24 people."
+            },
+            {
+              "key": "B",
+              "text": "It has fixed tables only."
+            },
+            {
+              "key": "C",
+              "text": "It can meet the attendance and furniture requirements."
+            },
+            {
+              "key": "D",
+              "text": "It is unavailable at noon."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Room B có 30 chỗ và bàn di chuyển được, phù hợp yêu cầu.",
+          "translation": "Câu 30. Hãy chọn đáp án phù hợp nhất theo văn bản. Room B có 30 chỗ và bàn di chuyển được, phù hợp yêu cầu.",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

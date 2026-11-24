@@ -1,0 +1,664 @@
+{
+  "slug": "qe-p6-001",
+  "title": "TOEIC Part 6 – Text Completion 01 (Community and Customer Services)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "cefr": "B1",
+  "difficulty": 2,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "community",
+    "retail",
+    "events",
+    "customer-service"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: Saturday workshop volunteers\nFrom: Workshop coordinator\nSubject: Tool check-in at the repair fair\n\nThanks for helping at Saturday's repair fair. Last month, several borrowed tools were returned to the wrong tables, so this time we will use numbered trays. Each volunteer will receive a tray number -------(1)------- checking in at the entrance.\n\nAt the end of each session, please count the tools in your tray. If anything is missing, inform the floor coordinator -------(2)-------, while the participants are still in the room. -------(3)-------\n\nBefore leaving for the day, bring your tray to the storage desk. Staff there will record its -------(4)------- on the same sheet used at check-in.",
+      "passage_vi": "Đến: Tình nguyện viên của buổi hướng dẫn thứ Bảy\nTừ: Điều phối viên buổi hướng dẫn\nChủ đề: Nhận và trả dụng cụ tại ngày hội sửa chữa\n\nCảm ơn các bạn đã hỗ trợ ngày hội sửa chữa thứ Bảy này. Tháng trước, một số dụng cụ mượn đã được trả nhầm bàn, nên lần này chúng ta sẽ dùng khay đánh số. Mỗi tình nguyện viên sẽ được cấp một số khay khi làm thủ tục tại lối vào.\n\nCuối mỗi phiên, vui lòng đếm dụng cụ trong khay. Nếu thiếu thứ gì, hãy báo ngay cho điều phối viên phụ trách khu vực khi người tham gia vẫn còn trong phòng. Điều phối viên khi đó có thể hỏi những người còn có mặt xem họ có dùng dụng cụ bị thiếu hay không.\n\nTrước khi ra về, hãy mang khay đến bàn nhận đồ của kho. Nhân viên tại đó sẽ ghi nhận việc trả khay trên chính tờ phiếu dùng lúc nhận.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "except for"
+            },
+            {
+              "key": "B",
+              "text": "beneath"
+            },
+            {
+              "key": "C",
+              "text": "upon"
+            },
+            {
+              "key": "D",
+              "text": "throughout"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Upon checking in nêu mốc nhận số khay là lúc làm thủ tục ở lối vào. Đây là mốc cấp số khay trong quy trình nhận dụng cụ.",
+          "translation": "Chỗ trống (1). Các lựa chọn: (A) ngoại trừ · (B) bên dưới · (C) ngay khi · (D) trong suốt",
+          "difficulty": 2,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "immediate"
+            },
+            {
+              "key": "B",
+              "text": "immediately"
+            },
+            {
+              "key": "C",
+              "text": "immediacy"
+            },
+            {
+              "key": "D",
+              "text": "more immediate"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Trạng từ immediately bổ nghĩa cho inform. Cụm while the participants are still in the room giải thích vì sao phải báo ngay.",
+          "translation": "Chỗ trống (2). Các lựa chọn: (A) ngay, tính từ · (B) ngay lập tức · (C) tính tức thời · (D) gấp hơn, tính từ",
+          "difficulty": 2,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The coordinator can then ask people who are still there whether they used the missing tool."
+            },
+            {
+              "key": "B",
+              "text": "The storage desk cannot accept cash payments."
+            },
+            {
+              "key": "C",
+              "text": "Please return your tray before the first repair session starts."
+            },
+            {
+              "key": "D",
+              "text": "The organizers will publish the next fair date at the end of the month."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "The coordinator và the missing tool nối với yêu cầu báo dụng cụ bị thiếu. Việc người tham gia còn ở đó giúp điều phối viên hỏi họ ngay.",
+          "translation": "Chỗ trống (3). Các lựa chọn: (A) Điều phối viên khi đó có thể hỏi những người còn có mặt xem họ có dùng dụng cụ bị thiếu hay không. · (B) Bàn nhận đồ của kho không thể nhận thanh toán tiền mặt. · (C) Vui lòng trả khay trước khi phiên sửa chữa đầu tiên bắt đầu. · (D) Ban tổ chức sẽ công bố ngày hội tiếp theo vào cuối tháng.",
+          "difficulty": 3,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "color"
+            },
+            {
+              "key": "B",
+              "text": "assembly"
+            },
+            {
+              "key": "C",
+              "text": "purchase"
+            },
+            {
+              "key": "D",
+              "text": "return"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Its return là việc trả khay. Câu trước yêu cầu mang khay đến kho, nơi nhân viên ghi nhận việc trả.",
+          "translation": "Chỗ trống (4). Các lựa chọn: (A) màu sắc · (B) việc lắp ráp · (C) việc mua · (D) việc trả lại",
+          "difficulty": 2,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Notice: Evening entrance at the community pool\n\nThe main entrance will be closed this Thursday from 6 p.m. while workers replace the front doors. During that time, please use the gate beside the bicycle racks. Signs will -------(5)------- visitors from the gate to the check-in desk.\n\n-------(6)------- If you normally scan a membership card at the entrance, bring it to the desk instead. A member of staff will check it -------(7)-------.\n\nAll scheduled lessons and public swimming sessions will take place as usual. The front doors will reopen on Friday morning, once the replacement work -------(8)------- complete.",
+      "passage_vi": "Thông báo: Lối vào hồ bơi cộng đồng vào buổi tối\n\nLối vào chính sẽ đóng từ 6 giờ tối thứ Năm tuần này trong lúc thợ thay cửa trước. Trong thời gian đó, hãy sử dụng cổng bên cạnh giá để xe đạp. Biển chỉ dẫn sẽ hướng khách từ cổng đến bàn làm thủ tục.\n\nCổng bên hông không có máy quét thẻ. Nếu bình thường bạn quét thẻ thành viên tại lối vào, lần này hãy mang thẻ đến bàn làm thủ tục. Nhân viên sẽ kiểm tra thẻ bằng tay.\n\nCác lớp học và buổi bơi tự do theo lịch vẫn diễn ra bình thường. Cửa trước sẽ mở lại vào sáng thứ Sáu khi công việc thay cửa hoàn tất.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "directing"
+            },
+            {
+              "key": "B",
+              "text": "direct"
+            },
+            {
+              "key": "C",
+              "text": "directed"
+            },
+            {
+              "key": "D",
+              "text": "directs"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau will dùng động từ nguyên mẫu direct. Direct visitors from ... to ... nghĩa là hướng khách đi từ nơi này đến nơi kia.",
+          "translation": "Chỗ trống (5). Các lựa chọn: (A) đang chỉ đường · (B) chỉ đường, nguyên mẫu · (C) đã chỉ đường · (D) chỉ đường, dạng số ít",
+          "difficulty": 2,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "There is no card scanner at the side gate."
+            },
+            {
+              "key": "B",
+              "text": "Swimming lessons are canceled on Thursday evening."
+            },
+            {
+              "key": "C",
+              "text": "A new scanner was installed at the side gate yesterday."
+            },
+            {
+              "key": "D",
+              "text": "The bicycle racks are reserved for pool staff."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Việc cổng bên hông không có máy quét giải thích vì sao câu sau yêu cầu đưa thẻ đến bàn kiểm tra.",
+          "translation": "Chỗ trống (6). Các lựa chọn: (A) Cổng bên hông không có máy quét thẻ. · (B) Các lớp bơi tối thứ Năm bị hủy. · (C) Một máy quét mới được lắp ở cổng bên hông hôm qua. · (D) Giá để xe đạp dành riêng cho nhân viên hồ bơi.",
+          "difficulty": 3,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "manual work"
+            },
+            {
+              "key": "B",
+              "text": "manual"
+            },
+            {
+              "key": "C",
+              "text": "manually"
+            },
+            {
+              "key": "D",
+              "text": "manuals"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Manually là trạng từ diễn tả cách nhân viên kiểm tra thẻ khi không dùng máy quét.",
+          "translation": "Chỗ trống (7). Các lựa chọn: (A) công việc thủ công · (B) thủ công, tính từ · (C) bằng tay · (D) sách hướng dẫn",
+          "difficulty": 2,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "will"
+            },
+            {
+              "key": "B",
+              "text": "being"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Trong mệnh đề thời gian với once, hiện tại đơn is complete diễn tả thời điểm hoàn tất trong tương lai.",
+          "translation": "Chỗ trống (8). Các lựa chọn: (A) sẽ, trợ động từ · (B) đang, dạng phân từ · (C) thì, dạng số nhiều · (D) hoàn tất, với be hiện tại đơn",
+          "difficulty": 2,
+          "tags": [
+            "tense"
+          ],
+          "skill_tags": [
+            "tense"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Local market tests a shared pickup shelf\n\nThree shops at the market started offering a shared order pickup service in May. Buyers who place orders online can now -------(9)------- goods from all three shops at one counter. The idea came from customers who had been walking between several counters on their way home from work.\n\nThe shops expected the shelf to be busiest on Saturdays. -------(10)-------, most orders have been collected between five and six on weekday evenings. -------(11)------- The market manager says the change has shortened the evening line without affecting regular sales.\n\nThe pilot will run until the end of July, when stall owners will decide whether to make the service -------(12)-------.",
+      "passage_vi": "Chợ địa phương thử nghiệm kệ nhận hàng chung\n\nBa cửa hàng ở chợ bắt đầu cung cấp dịch vụ nhận đơn chung vào tháng Năm. Người đặt hàng trực tuyến giờ có thể nhận hàng từ cả ba cửa hàng tại một quầy. Ý tưởng đến từ những khách hàng thường phải đi qua nhiều quầy trên đường đi làm về.\n\nCác cửa hàng dự kiến kệ sẽ đông nhất vào thứ Bảy. Tuy nhiên, phần lớn đơn hàng được nhận từ năm đến sáu giờ tối các ngày trong tuần. Vì thế, các cửa hàng đã bố trí thêm một nhân viên tại quầy trong khung giờ đó. Quản lý chợ cho biết thay đổi này đã rút ngắn hàng chờ buổi tối mà không ảnh hưởng đến doanh số thông thường.\n\nThử nghiệm sẽ kéo dài đến cuối tháng Bảy, khi các chủ quầy sẽ quyết định có duy trì dịch vụ lâu dài hay không.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "afford"
+            },
+            {
+              "key": "B",
+              "text": "lend"
+            },
+            {
+              "key": "C",
+              "text": "collect"
+            },
+            {
+              "key": "D",
+              "text": "weigh"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Collect goods là đến lấy hàng đã đặt. Việc lấy hàng tại một quầy là mục đích của dịch vụ nhận chung.",
+          "translation": "Chỗ trống (9). Các lựa chọn: (A) có khả năng chi trả · (B) cho mượn · (C) nhận · (D) cân",
+          "difficulty": 2,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "However"
+            },
+            {
+              "key": "B",
+              "text": "In other words"
+            },
+            {
+              "key": "C",
+              "text": "Therefore"
+            },
+            {
+              "key": "D",
+              "text": "Similarly"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "However đối chiếu dự đoán thứ Bảy đông nhất với số liệu thực tế tập trung vào các buổi tối trong tuần.",
+          "translation": "Chỗ trống (10). Các lựa chọn: (A) tuy nhiên · (B) nói cách khác · (C) vì vậy · (D) tương tự",
+          "difficulty": 2,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "All three shops will close permanently at the end of the month."
+            },
+            {
+              "key": "B",
+              "text": "The market collected more orders on Saturdays than during the week."
+            },
+            {
+              "key": "C",
+              "text": "The counter is open only on weekend mornings."
+            },
+            {
+              "key": "D",
+              "text": "The shops have therefore added a second attendant at the counter during that hour."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "That hour chỉ khung năm đến sáu giờ tối vừa nêu. Bố trí thêm người là thay đổi giúp giảm hàng chờ ở câu sau.",
+          "translation": "Chỗ trống (11). Các lựa chọn: (A) Cả ba cửa hàng sẽ đóng cửa vĩnh viễn vào cuối tháng. · (B) Chợ xử lý nhiều đơn hơn vào thứ Bảy so với các ngày trong tuần. · (C) Quầy chỉ mở vào các buổi sáng cuối tuần. · (D) Vì thế, các cửa hàng đã bố trí thêm một nhân viên tại quầy trong khung giờ đó.",
+          "difficulty": 3,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "permanence"
+            },
+            {
+              "key": "B",
+              "text": "permanent"
+            },
+            {
+              "key": "C",
+              "text": "permanency"
+            },
+            {
+              "key": "D",
+              "text": "permanently"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Make + tân ngữ + tính từ cần permanent làm bổ ngữ chỉ trạng thái lâu dài của dịch vụ.",
+          "translation": "Chỗ trống (12). Các lựa chọn: (A) tính lâu dài · (B) lâu dài · (C) sự lâu bền · (D) một cách lâu dài",
+          "difficulty": 2,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Weekend glazing course for pottery beginners\n\nAlready made your first bowl or mug? Learn how to apply a smooth coat of glaze at our weekend studio course. The course fee -------(13)------- one prepared practice tile and the glaze used in class. You may also bring one small piece of your own work.\n\nPlease choose either the Saturday or Sunday session. Both sessions follow the same -------(14)-------, beginning with a demonstration and ending with supervised practice. -------(15)------- If neither suits you, join the mailing list to hear about future dates.\n\nPlaces are limited to eight people per session, so register -------(16)------- the class fills up. We will send you a confirmation with details about what to bring.",
+      "passage_vi": "Khóa tráng men cuối tuần cho người mới làm gốm\n\nBạn đã làm chiếc bát hoặc cốc đầu tiên chưa? Hãy học cách phủ một lớp men đều tại khóa cuối tuần ở xưởng. Học phí bao gồm một miếng gốm thực hành đã chuẩn bị sẵn và men dùng trong lớp. Bạn cũng có thể mang một món đồ gốm nhỏ do mình làm.\n\nVui lòng chọn phiên thứ Bảy hoặc Chủ nhật. Cả hai phiên theo cùng một chương trình, bắt đầu bằng phần trình diễn và kết thúc bằng thực hành có hướng dẫn. Cả hai ngày đều có lớp từ 10 giờ sáng đến 1 giờ chiều. Nếu cả hai đều không phù hợp, hãy đăng ký danh sách nhận thư để biết các ngày mở lớp sau.\n\nMỗi phiên chỉ có tám chỗ, vì thế hãy đăng ký trước khi lớp kín chỗ. Chúng tôi sẽ gửi xác nhận kèm thông tin về những thứ cần mang theo.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "includes"
+            },
+            {
+              "key": "B",
+              "text": "include"
+            },
+            {
+              "key": "C",
+              "text": "including"
+            },
+            {
+              "key": "D",
+              "text": "inclusion"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Chủ ngữ số ít the course fee cần động từ hiện tại đơn includes. Câu nêu các vật liệu đã tính trong giá.",
+          "translation": "Chỗ trống (13). Các lựa chọn: (A) bao gồm, dạng số ít · (B) bao gồm, nguyên mẫu hoặc số nhiều · (C) đang bao gồm, dạng -ing · (D) sự bao gồm",
+          "difficulty": 2,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "receipt"
+            },
+            {
+              "key": "B",
+              "text": "inventory"
+            },
+            {
+              "key": "C",
+              "text": "invoice"
+            },
+            {
+              "key": "D",
+              "text": "format"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Format là trình tự và cách tổ chức buổi học. Câu sau dấu phẩy nêu hai phần của chương trình.",
+          "translation": "Chỗ trống (14). Các lựa chọn: (A) biên lai · (B) danh mục hàng · (C) hóa đơn · (D) hình thức tổ chức",
+          "difficulty": 2,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "All sessions will be held online."
+            },
+            {
+              "key": "B",
+              "text": "Only the Sunday session includes a demonstration."
+            },
+            {
+              "key": "C",
+              "text": "Classes on both days run from 10 a.m. to 1 p.m."
+            },
+            {
+              "key": "D",
+              "text": "The practice tiles will be stored in our office for a year."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu nêu giờ của hai lựa chọn để người đọc xác định có phù hợp không. Neither ở câu sau quy chiếu về hai phiên học.",
+          "translation": "Chỗ trống (15). Các lựa chọn: (A) Tất cả các phiên sẽ diễn ra trực tuyến. · (B) Chỉ phiên Chủ nhật có phần trình diễn. · (C) Cả hai ngày đều có lớp từ 10 giờ sáng đến 1 giờ chiều. · (D) Miếng gốm thực hành sẽ được cất tại văn phòng trong một năm.",
+          "difficulty": 3,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "even after"
+            },
+            {
+              "key": "B",
+              "text": "before"
+            },
+            {
+              "key": "C",
+              "text": "as though"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Before nêu thứ tự cần thiết: đăng ký khi vẫn còn chỗ, trước lúc lớp đầy.",
+          "translation": "Chỗ trống (16). Các lựa chọn: (A) ngay cả sau khi · (B) trước khi · (C) như thể · (D) kể từ khi hoặc vì",
+          "difficulty": 2,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

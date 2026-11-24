@@ -1,0 +1,58 @@
+{
+  "slug": "qe-p1-010",
+  "content_path": "content/tests/toeic_part/qe-p1-010.json",
+  "title": "TOEIC Part 1 – Photographs 10 (Professional Services and Public Facilities)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "900",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 8,
+  "total_questions": 12,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part1",
+      "title": "Part 1 – Photographs",
+      "parts": [
+        1
+      ],
+      "count": 12,
+      "minutes": 8
+    }
+  ],
+  "authoring_scope": "Twelve original photo-description groups with one question each. Image descriptions are original scene briefs and require original or licensed generated images before publication.",
+  "difficulty_rationale_vi": "Mức 900 tăng distractor gần nghĩa, chú trọng trạng thái vật thể, vị trí và hành động đang diễn ra nhưng vẫn chỉ có một mô tả chính xác.",
+  "answer_plan": {
+    "counts": {
+      "A": 3,
+      "B": 3,
+      "C": 3,
+      "D": 3
+    },
+    "sequence": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Chỉ cung cấp mô tả ảnh, câu tiếng Anh và phương án cho người giải độc lập. Giữ riêng đáp án, lời giải, bản dịch và file đặc tả."
+  }
+}

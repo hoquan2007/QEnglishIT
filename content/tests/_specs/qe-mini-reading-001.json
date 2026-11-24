@@ -1,0 +1,560 @@
+{
+  "slug": "qe-mini-reading-001",
+  "content_path": "content/tests/toeic_mini/qe-mini-reading-001.json",
+  "title": "TOEIC Mini 01 – Community Facilities",
+  "exam_type": "toeic_mini",
+  "level": "450",
+  "difficulty": 2,
+  "duration_minutes": 60,
+  "total_questions": 100,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "listening",
+      "title": "Listening",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 50,
+      "minutes": 25
+    },
+    {
+      "key": "reading",
+      "title": "Reading",
+      "parts": [
+        5,
+        6,
+        7
+      ],
+      "count": 50,
+      "minutes": 35
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "A community center lobby has a long reception desk. A staff member is handing a visitor a printed badge while two people wait near a notice board.",
+      "first_question": 1,
+      "last_question": 1,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Outside a public library, two workers are placing books into labeled plastic crates beside a small delivery van.",
+      "first_question": 2,
+      "last_question": 2,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "In a multipurpose hall, a technician is adjusting a ceiling-mounted projector while rows of empty chairs face a screen.",
+      "first_question": 3,
+      "last_question": 3,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "At a neighborhood garden, three volunteers are filling watering cans from an outdoor tap beside raised planting beds.",
+      "first_question": 4,
+      "last_question": 4,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Inside a bicycle workshop, a mechanic is tightening a bolt on a bicycle wheel while helmets hang from hooks on the wall.",
+      "first_question": 5,
+      "last_question": 5,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "At an outdoor information booth, a woman is attaching a schedule poster to a display board while another worker holds a roll of tape.",
+      "first_question": 6,
+      "last_question": 6,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Where can I pick up the meeting-room key?",
+      "first_question": 7,
+      "last_question": 7,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Could you move the volunteer briefing to two o’clock?",
+      "first_question": 8,
+      "last_question": 8,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Why is the east entrance closed this morning?",
+      "first_question": 9,
+      "last_question": 9,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Who ordered the replacement projector lamp?",
+      "first_question": 10,
+      "last_question": 10,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: When will the repair workshop finish?",
+      "first_question": 11,
+      "last_question": 11,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Haven’t the folding chairs arrived yet?",
+      "first_question": 12,
+      "last_question": 12,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Which bus stops closest to the community pool?",
+      "first_question": 13,
+      "last_question": 13,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Would you like me to print the attendance list?",
+      "first_question": 14,
+      "last_question": 14,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: How often are the fire alarms tested?",
+      "first_question": 15,
+      "last_question": 15,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Where should I leave these donated books?",
+      "first_question": 16,
+      "last_question": 16,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Can the photography club use the wall screen?",
+      "first_question": 17,
+      "last_question": 17,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Why did you call the bicycle customer?",
+      "first_question": 18,
+      "last_question": 18,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Do we need another table at registration?",
+      "first_question": 19,
+      "last_question": 19,
+      "question_count": 1
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "context": "Q: Who is leading the safety inspection?",
+      "first_question": 20,
+      "last_question": 20,
+      "question_count": 1
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "M: Hi, I reserved Room Maple for our neighborhood committee at two.",
+      "first_question": 21,
+      "last_question": 23,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "W: The garden center delivery just arrived, but there are only six bags of soil.",
+      "first_question": 24,
+      "last_question": 26,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "M: I signed up for the beginner swimming class, but I received an email about a room change.",
+      "first_question": 27,
+      "last_question": 29,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "W: Daniel, can you cover the museum welcome desk from eleven to noon? Priya has to guide a school group.",
+      "first_question": 30,
+      "last_question": 32,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "M: The repair café is busier than expected. We have five people waiting for appliance checks.",
+      "first_question": 33,
+      "last_question": 35,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "N: Attention, community shuttle passengers. Because Pine Street is closed for utility work, the 9:20 shuttle will skip the Pine Street stop and use Oak Avenue instead. Passengers for the health clinic should get off at Oak Avenue and walk one block east. The regular route is expected to resume after noon.",
+      "first_question": 36,
+      "last_question": 38,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "N: This is a reminder for tonight’s community cooking class. The class will begin at six in Kitchen B, not Kitchen A. Please bring a reusable container if you want to take food home. Aprons and basic utensils are provided. Participants should check in at the front desk before going downstairs.",
+      "first_question": 39,
+      "last_question": 41,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "N: Vendors at Saturday’s neighborhood market should note a change to unloading. Vehicles may enter the service lane from 6:30 to 7:15 a.m. After 7:15, the lane becomes pedestrian-only. Vendors arriving later must use the public parking lot and carry goods through the south gate. Market staff will provide carts near that gate.",
+      "first_question": 42,
+      "last_question": 44,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "N: Welcome to the shared woodworking workshop. Before using any power tool, complete the short safety demonstration at the red bench. Eye protection is stored in the cabinet beside the bench. If a tool develops a problem, switch it off and attach a yellow tag. Do not attempt repairs yourself. A technician checks tagged equipment every afternoon.",
+      "first_question": 45,
+      "last_question": 47,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "N: The neighborhood recycling event begins at nine on Sunday in the civic center parking lot. Paper, metal cans, and small electronics are accepted. Glass will not be collected this month because the processing truck is unavailable. Volunteers can help unload items, but residents should remove personal data from electronic devices before arriving.",
+      "first_question": 48,
+      "last_question": 50,
+      "question_count": 3
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The venue manager ------- a wider entrance after reviewing the accessibility report.",
+      "first_question": 51,
+      "last_question": 51,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The inventory team counted the returned chairs ------- before signing the receipt.",
+      "first_question": 52,
+      "last_question": 52,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The shared studio will remain closed ------- the safety inspection is completed.",
+      "first_question": 53,
+      "last_question": 53,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Neither of the two repair estimates ------- the cost of replacement cables.",
+      "first_question": 54,
+      "last_question": 54,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The guest badges are stored in the cabinet ------- the reception desk.",
+      "first_question": 55,
+      "last_question": 55,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "By the time the exhibition opened, the contractor ------- all the ceiling lights.",
+      "first_question": 56,
+      "last_question": 56,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Employees should submit ------- parking requests before Friday.",
+      "first_question": 57,
+      "last_question": 57,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The colleague ------- manages the volunteer schedule will join the call.",
+      "first_question": 58,
+      "last_question": 58,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The water station is ------- accessible to runners throughout the event.",
+      "first_question": 59,
+      "last_question": 59,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "If enough volunteers arrive, the committee ------- a second registration table.",
+      "first_question": 60,
+      "last_question": 60,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The new sorting labels were designed to ------- confusion at the loading bay.",
+      "first_question": 61,
+      "last_question": 61,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "There were ------- seats available than the registration page indicated.",
+      "first_question": 62,
+      "last_question": 62,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The shipping clerk spoke ------- because several drivers were waiting.",
+      "first_question": 63,
+      "last_question": 63,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The maintenance crew must finish the elevator inspection ------- 6 p.m.",
+      "first_question": 64,
+      "last_question": 64,
+      "question_count": 1
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "context": "Subject: Evening Ceramics Workshop Check-in",
+      "first_question": 65,
+      "last_question": 68,
+      "question_count": 4
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "context": "Operations Note — Shared Tool Library",
+      "first_question": 69,
+      "last_question": 72,
+      "question_count": 4
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "context": "Email — From: Facilities Desk",
+      "first_question": 73,
+      "last_question": 76,
+      "question_count": 4
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "context": "Booking Desk — Community Bike Workshop",
+      "first_question": 77,
+      "last_question": 80,
+      "question_count": 4
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The front-desk team will email participants ------- the room number changes.",
+      "first_question": 81,
+      "last_question": 81,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Please place completed feedback forms in the box ------- the exit.",
+      "first_question": 82,
+      "last_question": 82,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The coordinator checked the reservation list ------- before opening the doors.",
+      "first_question": 83,
+      "last_question": 83,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "All borrowed equipment must be ------- by Friday afternoon.",
+      "first_question": 84,
+      "last_question": 84,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The workshop added an extra session ------- demand was higher than expected.",
+      "first_question": 85,
+      "last_question": 85,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Visitors may use the lockers, but they must bring ------- own padlocks.",
+      "first_question": 86,
+      "last_question": 86,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The new signs are easier to read than the ------- ones.",
+      "first_question": 87,
+      "last_question": 87,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Ms. Chen will inspect the hall after the cleaners ------- their work.",
+      "first_question": 88,
+      "last_question": 88,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "The donation desk has received ------- boxes this week than last week.",
+      "first_question": 89,
+      "last_question": 89,
+      "question_count": 1
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Staff members were asked to respond ------- to urgent maintenance messages.",
+      "first_question": 90,
+      "last_question": 90,
+      "question_count": 1
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "context": "Subject: Updated Volunteer Check-in",
+      "first_question": 91,
+      "last_question": 94,
+      "question_count": 4
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "context": "Community Arts Center — Equipment Notice",
+      "first_question": 95,
+      "last_question": 97,
+      "question_count": 3
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "context": "Neighborhood Hall — Saturday Schedule",
+      "first_question": 98,
+      "last_question": 100,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 27,
+      "B": 27,
+      "C": 25,
+      "D": 21
+    },
+    "four_choice_counts": {
+      "A": 22,
+      "B": 22,
+      "C": 21,
+      "D": 21
+    },
+    "three_choice_counts": {
+      "A": 5,
+      "B": 5,
+      "C": 4
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 3
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 5,
+    "publication_ready": false,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, transcript hoặc đoạn văn tiếng Anh cần thiết và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

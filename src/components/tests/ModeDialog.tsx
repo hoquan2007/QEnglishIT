@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { X, FileText, Target, Play, Timer, GraduationCap, Dumbbell } from "lucide-react";
 import type { Test } from "@/lib/types";
-import { PARTS } from "@/lib/toeic";
+import { getToeicParts, PARTS } from "@/lib/toeic";
 import { cn } from "@/lib/utils";
 
 export function ModeDialog({
@@ -24,9 +24,13 @@ export function ModeDialog({
   const [customTime, setCustomTime] = useState(false);
   const [minutes, setMinutes] = useState(0);
 
-  const suggested = Math.round(parts.reduce((s, p) => s + PARTS[p - 1].count, 0) * 0.6);
+  const availableParts = getToeicParts(test);
+  const options = PARTS.filter((p) => availableParts.includes(p.part));
+  const suggested = test.exam_type === "toeic_part"
+    ? test.duration_minutes
+    : Math.round(parts.reduce((s, p) => s + PARTS[p - 1].count, 0) * 0.6);
   const toggle = (p: number) => setParts((ps) => (ps.includes(p) ? ps.filter((x) => x !== p) : [...ps, p].sort()));
-  const allSelected = parts.length === 7;
+  const allSelected = parts.length === availableParts.length;
 
   function go(selected: number[] | "full") {
     const q = new URLSearchParams({ mode });
@@ -62,14 +66,14 @@ export function ModeDialog({
           <div className="mt-4 flex items-center gap-3 rounded-2xl border border-slate-200 p-4">
             <span className="grid h-10 w-10 place-items-center rounded-xl bg-brand-50 text-brand-600"><FileText className="h-5 w-5" /></span>
             <div className="flex-1">
-              <div className="font-bold">Full Test ({test.total_questions} câu)</div>
-              <div className="text-xs text-slate-500">Làm đầy đủ đề thi như thi thật · {test.duration_minutes} phút</div>
+              <div className="font-bold">Làm cả đề ({test.total_questions} câu)</div>
+              <div className="text-xs text-slate-500">{test.duration_minutes} phút</div>
             </div>
             <button className="btn btn-primary !py-2" onClick={() => go("full")}><Play className="h-4 w-4" />Bắt đầu</button>
           </div>
         )}
 
-        <div className="mt-3 rounded-2xl border border-slate-200 p-4">
+        {(fixedParts || options.length > 1) && <div className="mt-3 rounded-2xl border border-slate-200 p-4">
           <div className="flex items-center gap-3">
             <span className="grid h-10 w-10 place-items-center rounded-xl bg-violet-50 text-violet-600"><Target className="h-5 w-5" /></span>
             <div className="flex-1">
@@ -81,14 +85,14 @@ export function ModeDialog({
           {!fixedParts && (
             <>
               <label className="mt-4 flex cursor-pointer items-center gap-2 rounded-lg border border-slate-200 px-3 py-2 text-sm">
-                <input type="checkbox" checked={allSelected} onChange={() => setParts(allSelected ? [] : [1, 2, 3, 4, 5, 6, 7])} />
-                Chọn tất cả 7 Part <span className="ml-auto text-slate-400">200 câu</span>
+                <input type="checkbox" checked={allSelected} onChange={() => setParts(allSelected ? [] : availableParts)} />
+                Chọn tất cả {availableParts.length} Part
               </label>
               {(["Nghe", "Đọc"] as const).map((skill) => (
                 <div key={skill}>
                   <div className="mb-2 mt-3 text-[11px] font-bold uppercase tracking-wider text-slate-400">{skill === "Nghe" ? "Listening" : "Reading"}</div>
                   <div className="grid grid-cols-2 gap-2">
-                    {PARTS.filter((p) => p.skill === skill).map((p) => (
+                    {options.filter((p) => p.skill === skill).map((p) => (
                       <label key={p.part} className={cn("flex cursor-pointer items-center gap-2 rounded-lg border px-3 py-2 text-sm", parts.includes(p.part) ? "border-brand-400 bg-brand-50" : "border-slate-200")}>
                         <input type="checkbox" checked={parts.includes(p.part)} onChange={() => toggle(p.part)} />
                         {p.name}<span className="ml-auto text-xs text-slate-400">{p.count} câu</span>
@@ -112,7 +116,7 @@ export function ModeDialog({
               <div className="mt-1 text-xs text-slate-500">Không giới hạn · thời gian đề xuất {suggested} phút</div>
             )}
           </div>
-        </div>
+        </div>}
       </div>
     </div>
   );

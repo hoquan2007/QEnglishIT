@@ -1,0 +1,6085 @@
+[
+  {
+    "word": "the",
+    "lemma": "the",
+    "pos": "det",
+    "ipa": "/ˈðə/",
+    "ipa_us": "/ˈðə/",
+    "ipa_uk": "/ðə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7",
+        "source_transcription": "/ðə, ði/"
+      }
+    },
+    "meaning_vi": "mạo từ xác định",
+    "definition_en": "used before a particular or previously mentioned person or thing",
+    "examples": [
+      {
+        "en": "The blue bag is mine.",
+        "vi": "Chiếc túi màu xanh đó là của tôi.",
+        "source": "original"
+      },
+      {
+        "en": "Please close the window.",
+        "vi": "Vui lòng đóng cửa sổ đó.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the same day",
+        "vi": "cùng ngày"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "to",
+    "lemma": "to",
+    "pos": "prep",
+    "ipa": "/ˈtu/",
+    "ipa_us": "/ˈtu/",
+    "ipa_uk": "/tˈuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "đến, tới",
+    "definition_en": "indicating movement toward a place or person",
+    "examples": [
+      {
+        "en": "We walked to the station.",
+        "vi": "Chúng tôi đi bộ tới nhà ga.",
+        "source": "original"
+      },
+      {
+        "en": "Send the receipt to Anna.",
+        "vi": "Hãy gửi biên nhận cho Anna.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go to school",
+        "vi": "đi đến trường"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "and",
+    "lemma": "and",
+    "pos": "conj",
+    "ipa": "/ˈænd/",
+    "ipa_us": "/ˈænd/",
+    "ipa_uk": "/ˈænd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "và",
+    "definition_en": "used to connect words or ideas",
+    "examples": [
+      {
+        "en": "I bought bread and milk.",
+        "vi": "Tôi mua bánh mì và sữa.",
+        "source": "original"
+      },
+      {
+        "en": "The room is bright and quiet.",
+        "vi": "Căn phòng sáng sủa và yên tĩnh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "now and then",
+        "vi": "thỉnh thoảng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "of",
+    "lemma": "of",
+    "pos": "prep",
+    "ipa": "/ˈəv/",
+    "ipa_us": "/ˈəv/",
+    "ipa_uk": "/ˈɒv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của, thuộc về",
+    "definition_en": "showing a relationship between things or people",
+    "examples": [
+      {
+        "en": "The cover of this book is red.",
+        "vi": "Bìa của cuốn sách này màu đỏ.",
+        "source": "original"
+      },
+      {
+        "en": "She drank a glass of water.",
+        "vi": "Cô ấy uống một ly nước.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a piece of cake",
+        "vi": "một miếng bánh"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "a",
+    "lemma": "a",
+    "pos": "det",
+    "ipa": "/ˈeɪ/",
+    "ipa_us": "/ˈeɪ/",
+    "ipa_uk": "/eɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "một",
+    "definition_en": "used before an unspecified singular countable noun beginning with a consonant sound",
+    "examples": [
+      {
+        "en": "A bird landed on the fence.",
+        "vi": "Một con chim đậu trên hàng rào.",
+        "source": "original"
+      },
+      {
+        "en": "I need a new notebook.",
+        "vi": "Tôi cần một cuốn sổ mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a few minutes",
+        "vi": "vài phút"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "in",
+    "lemma": "in",
+    "pos": "prep",
+    "ipa": "/ˈɪn/",
+    "ipa_us": "/ˈɪn/",
+    "ipa_uk": "/ˈɪn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "trong, ở trong",
+    "definition_en": "inside a place or container",
+    "examples": [
+      {
+        "en": "The keys are in my pocket.",
+        "vi": "Chìa khóa ở trong túi tôi.",
+        "source": "original"
+      },
+      {
+        "en": "We waited in the lobby.",
+        "vi": "Chúng tôi đợi trong sảnh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in the room",
+        "vi": "trong phòng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "for",
+    "lemma": "for",
+    "pos": "prep",
+    "ipa": "/ˈfɔɹ/",
+    "ipa_us": "/ˈfɔɹ/",
+    "ipa_uk": "/fˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "dành cho",
+    "definition_en": "intended to benefit or be used by someone",
+    "examples": [
+      {
+        "en": "This parcel is for you.",
+        "vi": "Bưu kiện này dành cho bạn.",
+        "source": "original"
+      },
+      {
+        "en": "I saved a seat for my sister.",
+        "vi": "Tôi giữ chỗ cho em gái.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a gift for someone",
+        "vi": "món quà dành cho ai đó"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 9,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "that",
+    "lemma": "that",
+    "pos": "det",
+    "ipa": "/ˈðæt/",
+    "ipa_us": "/ˈðæt/",
+    "ipa_uk": "/ðˈæt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "kia, đó",
+    "definition_en": "identifying a particular thing or person at a distance",
+    "examples": [
+      {
+        "en": "That building has a green roof.",
+        "vi": "Tòa nhà kia có mái xanh.",
+        "source": "original"
+      },
+      {
+        "en": "Please pass me that folder.",
+        "vi": "Hãy đưa tôi tập hồ sơ đó.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "that time",
+        "vi": "lúc đó"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 10,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "you",
+    "lemma": "you",
+    "pos": "pron",
+    "ipa": "/ˈju/",
+    "ipa_us": "/ˈju/",
+    "ipa_uk": "/jˈuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "bạn, các bạn",
+    "definition_en": "referring to the person or people addressed",
+    "examples": [
+      {
+        "en": "You can sit beside me.",
+        "vi": "Bạn có thể ngồi bên cạnh tôi.",
+        "source": "original"
+      },
+      {
+        "en": "Did you receive my message?",
+        "vi": "Bạn đã nhận được tin nhắn của tôi chưa?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "thank you",
+        "vi": "cảm ơn bạn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 11,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "it",
+    "lemma": "it",
+    "pos": "pron",
+    "ipa": "/ˈɪt/",
+    "ipa_us": "/ˈɪt/",
+    "ipa_uk": "/ˈɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nó, điều đó",
+    "definition_en": "referring to a thing or situation already mentioned",
+    "examples": [
+      {
+        "en": "I found my phone and charged it.",
+        "vi": "Tôi tìm thấy điện thoại rồi sạc nó.",
+        "source": "original"
+      },
+      {
+        "en": "It belongs to my uncle.",
+        "vi": "Nó thuộc về chú tôi.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take it easy",
+        "vi": "thư giãn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 12,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "on",
+    "lemma": "on",
+    "pos": "prep",
+    "ipa": "/ˈɑn/",
+    "ipa_us": "/ˈɑn/",
+    "ipa_uk": "/ˈɒn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "trên",
+    "definition_en": "touching or supported by a surface",
+    "examples": [
+      {
+        "en": "The cup is on the shelf.",
+        "vi": "Chiếc cốc nằm trên kệ.",
+        "source": "original"
+      },
+      {
+        "en": "Put your name on the label.",
+        "vi": "Ghi tên bạn trên nhãn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on the wall",
+        "vi": "trên tường"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 13,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "with",
+    "lemma": "with",
+    "pos": "prep",
+    "ipa": "/ˈwɪð/",
+    "ipa_us": "/ˈwɪð/",
+    "ipa_uk": "/wˈɪð/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cùng với",
+    "definition_en": "accompanied by a person or thing",
+    "examples": [
+      {
+        "en": "I had lunch with my cousin.",
+        "vi": "Tôi ăn trưa cùng anh họ.",
+        "source": "original"
+      },
+      {
+        "en": "She arrived with two colleagues.",
+        "vi": "Cô ấy đến cùng hai đồng nghiệp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "work with someone",
+        "vi": "làm việc cùng ai đó"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 14,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "this",
+    "lemma": "this",
+    "pos": "det",
+    "ipa": "/ˈðɪs/",
+    "ipa_us": "/ˈðɪs/",
+    "ipa_uk": "/ðˈɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "này",
+    "definition_en": "identifying a nearby or currently relevant thing",
+    "examples": [
+      {
+        "en": "This chair is comfortable.",
+        "vi": "Chiếc ghế này rất thoải mái.",
+        "source": "original"
+      },
+      {
+        "en": "We will finish this project tomorrow.",
+        "vi": "Chúng tôi sẽ hoàn thành dự án này vào ngày mai.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "this morning",
+        "vi": "sáng nay"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 16,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "be",
+    "lemma": "be",
+    "pos": "v",
+    "ipa": "/ˈbi/",
+    "ipa_us": "/ˈbi/",
+    "ipa_uk": "/bˈiː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "là, thì, ở",
+    "definition_en": "used to describe or identify a person or thing",
+    "examples": [
+      {
+        "en": "Please be careful on the stairs.",
+        "vi": "Hãy cẩn thận khi đi cầu thang.",
+        "source": "original"
+      },
+      {
+        "en": "I want to be a nurse.",
+        "vi": "Tôi muốn trở thành y tá.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be ready",
+        "vi": "sẵn sàng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 18,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "at",
+    "lemma": "at",
+    "pos": "prep",
+    "ipa": "/ˈæt/",
+    "ipa_us": "/ˈæt/",
+    "ipa_uk": "/ˈæt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tại, ở",
+    "definition_en": "indicating a particular place or point",
+    "examples": [
+      {
+        "en": "We met at the library.",
+        "vi": "Chúng tôi gặp nhau tại thư viện.",
+        "source": "original"
+      },
+      {
+        "en": "Someone is waiting at the door.",
+        "vi": "Có người đang đợi ở cửa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "at home",
+        "vi": "ở nhà"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 22,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "not",
+    "lemma": "not",
+    "pos": "adv",
+    "ipa": "/ˈnɑt/",
+    "ipa_us": "/ˈnɑt/",
+    "ipa_uk": "/nˈɒt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "không",
+    "definition_en": "used to make a statement or phrase negative",
+    "examples": [
+      {
+        "en": "The shop is not open yet.",
+        "vi": "Cửa hàng vẫn chưa mở.",
+        "source": "original"
+      },
+      {
+        "en": "I am not angry with you.",
+        "vi": "Tôi không giận bạn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "not yet",
+        "vi": "chưa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 24,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "by",
+    "lemma": "by",
+    "pos": "prep",
+    "ipa": "/ˈbaɪ/",
+    "ipa_us": "/ˈbaɪ/",
+    "ipa_uk": "/bˈaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "bằng, qua",
+    "definition_en": "indicating a method of doing something",
+    "examples": [
+      {
+        "en": "We traveled by train.",
+        "vi": "Chúng tôi đi bằng tàu hỏa.",
+        "source": "original"
+      },
+      {
+        "en": "You can pay by card.",
+        "vi": "Bạn có thể thanh toán bằng thẻ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "by email",
+        "vi": "qua thư điện tử"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 25,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "from",
+    "lemma": "from",
+    "pos": "prep",
+    "ipa": "/ˈfɹəm/",
+    "ipa_us": "/ˈfɹəm/",
+    "ipa_uk": "/fɹˈɒm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "từ",
+    "definition_en": "indicating the origin or starting point",
+    "examples": [
+      {
+        "en": "This letter came from Japan.",
+        "vi": "Bức thư này đến từ Nhật Bản.",
+        "source": "original"
+      },
+      {
+        "en": "The bus runs from the airport to town.",
+        "vi": "Xe buýt chạy từ sân bay vào thành phố.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "from scratch",
+        "vi": "từ đầu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 28,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "my",
+    "lemma": "my",
+    "pos": "det",
+    "ipa": "/ˈmaɪ/",
+    "ipa_us": "/ˈmaɪ/",
+    "ipa_uk": "/mˈaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của tôi",
+    "definition_en": "showing that something belongs or relates to the speaker",
+    "examples": [
+      {
+        "en": "My desk is near the window.",
+        "vi": "Bàn của tôi ở gần cửa sổ.",
+        "source": "original"
+      },
+      {
+        "en": "I left my umbrella at work.",
+        "vi": "Tôi để quên ô của mình ở chỗ làm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "my own",
+        "vi": "của riêng tôi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 29,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "or",
+    "lemma": "or",
+    "pos": "conj",
+    "ipa": "/ˈɔɹ/",
+    "ipa_us": "/ˈɔɹ/",
+    "ipa_uk": "/ˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "hoặc",
+    "definition_en": "used to introduce an alternative",
+    "examples": [
+      {
+        "en": "Would you like tea or coffee?",
+        "vi": "Bạn muốn trà hay cà phê?",
+        "source": "original"
+      },
+      {
+        "en": "Call me today or tomorrow.",
+        "vi": "Hãy gọi cho tôi hôm nay hoặc ngày mai.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "one or two",
+        "vi": "một hoặc hai"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 30,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "we",
+    "lemma": "we",
+    "pos": "pron",
+    "ipa": "/ˈwi/",
+    "ipa_us": "/ˈwi/",
+    "ipa_uk": "/wˈiː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "chúng tôi, chúng ta",
+    "definition_en": "referring to the speaker and at least one other person",
+    "examples": [
+      {
+        "en": "We have enough chairs.",
+        "vi": "Chúng ta có đủ ghế.",
+        "source": "original"
+      },
+      {
+        "en": "We plan to visit the museum.",
+        "vi": "Chúng tôi dự định thăm bảo tàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "we agree",
+        "vi": "chúng tôi đồng ý"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 31,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "an",
+    "lemma": "an",
+    "pos": "det",
+    "ipa": "/ˈæn/",
+    "ipa_us": "/ˈæn/",
+    "ipa_uk": "/ˈɐn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "một",
+    "definition_en": "used before an unspecified singular noun beginning with a vowel sound",
+    "examples": [
+      {
+        "en": "She brought an apple to work.",
+        "vi": "Cô ấy mang một quả táo đến chỗ làm.",
+        "source": "original"
+      },
+      {
+        "en": "We waited for an hour.",
+        "vi": "Chúng tôi đợi một giờ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an example",
+        "vi": "một ví dụ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 32,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "your",
+    "lemma": "your",
+    "pos": "det",
+    "ipa": "/ˈjɔɹ/",
+    "ipa_us": "/ˈjɔɹ/",
+    "ipa_uk": "/jˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của bạn",
+    "definition_en": "showing that something belongs or relates to the listener",
+    "examples": [
+      {
+        "en": "Your appointment starts at ten.",
+        "vi": "Cuộc hẹn của bạn bắt đầu lúc mười giờ.",
+        "source": "original"
+      },
+      {
+        "en": "Please check your email.",
+        "vi": "Hãy kiểm tra thư điện tử của bạn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "your choice",
+        "vi": "lựa chọn của bạn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 33,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "all",
+    "lemma": "all",
+    "pos": "det",
+    "ipa": "/ˈɔɫ/",
+    "ipa_us": "/ˈɔɫ/",
+    "ipa_uk": "/ˈɔːl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tất cả",
+    "definition_en": "referring to the complete number or amount",
+    "examples": [
+      {
+        "en": "All students need a ticket.",
+        "vi": "Tất cả học sinh đều cần vé.",
+        "source": "original"
+      },
+      {
+        "en": "She read all three reports.",
+        "vi": "Cô ấy đọc cả ba báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "all day",
+        "vi": "suốt ngày"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 34,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "so",
+    "lemma": "so",
+    "pos": "adv",
+    "ipa": "/ˈsoʊ/",
+    "ipa_us": "/ˈsoʊ/",
+    "ipa_uk": "/sˈəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "rất, đến mức",
+    "definition_en": "to a high degree",
+    "examples": [
+      {
+        "en": "The soup is so hot.",
+        "vi": "Món súp rất nóng.",
+        "source": "original"
+      },
+      {
+        "en": "Why are you so tired today?",
+        "vi": "Sao hôm nay bạn mệt đến vậy?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "so much",
+        "vi": "rất nhiều"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 35,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "his",
+    "lemma": "his",
+    "pos": "det",
+    "ipa": "/ˈhɪz/",
+    "ipa_us": "/ˈhɪz/",
+    "ipa_uk": "/hˈɪz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của anh ấy",
+    "definition_en": "showing that something belongs or relates to a male person",
+    "examples": [
+      {
+        "en": "His bicycle needs a new tire.",
+        "vi": "Xe đạp của anh ấy cần lốp mới.",
+        "source": "original"
+      },
+      {
+        "en": "Tom forgot his password.",
+        "vi": "Tom quên mật khẩu của mình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "his own",
+        "vi": "của riêng anh ấy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 36,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "they",
+    "lemma": "they",
+    "pos": "pron",
+    "ipa": "/ˈðeɪ/",
+    "ipa_us": "/ˈðeɪ/",
+    "ipa_uk": "/ðˈeɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "họ",
+    "definition_en": "referring to people or things already mentioned",
+    "examples": [
+      {
+        "en": "They live across the street.",
+        "vi": "Họ sống ở phía bên kia đường.",
+        "source": "original"
+      },
+      {
+        "en": "They arrived before the meeting started.",
+        "vi": "Họ đến trước khi cuộc họp bắt đầu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "they said",
+        "vi": "họ nói"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 37,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "me",
+    "lemma": "me",
+    "pos": "pron",
+    "ipa": "/ˈmi/",
+    "ipa_us": "/ˈmi/",
+    "ipa_uk": "/mˈiː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tôi, cho tôi",
+    "definition_en": "referring to the speaker as the object of a verb or preposition",
+    "examples": [
+      {
+        "en": "Could you help me with this box?",
+        "vi": "Bạn có thể giúp tôi với chiếc hộp này không?",
+        "source": "original"
+      },
+      {
+        "en": "She handed me a map.",
+        "vi": "Cô ấy đưa cho tôi một bản đồ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "tell me",
+        "vi": "nói cho tôi biết"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 38,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "if",
+    "lemma": "if",
+    "pos": "conj",
+    "ipa": "/ˈɪf/",
+    "ipa_us": "/ˈɪf/",
+    "ipa_uk": "/ˈɪf/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nếu",
+    "definition_en": "introducing a condition",
+    "examples": [
+      {
+        "en": "If it rains, we will stay inside.",
+        "vi": "Nếu trời mưa, chúng ta sẽ ở trong nhà.",
+        "source": "original"
+      },
+      {
+        "en": "Call the office if you need help.",
+        "vi": "Hãy gọi văn phòng nếu bạn cần trợ giúp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "if possible",
+        "vi": "nếu có thể"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 39,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "one",
+    "lemma": "one",
+    "pos": "num",
+    "ipa": "/ˈwən/",
+    "ipa_us": "/ˈwən/",
+    "ipa_uk": "/wˈɒn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "một",
+    "definition_en": "the number equal to a single unit",
+    "examples": [
+      {
+        "en": "One customer is waiting outside.",
+        "vi": "Một khách hàng đang đợi bên ngoài.",
+        "source": "original"
+      },
+      {
+        "en": "We have one empty seat.",
+        "vi": "Chúng tôi còn một chỗ trống.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "one more",
+        "vi": "thêm một"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 40,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "can",
+    "lemma": "can",
+    "pos": "v",
+    "ipa": "/ˈkæn/",
+    "ipa_us": "/ˈkæn/",
+    "ipa_uk": "/kˈæn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "có thể",
+    "definition_en": "used to express ability or possibility",
+    "examples": [
+      {
+        "en": "I can swim across the pool.",
+        "vi": "Tôi có thể bơi qua hồ.",
+        "source": "original"
+      },
+      {
+        "en": "You can print the form here.",
+        "vi": "Bạn có thể in biểu mẫu ở đây.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "can do",
+        "vi": "có thể làm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 41,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "will",
+    "lemma": "will",
+    "pos": "v",
+    "ipa": "/ˈwɪɫ/",
+    "ipa_us": "/ˈwɪɫ/",
+    "ipa_uk": "/wˈɪl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "sẽ",
+    "definition_en": "used to express a future action or event",
+    "examples": [
+      {
+        "en": "I will call you after lunch.",
+        "vi": "Tôi sẽ gọi bạn sau bữa trưa.",
+        "source": "original"
+      },
+      {
+        "en": "The bus will arrive soon.",
+        "vi": "Xe buýt sẽ đến sớm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "will be",
+        "vi": "sẽ là"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 42,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "just",
+    "lemma": "just",
+    "pos": "adv",
+    "ipa": "/ˈdʒəst/",
+    "ipa_us": "/ˈdʒəst/",
+    "ipa_uk": "/dʒˈʌst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "vừa mới",
+    "definition_en": "a very short time ago",
+    "examples": [
+      {
+        "en": "The train has just arrived.",
+        "vi": "Tàu vừa đến.",
+        "source": "original"
+      },
+      {
+        "en": "I have just sent the invoice.",
+        "vi": "Tôi vừa gửi hóa đơn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "just now",
+        "vi": "vừa nãy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 43,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "about",
+    "lemma": "about",
+    "pos": "prep",
+    "ipa": "/əˈbaʊt/",
+    "ipa_us": "/əˈbaʊt/",
+    "ipa_uk": "/ɐbˈaʊt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "về",
+    "definition_en": "concerning a particular subject",
+    "examples": [
+      {
+        "en": "We talked about the budget.",
+        "vi": "Chúng tôi nói về ngân sách.",
+        "source": "original"
+      },
+      {
+        "en": "She wrote an article about cycling.",
+        "vi": "Cô ấy viết bài về việc đạp xe.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "talk about",
+        "vi": "nói về"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 45,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "up",
+    "lemma": "up",
+    "pos": "adv",
+    "ipa": "/ˈəp/",
+    "ipa_us": "/ˈəp/",
+    "ipa_uk": "/ˈʌp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "lên",
+    "definition_en": "toward a higher position",
+    "examples": [
+      {
+        "en": "Please stand up slowly.",
+        "vi": "Vui lòng từ từ đứng lên.",
+        "source": "original"
+      },
+      {
+        "en": "The balloon floated up.",
+        "vi": "Quả bóng bay lơ lửng lên cao.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wake up",
+        "vi": "thức dậy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 46,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "out",
+    "lemma": "out",
+    "pos": "adv",
+    "ipa": "/ˈaʊt/",
+    "ipa_us": "/ˈaʊt/",
+    "ipa_uk": "/ˈaʊt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "ra ngoài",
+    "definition_en": "away from the inside of a place",
+    "examples": [
+      {
+        "en": "The children went out to play.",
+        "vi": "Bọn trẻ ra ngoài chơi.",
+        "source": "original"
+      },
+      {
+        "en": "Please take the empty boxes out.",
+        "vi": "Hãy mang những chiếc hộp rỗng ra ngoài.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go out",
+        "vi": "đi ra ngoài"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 47,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "what",
+    "lemma": "what",
+    "pos": "pron",
+    "ipa": "/ˈhwət/",
+    "ipa_us": "/ˈhwət/",
+    "ipa_uk": "/wˈɒt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cái gì, điều gì",
+    "definition_en": "used to ask for information about a thing",
+    "examples": [
+      {
+        "en": "What did you buy at the market?",
+        "vi": "Bạn mua gì ở chợ?",
+        "source": "original"
+      },
+      {
+        "en": "What is inside the package?",
+        "vi": "Trong gói hàng có gì?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "what happened",
+        "vi": "chuyện gì xảy ra"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 48,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "when",
+    "lemma": "when",
+    "pos": "adv",
+    "ipa": "/ˈhwɛn/",
+    "ipa_us": "/ˈhwɛn/",
+    "ipa_uk": "/wˈɛn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "khi nào",
+    "definition_en": "used to ask about a time",
+    "examples": [
+      {
+        "en": "When does the library close?",
+        "vi": "Khi nào thư viện đóng cửa?",
+        "source": "original"
+      },
+      {
+        "en": "When will you return?",
+        "vi": "Khi nào bạn quay lại?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "since when",
+        "vi": "từ khi nào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 50,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "more",
+    "lemma": "more",
+    "pos": "det",
+    "ipa": "/ˈmɔɹ/",
+    "ipa_us": "/ˈmɔɹ/",
+    "ipa_uk": "/mˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "thêm, nhiều hơn",
+    "definition_en": "indicating a greater amount or number",
+    "examples": [
+      {
+        "en": "We need more paper for the printer.",
+        "vi": "Chúng tôi cần thêm giấy cho máy in.",
+        "source": "original"
+      },
+      {
+        "en": "Could I have more rice, please?",
+        "vi": "Cho tôi thêm cơm được không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "more time",
+        "vi": "thêm thời gian"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 51,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "do",
+    "lemma": "do",
+    "pos": "v",
+    "ipa": "/ˈdu/",
+    "ipa_us": "/ˈdu/",
+    "ipa_uk": "/duː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "làm",
+    "definition_en": "to carry out an action or task",
+    "examples": [
+      {
+        "en": "I must do my homework tonight.",
+        "vi": "Tối nay tôi phải làm bài tập.",
+        "source": "original"
+      },
+      {
+        "en": "What will you do after work?",
+        "vi": "Bạn sẽ làm gì sau giờ làm?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "do the dishes",
+        "vi": "rửa bát"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 52,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "no",
+    "lemma": "no",
+    "pos": "det",
+    "ipa": "/ˈnoʊ/",
+    "ipa_us": "/ˈnoʊ/",
+    "ipa_uk": "/nəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "không có",
+    "definition_en": "indicating that none of something exists",
+    "examples": [
+      {
+        "en": "There is no sugar left.",
+        "vi": "Không còn đường nữa.",
+        "source": "original"
+      },
+      {
+        "en": "We have no spare chairs.",
+        "vi": "Chúng tôi không có ghế dự phòng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "no problem",
+        "vi": "không vấn đề gì"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 53,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "who",
+    "lemma": "who",
+    "pos": "pron",
+    "ipa": "/ˈhu/",
+    "ipa_us": "/ˈhu/",
+    "ipa_uk": "/hˈuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "ai",
+    "definition_en": "used to ask about a person's identity",
+    "examples": [
+      {
+        "en": "Who opened the front door?",
+        "vi": "Ai đã mở cửa chính?",
+        "source": "original"
+      },
+      {
+        "en": "Who will lead the discussion?",
+        "vi": "Ai sẽ dẫn dắt cuộc thảo luận?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "who knows",
+        "vi": "ai mà biết"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 55,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "their",
+    "lemma": "their",
+    "pos": "det",
+    "ipa": "/ˈðɛɹ/",
+    "ipa_us": "/ˈðɛɹ/",
+    "ipa_uk": "/ðˈeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của họ",
+    "definition_en": "showing that something belongs or relates to other people",
+    "examples": [
+      {
+        "en": "Their office is on the third floor.",
+        "vi": "Văn phòng của họ ở tầng ba.",
+        "source": "original"
+      },
+      {
+        "en": "The students brought their notebooks.",
+        "vi": "Học sinh mang theo vở của mình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "their own",
+        "vi": "của riêng họ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 58,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "there",
+    "lemma": "there",
+    "pos": "adv",
+    "ipa": "/ˈðɛɹ/",
+    "ipa_us": "/ˈðɛɹ/",
+    "ipa_uk": "/ðˈeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "ở đó",
+    "definition_en": "in or at a particular place",
+    "examples": [
+      {
+        "en": "I left my bag there.",
+        "vi": "Tôi để túi ở đó.",
+        "source": "original"
+      },
+      {
+        "en": "The taxi is waiting over there.",
+        "vi": "Taxi đang đợi đằng kia.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "over there",
+        "vi": "đằng kia"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 59,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "her",
+    "lemma": "her",
+    "pos": "det",
+    "ipa": "/ˈhɝ/",
+    "ipa_us": "/ˈhɝ/",
+    "ipa_uk": "/hˈɜː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của cô ấy",
+    "definition_en": "showing that something belongs or relates to a female person",
+    "examples": [
+      {
+        "en": "Her shoes are beside the door.",
+        "vi": "Giày của cô ấy ở cạnh cửa.",
+        "source": "original"
+      },
+      {
+        "en": "Linh opened her new laptop.",
+        "vi": "Linh mở máy tính xách tay mới của mình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "her own",
+        "vi": "của riêng cô ấy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 60,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "which",
+    "lemma": "which",
+    "pos": "det",
+    "ipa": "/ˈhwɪtʃ/",
+    "ipa_us": "/ˈhwɪtʃ/",
+    "ipa_uk": "/wˈɪtʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cái nào",
+    "definition_en": "used to ask someone to choose from known alternatives",
+    "examples": [
+      {
+        "en": "Which route takes less time?",
+        "vi": "Tuyến đường nào mất ít thời gian hơn?",
+        "source": "original"
+      },
+      {
+        "en": "Which shirt fits you better?",
+        "vi": "Chiếc áo nào vừa với bạn hơn?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "which way",
+        "vi": "đường nào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 61,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "get",
+    "lemma": "get",
+    "pos": "v",
+    "ipa": "/ˈɡɛt/",
+    "ipa_us": "/ˈɡɛt/",
+    "ipa_uk": "/ɡˈɛt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nhận được",
+    "definition_en": "to receive or obtain something",
+    "examples": [
+      {
+        "en": "Did you get the confirmation email?",
+        "vi": "Bạn đã nhận được thư xác nhận chưa?",
+        "source": "original"
+      },
+      {
+        "en": "You can get a ticket at the desk.",
+        "vi": "Bạn có thể lấy vé tại quầy.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "get permission",
+        "vi": "xin được phép"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 63,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "would",
+    "lemma": "would",
+    "pos": "v",
+    "ipa": "/ˈwʊd/",
+    "ipa_us": "/ˈwʊd/",
+    "ipa_uk": "/wˈʊd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "sẽ, muốn",
+    "definition_en": "used to express a hypothetical action or polite request",
+    "examples": [
+      {
+        "en": "Would you open the window, please?",
+        "vi": "Bạn vui lòng mở cửa sổ được không?",
+        "source": "original"
+      },
+      {
+        "en": "I would travel more if I had time.",
+        "vi": "Tôi sẽ đi du lịch nhiều hơn nếu có thời gian.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "would like",
+        "vi": "muốn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 65,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "she",
+    "lemma": "she",
+    "pos": "pron",
+    "ipa": "/ˈʃi/",
+    "ipa_us": "/ˈʃi/",
+    "ipa_uk": "/ʃˈiː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cô ấy, bà ấy",
+    "definition_en": "referring to a female person already mentioned",
+    "examples": [
+      {
+        "en": "She speaks three languages.",
+        "vi": "Cô ấy nói được ba ngôn ngữ.",
+        "source": "original"
+      },
+      {
+        "en": "She works near the hospital.",
+        "vi": "Cô ấy làm việc gần bệnh viện.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "she says",
+        "vi": "cô ấy nói"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 67,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "how",
+    "lemma": "how",
+    "pos": "adv",
+    "ipa": "/ˈhaʊ/",
+    "ipa_us": "/ˈhaʊ/",
+    "ipa_uk": "/hˈaʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "như thế nào",
+    "definition_en": "used to ask about a method or manner",
+    "examples": [
+      {
+        "en": "How do you unlock this door?",
+        "vi": "Bạn mở khóa cửa này như thế nào?",
+        "source": "original"
+      },
+      {
+        "en": "How did you learn to cook?",
+        "vi": "Bạn học nấu ăn bằng cách nào?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "how to",
+        "vi": "cách làm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 70,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "some",
+    "lemma": "some",
+    "pos": "det",
+    "ipa": "/ˈsəm/",
+    "ipa_us": "/ˈsəm/",
+    "ipa_uk": "/sˈʌm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "một ít, một vài",
+    "definition_en": "indicating an unspecified amount or number",
+    "examples": [
+      {
+        "en": "I bought some oranges for breakfast.",
+        "vi": "Tôi mua vài quả cam để ăn sáng.",
+        "source": "original"
+      },
+      {
+        "en": "We need some advice before deciding.",
+        "vi": "Chúng tôi cần một vài lời khuyên trước khi quyết định.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "some time",
+        "vi": "một ít thời gian"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 72,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "also",
+    "lemma": "also",
+    "pos": "adv",
+    "ipa": "/ˈɔɫsoʊ/",
+    "ipa_us": "/ˈɔɫsoʊ/",
+    "ipa_uk": "/ˈɒlsəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cũng",
+    "definition_en": "in addition to something already mentioned",
+    "examples": [
+      {
+        "en": "The shop also sells notebooks.",
+        "vi": "Cửa hàng cũng bán sổ tay.",
+        "source": "original"
+      },
+      {
+        "en": "My brother also plays tennis.",
+        "vi": "Anh trai tôi cũng chơi quần vợt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "also known as",
+        "vi": "còn được gọi là"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 73,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "them",
+    "lemma": "them",
+    "pos": "pron",
+    "ipa": "/ˈðɛm/",
+    "ipa_us": "/ˈðɛm/",
+    "ipa_uk": "/ðˈɛm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "họ, chúng",
+    "definition_en": "referring to previously mentioned people or things as an object",
+    "examples": [
+      {
+        "en": "I invited them to dinner.",
+        "vi": "Tôi mời họ đến ăn tối.",
+        "source": "original"
+      },
+      {
+        "en": "Please wash the cups before storing them.",
+        "vi": "Hãy rửa cốc trước khi cất chúng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "both of them",
+        "vi": "cả hai"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 74,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "now",
+    "lemma": "now",
+    "pos": "adv",
+    "ipa": "/ˈnaʊ/",
+    "ipa_us": "/ˈnaʊ/",
+    "ipa_uk": "/nˈaʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "bây giờ",
+    "definition_en": "at the present time",
+    "examples": [
+      {
+        "en": "The meeting starts now.",
+        "vi": "Cuộc họp bắt đầu ngay bây giờ.",
+        "source": "original"
+      },
+      {
+        "en": "I live in Hanoi now.",
+        "vi": "Bây giờ tôi sống ở Hà Nội.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "right now",
+        "vi": "ngay bây giờ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 75,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "other",
+    "lemma": "other",
+    "pos": "adj",
+    "ipa": "/ˈəðɝ/",
+    "ipa_us": "/ˈəðɝ/",
+    "ipa_uk": "/ˈʌðɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "khác",
+    "definition_en": "different from the person or thing already mentioned",
+    "examples": [
+      {
+        "en": "Try the other entrance.",
+        "vi": "Hãy thử lối vào khác.",
+        "source": "original"
+      },
+      {
+        "en": "We discussed other possible solutions.",
+        "vi": "Chúng tôi thảo luận các giải pháp khác có thể thực hiện.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "other people",
+        "vi": "những người khác"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 76,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "its",
+    "lemma": "its",
+    "pos": "det",
+    "ipa": "/ˈɪts/",
+    "ipa_us": "/ˈɪts/",
+    "ipa_uk": "/ˈɪts/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của nó",
+    "definition_en": "showing that something belongs or relates to a thing or animal",
+    "examples": [
+      {
+        "en": "The dog wagged its tail.",
+        "vi": "Con chó vẫy đuôi.",
+        "source": "original"
+      },
+      {
+        "en": "The company changed its logo.",
+        "vi": "Công ty thay đổi logo của mình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "its own",
+        "vi": "của riêng nó"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 78,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "our",
+    "lemma": "our",
+    "pos": "det",
+    "ipa": "/ˈaʊɝ/",
+    "ipa_us": "/ˈaʊɝ/",
+    "ipa_uk": "/ˈaʊə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "của chúng tôi, chúng ta",
+    "definition_en": "showing that something belongs or relates to the speaker's group",
+    "examples": [
+      {
+        "en": "Our classroom has large windows.",
+        "vi": "Lớp học của chúng tôi có cửa sổ lớn.",
+        "source": "original"
+      },
+      {
+        "en": "We finished our assignment early.",
+        "vi": "Chúng tôi hoàn thành bài tập sớm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "our team",
+        "vi": "đội của chúng tôi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 79,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "than",
+    "lemma": "than",
+    "pos": "conj",
+    "ipa": "/ˈðæn/",
+    "ipa_us": "/ˈðæn/",
+    "ipa_uk": "/ðˈɐn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "hơn, so với",
+    "definition_en": "used to introduce the second part of a comparison",
+    "examples": [
+      {
+        "en": "This bag is heavier than that one.",
+        "vi": "Chiếc túi này nặng hơn chiếc kia.",
+        "source": "original"
+      },
+      {
+        "en": "The repair cost less than expected.",
+        "vi": "Việc sửa chữa tốn ít hơn dự kiến.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "more than",
+        "vi": "nhiều hơn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 80,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "only",
+    "lemma": "only",
+    "pos": "adv",
+    "ipa": "/ˈoʊnɫi/",
+    "ipa_us": "/ˈoʊnɫi/",
+    "ipa_uk": "/ˈəʊnli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "chỉ",
+    "definition_en": "used to limit the amount or possibilities",
+    "examples": [
+      {
+        "en": "I have only five minutes.",
+        "vi": "Tôi chỉ có năm phút.",
+        "source": "original"
+      },
+      {
+        "en": "She works only on weekends.",
+        "vi": "Cô ấy chỉ làm việc vào cuối tuần.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "only once",
+        "vi": "chỉ một lần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 82,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "after",
+    "lemma": "after",
+    "pos": "prep",
+    "ipa": "/ˈæftɝ/",
+    "ipa_us": "/ˈæftɝ/",
+    "ipa_uk": "/ˈɑːftɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "sau",
+    "definition_en": "later than a particular event or time",
+    "examples": [
+      {
+        "en": "We met after class.",
+        "vi": "Chúng tôi gặp nhau sau giờ học.",
+        "source": "original"
+      },
+      {
+        "en": "Please call me after six.",
+        "vi": "Hãy gọi cho tôi sau sáu giờ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "after work",
+        "vi": "sau giờ làm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 83,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "first",
+    "lemma": "first",
+    "pos": "adj",
+    "ipa": "/ˈfɝst/",
+    "ipa_us": "/ˈfɝst/",
+    "ipa_uk": "/fˈɜːst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "đầu tiên",
+    "definition_en": "coming before all others in a sequence",
+    "examples": [
+      {
+        "en": "This is my first visit to Hue.",
+        "vi": "Đây là chuyến thăm Huế đầu tiên của tôi.",
+        "source": "original"
+      },
+      {
+        "en": "Read the first chapter tonight.",
+        "vi": "Hãy đọc chương đầu tiên tối nay.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "first step",
+        "vi": "bước đầu tiên"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 84,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "him",
+    "lemma": "him",
+    "pos": "pron",
+    "ipa": "/ˈhɪm/",
+    "ipa_us": "/ˈhɪm/",
+    "ipa_uk": "/hˈɪm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "anh ấy, ông ấy",
+    "definition_en": "referring to a male person as an object",
+    "examples": [
+      {
+        "en": "I gave him the spare key.",
+        "vi": "Tôi đưa cho anh ấy chìa khóa dự phòng.",
+        "source": "original"
+      },
+      {
+        "en": "Did you see him at the station?",
+        "vi": "Bạn có thấy anh ấy ở nhà ga không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "ask him",
+        "vi": "hỏi anh ấy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 85,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "into",
+    "lemma": "into",
+    "pos": "prep",
+    "ipa": "/ˈɪntu/",
+    "ipa_us": "/ˈɪntu/",
+    "ipa_uk": "/ˈɪntʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "vào trong",
+    "definition_en": "indicating movement inside something",
+    "examples": [
+      {
+        "en": "She poured milk into the cup.",
+        "vi": "Cô ấy rót sữa vào cốc.",
+        "source": "original"
+      },
+      {
+        "en": "The children ran into the garden.",
+        "vi": "Bọn trẻ chạy vào vườn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go into",
+        "vi": "đi vào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 86,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "know",
+    "lemma": "know",
+    "pos": "v",
+    "ipa": "/ˈnoʊ/",
+    "ipa_us": "/ˈnoʊ/",
+    "ipa_uk": "/nˈəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "biết",
+    "definition_en": "to have information or understanding",
+    "examples": [
+      {
+        "en": "Do you know the answer?",
+        "vi": "Bạn có biết đáp án không?",
+        "source": "original"
+      },
+      {
+        "en": "I know how to fix this printer.",
+        "vi": "Tôi biết cách sửa máy in này.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "know the facts",
+        "vi": "biết sự thật"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 87,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "see",
+    "lemma": "see",
+    "pos": "v",
+    "ipa": "/ˈsi/",
+    "ipa_us": "/ˈsi/",
+    "ipa_uk": "/sˈiː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nhìn thấy",
+    "definition_en": "to notice something with the eyes",
+    "examples": [
+      {
+        "en": "I can see the mountains from here.",
+        "vi": "Tôi có thể nhìn thấy núi từ đây.",
+        "source": "original"
+      },
+      {
+        "en": "Did you see the red sign?",
+        "vi": "Bạn có thấy biển báo màu đỏ không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "see clearly",
+        "vi": "nhìn rõ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 88,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "two",
+    "lemma": "two",
+    "pos": "num",
+    "ipa": "/ˈtu/",
+    "ipa_us": "/ˈtu/",
+    "ipa_uk": "/tˈuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "hai",
+    "definition_en": "the number after one",
+    "examples": [
+      {
+        "en": "We ordered two bowls of soup.",
+        "vi": "Chúng tôi gọi hai bát súp.",
+        "source": "original"
+      },
+      {
+        "en": "Two employees work at the reception desk.",
+        "vi": "Hai nhân viên làm việc tại quầy lễ tân.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "two days",
+        "vi": "hai ngày"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 89,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "think",
+    "lemma": "think",
+    "pos": "v",
+    "ipa": "/ˈθɪŋk/",
+    "ipa_us": "/ˈθɪŋk/",
+    "ipa_uk": "/θˈɪŋk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nghĩ",
+    "definition_en": "to use the mind to consider something",
+    "examples": [
+      {
+        "en": "I need to think about your offer.",
+        "vi": "Tôi cần suy nghĩ về lời đề nghị của bạn.",
+        "source": "original"
+      },
+      {
+        "en": "What do you think of this plan?",
+        "vi": "Bạn nghĩ gì về kế hoạch này?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "think carefully",
+        "vi": "suy nghĩ cẩn thận"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 92,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "any",
+    "lemma": "any",
+    "pos": "det",
+    "ipa": "/ˈɛni/",
+    "ipa_us": "/ˈɛni/",
+    "ipa_uk": "/ˈɛni/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "bất kỳ, chút nào",
+    "definition_en": "used to refer to an unspecified amount or choice",
+    "examples": [
+      {
+        "en": "Do you have any questions?",
+        "vi": "Bạn có câu hỏi nào không?",
+        "source": "original"
+      },
+      {
+        "en": "Choose any seat near the stage.",
+        "vi": "Hãy chọn bất kỳ chỗ ngồi nào gần sân khấu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "any time",
+        "vi": "bất cứ lúc nào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 93,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "then",
+    "lemma": "then",
+    "pos": "adv",
+    "ipa": "/ˈðɛn/",
+    "ipa_us": "/ˈðɛn/",
+    "ipa_uk": "/ðˈɛn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "sau đó",
+    "definition_en": "at the next point in time",
+    "examples": [
+      {
+        "en": "Wash the apples, then slice them.",
+        "vi": "Rửa táo, sau đó thái lát.",
+        "source": "original"
+      },
+      {
+        "en": "We ate lunch and then left.",
+        "vi": "Chúng tôi ăn trưa rồi rời đi.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "and then",
+        "vi": "và sau đó"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 94,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "could",
+    "lemma": "could",
+    "pos": "v",
+    "ipa": "/ˈkʊd/",
+    "ipa_us": "/ˈkʊd/",
+    "ipa_uk": "/kˈʊd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "có thể",
+    "definition_en": "used to express possibility or make a polite request",
+    "examples": [
+      {
+        "en": "Could you repeat the address?",
+        "vi": "Bạn có thể nhắc lại địa chỉ không?",
+        "source": "original"
+      },
+      {
+        "en": "We could take a different route.",
+        "vi": "Chúng ta có thể đi tuyến đường khác.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "could be",
+        "vi": "có thể là"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 95,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "back",
+    "lemma": "back",
+    "pos": "adv",
+    "ipa": "/ˈbæk/",
+    "ipa_us": "/ˈbæk/",
+    "ipa_uk": "/bˈæk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "trở lại",
+    "definition_en": "toward the place or situation from which someone came",
+    "examples": [
+      {
+        "en": "I will come back before dinner.",
+        "vi": "Tôi sẽ trở lại trước bữa tối.",
+        "source": "original"
+      },
+      {
+        "en": "Put the book back on the shelf.",
+        "vi": "Hãy đặt cuốn sách trở lại kệ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "come back",
+        "vi": "quay lại"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 96,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "these",
+    "lemma": "these",
+    "pos": "det",
+    "ipa": "/ˈðiz/",
+    "ipa_us": "/ˈðiz/",
+    "ipa_uk": "/ðˈiːz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "những cái này",
+    "definition_en": "identifying nearby or currently relevant plural things",
+    "examples": [
+      {
+        "en": "These apples are fresh.",
+        "vi": "Những quả táo này rất tươi.",
+        "source": "original"
+      },
+      {
+        "en": "Please sign these forms.",
+        "vi": "Vui lòng ký các biểu mẫu này.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "these days",
+        "vi": "dạo này"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 97,
+    "lists": [
+      "cefrj-1.6",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "us",
+    "lemma": "us",
+    "pos": "pron",
+    "ipa": "/ˈəs/",
+    "ipa_us": "/ˈəs/",
+    "ipa_uk": "/ˈʌs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "chúng tôi, chúng ta",
+    "definition_en": "referring to the speaker's group as an object",
+    "examples": [
+      {
+        "en": "The guide showed us the old bridge.",
+        "vi": "Hướng dẫn viên chỉ cho chúng tôi cây cầu cổ.",
+        "source": "original"
+      },
+      {
+        "en": "Can you meet us at noon?",
+        "vi": "Bạn có thể gặp chúng tôi vào buổi trưa không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "join us",
+        "vi": "tham gia cùng chúng tôi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 98,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "want",
+    "lemma": "want",
+    "pos": "v",
+    "ipa": "/ˈwɑnt/",
+    "ipa_us": "/ˈwɑnt/",
+    "ipa_uk": "/wˈɒnt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "muốn",
+    "definition_en": "to wish to have or do something",
+    "examples": [
+      {
+        "en": "I want a quiet place to study.",
+        "vi": "Tôi muốn một nơi yên tĩnh để học.",
+        "source": "original"
+      },
+      {
+        "en": "Do you want to join the club?",
+        "vi": "Bạn có muốn tham gia câu lạc bộ không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "want to",
+        "vi": "muốn làm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 99,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "well",
+    "lemma": "well",
+    "pos": "adv",
+    "ipa": "/ˈwɛɫ/",
+    "ipa_us": "/ˈwɛɫ/",
+    "ipa_uk": "/wˈɛl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tốt",
+    "definition_en": "in a satisfactory or skillful way",
+    "examples": [
+      {
+        "en": "She sings very well.",
+        "vi": "Cô ấy hát rất hay.",
+        "source": "original"
+      },
+      {
+        "en": "The new printer works well.",
+        "vi": "Máy in mới hoạt động tốt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "do well",
+        "vi": "làm tốt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 102,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "way",
+    "lemma": "way",
+    "pos": "n",
+    "ipa": "/ˈweɪ/",
+    "ipa_us": "/ˈweɪ/",
+    "ipa_uk": "/wˈeɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cách, phương pháp",
+    "definition_en": "a method of doing something",
+    "examples": [
+      {
+        "en": "There is an easier way to solve this.",
+        "vi": "Có một cách dễ hơn để giải bài này.",
+        "source": "original"
+      },
+      {
+        "en": "We need a safe way to move the equipment.",
+        "vi": "Chúng tôi cần một cách an toàn để di chuyển thiết bị.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a better way",
+        "vi": "một cách tốt hơn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 104,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "most",
+    "lemma": "most",
+    "pos": "det",
+    "ipa": "/ˈmoʊs/",
+    "ipa_us": "/ˈmoʊs/",
+    "ipa_uk": "/mˈəʊst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "phần lớn",
+    "definition_en": "the majority of a group or amount",
+    "examples": [
+      {
+        "en": "Most customers prefer online payment.",
+        "vi": "Phần lớn khách hàng thích thanh toán trực tuyến.",
+        "source": "original"
+      },
+      {
+        "en": "Most rooms have a balcony.",
+        "vi": "Phần lớn các phòng có ban công.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "most people",
+        "vi": "hầu hết mọi người"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 107,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "much",
+    "lemma": "much",
+    "pos": "det",
+    "ipa": "/ˈmətʃ/",
+    "ipa_us": "/ˈmətʃ/",
+    "ipa_uk": "/mˈʌtʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nhiều",
+    "definition_en": "indicating a large amount of something uncountable",
+    "examples": [
+      {
+        "en": "We do not have much time.",
+        "vi": "Chúng ta không có nhiều thời gian.",
+        "source": "original"
+      },
+      {
+        "en": "How much water is in the tank?",
+        "vi": "Có bao nhiêu nước trong bồn?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "much effort",
+        "vi": "nhiều công sức"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 108,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "very",
+    "lemma": "very",
+    "pos": "adv",
+    "ipa": "/ˈvɛɹi/",
+    "ipa_us": "/ˈvɛɹi/",
+    "ipa_uk": "/vˈɛɹi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "rất",
+    "definition_en": "used to increase the degree of a quality",
+    "examples": [
+      {
+        "en": "The hallway is very narrow.",
+        "vi": "Hành lang rất hẹp.",
+        "source": "original"
+      },
+      {
+        "en": "Your explanation was very clear.",
+        "vi": "Lời giải thích của bạn rất rõ ràng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "very much",
+        "vi": "rất nhiều"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 109,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "where",
+    "lemma": "where",
+    "pos": "adv",
+    "ipa": "/ˈhwɛɹ/",
+    "ipa_us": "/ˈhwɛɹ/",
+    "ipa_uk": "/wˈeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "ở đâu",
+    "definition_en": "used to ask about a place",
+    "examples": [
+      {
+        "en": "Where did you park the car?",
+        "vi": "Bạn đỗ xe ở đâu?",
+        "source": "original"
+      },
+      {
+        "en": "Where can I buy a bus ticket?",
+        "vi": "Tôi có thể mua vé xe buýt ở đâu?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "where to go",
+        "vi": "đi đâu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 110,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "even",
+    "lemma": "even",
+    "pos": "adv",
+    "ipa": "/ˈivɪn/",
+    "ipa_us": "/ˈivɪn/",
+    "ipa_uk": "/ˈiːvən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "thậm chí",
+    "definition_en": "used to emphasize a surprising fact",
+    "examples": [
+      {
+        "en": "Even the manager forgot the meeting.",
+        "vi": "Ngay cả quản lý cũng quên cuộc họp.",
+        "source": "original"
+      },
+      {
+        "en": "The road is busy even at midnight.",
+        "vi": "Con đường đông đúc ngay cả lúc nửa đêm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "even better",
+        "vi": "thậm chí tốt hơn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 111,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "should",
+    "lemma": "should",
+    "pos": "v",
+    "ipa": "/ˈʃʊd/",
+    "ipa_us": "/ˈʃʊd/",
+    "ipa_uk": "/ʃˈʊd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nên",
+    "definition_en": "used to give advice or express an expectation",
+    "examples": [
+      {
+        "en": "You should save a copy of the document.",
+        "vi": "Bạn nên lưu một bản sao tài liệu.",
+        "source": "original"
+      },
+      {
+        "en": "We should leave before the traffic gets heavy.",
+        "vi": "Chúng ta nên đi trước khi đường đông.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "should be",
+        "vi": "nên là"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 112,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "may",
+    "lemma": "may",
+    "pos": "v",
+    "ipa": "/ˈmeɪ/",
+    "ipa_us": "/ˈmeɪ/",
+    "ipa_uk": "/mˈeɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "có thể",
+    "definition_en": "used to express possibility or permission",
+    "examples": [
+      {
+        "en": "The delivery may arrive late.",
+        "vi": "Hàng giao có thể đến muộn.",
+        "source": "original"
+      },
+      {
+        "en": "You may enter after signing in.",
+        "vi": "Bạn có thể vào sau khi đăng ký.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "may need",
+        "vi": "có thể cần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 113,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "here",
+    "lemma": "here",
+    "pos": "adv",
+    "ipa": "/ˈhiɹ/",
+    "ipa_us": "/ˈhiɹ/",
+    "ipa_uk": "/hˈiə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "ở đây",
+    "definition_en": "in or at the present place",
+    "examples": [
+      {
+        "en": "Please wait here for a moment.",
+        "vi": "Vui lòng đợi ở đây một lát.",
+        "source": "original"
+      },
+      {
+        "en": "The museum is near here.",
+        "vi": "Bảo tàng ở gần đây.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "right here",
+        "vi": "ngay đây"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 114,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "need",
+    "lemma": "need",
+    "pos": "v",
+    "ipa": "/ˈnid/",
+    "ipa_us": "/ˈnid/",
+    "ipa_uk": "/nˈiːd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cần",
+    "definition_en": "to require something or find it necessary",
+    "examples": [
+      {
+        "en": "We need more chairs for the workshop.",
+        "vi": "Chúng tôi cần thêm ghế cho buổi hội thảo.",
+        "source": "original"
+      },
+      {
+        "en": "You need to update your password.",
+        "vi": "Bạn cần cập nhật mật khẩu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "need help",
+        "vi": "cần trợ giúp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 115,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "really",
+    "lemma": "really",
+    "pos": "adv",
+    "ipa": "/ˈɹiɫi/",
+    "ipa_us": "/ˈɹiɫi/",
+    "ipa_uk": "/ɹˈiəli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "thực sự",
+    "definition_en": "used to emphasize truth or degree",
+    "examples": [
+      {
+        "en": "I really enjoyed the concert.",
+        "vi": "Tôi thực sự thích buổi hòa nhạc.",
+        "source": "original"
+      },
+      {
+        "en": "Is the store really closing next month?",
+        "vi": "Cửa hàng thực sự sẽ đóng cửa vào tháng tới sao?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "really useful",
+        "vi": "thực sự hữu ích"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 116,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "right",
+    "lemma": "right",
+    "pos": "adj",
+    "ipa": "/ˈɹaɪt/",
+    "ipa_us": "/ˈɹaɪt/",
+    "ipa_uk": "/ɹˈaɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "đúng",
+    "definition_en": "correct or appropriate",
+    "examples": [
+      {
+        "en": "That is the right answer.",
+        "vi": "Đó là đáp án đúng.",
+        "source": "original"
+      },
+      {
+        "en": "Choose the right cable for the monitor.",
+        "vi": "Hãy chọn đúng dây cáp cho màn hình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "right decision",
+        "vi": "quyết định đúng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 118,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "before",
+    "lemma": "before",
+    "pos": "prep",
+    "ipa": "/ˌbiˈfɔɹ/",
+    "ipa_us": "/ˌbiˈfɔɹ/",
+    "ipa_uk": "/bɪfˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "trước",
+    "definition_en": "earlier than a particular time or event",
+    "examples": [
+      {
+        "en": "Please arrive before nine.",
+        "vi": "Vui lòng đến trước chín giờ.",
+        "source": "original"
+      },
+      {
+        "en": "I washed my hands before lunch.",
+        "vi": "Tôi rửa tay trước bữa trưa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "before noon",
+        "vi": "trước buổi trưa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 126,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "off",
+    "lemma": "off",
+    "pos": "adv",
+    "ipa": "/ˈɔf/",
+    "ipa_us": "/ˈɔf/",
+    "ipa_uk": "/ˈɒf/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tắt, ngừng hoạt động",
+    "definition_en": "not operating or powered",
+    "examples": [
+      {
+        "en": "Turn the lights off before leaving.",
+        "vi": "Hãy tắt đèn trước khi rời đi.",
+        "source": "original"
+      },
+      {
+        "en": "The heating is off today.",
+        "vi": "Hôm nay hệ thống sưởi đã tắt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "switch off",
+        "vi": "tắt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 127,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "why",
+    "lemma": "why",
+    "pos": "adv",
+    "ipa": "/ˈhwaɪ/",
+    "ipa_us": "/ˈhwaɪ/",
+    "ipa_uk": "/wˈaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tại sao",
+    "definition_en": "used to ask for a reason",
+    "examples": [
+      {
+        "en": "Why is the meeting delayed?",
+        "vi": "Tại sao cuộc họp bị hoãn?",
+        "source": "original"
+      },
+      {
+        "en": "Why did you change your schedule?",
+        "vi": "Tại sao bạn đổi lịch?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "why not",
+        "vi": "tại sao không"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 128,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "still",
+    "lemma": "still",
+    "pos": "adv",
+    "ipa": "/ˈstɪɫ/",
+    "ipa_us": "/ˈstɪɫ/",
+    "ipa_uk": "/stˈɪl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "vẫn",
+    "definition_en": "indicating that something continues",
+    "examples": [
+      {
+        "en": "The children are still asleep.",
+        "vi": "Bọn trẻ vẫn đang ngủ.",
+        "source": "original"
+      },
+      {
+        "en": "We are still waiting for approval.",
+        "vi": "Chúng tôi vẫn đang đợi phê duyệt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "still available",
+        "vi": "vẫn còn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 130,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "take",
+    "lemma": "take",
+    "pos": "v",
+    "ipa": "/ˈteɪk/",
+    "ipa_us": "/ˈteɪk/",
+    "ipa_uk": "/tˈeɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "lấy, mang",
+    "definition_en": "to move something with oneself to another place",
+    "examples": [
+      {
+        "en": "Please take this form to reception.",
+        "vi": "Hãy mang biểu mẫu này đến quầy lễ tân.",
+        "source": "original"
+      },
+      {
+        "en": "Take an umbrella in case it rains.",
+        "vi": "Hãy mang ô phòng khi trời mưa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take a bag",
+        "vi": "mang theo túi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 131,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "many",
+    "lemma": "many",
+    "pos": "det",
+    "ipa": "/ˈmɛni/",
+    "ipa_us": "/ˈmɛni/",
+    "ipa_uk": "/mˈɛni/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nhiều",
+    "definition_en": "referring to a large number of countable things",
+    "examples": [
+      {
+        "en": "Many visitors came to the exhibition.",
+        "vi": "Nhiều khách đến tham quan triển lãm.",
+        "source": "original"
+      },
+      {
+        "en": "How many copies should I print?",
+        "vi": "Tôi nên in bao nhiêu bản?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "many times",
+        "vi": "nhiều lần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 134,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "those",
+    "lemma": "those",
+    "pos": "det",
+    "ipa": "/ˈðoʊz/",
+    "ipa_us": "/ˈðoʊz/",
+    "ipa_uk": "/ðˈəʊz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "những cái kia",
+    "definition_en": "identifying plural things farther away or already mentioned",
+    "examples": [
+      {
+        "en": "Those flowers belong to my neighbor.",
+        "vi": "Những bông hoa kia thuộc về hàng xóm của tôi.",
+        "source": "original"
+      },
+      {
+        "en": "Could you move those boxes?",
+        "vi": "Bạn có thể di chuyển những chiếc hộp kia không?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "those days",
+        "vi": "những ngày ấy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 136,
+    "lists": [
+      "cefrj-1.6",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "say",
+    "lemma": "say",
+    "pos": "v",
+    "ipa": "/ˈseɪ/",
+    "ipa_us": "/ˈseɪ/",
+    "ipa_uk": "/sˈeɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "nói",
+    "definition_en": "to express something in words",
+    "examples": [
+      {
+        "en": "Please say your name clearly.",
+        "vi": "Hãy nói rõ tên bạn.",
+        "source": "original"
+      },
+      {
+        "en": "What did the manager say about the delay?",
+        "vi": "Quản lý đã nói gì về việc chậm trễ?",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "say hello",
+        "vi": "chào hỏi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 138,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "down",
+    "lemma": "down",
+    "pos": "adv",
+    "ipa": "/ˈdaʊn/",
+    "ipa_us": "/ˈdaʊn/",
+    "ipa_uk": "/dˈaʊn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "xuống",
+    "definition_en": "toward a lower position",
+    "examples": [
+      {
+        "en": "The elevator is going down.",
+        "vi": "Thang máy đang đi xuống.",
+        "source": "original"
+      },
+      {
+        "en": "Please sit down and rest.",
+        "vi": "Hãy ngồi xuống và nghỉ ngơi.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sit down",
+        "vi": "ngồi xuống"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 140,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "through",
+    "lemma": "through",
+    "pos": "prep",
+    "ipa": "/ˈθɹu/",
+    "ipa_us": "/ˈθɹu/",
+    "ipa_uk": "/θɹˈuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "qua, xuyên qua",
+    "definition_en": "moving from one side or end of something to the other",
+    "examples": [
+      {
+        "en": "We walked through the park.",
+        "vi": "Chúng tôi đi bộ qua công viên.",
+        "source": "original"
+      },
+      {
+        "en": "Light came through the curtains.",
+        "vi": "Ánh sáng chiếu qua rèm cửa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "through the door",
+        "vi": "qua cửa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 142,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "last",
+    "lemma": "last",
+    "pos": "adj",
+    "ipa": "/ˈɫæs/",
+    "ipa_us": "/ˈɫæs/",
+    "ipa_uk": "/lˈɑːst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "cuối cùng",
+    "definition_en": "coming after all other items in a sequence",
+    "examples": [
+      {
+        "en": "The last bus leaves at eleven.",
+        "vi": "Chuyến xe buýt cuối cùng khởi hành lúc mười một giờ.",
+        "source": "original"
+      },
+      {
+        "en": "Please check the last page of the report.",
+        "vi": "Hãy kiểm tra trang cuối của báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "last chance",
+        "vi": "cơ hội cuối cùng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 144,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "while",
+    "lemma": "while",
+    "pos": "conj",
+    "ipa": "/ˈhwaɪɫ/",
+    "ipa_us": "/ˈhwaɪɫ/",
+    "ipa_uk": "/wˈaɪl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "trong khi",
+    "definition_en": "during the time that something else happens",
+    "examples": [
+      {
+        "en": "I read while my sister cooked.",
+        "vi": "Tôi đọc sách trong khi em gái nấu ăn.",
+        "source": "original"
+      },
+      {
+        "en": "Please wait here while I check the reservation.",
+        "vi": "Vui lòng đợi ở đây trong khi tôi kiểm tra đặt chỗ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "while waiting",
+        "vi": "trong lúc chờ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 147,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "best",
+    "lemma": "best",
+    "pos": "adj",
+    "ipa": "/ˈbɛst/",
+    "ipa_us": "/ˈbɛst/",
+    "ipa_uk": "/bˈɛst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "tốt nhất",
+    "definition_en": "of the highest quality among alternatives",
+    "examples": [
+      {
+        "en": "This is the best route to the airport.",
+        "vi": "Đây là tuyến đường tốt nhất đến sân bay.",
+        "source": "original"
+      },
+      {
+        "en": "She received the best score in the class.",
+        "vi": "Cô ấy đạt điểm cao nhất lớp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "best option",
+        "vi": "lựa chọn tốt nhất"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 148,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "general",
+      "core-english"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  }
+]

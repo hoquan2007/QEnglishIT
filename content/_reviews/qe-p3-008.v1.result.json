@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p3-008",
+  "revision": "e51d1c5c568ab3ea4b846719f392df620de34722c8c6954ab5bdc15ec4dcd0b6",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 39,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q2: B is the best option, but continued freight inclusion is being checked, not confirmed; phrase as 'The woman will confirm whether freight remains included.' Q3: C is conditional on the supplier preserving both terms; the immediate next step is contacting the supplier. Q15: C narrows the stated condition; the link being clicked OR credentials being shared may trigger a freeze. Q21: A is conditional and the immediate action is requesting a location correction. Q36: D is a plausible next step, although release of reserve stock is possible rather than explicitly confirmed. Independently solved using only the blind transcript, questions, and options. Major assessment-quality concern: every answer position follows the same repeating A-B-C-D cycle, and generic off-topic distractors recur across groups and all six sets. The repeated broad purpose/detail/next-action stems also make answers easy to predict; shuffle positions and replace distractors with plausible passage-specific alternatives before publication.",
+  "admin_sample": [
+    6,
+    36
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

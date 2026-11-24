@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p4-010",
+  "revision": "b9d3e032ecab609bedd1db3bf136ddc8a3d9a0ade85d402332793b786f1afc4f",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q12 and Q21 are role- or condition-specific actions supported by the talk. Q18: B accurately describes the announced monitoring plan, although the speaker says 'We will monitor' rather than directing listeners. Q24 is explicitly optional. No other materially ambiguous answers identified. Independently solved using only the blind transcript, questions, and options. Major assessment-quality concern: every answer position follows the same repeating A-B-C-D cycle, and generic off-topic distractors recur across groups and all six sets. The repeated broad purpose/detail/next-action stems also make answers easy to predict; shuffle positions and replace distractors with plausible passage-specific alternatives before publication.",
+  "admin_sample": [
+    9,
+    20
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

@@ -17,6 +17,7 @@ def module(filename):
 
 build = module('build-wordlist.py')
 ipa = module('enrich-ipa.py')
+curated = module('compile-curated.py')
 
 
 class PipelineTest(unittest.TestCase):
@@ -86,6 +87,43 @@ class PipelineTest(unittest.TestCase):
         self.assertEqual(records['programer']['canonical'], 'programmer')
         self.assertNotIn('shorts', records)
         self.assertNotIn('savings', records)
+
+    def test_uk_variant_requires_explicit_source_evidence(self):
+        tagged = {'furore': {'uk': ['/fjʊəˈrɔːri/']}}
+        variants, spelling = ipa.tagged_uk_spelling_variant(
+            'furor', tagged, {'furore': 'furor'}
+        )
+        self.assertEqual(variants, ['/fjʊəˈrɔːri/'])
+        self.assertEqual(spelling, 'furore')
+        self.assertEqual(ipa.tagged_uk_spelling_variant('furor', tagged, {}), ([], None))
+        self.assertEqual(ipa.tagged_uk_spelling_variant('furor', {'furore': {'us': ['/x/']}},
+                                                       {'furore': 'furor'}), ([], None))
+
+    def test_curated_word_batch_has_verifiable_ipa_and_original_examples(self):
+        payload, _ = curated.compile_batch(curated.DEFAULT_CURATED, curated.DEFAULT_OUTPUT)
+        self.assertEqual(payload, curated.DEFAULT_OUTPUT.read_bytes())
+        rows = json.loads(payload)
+        self.assertGreaterEqual(len(rows), 30)
+        self.assertEqual(len({row['lemma'] for row in rows}), len(rows))
+        for row in rows:
+            self.assertEqual(row['word'], row['lemma'])
+            self.assertEqual(row['ipa'], row['ipa_us'])
+            self.assertFalse(row['reviewed'])
+            self.assertEqual(row['source'], 'original')
+            self.assertEqual(len(row['examples']), 2)
+            for example in row['examples']:
+                self.assertEqual(example['source'], 'original')
+                self.assertTrue(example['en'].strip())
+                self.assertTrue(example['vi'].strip())
+            for dialect in ('us', 'uk'):
+                self.assertTrue(ipa.valid_ipa(row['ipa_' + dialect]))
+                provenance = row['ipa_provenance'][dialect]
+                self.assertIn('source', provenance)
+                self.assertIn('license', provenance)
+                self.assertIn('batch_file', provenance)
+                self.assertEqual(len(provenance['batch_sha256']), 64)
+            if row['ipa_provenance']['uk']['source'] == 'ipa-dict-uk':
+                self.assertIn('GPL-3.0', row['ipa_provenance']['uk']['license'])
 
 
 if __name__ == '__main__':

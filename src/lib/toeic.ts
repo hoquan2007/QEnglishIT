@@ -1,3 +1,5 @@
+import type { Test } from "./types";
+
 export const PARTS = [
   { part: 1, name: "Part 1", title: "Mô tả hình ảnh", skill: "Nghe", count: 6, range: [1, 6] },
   { part: 2, name: "Part 2", title: "Hỏi – Đáp", skill: "Nghe", count: 25, range: [7, 31] },
@@ -9,6 +11,27 @@ export const PARTS = [
 ] as const;
 
 export const isListeningPart = (p: number) => p <= 4;
+
+export function isToeicListeningReading(test: Test) {
+  return !test.exam_type || ["toeic_full", "toeic_mini", "toeic_listening", "toeic_reading", "toeic_part"].includes(test.exam_type);
+}
+
+export function getToeicParts(test: Test) {
+  if (!isToeicListeningReading(test)) return [];
+  const configured = test.sections?.flatMap((section) => section.parts ?? []) ?? [];
+  if (configured.length) return PARTS.filter(({ part }) => configured.includes(part)).map(({ part }) => part);
+  if (test.exam_type === "toeic_listening") return [1, 2, 3, 4];
+  if (test.exam_type === "toeic_reading") return [5, 6, 7];
+  if (test.exam_type === "toeic_part") return [];
+  return PARTS.map(({ part }) => part);
+}
+
+export function getTestPartLabel(test: Test, part: number) {
+  const toeicPart = isToeicListeningReading(test) ? PARTS[part - 1] : undefined;
+  if (toeicPart) return `${toeicPart.name} · ${toeicPart.title}`;
+  if (part > 0) return `Phần ${part}`;
+  return test.sections?.[0]?.title ?? "Câu hỏi";
+}
 
 // Approximate raw → scaled conversion (linear interpolation between anchor points).
 const L_POINTS: [number, number][] = [

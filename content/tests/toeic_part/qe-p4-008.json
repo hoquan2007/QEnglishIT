@@ -1,0 +1,1224 @@
+{
+  "slug": "qe-p4-008",
+  "title": "QEnglish TOEIC Part 4 Draft Test 008",
+  "collection": "toeic-part-4",
+  "exam_type": "toeic_part",
+  "level": "B1-B2",
+  "difficulty": 4,
+  "cefr": "B1-B2",
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "listening",
+    "part-4",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Our accounting team will move from the third floor to the fifth floor this Friday. Boxes will be delivered to each desk tomorrow morning, and movers will begin at 4 P.M. Friday after customer calls end. Please label computers separately and take personal items home before leaving Friday.",
+      "transcript_vi": "N: Nhóm Kế toán sẽ chuyển từ tầng ba lên tầng năm vào thứ Sáu. Thùng đóng gói được phát sáng mai và việc chuyển đồ bắt đầu lúc bốn giờ chiều sau khi kết thúc cuộc gọi khách hàng. Hãy dán nhãn máy tính riêng và mang đồ cá nhân về trước khi rời văn phòng.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "Who is most directly affected by this announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees handling calls on the third floor in another department"
+            },
+            {
+              "key": "B",
+              "text": "The movers assigned to deliver boxes tomorrow"
+            },
+            {
+              "key": "C",
+              "text": "Visitors attending meetings on the fifth floor"
+            },
+            {
+              "key": "D",
+              "text": "Members of the accounting team"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Thông báo trực tiếp hướng tới nhóm kế toán chuẩn bị chuyển tầng.",
+          "translation": "Thông báo này ảnh hưởng trực tiếp nhất đến ai?",
+          "difficulty": 4,
+          "tags": [
+            "facilities"
+          ],
+          "skill_tags": [
+            "audience"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "Why will the movers begin at 4 P.M.?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The fifth floor opens at that time."
+            },
+            {
+              "key": "B",
+              "text": "Customer calls will have ended."
+            },
+            {
+              "key": "C",
+              "text": "The accounting team finishes packing on Thursday."
+            },
+            {
+              "key": "D",
+              "text": "The boxes will arrive at that time."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Việc chuyển đồ bắt đầu sau khi các cuộc gọi khách hàng kết thúc.",
+          "translation": "Vì sao đội chuyển đồ bắt đầu lúc 4 giờ chiều?",
+          "difficulty": 4,
+          "tags": [
+            "facilities"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "How should employees prepare their computers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Leave them unlabeled on the fifth floor."
+            },
+            {
+              "key": "B",
+              "text": "Pack them with personal belongings."
+            },
+            {
+              "key": "C",
+              "text": "Take them home before Friday."
+            },
+            {
+              "key": "D",
+              "text": "Label them separately."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu dán nhãn máy tính riêng.",
+          "translation": "Nhân viên nên chuẩn bị máy tính như thế nào?",
+          "difficulty": 4,
+          "tags": [
+            "facilities"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: This is a reminder that tomorrow's compliance webinar starts at 9:30 rather than 10. The presenter added a live case study, so the session will run ninety minutes. Employees joining remotely should test the meeting link today and download the workbook from the training portal.",
+      "transcript_vi": "N: Đây là lời nhắc rằng hội thảo tuân thủ ngày mai bắt đầu lúc 9:30 thay vì 10 giờ. Phiên học kéo dài chín mươi phút vì có thêm nghiên cứu tình huống trực tiếp. Nhân viên tham gia từ xa nên kiểm tra liên kết hôm nay và tải tài liệu từ cổng đào tạo.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "What change has been made to the webinar's start time?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It begins thirty minutes earlier."
+            },
+            {
+              "key": "B",
+              "text": "It begins ninety minutes earlier."
+            },
+            {
+              "key": "C",
+              "text": "It begins thirty minutes later."
+            },
+            {
+              "key": "D",
+              "text": "It begins at the original time."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thảo bắt đầu lúc 9 giờ 30 thay vì 10 giờ.",
+          "translation": "Giờ bắt đầu hội thảo trực tuyến thay đổi thế nào?",
+          "difficulty": 4,
+          "tags": [
+            "training"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "Why will the webinar run for ninety minutes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The workbook will be distributed during the session."
+            },
+            {
+              "key": "B",
+              "text": "The original presenter has been replaced."
+            },
+            {
+              "key": "C",
+              "text": "The meeting link needs to be repaired."
+            },
+            {
+              "key": "D",
+              "text": "A live case study has been added."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Diễn giả bổ sung một nghiên cứu tình huống trực tiếp.",
+          "translation": "Vì sao hội thảo kéo dài 90 phút?",
+          "difficulty": 4,
+          "tags": [
+            "training"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "What should a remote attendee do before the webinar?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Check the meeting link and obtain the workbook."
+            },
+            {
+              "key": "B",
+              "text": "Wait until 10 A.M. to test the meeting link."
+            },
+            {
+              "key": "C",
+              "text": "Ask the presenter to send the workbook after the session."
+            },
+            {
+              "key": "D",
+              "text": "Download the live case study instead of the workbook."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người tham dự từ xa cần kiểm tra liên kết hôm nay và tải tài liệu từ cổng đào tạo.",
+          "translation": "Người tham dự từ xa nên làm gì trước hội thảo?",
+          "difficulty": 4,
+          "tags": [
+            "training"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Beginning Monday, forklifts will use the east aisle only while the loading dock floor is resurfaced. Pedestrians should enter through the marked west walkway, and temporary barriers will remain in place for three days. Supervisors will review the route change during each shift briefing.",
+      "transcript_vi": "N: Bắt đầu từ thứ Hai, xe nâng chỉ sử dụng lối phía đông trong khi sàn khu bốc hàng được làm lại. Người đi bộ phải dùng lối phía tây có đánh dấu, và rào chắn tạm sẽ tồn tại trong ba ngày. Giám sát viên sẽ nhắc lại thay đổi tuyến trong mỗi buổi giao ca.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "What work is causing the warehouse route changes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Widening the west walkway"
+            },
+            {
+              "key": "B",
+              "text": "Replacing all loading dock doors"
+            },
+            {
+              "key": "C",
+              "text": "Resurfacing the loading dock floor"
+            },
+            {
+              "key": "D",
+              "text": "Installing new forklifts"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Sàn khu vực bốc dỡ đang được làm lại.",
+          "translation": "Công việc nào dẫn đến thay đổi tuyến đi trong kho?",
+          "difficulty": 4,
+          "tags": [
+            "warehouse"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "For how long will the barriers remain?",
+          "options": [
+            {
+              "key": "A",
+              "text": "One shift"
+            },
+            {
+              "key": "B",
+              "text": "Two weeks"
+            },
+            {
+              "key": "C",
+              "text": "One week"
+            },
+            {
+              "key": "D",
+              "text": "Three days"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Rào chắn tạm thời được đặt trong ba ngày.",
+          "translation": "Rào chắn sẽ được giữ trong bao lâu?",
+          "difficulty": 4,
+          "tags": [
+            "warehouse"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "What is the purpose of directing pedestrians to the west walkway?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To separate foot traffic from forklifts during the resurfacing work"
+            },
+            {
+              "key": "B",
+              "text": "To let pedestrians cross the loading dock while it is being resurfaced"
+            },
+            {
+              "key": "C",
+              "text": "To shorten the forklift route between shifts"
+            },
+            {
+              "key": "D",
+              "text": "To allow the temporary barriers to be removed early"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Xe nâng chỉ dùng lối phía đông, người đi bộ dùng lối phía tây trong thời gian sửa mặt sàn để tách hai luồng di chuyển.",
+          "translation": "Mục đích của việc hướng người đi bộ đến lối đi phía tây là gì?",
+          "difficulty": 4,
+          "tags": [
+            "warehouse"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Because of road construction, our airport shuttle will not stop at Terminal B this week. Guests arriving there should take the airport connector to Terminal A, where the shuttle departs every thirty minutes. The last departure is at 11:30 P.M., and no reservation is required.",
+      "transcript_vi": "N: Do thi công đường, xe đưa đón sân bay của khách sạn sẽ không dừng ở Nhà ga B trong tuần này. Khách đến Nhà ga B nên đi tuyến nối sang Nhà ga A, nơi xe xuất phát mỗi ba mươi phút. Chuyến cuối lúc 11:30 tối và không cần đặt trước.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "Why is the shuttle skipping Terminal B?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Terminal A is undergoing renovation."
+            },
+            {
+              "key": "B",
+              "text": "Road construction is taking place."
+            },
+            {
+              "key": "C",
+              "text": "The airport connector has stopped operating."
+            },
+            {
+              "key": "D",
+              "text": "The shuttle requires advance reservations."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Công trình đường bộ khiến xe không dừng ở nhà ga B trong tuần này.",
+          "translation": "Vì sao xe đưa đón bỏ qua nhà ga B?",
+          "difficulty": 4,
+          "tags": [
+            "hospitality"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "How often does the shuttle depart Terminal A?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every thirty minutes"
+            },
+            {
+              "key": "B",
+              "text": "Every hour"
+            },
+            {
+              "key": "C",
+              "text": "Every fifteen minutes"
+            },
+            {
+              "key": "D",
+              "text": "Every ninety minutes"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Xe khởi hành mỗi 30 phút từ nhà ga A.",
+          "translation": "Xe đưa đón rời nhà ga A bao lâu một chuyến?",
+          "difficulty": 4,
+          "tags": [
+            "hospitality"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "How can a guest arriving at Terminal B reach the shuttle?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wait for a shuttle at Terminal B."
+            },
+            {
+              "key": "B",
+              "text": "Walk to Terminal B's reservation counter."
+            },
+            {
+              "key": "C",
+              "text": "Take the airport connector to Terminal A."
+            },
+            {
+              "key": "D",
+              "text": "Reserve a direct shuttle from Terminal B."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Khách tại B cần đi phương tiện kết nối sân bay đến nhà ga A.",
+          "translation": "Khách đến nhà ga B có thể đến xe đưa đón bằng cách nào?",
+          "difficulty": 4,
+          "tags": [
+            "hospitality"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Starting Saturday, loyalty members who spend at least seventy-five dollars will receive a fifteen-dollar coupon for a December purchase. The coupon prints with the receipt and cannot be used on the same purchase. Gift-card purchases do not count toward the seventy-five-dollar minimum.",
+      "transcript_vi": "N: Từ thứ Bảy, thành viên thân thiết chi ít nhất 75 đô la sẽ nhận phiếu giảm 15 đô la cho lần mua trong tháng Mười Hai. Phiếu in cùng hóa đơn và không dùng được cho chính giao dịch đó. Mua thẻ quà tặng không được tính vào mức tối thiểu 75 đô la.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "Who can earn the fifteen-dollar coupon?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All shoppers purchasing a $15 item"
+            },
+            {
+              "key": "B",
+              "text": "Members spending $75 on gift cards alone"
+            },
+            {
+              "key": "C",
+              "text": "Loyalty members spending at least $75 on qualifying purchases"
+            },
+            {
+              "key": "D",
+              "text": "Customers redeeming a coupon from December"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Thành viên thân thiết cần chi ít nhất 75 đô la cho các giao dịch đủ điều kiện.",
+          "translation": "Ai có thể nhận phiếu giảm giá 15 đô la?",
+          "difficulty": 4,
+          "tags": [
+            "retail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "When can the earned coupon be used?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On a purchase in December"
+            },
+            {
+              "key": "B",
+              "text": "On the transaction that earns it"
+            },
+            {
+              "key": "C",
+              "text": "On any purchase made before the promotion starts"
+            },
+            {
+              "key": "D",
+              "text": "Only before Saturday"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Phiếu được dùng cho giao dịch tháng Mười Hai, không dùng ngay giao dịch nhận phiếu.",
+          "translation": "Phiếu giảm giá nhận được có thể sử dụng khi nào?",
+          "difficulty": 4,
+          "tags": [
+            "retail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "Which purchases do not count toward the spending threshold?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Purchases by loyalty members"
+            },
+            {
+              "key": "B",
+              "text": "Regular merchandise purchases"
+            },
+            {
+              "key": "C",
+              "text": "Gift-card purchases"
+            },
+            {
+              "key": "D",
+              "text": "Qualifying purchases of exactly $75"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Bài nói loại trừ giao dịch mua thẻ quà tặng khỏi ngưỡng 75 đô la.",
+          "translation": "Giao dịch nào không được tính vào mức chi tiêu tối thiểu?",
+          "difficulty": 4,
+          "tags": [
+            "retail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Renovation of the second-floor waiting area begins Tuesday and should last about two weeks. During that time, imaging patients will check in at first-floor reception. Allow a few extra minutes for walking, and patients with mobility needs should use the east elevator.",
+      "transcript_vi": "N: Việc cải tạo khu chờ tầng hai bắt đầu thứ Ba và dự kiến kéo dài khoảng hai tuần. Trong thời gian đó, bệnh nhân chẩn đoán hình ảnh sẽ làm thủ tục ở quầy tầng một. Hãy dành thêm vài phút để di chuyển, và người cần hỗ trợ vận động nên dùng thang máy phía đông.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "What area is being renovated?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The east elevator"
+            },
+            {
+              "key": "B",
+              "text": "The imaging equipment room"
+            },
+            {
+              "key": "C",
+              "text": "The first-floor reception desk"
+            },
+            {
+              "key": "D",
+              "text": "The second-floor waiting area"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Công việc cải tạo diễn ra tại khu chờ tầng hai.",
+          "translation": "Khu vực nào đang được cải tạo?",
+          "difficulty": 4,
+          "tags": [
+            "healthcare-admin"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "Approximately how long will the work last?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two days"
+            },
+            {
+              "key": "B",
+              "text": "Two weeks"
+            },
+            {
+              "key": "C",
+              "text": "Three weeks"
+            },
+            {
+              "key": "D",
+              "text": "One month"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói dự kiến khoảng hai tuần.",
+          "translation": "Công việc dự kiến kéo dài khoảng bao lâu?",
+          "difficulty": 4,
+          "tags": [
+            "healthcare-admin"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "Where should imaging patients check in during the renovation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At first-floor reception"
+            },
+            {
+              "key": "B",
+              "text": "At the renovated waiting area"
+            },
+            {
+              "key": "C",
+              "text": "At second-floor reception"
+            },
+            {
+              "key": "D",
+              "text": "Inside the east elevator"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Bệnh nhân chẩn đoán hình ảnh làm thủ tục tại quầy lễ tân tầng một.",
+          "translation": "Bệnh nhân chẩn đoán hình ảnh nên làm thủ tục ở đâu trong thời gian cải tạo?",
+          "difficulty": 4,
+          "tags": [
+            "healthcare-admin"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Museum members are invited to preview our new photography exhibition Thursday from 6 to 8 P.M. The curator will give a short talk at 6:30, several days before the public opening. Please reserve your place by Wednesday noon and bring your membership card for entry.",
+      "transcript_vi": "N: Thành viên bảo tàng được mời xem trước triển lãm nhiếp ảnh mới vào thứ Năm từ 6 đến 8 giờ tối. Giám tuyển sẽ nói chuyện ngắn lúc 6:30, vài ngày trước khi mở cửa cho công chúng. Vui lòng giữ chỗ trước trưa thứ Tư và mang thẻ thành viên khi vào cửa.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Who is invited to the photography exhibition preview?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only museum employees"
+            },
+            {
+              "key": "B",
+              "text": "All members of the public"
+            },
+            {
+              "key": "C",
+              "text": "Museum members"
+            },
+            {
+              "key": "D",
+              "text": "Only the photographers"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Buổi xem trước dành cho thành viên bảo tàng.",
+          "translation": "Ai được mời tham dự buổi xem trước triển lãm ảnh?",
+          "difficulty": 4,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "When will the curator speak?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At 6 P.M. Wednesday"
+            },
+            {
+              "key": "B",
+              "text": "At 6:30 P.M. Thursday"
+            },
+            {
+              "key": "C",
+              "text": "At noon Wednesday"
+            },
+            {
+              "key": "D",
+              "text": "At 8 P.M. Thursday"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Bài nói nêu bài phát biểu ngắn lúc 6 giờ 30 tối thứ Năm.",
+          "translation": "Người phụ trách triển lãm sẽ phát biểu khi nào?",
+          "difficulty": 4,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "What must members bring for admission?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A curator's written invitation"
+            },
+            {
+              "key": "B",
+              "text": "Their membership card"
+            },
+            {
+              "key": "C",
+              "text": "A printed photograph"
+            },
+            {
+              "key": "D",
+              "text": "A ticket for the public opening"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu mang thẻ thành viên để vào cửa.",
+          "translation": "Thành viên cần mang gì để vào cửa?",
+          "difficulty": 4,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: The expense system will be unavailable Sunday from 2 to 4 A.M. while we upgrade the database. Saved drafts will remain intact, but please avoid starting approvals during the maintenance window. Managers with Monday deadlines should complete time-sensitive approvals by Friday afternoon.",
+      "transcript_vi": "N: Hệ thống chi phí sẽ ngừng hoạt động Chủ nhật từ 2 đến 4 giờ sáng để nâng cấp cơ sở dữ liệu. Bản nháp đã lưu sẽ được giữ nguyên, nhưng vui lòng không bắt đầu phê duyệt trong khung bảo trì. Quản lý có hạn thứ Hai nên hoàn tất phê duyệt quan trọng trước chiều thứ Sáu.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "Why will the expense system be unavailable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Managers will be trained on a new expense policy."
+            },
+            {
+              "key": "B",
+              "text": "The approval deadline has changed permanently."
+            },
+            {
+              "key": "C",
+              "text": "All saved drafts will be deleted."
+            },
+            {
+              "key": "D",
+              "text": "The database will be upgraded."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hệ thống ngừng hoạt động từ 2 đến 4 giờ sáng Chủ nhật để nâng cấp cơ sở dữ liệu.",
+          "translation": "Vì sao hệ thống chi phí sẽ không truy cập được?",
+          "difficulty": 4,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "What will happen to saved expense drafts?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will be moved to a separate system."
+            },
+            {
+              "key": "B",
+              "text": "They will be automatically approved."
+            },
+            {
+              "key": "C",
+              "text": "They will remain intact."
+            },
+            {
+              "key": "D",
+              "text": "They will be deleted during maintenance."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Người nói xác nhận bản nháp đã lưu vẫn nguyên vẹn.",
+          "translation": "Các bản nháp chi phí đã lưu sẽ ra sao?",
+          "difficulty": 4,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "When should managers with Monday deadlines finish urgent approvals?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At 4 A.M. Sunday"
+            },
+            {
+              "key": "B",
+              "text": "After Monday's deadline"
+            },
+            {
+              "key": "C",
+              "text": "During the Sunday maintenance window"
+            },
+            {
+              "key": "D",
+              "text": "By Friday afternoon"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu nhóm quản lý này hoàn tất phê duyệt gấp trước chiều thứ Sáu.",
+          "translation": "Quản lý có hạn chót thứ Hai nên hoàn tất phê duyệt gấp khi nào?",
+          "difficulty": 4,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: The Riverside branch will close at 3 P.M. Friday for electrical work, two hours earlier than usual. The ATM, night-deposit box, and online banking will remain available. Customers needing teller service after three may visit the Market Street branch, which stays open until six.",
+      "transcript_vi": "N: Chi nhánh Riverside sẽ đóng cửa lúc 3 giờ chiều thứ Sáu để sửa điện, sớm hơn thường lệ hai giờ. ATM, hộp gửi tiền ban đêm và ngân hàng trực tuyến vẫn hoạt động. Khách cần giao dịch viên sau ba giờ có thể đến chi nhánh Market Street, mở đến sáu giờ.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "Why will the Riverside branch close early?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The ATM is being removed."
+            },
+            {
+              "key": "B",
+              "text": "The Market Street branch is closing."
+            },
+            {
+              "key": "C",
+              "text": "Electrical work is scheduled."
+            },
+            {
+              "key": "D",
+              "text": "The bank is changing its regular business hours."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Chi nhánh đóng lúc 3 giờ chiều thứ Sáu để thực hiện công việc điện.",
+          "translation": "Vì sao chi nhánh Riverside đóng cửa sớm?",
+          "difficulty": 4,
+          "tags": [
+            "banking"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "Which service remains available at Riverside after closing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The staffed customer-service desk"
+            },
+            {
+              "key": "B",
+              "text": "The night-deposit box"
+            },
+            {
+              "key": "C",
+              "text": "In-person loan appointments"
+            },
+            {
+              "key": "D",
+              "text": "The teller counter"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hộp gửi tiền ban đêm và ATM vẫn hoạt động.",
+          "translation": "Dịch vụ nào vẫn có tại Riverside sau khi đóng cửa?",
+          "difficulty": 4,
+          "tags": [
+            "banking"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "Where can customers obtain teller service after 3 P.M. Friday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The Market Street branch"
+            },
+            {
+              "key": "B",
+              "text": "The online banking portal"
+            },
+            {
+              "key": "C",
+              "text": "The Riverside branch"
+            },
+            {
+              "key": "D",
+              "text": "The Riverside night-deposit box"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Chi nhánh Market Street mở đến 6 giờ và phục vụ khách cần giao dịch viên.",
+          "translation": "Khách hàng có thể dùng dịch vụ giao dịch viên ở đâu sau 3 giờ chiều thứ Sáu?",
+          "difficulty": 4,
+          "tags": [
+            "banking"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Due to higher attendance, today's supplier forum has moved from Ballroom C to the Lakeside Room. Registration remains in the main lobby, and the first panel still begins at 1 P.M. Follow the blue directional signs and allow a few extra minutes to walk to the new room.",
+      "transcript_vi": "N: Do số người tham dự tăng, diễn đàn nhà cung cấp hôm nay được chuyển từ Phòng C sang phòng Lakeside. Bàn đăng ký vẫn ở sảnh chính và phiên đầu tiên vẫn bắt đầu lúc 1 giờ chiều. Hãy theo biển chỉ dẫn màu xanh và dành thêm vài phút để đi đến phòng mới.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "Why has the supplier forum been moved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Attendance is higher than expected."
+            },
+            {
+              "key": "B",
+              "text": "Registration has moved out of the lobby."
+            },
+            {
+              "key": "C",
+              "text": "Ballroom C is reserved for registration."
+            },
+            {
+              "key": "D",
+              "text": "The first panel has been canceled."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Bài nói nêu số người tham dự tăng nên chuyển sang Lakeside Room.",
+          "translation": "Vì sao diễn đàn nhà cung cấp đổi phòng?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "Which scheduled start time remains unchanged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Registration opens at 1 P.M."
+            },
+            {
+              "key": "B",
+              "text": "The first panel begins at 1 P.M."
+            },
+            {
+              "key": "C",
+              "text": "The first panel begins a few minutes later."
+            },
+            {
+              "key": "D",
+              "text": "The first panel begins before registration."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Phiên thảo luận đầu tiên vẫn bắt đầu lúc 1 giờ chiều.",
+          "translation": "Giờ bắt đầu nào vẫn giữ nguyên?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "How should participants find the Lakeside Room?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Return to Ballroom C."
+            },
+            {
+              "key": "B",
+              "text": "Follow the blue directional signs."
+            },
+            {
+              "key": "C",
+              "text": "Follow signs to the registration desk only."
+            },
+            {
+              "key": "D",
+              "text": "Wait for a shuttle in the main lobby."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu đi theo biển chỉ dẫn màu xanh đến phòng mới.",
+          "translation": "Người tham dự nên tìm phòng Lakeside bằng cách nào?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

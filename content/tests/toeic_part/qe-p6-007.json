@@ -1,0 +1,662 @@
+{
+  "slug": "qe-p6-007",
+  "title": "TOEIC Part 6 – Text Completion 07 (Subscriptions, Safety, and Community Services)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "reading",
+    "business-english"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: Regional Account Managers\nFrom: Client Services\nSubject: Renewal reminder process\n\nBeginning next month, renewal notices will be sent to subscription customers 45 days before their contracts expire. Account managers should review each notice -------(1)------- it is released to confirm that billing contacts are current.\n\n-------(2)------- The system will flag any account whose contact record has not been updated within the past year. Managers can then verify the details by phone or email.\n\nA short note should be added to the account record after the contact has been -------(3)-------. This step will make future renewal calls more -------(4)-------.",
+      "passage_vi": "Đến: Các quản lý tài khoản khu vực\nTừ: Dịch vụ khách hàng\nChủ đề: Quy trình nhắc gia hạn\n\nBắt đầu từ tháng sau, thông báo gia hạn sẽ được gửi cho khách hàng đăng ký 45 ngày trước khi hợp đồng hết hạn. Quản lý tài khoản nên xem lại từng thông báo trước khi phát hành để xác nhận thông tin liên hệ thanh toán còn chính xác.\n\nĐể hỗ trợ việc rà soát này, một báo cáo tự động mới sẽ chạy vào mỗi sáng thứ Hai. Hệ thống sẽ đánh dấu mọi tài khoản có hồ sơ liên hệ chưa được cập nhật trong năm qua. Quản lý sau đó có thể xác minh chi tiết qua điện thoại hoặc email.\n\nSau khi thông tin liên hệ đã được xác minh, cần thêm một ghi chú ngắn vào hồ sơ tài khoản. Bước này sẽ giúp các cuộc gọi gia hạn sau này hiệu quả hơn.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "before"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Before diễn tả việc rà soát phải diễn ra trước khi thông báo được phát hành.",
+          "translation": "Chỗ trống (1). Đáp án đúng là “before” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Customers must renew their contracts at a branch office."
+            },
+            {
+              "key": "B",
+              "text": "To support this review, a new automated report will run every Monday morning."
+            },
+            {
+              "key": "C",
+              "text": "The billing department has moved to a different floor."
+            },
+            {
+              "key": "D",
+              "text": "Printed notices will no longer include company logos."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu này giới thiệu công cụ hỗ trợ việc rà soát và dẫn tự nhiên sang câu nói về hệ thống đánh dấu tài khoản.",
+          "translation": "Chỗ trống (2). Đáp án đúng là “To support this review, a new automated report will run every Monday morning.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "verifying"
+            },
+            {
+              "key": "B",
+              "text": "verification"
+            },
+            {
+              "key": "C",
+              "text": "verified"
+            },
+            {
+              "key": "D",
+              "text": "verify"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cấu trúc bị động “has been verified” cần quá khứ phân từ.",
+          "translation": "Chỗ trống (3). Đáp án đúng là “verified” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "efficiency"
+            },
+            {
+              "key": "B",
+              "text": "efficiently"
+            },
+            {
+              "key": "C",
+              "text": "efficiencies"
+            },
+            {
+              "key": "D",
+              "text": "efficient"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “make ... more” cần tính từ mô tả các cuộc gọi.",
+          "translation": "Chỗ trống (4). Đáp án đúng là “efficient” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Safety notice: South loading bay\n\nThe south loading bay will reopen on Tuesday after floor repairs are completed. Drivers must enter -------(5)------- the marked gate and follow the temporary arrows painted near the ramp.\n\nAll delivery vehicles should stop at the inspection line before approaching a dock. -------(6)------- This check is expected to take less than two minutes for most vehicles.\n\nBecause the repaired surface will still be curing, forklifts must not travel -------(7)------- than the posted speed limit. Supervisors will review the arrangement after one week and make any -------(8)------- adjustments.",
+      "passage_vi": "Thông báo an toàn: Khu bốc dỡ phía nam\n\nKhu bốc dỡ phía nam sẽ mở lại vào thứ Ba sau khi sửa sàn hoàn tất. Tài xế phải đi vào qua cổng được đánh dấu và đi theo các mũi tên tạm thời sơn gần dốc.\n\nTất cả xe giao hàng nên dừng tại vạch kiểm tra trước khi đến bến. Nhân viên an toàn sẽ kiểm tra nhanh chiều cao xe và tình trạng chốt cửa sau. Việc kiểm tra này dự kiến mất dưới hai phút với hầu hết xe.\n\nVì bề mặt vừa sửa vẫn đang đóng rắn, xe nâng không được chạy nhanh hơn giới hạn tốc độ được niêm yết. Giám sát viên sẽ xem lại cách bố trí sau một tuần và thực hiện các điều chỉnh cần thiết.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "among"
+            },
+            {
+              "key": "B",
+              "text": "through"
+            },
+            {
+              "key": "C",
+              "text": "beside"
+            },
+            {
+              "key": "D",
+              "text": "toward"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Through phù hợp với việc đi qua một cổng cụ thể.",
+          "translation": "Chỗ trống (5). Đáp án đúng là “through” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The cafeteria serves lunch to drivers from noon to one."
+            },
+            {
+              "key": "B",
+              "text": "Several docks were painted blue last winter."
+            },
+            {
+              "key": "C",
+              "text": "A safety attendant will make a quick check of vehicle height and rear-door latches."
+            },
+            {
+              "key": "D",
+              "text": "Invoices should be mailed directly to the accounting office."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu này giải thích nội dung của lần kiểm tra được nhắc tới ở câu sau.",
+          "translation": "Chỗ trống (6). Đáp án đúng là “A safety attendant will make a quick check of vehicle height and rear-door latches.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "fastest"
+            },
+            {
+              "key": "B",
+              "text": "fast"
+            },
+            {
+              "key": "C",
+              "text": "more fast"
+            },
+            {
+              "key": "D",
+              "text": "faster"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So sánh với “than” cần dạng so sánh hơn “faster”.",
+          "translation": "Chỗ trống (7). Đáp án đúng là “faster” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "necessary"
+            },
+            {
+              "key": "B",
+              "text": "necessity"
+            },
+            {
+              "key": "C",
+              "text": "necessarily"
+            },
+            {
+              "key": "D",
+              "text": "necessitate"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Necessary là tính từ bổ nghĩa cho “adjustments”.",
+          "translation": "Chỗ trống (8). Đáp án đúng là “necessary” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "City library adds pickup lockers at two stations\n\nThe Maple City Library has installed secure book lockers beside the Central and Riverside transit stations. Members can now choose a locker as their pickup location when placing a hold online, making borrowed materials -------(9)------- outside regular branch hours.\n\n-------(10)------- Once a reserved item is placed in a locker, the member receives a six-digit access code by text message.\n\nThe code remains active for three days. If the item is not collected -------(11)------- that period, it is returned to the branch for the next reader. Library officials say the pilot will continue for six months before they decide -------(12)------- to add lockers elsewhere.",
+      "passage_vi": "Thư viện thành phố bổ sung tủ nhận sách tại hai nhà ga\n\nThư viện Maple City đã lắp các tủ sách an toàn cạnh ga Central và Riverside. Thành viên giờ có thể chọn tủ làm điểm nhận khi đặt giữ sách trực tuyến, nhờ đó tài liệu mượn dễ tiếp cận hơn ngoài giờ mở cửa thông thường.\n\nDịch vụ này dành cho tất cả thành viên có thẻ còn hiệu lực và không có khoản phí quá hạn. Khi tài liệu đã đặt được cho vào tủ, thành viên nhận mã truy cập sáu chữ số qua tin nhắn.\n\nMã có hiệu lực trong ba ngày. Nếu tài liệu không được lấy trong khoảng thời gian đó, sách sẽ được trả về chi nhánh cho độc giả tiếp theo. Thư viện cho biết chương trình thử nghiệm sẽ kéo dài sáu tháng trước khi quyết định có bổ sung tủ ở nơi khác hay không.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "access"
+            },
+            {
+              "key": "B",
+              "text": "accessibly"
+            },
+            {
+              "key": "C",
+              "text": "accessible"
+            },
+            {
+              "key": "D",
+              "text": "accessibility"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau “making borrowed materials” cần tính từ bổ nghĩa cho tân ngữ.",
+          "translation": "Chỗ trống (9). Đáp án đúng là “accessible” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Each station closes whenever the library holds a staff meeting."
+            },
+            {
+              "key": "B",
+              "text": "The lockers are used only for returning damaged books."
+            },
+            {
+              "key": "C",
+              "text": "Members must purchase a separate transit ticket to open a locker."
+            },
+            {
+              "key": "D",
+              "text": "The service is available to all members with an active card and no overdue fees."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu này nêu điều kiện sử dụng dịch vụ trước khi giải thích quy trình nhận mã.",
+          "translation": "Chỗ trống (10). Đáp án đúng là “The service is available to all members with an active card and no overdue fees.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "within"
+            },
+            {
+              "key": "B",
+              "text": "beyond"
+            },
+            {
+              "key": "C",
+              "text": "toward"
+            },
+            {
+              "key": "D",
+              "text": "across"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Within diễn tả việc lấy sách trong thời hạn ba ngày.",
+          "translation": "Chỗ trống (11). Đáp án đúng là “within” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "until"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Whether phù hợp với cấu trúc “decide whether to”.",
+          "translation": "Chỗ trống (12). Đáp án đúng là “whether” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Dear Conference Organizer,\n\nThank you for considering North Pier Catering for your September event. Our conference packages include breakfast service, boxed lunches, and an afternoon refreshment station. Menu selections can be -------(13)------- for vegetarian, vegan, and common allergy requirements.\n\n-------(14)------- This visit lets our coordinator confirm loading access, serving locations, and electrical outlets before we prepare the final estimate.\n\nFor events of more than 120 guests, we also provide one service supervisor at no -------(15)------- charge. Please send your estimated attendance by August 5 so that we can -------(16)------- adequate staff for the date.\n\nSincerely,\nNorth Pier Catering",
+      "passage_vi": "Kính gửi Ban tổ chức hội nghị,\n\nCảm ơn quý vị đã cân nhắc North Pier Catering cho sự kiện tháng Chín. Các gói hội nghị của chúng tôi gồm bữa sáng, bữa trưa đóng hộp và quầy đồ uống buổi chiều. Lựa chọn thực đơn có thể được điều chỉnh cho yêu cầu ăn chay, thuần chay và các dị ứng phổ biến.\n\nVới khách hàng mới, chúng tôi đề nghị một chuyến khảo sát địa điểm miễn phí khoảng ba tuần trước sự kiện. Chuyến khảo sát giúp điều phối viên xác nhận lối giao hàng, vị trí phục vụ và ổ cắm điện trước khi lập báo giá cuối cùng.\n\nVới sự kiện trên 120 khách, chúng tôi cũng cung cấp một giám sát viên phục vụ mà không tính thêm phí. Vui lòng gửi số lượng khách ước tính trước ngày 5 tháng Tám để chúng tôi có thể bố trí đủ nhân sự cho ngày đó.\n\nTrân trọng,\nNorth Pier Catering",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "adjusting"
+            },
+            {
+              "key": "B",
+              "text": "adjustment"
+            },
+            {
+              "key": "C",
+              "text": "adjustable"
+            },
+            {
+              "key": "D",
+              "text": "adjusted"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cấu trúc bị động “can be adjusted” cần quá khứ phân từ.",
+          "translation": "Chỗ trống (13). Đáp án đúng là “adjusted” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "For new clients, we recommend a complimentary site visit about three weeks before the event."
+            },
+            {
+              "key": "B",
+              "text": "All conference rooms must use the same lunch menu."
+            },
+            {
+              "key": "C",
+              "text": "Our chefs begin work only after the event has ended."
+            },
+            {
+              "key": "D",
+              "text": "Parking fees are included in every beverage order."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu này giới thiệu chuyến khảo sát mà câu sau dùng cụm “This visit” để tham chiếu.",
+          "translation": "Chỗ trống (14). Đáp án đúng là “For new clients, we recommend a complimentary site visit about three weeks before the event.” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "additionally"
+            },
+            {
+              "key": "B",
+              "text": "additional"
+            },
+            {
+              "key": "C",
+              "text": "addition"
+            },
+            {
+              "key": "D",
+              "text": "add"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Additional là tính từ trong cụm “no additional charge”.",
+          "translation": "Chỗ trống (15). Đáp án đúng là “additional” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "collocation"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "scheduled"
+            },
+            {
+              "key": "B",
+              "text": "scheduling"
+            },
+            {
+              "key": "C",
+              "text": "schedule"
+            },
+            {
+              "key": "D",
+              "text": "scheduler"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau động từ khuyết thiếu “can” cần động từ nguyên mẫu “schedule”.",
+          "translation": "Chỗ trống (16). Đáp án đúng là “schedule” theo ngữ cảnh và cấu trúc của câu.",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

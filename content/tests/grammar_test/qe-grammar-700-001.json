@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-700-001",
+  "title": "Kiểm tra ngữ pháp 700 – 3",
+  "exam_type": "grammar_test",
+  "level": "700",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 3,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The staff will start distributing passes ------- the doors open.",
+          "explanation": "Once nối với mệnh đề the doors open để chỉ khi một việc xảy ra thì việc khác bắt đầu.",
+          "translation": "Nhân viên sẽ bắt đầu phát thẻ ngay khi cửa mở.",
+          "options": [
+            {
+              "key": "A",
+              "text": "once"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "04d33f48e167bbbe20fad717651882f54e1a8579"
+        },
+        {
+          "question_text": "Take a photo of the receipt ------- you lose the paper copy.",
+          "explanation": "Mất bản giấy là khả năng dự phòng, dùng in case.",
+          "translation": "Chụp ảnh biên lai phòng khi bạn làm mất bản giấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so as to"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "in order to"
+            },
+            {
+              "key": "D",
+              "text": "in case"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0df5a0c2712ffcf0699920041dd38feaa7337a6b"
+        },
+        {
+          "question_text": "The workers covered the furniture ------- damage it during painting.",
+          "explanation": "Cụm phủ định chuẩn so as not to + damage.",
+          "translation": "Những người thợ phủ đồ nội thất để không làm hỏng chúng khi sơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so as not to"
+            },
+            {
+              "key": "B",
+              "text": "in case not"
+            },
+            {
+              "key": "C",
+              "text": "so that not"
+            },
+            {
+              "key": "D",
+              "text": "for not to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0f2126047eba3fc20558cecab7a118dbfb03967a"
+        },
+        {
+          "question_text": "Leave the gate unlocked ------- the delivery driver can enter.",
+          "explanation": "Cần so that vì có chủ ngữ the delivery driver.",
+          "translation": "Hãy để cổng không khóa để tài xế giao hàng có thể vào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in order to"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "in case"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "150b05411d2559bdcdf7dea9cee5f0d58fb5bad3"
+        },
+        {
+          "question_text": "The plan is simple but -------.",
+          "explanation": "Simple là tính từ nên but nối với tính từ effective.",
+          "translation": "Kế hoạch đơn giản nhưng hiệu quả.",
+          "options": [
+            {
+              "key": "A",
+              "text": "effect"
+            },
+            {
+              "key": "B",
+              "text": "effectively"
+            },
+            {
+              "key": "C",
+              "text": "effectiveness"
+            },
+            {
+              "key": "D",
+              "text": "effective"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1528d2a6cfb03221d7b9ac9fef72579a6716de04"
+        },
+        {
+          "question_text": "Learning the route is easier than ------- every sign.",
+          "explanation": "Hai hành động được so sánh theo mẫu V-ing: Learning và memorizing.",
+          "translation": "Học thuộc tuyến đường dễ hơn ghi nhớ từng biển báo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to memorize"
+            },
+            {
+              "key": "B",
+              "text": "memorizing"
+            },
+            {
+              "key": "C",
+              "text": "memorize"
+            },
+            {
+              "key": "D",
+              "text": "memorized"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1ba805272dadb18019a520028871654b4898864d"
+        },
+        {
+          "question_text": "We ------- the new inventory software all afternoon tomorrow.",
+          "explanation": "All afternoon tomorrow cho biết hoạt động sẽ đang tiếp diễn trong khoảng thời gian tương lai, nên dùng will be testing.",
+          "translation": "Chúng tôi sẽ đang kiểm thử phần mềm quản lý tồn kho mới suốt chiều mai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be testing"
+            },
+            {
+              "key": "B",
+              "text": "tested"
+            },
+            {
+              "key": "C",
+              "text": "have tested"
+            },
+            {
+              "key": "D",
+              "text": "test"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-perfect-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "32bff81e3642e9aba99acc738df98bb274a0103c"
+        },
+        {
+          "question_text": "Please keep the corridor clear ------- the exhibition is being installed.",
+          "explanation": "Sau chỗ trống là mệnh đề đầy đủ diễn tả thời gian, nên dùng liên từ while.",
+          "translation": "Vui lòng giữ hành lang thông thoáng trong khi triển lãm đang được lắp đặt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because of"
+            },
+            {
+              "key": "B",
+              "text": "while"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "during"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3319010fbe76655501c38be6a33ac162ddba2411"
+        },
+        {
+          "question_text": "We carried spare batteries ------- the camera stopped working.",
+          "explanation": "In case diễn tả tình huống dự phòng.",
+          "translation": "Chúng tôi mang pin dự phòng phòng khi máy ảnh ngừng hoạt động.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in case"
+            },
+            {
+              "key": "B",
+              "text": "in order to"
+            },
+            {
+              "key": "C",
+              "text": "so as to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "393ecbbd4e0cd1e1b7056d21a508b6073e877e93"
+        },
+        {
+          "question_text": "The manager asked us to listen carefully, take notes, and ------- questions.",
+          "explanation": "Sau to chung, ba hành động ở nguyên mẫu listen, take, ask.",
+          "translation": "Quản lý yêu cầu chúng tôi nghe kỹ, ghi chú và đặt câu hỏi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "asking"
+            },
+            {
+              "key": "B",
+              "text": "ask"
+            },
+            {
+              "key": "C",
+              "text": "asked"
+            },
+            {
+              "key": "D",
+              "text": "asks"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "3d59e4e40d8ab27b003584dfda44adfdea9133be"
+        },
+        {
+          "question_text": "Carry a printed map ------- your phone runs out of battery.",
+          "explanation": "Tình huống hết pin chưa chắc xảy ra, chọn in case.",
+          "translation": "Mang theo bản đồ giấy phòng khi điện thoại hết pin.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so as to"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "41a4c33a90909355411091e4a3fdf9adc676dc96"
+        },
+        {
+          "question_text": "We postponed the outdoor workshop ------- the lightning warning.",
+          "explanation": "The lightning warning là cụm danh từ chỉ nguyên nhân, nên dùng because of.",
+          "translation": "Chúng tôi hoãn buổi hội thảo ngoài trời vì cảnh báo sét.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "while"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4ea755e0c2652004ebda88881740df1247fc624a"
+        },
+        {
+          "question_text": "The clinic emailed directions ------- help patients find the entrance.",
+          "explanation": "Help là nguyên mẫu chỉ mục đích sau to.",
+          "translation": "Phòng khám gửi email chỉ đường để giúp bệnh nhân tìm lối vào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "55a81da267d69e3d76b79ab8241bb8843217a7f3"
+        },
+        {
+          "question_text": "The coordinator apologized ------- the confusion caused by the revised schedule.",
+          "explanation": "Cụm apologize for something dùng để xin lỗi về một việc.",
+          "translation": "Điều phối viên đã xin lỗi về sự nhầm lẫn do lịch trình sửa đổi gây ra.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-after-verbs-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "57240670bd80821806b31fe6409ce56536e5aa12"
+        },
+        {
+          "question_text": "The center offers classes in music, art, and -------.",
+          "explanation": "Music và art là danh từ chỉ môn học, drama cùng loại.",
+          "translation": "Trung tâm mở các lớp âm nhạc, mỹ thuật và kịch nghệ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dramatic"
+            },
+            {
+              "key": "B",
+              "text": "dramatically"
+            },
+            {
+              "key": "C",
+              "text": "dramatize"
+            },
+            {
+              "key": "D",
+              "text": "drama"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "622e016e3c5fe571a93788420759d23d4f0a12fe"
+        },
+        {
+          "question_text": "The review was delayed ------- several supporting documents were missing.",
+          "explanation": "Sau chỗ trống là mệnh đề có chủ ngữ và động từ, nguyên nhân được nối bằng because.",
+          "translation": "Đợt rà soát bị trì hoãn vì thiếu một số tài liệu hỗ trợ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "68f0705b4093629d3ec747224b2781aaf5c16692"
+        },
+        {
+          "question_text": "At this hour next Thursday, the auditors ------- the regional accounts.",
+          "explanation": "At this hour next Thursday là một thời điểm trong tương lai, diễn tả hành động đang diễn ra bằng will be reviewing.",
+          "translation": "Vào giờ này thứ Năm tuần tới, các kiểm toán viên sẽ đang rà soát sổ sách khu vực.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reviewed"
+            },
+            {
+              "key": "B",
+              "text": "review"
+            },
+            {
+              "key": "C",
+              "text": "have reviewed"
+            },
+            {
+              "key": "D",
+              "text": "will be reviewing"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-perfect-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "6ce618115ee0ad58597fa6ff5460b75fa8e0f4da"
+        },
+        {
+          "question_text": "The chairs are lightweight, durable, and -------.",
+          "explanation": "Hai yếu tố đầu là tính từ nên cần comfortable.",
+          "translation": "Những chiếc ghế nhẹ, bền và thoải mái.",
+          "options": [
+            {
+              "key": "A",
+              "text": "comfort"
+            },
+            {
+              "key": "B",
+              "text": "comfortable"
+            },
+            {
+              "key": "C",
+              "text": "comfortably"
+            },
+            {
+              "key": "D",
+              "text": "comfortingness"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "72d71c94bbecb95fe346636fbea967303b114b52"
+        },
+        {
+          "question_text": "The hall has microphones ------- recording lectures.",
+          "explanation": "Sau for là recording dạng V-ing chỉ công dụng thiết bị.",
+          "translation": "Hội trường có micro dùng để ghi âm bài giảng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "in case"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "79cc312c7561e58baab11b8db30503b600237a6d"
+        },
+        {
+          "question_text": "The instructions were detailed yet -------.",
+          "explanation": "Detailed là tính từ, cụm tính từ easy to follow song song hợp lý.",
+          "translation": "Hướng dẫn chi tiết nhưng dễ thực hiện.",
+          "options": [
+            {
+              "key": "A",
+              "text": "easily followedness"
+            },
+            {
+              "key": "B",
+              "text": "easy to follow"
+            },
+            {
+              "key": "C",
+              "text": "ease to follow"
+            },
+            {
+              "key": "D",
+              "text": "follow easily"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "81c2ba814ab94a6caf2801d7e3cea808f32dcbf0"
+        },
+        {
+          "question_text": "------- the factory was closed for repairs, online orders continued to arrive.",
+          "explanation": "Theo sau chỗ trống là mệnh đề đầy đủ và hai ý tương phản, nên dùng liên từ Although.",
+          "translation": "Mặc dù nhà máy đóng cửa để sửa chữa, các đơn hàng trực tuyến vẫn tiếp tục được gửi đến.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Despite"
+            },
+            {
+              "key": "B",
+              "text": "Because of"
+            },
+            {
+              "key": "C",
+              "text": "Although"
+            },
+            {
+              "key": "D",
+              "text": "During"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8265d4c9e8abfd7b842c21b093879e50098e0ecb"
+        },
+        {
+          "question_text": "The team values honesty, teamwork, and -------.",
+          "explanation": "Honesty, teamwork là danh từ, cần responsibility.",
+          "translation": "Nhóm coi trọng sự trung thực, làm việc nhóm và trách nhiệm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "responsibility"
+            },
+            {
+              "key": "B",
+              "text": "responsible"
+            },
+            {
+              "key": "C",
+              "text": "responsibly"
+            },
+            {
+              "key": "D",
+              "text": "respond"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "826d08e5dd1dddc5cd2de2a666e32c28e21c8fc3"
+        },
+        {
+          "question_text": "We need to verify the figures and ------- the report.",
+          "explanation": "Verify và submit cùng là động từ nguyên mẫu sau to.",
+          "translation": "Chúng tôi cần xác minh số liệu và nộp báo cáo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "submitting"
+            },
+            {
+              "key": "B",
+              "text": "submitted"
+            },
+            {
+              "key": "C",
+              "text": "submit"
+            },
+            {
+              "key": "D",
+              "text": "to submitting"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "83ed1416fd3c64d550c2eb8118c0122b9f15c2e8"
+        },
+        {
+          "question_text": "------- the limited budget, the research group completed its pilot successfully.",
+          "explanation": "Sau chỗ trống là cụm danh từ the limited budget, nên chọn giới từ Despite.",
+          "translation": "Mặc dù ngân sách hạn chế, nhóm nghiên cứu đã hoàn thành thành công giai đoạn thí điểm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Despite"
+            },
+            {
+              "key": "B",
+              "text": "Although"
+            },
+            {
+              "key": "C",
+              "text": "Even though"
+            },
+            {
+              "key": "D",
+              "text": "Because"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#conjunctions-vs-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8696374596455b66a54b4ea0cd1443c90a796002"
+        },
+        {
+          "question_text": "By the end of the year, the clinic ------- its new diagnostic wing.",
+          "explanation": "By the end of the year đặt hạn hoàn tất trong tương lai, nên dùng will have completed.",
+          "translation": "Đến cuối năm, phòng khám sẽ hoàn thành khu chẩn đoán mới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "completes"
+            },
+            {
+              "key": "B",
+              "text": "is completing"
+            },
+            {
+              "key": "C",
+              "text": "completed"
+            },
+            {
+              "key": "D",
+              "text": "will have completed"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-perfect-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "89bc76e77dfb2f8aab138b0c1373b86c83bfd7c1"
+        },
+        {
+          "question_text": "She read the instructions twice ------- make any mistakes.",
+          "explanation": "In order not to + make diễn đạt mục đích phủ định.",
+          "translation": "Cô ấy đọc hướng dẫn hai lần để tránh mắc lỗi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that not"
+            },
+            {
+              "key": "B",
+              "text": "in case not"
+            },
+            {
+              "key": "C",
+              "text": "for not"
+            },
+            {
+              "key": "D",
+              "text": "in order not to"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/quiz",
+          "independent_review": "pending",
+          "fingerprint": "89c382afdeb03efa22e6873ffc0037cae01ba4c5"
+        },
+        {
+          "question_text": "We took a taxi ------- arrive before the doors closed.",
+          "explanation": "Arrive là động từ nguyên mẫu, in order to diễn tả mục đích.",
+          "translation": "Chúng tôi đi taxi để đến trước khi cửa đóng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "in order to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8ef537783ca238b3b58481c63f44edaa60e690a4"
+        },
+        {
+          "question_text": "Please save a backup ------- the main file becomes damaged.",
+          "explanation": "In case diễn tả một rủi ro có thể xảy ra.",
+          "translation": "Hãy lưu bản dự phòng phòng khi tệp chính bị hỏng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so as to"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "in order to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8fb204e11f015ba1d19998ece9ed726dc7ce2e9a"
+        },
+        {
+          "question_text": "The course teaches budgeting, planning, and -------.",
+          "explanation": "Budgeting và planning là V-ing, nên phần ba dùng forecasting.",
+          "translation": "Khóa học dạy lập ngân sách, lên kế hoạch và dự báo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to forecast"
+            },
+            {
+              "key": "B",
+              "text": "forecast"
+            },
+            {
+              "key": "C",
+              "text": "forecasted"
+            },
+            {
+              "key": "D",
+              "text": "forecasting"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "90fa35d86762bf7deeb86bc3fad7aa2b4f748db7"
+        },
+        {
+          "question_text": "The laboratory is equipped ------- modern testing instruments.",
+          "explanation": "Be equipped with là cấu trúc cố định mang nghĩa được trang bị.",
+          "translation": "Phòng thí nghiệm được trang bị các dụng cụ kiểm tra hiện đại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "by"
+            },
+            {
+              "key": "C",
+              "text": "of"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-after-verbs-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "9217c8983b2964b92c9a96e09af1d0178001eaa6"
+        },
+        {
+          "question_text": "She plans to write the outline, check the facts, and ------- the article.",
+          "explanation": "To bao trùm cả ba động từ nguyên mẫu: write, check, publish.",
+          "translation": "Cô ấy dự định viết dàn ý, kiểm tra sự thật và đăng bài báo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "publishing"
+            },
+            {
+              "key": "B",
+              "text": "published"
+            },
+            {
+              "key": "C",
+              "text": "publish"
+            },
+            {
+              "key": "D",
+              "text": "publishes"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "92d9572aca2cd2ac1b74e2baa37d6c142e1c3c09"
+        },
+        {
+          "question_text": "By the time the keynote starts, all delegates ------- their badges.",
+          "explanation": "Việc nhận thẻ sẽ hoàn tất trước thời điểm bài phát biểu chính bắt đầu, dùng will have collected.",
+          "translation": "Trước khi bài phát biểu chính bắt đầu, tất cả đại biểu sẽ nhận xong thẻ của mình.",
+          "options": [
+            {
+              "key": "A",
+              "text": "collect"
+            },
+            {
+              "key": "B",
+              "text": "collected"
+            },
+            {
+              "key": "C",
+              "text": "will have collected"
+            },
+            {
+              "key": "D",
+              "text": "are collecting"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-perfect-continuous/quiz",
+          "independent_review": "pending",
+          "fingerprint": "93f49714d7572ea8be2e01d564dcf7cbabb245a8"
+        },
+        {
+          "question_text": "The new tool is fast, reliable, and -------.",
+          "explanation": "Fast và reliable là tính từ, nên cần secure.",
+          "translation": "Công cụ mới nhanh, đáng tin cậy và an toàn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "security"
+            },
+            {
+              "key": "B",
+              "text": "secure"
+            },
+            {
+              "key": "C",
+              "text": "securely"
+            },
+            {
+              "key": "D",
+              "text": "securing"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/exercises",
+          "independent_review": "pending",
+          "fingerprint": "976148fbf90f3a21c625b867cbd989b39bb74195"
+        },
+        {
+          "question_text": "The new space feels brighter, cleaner, and -------.",
+          "explanation": "Brighter, cleaner là tính từ so sánh, more welcoming song song.",
+          "translation": "Không gian mới có cảm giác sáng hơn, sạch hơn và dễ chịu hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "welcome more"
+            },
+            {
+              "key": "B",
+              "text": "more welcomely"
+            },
+            {
+              "key": "C",
+              "text": "welcomingness"
+            },
+            {
+              "key": "D",
+              "text": "more welcoming"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "9f46f00f137ef9d8e258f0fb09a8bf5e7457dc19"
+        },
+        {
+          "question_text": "All employees must adhere ------- the revised privacy policy.",
+          "explanation": "Adhere to là cụm động từ cố định nghĩa là tuân thủ.",
+          "translation": "Tất cả nhân viên phải tuân thủ chính sách bảo mật đã sửa đổi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-after-verbs-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "af0a09272717e37704b2811cd857f1b8d79d03c6"
+        },
+        {
+          "question_text": "Our volunteers sort donations, pack boxes, and ------- deliveries.",
+          "explanation": "Chuỗi động từ hiện tại đơn sort, pack cần schedule.",
+          "translation": "Tình nguyện viên phân loại đồ quyên góp, đóng thùng và lên lịch giao hàng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "scheduling"
+            },
+            {
+              "key": "B",
+              "text": "scheduled"
+            },
+            {
+              "key": "C",
+              "text": "schedule"
+            },
+            {
+              "key": "D",
+              "text": "to scheduling"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "af8ab15c32871c55a944af721b4551c0bb3bb018"
+        },
+        {
+          "question_text": "Ms. Linh is proficient ------- three programming languages.",
+          "explanation": "Proficient in là cách kết hợp tự nhiên khi nói thành thạo một lĩnh vực hoặc ngôn ngữ.",
+          "translation": "Bà Linh thành thạo ba ngôn ngữ lập trình.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "on"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-after-verbs-adjectives/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b3a35c87331d0392f4459589647abbdd2a658c9c"
+        },
+        {
+          "question_text": "The job involves researching markets and ------- customer feedback.",
+          "explanation": "Researching sau involves yêu cầu thành phần song song analyzing.",
+          "translation": "Công việc bao gồm nghiên cứu thị trường và phân tích phản hồi khách hàng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "analyzing"
+            },
+            {
+              "key": "B",
+              "text": "to analyze"
+            },
+            {
+              "key": "C",
+              "text": "analyze"
+            },
+            {
+              "key": "D",
+              "text": "analyzed"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#parallel-structure-in-lists-and-comparisons/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b5fc3b9efdbe5ac256c12f2b1cc889b671126a7a"
+        },
+        {
+          "question_text": "The receptionist spoke slowly ------- the visitors could understand.",
+          "explanation": "Sau chỗ trống là chủ ngữ the visitors và could understand, cần so that.",
+          "translation": "Nhân viên lễ tân nói chậm để khách có thể hiểu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in order to"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b717add91a6f469c78727d0a3c5f29400cf22ff8"
+        },
+        {
+          "question_text": "The librarian moved the lamp ------- students could read more easily.",
+          "explanation": "Students là chủ ngữ mệnh đề riêng, dùng so that.",
+          "translation": "Thủ thư chuyển đèn để học sinh có thể đọc dễ hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "so that"
+            },
+            {
+              "key": "D",
+              "text": "in order to"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 3,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#purpose-clauses-and-infinitive-phrases/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bb14635b47d44e23b7c8491bbfffb0dd3873a09e"
+        }
+      ]
+    }
+  ]
+}

@@ -11,14 +11,17 @@ export const revalidate = 300;
 const COLORS: Record<string, string> = {
   toeic: "from-sky-400 to-sky-600", "1000-50-ngay": "from-orange-400 to-orange-600", "3000": "from-indigo-400 to-indigo-600",
   ielts: "from-rose-400 to-rose-600", vstep: "from-emerald-400 to-emerald-600", "giao-tiep": "from-pink-400 to-pink-600",
+  it: "from-teal-600 to-teal-800",
 };
 
 export default async function Page() {
   const sb = await supabaseServer();
-  const { data } = await sb.from("vocab_collections").select("family, vocab_lessons(count)");
+  const [{ data }, { count: words }] = await Promise.all([
+    sb.from("vocab_collections").select("family, vocab_lessons(count)"),
+    sb.from("vocab_words").select("id", { count: "exact", head: true }),
+  ]);
   const counts = new Map<string, number>();
   (data ?? []).forEach((c) => counts.set(c.family, (counts.get(c.family) ?? 0) + ((c.vocab_lessons as unknown as { count: number }[])?.[0]?.count ?? 0)));
-  const { count: words } = await sb.from("vocab_words").select("id", { count: "exact", head: true });
 
   return (
     <>

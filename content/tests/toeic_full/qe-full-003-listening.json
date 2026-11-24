@@ -1,0 +1,3962 @@
+{
+  "slug": "qe-full-003",
+  "title": "TOEIC Full Test 03 – Mục tiêu 600",
+  "collection": "QEnglishIT 2027",
+  "exam_type": "toeic_full",
+  "level": "600",
+  "difficulty": 2,
+  "cefr": "B1",
+  "duration_minutes": 120,
+  "total_questions": 200,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "full",
+    "listening",
+    "reading"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "Listening",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 100,
+      "minutes": 45
+    },
+    {
+      "key": "reading",
+      "title": "Reading",
+      "parts": [
+        5,
+        6,
+        7
+      ],
+      "count": 100,
+      "minutes": 75
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) A shelf is being removed.\n(B) A worker is coating a bowl.\n(C) A customer is buying a vase.\n(D) Some bowls are packed in a carton.",
+      "transcript_vi": "(A) Một kệ đang được tháo.\n(B) Một người đang phủ men lên bát.\n(C) Một khách đang mua bình.\n(D) Một số bát được đóng trong thùng.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "In a pottery studio, a worker is brushing glaze onto a bowl. Several bowls stand on a shelf behind the worker.",
+      "image_prompt": "Realistic photograph, In a pottery studio, a worker is brushing glaze onto a bowl. Several bowls stand on a shelf behind the worker. No text or logos.",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "A shelf is being removed."
+            },
+            {
+              "key": "B",
+              "text": "A worker is coating a bowl."
+            },
+            {
+              "key": "C",
+              "text": "A customer is buying a vase."
+            },
+            {
+              "key": "D",
+              "text": "Some bowls are packed in a carton."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Người thợ đang quét men lên bát.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Một kệ đang được tháo.\n(B) Một người đang phủ men lên bát.\n(C) Một khách đang mua bình.\n(D) Một số bát được đóng trong thùng.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) Several bicycles are parked in a row.\n(B) A cyclist is crossing a bridge.\n(C) A path is being swept.\n(D) A tree has fallen across the road.",
+      "transcript_vi": "(A) Nhiều xe đạp đỗ thành hàng.\n(B) Một người đang đạp xe qua cầu.\n(C) Một lối đi đang được quét.\n(D) Một cây đổ ngang đường.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "Several rental bicycles stand in a rack beside a paved path. Nobody is riding them.",
+      "image_prompt": "Realistic photograph, Several rental bicycles stand in a rack beside a paved path. Nobody is riding them. No text or logos.",
+      "questions": [
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Several bicycles are parked in a row."
+            },
+            {
+              "key": "B",
+              "text": "A cyclist is crossing a bridge."
+            },
+            {
+              "key": "C",
+              "text": "A path is being swept."
+            },
+            {
+              "key": "D",
+              "text": "A tree has fallen across the road."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Các xe đạp đỗ thành hàng trong giá.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Nhiều xe đạp đỗ thành hàng.\n(B) Một người đang đạp xe qua cầu.\n(C) Một lối đi đang được quét.\n(D) Một cây đổ ngang đường.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) A jacket is hanging from a door.\n(B) A machine is being carried away.\n(C) A man is measuring a sleeve.\n(D) A mannequin is lying on the floor.",
+      "transcript_vi": "(A) Áo khoác treo trên cửa.\n(B) Một máy đang được mang đi.\n(C) Một người đàn ông đang đo tay áo.\n(D) Ma-nơ-canh nằm trên sàn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "In a workshop, a man holds a measuring tape against the sleeve of a jacket on a mannequin. A sewing machine sits on a table.",
+      "image_prompt": "Realistic photograph, In a workshop, a man holds a measuring tape against the sleeve of a jacket on a mannequin. A sewing machine sits on a table. No text or logos.",
+      "questions": [
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "A jacket is hanging from a door."
+            },
+            {
+              "key": "B",
+              "text": "A machine is being carried away."
+            },
+            {
+              "key": "C",
+              "text": "A man is measuring a sleeve."
+            },
+            {
+              "key": "D",
+              "text": "A mannequin is lying on the floor."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Thước dây được đặt dọc tay áo.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Áo khoác treo trên cửa.\n(B) Một máy đang được mang đi.\n(C) Một người đàn ông đang đo tay áo.\n(D) Ma-nơ-canh nằm trên sàn.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) Passengers are boarding a boat.\n(B) Some life rings are attached to a railing.\n(C) A sailor is washing the deck.\n(D) A pier is crowded with visitors.",
+      "transcript_vi": "(A) Hành khách đang lên tàu.\n(B) Một số phao gắn vào lan can.\n(C) Thủy thủ đang rửa boong.\n(D) Bến đông khách.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "On an empty ferry deck, life rings are attached to the railing. The boat is alongside a quiet pier.",
+      "image_prompt": "Realistic photograph, On an empty ferry deck, life rings are attached to the railing. The boat is alongside a quiet pier. No text or logos.",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Passengers are boarding a boat."
+            },
+            {
+              "key": "B",
+              "text": "Some life rings are attached to a railing."
+            },
+            {
+              "key": "C",
+              "text": "A sailor is washing the deck."
+            },
+            {
+              "key": "D",
+              "text": "A pier is crowded with visitors."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Phao được gắn trên lan can.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Hành khách đang lên tàu.\n(B) Một số phao gắn vào lan can.\n(C) Thủy thủ đang rửa boong.\n(D) Bến đông khách.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) Both people are reading newspapers.\n(B) A counter is being installed.\n(C) One person is pouring a liquid.\n(D) A container is on the floor.",
+      "transcript_vi": "(A) Cả hai đang đọc báo.\n(B) Quầy đang được lắp.\n(C) Một người đang rót chất lỏng.\n(D) Một vật chứa nằm trên sàn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "Two laboratory employees stand at a counter. One pours liquid from a beaker into a larger container while the other watches.",
+      "image_prompt": "Realistic photograph, Two laboratory employees stand at a counter. One pours liquid from a beaker into a larger container while the other watches. No text or logos.",
+      "questions": [
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Both people are reading newspapers."
+            },
+            {
+              "key": "B",
+              "text": "A counter is being installed."
+            },
+            {
+              "key": "C",
+              "text": "One person is pouring a liquid."
+            },
+            {
+              "key": "D",
+              "text": "A container is on the floor."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Một người rót chất lỏng từ cốc.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Cả hai đang đọc báo.\n(B) Quầy đang được lắp.\n(C) Một người đang rót chất lỏng.\n(D) Một vật chứa nằm trên sàn.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Choose the statement that best describes the photograph.",
+      "transcript": "(A) A florist is arranging flowers in a vase.\n(B) A ribbon is being tied around a parcel.\n(C) A vase is being washed in a sink.\n(D) A workbench is being moved outdoors.",
+      "transcript_vi": "(A) Người bán hoa đang cắm hoa vào bình.\n(B) Dải ruy băng đang được buộc quanh bưu kiện.\n(C) Bình đang được rửa trong bồn.\n(D) Bàn làm việc đang được chuyển ra ngoài.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "image_description": "A florist is arranging long flower stems in a tall glass vase on a workbench. A roll of ribbon rests nearby.",
+      "image_prompt": "Realistic photograph, A florist is arranging long flower stems in a tall glass vase on a workbench. A roll of ribbon rests nearby. No text or logos.",
+      "questions": [
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "A florist is arranging flowers in a vase."
+            },
+            {
+              "key": "B",
+              "text": "A ribbon is being tied around a parcel."
+            },
+            {
+              "key": "C",
+              "text": "A vase is being washed in a sink."
+            },
+            {
+              "key": "D",
+              "text": "A workbench is being moved outdoors."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người bán hoa đang cắm hoa.",
+          "translation": "Chọn câu mô tả đúng nhất.\n(A) Người bán hoa đang cắm hoa vào bình.\n(B) Dải ruy băng đang được buộc quanh bưu kiện.\n(C) Bình đang được rửa trong bồn.\n(D) Bàn làm việc đang được chuyển ra ngoài.",
+          "difficulty": 2,
+          "tags": [
+            "photo-description"
+          ],
+          "skill_tags": [
+            "photo-description"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Where should I leave the borrowed projector?\n(A) On the cart beside reception.\n(B) It lasted two hours.\n(C) Yes, the slides are ready.",
+      "transcript_vi": "Q: Tôi nên để máy chiếu mượn ở đâu?\n(A) Trên xe đẩy cạnh lễ tân.\n(B) Nó kéo dài hai giờ.\n(C) Vâng, trang chiếu đã sẵn sàng.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "On the cart beside reception."
+            },
+            {
+              "key": "B",
+              "text": "It lasted two hours."
+            },
+            {
+              "key": "C",
+              "text": "Yes, the slides are ready."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu hỏi nơi chốn, xe đẩy cạnh lễ tân là địa điểm.",
+          "translation": "Tôi nên để máy chiếu mượn ở đâu?\n(A) Trên xe đẩy cạnh lễ tân.\n(B) Nó kéo dài hai giờ.\n(C) Vâng, trang chiếu đã sẵn sàng.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Who approves the catering invoices?\n(A) At the end of the corridor.\n(B) About twelve guests.\n(C) Our accounts supervisor does.",
+      "transcript_vi": "Q: Ai duyệt hóa đơn ăn uống?\n(A) Cuối hành lang.\n(B) Khoảng mười hai khách.\n(C) Giám sát kế toán.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the end of the corridor."
+            },
+            {
+              "key": "B",
+              "text": "About twelve guests."
+            },
+            {
+              "key": "C",
+              "text": "Our accounts supervisor does."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Giám sát kế toán là người duyệt.",
+          "translation": "Ai duyệt hóa đơn ăn uống?\n(A) Cuối hành lang.\n(B) Khoảng mười hai khách.\n(C) Giám sát kế toán.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: How long will the pavement repairs take?\n(A) Across from the bakery.\n(B) It was quite narrow.\n(C) Roughly three working days.",
+      "transcript_vi": "Q: Sửa vỉa hè mất bao lâu?\n(A) Đối diện tiệm bánh.\n(B) Nó khá hẹp.\n(C) Khoảng ba ngày làm việc.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Across from the bakery."
+            },
+            {
+              "key": "B",
+              "text": "It was quite narrow."
+            },
+            {
+              "key": "C",
+              "text": "Roughly three working days."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Ba ngày làm việc chỉ thời lượng.",
+          "translation": "Sửa vỉa hè mất bao lâu?\n(A) Đối diện tiệm bánh.\n(B) Nó khá hẹp.\n(C) Khoảng ba ngày làm việc.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Have you checked the fabric samples yet?\n(A) They are made of glass.\n(B) At the bus terminal.\n(C) I will after lunch.",
+      "transcript_vi": "Q: Bạn đã kiểm tra mẫu vải chưa?\n(A) Chúng bằng kính.\n(B) Ở bến xe.\n(C) Tôi sẽ làm sau bữa trưa.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They are made of glass."
+            },
+            {
+              "key": "B",
+              "text": "At the bus terminal."
+            },
+            {
+              "key": "C",
+              "text": "I will after lunch."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Người trả lời sẽ kiểm tra sau bữa trưa.",
+          "translation": "Bạn đã kiểm tra mẫu vải chưa?\n(A) Chúng bằng kính.\n(B) Ở bến xe.\n(C) Tôi sẽ làm sau bữa trưa.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Would you mind lowering the blinds?\n(A) Of course, I'll do that now.\n(B) The floor is downstairs.\n(C) It costs eight dollars.",
+      "transcript_vi": "Q: Bạn có phiền hạ rèm không?\n(A) Được, tôi làm ngay.\n(B) Sàn ở tầng dưới.\n(C) Giá tám đô la.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Of course, I'll do that now."
+            },
+            {
+              "key": "B",
+              "text": "The floor is downstairs."
+            },
+            {
+              "key": "C",
+              "text": "It costs eight dollars."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người nghe đồng ý thực hiện lời nhờ.",
+          "translation": "Bạn có phiền hạ rèm không?\n(A) Được, tôi làm ngay.\n(B) Sàn ở tầng dưới.\n(C) Giá tám đô la.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Why was the morning shipment delayed?\n(A) The loading ramp was blocked.\n(B) At the southern warehouse.\n(C) There were five cartons.",
+      "transcript_vi": "Q: Vì sao lô hàng sáng bị chậm?\n(A) Dốc bốc hàng bị chắn.\n(B) Ở kho phía nam.\n(C) Có năm thùng.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The loading ramp was blocked."
+            },
+            {
+              "key": "B",
+              "text": "At the southern warehouse."
+            },
+            {
+              "key": "C",
+              "text": "There were five cartons."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Dốc bị chắn là nguyên nhân.",
+          "translation": "Vì sao lô hàng sáng bị chậm?\n(A) Dốc bốc hàng bị chắn.\n(B) Ở kho phía nam.\n(C) Có năm thùng.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Which folder contains the revised map?\n(A) I walked there yesterday.\n(B) The green one marked Routes.\n(C) About twenty kilometers.",
+      "transcript_vi": "Q: Thư mục nào chứa bản đồ đã sửa?\n(A) Tôi đi bộ đến đó hôm qua.\n(B) Thư mục xanh ghi Tuyến đường.\n(C) Khoảng hai mươi cây số.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I walked there yesterday."
+            },
+            {
+              "key": "B",
+              "text": "The green one marked Routes."
+            },
+            {
+              "key": "C",
+              "text": "About twenty kilometers."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Thư mục xanh là lựa chọn cụ thể.",
+          "translation": "Thư mục nào chứa bản đồ đã sửa?\n(A) Tôi đi bộ đến đó hôm qua.\n(B) Thư mục xanh ghi Tuyến đường.\n(C) Khoảng hai mươi cây số.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Is the demonstration open to visitors?\n(A) It is on the top shelf.\n(B) Yes, but they need a pass.\n(C) The door was painted blue.",
+      "transcript_vi": "Q: Buổi trình diễn có mở cho khách không?\n(A) Nó ở kệ trên.\n(B) Có, nhưng họ cần thẻ.\n(C) Cửa được sơn xanh.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It is on the top shelf."
+            },
+            {
+              "key": "B",
+              "text": "Yes, but they need a pass."
+            },
+            {
+              "key": "C",
+              "text": "The door was painted blue."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu đáp xác nhận và nêu điều kiện.",
+          "translation": "Buổi trình diễn có mở cho khách không?\n(A) Nó ở kệ trên.\n(B) Có, nhưng họ cần thẻ.\n(C) Cửa được sơn xanh.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: When can we expect the replacement lamps?\n(A) By next Wednesday.\n(B) They are energy efficient.\n(C) Near the staircase.",
+      "transcript_vi": "Q: Khi nào nhận đèn thay thế?\n(A) Chậm nhất thứ Tư tới.\n(B) Chúng tiết kiệm điện.\n(C) Gần cầu thang.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "By next Wednesday."
+            },
+            {
+              "key": "B",
+              "text": "They are energy efficient."
+            },
+            {
+              "key": "C",
+              "text": "Near the staircase."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thứ Tư tới là thời điểm nhận.",
+          "translation": "Khi nào nhận đèn thay thế?\n(A) Chậm nhất thứ Tư tới.\n(B) Chúng tiết kiệm điện.\n(C) Gần cầu thang.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Could you show me how to lock this cabinet?\n(A) I bought a larger cabinet.\n(B) Certainly, turn this knob first.\n(C) It is made of oak.",
+      "transcript_vi": "Q: Bạn chỉ tôi cách khóa tủ được không?\n(A) Tôi mua tủ lớn hơn.\n(B) Được, xoay núm này trước.\n(C) Nó làm từ gỗ sồi.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I bought a larger cabinet."
+            },
+            {
+              "key": "B",
+              "text": "Certainly, turn this knob first."
+            },
+            {
+              "key": "C",
+              "text": "It is made of oak."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Chỉ dẫn xoay núm đáp ứng yêu cầu.",
+          "translation": "Bạn chỉ tôi cách khóa tủ được không?\n(A) Tôi mua tủ lớn hơn.\n(B) Được, xoay núm này trước.\n(C) Nó làm từ gỗ sồi.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Didn't the photographer confirm the appointment?\n(A) The pictures are colorful.\n(B) I prefer the larger frame.\n(C) She sent a confirmation this morning.",
+      "transcript_vi": "Q: Nhiếp ảnh gia chưa xác nhận lịch sao?\n(A) Ảnh nhiều màu.\n(B) Tôi thích khung lớn hơn.\n(C) Cô ấy gửi xác nhận sáng nay.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The pictures are colorful."
+            },
+            {
+              "key": "B",
+              "text": "I prefer the larger frame."
+            },
+            {
+              "key": "C",
+              "text": "She sent a confirmation this morning."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cô ấy đã gửi xác nhận.",
+          "translation": "Nhiếp ảnh gia chưa xác nhận lịch sao?\n(A) Ảnh nhiều màu.\n(B) Tôi thích khung lớn hơn.\n(C) Cô ấy gửi xác nhận sáng nay.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: How many lockers are still available?\n(A) They require a key.\n(B) Only seven on this floor.\n(C) Before the swimming lesson.",
+      "transcript_vi": "Q: Còn bao nhiêu tủ khóa trống?\n(A) Chúng cần chìa khóa.\n(B) Chỉ bảy cái ở tầng này.\n(C) Trước buổi học bơi.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They require a key."
+            },
+            {
+              "key": "B",
+              "text": "Only seven on this floor."
+            },
+            {
+              "key": "C",
+              "text": "Before the swimming lesson."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bảy là số lượng tủ.",
+          "translation": "Còn bao nhiêu tủ khóa trống?\n(A) Chúng cần chìa khóa.\n(B) Chỉ bảy cái ở tầng này.\n(C) Trước buổi học bơi.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Let's move the rehearsal to Studio Four.\n(A) The fourth invoice is paid.\n(B) The curtains are cotton.\n(C) I'll tell the performers.",
+      "transcript_vi": "Q: Hãy chuyển buổi tập sang phòng số bốn.\n(A) Hóa đơn thứ tư đã trả.\n(B) Rèm bằng bông.\n(C) Tôi sẽ báo các nghệ sĩ.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The fourth invoice is paid."
+            },
+            {
+              "key": "B",
+              "text": "The curtains are cotton."
+            },
+            {
+              "key": "C",
+              "text": "I'll tell the performers."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Người nghe sẽ báo việc đổi phòng.",
+          "translation": "Hãy chuyển buổi tập sang phòng số bốn.\n(A) Hóa đơn thứ tư đã trả.\n(B) Rèm bằng bông.\n(C) Tôi sẽ báo các nghệ sĩ.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: What kind of paint should we order?\n(A) Four boxes should be enough.\n(B) One suitable for outdoor metal.\n(C) The painter left at noon.",
+      "transcript_vi": "Q: Nên đặt loại sơn nào?\n(A) Bốn hộp là đủ.\n(B) Loại phù hợp kim loại ngoài trời.\n(C) Thợ sơn rời lúc trưa.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Four boxes should be enough."
+            },
+            {
+              "key": "B",
+              "text": "One suitable for outdoor metal."
+            },
+            {
+              "key": "C",
+              "text": "The painter left at noon."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đáp án nêu loại sơn phù hợp.",
+          "translation": "Nên đặt loại sơn nào?\n(A) Bốn hộp là đủ.\n(B) Loại phù hợp kim loại ngoài trời.\n(C) Thợ sơn rời lúc trưa.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Where did you put the spare microphone?\n(A) The sound was clear.\n(B) I spoke for ten minutes.\n(C) Inside the padded case.",
+      "transcript_vi": "Q: Bạn đặt micro dự phòng ở đâu?\n(A) Âm thanh rõ.\n(B) Tôi nói mười phút.\n(C) Trong hộp có đệm.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The sound was clear."
+            },
+            {
+              "key": "B",
+              "text": "I spoke for ten minutes."
+            },
+            {
+              "key": "C",
+              "text": "Inside the padded case."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Hộp có đệm là vị trí micro.",
+          "translation": "Bạn đặt micro dự phòng ở đâu?\n(A) Âm thanh rõ.\n(B) Tôi nói mười phút.\n(C) Trong hộp có đệm.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Do we need to print the menus again?\n(A) I ordered the soup.\n(B) Only if the prices change.\n(C) The printer is heavy.",
+      "transcript_vi": "Q: Có cần in lại thực đơn không?\n(A) Tôi gọi súp.\n(B) Chỉ khi giá thay đổi.\n(C) Máy in nặng.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I ordered the soup."
+            },
+            {
+              "key": "B",
+              "text": "Only if the prices change."
+            },
+            {
+              "key": "C",
+              "text": "The printer is heavy."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Nêu điều kiện phải in lại.",
+          "translation": "Có cần in lại thực đơn không?\n(A) Tôi gọi súp.\n(B) Chỉ khi giá thay đổi.\n(C) Máy in nặng.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: How often is the water filter replaced?\n(A) With cold water.\n(B) Every six months.\n(C) In the basement kitchen.",
+      "transcript_vi": "Q: Bao lâu thay bộ lọc nước một lần?\n(A) Bằng nước lạnh.\n(B) Mỗi sáu tháng.\n(C) Trong bếp tầng hầm.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "With cold water."
+            },
+            {
+              "key": "B",
+              "text": "Every six months."
+            },
+            {
+              "key": "C",
+              "text": "In the basement kitchen."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sáu tháng một lần là tần suất.",
+          "translation": "Bao lâu thay bộ lọc nước một lần?\n(A) Bằng nước lạnh.\n(B) Mỗi sáu tháng.\n(C) Trong bếp tầng hầm.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Who will greet the visiting orchestra?\n(A) I think the theater director will.\n(B) The violins are in cases.\n(C) At the ticket window.",
+      "transcript_vi": "Q: Ai đón dàn nhạc đến thăm?\n(A) Tôi nghĩ giám đốc nhà hát.\n(B) Đàn ở trong hộp.\n(C) Ở cửa bán vé.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I think the theater director will."
+            },
+            {
+              "key": "B",
+              "text": "The violins are in cases."
+            },
+            {
+              "key": "C",
+              "text": "At the ticket window."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Giám đốc là người sẽ đón.",
+          "translation": "Ai đón dàn nhạc đến thăm?\n(A) Tôi nghĩ giám đốc nhà hát.\n(B) Đàn ở trong hộp.\n(C) Ở cửa bán vé.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Why don't we take the footbridge instead?\n(A) Good idea, it's much quicker.\n(B) It was built from stone.\n(C) Two tickets, please.",
+      "transcript_vi": "Q: Sao ta không đi cầu bộ hành?\n(A) Ý hay, nhanh hơn nhiều.\n(B) Nó được xây bằng đá.\n(C) Cho tôi hai vé.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Good idea, it's much quicker."
+            },
+            {
+              "key": "B",
+              "text": "It was built from stone."
+            },
+            {
+              "key": "C",
+              "text": "Two tickets, please."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người nghe đồng ý với đề xuất.",
+          "translation": "Sao ta không đi cầu bộ hành?\n(A) Ý hay, nhanh hơn nhiều.\n(B) Nó được xây bằng đá.\n(C) Cho tôi hai vé.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Did the bakery deliver the rolls this morning?\n(A) They're already in the pantry.\n(B) The flour is imported.\n(C) I bake on Sundays.",
+      "transcript_vi": "Q: Tiệm bánh giao bánh sáng nay chưa?\n(A) Chúng đã trong tủ thực phẩm.\n(B) Bột được nhập khẩu.\n(C) Tôi nướng bánh Chủ nhật.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They're already in the pantry."
+            },
+            {
+              "key": "B",
+              "text": "The flour is imported."
+            },
+            {
+              "key": "C",
+              "text": "I bake on Sundays."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bánh đã trong tủ, ngụ ý đã giao.",
+          "translation": "Tiệm bánh giao bánh sáng nay chưa?\n(A) Chúng đã trong tủ thực phẩm.\n(B) Bột được nhập khẩu.\n(C) Tôi nướng bánh Chủ nhật.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: When does the garden center close on Fridays?\n(A) Behind the public library.\n(B) At seven in the evening.\n(C) It sells young trees.",
+      "transcript_vi": "Q: Trung tâm làm vườn đóng cửa lúc nào thứ Sáu?\n(A) Sau thư viện.\n(B) Lúc bảy giờ tối.\n(C) Nơi đó bán cây non.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Behind the public library."
+            },
+            {
+              "key": "B",
+              "text": "At seven in the evening."
+            },
+            {
+              "key": "C",
+              "text": "It sells young trees."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bảy giờ tối là giờ đóng cửa.",
+          "translation": "Trung tâm làm vườn đóng cửa lúc nào thứ Sáu?\n(A) Sau thư viện.\n(B) Lúc bảy giờ tối.\n(C) Nơi đó bán cây non.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Can I exchange this drill bit for a smaller one?\n(A) It drilled through the wall.\n(B) The workbench is wooden.\n(C) Sure, do you have the receipt?",
+      "transcript_vi": "Q: Tôi đổi mũi khoan này lấy cỡ nhỏ hơn được không?\n(A) Nó khoan xuyên tường.\n(B) Bàn làm việc bằng gỗ.\n(C) Được, bạn có hóa đơn không?",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It drilled through the wall."
+            },
+            {
+              "key": "B",
+              "text": "The workbench is wooden."
+            },
+            {
+              "key": "C",
+              "text": "Sure, do you have the receipt?"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Nhân viên đồng ý và hỏi hóa đơn.",
+          "translation": "Tôi đổi mũi khoan này lấy cỡ nhỏ hơn được không?\n(A) Nó khoan xuyên tường.\n(B) Bàn làm việc bằng gỗ.\n(C) Được, bạn có hóa đơn không?",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Which route avoids the construction zone?\n(A) The construction took months.\n(B) A bridge opened yesterday.\n(C) Take Orchard Lane to the west.",
+      "transcript_vi": "Q: Tuyến nào tránh khu thi công?\n(A) Xây dựng mất nhiều tháng.\n(B) Một cầu mở hôm qua.\n(C) Đi đường Orchard về phía tây.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The construction took months."
+            },
+            {
+              "key": "B",
+              "text": "A bridge opened yesterday."
+            },
+            {
+              "key": "C",
+              "text": "Take Orchard Lane to the west."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đáp án hướng dẫn tuyến đường.",
+          "translation": "Tuyến nào tránh khu thi công?\n(A) Xây dựng mất nhiều tháng.\n(B) Một cầu mở hôm qua.\n(C) Đi đường Orchard về phía tây.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: You have the keys to the display cabinet, don't you?\n(A) Yes, they're in my pocket.\n(B) The display looks attractive.\n(C) It opens at ten.",
+      "transcript_vi": "Q: Bạn có chìa khóa tủ trưng bày đúng không?\n(A) Có, chúng ở túi tôi.\n(B) Phần trưng bày đẹp.\n(C) Nó mở lúc mười giờ.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Yes, they're in my pocket."
+            },
+            {
+              "key": "B",
+              "text": "The display looks attractive."
+            },
+            {
+              "key": "C",
+              "text": "It opens at ten."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu hỏi đuôi cần xác nhận.",
+          "translation": "Bạn có chìa khóa tủ trưng bày đúng không?\n(A) Có, chúng ở túi tôi.\n(B) Phần trưng bày đẹp.\n(C) Nó mở lúc mười giờ.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Choose the best response.",
+      "transcript": "Q: Why is the tea room unusually quiet?\n(A) The tour group hasn't arrived yet.\n(B) The tea is grown locally.\n(C) I prefer a larger cup.",
+      "transcript_vi": "Q: Vì sao phòng trà yên tĩnh khác thường?\n(A) Đoàn khách chưa đến.\n(B) Trà trồng tại địa phương.\n(C) Tôi thích cốc lớn hơn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 31,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The tour group hasn't arrived yet."
+            },
+            {
+              "key": "B",
+              "text": "The tea is grown locally."
+            },
+            {
+              "key": "C",
+              "text": "I prefer a larger cup."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoàn chưa đến giải thích sự vắng vẻ.",
+          "translation": "Vì sao phòng trà yên tĩnh khác thường?\n(A) Đoàn khách chưa đến.\n(B) Trà trồng tại địa phương.\n(C) Tôi thích cốc lớn hơn.",
+          "difficulty": 2,
+          "tags": [
+            "question-response"
+          ],
+          "skill_tags": [
+            "question-response"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: These gallery tiles are darker than the sample.\nM: Photograph the labels on the unopened boxes, please.\nW: I'll email them to the supplier. Can we exchange the shipment?\nM: Ask before we arrange installation.",
+      "transcript_vi": "W: Gạch phòng tranh đậm màu hơn mẫu.\nM: Hãy chụp nhãn các hộp chưa mở.\nW: Tôi sẽ gửi ảnh cho nhà cung cấp. Ta đổi lô hàng được không?\nM: Hãy hỏi trước khi bố trí lắp.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 32,
+          "question_type": "mcq",
+          "question_text": "What problem is mentioned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Boxes are missing."
+            },
+            {
+              "key": "B",
+              "text": "The floor is wet."
+            },
+            {
+              "key": "C",
+              "text": "Tiles are the wrong shade."
+            },
+            {
+              "key": "D",
+              "text": "The gallery is closed."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Gạch đậm hơn mẫu.",
+          "translation": "Vấn đề gì được nhắc đến?\n(A) Thiếu hộp.\n(B) Sàn ướt.\n(C) Gạch sai màu.\n(D) Phòng tranh đóng.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 33,
+          "question_type": "mcq",
+          "question_text": "What does the man request?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A floor plan."
+            },
+            {
+              "key": "B",
+              "text": "An invoice."
+            },
+            {
+              "key": "C",
+              "text": "Photos of box labels."
+            },
+            {
+              "key": "D",
+              "text": "Paint samples."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Anh yêu cầu chụp nhãn hộp.",
+          "translation": "Người đàn ông yêu cầu gì?\n(A) Sơ đồ sàn.\n(B) Hóa đơn.\n(C) Ảnh nhãn hộp.\n(D) Mẫu sơn.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 34,
+          "question_type": "mcq",
+          "question_text": "Who will the woman contact?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A visitor."
+            },
+            {
+              "key": "B",
+              "text": "An electrician."
+            },
+            {
+              "key": "C",
+              "text": "A security officer."
+            },
+            {
+              "key": "D",
+              "text": "A supplier."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cô ấy gửi ảnh cho nhà cung cấp.",
+          "translation": "Cô ấy sẽ liên hệ ai?\n(A) Khách tham quan.\n(B) Thợ điện.\n(C) Nhân viên an ninh.\n(D) Nhà cung cấp.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M: Are you leading the bicycle safety workshop on Saturday?\nW: Yes, but rain is forecast. I reserved the covered parking area.\nM: I'll bring the cones on Friday.\nW: Thanks. I'll notify everyone who registered.",
+      "transcript_vi": "M: Bạn phụ trách buổi hướng dẫn an toàn xe đạp thứ Bảy chứ?\nW: Có, nhưng dự báo mưa. Tôi đặt bãi xe có mái.\nM: Tôi mang cọc tiêu thứ Sáu.\nW: Cảm ơn. Tôi sẽ báo người đã đăng ký.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 35,
+          "question_type": "mcq",
+          "question_text": "What is being organized?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A parking inspection."
+            },
+            {
+              "key": "B",
+              "text": "A weather presentation."
+            },
+            {
+              "key": "C",
+              "text": "A festival."
+            },
+            {
+              "key": "D",
+              "text": "A bicycle safety workshop."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Họ bàn về buổi hướng dẫn xe đạp.",
+          "translation": "Hoạt động nào được tổ chức?\n(A) Kiểm tra bãi xe.\n(B) Bài trình bày thời tiết.\n(C) Lễ hội.\n(D) Buổi hướng dẫn an toàn xe đạp.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 36,
+          "question_type": "mcq",
+          "question_text": "Why was another space reserved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The hall was sold."
+            },
+            {
+              "key": "B",
+              "text": "Attendance is rising."
+            },
+            {
+              "key": "C",
+              "text": "Rain is expected."
+            },
+            {
+              "key": "D",
+              "text": "A bicycle was stolen."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Dự báo mưa nên chọn nơi có mái.",
+          "translation": "Tại sao đặt chỗ khác?\n(A) Hội trường bị bán.\n(B) Số người tăng.\n(C) Dự kiến mưa.\n(D) Xe bị mất.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 37,
+          "question_type": "mcq",
+          "question_text": "What will the woman do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Deliver cones."
+            },
+            {
+              "key": "B",
+              "text": "Cancel the event."
+            },
+            {
+              "key": "C",
+              "text": "Notify participants."
+            },
+            {
+              "key": "D",
+              "text": "Repair bicycles."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cô ấy sẽ báo người đã đăng ký.",
+          "translation": "Cô ấy sẽ làm gì?\n(A) Giao cọc tiêu.\n(B) Hủy sự kiện.\n(C) Báo người tham gia.\n(D) Sửa xe.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: We ordered two coffees, not four, for room 214.\nM: The next table's order was added to your room by mistake.\nW: Could you correct it before checkout?\nM: The revised bill will be at reception in five minutes.",
+      "transcript_vi": "W: Phòng 214 gọi hai cà phê, không phải bốn.\nM: Đơn bàn bên bị cộng nhầm vào phòng quý khách.\nW: Anh sửa trước khi trả phòng được không?\nM: Hóa đơn mới sẽ ở lễ tân sau năm phút.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 38,
+          "question_type": "mcq",
+          "question_text": "Where are they most likely?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a hotel."
+            },
+            {
+              "key": "B",
+              "text": "At a bank."
+            },
+            {
+              "key": "C",
+              "text": "At a station."
+            },
+            {
+              "key": "D",
+              "text": "At a library."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Số phòng và trả phòng cho thấy khách sạn.",
+          "translation": "Họ nhiều khả năng ở đâu?\n(A) Khách sạn.\n(B) Ngân hàng.\n(C) Nhà ga.\n(D) Thư viện.",
+          "difficulty": 2,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 39,
+          "question_type": "mcq",
+          "question_text": "What mistake occurred?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room was changed."
+            },
+            {
+              "key": "B",
+              "text": "Coffee was delivered late."
+            },
+            {
+              "key": "C",
+              "text": "Another order was added to the bill."
+            },
+            {
+              "key": "D",
+              "text": "A discount was applied twice."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đơn bàn bên bị cộng nhầm.",
+          "translation": "Sai sót gì xảy ra?\n(A) Phòng bị đổi.\n(B) Cà phê giao muộn.\n(C) Đơn khác bị cộng vào hóa đơn.\n(D) Giảm giá hai lần.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 40,
+          "question_type": "mcq",
+          "question_text": "When will the revised bill be ready?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tomorrow morning."
+            },
+            {
+              "key": "B",
+              "text": "In five minutes."
+            },
+            {
+              "key": "C",
+              "text": "At noon."
+            },
+            {
+              "key": "D",
+              "text": "In half an hour."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hóa đơn sẽ có sau năm phút.",
+          "translation": "Khi nào hóa đơn mới sẵn sàng?\n(A) Sáng mai.\n(B) Sau năm phút.\n(C) Lúc trưa.\n(D) Sau nửa giờ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M: Our apprentice finished the welding course, but her safety boots haven't arrived.\nW: Can she help in the design office until then?\nM: Yes, she can attend planning meetings too.\nW: I'll ask the coordinator to prepare a desk.",
+      "transcript_vi": "M: Học viên hoàn thành khóa hàn nhưng giày bảo hộ chưa đến.\nW: Cô ấy hỗ trợ phòng thiết kế được không?\nM: Có, cũng có thể dự họp kế hoạch.\nW: Tôi sẽ nhờ điều phối viên chuẩn bị bàn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 41,
+          "question_type": "mcq",
+          "question_text": "What has the apprentice completed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A design contest."
+            },
+            {
+              "key": "B",
+              "text": "A medical examination."
+            },
+            {
+              "key": "C",
+              "text": "A welding course."
+            },
+            {
+              "key": "D",
+              "text": "An office move."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cô ấy đã học xong khóa hàn.",
+          "translation": "Học viên hoàn thành gì?\n(A) Cuộc thi thiết kế.\n(B) Khám sức khỏe.\n(C) Khóa hàn.\n(D) Chuyển văn phòng.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 42,
+          "question_type": "mcq",
+          "question_text": "What is she waiting for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A laptop."
+            },
+            {
+              "key": "B",
+              "text": "A desk lamp."
+            },
+            {
+              "key": "C",
+              "text": "Safety boots."
+            },
+            {
+              "key": "D",
+              "text": "A certificate."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Giày bảo hộ chưa đến.",
+          "translation": "Cô ấy đang chờ gì?\n(A) Máy tính.\n(B) Đèn bàn.\n(C) Giày bảo hộ.\n(D) Chứng chỉ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 43,
+          "question_type": "mcq",
+          "question_text": "What will the woman arrange?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A workstation."
+            },
+            {
+              "key": "B",
+              "text": "A lesson."
+            },
+            {
+              "key": "C",
+              "text": "A van."
+            },
+            {
+              "key": "D",
+              "text": "An evening meeting."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cô ấy nhờ chuẩn bị bàn.",
+          "translation": "Cô ấy sẽ bố trí gì?\n(A) Chỗ làm việc.\n(B) Buổi học.\n(C) Xe tải.\n(D) Họp tối.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: The book exchange received many children's books.\nM: There is room on the low shelves by the entrance.\nW2: I can sort them by age if someone brings labels.\nM: I'll buy a pack tomorrow.",
+      "transcript_vi": "W: Điểm trao đổi nhận nhiều sách thiếu nhi.\nM: Còn chỗ ở kệ thấp cạnh lối vào.\nW2: Tôi có thể phân loại theo tuổi nếu có nhãn.\nM: Tôi sẽ mua một gói ngày mai.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 44,
+          "question_type": "mcq",
+          "question_text": "What was received?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Blank notebooks."
+            },
+            {
+              "key": "B",
+              "text": "Children's books."
+            },
+            {
+              "key": "C",
+              "text": "Storage boxes."
+            },
+            {
+              "key": "D",
+              "text": "Membership cards."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Họ nhận sách thiếu nhi.",
+          "translation": "Thứ gì được nhận?\n(A) Vở trắng.\n(B) Sách thiếu nhi.\n(C) Hộp lưu trữ.\n(D) Thẻ thành viên.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 45,
+          "question_type": "mcq",
+          "question_text": "Where will the items go?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On shelves near the entrance."
+            },
+            {
+              "key": "B",
+              "text": "In a locked cupboard."
+            },
+            {
+              "key": "C",
+              "text": "In a truck."
+            },
+            {
+              "key": "D",
+              "text": "Beside a window upstairs."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Kệ gần lối vào còn chỗ.",
+          "translation": "Các món đồ sẽ đặt ở đâu?\n(A) Kệ cạnh lối vào.\n(B) Trong tủ khóa.\n(C) Trong xe tải.\n(D) Cạnh cửa sổ tầng trên.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 46,
+          "question_type": "mcq",
+          "question_text": "What will the man buy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Labels."
+            },
+            {
+              "key": "B",
+              "text": "Shelves."
+            },
+            {
+              "key": "C",
+              "text": "Pens."
+            },
+            {
+              "key": "D",
+              "text": "Dictionaries."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Anh sẽ mua nhãn.",
+          "translation": "Người đàn ông sẽ mua gì?\n(A) Nhãn.\n(B) Kệ.\n(C) Bút.\n(D) Từ điển.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M: The spring concert advertisement is ready.\nW: Wait, the guest pianist's name is misspelled.\nM: I'll correct the file now.\nW: Send me the final version before four, and I'll forward it to the newspaper.",
+      "transcript_vi": "M: Quảng cáo hòa nhạc mùa xuân đã sẵn sàng.\nW: Khoan, tên nghệ sĩ piano khách mời viết sai.\nM: Tôi sửa tệp ngay.\nW: Gửi bản cuối trước bốn giờ, tôi sẽ chuyển báo.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 47,
+          "question_type": "mcq",
+          "question_text": "What are they preparing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A newspaper advertisement."
+            },
+            {
+              "key": "B",
+              "text": "A recording."
+            },
+            {
+              "key": "C",
+              "text": "A lesson."
+            },
+            {
+              "key": "D",
+              "text": "A refund."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Quảng cáo sẽ gửi báo.",
+          "translation": "Họ đang chuẩn bị gì?\n(A) Quảng cáo báo.\n(B) Bản thu.\n(C) Buổi học.\n(D) Hoàn tiền.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 48,
+          "question_type": "mcq",
+          "question_text": "What needs correcting?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The venue."
+            },
+            {
+              "key": "B",
+              "text": "A performer's name."
+            },
+            {
+              "key": "C",
+              "text": "The price."
+            },
+            {
+              "key": "D",
+              "text": "The newspaper title."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Tên nghệ sĩ viết sai.",
+          "translation": "Điều gì cần sửa?\n(A) Địa điểm.\n(B) Tên nghệ sĩ.\n(C) Giá.\n(D) Tên báo.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 49,
+          "question_type": "mcq",
+          "question_text": "When should the man send the file?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Before four."
+            },
+            {
+              "key": "B",
+              "text": "After six."
+            },
+            {
+              "key": "C",
+              "text": "Tomorrow."
+            },
+            {
+              "key": "D",
+              "text": "At noon Friday."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cô ấy yêu cầu trước bốn giờ.",
+          "translation": "Anh nên gửi tệp lúc nào?\n(A) Trước bốn giờ.\n(B) Sau sáu giờ.\n(C) Ngày mai.\n(D) Trưa thứ Sáu.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: We need a room for twelve people for the first-aid course.\nM: Cedar has ten chairs, Birch is booked, and Maple has sixteen chairs and a screen.\nW: Reserve Maple on Thursday morning. I'll bring practice bandages.",
+      "transcript_vi": "W: Cần phòng cho mười hai người học sơ cứu.\nM: Cedar có mười ghế, Birch đã đặt, Maple có mười sáu ghế và màn hình.\nW: Đặt Maple sáng thứ Năm. Tôi mang băng thực hành.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "passage": "| Room | Code |\n|---|---|\n| Cedar | C |\n| Birch | B |\n| Maple | M |\n| Oak | O |",
+      "passage_vi": "| Phòng | Mã |\n|---|---|\n| Cedar | C |\n| Birch | B |\n| Maple | M |\n| Oak | O |",
+      "questions": [
+        {
+          "number": 50,
+          "question_type": "mcq",
+          "question_text": "What is the room needed for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A first-aid course."
+            },
+            {
+              "key": "B",
+              "text": "A product launch."
+            },
+            {
+              "key": "C",
+              "text": "An interview."
+            },
+            {
+              "key": "D",
+              "text": "A staff lunch."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Phòng dùng cho khóa sơ cứu.",
+          "translation": "Phòng dùng làm gì?\n(A) Khóa sơ cứu.\n(B) Ra mắt sản phẩm.\n(C) Phỏng vấn.\n(D) Bữa trưa nhân viên.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 51,
+          "question_type": "mcq",
+          "question_text": "Look at the graphic. Which room will be reserved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Room M."
+            },
+            {
+              "key": "B",
+              "text": "Room C."
+            },
+            {
+              "key": "C",
+              "text": "Room B."
+            },
+            {
+              "key": "D",
+              "text": "Room O."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Maple có mã M.",
+          "translation": "Nhìn bảng. Phòng nào được đặt?\n(A) Phòng M.\n(B) Phòng C.\n(C) Phòng B.\n(D) Phòng O.",
+          "difficulty": 2,
+          "tags": [
+            "graphic"
+          ],
+          "skill_tags": [
+            "graphic"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 52,
+          "question_type": "mcq",
+          "question_text": "What will the woman bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A screen."
+            },
+            {
+              "key": "B",
+              "text": "Extra chairs."
+            },
+            {
+              "key": "C",
+              "text": "Name cards."
+            },
+            {
+              "key": "D",
+              "text": "Practice bandages."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cô ấy sẽ mang băng.",
+          "translation": "Cô ấy sẽ mang gì?\n(A) Màn hình.\n(B) Ghế bổ sung.\n(C) Thẻ tên.\n(D) Băng thực hành.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M: The roof coating passed the water test, but its color faded in bright light.\nW: What does the laboratory suggest?\nM: Adding a protective layer.\nW: Let's request another sample before placing an order.",
+      "transcript_vi": "M: Lớp phủ mái vượt thử nghiệm nước nhưng phai màu dưới ánh sáng mạnh.\nW: Phòng thí nghiệm đề nghị gì?\nM: Thêm lớp bảo vệ.\nW: Hãy xin mẫu khác trước khi đặt.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 53,
+          "question_type": "mcq",
+          "question_text": "What product is discussed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A roof coating."
+            },
+            {
+              "key": "B",
+              "text": "A water pump."
+            },
+            {
+              "key": "C",
+              "text": "An outdoor light."
+            },
+            {
+              "key": "D",
+              "text": "A cabinet."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Họ nói về lớp phủ mái.",
+          "translation": "Sản phẩm nào được bàn đến?\n(A) Lớp phủ mái.\n(B) Máy bơm.\n(C) Đèn ngoài trời.\n(D) Tủ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 54,
+          "question_type": "mcq",
+          "question_text": "What happened during testing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The roof leaked."
+            },
+            {
+              "key": "B",
+              "text": "The sample broke."
+            },
+            {
+              "key": "C",
+              "text": "A lamp failed."
+            },
+            {
+              "key": "D",
+              "text": "The color faded."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Màu phai dưới ánh sáng mạnh.",
+          "translation": "Điều gì xảy ra khi thử nghiệm?\n(A) Mái dột.\n(B) Mẫu gãy.\n(C) Đèn hỏng.\n(D) Màu phai.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 55,
+          "question_type": "mcq",
+          "question_text": "What does the woman suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buy immediately."
+            },
+            {
+              "key": "B",
+              "text": "Request another sample."
+            },
+            {
+              "key": "C",
+              "text": "Change laboratories."
+            },
+            {
+              "key": "D",
+              "text": "Repair a roof."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cô ấy muốn mẫu khác trước khi mua.",
+          "translation": "Cô ấy đề nghị gì?\n(A) Mua ngay.\n(B) Xin mẫu khác.\n(C) Đổi phòng thí nghiệm.\n(D) Sửa mái.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: Your violin is ready. I replaced a string.\nM: I perform tomorrow evening. Can I collect it after work today?\nW: Certainly, we're open until eight.\nM: I'll come at seven.",
+      "transcript_vi": "W: Đàn vĩ cầm đã sẵn sàng. Tôi thay dây.\nM: Tôi diễn tối mai. Lấy sau giờ làm hôm nay được không?\nW: Được, mở đến tám giờ.\nM: Tôi đến lúc bảy giờ.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 56,
+          "question_type": "mcq",
+          "question_text": "What service was performed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Theater cleaning."
+            },
+            {
+              "key": "B",
+              "text": "Concert recording."
+            },
+            {
+              "key": "C",
+              "text": "Instrument repair."
+            },
+            {
+              "key": "D",
+              "text": "Ticket sales."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Dây đàn được thay.",
+          "translation": "Dịch vụ nào được thực hiện?\n(A) Vệ sinh nhà hát.\n(B) Thu hòa nhạc.\n(C) Sửa nhạc cụ.\n(D) Bán vé.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 57,
+          "question_type": "mcq",
+          "question_text": "Why does the man need it soon?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He is moving tonight."
+            },
+            {
+              "key": "B",
+              "text": "He borrowed a case."
+            },
+            {
+              "key": "C",
+              "text": "He has a performance tomorrow."
+            },
+            {
+              "key": "D",
+              "text": "He plans to sell it."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Anh diễn tối mai.",
+          "translation": "Vì sao anh cần sớm?\n(A) Anh chuyển nhà tối nay.\n(B) Anh mượn hộp.\n(C) Anh biểu diễn ngày mai.\n(D) Anh định bán.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 58,
+          "question_type": "mcq",
+          "question_text": "When will he collect it?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At eight tomorrow."
+            },
+            {
+              "key": "B",
+              "text": "At seven this evening."
+            },
+            {
+              "key": "C",
+              "text": "At noon today."
+            },
+            {
+              "key": "D",
+              "text": "After the concert."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Anh nói sẽ đến lúc bảy giờ.",
+          "translation": "Anh lấy lúc nào?\n(A) Tám giờ ngày mai.\n(B) Bảy giờ tối nay.\n(C) Trưa nay.\n(D) Sau buổi diễn.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M1: Our orchard visitors' coach is late.\nW: They will arrive at eleven twenty. Let's show them the packing shed first.\nM2: I'll keep the tasting session at noon.\nM1: I'll notify the driver.",
+      "transcript_vi": "M1: Xe khách đến vườn bị muộn.\nW: Họ đến lúc mười một giờ hai mươi. Hãy cho họ xem nhà đóng gói trước.\nM2: Tôi giữ buổi nếm thử lúc trưa.\nM1: Tôi sẽ báo tài xế.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 59,
+          "question_type": "mcq",
+          "question_text": "What caused a schedule change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Heavy rain."
+            },
+            {
+              "key": "B",
+              "text": "A missing guide."
+            },
+            {
+              "key": "C",
+              "text": "Broken machinery."
+            },
+            {
+              "key": "D",
+              "text": "A delayed coach."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Xe khách đến muộn.",
+          "translation": "Điều gì gây đổi lịch?\n(A) Mưa lớn.\n(B) Thiếu hướng dẫn viên.\n(C) Máy hỏng.\n(D) Xe khách muộn.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 60,
+          "question_type": "mcq",
+          "question_text": "What does the woman propose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel the tasting."
+            },
+            {
+              "key": "B",
+              "text": "Add a walk."
+            },
+            {
+              "key": "C",
+              "text": "Visit the packing shed first."
+            },
+            {
+              "key": "D",
+              "text": "Replace the coach."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cô ấy chọn nhà đóng gói trước.",
+          "translation": "Cô ấy đề xuất gì?\n(A) Hủy nếm thử.\n(B) Thêm đi bộ.\n(C) Thăm nhà đóng gói trước.\n(D) Thay xe.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 61,
+          "question_type": "mcq",
+          "question_text": "Which activity keeps its time?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Coach arrival."
+            },
+            {
+              "key": "B",
+              "text": "The tasting session."
+            },
+            {
+              "key": "C",
+              "text": "The orchard walk."
+            },
+            {
+              "key": "D",
+              "text": "Departure from town."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Buổi nếm thử giữ giờ trưa.",
+          "translation": "Hoạt động nào giữ giờ?\n(A) Xe khách đến.\n(B) Buổi nếm thử.\n(C) Đi bộ trong vườn.\n(D) Rời thị trấn.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: We're nearly out of dental appointment cards.\nM: The printer offers packs of two hundred or five hundred.\nW: Order the larger pack and remove the old fax number.\nM: I'll send the revised design today.",
+      "transcript_vi": "W: Sắp hết thẻ hẹn nha khoa.\nM: Nhà in có gói hai trăm hoặc năm trăm.\nW: Đặt gói lớn và bỏ số fax cũ.\nM: Tôi gửi thiết kế mới hôm nay.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 62,
+          "question_type": "mcq",
+          "question_text": "Why are new cards needed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The clinic is moving."
+            },
+            {
+              "key": "B",
+              "text": "The cards are too colorful."
+            },
+            {
+              "key": "C",
+              "text": "The phone line failed."
+            },
+            {
+              "key": "D",
+              "text": "Supplies are running low."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thẻ hẹn sắp hết.",
+          "translation": "Vì sao cần thẻ mới?\n(A) Phòng khám chuyển đi.\n(B) Thẻ quá nhiều màu.\n(C) Điện thoại hỏng.\n(D) Số thẻ còn ít.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 63,
+          "question_type": "mcq",
+          "question_text": "What change is requested?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Add a logo."
+            },
+            {
+              "key": "B",
+              "text": "Remove a fax number."
+            },
+            {
+              "key": "C",
+              "text": "Change the telephone number."
+            },
+            {
+              "key": "D",
+              "text": "Reduce the size."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cô ấy yêu cầu bỏ số fax cũ.",
+          "translation": "Thay đổi nào được yêu cầu?\n(A) Thêm biểu trưng.\n(B) Bỏ số fax.\n(C) Đổi số điện thoại.\n(D) Giảm kích thước.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 64,
+          "question_type": "mcq",
+          "question_text": "How many cards should be ordered?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two hundred."
+            },
+            {
+              "key": "B",
+              "text": "One thousand."
+            },
+            {
+              "key": "C",
+              "text": "Five hundred."
+            },
+            {
+              "key": "D",
+              "text": "Fifty."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Gói lớn có năm trăm thẻ.",
+          "translation": "Nên đặt bao nhiêu thẻ?\n(A) Hai trăm.\n(B) Một nghìn.\n(C) Năm trăm.\n(D) Năm mươi.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "M: I need to ship a framed print. Is Standard suitable?\nW: Use Fragile service because of the glass. It includes tracking.\nM: Can it arrive by Friday?\nW: Yes, if you leave it before three today.",
+      "transcript_vi": "M: Tôi gửi tranh đóng khung. Dịch vụ thường phù hợp không?\nW: Dùng dịch vụ dễ vỡ vì có kính. Có theo dõi.\nM: Nó đến thứ Sáu được không?\nW: Có, nếu gửi trước ba giờ hôm nay.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "passage": "| Service | Counter |\n|---|---|\n| Standard | 1 |\n| Documents | 2 |\n| Fragile | 3 |\n| International | 4 |",
+      "passage_vi": "| Dịch vụ | Quầy |\n|---|---|\n| Thường | 1 |\n| Tài liệu | 2 |\n| Dễ vỡ | 3 |\n| Quốc tế | 4 |",
+      "questions": [
+        {
+          "number": 65,
+          "question_type": "mcq",
+          "question_text": "What is the man sending?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A glass bottle."
+            },
+            {
+              "key": "B",
+              "text": "A shelf."
+            },
+            {
+              "key": "C",
+              "text": "A framed print."
+            },
+            {
+              "key": "D",
+              "text": "A receipt."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Anh nói cần gửi tranh đóng khung.",
+          "translation": "Anh gửi gì?\n(A) Chai thủy tinh.\n(B) Kệ.\n(C) Tranh in đóng khung.\n(D) Biên lai.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 66,
+          "question_type": "mcq",
+          "question_text": "Look at the graphic. Which counter should he use?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Counter 1."
+            },
+            {
+              "key": "B",
+              "text": "Counter 3."
+            },
+            {
+              "key": "C",
+              "text": "Counter 2."
+            },
+            {
+              "key": "D",
+              "text": "Counter 4."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Dịch vụ Fragile tại quầy 3.",
+          "translation": "Nhìn bảng. Anh nên dùng quầy nào?\n(A) Quầy 1.\n(B) Quầy 3.\n(C) Quầy 2.\n(D) Quầy 4.",
+          "difficulty": 2,
+          "tags": [
+            "graphic"
+          ],
+          "skill_tags": [
+            "graphic"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 67,
+          "question_type": "mcq",
+          "question_text": "What must he do to meet the deadline?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buy a new frame."
+            },
+            {
+              "key": "B",
+              "text": "Send it before three today."
+            },
+            {
+              "key": "C",
+              "text": "Call on Friday."
+            },
+            {
+              "key": "D",
+              "text": "Remove the glass."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Phải gửi trước ba giờ.",
+          "translation": "Anh cần làm gì để kịp hạn?\n(A) Mua khung mới.\n(B) Gửi trước ba giờ hôm nay.\n(C) Gọi thứ Sáu.\n(D) Tháo kính.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "W: The aquarium ticket scanner cannot read passes printed on thick paper.\nM: Does it work with digital passes?\nW: Yes. I'll ask visitors to show codes on their phones.\nM: I'll contact the technician about printed passes.",
+      "transcript_vi": "W: Máy quét vé thủy cung không đọc vé giấy dày.\nM: Vé điện tử được không?\nW: Có. Tôi nhờ khách hiện mã trên điện thoại.\nM: Tôi liên hệ kỹ thuật viên về vé giấy.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 68,
+          "question_type": "mcq",
+          "question_text": "What equipment has a problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A ticket scanner."
+            },
+            {
+              "key": "B",
+              "text": "A water filter."
+            },
+            {
+              "key": "C",
+              "text": "A charger."
+            },
+            {
+              "key": "D",
+              "text": "A cash register."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Máy quét không đọc vé giấy dày.",
+          "translation": "Thiết bị nào gặp vấn đề?\n(A) Máy quét vé.\n(B) Bộ lọc nước.\n(C) Bộ sạc.\n(D) Máy tính tiền.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 69,
+          "question_type": "mcq",
+          "question_text": "What will visitors be asked to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buy a second ticket."
+            },
+            {
+              "key": "B",
+              "text": "Show a code on their phones."
+            },
+            {
+              "key": "C",
+              "text": "Use another entrance."
+            },
+            {
+              "key": "D",
+              "text": "Print a map."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cô ấy yêu cầu hiện mã điện thoại.",
+          "translation": "Khách được yêu cầu làm gì?\n(A) Mua vé thứ hai.\n(B) Hiện mã trên điện thoại.\n(C) Dùng cửa khác.\n(D) In bản đồ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 70,
+          "question_type": "mcq",
+          "question_text": "Who will the man contact?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A technician."
+            },
+            {
+              "key": "B",
+              "text": "A guide."
+            },
+            {
+              "key": "C",
+              "text": "A paper merchant."
+            },
+            {
+              "key": "D",
+              "text": "An aquarium keeper."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Anh sẽ gọi kỹ thuật viên.",
+          "translation": "Anh sẽ liên hệ ai?\n(A) Kỹ thuật viên.\n(B) Hướng dẫn viên.\n(C) Người bán giấy.\n(D) Nhân viên nuôi cá.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Due to maintenance on the main ferry, today's departures use a smaller boat. Passengers with bicycles should board ten minutes earlier than usual. The final departure is at six fifteen.",
+      "transcript_vi": "N: Do phà chính bảo trì, hôm nay dùng tàu nhỏ hơn. Khách có xe đạp nên lên sớm hơn mười phút. Chuyến cuối lúc sáu giờ mười lăm.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 71,
+          "question_type": "mcq",
+          "question_text": "Why is a smaller boat being used?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The water is shallow."
+            },
+            {
+              "key": "B",
+              "text": "The crew is on holiday."
+            },
+            {
+              "key": "C",
+              "text": "A route has opened."
+            },
+            {
+              "key": "D",
+              "text": "The main ferry needs maintenance."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Phà chính đang bảo trì.",
+          "translation": "Vì sao dùng tàu nhỏ?\n(A) Nước nông.\n(B) Thủy thủ nghỉ.\n(C) Tuyến mới mở.\n(D) Phà chính cần bảo trì.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 72,
+          "question_type": "mcq",
+          "question_text": "Who should board early?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Passengers with children."
+            },
+            {
+              "key": "B",
+              "text": "Return-ticket holders."
+            },
+            {
+              "key": "C",
+              "text": "Passengers with bicycles."
+            },
+            {
+              "key": "D",
+              "text": "Ticket office staff."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Khách có xe đạp lên sớm.",
+          "translation": "Ai nên lên sớm?\n(A) Khách có trẻ em.\n(B) Người có vé khứ hồi.\n(C) Khách có xe đạp.\n(D) Nhân viên phòng vé.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 73,
+          "question_type": "mcq",
+          "question_text": "When is the last departure?",
+          "options": [
+            {
+              "key": "A",
+              "text": "6:15."
+            },
+            {
+              "key": "B",
+              "text": "5:45."
+            },
+            {
+              "key": "C",
+              "text": "7:10."
+            },
+            {
+              "key": "D",
+              "text": "8:30."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Chuyến cuối lúc sáu giờ mười lăm.",
+          "translation": "Chuyến cuối lúc nào?\n(A) 6 giờ 15.\n(B) 5 giờ 45.\n(C) 7 giờ 10.\n(D) 8 giờ 30.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Alder Clock Repair will close on Monday while a new display cabinet is installed. Customers may collect finished repairs from nine on Tuesday. We will call anyone whose repairs require extra time.",
+      "transcript_vi": "N: Tiệm sửa đồng hồ Alder đóng thứ Hai để lắp tủ trưng bày. Khách nhận đồ đã sửa từ chín giờ thứ Ba. Chúng tôi gọi khách cần sửa thêm.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 74,
+          "question_type": "mcq",
+          "question_text": "Why will the shop close?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A cabinet will be installed."
+            },
+            {
+              "key": "B",
+              "text": "Staff will attend a fair."
+            },
+            {
+              "key": "C",
+              "text": "The owner is moving."
+            },
+            {
+              "key": "D",
+              "text": "Clocks will be photographed."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Tủ trưng bày sẽ được lắp.",
+          "translation": "Vì sao tiệm đóng cửa?\n(A) Tủ sẽ được lắp.\n(B) Nhân viên dự hội chợ.\n(C) Chủ chuyển nhà.\n(D) Đồng hồ được chụp.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 75,
+          "question_type": "mcq",
+          "question_text": "When can finished repairs be collected?",
+          "options": [
+            {
+              "key": "A",
+              "text": "From nine Tuesday."
+            },
+            {
+              "key": "B",
+              "text": "Before noon Monday."
+            },
+            {
+              "key": "C",
+              "text": "Wednesday evening."
+            },
+            {
+              "key": "D",
+              "text": "After five Friday."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Khách nhận từ chín giờ thứ Ba.",
+          "translation": "Khi nào lấy đồ đã sửa?\n(A) Từ chín giờ thứ Ba.\n(B) Trước trưa thứ Hai.\n(C) Tối thứ Tư.\n(D) Sau năm giờ thứ Sáu.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 76,
+          "question_type": "mcq",
+          "question_text": "Who will get a call?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cabinet purchasers."
+            },
+            {
+              "key": "B",
+              "text": "Customers needing longer repairs."
+            },
+            {
+              "key": "C",
+              "text": "Monday visitors."
+            },
+            {
+              "key": "D",
+              "text": "Clock sellers."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Tiệm gọi khách cần thêm thời gian.",
+          "translation": "Ai sẽ nhận cuộc gọi?\n(A) Người mua tủ.\n(B) Khách có đồ cần sửa thêm.\n(C) Khách thứ Hai.\n(D) Người bán đồng hồ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Please check your orchard training worksheet. Today's pruning demonstration has moved from Birch to Rowan because the ground is wet. The tool inspection and lunch remain unchanged. Bring gloves to the demonstration.",
+      "transcript_vi": "N: Hãy xem phiếu đào tạo vườn cây. Buổi cắt tỉa chuyển từ Birch sang Rowan vì đất ướt. Kiểm tra dụng cụ và ăn trưa giữ nguyên. Mang găng tay đến buổi trình diễn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "passage": "| Session | Activity |\n|---|---|\n| 1 | Tool inspection |\n| 2 | Pruning demonstration |\n| 3 | Lunch |\n| 4 | Fruit sorting |",
+      "passage_vi": "| Buổi | Hoạt động |\n|---|---|\n| 1 | Kiểm tra dụng cụ |\n| 2 | Cắt tỉa |\n| 3 | Ăn trưa |\n| 4 | Phân loại quả |",
+      "questions": [
+        {
+          "number": 77,
+          "question_type": "mcq",
+          "question_text": "Who is the talk for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Restaurant guests."
+            },
+            {
+              "key": "B",
+              "text": "Orchard workers."
+            },
+            {
+              "key": "C",
+              "text": "Parents."
+            },
+            {
+              "key": "D",
+              "text": "Travel agents."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đây là đào tạo tại vườn cây.",
+          "translation": "Bài nói dành cho ai?\n(A) Khách nhà hàng.\n(B) Nhân viên vườn cây.\n(C) Phụ huynh.\n(D) Đại lý du lịch.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 78,
+          "question_type": "mcq",
+          "question_text": "Look at the graphic. Which session has moved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Session 1."
+            },
+            {
+              "key": "B",
+              "text": "Session 3."
+            },
+            {
+              "key": "C",
+              "text": "Session 4."
+            },
+            {
+              "key": "D",
+              "text": "Session 2."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cắt tỉa là buổi 2.",
+          "translation": "Nhìn bảng. Buổi nào chuyển địa điểm?\n(A) Buổi 1.\n(B) Buổi 3.\n(C) Buổi 4.\n(D) Buổi 2.",
+          "difficulty": 2,
+          "tags": [
+            "graphic"
+          ],
+          "skill_tags": [
+            "graphic"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 79,
+          "question_type": "mcq",
+          "question_text": "What should listeners bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lunch boxes."
+            },
+            {
+              "key": "B",
+              "text": "Gloves."
+            },
+            {
+              "key": "C",
+              "text": "Rain boots."
+            },
+            {
+              "key": "D",
+              "text": "Notebooks."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Người nói yêu cầu mang găng tay.",
+          "translation": "Người nghe nên mang gì?\n(A) Hộp cơm.\n(B) Găng tay.\n(C) Ủng đi mưa.\n(D) Vở ghi.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: The Marrow Street theater offers a backstage visit Sunday afternoon. Our stage manager will explain lighting and curtains. Only eighteen spaces are available, so book ahead. Wear flat shoes because the tour includes narrow stairs.",
+      "transcript_vi": "N: Nhà hát đường Marrow tổ chức thăm hậu trường chiều Chủ nhật. Quản lý sân khấu giải thích đèn và rèm. Chỉ có mười tám chỗ nên đặt trước. Đi giày đế bằng vì có cầu thang hẹp.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 80,
+          "question_type": "mcq",
+          "question_text": "What is offered?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A dance contest."
+            },
+            {
+              "key": "B",
+              "text": "A lighting sale."
+            },
+            {
+              "key": "C",
+              "text": "An evening concert."
+            },
+            {
+              "key": "D",
+              "text": "A backstage visit."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nhà hát tổ chức thăm hậu trường.",
+          "translation": "Hoạt động nào được cung cấp?\n(A) Thi nhảy.\n(B) Bán đèn.\n(C) Hòa nhạc tối.\n(D) Thăm hậu trường.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 81,
+          "question_type": "mcq",
+          "question_text": "Who will explain the equipment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A designer."
+            },
+            {
+              "key": "B",
+              "text": "A ticket collector."
+            },
+            {
+              "key": "C",
+              "text": "The stage manager."
+            },
+            {
+              "key": "D",
+              "text": "A visiting actor."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Quản lý giải thích đèn và rèm.",
+          "translation": "Ai giải thích thiết bị?\n(A) Nhà thiết kế.\n(B) Người soát vé.\n(C) Quản lý sân khấu.\n(D) Diễn viên khách.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 82,
+          "question_type": "mcq",
+          "question_text": "Why wear flat shoes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The floor is carpeted."
+            },
+            {
+              "key": "B",
+              "text": "Visitors try costumes."
+            },
+            {
+              "key": "C",
+              "text": "The tour crosses a garden."
+            },
+            {
+              "key": "D",
+              "text": "The tour includes narrow stairs."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Chuyến đi có cầu thang hẹp.",
+          "translation": "Vì sao đi giày đế bằng?\n(A) Sàn trải thảm.\n(B) Khách thử trang phục.\n(C) Tour đi qua vườn.\n(D) Có cầu thang hẹp.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Sales of reusable lunch containers exceeded our forecast, especially near colleges. The small blue model has sold out at two branches. Move spare stock from the central store before Friday; the next delivery is next week.",
+      "transcript_vi": "N: Doanh số hộp cơm tái sử dụng vượt dự báo, nhất là gần trường cao đẳng. Mẫu nhỏ màu xanh hết ở hai chi nhánh. Chuyển hàng dự trữ từ cửa hàng trung tâm trước thứ Sáu; lô tiếp đến tuần tới.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 83,
+          "question_type": "mcq",
+          "question_text": "What product is discussed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "School uniforms."
+            },
+            {
+              "key": "B",
+              "text": "Water bottles."
+            },
+            {
+              "key": "C",
+              "text": "Shopping bags."
+            },
+            {
+              "key": "D",
+              "text": "Reusable lunch containers."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Người nói nêu doanh số hộp cơm.",
+          "translation": "Sản phẩm nào được bàn đến?\n(A) Đồng phục.\n(B) Chai nước.\n(C) Túi mua sắm.\n(D) Hộp cơm tái sử dụng.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 84,
+          "question_type": "mcq",
+          "question_text": "What issue is mentioned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sales fell."
+            },
+            {
+              "key": "B",
+              "text": "A model sold out at two branches."
+            },
+            {
+              "key": "C",
+              "text": "A delivery was damaged."
+            },
+            {
+              "key": "D",
+              "text": "College shops closed."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Mẫu xanh nhỏ hết hàng.",
+          "translation": "Vấn đề gì được nêu?\n(A) Doanh số giảm.\n(B) Một mẫu hết ở hai chi nhánh.\n(C) Lô giao bị hỏng.\n(D) Cửa hàng gần trường đóng.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 85,
+          "question_type": "mcq",
+          "question_text": "What should listeners do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Transfer spare stock."
+            },
+            {
+              "key": "B",
+              "text": "Lower prices."
+            },
+            {
+              "key": "C",
+              "text": "Order a new color."
+            },
+            {
+              "key": "D",
+              "text": "Visit colleges."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cần chuyển hàng dự trữ.",
+          "translation": "Người nghe nên làm gì?\n(A) Chuyển hàng dự trữ.\n(B) Hạ giá.\n(C) Đặt màu mới.\n(D) Đến trường.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Thank you for calling Fernwell Translation. Our interpreters are attending a workshop today, so telephone consultations resume tomorrow. For urgent written translations, email a clear scan. We can quote a price within two hours.",
+      "transcript_vi": "N: Cảm ơn đã gọi Fernwell Translation. Phiên dịch viên dự hội thảo hôm nay nên tư vấn điện thoại trở lại ngày mai. Với bản dịch gấp, gửi bản quét rõ. Chúng tôi báo giá trong hai giờ.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 86,
+          "question_type": "mcq",
+          "question_text": "Why are consultations unavailable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The phone line is being replaced."
+            },
+            {
+              "key": "B",
+              "text": "The office moved."
+            },
+            {
+              "key": "C",
+              "text": "Documents are being scanned."
+            },
+            {
+              "key": "D",
+              "text": "Interpreters are at a workshop."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Phiên dịch viên đang dự hội thảo.",
+          "translation": "Vì sao không tư vấn được?\n(A) Đường điện thoại đang thay.\n(B) Văn phòng chuyển đi.\n(C) Tài liệu đang quét.\n(D) Phiên dịch viên dự hội thảo.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 87,
+          "question_type": "mcq",
+          "question_text": "What should urgent customers email?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A clear document scan."
+            },
+            {
+              "key": "B",
+              "text": "An employment contract."
+            },
+            {
+              "key": "C",
+              "text": "A workshop invitation."
+            },
+            {
+              "key": "D",
+              "text": "A payment receipt."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Khách gửi bản quét rõ.",
+          "translation": "Khách cần gấp nên gửi gì?\n(A) Bản quét tài liệu rõ.\n(B) Hợp đồng lao động.\n(C) Thư mời hội thảo.\n(D) Biên lai.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 88,
+          "question_type": "mcq",
+          "question_text": "What can be provided within two hours?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A price quote."
+            },
+            {
+              "key": "B",
+              "text": "A passport."
+            },
+            {
+              "key": "C",
+              "text": "A phone interview."
+            },
+            {
+              "key": "D",
+              "text": "A certificate."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Công ty báo giá trong hai giờ.",
+          "translation": "Thứ gì được cung cấp trong hai giờ?\n(A) Báo giá.\n(B) Hộ chiếu.\n(C) Phỏng vấn điện thoại.\n(D) Chứng chỉ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Our walking tour begins at the old water mill. The path to the stone tower is closed, so our second stop is the riverside garden. You'll have twenty minutes there for photographs before returning to the visitor center.",
+      "transcript_vi": "N: Chuyến đi bộ bắt đầu ở cối xay nước cũ. Lối tới tháp đá đóng nên điểm thứ hai là vườn ven sông. Có hai mươi phút chụp ảnh trước khi về trung tâm khách.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 89,
+          "question_type": "mcq",
+          "question_text": "Where is the first stop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A stone tower."
+            },
+            {
+              "key": "B",
+              "text": "A riverside garden."
+            },
+            {
+              "key": "C",
+              "text": "A station."
+            },
+            {
+              "key": "D",
+              "text": "An old water mill."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Điểm đầu là cối xay nước.",
+          "translation": "Điểm đầu ở đâu?\n(A) Tháp đá.\n(B) Vườn ven sông.\n(C) Nhà ga.\n(D) Cối xay nước cũ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 90,
+          "question_type": "mcq",
+          "question_text": "Why did the second stop change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A garden opened."
+            },
+            {
+              "key": "B",
+              "text": "The guide is late."
+            },
+            {
+              "key": "C",
+              "text": "A footpath is closed."
+            },
+            {
+              "key": "D",
+              "text": "The tower fee rose."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lối tới tháp bị đóng.",
+          "translation": "Vì sao điểm thứ hai đổi?\n(A) Vườn mới mở.\n(B) Hướng dẫn viên muộn.\n(C) Lối đi bị đóng.\n(D) Phí tháp tăng.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 91,
+          "question_type": "mcq",
+          "question_text": "How long may visitors take photographs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Twenty minutes."
+            },
+            {
+              "key": "B",
+              "text": "Ten minutes."
+            },
+            {
+              "key": "C",
+              "text": "Thirty minutes."
+            },
+            {
+              "key": "D",
+              "text": "An hour."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Họ có hai mươi phút.",
+          "translation": "Khách có bao lâu chụp ảnh?\n(A) Hai mươi phút.\n(B) Mười phút.\n(C) Ba mươi phút.\n(D) Một giờ.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: At the end of lamp assembly training, demonstrate how to test a finished lamp. The instructor will sign your checklist after observing the test. If uncertain, ask before connecting the lamp to power. Leave only after the checklist is signed.",
+      "transcript_vi": "N: Cuối khóa lắp đèn, hãy trình diễn cách kiểm tra đèn hoàn thiện. Giảng viên ký phiếu sau khi quan sát. Nếu chưa chắc, hỏi trước khi nối nguồn. Chỉ rời đi sau khi phiếu được ký.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 92,
+          "question_type": "mcq",
+          "question_text": "What are participants learning?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Window installation."
+            },
+            {
+              "key": "B",
+              "text": "Lamp assembly."
+            },
+            {
+              "key": "C",
+              "text": "Furniture design."
+            },
+            {
+              "key": "D",
+              "text": "Telephone repair."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đây là khóa lắp đèn.",
+          "translation": "Học viên đang học gì?\n(A) Lắp cửa sổ.\n(B) Lắp đèn.\n(C) Thiết kế nội thất.\n(D) Sửa điện thoại.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 93,
+          "question_type": "mcq",
+          "question_text": "What will the instructor sign?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A receipt."
+            },
+            {
+              "key": "B",
+              "text": "A delivery note."
+            },
+            {
+              "key": "C",
+              "text": "A checklist."
+            },
+            {
+              "key": "D",
+              "text": "An employment offer."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Giảng viên ký phiếu kiểm tra.",
+          "translation": "Giảng viên ký gì?\n(A) Biên lai.\n(B) Phiếu giao hàng.\n(C) Phiếu kiểm tra.\n(D) Thư mời làm việc.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 94,
+          "question_type": "mcq",
+          "question_text": "What should uncertain participants do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Leave immediately."
+            },
+            {
+              "key": "B",
+              "text": "Replace components."
+            },
+            {
+              "key": "C",
+              "text": "Turn off room lights."
+            },
+            {
+              "key": "D",
+              "text": "Ask before connecting power."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Họ cần hỏi trước khi nối nguồn.",
+          "translation": "Học viên chưa chắc nên làm gì?\n(A) Rời ngay.\n(B) Thay linh kiện.\n(C) Tắt đèn phòng.\n(D) Hỏi trước khi nối điện.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: On Wednesday, vegetable curry replaces pasta on the employee lunch menu because the pasta delivery was postponed. Prices remain the same. Change advance orders at the cafeteria counter by eleven on Wednesday.",
+      "transcript_vi": "N: Thứ Tư, cà ri rau thay mì trong thực đơn nhân viên vì giao mì bị hoãn. Giá giữ nguyên. Đổi đơn đặt trước tại quầy căng tin trước mười một giờ thứ Tư.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "passage": "| Item | Meal |\n|---|---|\n| 3 | Rice bowl |\n| 4 | Tomato soup |\n| 5 | Pasta |\n| 6 | Grilled fish |",
+      "passage_vi": "| Món | Bữa ăn |\n|---|---|\n| 3 | Cơm tô |\n| 4 | Súp cà chua |\n| 5 | Mì |\n| 6 | Cá nướng |",
+      "questions": [
+        {
+          "number": 95,
+          "question_type": "mcq",
+          "question_text": "Why is the menu changing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A cook was hired."
+            },
+            {
+              "key": "B",
+              "text": "Prices fell."
+            },
+            {
+              "key": "C",
+              "text": "A delivery was postponed."
+            },
+            {
+              "key": "D",
+              "text": "A hall opened."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Việc giao mì bị hoãn.",
+          "translation": "Vì sao thực đơn đổi?\n(A) Đầu bếp được tuyển.\n(B) Giá giảm.\n(C) Lô giao bị hoãn.\n(D) Hội trường mở.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 96,
+          "question_type": "mcq",
+          "question_text": "Look at the graphic. Which item will be replaced?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Item 5."
+            },
+            {
+              "key": "B",
+              "text": "Item 3."
+            },
+            {
+              "key": "C",
+              "text": "Item 4."
+            },
+            {
+              "key": "D",
+              "text": "Item 6."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Mì là món 5.",
+          "translation": "Nhìn bảng. Món nào bị thay?\n(A) Món 5.\n(B) Món 3.\n(C) Món 4.\n(D) Món 6.",
+          "difficulty": 2,
+          "tags": [
+            "graphic"
+          ],
+          "skill_tags": [
+            "graphic"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 97,
+          "question_type": "mcq",
+          "question_text": "When is the deadline to change orders?",
+          "options": [
+            {
+              "key": "A",
+              "text": "11 a.m. Wednesday."
+            },
+            {
+              "key": "B",
+              "text": "Noon Tuesday."
+            },
+            {
+              "key": "C",
+              "text": "3 p.m. Wednesday."
+            },
+            {
+              "key": "D",
+              "text": "9 a.m. Friday."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hạn mười một giờ thứ Tư.",
+          "translation": "Hạn đổi đơn là khi nào?\n(A) 11 giờ sáng thứ Tư.\n(B) Trưa thứ Ba.\n(C) 3 giờ chiều thứ Tư.\n(D) 9 giờ sáng thứ Sáu.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen and answer the three questions.",
+      "transcript": "N: Westmere community center is collecting used coats for a winter clothing program. Bring clean coats with working buttons or zippers to reception. Volunteers sort donations every Thursday afternoon. We especially need large adult coats.",
+      "transcript_vi": "N: Trung tâm cộng đồng Westmere thu áo khoác cũ cho chương trình mùa đông. Mang áo sạch có cúc hoặc khóa còn tốt đến lễ tân. Tình nguyện viên phân loại chiều thứ Năm. Đặc biệt cần áo người lớn cỡ lớn.",
+      "source": "original",
+      "audio_duration_seconds": null,
+      "questions": [
+        {
+          "number": 98,
+          "question_type": "mcq",
+          "question_text": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Advertise coat repairs."
+            },
+            {
+              "key": "B",
+              "text": "Introduce uniforms."
+            },
+            {
+              "key": "C",
+              "text": "Request clothing donations."
+            },
+            {
+              "key": "D",
+              "text": "Recruit models."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trung tâm kêu gọi tặng áo khoác.",
+          "translation": "Mục đích thông báo là gì?\n(A) Quảng cáo sửa áo.\n(B) Giới thiệu đồng phục.\n(C) Kêu gọi tặng quần áo.\n(D) Tuyển người mẫu.",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 99,
+          "question_type": "mcq",
+          "question_text": "When are donations sorted?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thursday afternoons."
+            },
+            {
+              "key": "B",
+              "text": "Monday mornings."
+            },
+            {
+              "key": "C",
+              "text": "Saturday evenings."
+            },
+            {
+              "key": "D",
+              "text": "Daily at noon."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Tình nguyện viên phân loại chiều thứ Năm.",
+          "translation": "Đồ tặng được phân loại khi nào?\n(A) Chiều thứ Năm.\n(B) Sáng thứ Hai.\n(C) Tối thứ Bảy.\n(D) Mỗi trưa.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        },
+        {
+          "number": 100,
+          "question_type": "mcq",
+          "question_text": "What is especially needed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Children's boots."
+            },
+            {
+              "key": "B",
+              "text": "New hats."
+            },
+            {
+              "key": "C",
+              "text": "Small shirts."
+            },
+            {
+              "key": "D",
+              "text": "Large adult coats."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thông báo nhấn mạnh áo người lớn cỡ lớn.",
+          "translation": "Thứ gì đặc biệt cần?\n(A) Ủng trẻ em.\n(B) Mũ mới.\n(C) Áo sơ mi nhỏ.\n(D) Áo người lớn cỡ lớn.",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original"
+        }
+      ]
+    }
+  ]
+}

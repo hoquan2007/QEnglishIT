@@ -1,0 +1,664 @@
+{
+  "slug": "qe-p6-006",
+  "title": "TOEIC Part 6 – Text Completion 06 (Operations, Policy, and Business Planning)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "policy",
+    "planning",
+    "operations",
+    "sustainability"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Internal memo: Purchasing review\n\nThe finance team has completed a review of recurring purchases below the formal bidding threshold. The review found that several departments order similar supplies from different vendors, making total spending difficult to -------(1)-------.\n\nBeginning next quarter, purchase requests in three selected categories will be routed through a shared catalog. -------(2)------- Departments may still request an exception when a technical requirement cannot be met by a listed item.\n\nThe pilot will run for four months. Finance will evaluate savings alongside delivery reliability so that the final recommendation is based -------(3)------- both cost and service quality. Managers are asked to explain the change -------(4)------- to staff who place orders.",
+      "passage_vi": "Bản ghi nhớ nội bộ: Rà soát mua sắm\n\nNhóm tài chính đã hoàn tất rà soát các khoản mua lặp lại dưới ngưỡng đấu thầu chính thức. Kết quả cho thấy một số phòng ban đặt các vật tư tương tự từ các nhà cung cấp khác nhau, khiến tổng chi tiêu khó theo dõi.\n\nTừ quý tới, yêu cầu mua trong ba nhóm hàng được chọn sẽ đi qua một danh mục dùng chung. Danh mục sẽ hiển thị các lựa chọn đã được duyệt và giá thương lượng hiện hành. Các phòng ban vẫn có thể xin ngoại lệ khi yêu cầu kỹ thuật không được đáp ứng bởi mặt hàng trong danh mục.\n\nThử nghiệm kéo dài bốn tháng. Tài chính sẽ đánh giá mức tiết kiệm cùng độ tin cậy giao hàng để khuyến nghị cuối cùng dựa trên cả chi phí lẫn chất lượng dịch vụ. Quản lý được yêu cầu giải thích thay đổi rõ ràng cho nhân viên đặt hàng.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "tracking"
+            },
+            {
+              "key": "B",
+              "text": "tracked"
+            },
+            {
+              "key": "C",
+              "text": "tracker"
+            },
+            {
+              "key": "D",
+              "text": "track"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “difficult to” cần động từ nguyên mẫu track.",
+          "translation": "Chỗ trống (1). (A) đang theo dõi · (B) đã theo dõi · (C) công cụ theo dõi · (D) theo dõi",
+          "difficulty": 4,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The catalog will show approved options and current negotiated prices."
+            },
+            {
+              "key": "B",
+              "text": "Every department will receive a separate purchasing credit card."
+            },
+            {
+              "key": "C",
+              "text": "Vendors will be asked to deliver only on the last day of each month."
+            },
+            {
+              "key": "D",
+              "text": "The bidding threshold will be removed during the pilot."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu mô tả nội dung danh mục dùng chung và dẫn hợp lý tới cơ chế xin ngoại lệ.",
+          "translation": "Chỗ trống (2). Đáp án đúng nói danh mục hiển thị lựa chọn đã duyệt và giá đã thương lượng.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Based on là cụm giới từ cố định.",
+          "translation": "Chỗ trống (3). (A) tại · (B) dựa trên · (C) tới · (D) cho",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "clear"
+            },
+            {
+              "key": "B",
+              "text": "clarity"
+            },
+            {
+              "key": "C",
+              "text": "clearly"
+            },
+            {
+              "key": "D",
+              "text": "clearing"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Clearly là trạng từ bổ nghĩa cho explain.",
+          "translation": "Chỗ trống (4). (A) rõ ràng, tính từ · (B) sự rõ ràng · (C) một cách rõ ràng · (D) việc dọn sạch",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Operations notice: Overnight aircraft maintenance\n\nTwo aircraft assigned to the early coastal route will undergo scheduled inspections overnight on August 14. The work is routine, but it leaves less time than usual to -------(5)------- any unexpected findings before the morning departure window.\n\nFor that reason, the operations team has placed a reserve aircraft on standby. -------(6)------- If the inspections finish on schedule, the reserve aircraft will remain available for other routes.\n\nGround crews should complete fueling only after maintenance releases each aircraft. This sequence prevents equipment from being moved -------(7)------- technicians are still performing access checks. Any delay affecting the first departure will be communicated to gate staff -------(8)-------.",
+      "passage_vi": "Thông báo vận hành: Bảo dưỡng máy bay qua đêm\n\nHai máy bay phục vụ tuyến ven biển sáng sớm sẽ được kiểm tra định kỳ qua đêm ngày 14 tháng Tám. Công việc là thường lệ nhưng để lại ít thời gian hơn bình thường để xử lý phát hiện bất ngờ trước khung giờ khởi hành buổi sáng.\n\nVì vậy, nhóm vận hành đã bố trí một máy bay dự phòng ở trạng thái sẵn sàng. Máy bay này chỉ được đưa vào khai thác nếu một đợt kiểm tra cần thêm thời gian. Nếu việc kiểm tra kết thúc đúng lịch, máy bay dự phòng vẫn sẵn sàng cho tuyến khác.\n\nĐội mặt đất chỉ nên hoàn tất tiếp nhiên liệu sau khi bảo trì bàn giao từng máy bay. Trình tự này tránh việc thiết bị bị di chuyển trong khi kỹ thuật viên còn kiểm tra quyền tiếp cận. Bất kỳ chậm trễ nào ảnh hưởng chuyến đầu tiên sẽ được thông báo ngay cho nhân viên cổng.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "resolve"
+            },
+            {
+              "key": "B",
+              "text": "resolving"
+            },
+            {
+              "key": "C",
+              "text": "resolution"
+            },
+            {
+              "key": "D",
+              "text": "resolved"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau “time to” cần động từ nguyên mẫu resolve.",
+          "translation": "Chỗ trống (5). (A) xử lý · (B) đang xử lý · (C) sự xử lý · (D) đã xử lý",
+          "difficulty": 4,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "Passengers must check all baggage at the maintenance hangar."
+            },
+            {
+              "key": "B",
+              "text": "The coastal route will permanently move to an afternoon schedule."
+            },
+            {
+              "key": "C",
+              "text": "It will be used only if an inspection requires additional time."
+            },
+            {
+              "key": "D",
+              "text": "Ground crews are responsible for approving inspection findings."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu này giải thích điều kiện kích hoạt máy bay dự phòng và nối với trường hợp kiểm tra kết thúc đúng lịch.",
+          "translation": "Chỗ trống (6). Đáp án đúng nói máy bay dự phòng chỉ được dùng nếu kiểm tra cần thêm thời gian.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "while"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "While diễn tả hai hoạt động đồng thời và giải thích vì sao phải giữ đúng trình tự.",
+          "translation": "Chỗ trống (7). (A) trừ khi · (B) mặc dù · (C) bởi vì · (D) trong khi",
+          "difficulty": 4,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "prompt"
+            },
+            {
+              "key": "B",
+              "text": "promptly"
+            },
+            {
+              "key": "C",
+              "text": "promptness"
+            },
+            {
+              "key": "D",
+              "text": "prompting"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Promptly là trạng từ bổ nghĩa cho communicated.",
+          "translation": "Chỗ trống (8). (A) nhanh chóng, tính từ · (B) nhanh chóng, trạng từ · (C) sự nhanh chóng · (D) việc nhắc",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Quarterly sustainability update\n\nNorthgate Workspaces tested occupancy sensors in one of its shared-office buildings during the second quarter. The sensors reduced lighting hours in meeting rooms that were often left empty, but the overall energy reduction was -------(9)------- than the facilities team had projected.\n\nA review showed that several large common areas account for most evening electricity use. -------(10)------- The company will therefore test separate lighting zones in those spaces before expanding the sensor program.\n\nFacilities managers will compare the new results with weather-adjusted electricity data. That approach should provide a more -------(11)------- estimate of savings and help determine how -------(12)------- sites should receive the same upgrade next year.",
+      "passage_vi": "Cập nhật bền vững theo quý\n\nNorthgate Workspaces đã thử cảm biến hiện diện tại một tòa nhà văn phòng dùng chung trong quý hai. Cảm biến giảm thời gian bật đèn ở các phòng họp thường bị bỏ trống, nhưng mức giảm năng lượng tổng thể thấp hơn dự kiến của đội cơ sở vật chất.\n\nRà soát cho thấy một số khu vực chung lớn chiếm phần lớn lượng điện buổi tối. Những khu vực đó vẫn dùng một mạch chiếu sáng duy nhất nên không thể tắt từng phần khi vắng người. Vì vậy công ty sẽ thử các vùng chiếu sáng riêng biệt ở đó trước khi mở rộng chương trình cảm biến.\n\nQuản lý cơ sở vật chất sẽ so sánh kết quả mới với dữ liệu điện đã điều chỉnh theo thời tiết. Cách làm này sẽ cho ước tính mức tiết kiệm chính xác hơn và giúp xác định có bao nhiêu địa điểm nên nhận nâng cấp tương tự vào năm tới.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "lowest"
+            },
+            {
+              "key": "B",
+              "text": "lower"
+            },
+            {
+              "key": "C",
+              "text": "low"
+            },
+            {
+              "key": "D",
+              "text": "lessening"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Lower than là cấu trúc so sánh đúng để đối chiếu mức giảm thực tế với dự báo.",
+          "translation": "Chỗ trống (9). (A) thấp nhất · (B) thấp hơn · (C) thấp · (D) đang giảm",
+          "difficulty": 4,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The building cafeteria changed its menu during the same quarter."
+            },
+            {
+              "key": "B",
+              "text": "Every meeting room already has separate heating controls."
+            },
+            {
+              "key": "C",
+              "text": "Electricity prices were removed from the quarterly report."
+            },
+            {
+              "key": "D",
+              "text": "Those areas still use single lighting circuits, so sections cannot be switched off independently."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu về mạch chiếu sáng duy nhất giải thích vì sao các khu chung vẫn tiêu thụ nhiều điện.",
+          "translation": "Chỗ trống (10). Đáp án đúng nói các khu vực lớn vẫn dùng một mạch chiếu sáng chung.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "accuracy"
+            },
+            {
+              "key": "B",
+              "text": "accurately"
+            },
+            {
+              "key": "C",
+              "text": "accurate"
+            },
+            {
+              "key": "D",
+              "text": "accurateness"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Accurate là tính từ bổ nghĩa cho estimate.",
+          "translation": "Chỗ trống (11). (A) độ chính xác · (B) một cách chính xác · (C) chính xác · (D) tính chính xác",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "many"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "few"
+            },
+            {
+              "key": "D",
+              "text": "several"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "How many đi với danh từ đếm được số nhiều sites.",
+          "translation": "Chỗ trống (12). (A) nhiều, đếm được · (B) nhiều, không đếm được · (C) ít · (D) một vài",
+          "difficulty": 4,
+          "tags": [
+            "quantifier"
+          ],
+          "skill_tags": [
+            "quantifier"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Conference vendor update\n\nThe Meridian Business Forum has revised the move-in schedule for exhibitors because the west loading entrance will be shared with a building contractor on setup day. Vendors assigned to booths 40 through 68 should arrive -------(13)------- 2:00 and 3:30 p.m., when the contractor's largest deliveries are expected to be complete.\n\nA temporary check-in desk will operate beside the south entrance. -------(14)------- Staff there will confirm booth numbers before directing vehicles to an available unloading lane.\n\nOrganizers have also increased the number of hand carts available for loan. The carts can be reserved in twenty-minute blocks, which should make unloading more -------(15)------- during the compressed schedule. Vendors with unusually heavy displays should contact the logistics team in -------(16)------- so suitable equipment can be arranged.",
+      "passage_vi": "Cập nhật dành cho nhà cung cấp tại hội nghị\n\nDiễn đàn Kinh doanh Meridian đã điều chỉnh lịch đưa hàng vào vì lối giao hàng phía tây sẽ dùng chung với nhà thầu xây dựng trong ngày lắp đặt. Các nhà cung cấp ở gian 40 đến 68 nên đến trong khoảng 2:00 đến 3:30 chiều, khi các chuyến giao lớn nhất của nhà thầu dự kiến đã hoàn tất.\n\nMột bàn làm thủ tục tạm thời sẽ hoạt động cạnh lối phía nam. Nhà cung cấp không cần đến lối phía tây trước khi làm thủ tục. Nhân viên tại đó sẽ xác nhận số gian trước khi hướng xe đến làn dỡ hàng còn trống.\n\nBan tổ chức cũng tăng số xe đẩy tay cho mượn. Có thể đặt xe theo từng khung hai mươi phút, giúp việc dỡ hàng hiệu quả hơn trong lịch trình rút ngắn. Nhà cung cấp có hàng trưng bày đặc biệt nặng nên liên hệ trước với nhóm hậu cần để sắp xếp thiết bị phù hợp.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "among"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "between"
+            },
+            {
+              "key": "D",
+              "text": "toward"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Between ... and ... dùng để chỉ khoảng thời gian từ 2:00 đến 3:30 p.m.",
+          "translation": "Chỗ trống (13). (A) giữa nhiều đối tượng · (B) trong suốt · (C) giữa hai mốc · (D) hướng tới",
+          "difficulty": 4,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The forum will publish speaker biographies after the event."
+            },
+            {
+              "key": "B",
+              "text": "Vendors do not need to visit the west entrance before checking in."
+            },
+            {
+              "key": "C",
+              "text": "Booth walls may be painted only after the forum closes."
+            },
+            {
+              "key": "D",
+              "text": "The contractor will use the south entrance for all deliveries."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu này làm rõ quy trình mới trước khi nhân viên bàn tạm thời xác nhận gian và hướng xe.",
+          "translation": "Chỗ trống (14). Đáp án đúng nói nhà cung cấp không cần đến lối phía tây trước khi làm thủ tục.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "efficient"
+            },
+            {
+              "key": "B",
+              "text": "efficiently"
+            },
+            {
+              "key": "C",
+              "text": "efficiency"
+            },
+            {
+              "key": "D",
+              "text": "efficiencies"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau “make unloading more” cần tính từ efficient.",
+          "translation": "Chỗ trống (15). (A) hiệu quả · (B) một cách hiệu quả · (C) hiệu suất · (D) các mức hiệu suất",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "advancing"
+            },
+            {
+              "key": "B",
+              "text": "advanced"
+            },
+            {
+              "key": "C",
+              "text": "advancement"
+            },
+            {
+              "key": "D",
+              "text": "advance"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "In advance là cụm cố định nghĩa là liên hệ trước.",
+          "translation": "Chỗ trống (16). (A) đang tiến lên · (B) nâng cao · (C) sự tiến bộ · (D) trước",
+          "difficulty": 4,
+          "tags": [
+            "collocation"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

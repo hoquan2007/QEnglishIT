@@ -1,0 +1,1901 @@
+{
+  "slug": "qe-thpt-015",
+  "title": "Đề luyện thi tiếng Anh THPT 15 – Dữ liệu mở, Pin vòng đời hai và Dịch vụ công",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "B1-B2",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "status": "draft",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "open-data",
+    "battery-reuse",
+    "public-services"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        4,
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best option for each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Rarely ------- a public dataset useful unless its definitions and limits are clearly documented.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it is"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "does it"
+            },
+            {
+              "key": "D",
+              "text": "has it"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "“Rarely” đứng đầu câu tạo đảo ngữ với động từ “be”: rarely is a dataset useful.",
+          "translation": "Hiếm khi một bộ dữ liệu công khai hữu ích nếu các định nghĩa và giới hạn của nó không được ghi rõ.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The research team recommended that every variable ------- before the survey was launched.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is defined"
+            },
+            {
+              "key": "B",
+              "text": "was defining"
+            },
+            {
+              "key": "C",
+              "text": "be defined"
+            },
+            {
+              "key": "D",
+              "text": "defined"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau “recommended that” trong văn phong trang trọng dùng subjunctive với động từ nguyên mẫu “be”.",
+          "translation": "Nhóm nghiên cứu đề nghị mọi biến số được định nghĩa trước khi khảo sát bắt đầu.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "mandative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The dashboard looked precise, but its figures were only as reliable as the records on which they were -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "basis"
+            },
+            {
+              "key": "B",
+              "text": "basing"
+            },
+            {
+              "key": "C",
+              "text": "base"
+            },
+            {
+              "key": "D",
+              "text": "based"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cấu trúc bị động chuẩn là “be based on”.",
+          "translation": "Bảng điều khiển trông rất chính xác, nhưng số liệu chỉ đáng tin bằng những hồ sơ làm cơ sở cho chúng.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Had the missing values been reported separately, readers ------- the trend more cautiously when the report appeared last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will interpret"
+            },
+            {
+              "key": "B",
+              "text": "might interpret"
+            },
+            {
+              "key": "C",
+              "text": "interpreted"
+            },
+            {
+              "key": "D",
+              "text": "might have interpreted"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu điều kiện loại ba đảo ngữ nói về kết quả có thể đã khác trong quá khứ.",
+          "translation": "Nếu các giá trị thiếu được báo riêng, người đọc có thể đã diễn giải xu hướng thận trọng hơn khi báo cáo được công bố tuần trước.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The analyst avoided ------- a causal claim from a pattern that could have several explanations.",
+          "options": [
+            {
+              "key": "A",
+              "text": "draw"
+            },
+            {
+              "key": "B",
+              "text": "drawing"
+            },
+            {
+              "key": "C",
+              "text": "to draw"
+            },
+            {
+              "key": "D",
+              "text": "drawn"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau “avoid” dùng V-ing, và “draw a claim/conclusion” phù hợp ngữ nghĩa.",
+          "translation": "Nhà phân tích tránh đưa ra kết luận nhân quả từ một mẫu có thể có nhiều lời giải thích.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "verb-pattern"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The city released the raw figures, ------- allowed independent groups to repeat parts of the analysis.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "“Which” sau dấu phẩy thay cho toàn bộ sự việc phát hành dữ liệu thô.",
+          "translation": "Thành phố công bố số liệu thô, điều này cho phép các nhóm độc lập lặp lại một phần phân tích.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "A clear note can prevent readers from ------- a seasonal fluctuation for a long-term trend.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mistake"
+            },
+            {
+              "key": "B",
+              "text": "mistaking"
+            },
+            {
+              "key": "C",
+              "text": "to mistake"
+            },
+            {
+              "key": "D",
+              "text": "mistaken"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cấu trúc “prevent someone from doing something” yêu cầu V-ing.",
+          "translation": "Một ghi chú rõ ràng có thể ngăn người đọc nhầm dao động theo mùa với xu hướng dài hạn.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "verb-pattern"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The committee postponed the vote because the evidence was too ------- to support a permanent policy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "conclusion"
+            },
+            {
+              "key": "B",
+              "text": "conclusively"
+            },
+            {
+              "key": "C",
+              "text": "inconclusive"
+            },
+            {
+              "key": "D",
+              "text": "conclude"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cần tính từ sau “was too”; “inconclusive” nghĩa là chưa đủ để kết luận.",
+          "translation": "Ủy ban hoãn bỏ phiếu vì bằng chứng quá thiếu tính kết luận để hỗ trợ một chính sách lâu dài.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The new reporting form is intended to make categories ------- across departments.",
+          "options": [
+            {
+              "key": "A",
+              "text": "consistently"
+            },
+            {
+              "key": "B",
+              "text": "consistency"
+            },
+            {
+              "key": "C",
+              "text": "consist"
+            },
+            {
+              "key": "D",
+              "text": "consistent"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “make + object” cần tính từ bổ nghĩa cho “categories”.",
+          "translation": "Biểu mẫu báo cáo mới nhằm làm cho các hạng mục nhất quán giữa các phòng ban.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "A: “We need readers to know the figures are not final. Should we publish the preliminary chart?” B: “-------” (Choose the response that allows publication while addressing A's concern.)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Let's wait until the final figures are ready."
+            },
+            {
+              "key": "B",
+              "text": "Yes, we can use the same title as the final report."
+            },
+            {
+              "key": "C",
+              "text": "Only if we label it clearly as provisional."
+            },
+            {
+              "key": "D",
+              "text": "We can publish it now and add a note only when the figures change."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu trả lời phù hợp đưa ra điều kiện thận trọng cho việc công bố dữ liệu sơ bộ.",
+          "translation": "A: “Chúng ta cần cho người đọc biết các số liệu chưa phải là số liệu cuối cùng. Có nên công bố biểu đồ sơ bộ không?” B: “Chỉ khi ghi rõ đó là bản tạm thời.” (Chọn lời đáp cho phép công bố đồng thời giải quyết mối lo của A.)",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "dialogue"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The team chose to ------- the outlier rather than delete it silently.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fold"
+            },
+            {
+              "key": "B",
+              "text": "float"
+            },
+            {
+              "key": "C",
+              "text": "frame"
+            },
+            {
+              "key": "D",
+              "text": "flag"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Flag an outlier nghĩa là đánh dấu một giá trị bất thường để người đọc chú ý.",
+          "translation": "Nhóm chọn đánh dấu giá trị ngoại lệ thay vì âm thầm xóa nó.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The figures from two districts cannot be compared directly ------- they were collected with different definitions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "whereas"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Because nêu nguyên nhân khiến hai bộ số liệu không thể so sánh trực tiếp.",
+          "translation": "Số liệu của hai quận không thể so sánh trực tiếp vì được thu thập theo các định nghĩa khác nhau.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conjunction"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The report is detailed; -------, it does not explain how missing responses were handled.",
+          "options": [
+            {
+              "key": "A",
+              "text": "therefore"
+            },
+            {
+              "key": "B",
+              "text": "similarly"
+            },
+            {
+              "key": "C",
+              "text": "for example"
+            },
+            {
+              "key": "D",
+              "text": "nevertheless"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nevertheless nối ý tương phản: báo cáo chi tiết nhưng thiếu giải thích quan trọng.",
+          "translation": "Báo cáo chi tiết; tuy vậy, nó không giải thích cách xử lý câu trả lời bị thiếu.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "cohesion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Which sentence best means “People may misunderstand the graph if the scale is hidden”?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hiding the scale can lead people to misinterpret the graph."
+            },
+            {
+              "key": "B",
+              "text": "The graph is understood only when the scale is hidden."
+            },
+            {
+              "key": "C",
+              "text": "People hid the graph because they understood the scale."
+            },
+            {
+              "key": "D",
+              "text": "The scale prevents every possible misunderstanding."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "“Can lead people to misinterpret” diễn đạt đúng khả năng hiểu sai khi thang đo bị che.",
+          "translation": "Câu tương đương là: Việc che thang đo có thể khiến người ta diễn giải sai biểu đồ.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "paraphrase"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Neither the total count nor the percentage ------- enough information on its own.",
+          "options": [
+            {
+              "key": "A",
+              "text": "provide"
+            },
+            {
+              "key": "B",
+              "text": "have provided"
+            },
+            {
+              "key": "C",
+              "text": "provides"
+            },
+            {
+              "key": "D",
+              "text": "were providing"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Với neither...nor, động từ hòa hợp với chủ ngữ gần nhất “the percentage” số ít.",
+          "translation": "Cả tổng số lẫn tỷ lệ phần trăm đều không tự nó cung cấp đủ thông tin.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "agreement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The survey was repeated ------- the first sample had included too few evening workers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "so that"
+            },
+            {
+              "key": "D",
+              "text": "due to"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Because giải thích lý do phải lặp khảo sát.",
+          "translation": "Khảo sát được lặp lại vì mẫu đầu tiên có quá ít người làm ca tối.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Only by publishing the method ------- whether another team could reproduce the result.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could researchers test"
+            },
+            {
+              "key": "B",
+              "text": "researchers could test"
+            },
+            {
+              "key": "C",
+              "text": "researchers tested"
+            },
+            {
+              "key": "D",
+              "text": "did researchers tested"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "“Only by” đầu câu yêu cầu đảo trợ động từ: could researchers test.",
+          "translation": "Chỉ bằng cách công bố phương pháp, các nhà nghiên cứu mới có thể kiểm tra liệu nhóm khác có tái tạo kết quả được không.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The chart combines monthly values into a yearly average, thereby ------- short periods of unusually high demand.",
+          "options": [
+            {
+              "key": "A",
+              "text": "masked"
+            },
+            {
+              "key": "B",
+              "text": "to mask"
+            },
+            {
+              "key": "C",
+              "text": "mask"
+            },
+            {
+              "key": "D",
+              "text": "masking"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “thereby” thường dùng V-ing để chỉ kết quả của hành động trước.",
+          "translation": "Biểu đồ gộp số liệu tháng thành trung bình năm, qua đó che khuất các giai đoạn nhu cầu cao bất thường.",
+          "difficulty": 4,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "participle"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The data are useful for identifying broad patterns, ------- they should not be used to judge individual cases.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "But diễn tả giới hạn đối lập với giá trị sử dụng của dữ liệu.",
+          "translation": "Dữ liệu hữu ích để nhận diện mẫu rộng, nhưng không nên dùng để đánh giá từng trường hợp cá nhân.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The reviewer asked for a more ------- explanation of how the sample had been selected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "transparent"
+            },
+            {
+              "key": "B",
+              "text": "transparency"
+            },
+            {
+              "key": "C",
+              "text": "transparently"
+            },
+            {
+              "key": "D",
+              "text": "transpire"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cần tính từ bổ nghĩa cho “explanation”; “transparent” phù hợp nghĩa rõ ràng, minh bạch.",
+          "translation": "Người phản biện yêu cầu lời giải thích minh bạch hơn về cách chọn mẫu.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Read the open-data workshop notice and complete each numbered blank.",
+      "source": "original",
+      "passage": "Open Data Workshop\n\nThe city library is hosting a workshop for students who want to learn how public data can be used responsibly. Participants will work with a small dataset about park visits. The instructor will first explain what each column means, because a table is difficult to interpret -------(21)------- its categories are unclear. Students will then create two simple charts and compare how different scales change the impression they give. The goal is not to make one chart look more dramatic -------(22)------- to understand how design choices influence interpretation. Before drawing conclusions, each group must check whether any values are missing and note how those gaps are -------(23)-------. The workshop also asks students to distinguish between correlation and causation, a distinction that is especially -------(24)------- when several factors may change together. At the end, groups will write a short caption that states one finding -------(25)------- one limitation of their analysis.",
+      "questions": [
+        {
+          "number": 21,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (21).",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "if"
+            },
+            {
+              "key": "C",
+              "text": "until"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "If diễn tả điều kiện: bảng khó hiểu nếu các hạng mục không rõ.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (21): bảng khó diễn giải nếu các hạng mục không rõ.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (22).",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "and"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "unless"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc “not ... but ...” đối lập mục tiêu không phải làm biểu đồ kịch tính mà là hiểu lựa chọn thiết kế.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (22): mục tiêu không phải làm biểu đồ kịch tính mà là hiểu tác động của thiết kế.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "cohesion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (23).",
+          "options": [
+            {
+              "key": "A",
+              "text": "handling"
+            },
+            {
+              "key": "B",
+              "text": "handle"
+            },
+            {
+              "key": "C",
+              "text": "handles"
+            },
+            {
+              "key": "D",
+              "text": "handled"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau “are” cần quá khứ phân từ trong cấu trúc bị động “are handled”.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (23): các nhóm phải ghi lại cách các khoảng trống dữ liệu được xử lý.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "passive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (24).",
+          "options": [
+            {
+              "key": "A",
+              "text": "importance"
+            },
+            {
+              "key": "B",
+              "text": "important"
+            },
+            {
+              "key": "C",
+              "text": "importantly"
+            },
+            {
+              "key": "D",
+              "text": "more importance"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau “is especially” cần tính từ.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (24): phân biệt tương quan và nhân quả đặc biệt quan trọng.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (25).",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "or else"
+            },
+            {
+              "key": "C",
+              "text": "whereas"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hai thành phần song song “one finding and one limitation” được nối bằng “and”.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (25): mỗi nhóm viết một phát hiện và một giới hạn.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "cohesion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the second-life battery project note and complete each numbered blank.",
+      "source": "original",
+      "passage": "Second-Life Battery Project\n\nAn engineering club is testing whether used batteries from small electric devices can serve a second purpose before recycling. The project does not reuse damaged or swollen cells. Each battery is inspected, labeled, and measured before it -------(26)------- into a low-power storage pack. Cells whose condition is uncertain are set aside. The club keeps detailed records because two batteries that look similar may have performed very -------(27)------- during their first life. Students monitor temperature as well as stored energy so that a pack showing unusual behavior can be disconnected -------(28)-------. The team is careful not to describe second-life use as an alternative to recycling forever. Once capacity falls below a useful level, the cells must be both retired from service -------(29)------- sent for appropriate material recovery. The experiment instead asks whether some batteries can deliver useful service for longer, thereby -------(30)------- the need for new materials.",
+      "questions": [
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (26).",
+          "options": [
+            {
+              "key": "A",
+              "text": "places"
+            },
+            {
+              "key": "B",
+              "text": "placing"
+            },
+            {
+              "key": "C",
+              "text": "has place"
+            },
+            {
+              "key": "D",
+              "text": "is placed"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cần thể bị động vì pin “được đặt” vào bộ lưu trữ.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (26): mỗi pin được đo trước khi được đặt vào bộ lưu trữ công suất thấp.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "passive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (27).",
+          "options": [
+            {
+              "key": "A",
+              "text": "different"
+            },
+            {
+              "key": "B",
+              "text": "difference"
+            },
+            {
+              "key": "C",
+              "text": "differently"
+            },
+            {
+              "key": "D",
+              "text": "differ"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Động từ “performed” cần trạng từ “differently”.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (27): hai pin trông giống nhau có thể đã hoạt động rất khác trong vòng đời đầu.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (28).",
+          "options": [
+            {
+              "key": "A",
+              "text": "quick"
+            },
+            {
+              "key": "B",
+              "text": "quicker than"
+            },
+            {
+              "key": "C",
+              "text": "quickly"
+            },
+            {
+              "key": "D",
+              "text": "quickness"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau “can be disconnected” cần trạng từ chỉ cách thức.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (28): bộ pin có biểu hiện bất thường có thể được ngắt nhanh chóng.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (29).",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "but"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "whereas"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc “both ... and ...” nối hai cụm phân từ bị động song song: retired from service và sent for appropriate material recovery.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (29): khi dung lượng giảm xuống dưới mức hữu ích, các tế bào pin vừa phải ngừng sử dụng, vừa phải được chuyển đi để thu hồi vật liệu đúng cách.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "cohesion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (30).",
+          "options": [
+            {
+              "key": "A",
+              "text": "delaying"
+            },
+            {
+              "key": "B",
+              "text": "delay"
+            },
+            {
+              "key": "C",
+              "text": "delayed"
+            },
+            {
+              "key": "D",
+              "text": "to delaying"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau “thereby” dùng V-ing để chỉ kết quả, nên “delaying” đúng.",
+          "translation": "Chọn từ thích hợp cho chỗ trống (30): việc tái sử dụng có thể trì hoãn nhu cầu sử dụng vật liệu mới.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "participle"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "instructions": "Read the article about public cooling rooms and answer the questions.",
+      "source": "original",
+      "passage": "Cooling Rooms During Heat Waves\n\nDuring periods of extreme heat, one city opens several public buildings as daytime cooling rooms. Libraries and community centers already have seating, drinking water, and staff, so they can be adapted quickly. Yet simply naming a building on a website does not guarantee that residents can use it. Older adults may not travel far in high temperatures, and bus service may be less frequent in some neighborhoods.\n\nTo improve access, planners compared the locations of cooling rooms with population data and walking routes. They also asked residents what prevented them from using the service. Some people needed longer opening hours, while others wanted clearer signs at building entrances. The city then tested small changes rather than assuming one solution would fit every neighborhood.\n\nThe evaluation focused on both capacity and access. A large room with many empty seats could still perform poorly if the people most at risk could not reach it. Conversely, a smaller room near a dense residential area might serve more people than expected. The project therefore treats location, opening times, transport, and communication as parts of the cooling service itself.",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Why can public buildings be adapted quickly as cooling rooms?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are empty throughout every summer."
+            },
+            {
+              "key": "B",
+              "text": "They are all located beside major hospitals."
+            },
+            {
+              "key": "C",
+              "text": "They already provide basic facilities such as seating, water, and staff."
+            },
+            {
+              "key": "D",
+              "text": "They require no planning or staffing changes."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn đầu liệt kê ghế ngồi, nước uống và nhân viên là các điều kiện sẵn có.",
+          "translation": "Vì sao các tòa nhà công cộng có thể nhanh chóng được dùng làm phòng tránh nóng?",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What problem can remain even when a cooling room is listed online?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The building automatically becomes overcrowded."
+            },
+            {
+              "key": "B",
+              "text": "Some residents may still be unable to reach or use it."
+            },
+            {
+              "key": "C",
+              "text": "The city loses all population data."
+            },
+            {
+              "key": "D",
+              "text": "Libraries stop providing drinking water."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bài nhấn mạnh việc công bố địa điểm không bảo đảm khả năng tiếp cận thực tế.",
+          "translation": "Vấn đề nào vẫn có thể tồn tại dù phòng tránh nóng đã được đăng trực tuyến?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Why did planners ask residents about barriers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To replace all walking-route analysis with opinions"
+            },
+            {
+              "key": "B",
+              "text": "To decide which buildings should close permanently"
+            },
+            {
+              "key": "C",
+              "text": "To estimate the price of every bus ticket"
+            },
+            {
+              "key": "D",
+              "text": "To identify practical obstacles that location data alone might miss"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Phản hồi của cư dân cho thấy các trở ngại như giờ mở cửa và biển chỉ dẫn mà dữ liệu vị trí chưa thể hiện đầy đủ.",
+          "translation": "Vì sao nhà quy hoạch hỏi cư dân về các rào cản?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "method"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What does the comparison between large and small rooms demonstrate?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Capacity alone does not determine how well a cooling site serves people."
+            },
+            {
+              "key": "B",
+              "text": "Large rooms always serve fewer people than small rooms."
+            },
+            {
+              "key": "C",
+              "text": "Small rooms never need transport connections."
+            },
+            {
+              "key": "D",
+              "text": "Population density is irrelevant to public services."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn cuối cho thấy phòng lớn vẫn có thể hoạt động kém nếu khó tiếp cận, còn phòng nhỏ có thể phục vụ tốt nếu vị trí thuận lợi.",
+          "translation": "So sánh phòng lớn và nhỏ minh họa điều gì?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "argument"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which factor is treated as part of the cooling service itself?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only the number of air conditioners"
+            },
+            {
+              "key": "B",
+              "text": "Only the architectural age of the building"
+            },
+            {
+              "key": "C",
+              "text": "How easily people can reach and understand the service"
+            },
+            {
+              "key": "D",
+              "text": "Only the color of the entrance signs"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn cuối xem vị trí, giờ mở cửa, giao thông và truyền thông là thành phần của dịch vụ.",
+          "translation": "Yếu tố nào được xem là một phần của chính dịch vụ tránh nóng?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "synthesis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What is the main idea of the passage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Effective cooling rooms depend on accessibility as well as physical capacity."
+            },
+            {
+              "key": "B",
+              "text": "Cooling rooms should operate only in libraries."
+            },
+            {
+              "key": "C",
+              "text": "Publishing an online map is enough to ensure access."
+            },
+            {
+              "key": "D",
+              "text": "The largest available building is always the best choice."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Toàn bài nhấn mạnh dịch vụ phải xét cả khả năng chứa và khả năng người cần có thể tiếp cận.",
+          "translation": "Ý chính của bài đọc là gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the article about second-life batteries and answer the questions.",
+      "source": "original",
+      "passage": "A Second Life Before Recycling\n\nRechargeable batteries do not become useless at a single, predictable moment. Their capacity gradually declines, and the rate depends on temperature, charging habits, chemistry, and use. In some devices, a battery may be replaced when it can no longer meet demanding performance requirements even though it can still store energy. This has led engineers to explore “second-life” applications in which selected used batteries serve lower-power tasks before final recycling.\n\nSelection is crucial. A battery with physical damage or unstable behavior should not be reused merely because it still holds charge. Testing may include capacity, internal resistance, temperature response, and history where available. Cells with similar performance can then be grouped more safely. This process takes effort, which means second-life use is not automatically economical or environmentally beneficial in every case.\n\nThe environmental calculation is also broader than counting how many months a battery remains in service. Reuse may delay production of a replacement storage unit, but testing, transport, repackaging, and control electronics also consume resources. The best comparison therefore considers the full system. In some settings, direct recycling may be preferable. In others, a carefully managed second life may reduce demand for new materials for a useful period.\n\nResearchers are interested in standardization because reliable information about a battery’s first life could make later decisions easier. If manufacturers record consistent health data, second-life operators may spend less time reconstructing a battery’s history. However, standards cannot remove the need for physical inspection, because damage can occur after data are recorded.\n\nThe most defensible view is conditional: second-life batteries can be valuable when they are selected, monitored, and compared with realistic alternatives. The idea is promising precisely when its limits are treated as part of the design problem.",
+      "questions": [
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why might a battery be removed from its first device while still storing energy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rechargeable batteries stop working at the same fixed age."
+            },
+            {
+              "key": "B",
+              "text": "It may no longer meet that device’s demanding performance needs."
+            },
+            {
+              "key": "C",
+              "text": "Its chemistry automatically changes into a non-battery material."
+            },
+            {
+              "key": "D",
+              "text": "Recycling rules require replacement after one month."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn đầu nói thiết bị đòi hiệu suất cao có thể thay pin dù pin vẫn còn khả năng lưu trữ năng lượng.",
+          "translation": "Vì sao một pin có thể bị thay khỏi thiết bị đầu tiên dù vẫn lưu trữ được năng lượng?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What is the main purpose of testing used batteries before second-life use?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To guarantee that every used battery can be reused"
+            },
+            {
+              "key": "B",
+              "text": "To make physical damage irrelevant"
+            },
+            {
+              "key": "C",
+              "text": "To avoid measuring performance differences"
+            },
+            {
+              "key": "D",
+              "text": "To identify cells suitable for safe, lower-demand applications"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn hai nhấn mạnh lựa chọn và kiểm tra nhằm loại pin hư hỏng hoặc không ổn định và nhóm các cell phù hợp.",
+          "translation": "Mục đích chính của việc kiểm tra pin đã dùng trước khi tái sử dụng là gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "argument"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why is second-life use not automatically beneficial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Used batteries always contain less energy than disposable batteries."
+            },
+            {
+              "key": "B",
+              "text": "Recycling becomes impossible after a battery is reused."
+            },
+            {
+              "key": "C",
+              "text": "Transport has no environmental cost."
+            },
+            {
+              "key": "D",
+              "text": "Testing and repackaging also require resources and effort."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bài yêu cầu tính cả công kiểm tra, vận chuyển, đóng gói lại và thiết bị điều khiển.",
+          "translation": "Vì sao việc dùng pin cho vòng đời thứ hai không tự động có lợi?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "evaluation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What does “the full system” in paragraph 3 include?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only the number of months a battery remains in service"
+            },
+            {
+              "key": "B",
+              "text": "Benefits of reuse together with costs such as testing, transport, and repackaging"
+            },
+            {
+              "key": "C",
+              "text": "Only the price of a new battery cell"
+            },
+            {
+              "key": "D",
+              "text": "Only the energy stored in the original device"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ngữ cảnh yêu cầu so sánh toàn bộ lợi ích và chi phí tài nguyên của cả quy trình.",
+          "translation": "“The full system” trong đoạn 3 bao gồm điều gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 41,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "How could standardized battery health data help?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They could reduce the work needed to reconstruct a battery’s history."
+            },
+            {
+              "key": "B",
+              "text": "They could eliminate all physical inspections."
+            },
+            {
+              "key": "C",
+              "text": "They could prevent batteries from aging."
+            },
+            {
+              "key": "D",
+              "text": "They could make every battery chemically identical."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn bốn nói dữ liệu sức khỏe nhất quán giúp nhà vận hành vòng đời hai đỡ phải dựng lại lịch sử pin.",
+          "translation": "Dữ liệu sức khỏe pin được chuẩn hóa có thể giúp như thế nào?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 42,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What is the author’s overall position on second-life batteries?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They should always replace direct recycling."
+            },
+            {
+              "key": "B",
+              "text": "They are valuable only when testing is skipped."
+            },
+            {
+              "key": "C",
+              "text": "They can be useful when selection, monitoring, and realistic comparison are handled carefully."
+            },
+            {
+              "key": "D",
+              "text": "They are too risky to study under any conditions."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn cuối đưa ra quan điểm có điều kiện, nhấn mạnh lựa chọn, giám sát và so sánh thực tế.",
+          "translation": "Quan điểm tổng thể của tác giả về pin vòng đời thứ hai là gì?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the essay about open data and public decisions and answer the questions.",
+      "source": "original",
+      "passage": "When Open Data Meets Public Decisions\n\nPublishing public data can widen participation in local decision-making. Residents may inspect transport delays, tree inventories, budgets, or air-quality measurements without submitting formal requests. Journalists and researchers can reuse the same records for questions the original agency did not anticipate. Yet publication is only the first step. Data become genuinely usable when people can understand what the fields mean, how records were collected, and where important gaps remain.\n\nConsider a dataset listing complaints about damaged sidewalks. A map of complaint locations may appear to show where sidewalks are worst. But complaint data measure reports, not damage directly. A neighborhood with active reporting channels may generate many records, while another area with equal physical problems may generate few because residents do not know how to report them. Treating the map as a direct measure of infrastructure condition could therefore misdirect repairs.\n\nThis does not make complaint data worthless. It changes the questions they can answer. The records may reveal where reports concentrate, how quickly cases are resolved, or whether some types of complaints remain open longer. Combined with systematic street inspections, they can contribute to a stronger picture. The important step is to distinguish the process that creates the data from the phenomenon people hope to understand.\n\nDocumentation helps, but communication also matters. A technically accurate note hidden in a long manual may not reach a resident viewing a chart on a phone. Some agencies now place short explanations beside visualizations, link to fuller methods, and publish examples of appropriate and inappropriate interpretations. These layers serve different readers without pretending that complex evidence can be reduced to a slogan.\n\nOpen data can also expose uncertainty that institutions once kept internal. Missing records, revised definitions, and measurement changes become visible. This may initially make a dataset look less authoritative. In practice, acknowledging these issues can increase trust because users can see how conclusions were reached and where caution is needed.\n\nPublic decisions still require judgment. Data can inform where to investigate, which questions deserve attention, and how outcomes change over time. They cannot decide by themselves which goals a community should prioritize. Openness is most valuable when it supports better questions, clearer reasoning, and the ability to challenge an interpretation with evidence.",
+      "questions": [
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "According to paragraph 1, what is needed beyond simply publishing data?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A rule preventing journalists from reusing records"
+            },
+            {
+              "key": "B",
+              "text": "Removal of all incomplete datasets"
+            },
+            {
+              "key": "C",
+              "text": "Clear information about meanings, collection methods, and gaps"
+            },
+            {
+              "key": "D",
+              "text": "A guarantee that every user reaches the same conclusion"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn đầu nói dữ liệu thực sự dùng được khi người dùng hiểu trường dữ liệu, cách thu thập và khoảng trống.",
+          "translation": "Theo đoạn 1, ngoài việc công bố dữ liệu còn cần điều gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why can a complaint map misrepresent sidewalk condition?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every complaint is automatically false."
+            },
+            {
+              "key": "B",
+              "text": "Reporting activity varies, so complaint counts are not direct measurements of damage."
+            },
+            {
+              "key": "C",
+              "text": "Sidewalk damage cannot be mapped under any circumstances."
+            },
+            {
+              "key": "D",
+              "text": "All neighborhoods use identical reporting channels."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn hai phân biệt số báo cáo với mức hư hỏng thực tế và nêu sự khác nhau về hoạt động báo cáo.",
+          "translation": "Vì sao bản đồ khiếu nại có thể phản ánh sai tình trạng vỉa hè?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What does the author suggest complaint data can still reveal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The exact physical condition of every sidewalk without inspection"
+            },
+            {
+              "key": "B",
+              "text": "Which neighborhood deserves the largest budget by itself"
+            },
+            {
+              "key": "C",
+              "text": "The private motives of every person who submits a report"
+            },
+            {
+              "key": "D",
+              "text": "Patterns in reporting and case resolution"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn ba nêu các câu hỏi phù hợp hơn như nơi tập trung báo cáo, tốc độ xử lý và loại vụ việc kéo dài.",
+          "translation": "Tác giả cho rằng dữ liệu khiếu nại vẫn có thể cho biết điều gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 46,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why are systematic street inspections mentioned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They make documentation unnecessary."
+            },
+            {
+              "key": "B",
+              "text": "They can complement complaint records with a different kind of evidence."
+            },
+            {
+              "key": "C",
+              "text": "They prove complaint data should be deleted."
+            },
+            {
+              "key": "D",
+              "text": "They are generated by the same reporting process as complaints."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bài đề xuất kết hợp khiếu nại với khảo sát đường phố có hệ thống để tạo bức tranh mạnh hơn.",
+          "translation": "Vì sao bài nhắc đến việc kiểm tra đường phố có hệ thống?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "synthesis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 47,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What problem does paragraph 4 identify with technical documentation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Technical notes always contain false measurements."
+            },
+            {
+              "key": "B",
+              "text": "Accurate information may be ineffective if users cannot easily find or understand it."
+            },
+            {
+              "key": "C",
+              "text": "Mobile users are unable to read any chart."
+            },
+            {
+              "key": "D",
+              "text": "Methods should never be published beside visualizations."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn bốn nói ghi chú đúng nhưng bị chôn trong tài liệu dài có thể không đến được người đang xem biểu đồ.",
+          "translation": "Đoạn 4 chỉ ra vấn đề gì với tài liệu kỹ thuật?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "argument"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 48,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "How can acknowledging uncertainty increase trust?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It guarantees that no future revision will be needed."
+            },
+            {
+              "key": "B",
+              "text": "It hides missing records from public view."
+            },
+            {
+              "key": "C",
+              "text": "It lets users see limitations and understand how conclusions were reached."
+            },
+            {
+              "key": "D",
+              "text": "It makes all interpretations equally correct."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn năm cho rằng công khai thiếu dữ liệu, thay đổi định nghĩa và mức thận trọng có thể làm quá trình minh bạch hơn.",
+          "translation": "Việc thừa nhận bất định có thể tăng niềm tin như thế nào?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "evaluation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 49,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What can data do in public decisions according to the final paragraph?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Inform investigation and track change without choosing community goals by itself"
+            },
+            {
+              "key": "B",
+              "text": "Automatically decide which goals are morally best"
+            },
+            {
+              "key": "C",
+              "text": "Replace public judgment in every policy choice"
+            },
+            {
+              "key": "D",
+              "text": "Prevent people from challenging official interpretations"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn cuối giới hạn vai trò của dữ liệu ở việc cung cấp thông tin, đặt câu hỏi và theo dõi thay đổi, không tự chọn mục tiêu.",
+          "translation": "Theo đoạn cuối, dữ liệu có thể làm gì trong quyết định công?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 50,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What is the main idea of the passage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Open data are most useful when their production, limits, and interpretation are made clear."
+            },
+            {
+              "key": "B",
+              "text": "Publishing raw files alone guarantees fair public decisions."
+            },
+            {
+              "key": "C",
+              "text": "Complaint records are unsuitable for any form of analysis."
+            },
+            {
+              "key": "D",
+              "text": "Public agencies should avoid showing uncertainty in datasets."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Toàn bài nhấn mạnh công khai phải đi cùng hiểu quy trình tạo dữ liệu, giới hạn và cách diễn giải.",
+          "translation": "Ý chính của bài đọc là gì?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

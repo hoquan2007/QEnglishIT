@@ -1,6 +1,7 @@
 [
  {
   "slug": "present-simple",
+  "source": "original",
   "title": "Present Simple",
   "title_vi": "Thì hiện tại đơn",
   "level": "450",
@@ -180,6 +181,102 @@
     ],
     "correct_answer": "D",
     "explanation": "'the museum' là số ít, câu hỏi hiện tại đơn dùng Does."
+   },
+   {
+    "question_text": "The bakery across from the station ------- fresh bread before sunrise each day.",
+    "options": [
+     {
+      "key": "A",
+      "text": "sells"
+     },
+     {
+      "key": "B",
+      "text": "selling"
+     },
+     {
+      "key": "C",
+      "text": "sold"
+     },
+     {
+      "key": "D",
+      "text": "has sold"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Cụm each day chỉ thói quen, chủ ngữ số ít the bakery nên dùng sells.",
+    "translation": "Tiệm bánh đối diện nhà ga bán bánh mì mới nướng trước lúc mặt trời mọc mỗi ngày."
+   },
+   {
+    "question_text": "Our internship coordinator ------- attendance every Friday afternoon.",
+    "options": [
+     {
+      "key": "A",
+      "text": "check"
+     },
+     {
+      "key": "B",
+      "text": "checks"
+     },
+     {
+      "key": "C",
+      "text": "checking"
+     },
+     {
+      "key": "D",
+      "text": "is check"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Every Friday afternoon diễn tả việc lặp lại, coordinator số ít nên động từ thêm -s.",
+    "translation": "Điều phối viên thực tập của chúng tôi kiểm tra điểm danh mỗi chiều thứ Sáu."
+   },
+   {
+    "question_text": "The technicians never ------- confidential records on personal devices.",
+    "options": [
+     {
+      "key": "A",
+      "text": "stores"
+     },
+     {
+      "key": "B",
+      "text": "storing"
+     },
+     {
+      "key": "C",
+      "text": "store"
+     },
+     {
+      "key": "D",
+      "text": "stored"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Chủ ngữ technicians số nhiều và trạng từ never diễn tả thói quen nên dùng động từ nguyên mẫu store.",
+    "translation": "Các kỹ thuật viên không bao giờ lưu hồ sơ mật trên thiết bị cá nhân."
+   },
+   {
+    "question_text": "------- your branch close earlier on public holidays?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Is"
+     },
+     {
+      "key": "B",
+      "text": "Are"
+     },
+     {
+      "key": "C",
+      "text": "Do"
+     },
+     {
+      "key": "D",
+      "text": "Does"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Câu hỏi hiện tại đơn với chủ ngữ số ít your branch cần trợ động từ Does.",
+    "translation": "Chi nhánh của bạn có đóng cửa sớm hơn vào các ngày lễ không?"
    }
   ],
   "quiz": [
@@ -366,11 +463,60 @@
     ],
     "correct_answer": "C",
     "explanation": "Mệnh đề if loại 1 dùng hiện tại đơn: is."
+   },
+   {
+    "question_text": "The monthly newsletter ------- advice for first-time investors.",
+    "options": [
+     {
+      "key": "A",
+      "text": "contains"
+     },
+     {
+      "key": "B",
+      "text": "contain"
+     },
+     {
+      "key": "C",
+      "text": "containing"
+     },
+     {
+      "key": "D",
+      "text": "is contain"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Newsletter là danh từ số ít, hành động thường xuyên nên dùng contains.",
+    "translation": "Bản tin hằng tháng cung cấp lời khuyên cho người mới đầu tư."
+   },
+   {
+    "question_text": "Whenever the alarm sounds, the security team ------- the entrances.",
+    "options": [
+     {
+      "key": "A",
+      "text": "inspect"
+     },
+     {
+      "key": "B",
+      "text": "inspects"
+     },
+     {
+      "key": "C",
+      "text": "inspecting"
+     },
+     {
+      "key": "D",
+      "text": "is inspect"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Whenever chỉ thói quen lặp lại, security team được xem là một đơn vị số ít nên dùng inspects.",
+    "translation": "Mỗi khi chuông báo động vang lên, đội an ninh kiểm tra các lối vào."
    }
   ]
  },
  {
   "slug": "present-continuous",
+  "source": "original",
   "title": "Present Continuous",
   "title_vi": "Thì hiện tại tiếp diễn",
   "level": "450",
@@ -550,6 +696,102 @@
     ],
     "correct_answer": "B",
     "explanation": "need là động từ trạng thái, không dùng tiếp diễn; chủ ngữ we nên need."
+   },
+   {
+    "question_text": "The librarians ------- the reference shelves right now.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are reorganizing"
+     },
+     {
+      "key": "B",
+      "text": "reorganized"
+     },
+     {
+      "key": "C",
+      "text": "reorganize"
+     },
+     {
+      "key": "D",
+      "text": "reorganizes"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Right now cho biết hành động đang diễn ra, chủ ngữ số nhiều nên dùng are reorganizing.",
+    "translation": "Các thủ thư đang sắp xếp lại kệ tài liệu tham khảo ngay lúc này."
+   },
+   {
+    "question_text": "Our finance director ------- from the regional office this week.",
+    "options": [
+     {
+      "key": "A",
+      "text": "works"
+     },
+     {
+      "key": "B",
+      "text": "is working"
+     },
+     {
+      "key": "C",
+      "text": "worked"
+     },
+     {
+      "key": "D",
+      "text": "has work"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "This week diễn tả công việc tạm thời đang diễn ra nên dùng is working.",
+    "translation": "Giám đốc tài chính của chúng tôi đang làm việc tại văn phòng khu vực trong tuần này."
+   },
+   {
+    "question_text": "The engineers ------- the ventilation system at present.",
+    "options": [
+     {
+      "key": "A",
+      "text": "tests"
+     },
+     {
+      "key": "B",
+      "text": "tested"
+     },
+     {
+      "key": "C",
+      "text": "are testing"
+     },
+     {
+      "key": "D",
+      "text": "test"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "At present chỉ hành động đang diễn ra, engineers số nhiều nên dùng are testing.",
+    "translation": "Các kỹ sư đang kiểm tra hệ thống thông gió lúc này."
+   },
+   {
+    "question_text": "Why ------- the assistant waiting outside the interview room?",
+    "options": [
+     {
+      "key": "A",
+      "text": "does"
+     },
+     {
+      "key": "B",
+      "text": "has"
+     },
+     {
+      "key": "C",
+      "text": "are"
+     },
+     {
+      "key": "D",
+      "text": "is"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Câu hỏi hiện tại tiếp diễn có chủ ngữ số ít the assistant cần trợ động từ is trước waiting.",
+    "translation": "Tại sao người trợ lý đang đợi bên ngoài phòng phỏng vấn?"
    }
   ],
   "quiz": [
@@ -597,7 +839,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "'right now' → is preparing."
+    "explanation": "Cụm 'right now' diễn tả hành động đang xảy ra ở hiện tại. Chủ ngữ 'the restaurant' số ít nên dùng 'is preparing'."
    },
    {
     "question_text": "Look! The delivery truck ------- at the loading dock.",
@@ -689,7 +931,7 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "They + are + V-ing."
+    "explanation": "Chủ ngữ 'They' là số nhiều. Thì hiện tại tiếp diễn dùng 'are + V-ing', vì vậy đáp án đúng là 'are discussing'."
    },
    {
     "question_text": "Ms. Alvarez ------- in the finance department these days.",
@@ -736,11 +978,60 @@
     ],
     "correct_answer": "B",
     "explanation": "Câu phủ định tiếp diễn cần is not working; chủ ngữ số ít."
+   },
+   {
+    "question_text": "They ------- customer feedback while the trial is underway.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are collecting"
+     },
+     {
+      "key": "B",
+      "text": "collected"
+     },
+     {
+      "key": "C",
+      "text": "collects"
+     },
+     {
+      "key": "D",
+      "text": "have collect"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "While the trial is underway nêu tình huống hiện đang diễn ra, nên dùng are collecting.",
+    "translation": "Họ đang thu thập phản hồi khách hàng trong lúc giai đoạn thử nghiệm diễn ra."
+   },
+   {
+    "question_text": "The reception desk ------- walk-in appointments this morning because the online system is down.",
+    "options": [
+     {
+      "key": "A",
+      "text": "accepts"
+     },
+     {
+      "key": "B",
+      "text": "is accepting"
+     },
+     {
+      "key": "C",
+      "text": "accept"
+     },
+     {
+      "key": "D",
+      "text": "was accepted"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hệ thống đang gặp sự cố trong buổi sáng hiện tại nên dùng hiện tại tiếp diễn is accepting.",
+    "translation": "Bộ phận lễ tân đang tiếp nhận các cuộc hẹn trực tiếp sáng nay vì hệ thống trực tuyến bị lỗi."
    }
   ]
  },
  {
   "slug": "present-perfect",
+  "source": "original",
   "title": "Present Perfect",
   "title_vi": "Thì hiện tại hoàn thành",
   "level": "600",
@@ -920,6 +1211,102 @@
     ],
     "correct_answer": "A",
     "explanation": "'last month' là mốc đã kết thúc → quá khứ đơn: installed."
+   },
+   {
+    "question_text": "The research unit ------- five pilot studies since January.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has completed"
+     },
+     {
+      "key": "B",
+      "text": "completed"
+     },
+     {
+      "key": "C",
+      "text": "is completing"
+     },
+     {
+      "key": "D",
+      "text": "completes"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Since January chỉ khoảng thời gian kéo dài tới hiện tại, nên dùng has completed.",
+    "translation": "Đơn vị nghiên cứu đã hoàn thành năm nghiên cứu thí điểm kể từ tháng Một."
+   },
+   {
+    "question_text": "Our legal advisors ------- the revised terms yet.",
+    "options": [
+     {
+      "key": "A",
+      "text": "didn't approve"
+     },
+     {
+      "key": "B",
+      "text": "haven't approved"
+     },
+     {
+      "key": "C",
+      "text": "don't approve"
+     },
+     {
+      "key": "D",
+      "text": "aren't approving"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Yet ở cuối câu phủ định thường đi với hiện tại hoàn thành, advisors số nhiều nên dùng haven't approved.",
+    "translation": "Các cố vấn pháp lý của chúng tôi vẫn chưa phê duyệt những điều khoản đã sửa đổi."
+   },
+   {
+    "question_text": "------- you ever visited the company's research center?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Did"
+     },
+     {
+      "key": "B",
+      "text": "Do"
+     },
+     {
+      "key": "C",
+      "text": "Have"
+     },
+     {
+      "key": "D",
+      "text": "Are"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ever cùng quá khứ phân từ visited trong câu hỏi trải nghiệm cần Have.",
+    "translation": "Bạn đã từng đến trung tâm nghiên cứu của công ty chưa?"
+   },
+   {
+    "question_text": "The exchange rate ------- steadily over the last several weeks.",
+    "options": [
+     {
+      "key": "A",
+      "text": "rises"
+     },
+     {
+      "key": "B",
+      "text": "rose"
+     },
+     {
+      "key": "C",
+      "text": "is rising"
+     },
+     {
+      "key": "D",
+      "text": "has risen"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Over the last several weeks nối khoảng thời gian quá khứ với hiện tại nên dùng has risen.",
+    "translation": "Tỷ giá hối đoái đã tăng đều trong vài tuần qua."
    }
   ],
   "quiz": [
@@ -990,7 +1377,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "Has + S + V3: submitted."
+    "explanation": "Câu hỏi hiện tại hoàn thành có cấu trúc 'Has + chủ ngữ + V3'. 'Submitted' là quá khứ phân từ phù hợp."
    },
    {
     "question_text": "The price of fuel ------- sharply over the past six months.",
@@ -1013,7 +1400,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "'over the past six months' → has risen (rise–rose–risen)."
+    "explanation": "Cụm 'over the past six months' chỉ khoảng thời gian kéo dài đến hiện tại nên dùng 'has risen'. Động từ 'rise' có ba dạng 'rise – rose – risen'."
    },
    {
     "question_text": "I ------- the Johnson contract already; it is on your desk.",
@@ -1106,11 +1493,60 @@
     ],
     "correct_answer": "A",
     "explanation": "Có mốc 'in 2019' đã qua → quá khứ đơn: chose."
+   },
+   {
+    "question_text": "She ------- three certification exams so far this year.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has passed"
+     },
+     {
+      "key": "B",
+      "text": "passed"
+     },
+     {
+      "key": "C",
+      "text": "is passing"
+     },
+     {
+      "key": "D",
+      "text": "passes"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "So far this year là dấu hiệu hiện tại hoàn thành, chủ ngữ She đi với has passed.",
+    "translation": "Cô ấy đã vượt qua ba kỳ thi chứng chỉ tính đến thời điểm này của năm."
+   },
+   {
+    "question_text": "We ------- any updates from the carrier since Monday.",
+    "options": [
+     {
+      "key": "A",
+      "text": "didn't receive"
+     },
+     {
+      "key": "B",
+      "text": "haven't received"
+     },
+     {
+      "key": "C",
+      "text": "don't receive"
+     },
+     {
+      "key": "D",
+      "text": "aren't receiving"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Since Monday yêu cầu hiện tại hoàn thành phủ định, dùng haven't received.",
+    "translation": "Chúng tôi chưa nhận được thông tin cập nhật nào từ đơn vị vận chuyển kể từ thứ Hai."
    }
   ]
  },
  {
   "slug": "past-simple",
+  "source": "original",
   "title": "Past Simple",
   "title_vi": "Thì quá khứ đơn",
   "level": "450",
@@ -1290,6 +1726,102 @@
     ],
     "correct_answer": "D",
     "explanation": "Phủ định quá khứ đơn dùng did not."
+   },
+   {
+    "question_text": "The warehouse ------- its security cameras in March 2022.",
+    "options": [
+     {
+      "key": "A",
+      "text": "replaced"
+     },
+     {
+      "key": "B",
+      "text": "replaces"
+     },
+     {
+      "key": "C",
+      "text": "replacing"
+     },
+     {
+      "key": "D",
+      "text": "has replaced"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "In March 2022 là mốc quá khứ đã kết thúc nên dùng replaced.",
+    "translation": "Nhà kho đã thay các camera an ninh vào tháng Ba năm 2022."
+   },
+   {
+    "question_text": "The auditor ------- at the branch yesterday afternoon.",
+    "options": [
+     {
+      "key": "A",
+      "text": "arrive"
+     },
+     {
+      "key": "B",
+      "text": "arrived"
+     },
+     {
+      "key": "C",
+      "text": "arriving"
+     },
+     {
+      "key": "D",
+      "text": "has arrived"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Yesterday afternoon là dấu hiệu quá khứ đơn nên dùng arrived.",
+    "translation": "Kiểm toán viên đã đến chi nhánh vào chiều hôm qua."
+   },
+   {
+    "question_text": "Where ------- the delegates stay during last month's summit?",
+    "options": [
+     {
+      "key": "A",
+      "text": "do"
+     },
+     {
+      "key": "B",
+      "text": "are"
+     },
+     {
+      "key": "C",
+      "text": "did"
+     },
+     {
+      "key": "D",
+      "text": "have"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Last month's summit là sự kiện trong quá khứ, câu hỏi cần did và động từ stay nguyên mẫu.",
+    "translation": "Các đại biểu đã lưu trú ở đâu trong hội nghị thượng đỉnh tháng trước?"
+   },
+   {
+    "question_text": "The facilities team ------- the air conditioners two weeks ago.",
+    "options": [
+     {
+      "key": "A",
+      "text": "services"
+     },
+     {
+      "key": "B",
+      "text": "has serviced"
+     },
+     {
+      "key": "C",
+      "text": "is servicing"
+     },
+     {
+      "key": "D",
+      "text": "serviced"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Two weeks ago là mốc quá khứ xác định, động từ chia serviced.",
+    "translation": "Bộ phận cơ sở vật chất đã bảo dưỡng máy điều hòa cách đây hai tuần."
    }
   ],
   "quiz": [
@@ -1360,7 +1892,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "'last month' → signed."
+    "explanation": "Dấu hiệu 'last month' chỉ thời điểm quá khứ đã kết thúc, vì vậy động từ 'sign' chia quá khứ đơn thành 'signed'."
    },
    {
     "question_text": "How much ------- the new printers cost?",
@@ -1406,7 +1938,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "'last quarter' → worked."
+    "explanation": "Cụm 'last quarter' là mốc thời gian quá khứ, nên dùng động từ quá khứ đơn 'worked'."
    },
    {
     "question_text": "Mr. Singh ------- the company in 2015 and became its director.",
@@ -1429,7 +1961,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "'in 2015' → joined."
+    "explanation": "Mốc thời gian 'in 2015' đã kết thúc, nên động từ 'join' phải ở dạng quá khứ đơn 'joined'."
    },
    {
     "question_text": "The audit ------- not completed on time because of missing records.",
@@ -1476,11 +2008,60 @@
     ],
     "correct_answer": "C",
     "explanation": "Chuỗi hành động quá khứ: delivered."
+   },
+   {
+    "question_text": "The organization ------- a new training center in 2018.",
+    "options": [
+     {
+      "key": "A",
+      "text": "opened"
+     },
+     {
+      "key": "B",
+      "text": "has opened"
+     },
+     {
+      "key": "C",
+      "text": "opens"
+     },
+     {
+      "key": "D",
+      "text": "opening"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "In 2018 là mốc thời gian quá khứ cụ thể nên chọn opened.",
+    "translation": "Tổ chức đã khai trương một trung tâm đào tạo mới vào năm 2018."
+   },
+   {
+    "question_text": "Ms. Nguyen ------- the contract before lunch yesterday.",
+    "options": [
+     {
+      "key": "A",
+      "text": "signs"
+     },
+     {
+      "key": "B",
+      "text": "signed"
+     },
+     {
+      "key": "C",
+      "text": "has signed"
+     },
+     {
+      "key": "D",
+      "text": "was signing"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Yesterday xác định thời điểm quá khứ và hành động ký đã hoàn tất, nên dùng signed.",
+    "translation": "Bà Nguyên đã ký hợp đồng trước bữa trưa hôm qua."
    }
   ]
  },
  {
   "slug": "past-continuous",
+  "source": "original",
   "title": "Past Continuous",
   "title_vi": "Thì quá khứ tiếp diễn",
   "level": "600",
@@ -1660,6 +2241,102 @@
     ],
     "correct_answer": "C",
     "explanation": "while nối hai hành động song song."
+   },
+   {
+    "question_text": "At 6:30 yesterday evening, the designers ------- the exhibition boards.",
+    "options": [
+     {
+      "key": "A",
+      "text": "were arranging"
+     },
+     {
+      "key": "B",
+      "text": "arrange"
+     },
+     {
+      "key": "C",
+      "text": "have arranged"
+     },
+     {
+      "key": "D",
+      "text": "are arranging"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "At 6:30 yesterday evening chỉ thời điểm hành động đang diễn ra trong quá khứ, nên dùng were arranging.",
+    "translation": "Lúc 6 giờ 30 tối hôm qua, các nhà thiết kế đang bố trí các bảng trưng bày."
+   },
+   {
+    "question_text": "The lights flickered while our presenter ------- the slides.",
+    "options": [
+     {
+      "key": "A",
+      "text": "explains"
+     },
+     {
+      "key": "B",
+      "text": "was explaining"
+     },
+     {
+      "key": "C",
+      "text": "has explained"
+     },
+     {
+      "key": "D",
+      "text": "explain"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "While diễn tả hành động đang tiếp diễn bị chen ngang, presenter số ít dùng was explaining.",
+    "translation": "Đèn chập chờn khi người thuyết trình của chúng tôi đang giải thích các trang trình chiếu."
+   },
+   {
+    "question_text": "What ------- the delivery drivers doing when the storm began?",
+    "options": [
+     {
+      "key": "A",
+      "text": "was"
+     },
+     {
+      "key": "B",
+      "text": "did"
+     },
+     {
+      "key": "C",
+      "text": "were"
+     },
+     {
+      "key": "D",
+      "text": "are"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Drivers số nhiều, cấu trúc quá khứ tiếp diễn trong câu hỏi là were ... doing.",
+    "translation": "Các tài xế giao hàng đang làm gì khi cơn bão bắt đầu?"
+   },
+   {
+    "question_text": "I saw the director while she ------- to the press.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has spoken"
+     },
+     {
+      "key": "B",
+      "text": "speaks"
+     },
+     {
+      "key": "C",
+      "text": "spoke"
+     },
+     {
+      "key": "D",
+      "text": "was speaking"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "While she diễn tả hành động đang diễn ra vào lúc tôi nhìn thấy, nên dùng was speaking.",
+    "translation": "Tôi nhìn thấy giám đốc khi bà ấy đang phát biểu trước báo chí."
    }
   ],
   "quiz": [
@@ -1846,11 +2523,60 @@
     ],
     "correct_answer": "D",
     "explanation": "Quá khứ tiếp diễn, chủ ngữ it: was raining."
+   },
+   {
+    "question_text": "The printers ------- continuously when the technician arrived.",
+    "options": [
+     {
+      "key": "A",
+      "text": "were running"
+     },
+     {
+      "key": "B",
+      "text": "run"
+     },
+     {
+      "key": "C",
+      "text": "have run"
+     },
+     {
+      "key": "D",
+      "text": "are running"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Hành động máy in chạy đang tiếp diễn khi kỹ thuật viên đến, nên dùng were running.",
+    "translation": "Các máy in đang chạy liên tục khi kỹ thuật viên đến."
+   },
+   {
+    "question_text": "While the children were boarding the bus, the guide ------- their names.",
+    "options": [
+     {
+      "key": "A",
+      "text": "checks"
+     },
+     {
+      "key": "B",
+      "text": "was checking"
+     },
+     {
+      "key": "C",
+      "text": "has checked"
+     },
+     {
+      "key": "D",
+      "text": "check"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hai hành động đang diễn ra đồng thời trong quá khứ, nên dùng was checking.",
+    "translation": "Trong lúc bọn trẻ đang lên xe buýt, hướng dẫn viên đang kiểm tra tên của các em."
    }
   ]
  },
  {
   "slug": "past-perfect",
+  "source": "original",
   "title": "Past Perfect",
   "title_vi": "Thì quá khứ hoàn thành",
   "level": "600",
@@ -1983,7 +2709,7 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "Had already left: had + V3."
+    "explanation": "Tàu đã rời ga trước lúc chúng tôi đến nên dùng quá khứ hoàn thành 'had already left', theo công thức 'had + V3'."
    },
    {
     "question_text": "After the committee ------- the proposal, it announced its decision.",
@@ -2030,6 +2756,102 @@
     ],
     "correct_answer": "B",
     "explanation": "by + mốc quá khứ → had opened."
+   },
+   {
+    "question_text": "By noon yesterday, the restaurant ------- all its reserved tables for the gala.",
+    "options": [
+     {
+      "key": "A",
+      "text": "had prepared"
+     },
+     {
+      "key": "B",
+      "text": "prepares"
+     },
+     {
+      "key": "C",
+      "text": "has prepared"
+     },
+     {
+      "key": "D",
+      "text": "prepare"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "By noon yesterday là hạn chót trong quá khứ nên diễn tả việc đã hoàn tất trước mốc này bằng had prepared.",
+    "translation": "Đến trưa hôm qua, nhà hàng đã chuẩn bị xong tất cả các bàn được đặt cho buổi dạ tiệc."
+   },
+   {
+    "question_text": "The shipment had already ------- before the customer canceled the order.",
+    "options": [
+     {
+      "key": "A",
+      "text": "leaves"
+     },
+     {
+      "key": "B",
+      "text": "left"
+     },
+     {
+      "key": "C",
+      "text": "leaving"
+     },
+     {
+      "key": "D",
+      "text": "leave"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Sau had already phải dùng quá khứ phân từ, left là dạng phân từ của leave.",
+    "translation": "Lô hàng đã rời đi trước khi khách hàng hủy đơn đặt hàng."
+   },
+   {
+    "question_text": "When the interview began, the candidate ------- her portfolio on the desk.",
+    "options": [
+     {
+      "key": "A",
+      "text": "puts"
+     },
+     {
+      "key": "B",
+      "text": "has put"
+     },
+     {
+      "key": "C",
+      "text": "had placed"
+     },
+     {
+      "key": "D",
+      "text": "is placing"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Việc đặt hồ sơ xảy ra trước khi buổi phỏng vấn bắt đầu nên dùng had placed.",
+    "translation": "Khi buổi phỏng vấn bắt đầu, ứng viên đã đặt hồ sơ năng lực lên bàn."
+   },
+   {
+    "question_text": "The engineer discovered that someone ------- the backup files the previous night.",
+    "options": [
+     {
+      "key": "A",
+      "text": "deletes"
+     },
+     {
+      "key": "B",
+      "text": "was deleting"
+     },
+     {
+      "key": "C",
+      "text": "has deleted"
+     },
+     {
+      "key": "D",
+      "text": "had deleted"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "The previous night là thời điểm trước hành động discovered trong quá khứ nên dùng had deleted.",
+    "translation": "Kỹ sư phát hiện ai đó đã xóa các tệp sao lưu vào đêm hôm trước."
    }
   ],
   "quiz": [
@@ -2100,7 +2922,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "had + V3; sell–sold–sold."
+    "explanation": "Sau trợ động từ 'had' trong thì quá khứ hoàn thành phải dùng V3. Động từ 'sell' có ba dạng 'sell – sold – sold', nên chọn 'sold'."
    },
    {
     "question_text": "The manager asked whether we ------- the report.",
@@ -2216,11 +3038,60 @@
     ],
     "correct_answer": "B",
     "explanation": "fall–fell–fallen; mốc quá khứ 'launched' → had fallen."
+   },
+   {
+    "question_text": "After the committee ------- the bids, it selected a contractor.",
+    "options": [
+     {
+      "key": "A",
+      "text": "had compared"
+     },
+     {
+      "key": "B",
+      "text": "compares"
+     },
+     {
+      "key": "C",
+      "text": "has compared"
+     },
+     {
+      "key": "D",
+      "text": "is comparing"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Hành động so sánh hồ sơ thầu hoàn tất trước khi lựa chọn nhà thầu, nên dùng had compared.",
+    "translation": "Sau khi hội đồng đã so sánh các hồ sơ dự thầu, họ chọn một nhà thầu."
+   },
+   {
+    "question_text": "We realized that the old access code ------- expired before our visit.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has"
+     },
+     {
+      "key": "B",
+      "text": "had"
+     },
+     {
+      "key": "C",
+      "text": "was"
+     },
+     {
+      "key": "D",
+      "text": "is"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Mã truy cập hết hạn trước thời điểm chúng tôi nhận ra, nên dùng had expired.",
+    "translation": "Chúng tôi nhận ra rằng mã truy cập cũ đã hết hạn trước chuyến thăm của mình."
    }
   ]
  },
  {
   "slug": "future-forms",
+  "source": "original",
   "title": "Future Forms (will / be going to)",
   "title_vi": "Các cách diễn tả tương lai (will / be going to)",
   "level": "450",
@@ -2284,7 +3155,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "'tomorrow' → will announce."
+    "explanation": "Trạng từ 'tomorrow' chỉ thời gian tương lai nên dùng 'will announce' để nói việc người quản lý sẽ công bố kết quả."
    },
    {
     "question_text": "If the delivery ------- late, we will ask for a refund.",
@@ -2400,6 +3271,102 @@
     ],
     "correct_answer": "A",
     "explanation": "Lời hứa → will let."
+   },
+   {
+    "question_text": "The forecast predicts heavy rain, so the festival organizers ------- the outdoor stage.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are going to cover"
+     },
+     {
+      "key": "B",
+      "text": "cover"
+     },
+     {
+      "key": "C",
+      "text": "covered"
+     },
+     {
+      "key": "D",
+      "text": "have covered"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Dự báo thời tiết là căn cứ cho kế hoạch sắp thực hiện, nên dùng are going to cover.",
+    "translation": "Dự báo cho biết sẽ có mưa lớn nên ban tổ chức lễ hội sẽ che phủ sân khấu ngoài trời."
+   },
+   {
+    "question_text": "I think the new payment system ------- transaction times significantly.",
+    "options": [
+     {
+      "key": "A",
+      "text": "reduced"
+     },
+     {
+      "key": "B",
+      "text": "will reduce"
+     },
+     {
+      "key": "C",
+      "text": "has reduced"
+     },
+     {
+      "key": "D",
+      "text": "reducing"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "I think nêu dự đoán cho tương lai, vì vậy chọn will reduce.",
+    "translation": "Tôi nghĩ hệ thống thanh toán mới sẽ giảm đáng kể thời gian giao dịch."
+   },
+   {
+    "question_text": "Look at those dark clouds. It ------- soon.",
+    "options": [
+     {
+      "key": "A",
+      "text": "rains"
+     },
+     {
+      "key": "B",
+      "text": "rained"
+     },
+     {
+      "key": "C",
+      "text": "is going to rain"
+     },
+     {
+      "key": "D",
+      "text": "has rained"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Đám mây đen là bằng chứng hiện tại về một việc sắp xảy ra, nên dùng is going to rain.",
+    "translation": "Nhìn những đám mây đen kia kìa. Trời sắp mưa rồi."
+   },
+   {
+    "question_text": "Please leave your contact details, and our coordinator ------- you tomorrow.",
+    "options": [
+     {
+      "key": "A",
+      "text": "contacted"
+     },
+     {
+      "key": "B",
+      "text": "contacting"
+     },
+     {
+      "key": "C",
+      "text": "contacts"
+     },
+     {
+      "key": "D",
+      "text": "will contact"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Tomorrow nói đến hành động trong tương lai, will contact diễn tả lời hứa liên hệ.",
+    "translation": "Vui lòng để lại thông tin liên lạc và điều phối viên của chúng tôi sẽ liên hệ với bạn vào ngày mai."
    }
   ],
   "quiz": [
@@ -2585,12 +3552,61 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "be about to + V: to depart."
+    "explanation": "Cấu trúc 'be about to + động từ nguyên mẫu' diễn tả việc sắp xảy ra. Sau 'is about' cần điền 'to depart'."
+   },
+   {
+    "question_text": "We have booked the venue and ------- the product launch there next Friday.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are going to hold"
+     },
+     {
+      "key": "B",
+      "text": "held"
+     },
+     {
+      "key": "C",
+      "text": "have held"
+     },
+     {
+      "key": "D",
+      "text": "holding"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Việc đặt trước địa điểm chứng tỏ đã có kế hoạch, nên chọn are going to hold.",
+    "translation": "Chúng tôi đã đặt địa điểm và sẽ tổ chức buổi ra mắt sản phẩm ở đó vào thứ Sáu tới."
+   },
+   {
+    "question_text": "Don't worry about the luggage. I ------- it upstairs for you.",
+    "options": [
+     {
+      "key": "A",
+      "text": "carried"
+     },
+     {
+      "key": "B",
+      "text": "will carry"
+     },
+     {
+      "key": "C",
+      "text": "am carrying to"
+     },
+     {
+      "key": "D",
+      "text": "have carry"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Lời đề nghị giúp đỡ được đưa ra ngay lúc nói thường dùng will carry.",
+    "translation": "Đừng lo về hành lý. Tôi sẽ mang nó lên tầng cho bạn."
    }
   ]
  },
  {
   "slug": "future-perfect-continuous",
+  "source": "original",
   "title": "Future Perfect & Continuous",
   "title_vi": "Tương lai hoàn thành và tương lai tiếp diễn",
   "level": "700",
@@ -2770,6 +3786,102 @@
     ],
     "correct_answer": "C",
     "explanation": "'this time tomorrow' → tương lai tiếp diễn."
+   },
+   {
+    "question_text": "At this hour next Thursday, the auditors ------- the regional accounts.",
+    "options": [
+     {
+      "key": "A",
+      "text": "will be reviewing"
+     },
+     {
+      "key": "B",
+      "text": "reviewed"
+     },
+     {
+      "key": "C",
+      "text": "review"
+     },
+     {
+      "key": "D",
+      "text": "have reviewed"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "At this hour next Thursday là một thời điểm trong tương lai, diễn tả hành động đang diễn ra bằng will be reviewing.",
+    "translation": "Vào giờ này thứ Năm tuần tới, các kiểm toán viên sẽ đang rà soát sổ sách khu vực."
+   },
+   {
+    "question_text": "By the end of the year, the clinic ------- its new diagnostic wing.",
+    "options": [
+     {
+      "key": "A",
+      "text": "completes"
+     },
+     {
+      "key": "B",
+      "text": "will have completed"
+     },
+     {
+      "key": "C",
+      "text": "is completing"
+     },
+     {
+      "key": "D",
+      "text": "completed"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "By the end of the year đặt hạn hoàn tất trong tương lai, nên dùng will have completed.",
+    "translation": "Đến cuối năm, phòng khám sẽ hoàn thành khu chẩn đoán mới."
+   },
+   {
+    "question_text": "By June, Dr. Pham ------- at the institute for fifteen years.",
+    "options": [
+     {
+      "key": "A",
+      "text": "works"
+     },
+     {
+      "key": "B",
+      "text": "has worked"
+     },
+     {
+      "key": "C",
+      "text": "will have been working"
+     },
+     {
+      "key": "D",
+      "text": "is working"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "By June cùng for fifteen years nhấn mạnh thời lượng làm việc tính đến mốc tương lai, nên dùng will have been working.",
+    "translation": "Đến tháng Sáu, bác sĩ Phạm sẽ có tròn mười lăm năm làm việc tại viện."
+   },
+   {
+    "question_text": "We ------- the new inventory software all afternoon tomorrow.",
+    "options": [
+     {
+      "key": "A",
+      "text": "tested"
+     },
+     {
+      "key": "B",
+      "text": "have tested"
+     },
+     {
+      "key": "C",
+      "text": "test"
+     },
+     {
+      "key": "D",
+      "text": "will be testing"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "All afternoon tomorrow cho biết hoạt động sẽ đang tiếp diễn trong khoảng thời gian tương lai, nên dùng will be testing.",
+    "translation": "Chúng tôi sẽ đang kiểm thử phần mềm quản lý tồn kho mới suốt chiều mai."
    }
   ],
   "quiz": [
@@ -2794,7 +3906,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "by 2030 → will have built."
+    "explanation": "Cụm 'by 2030' đặt mốc hoàn thành trong tương lai, nên dùng thì tương lai hoàn thành 'will have built'."
    },
    {
     "question_text": "The staff ------- the inventory all day tomorrow.",
@@ -2955,12 +4067,61 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "will have + V3: sent."
+    "explanation": "Cụm 'by next week' chỉ hạn hoàn thành trong tương lai. Cấu trúc 'will have + V3' yêu cầu 'will have sent'."
+   },
+   {
+    "question_text": "By the time the keynote starts, all delegates ------- their badges.",
+    "options": [
+     {
+      "key": "A",
+      "text": "will have collected"
+     },
+     {
+      "key": "B",
+      "text": "collect"
+     },
+     {
+      "key": "C",
+      "text": "collected"
+     },
+     {
+      "key": "D",
+      "text": "are collecting"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Việc nhận thẻ sẽ hoàn tất trước thời điểm bài phát biểu chính bắt đầu, dùng will have collected.",
+    "translation": "Trước khi bài phát biểu chính bắt đầu, tất cả đại biểu sẽ nhận xong thẻ của mình."
+   },
+   {
+    "question_text": "At 9 P.M. tonight, the kitchen staff ------- the banquet meals.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has prepared"
+     },
+     {
+      "key": "B",
+      "text": "will be preparing"
+     },
+     {
+      "key": "C",
+      "text": "prepared"
+     },
+     {
+      "key": "D",
+      "text": "have prepared"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "At 9 P.M. tonight nhấn mạnh hành động đang diễn ra ở thời điểm tương lai, nên dùng will be preparing.",
+    "translation": "Lúc chín giờ tối nay, nhân viên bếp sẽ đang chuẩn bị các món ăn cho tiệc."
    }
   ]
  },
  {
   "slug": "tense-agreement-part-5",
+  "source": "original",
   "title": "Tense Agreement in Part 5",
   "title_vi": "Sự phù hợp về thì trong Part 5",
   "level": "600",
@@ -3140,6 +4301,102 @@
     ],
     "correct_answer": "D",
     "explanation": "since 2015 → hiện tại hoàn thành: have sold."
+   },
+   {
+    "question_text": "Since the museum reopened, attendance ------- every month.",
+    "options": [
+     {
+      "key": "A",
+      "text": "has increased"
+     },
+     {
+      "key": "B",
+      "text": "increased"
+     },
+     {
+      "key": "C",
+      "text": "is increasing"
+     },
+     {
+      "key": "D",
+      "text": "had increased"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Since mở đầu mốc quá khứ kéo dài đến hiện tại, do đó chọn has increased.",
+    "translation": "Kể từ khi bảo tàng mở cửa trở lại, lượng khách tham quan đã tăng mỗi tháng."
+   },
+   {
+    "question_text": "When I entered the control room, the engineers ------- a diagnostic test.",
+    "options": [
+     {
+      "key": "A",
+      "text": "perform"
+     },
+     {
+      "key": "B",
+      "text": "were performing"
+     },
+     {
+      "key": "C",
+      "text": "have performed"
+     },
+     {
+      "key": "D",
+      "text": "are performing"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hành động kiểm tra đang diễn ra khi tôi bước vào phòng nên dùng quá khứ tiếp diễn were performing.",
+    "translation": "Khi tôi vào phòng điều khiển, các kỹ sư đang thực hiện một bài kiểm tra chẩn đoán."
+   },
+   {
+    "question_text": "If the replacement parts ------- today, we will finish the repair tomorrow.",
+    "options": [
+     {
+      "key": "A",
+      "text": "arrived"
+     },
+     {
+      "key": "B",
+      "text": "will arrive"
+     },
+     {
+      "key": "C",
+      "text": "arrive"
+     },
+     {
+      "key": "D",
+      "text": "had arrived"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Trong câu điều kiện loại một, mệnh đề if dùng hiện tại đơn arrive dù nói đến tương lai.",
+    "translation": "Nếu các linh kiện thay thế đến hôm nay, chúng tôi sẽ hoàn thành việc sửa chữa ngày mai."
+   },
+   {
+    "question_text": "By the time the director returns next week, the team ------- the draft contract.",
+    "options": [
+     {
+      "key": "A",
+      "text": "completes"
+     },
+     {
+      "key": "B",
+      "text": "completed"
+     },
+     {
+      "key": "C",
+      "text": "is completing"
+     },
+     {
+      "key": "D",
+      "text": "will have completed"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "By the time cộng mốc tương lai yêu cầu diễn tả việc hoàn thành trước mốc bằng will have completed.",
+    "translation": "Khi giám đốc trở lại tuần tới, nhóm sẽ hoàn thành xong dự thảo hợp đồng."
    }
   ],
   "quiz": [
@@ -3256,7 +4513,7 @@
      }
     ],
     "correct_answer": "C",
-    "explanation": "by next Monday → will have finished."
+    "explanation": "Mốc 'by next Monday' yêu cầu hành động hoàn tất trước một thời điểm tương lai, vì vậy dùng 'will have finished'."
    },
    {
     "question_text": "The report ------- by the time the board meets tomorrow.",
@@ -3326,11 +4583,60 @@
     ],
     "correct_answer": "C",
     "explanation": "while + quá khứ tiếp diễn khi vế sau là quá khứ đơn."
+   },
+   {
+    "question_text": "While our representative ------- the contract, the client asked a question.",
+    "options": [
+     {
+      "key": "A",
+      "text": "was explaining"
+     },
+     {
+      "key": "B",
+      "text": "has explained"
+     },
+     {
+      "key": "C",
+      "text": "explains"
+     },
+     {
+      "key": "D",
+      "text": "will explain"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "While cùng asked diễn tả hành động đang diễn ra trong quá khứ, nên dùng was explaining.",
+    "translation": "Trong khi đại diện của chúng tôi đang giải thích hợp đồng, khách hàng đặt một câu hỏi."
+   },
+   {
+    "question_text": "The sales figures show that demand ------- since the campaign began.",
+    "options": [
+     {
+      "key": "A",
+      "text": "rose"
+     },
+     {
+      "key": "B",
+      "text": "has risen"
+     },
+     {
+      "key": "C",
+      "text": "rises"
+     },
+     {
+      "key": "D",
+      "text": "had risen"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Since the campaign began nêu khoảng thời gian đến hiện tại, do đó dùng has risen.",
+    "translation": "Số liệu bán hàng cho thấy nhu cầu đã tăng kể từ khi chiến dịch bắt đầu."
    }
   ]
  },
  {
   "slug": "parts-of-speech-overview",
+  "source": "original",
   "title": "Parts of Speech Overview",
   "title_vi": "Tổng quan về từ loại",
   "level": "450",
@@ -3510,6 +4816,102 @@
     ],
     "correct_answer": "B",
     "explanation": "Sau be cần tính từ: responsible."
+   },
+   {
+    "question_text": "The hotel staff handled the cancellation with great -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "professionalism"
+     },
+     {
+      "key": "B",
+      "text": "professional"
+     },
+     {
+      "key": "C",
+      "text": "professionally"
+     },
+     {
+      "key": "D",
+      "text": "professionalize"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sau with great cần danh từ chỉ phẩm chất, professionalism nghĩa là tính chuyên nghiệp.",
+    "translation": "Nhân viên khách sạn xử lý việc hủy đặt chỗ với sự chuyên nghiệp cao."
+   },
+   {
+    "question_text": "The instructions were written ------- enough for every visitor to understand.",
+    "options": [
+     {
+      "key": "A",
+      "text": "clear"
+     },
+     {
+      "key": "B",
+      "text": "clearly"
+     },
+     {
+      "key": "C",
+      "text": "clarity"
+     },
+     {
+      "key": "D",
+      "text": "clarify"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Bổ nghĩa động từ written cần trạng từ clearly, tạo cụm clearly enough.",
+    "translation": "Hướng dẫn được viết đủ rõ ràng để mọi khách tham quan đều hiểu."
+   },
+   {
+    "question_text": "The committee requested an ------- review of the budget.",
+    "options": [
+     {
+      "key": "A",
+      "text": "independence"
+     },
+     {
+      "key": "B",
+      "text": "independently"
+     },
+     {
+      "key": "C",
+      "text": "independent"
+     },
+     {
+      "key": "D",
+      "text": "depend"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Trước danh từ review cần tính từ independent.",
+    "translation": "Ủy ban yêu cầu một cuộc rà soát ngân sách độc lập."
+   },
+   {
+    "question_text": "The team expects to ------- the inspection by Friday.",
+    "options": [
+     {
+      "key": "A",
+      "text": "completed"
+     },
+     {
+      "key": "B",
+      "text": "completion"
+     },
+     {
+      "key": "C",
+      "text": "completely"
+     },
+     {
+      "key": "D",
+      "text": "complete"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Sau expects to cần động từ nguyên mẫu complete.",
+    "translation": "Nhóm dự kiến hoàn tất đợt kiểm tra trước thứ Sáu."
    }
   ],
   "quiz": [
@@ -3696,11 +5098,60 @@
     ],
     "correct_answer": "B",
     "explanation": "Chủ ngữ cần danh từ chỉ người thực hiện việc phỏng vấn: employer."
+   },
+   {
+    "question_text": "The designer's ------- made the brochure easier to read.",
+    "options": [
+     {
+      "key": "A",
+      "text": "creativity"
+     },
+     {
+      "key": "B",
+      "text": "creative"
+     },
+     {
+      "key": "C",
+      "text": "creatively"
+     },
+     {
+      "key": "D",
+      "text": "create"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sau sở hữu cách designer's cần danh từ creativity làm chủ ngữ của made.",
+    "translation": "Sự sáng tạo của nhà thiết kế giúp tờ giới thiệu dễ đọc hơn."
+   },
+   {
+    "question_text": "Please respond ------- to requests marked urgent.",
+    "options": [
+     {
+      "key": "A",
+      "text": "prompt"
+     },
+     {
+      "key": "B",
+      "text": "promptly"
+     },
+     {
+      "key": "C",
+      "text": "promptness"
+     },
+     {
+      "key": "D",
+      "text": "prompting"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Động từ respond cần trạng từ chỉ cách thức promptly.",
+    "translation": "Vui lòng phản hồi nhanh chóng các yêu cầu được đánh dấu khẩn cấp."
    }
   ]
  },
  {
   "slug": "nouns",
+  "source": "original",
   "title": "Nouns: Countable, Uncountable & Compound",
   "title_vi": "Danh từ: đếm được, không đếm được và danh từ ghép",
   "level": "600",
@@ -3880,6 +5331,102 @@
     ],
     "correct_answer": "A",
     "explanation": "Sau mạo từ the cần danh từ: purpose."
+   },
+   {
+    "question_text": "We need additional ------- before we can set up the laboratory.",
+    "options": [
+     {
+      "key": "A",
+      "text": "equipment"
+     },
+     {
+      "key": "B",
+      "text": "equipments"
+     },
+     {
+      "key": "C",
+      "text": "an equipment"
+     },
+     {
+      "key": "D",
+      "text": "equip"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Equipment là danh từ không đếm được, không thêm -s và không đi trực tiếp với mạo từ an.",
+    "translation": "Chúng tôi cần thêm thiết bị trước khi có thể thiết lập phòng thí nghiệm."
+   },
+   {
+    "question_text": "The new warehouse has three separate ------- for fragile items.",
+    "options": [
+     {
+      "key": "A",
+      "text": "storage room"
+     },
+     {
+      "key": "B",
+      "text": "storage rooms"
+     },
+     {
+      "key": "C",
+      "text": "storage room's"
+     },
+     {
+      "key": "D",
+      "text": "storage"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Three đòi hỏi danh từ đếm được số nhiều, cụm danh từ ghép phù hợp là storage rooms.",
+    "translation": "Nhà kho mới có ba phòng lưu trữ riêng cho các mặt hàng dễ vỡ."
+   },
+   {
+    "question_text": "The safety officer distributed several ------- to the volunteers.",
+    "options": [
+     {
+      "key": "A",
+      "text": "instruction"
+     },
+     {
+      "key": "B",
+      "text": "information"
+     },
+     {
+      "key": "C",
+      "text": "instructions"
+     },
+     {
+      "key": "D",
+      "text": "advice"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Several đi với danh từ đếm được số nhiều, nên chọn instructions.",
+    "translation": "Nhân viên an toàn đã phát một số hướng dẫn cho các tình nguyện viên."
+   },
+   {
+    "question_text": "The consultancy provided two detailed ------- on local regulations.",
+    "options": [
+     {
+      "key": "A",
+      "text": "analysis"
+     },
+     {
+      "key": "B",
+      "text": "analysises"
+     },
+     {
+      "key": "C",
+      "text": "analyzis"
+     },
+     {
+      "key": "D",
+      "text": "analyses"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Danh từ analysis có dạng số nhiều bất quy tắc là analyses, phù hợp với two.",
+    "translation": "Công ty tư vấn cung cấp hai bản phân tích chi tiết về quy định địa phương."
    }
   ],
   "quiz": [
@@ -4066,11 +5613,60 @@
     ],
     "correct_answer": "A",
     "explanation": "Sau mạo từ a cần danh từ chỉ người: specialist."
+   },
+   {
+    "question_text": "This furniture ------- assembled locally from recycled wood.",
+    "options": [
+     {
+      "key": "A",
+      "text": "is"
+     },
+     {
+      "key": "B",
+      "text": "are"
+     },
+     {
+      "key": "C",
+      "text": "have"
+     },
+     {
+      "key": "D",
+      "text": "being"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Furniture không đếm được nên động từ to be ở hiện tại số ít là is.",
+    "translation": "Đồ nội thất này được lắp ráp tại địa phương bằng gỗ tái chế."
+   },
+   {
+    "question_text": "The intern submitted three ------- for next month's advertising campaign.",
+    "options": [
+     {
+      "key": "A",
+      "text": "proposal"
+     },
+     {
+      "key": "B",
+      "text": "proposals"
+     },
+     {
+      "key": "C",
+      "text": "propose"
+     },
+     {
+      "key": "D",
+      "text": "proposed"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Three yêu cầu danh từ số nhiều đếm được, vì vậy chọn proposals.",
+    "translation": "Thực tập sinh đã nộp ba đề xuất cho chiến dịch quảng cáo tháng tới."
    }
   ]
  },
  {
   "slug": "pronouns-reflexives",
+  "source": "original",
   "title": "Pronouns & Reflexives",
   "title_vi": "Đại từ và đại từ phản thân",
   "level": "600",
@@ -4226,7 +5822,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "one ... the other: one."
+    "explanation": "Cấu trúc 'one ... the other' dùng khi nói về hai đối tượng: 'one' chỉ một đối tượng và 'the other' chỉ đối tượng còn lại."
    },
    {
     "question_text": "------- who wish to attend the seminar should register online.",
@@ -4250,6 +5846,102 @@
     ],
     "correct_answer": "D",
     "explanation": "Those who: những người mà."
+   },
+   {
+    "question_text": "Ms. Bui prepared the shipping labels -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "herself"
+     },
+     {
+      "key": "B",
+      "text": "her"
+     },
+     {
+      "key": "C",
+      "text": "hers"
+     },
+     {
+      "key": "D",
+      "text": "she"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Herself là đại từ phản thân nhấn mạnh chính bà Bùi tự chuẩn bị nhãn gửi hàng.",
+    "translation": "Chính bà Bùi đã chuẩn bị các nhãn vận chuyển."
+   },
+   {
+    "question_text": "Mr. Hoang asked the receptionist to call ------- as soon as the guests arrived.",
+    "options": [
+     {
+      "key": "A",
+      "text": "he"
+     },
+     {
+      "key": "B",
+      "text": "him"
+     },
+     {
+      "key": "C",
+      "text": "his"
+     },
+     {
+      "key": "D",
+      "text": "himself"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Sau động từ call cần đại từ tân ngữ him để chỉ ông Hoàng.",
+    "translation": "Ông Hoàng nhờ lễ tân gọi cho mình ngay khi các vị khách đến."
+   },
+   {
+    "question_text": "These blue lockers belong to the contractors, but the green lockers are -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "our"
+     },
+     {
+      "key": "B",
+      "text": "us"
+     },
+     {
+      "key": "C",
+      "text": "ours"
+     },
+     {
+      "key": "D",
+      "text": "ourselves"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sau are mà không có danh từ theo sau, dùng đại từ sở hữu ours.",
+    "translation": "Những tủ khóa màu xanh dương thuộc về các nhà thầu, còn những tủ màu xanh lá là của chúng tôi."
+   },
+   {
+    "question_text": "The department heads introduced ------- before the workshop started.",
+    "options": [
+     {
+      "key": "A",
+      "text": "them"
+     },
+     {
+      "key": "B",
+      "text": "their"
+     },
+     {
+      "key": "C",
+      "text": "theirs"
+     },
+     {
+      "key": "D",
+      "text": "themselves"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Chủ ngữ và người được giới thiệu trùng nhau nên dùng đại từ phản thân themselves.",
+    "translation": "Các trưởng bộ phận đã tự giới thiệu trước khi buổi hội thảo bắt đầu."
    }
   ],
   "quiz": [
@@ -4436,11 +6128,60 @@
     ],
     "correct_answer": "C",
     "explanation": "Chủ ngữ mệnh đề sau but: it."
+   },
+   {
+    "question_text": "The laptop belongs to Mr. Khoa, so please return it to -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "him"
+     },
+     {
+      "key": "B",
+      "text": "his"
+     },
+     {
+      "key": "C",
+      "text": "he"
+     },
+     {
+      "key": "D",
+      "text": "himself"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sau giới từ to cần đại từ tân ngữ him để thay cho Mr. Khoa.",
+    "translation": "Máy tính xách tay thuộc về ông Khoa, vì vậy hãy trả lại nó cho ông ấy."
+   },
+   {
+    "question_text": "The committee completed ------- assessment without hiring consultants.",
+    "options": [
+     {
+      "key": "A",
+      "text": "it"
+     },
+     {
+      "key": "B",
+      "text": "its"
+     },
+     {
+      "key": "C",
+      "text": "itself"
+     },
+     {
+      "key": "D",
+      "text": "it's"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Đứng trước danh từ assessment cần tính từ sở hữu its.",
+    "translation": "Ủy ban đã hoàn thành bản đánh giá của mình mà không thuê tư vấn."
    }
   ]
  },
  {
   "slug": "adjectives-vs-adverbs",
+  "source": "original",
   "title": "Adjectives vs Adverbs",
   "title_vi": "Tính từ và trạng từ",
   "level": "600",
@@ -4620,6 +6361,102 @@
     ],
     "correct_answer": "C",
     "explanation": "Trước danh từ delivery cần tính từ: prompt."
+   },
+   {
+    "question_text": "The technician explained the procedure ------- to the trainees.",
+    "options": [
+     {
+      "key": "A",
+      "text": "patiently"
+     },
+     {
+      "key": "B",
+      "text": "patient"
+     },
+     {
+      "key": "C",
+      "text": "patience"
+     },
+     {
+      "key": "D",
+      "text": "patients"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Động từ explained cần trạng từ chỉ cách thức patiently.",
+    "translation": "Kỹ thuật viên kiên nhẫn giải thích quy trình cho các học viên."
+   },
+   {
+    "question_text": "We need a ------- estimate before ordering the supplies.",
+    "options": [
+     {
+      "key": "A",
+      "text": "precision"
+     },
+     {
+      "key": "B",
+      "text": "precise"
+     },
+     {
+      "key": "C",
+      "text": "precisely"
+     },
+     {
+      "key": "D",
+      "text": "preciseness"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Trước danh từ estimate cần tính từ precise.",
+    "translation": "Chúng tôi cần một bản ước tính chính xác trước khi đặt mua vật tư."
+   },
+   {
+    "question_text": "The conference ended ------- after the final panel discussion.",
+    "options": [
+     {
+      "key": "A",
+      "text": "punctual"
+     },
+     {
+      "key": "B",
+      "text": "punctuality"
+     },
+     {
+      "key": "C",
+      "text": "punctually"
+     },
+     {
+      "key": "D",
+      "text": "punctuate"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Bổ nghĩa cho động từ ended cần trạng từ punctually.",
+    "translation": "Hội nghị đã kết thúc đúng giờ sau phiên thảo luận cuối cùng."
+   },
+   {
+    "question_text": "The survey results were ------- encouraging for the research team.",
+    "options": [
+     {
+      "key": "A",
+      "text": "significant"
+     },
+     {
+      "key": "B",
+      "text": "significance"
+     },
+     {
+      "key": "C",
+      "text": "signify"
+     },
+     {
+      "key": "D",
+      "text": "highly"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Bổ nghĩa cho tính từ encouraging cần trạng từ highly để nhấn mạnh mức độ.",
+    "translation": "Kết quả khảo sát rất đáng khích lệ đối với nhóm nghiên cứu."
    }
   ],
   "quiz": [
@@ -4806,11 +6643,60 @@
     ],
     "correct_answer": "D",
     "explanation": "Sau are cần tính từ: fair."
+   },
+   {
+    "question_text": "The new scanner produces ------- images even in low light.",
+    "options": [
+     {
+      "key": "A",
+      "text": "clear"
+     },
+     {
+      "key": "B",
+      "text": "clearly"
+     },
+     {
+      "key": "C",
+      "text": "clarity"
+     },
+     {
+      "key": "D",
+      "text": "clearance"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Trước danh từ images cần tính từ clear để mô tả chất lượng hình ảnh.",
+    "translation": "Máy quét mới tạo ra hình ảnh rõ nét ngay cả khi ánh sáng yếu."
+   },
+   {
+    "question_text": "The revised instructions describe the steps -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "accurate"
+     },
+     {
+      "key": "B",
+      "text": "accurately"
+     },
+     {
+      "key": "C",
+      "text": "accuracy"
+     },
+     {
+      "key": "D",
+      "text": "accurateness"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Describe là động từ, cần trạng từ accurately để chỉ cách mô tả.",
+    "translation": "Hướng dẫn đã sửa đổi mô tả chính xác các bước thực hiện."
    }
   ]
  },
  {
   "slug": "comparatives-superlatives",
+  "source": "original",
   "title": "Comparatives & Superlatives",
   "title_vi": "So sánh hơn và so sánh nhất",
   "level": "600",
@@ -4990,6 +6876,102 @@
     ],
     "correct_answer": "B",
     "explanation": "the + so sánh nhất: best."
+   },
+   {
+    "question_text": "The second shipment arrived ------- than the first one.",
+    "options": [
+     {
+      "key": "A",
+      "text": "earlier"
+     },
+     {
+      "key": "B",
+      "text": "early"
+     },
+     {
+      "key": "C",
+      "text": "earliest"
+     },
+     {
+      "key": "D",
+      "text": "more early"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Có than nên cần dạng so sánh hơn earlier của early.",
+    "translation": "Lô hàng thứ hai đến sớm hơn lô hàng thứ nhất."
+   },
+   {
+    "question_text": "Of the four available routes, the coastal road is the -------.",
+    "options": [
+     {
+      "key": "A",
+      "text": "shorter"
+     },
+     {
+      "key": "B",
+      "text": "shortest"
+     },
+     {
+      "key": "C",
+      "text": "short"
+     },
+     {
+      "key": "D",
+      "text": "more short"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Of the four available routes yêu cầu so sánh nhất, nên dùng the shortest.",
+    "translation": "Trong bốn tuyến đường hiện có, tuyến ven biển là ngắn nhất."
+   },
+   {
+    "question_text": "This year's conference drew ------- participants than last year's event.",
+    "options": [
+     {
+      "key": "A",
+      "text": "much"
+     },
+     {
+      "key": "B",
+      "text": "most"
+     },
+     {
+      "key": "C",
+      "text": "more"
+     },
+     {
+      "key": "D",
+      "text": "many"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "So sánh số lượng danh từ đếm được số nhiều với than cần more.",
+    "translation": "Hội nghị năm nay thu hút nhiều người tham dự hơn sự kiện năm ngoái."
+   },
+   {
+    "question_text": "The ------- the discount, the more quickly the stock sells out.",
+    "options": [
+     {
+      "key": "A",
+      "text": "large"
+     },
+     {
+      "key": "B",
+      "text": "largest"
+     },
+     {
+      "key": "C",
+      "text": "more large"
+     },
+     {
+      "key": "D",
+      "text": "larger"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Cấu trúc so sánh kép the + so sánh hơn, the + so sánh hơn dùng larger.",
+    "translation": "Mức giảm giá càng lớn thì hàng tồn kho càng bán hết nhanh."
    }
   ],
   "quiz": [
@@ -5037,7 +7019,7 @@
      }
     ],
     "correct_answer": "C",
-    "explanation": "the most experience (of all)."
+    "explanation": "Cụm 'of all the candidates' yêu cầu so sánh nhất. Với danh từ 'experience', dùng 'the most experience'."
    },
    {
     "question_text": "Our delivery service is ------- reliable than our competitors'.",
@@ -5060,7 +7042,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "more reliable than."
+    "explanation": "Có 'than' nên cần dạng so sánh hơn. Tính từ dài 'reliable' đi với 'more' để thành 'more reliable than'."
    },
    {
     "question_text": "The weather was ------- than we expected.",
@@ -5129,7 +7111,7 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "twice as + adj + as: large."
+    "explanation": "Cấu trúc so sánh bằng 'twice as + tính từ nguyên dạng + as' yêu cầu tính từ 'large'."
    },
    {
     "question_text": "Sales were ------- lower than we had predicted.",
@@ -5176,11 +7158,60 @@
     ],
     "correct_answer": "B",
     "explanation": "the + so sánh nhất + danh từ: highest."
+   },
+   {
+    "question_text": "Our new packaging is ------- durable than the previous design.",
+    "options": [
+     {
+      "key": "A",
+      "text": "more"
+     },
+     {
+      "key": "B",
+      "text": "most"
+     },
+     {
+      "key": "C",
+      "text": "much"
+     },
+     {
+      "key": "D",
+      "text": "many"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Durable là tính từ dài, so sánh hơn với than cần more durable.",
+    "translation": "Bao bì mới của chúng tôi bền hơn thiết kế trước đó."
+   },
+   {
+    "question_text": "The eastern branch recorded the ------- customer satisfaction score of all seven branches.",
+    "options": [
+     {
+      "key": "A",
+      "text": "high"
+     },
+     {
+      "key": "B",
+      "text": "highest"
+     },
+     {
+      "key": "C",
+      "text": "higher"
+     },
+     {
+      "key": "D",
+      "text": "highly"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "So sánh với tất cả bảy chi nhánh yêu cầu dạng so sánh nhất highest.",
+    "translation": "Chi nhánh phía đông ghi nhận điểm hài lòng của khách hàng cao nhất trong cả bảy chi nhánh."
    }
   ]
  },
  {
   "slug": "determiners-quantifiers",
+  "source": "original",
   "title": "Determiners & Quantifiers",
   "title_vi": "Hạn định từ và từ chỉ lượng",
   "level": "600",
@@ -5360,6 +7391,102 @@
     ],
     "correct_answer": "A",
     "explanation": "Mệnh đề if/nghi vấn dùng any."
+   },
+   {
+    "question_text": "Only ------- of the four proposals meets every requirement.",
+    "options": [
+     {
+      "key": "A",
+      "text": "one"
+     },
+     {
+      "key": "B",
+      "text": "many"
+     },
+     {
+      "key": "C",
+      "text": "several"
+     },
+     {
+      "key": "D",
+      "text": "all"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Only one đi với động từ số ít meets và diễn tả duy nhất một đề xuất đáp ứng yêu cầu.",
+    "translation": "Chỉ một trong bốn đề xuất đáp ứng mọi yêu cầu."
+   },
+   {
+    "question_text": "We have ------- time left before the train departs, so please hurry.",
+    "options": [
+     {
+      "key": "A",
+      "text": "few"
+     },
+     {
+      "key": "B",
+      "text": "little"
+     },
+     {
+      "key": "C",
+      "text": "many"
+     },
+     {
+      "key": "D",
+      "text": "several"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Time là danh từ không đếm được, little diễn tả còn rất ít thời gian.",
+    "translation": "Chúng ta còn ít thời gian trước khi tàu khởi hành, vì vậy hãy nhanh lên."
+   },
+   {
+    "question_text": "------- member of the panel received a printed agenda.",
+    "options": [
+     {
+      "key": "A",
+      "text": "Many"
+     },
+     {
+      "key": "B",
+      "text": "Both"
+     },
+     {
+      "key": "C",
+      "text": "Each"
+     },
+     {
+      "key": "D",
+      "text": "Several"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Member số ít đếm được nên dùng Each để chỉ từng thành viên.",
+    "translation": "Mỗi thành viên của hội đồng đều nhận được một chương trình nghị sự in sẵn."
+   },
+   {
+    "question_text": "The workshop attracted ------- of applicants from nearby towns.",
+    "options": [
+     {
+      "key": "A",
+      "text": "much"
+     },
+     {
+      "key": "B",
+      "text": "any"
+     },
+     {
+      "key": "C",
+      "text": "a little"
+     },
+     {
+      "key": "D",
+      "text": "hundreds"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Hundreds of kết hợp với applicants số nhiều để chỉ hàng trăm ứng viên.",
+    "translation": "Buổi hội thảo đã thu hút hàng trăm người đăng ký từ các thị trấn lân cận."
    }
   ],
   "quiz": [
@@ -5546,11 +7673,60 @@
     ],
     "correct_answer": "A",
     "explanation": "Câu phủ định, danh từ đếm được: any."
+   },
+   {
+    "question_text": "------- of the two suppliers can meet our delivery deadline, so we must find another.",
+    "options": [
+     {
+      "key": "A",
+      "text": "Neither"
+     },
+     {
+      "key": "B",
+      "text": "Every"
+     },
+     {
+      "key": "C",
+      "text": "Each"
+     },
+     {
+      "key": "D",
+      "text": "All"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Với two suppliers và ý phải tìm bên khác, Neither of có nghĩa không bên nào đáp ứng.",
+    "translation": "Không nhà cung cấp nào trong hai bên đáp ứng được hạn giao hàng nên chúng tôi phải tìm bên khác."
+   },
+   {
+    "question_text": "The registrar asked us to provide ------- copies of the certificate.",
+    "options": [
+     {
+      "key": "A",
+      "text": "much"
+     },
+     {
+      "key": "B",
+      "text": "two"
+     },
+     {
+      "key": "C",
+      "text": "a little"
+     },
+     {
+      "key": "D",
+      "text": "every"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Copies là danh từ đếm được số nhiều, số đếm two kết hợp đúng với nó.",
+    "translation": "Nhân viên đăng ký yêu cầu chúng tôi cung cấp hai bản sao chứng chỉ."
    }
   ]
  },
  {
   "slug": "articles",
+  "source": "original",
   "title": "Articles (a / an / the / zero)",
   "title_vi": "Mạo từ (a / an / the / không mạo từ)",
   "level": "600",
@@ -5730,6 +7906,102 @@
     ],
     "correct_answer": "C",
     "explanation": "hour bắt đầu bằng âm nguyên âm /aʊ/: an."
+   },
+   {
+    "question_text": "The office ordered ------- universal adapter for the inspection room.",
+    "options": [
+     {
+      "key": "A",
+      "text": "a"
+     },
+     {
+      "key": "B",
+      "text": "an"
+     },
+     {
+      "key": "C",
+      "text": "several"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Universal bắt đầu bằng âm phụ âm /j/, nên dùng mạo từ a.",
+    "translation": "Văn phòng đã đặt mua một bộ chuyển đổi đa năng cho phòng kiểm tra."
+   },
+   {
+    "question_text": "------- Mekong River passes through several countries in Southeast Asia.",
+    "options": [
+     {
+      "key": "A",
+      "text": "A"
+     },
+     {
+      "key": "B",
+      "text": "The"
+     },
+     {
+      "key": "C",
+      "text": "An"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Tên sông thường đi với mạo từ xác định the, nên chọn The Mekong River.",
+    "translation": "Sông Mê Kông chảy qua một số quốc gia ở Đông Nam Á."
+   },
+   {
+    "question_text": "We are looking for ------- experienced architect to join our team.",
+    "options": [
+     {
+      "key": "A",
+      "text": "a"
+     },
+     {
+      "key": "B",
+      "text": "several"
+     },
+     {
+      "key": "C",
+      "text": "an"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Experienced bắt đầu bằng âm nguyên âm và architect là danh từ số ít chưa xác định, nên dùng an.",
+    "translation": "Chúng tôi đang tìm một kiến trúc sư giàu kinh nghiệm để gia nhập nhóm."
+   },
+   {
+    "question_text": "We usually travel to the training center by ------- bus.",
+    "options": [
+     {
+      "key": "A",
+      "text": "a"
+     },
+     {
+      "key": "B",
+      "text": "an"
+     },
+     {
+      "key": "C",
+      "text": "the"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Trong cụm chỉ phương tiện by bus, không dùng mạo từ trước bus.",
+    "translation": "Chúng tôi thường đi xe buýt đến trung tâm đào tạo."
    }
   ],
   "quiz": [
@@ -5823,7 +8095,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "only → the only."
+    "explanation": "Từ 'only' xác định bản sao duy nhất nên cần mạo từ 'the', tạo thành cụm 'the only copy'."
    },
    {
     "question_text": "Our firm provides ------- services to small businesses.",
@@ -5916,11 +8188,60 @@
     ],
     "correct_answer": "D",
     "explanation": "new policy lần đầu: a; nhắc lại: the policy."
+   },
+   {
+    "question_text": "The exhibition includes ------- unusual collection of early cameras.",
+    "options": [
+     {
+      "key": "A",
+      "text": "an"
+     },
+     {
+      "key": "B",
+      "text": "a"
+     },
+     {
+      "key": "C",
+      "text": "several"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Unusual bắt đầu bằng âm nguyên âm nên mạo từ bất định thích hợp là an.",
+    "translation": "Triển lãm có một bộ sưu tập máy ảnh đời đầu khác thường."
+   },
+   {
+    "question_text": "The consultant presented ------- only feasible option during the crisis.",
+    "options": [
+     {
+      "key": "A",
+      "text": "an"
+     },
+     {
+      "key": "B",
+      "text": "the"
+     },
+     {
+      "key": "C",
+      "text": "a"
+     },
+     {
+      "key": "D",
+      "text": "no article"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Only xác định một phương án duy nhất nên dùng mạo từ the.",
+    "translation": "Chuyên gia tư vấn đã trình bày phương án khả thi duy nhất trong thời kỳ khủng hoảng."
    }
   ]
  },
  {
   "slug": "subject-verb-agreement",
+  "source": "original",
   "title": "Subject–Verb Agreement",
   "title_vi": "Sự hòa hợp giữa chủ ngữ và động từ",
   "level": "600",
@@ -6100,6 +8421,102 @@
     ],
     "correct_answer": "D",
     "explanation": "V-ing làm chủ ngữ → số ít: is."
+   },
+   {
+    "question_text": "A collection of antique maps ------- currently on display in the foyer.",
+    "options": [
+     {
+      "key": "A",
+      "text": "is"
+     },
+     {
+      "key": "B",
+      "text": "are"
+     },
+     {
+      "key": "C",
+      "text": "have"
+     },
+     {
+      "key": "D",
+      "text": "were"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Chủ ngữ chính A collection là số ít, cụm of antique maps không làm đổi số của động từ, nên dùng is.",
+    "translation": "Một bộ sưu tập bản đồ cổ hiện đang được trưng bày tại tiền sảnh."
+   },
+   {
+    "question_text": "Neither of the two elevators ------- working right now.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are"
+     },
+     {
+      "key": "B",
+      "text": "is"
+     },
+     {
+      "key": "C",
+      "text": "were"
+     },
+     {
+      "key": "D",
+      "text": "have"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Neither of the two elevators được chia động từ số ít trong tiếng Anh trang trọng, nên dùng is.",
+    "translation": "Hiện tại không có thang máy nào trong hai chiếc đang hoạt động."
+   },
+   {
+    "question_text": "The brochures on the reception desk ------- free to take.",
+    "options": [
+     {
+      "key": "A",
+      "text": "is"
+     },
+     {
+      "key": "B",
+      "text": "was"
+     },
+     {
+      "key": "C",
+      "text": "are"
+     },
+     {
+      "key": "D",
+      "text": "has"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Chủ ngữ chính brochures ở số nhiều nên dùng are.",
+    "translation": "Các tờ giới thiệu trên quầy lễ tân được phát miễn phí."
+   },
+   {
+    "question_text": "Every one of the safety helmets ------- a unique identification number.",
+    "options": [
+     {
+      "key": "A",
+      "text": "have"
+     },
+     {
+      "key": "B",
+      "text": "having"
+     },
+     {
+      "key": "C",
+      "text": "are having"
+     },
+     {
+      "key": "D",
+      "text": "has"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Every one là chủ ngữ số ít, nên động từ have chia thành has.",
+    "translation": "Mỗi chiếc mũ bảo hộ đều có một mã nhận dạng riêng."
    }
   ],
   "quiz": [
@@ -6286,11 +8703,60 @@
     ],
     "correct_answer": "C",
     "explanation": "clerks gần động từ nhất, số nhiều: are."
+   },
+   {
+    "question_text": "The list of approved suppliers ------- beside the finance office door.",
+    "options": [
+     {
+      "key": "A",
+      "text": "hangs"
+     },
+     {
+      "key": "B",
+      "text": "hang"
+     },
+     {
+      "key": "C",
+      "text": "were hanging"
+     },
+     {
+      "key": "D",
+      "text": "have hung"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Danh từ chính list là số ít nên động từ hiện tại đơn là hangs.",
+    "translation": "Danh sách các nhà cung cấp được phê duyệt được treo cạnh cửa phòng tài chính."
+   },
+   {
+    "question_text": "Either the supervisors or the director ------- signing the release form today.",
+    "options": [
+     {
+      "key": "A",
+      "text": "are"
+     },
+     {
+      "key": "B",
+      "text": "is"
+     },
+     {
+      "key": "C",
+      "text": "have"
+     },
+     {
+      "key": "D",
+      "text": "were"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Với either ... or, động từ hòa hợp với chủ ngữ gần nhất là the director số ít, nên dùng is.",
+    "translation": "Hoặc các giám sát viên hoặc giám đốc sẽ ký biểu mẫu cho phép hôm nay."
    }
   ]
  },
  {
   "slug": "prepositions-time-place",
+  "source": "original",
   "title": "Prepositions of Time & Place",
   "title_vi": "Giới từ chỉ thời gian và nơi chốn",
   "level": "600",
@@ -6470,6 +8936,102 @@
     ],
     "correct_answer": "B",
     "explanation": "within = trong vòng, không quá."
+   },
+   {
+    "question_text": "The samples will remain refrigerated ------- the weekend.",
+    "options": [
+     {
+      "key": "A",
+      "text": "throughout"
+     },
+     {
+      "key": "B",
+      "text": "between"
+     },
+     {
+      "key": "C",
+      "text": "since"
+     },
+     {
+      "key": "D",
+      "text": "at"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Throughout the weekend diễn tả trạng thái duy trì suốt khoảng thời gian cuối tuần.",
+    "translation": "Các mẫu sẽ được giữ lạnh suốt cuối tuần."
+   },
+   {
+    "question_text": "The accounting team meets ------- Thursdays to review expenses.",
+    "options": [
+     {
+      "key": "A",
+      "text": "at"
+     },
+     {
+      "key": "B",
+      "text": "on"
+     },
+     {
+      "key": "C",
+      "text": "in"
+     },
+     {
+      "key": "D",
+      "text": "by"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Trước thứ trong tuần dùng giới từ on.",
+    "translation": "Nhóm kế toán họp vào các thứ Năm để rà soát chi phí."
+   },
+   {
+    "question_text": "Please place the finished files ------- the top drawer of the cabinet.",
+    "options": [
+     {
+      "key": "A",
+      "text": "to"
+     },
+     {
+      "key": "B",
+      "text": "at"
+     },
+     {
+      "key": "C",
+      "text": "in"
+     },
+     {
+      "key": "D",
+      "text": "by"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Đặt vật vào bên trong ngăn kéo dùng in the drawer.",
+    "translation": "Vui lòng đặt các tệp đã hoàn tất vào ngăn kéo trên cùng của tủ."
+   },
+   {
+    "question_text": "We expect the replacement chairs to arrive ------- the next 48 hours.",
+    "options": [
+     {
+      "key": "A",
+      "text": "at"
+     },
+     {
+      "key": "B",
+      "text": "on"
+     },
+     {
+      "key": "C",
+      "text": "by"
+     },
+     {
+      "key": "D",
+      "text": "within"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Within the next 48 hours có nghĩa là trong vòng 48 giờ tới.",
+    "translation": "Chúng tôi dự kiến những chiếc ghế thay thế sẽ đến trong vòng 48 giờ tới."
    }
   ],
   "quiz": [
@@ -6656,11 +9218,60 @@
     ],
     "correct_answer": "B",
     "explanation": "within thirty days: trong vòng 30 ngày."
+   },
+   {
+    "question_text": "The accreditation audit is scheduled ------- February next year.",
+    "options": [
+     {
+      "key": "A",
+      "text": "in"
+     },
+     {
+      "key": "B",
+      "text": "on"
+     },
+     {
+      "key": "C",
+      "text": "at"
+     },
+     {
+      "key": "D",
+      "text": "to"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Trước tên tháng dùng giới từ in.",
+    "translation": "Đợt đánh giá công nhận được lên lịch vào tháng Hai năm tới."
+   },
+   {
+    "question_text": "Please arrive ------- noon to receive your registration packet.",
+    "options": [
+     {
+      "key": "A",
+      "text": "since"
+     },
+     {
+      "key": "B",
+      "text": "before"
+     },
+     {
+      "key": "C",
+      "text": "during"
+     },
+     {
+      "key": "D",
+      "text": "among"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Before noon diễn tả thời hạn đến trước buổi trưa.",
+    "translation": "Vui lòng đến trước buổi trưa để nhận bộ tài liệu đăng ký."
    }
   ]
  },
  {
   "slug": "prepositions-after-verbs-adjectives",
+  "source": "original",
   "title": "Prepositions after Verbs & Adjectives",
   "title_vi": "Giới từ đi sau động từ và tính từ",
   "level": "700",
@@ -6724,7 +9335,7 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "comply with."
+    "explanation": "Động từ 'comply' đi với giới từ 'with' trong cụm 'comply with', nghĩa là tuân thủ quy định."
    },
    {
     "question_text": "The final decision depends ------- the results of the survey.",
@@ -6747,7 +9358,7 @@
      }
     ],
     "correct_answer": "C",
-    "explanation": "depend on."
+    "explanation": "Động từ 'depend' kết hợp với giới từ 'on' trong cụm 'depend on', nghĩa là phụ thuộc vào."
    },
    {
     "question_text": "Mr. Hayashi is responsible ------- training new staff.",
@@ -6770,7 +9381,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "be responsible for."
+    "explanation": "Cụm tính từ 'be responsible for' có nghĩa là chịu trách nhiệm về, vì vậy chọn giới từ 'for'."
    },
    {
     "question_text": "Part-time employees are not eligible ------- paid leave.",
@@ -6793,7 +9404,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "be eligible for."
+    "explanation": "Cụm tính từ 'be eligible for' có nghĩa là đủ điều kiện hưởng hoặc nhận, nên điền giới từ 'for'."
    },
    {
     "question_text": "The team will ------- the new budget at tomorrow's meeting.",
@@ -6840,6 +9451,102 @@
     ],
     "correct_answer": "A",
     "explanation": "look forward to + V-ing (to là giới từ)."
+   },
+   {
+    "question_text": "The coordinator apologized ------- the confusion caused by the revised schedule.",
+    "options": [
+     {
+      "key": "A",
+      "text": "for"
+     },
+     {
+      "key": "B",
+      "text": "to"
+     },
+     {
+      "key": "C",
+      "text": "with"
+     },
+     {
+      "key": "D",
+      "text": "at"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Cụm apologize for something dùng để xin lỗi về một việc.",
+    "translation": "Điều phối viên đã xin lỗi về sự nhầm lẫn do lịch trình sửa đổi gây ra."
+   },
+   {
+    "question_text": "All employees must adhere ------- the revised privacy policy.",
+    "options": [
+     {
+      "key": "A",
+      "text": "for"
+     },
+     {
+      "key": "B",
+      "text": "to"
+     },
+     {
+      "key": "C",
+      "text": "at"
+     },
+     {
+      "key": "D",
+      "text": "on"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Adhere to là cụm động từ cố định nghĩa là tuân thủ.",
+    "translation": "Tất cả nhân viên phải tuân thủ chính sách bảo mật đã sửa đổi."
+   },
+   {
+    "question_text": "The laboratory is equipped ------- modern testing instruments.",
+    "options": [
+     {
+      "key": "A",
+      "text": "on"
+     },
+     {
+      "key": "B",
+      "text": "by"
+     },
+     {
+      "key": "C",
+      "text": "with"
+     },
+     {
+      "key": "D",
+      "text": "of"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Be equipped with là cấu trúc cố định mang nghĩa được trang bị.",
+    "translation": "Phòng thí nghiệm được trang bị các dụng cụ kiểm tra hiện đại."
+   },
+   {
+    "question_text": "The success of the campaign relies ------- accurate demand forecasts.",
+    "options": [
+     {
+      "key": "A",
+      "text": "at"
+     },
+     {
+      "key": "B",
+      "text": "in"
+     },
+     {
+      "key": "C",
+      "text": "to"
+     },
+     {
+      "key": "D",
+      "text": "on"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Rely on là kết hợp động từ và giới từ mang nghĩa phụ thuộc vào.",
+    "translation": "Thành công của chiến dịch phụ thuộc vào các dự báo nhu cầu chính xác."
    }
   ],
   "quiz": [
@@ -6864,7 +9571,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "consist of."
+    "explanation": "Động từ 'consist' đi với giới từ 'of' trong cụm 'consist of', nghĩa là bao gồm hoặc gồm có."
    },
    {
     "question_text": "Ms. Rossi specializes ------- international trade law.",
@@ -6887,7 +9594,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "specialize in."
+    "explanation": "Động từ 'specialize' đi với giới từ 'in' để diễn tả việc chuyên về một lĩnh vực, nên chọn 'in'."
    },
    {
     "question_text": "Our employees are familiar ------- the latest software.",
@@ -6910,7 +9617,7 @@
      }
     ],
     "correct_answer": "B",
-    "explanation": "be familiar with."
+    "explanation": "Cụm tính từ 'be familiar with' có nghĩa là quen thuộc với, vì vậy điền giới từ 'with'."
    },
    {
     "question_text": "The heavy rain resulted ------- the postponement of the event.",
@@ -6956,7 +9663,7 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "refer to."
+    "explanation": "Động từ 'refer' đi với giới từ 'to' trong cụm 'refer to the manual', nghĩa là tham khảo tài liệu hướng dẫn."
    },
    {
     "question_text": "The proposal is subject ------- approval by the board.",
@@ -6979,7 +9686,7 @@
      }
     ],
     "correct_answer": "C",
-    "explanation": "be subject to."
+    "explanation": "Cụm 'be subject to' có nghĩa là phải chịu sự chi phối hoặc phụ thuộc vào điều kiện phê duyệt, nên chọn 'to'."
    },
    {
     "question_text": "Employees are encouraged to participate ------- the annual charity run.",
@@ -7002,7 +9709,7 @@
      }
     ],
     "correct_answer": "D",
-    "explanation": "participate in."
+    "explanation": "Động từ 'participate' đi với giới từ 'in' để diễn tả tham gia một hoạt động, nên chọn 'in'."
    },
    {
     "question_text": "The company is committed ------- reducing its environmental impact.",
@@ -7025,12 +9732,61 @@
      }
     ],
     "correct_answer": "A",
-    "explanation": "be committed to + V-ing."
+    "explanation": "Cụm 'be committed to + V-ing' có nghĩa là cam kết làm một việc. Vì vậy chọn 'to' trước 'reducing'."
+   },
+   {
+    "question_text": "The contractor objected ------- the proposed change in materials.",
+    "options": [
+     {
+      "key": "A",
+      "text": "to"
+     },
+     {
+      "key": "B",
+      "text": "for"
+     },
+     {
+      "key": "C",
+      "text": "about"
+     },
+     {
+      "key": "D",
+      "text": "by"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Object to là cụm cố định diễn tả sự phản đối.",
+    "translation": "Nhà thầu phản đối thay đổi được đề xuất về vật liệu."
+   },
+   {
+    "question_text": "Ms. Linh is proficient ------- three programming languages.",
+    "options": [
+     {
+      "key": "A",
+      "text": "at"
+     },
+     {
+      "key": "B",
+      "text": "in"
+     },
+     {
+      "key": "C",
+      "text": "on"
+     },
+     {
+      "key": "D",
+      "text": "for"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Proficient in là cách kết hợp tự nhiên khi nói thành thạo một lĩnh vực hoặc ngôn ngữ.",
+    "translation": "Bà Linh thành thạo ba ngôn ngữ lập trình."
    }
   ]
  },
  {
   "slug": "conjunctions-vs-prepositions",
+  "source": "original",
   "title": "Conjunctions vs Prepositions",
   "title_vi": "Liên từ và giới từ (although/despite, because/because of)",
   "level": "700",
@@ -7210,6 +9966,102 @@
     ],
     "correct_answer": "D",
     "explanation": "Sau là danh từ the film → during."
+   },
+   {
+    "question_text": "------- the factory was closed for repairs, online orders continued to arrive.",
+    "options": [
+     {
+      "key": "A",
+      "text": "Although"
+     },
+     {
+      "key": "B",
+      "text": "Despite"
+     },
+     {
+      "key": "C",
+      "text": "Because of"
+     },
+     {
+      "key": "D",
+      "text": "During"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "Theo sau chỗ trống là mệnh đề đầy đủ và hai ý tương phản, nên dùng liên từ Although.",
+    "translation": "Mặc dù nhà máy đóng cửa để sửa chữa, các đơn hàng trực tuyến vẫn tiếp tục được gửi đến."
+   },
+   {
+    "question_text": "The review was delayed ------- several supporting documents were missing.",
+    "options": [
+     {
+      "key": "A",
+      "text": "despite"
+     },
+     {
+      "key": "B",
+      "text": "because"
+     },
+     {
+      "key": "C",
+      "text": "because of"
+     },
+     {
+      "key": "D",
+      "text": "during"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Sau chỗ trống là mệnh đề có chủ ngữ và động từ, nguyên nhân được nối bằng because.",
+    "translation": "Đợt rà soát bị trì hoãn vì thiếu một số tài liệu hỗ trợ."
+   },
+   {
+    "question_text": "------- the limited budget, the research group completed its pilot successfully.",
+    "options": [
+     {
+      "key": "A",
+      "text": "Although"
+     },
+     {
+      "key": "B",
+      "text": "Even though"
+     },
+     {
+      "key": "C",
+      "text": "Despite"
+     },
+     {
+      "key": "D",
+      "text": "Because"
+     }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sau chỗ trống là cụm danh từ the limited budget, nên chọn giới từ Despite.",
+    "translation": "Mặc dù ngân sách hạn chế, nhóm nghiên cứu đã hoàn thành thành công giai đoạn thí điểm."
+   },
+   {
+    "question_text": "Please keep the corridor clear ------- the exhibition is being installed.",
+    "options": [
+     {
+      "key": "A",
+      "text": "because of"
+     },
+     {
+      "key": "B",
+      "text": "despite"
+     },
+     {
+      "key": "C",
+      "text": "during"
+     },
+     {
+      "key": "D",
+      "text": "while"
+     }
+    ],
+    "correct_answer": "D",
+    "explanation": "Sau chỗ trống là mệnh đề đầy đủ diễn tả thời gian, nên dùng liên từ while.",
+    "translation": "Vui lòng giữ hành lang thông thoáng trong khi triển lãm đang được lắp đặt."
    }
   ],
   "quiz": [
@@ -7396,6 +10248,54 @@
     ],
     "correct_answer": "C",
     "explanation": "Sau là mệnh đề (you have permission) → unless."
+   },
+   {
+    "question_text": "We postponed the outdoor workshop ------- the lightning warning.",
+    "options": [
+     {
+      "key": "A",
+      "text": "because of"
+     },
+     {
+      "key": "B",
+      "text": "because"
+     },
+     {
+      "key": "C",
+      "text": "although"
+     },
+     {
+      "key": "D",
+      "text": "while"
+     }
+    ],
+    "correct_answer": "A",
+    "explanation": "The lightning warning là cụm danh từ chỉ nguyên nhân, nên dùng because of.",
+    "translation": "Chúng tôi hoãn buổi hội thảo ngoài trời vì cảnh báo sét."
+   },
+   {
+    "question_text": "The staff will start distributing passes ------- the doors open.",
+    "options": [
+     {
+      "key": "A",
+      "text": "during"
+     },
+     {
+      "key": "B",
+      "text": "once"
+     },
+     {
+      "key": "C",
+      "text": "despite"
+     },
+     {
+      "key": "D",
+      "text": "because of"
+     }
+    ],
+    "correct_answer": "B",
+    "explanation": "Once nối với mệnh đề the doors open để chỉ khi một việc xảy ra thì việc khác bắt đầu.",
+    "translation": "Nhân viên sẽ bắt đầu phát thẻ ngay khi cửa mở."
    }
   ]
  }

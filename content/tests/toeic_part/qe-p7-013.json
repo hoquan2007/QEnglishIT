@@ -1,0 +1,1192 @@
+{
+  "slug": "qe-p7-013",
+  "title": "TOEIC Part 7 Practice 13 – Field Operations, Publishing, and Venue Management",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 29,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part7",
+    "reading",
+    "business-english"
+  ],
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 29
+    }
+  ],
+  "groups": [
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Field log — Norwell Survey**\nThe footbridge marker on yesterday's map is accurate, but delivery vans cannot use the bridge. It is narrow and has steps at the far end. Drivers should enter from Reed Avenue and follow the orange posts to Plot 6. The route marked with blue posts ends on soft ground and should be used only by staff on foot. I moved the portable radio to the tool shed this morning. It reaches the main office from there, although it failed to connect from the bridge.",
+      "passage_vi": "**Nhật ký hiện trường — Norwell Survey**\nVị trí cầu đi bộ trên bản đồ hôm qua là chính xác, nhưng xe giao hàng không qua được cầu. Cầu hẹp và đầu bên kia có bậc thang. Tài xế nên vào từ đại lộ Reed và đi theo cọc cam đến Lô 6. Đường cọc xanh kết thúc ở nền đất mềm và chỉ dành cho nhân viên đi bộ. Sáng nay tôi đã chuyển bộ đàm cầm tay đến nhà kho dụng cụ. Từ đó bộ đàm liên lạc được với văn phòng chính, dù ở cầu thì không.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why was the log entry written?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To propose rebuilding the bridge"
+            },
+            {
+              "key": "B",
+              "text": "To give the crew access and communication updates"
+            },
+            {
+              "key": "C",
+              "text": "To request a replacement surveying map"
+            },
+            {
+              "key": "D",
+              "text": "To count vehicles at a field site"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ghi chép cập nhật đường vào và vị trí bộ đàm hoạt động.",
+          "translation": "Ghi chép này nhằm mục đích gì?",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which route should delivery vans follow?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The one with orange markers"
+            },
+            {
+              "key": "B",
+              "text": "The path with blue posts"
+            },
+            {
+              "key": "C",
+              "text": "The path over the bridge"
+            },
+            {
+              "key": "D",
+              "text": "The route through the tool shed"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Xe vào từ đại lộ Reed và theo cọc cam.",
+          "translation": "Xe giao hàng nên theo tuyến nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is true of the route with blue posts?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has steps at its entrance."
+            },
+            {
+              "key": "B",
+              "text": "It leads to the main office."
+            },
+            {
+              "key": "C",
+              "text": "It ends on soft ground."
+            },
+            {
+              "key": "D",
+              "text": "It is reserved for trucks."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đường cọc xanh kết thúc ở nền đất mềm.",
+          "translation": "Đường có cọc xanh có đặc điểm gì?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where should a crew member go to radio the main office?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The soft ground"
+            },
+            {
+              "key": "B",
+              "text": "The delivery entrance"
+            },
+            {
+              "key": "C",
+              "text": "The tool shed"
+            },
+            {
+              "key": "D",
+              "text": "The far end of the bridge"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bộ đàm đã được chuyển tới nhà kho và liên lạc được từ đó.",
+          "translation": "Nhân viên nên đến đâu để gọi bộ đàm cho văn phòng chính?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What does the writer say about the map?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It does not include Plot 6."
+            },
+            {
+              "key": "B",
+              "text": "It mistakenly identifies Reed Avenue."
+            },
+            {
+              "key": "C",
+              "text": "It lists out-of-date radio channels."
+            },
+            {
+              "key": "D",
+              "text": "It shows the footbridge in the correct place."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Ghi chép xác nhận vị trí cầu trên bản đồ là chính xác.",
+          "translation": "Người viết nói gì về bản đồ?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**From: Mina Blake, manuscript editor**\nThe copy for our pocket atlas is now locked. You can still report errors, but changes that affect the length of a caption will be deferred to the next printing. The index, on the other hand, is being regenerated on Wednesday, so please check its place names by Tuesday afternoon. [1] The map sheets are with the cartography team. [2] If your query concerns a boundary or line color, send it directly to that team. [3] All other questions can come to me. [4] I will respond before the proof leaves on Thursday.",
+      "passage_vi": "**Từ: Mina Blake, biên tập viên bản thảo**\nPhần nội dung của tập bản đồ bỏ túi đã được khóa. Vẫn có thể báo lỗi, nhưng thay đổi làm ảnh hưởng độ dài chú thích sẽ để tới lần in sau. Mục lục tra cứu sẽ được tạo lại thứ Tư, nên vui lòng kiểm tra địa danh trong đó trước hoặc trong chiều thứ Ba. [1] Các tờ bản đồ đang do nhóm bản đồ học phụ trách. [2] Nếu hỏi về ranh giới hoặc màu đường nét, hãy gửi trực tiếp cho nhóm đó. [3] Các câu hỏi khác cứ gửi tôi. [4] Tôi sẽ phản hồi trước khi bản in thử được gửi đi thứ Năm.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 6,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "The word “deferred” is closest in meaning to what?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Detected"
+            },
+            {
+              "key": "B",
+              "text": "Estimated"
+            },
+            {
+              "key": "C",
+              "text": "Authorized"
+            },
+            {
+              "key": "D",
+              "text": "Postponed"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thay đổi độ dài chú thích được hoãn tới lần in sau.",
+          "translation": "Từ “deferred” gần nghĩa nhất với từ nào?",
+          "difficulty": 3,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should staff do by Tuesday afternoon?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Review the boundary colors with Mina."
+            },
+            {
+              "key": "B",
+              "text": "Rewrite the longer captions."
+            },
+            {
+              "key": "C",
+              "text": "Verify names in the index."
+            },
+            {
+              "key": "D",
+              "text": "Ship the final proof."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Mina yêu cầu kiểm tra địa danh trong mục lục trước khi tạo lại.",
+          "translation": "Nhân viên nên làm gì chậm nhất vào chiều thứ Ba?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where does “They are the only staff who can adjust the graphics at this stage.” fit best?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[2]"
+            },
+            {
+              "key": "B",
+              "text": "[3]"
+            },
+            {
+              "key": "C",
+              "text": "[1]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau khi giới thiệu nhóm bản đồ học ở [2], câu này giải thích vì sao câu hỏi đồ họa phải gửi cho họ.",
+          "translation": "Câu “Ở giai đoạn này chỉ nhóm đó mới có thể chỉnh phần đồ họa” phù hợp nhất ở đâu?",
+          "difficulty": 4,
+          "tags": [
+            "insertion"
+          ],
+          "skill_tags": [
+            "insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will happen to a correction that makes a caption longer?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will be added to the index."
+            },
+            {
+              "key": "B",
+              "text": "It will be implemented on Wednesday."
+            },
+            {
+              "key": "C",
+              "text": "It will go straight to the cartography team."
+            },
+            {
+              "key": "D",
+              "text": "It will wait for a later printing."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Mina nói các sửa đổi ảnh hưởng độ dài chú thích để tới lần in sau.",
+          "translation": "Một lỗi cần sửa bằng cách kéo dài chú thích sẽ được xử lý thế nào?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When is the proof scheduled to leave?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wednesday morning"
+            },
+            {
+              "key": "B",
+              "text": "Tuesday afternoon"
+            },
+            {
+              "key": "C",
+              "text": "Thursday"
+            },
+            {
+              "key": "D",
+              "text": "At the next printing"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Mina sẽ phản hồi trước khi bản in thử được gửi đi thứ Năm.",
+          "translation": "Bản in thử dự kiến được gửi đi khi nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Tern Hall — Booking sheet**\nRoom / Seats / Equipment\nAspen / 22 / fixed screen, sound system\nLarch / 32 / portable screen, movable tables\nBeech / 40 / fixed screen, no tables\nWireless microphones are available from the desk. On July 8, Beech will close at noon for maintenance.\n---\n**Message from Kian, training coordinator — July 8**\nTwenty-six staff are taking the 2 P.M. course. The participants will work in teams and spread out sample invoices on tables. Our instructor is bringing a projector but asked if we could borrow a microphone. Please assign a room and send everyone its name by 11.",
+      "passage_vi": "**Tern Hall — Bảng đặt phòng**\nPhòng / Số chỗ / Thiết bị\nAspen / 22 / màn cố định, hệ thống âm thanh\nLarch / 32 / màn di động, bàn có thể di chuyển\nBeech / 40 / màn cố định, không có bàn\nCó thể mượn micrô không dây tại quầy. Ngày 8/7, Beech đóng lúc 12 giờ để bảo trì.\n---\n**Tin nhắn của Kian, điều phối đào tạo — 8/7**\nCó 26 nhân viên dự khóa lúc 14 giờ. Học viên sẽ làm việc theo nhóm và trải hóa đơn mẫu trên bàn. Giảng viên mang máy chiếu nhưng hỏi liệu có thể mượn micrô không. Hãy bố trí phòng và gửi tên phòng cho mọi người trước hoặc đúng 11 giờ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which room best suits the course?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Aspen"
+            },
+            {
+              "key": "B",
+              "text": "Beech"
+            },
+            {
+              "key": "C",
+              "text": "The reception area"
+            },
+            {
+              "key": "D",
+              "text": "Larch"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Larch đủ 26 chỗ, có bàn và màn chiếu. Aspen thiếu chỗ, còn Beech thiếu bàn và đóng cửa lúc 12 giờ.",
+          "translation": "Phòng nào phù hợp nhất với khóa học?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will the instructor supply?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A set of desks"
+            },
+            {
+              "key": "B",
+              "text": "A projector"
+            },
+            {
+              "key": "C",
+              "text": "A wireless microphone"
+            },
+            {
+              "key": "D",
+              "text": "A portable screen"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Kian nói giảng viên sẽ mang máy chiếu và hỏi mượn micrô.",
+          "translation": "Giảng viên sẽ tự mang gì?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where can Kian obtain the requested microphone?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the Aspen storage cabinet"
+            },
+            {
+              "key": "B",
+              "text": "From the instructor"
+            },
+            {
+              "key": "C",
+              "text": "Inside Beech after noon"
+            },
+            {
+              "key": "D",
+              "text": "At the desk"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bảng đặt phòng ghi micrô không dây có thể mượn tại quầy.",
+          "translation": "Kian có thể lấy micrô được yêu cầu ở đâu?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What must be communicated by 11 A.M.?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The start time of the maintenance work"
+            },
+            {
+              "key": "B",
+              "text": "The name of the assigned room"
+            },
+            {
+              "key": "C",
+              "text": "The location of the sample invoices"
+            },
+            {
+              "key": "D",
+              "text": "The number of available microphones"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Kian yêu cầu gửi tên phòng cho mọi người chậm nhất lúc 11 giờ.",
+          "translation": "Cần gửi thông tin gì trước hoặc đúng 11 giờ sáng?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why are tables needed for the course?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The instructor's microphones must be mounted on them."
+            },
+            {
+              "key": "B",
+              "text": "Participants will work with printed materials in groups."
+            },
+            {
+              "key": "C",
+              "text": "The projector cannot reach the screen from the floor."
+            },
+            {
+              "key": "D",
+              "text": "Participants will take a break for lunch there."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Các nhóm cần chỗ để trải hóa đơn mẫu khi làm việc.",
+          "translation": "Vì sao khóa học cần bàn?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Local trade bulletin — A quieter press**\nBexley Print replaced the door seals around its oldest letterpress room after a neighboring recording studio reported low-frequency noise. New seals reduced noise near the shared wall, but recordings still picked up vibrations through the floor. The printer now runs that press before 9 A.M. because the studio usually records after ten. Afternoon orders are handled on its newer, quieter press. The studio agreed to phone Bexley if it needs to book an early recording. Since the arrangement began, both businesses have kept their regular opening hours.",
+      "passage_vi": "**Bản tin thương mại địa phương — Máy in chạy êm hơn**\nBexley Print thay gioăng cửa phòng máy in chữ nổi cũ nhất sau khi phòng thu bên cạnh báo có tiếng ồn tần số thấp. Gioăng mới giảm tiếng ồn gần tường chung, nhưng bản thu vẫn ghi phải rung động truyền qua sàn. Xưởng hiện chạy máy đó trước 9 giờ sáng vì phòng thu thường ghi âm sau 10 giờ. Đơn buổi chiều được xử lý trên máy mới chạy êm hơn. Phòng thu đồng ý gọi Bexley nếu cần đặt lịch thu sớm. Từ khi thỏa thuận bắt đầu, hai bên vẫn giữ giờ mở cửa thường lệ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the bulletin mainly about?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How neighboring businesses addressed a noise problem"
+            },
+            {
+              "key": "B",
+              "text": "Why a print shop changed its opening hours"
+            },
+            {
+              "key": "C",
+              "text": "How a studio selects equipment for recording"
+            },
+            {
+              "key": "D",
+              "text": "Why a building owner replaced a shared floor"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bài nêu biện pháp kỹ thuật và cách hai bên sắp lịch để xử lý tiếng ồn.",
+          "translation": "Bản tin chủ yếu nói về điều gì?",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What problem continued after the seals were replaced?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The new press could not handle afternoon orders."
+            },
+            {
+              "key": "B",
+              "text": "Vibrations traveled through the floor."
+            },
+            {
+              "key": "C",
+              "text": "The shared wall began to crack."
+            },
+            {
+              "key": "D",
+              "text": "The recording equipment stopped working."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Dù tiếng ồn gần tường giảm, rung động qua sàn vẫn lọt vào bản thu.",
+          "translation": "Vấn đề gì vẫn xảy ra sau khi thay gioăng?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should the studio do before scheduling a recording at 8:30?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Inspect the door seals itself."
+            },
+            {
+              "key": "B",
+              "text": "Ask clients to enter after ten."
+            },
+            {
+              "key": "C",
+              "text": "Book time on the newer press."
+            },
+            {
+              "key": "D",
+              "text": "Notify Bexley Print by phone."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Phòng thu đã đồng ý gọi cho xưởng nếu cần ghi âm sớm.",
+          "translation": "Phòng thu nên làm gì trước khi lên lịch thu lúc 8:30?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What happens to afternoon print jobs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are moved to the following morning."
+            },
+            {
+              "key": "B",
+              "text": "They are run on a more recent machine."
+            },
+            {
+              "key": "C",
+              "text": "They are assigned to the oldest letterpress."
+            },
+            {
+              "key": "D",
+              "text": "They are sent to the neighboring business."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đơn buổi chiều chạy trên máy đời mới, êm hơn.",
+          "translation": "Đơn in buổi chiều được xử lý thế nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "The phrase “picked up” is closest in meaning to what?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Detected"
+            },
+            {
+              "key": "B",
+              "text": "Lifted"
+            },
+            {
+              "key": "C",
+              "text": "Recovered from damage"
+            },
+            {
+              "key": "D",
+              "text": "Collected in person"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bản ghi âm vẫn thu được rung động truyền qua sàn.",
+          "translation": "Cụm “picked up” gần nghĩa nhất với cụm nào?",
+          "difficulty": 3,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Work exchange chat — 8:12 A.M.**\nDario: Are the spare visitor tablets in reception?\nSuki: Two are there, but neither will connect to the presentation screens. The adapters are still in Marta's van.\nDario: The presenters arrive at nine. Our screen can mirror a tablet over the building network, but only if the tablet has been enrolled.\nSuki: The guide's tablet is already enrolled. I'll check whether the tour desk needs it this morning.\nDario: Thanks. If they do, I'll ask the presenters to use my laptop. I have the files on it already.",
+      "passage_vi": "**Trò chuyện công việc — 8:12 sáng**\nDario: Máy tính bảng dự phòng cho khách có ở quầy lễ tân không?\nSuki: Có hai cái, nhưng không cái nào kết nối được với màn hình trình chiếu. Bộ chuyển đổi vẫn ở trong xe của Marta.\nDario: Người thuyết trình đến lúc 9 giờ. Màn hình có thể chiếu nội dung từ máy tính bảng qua mạng của tòa nhà, nhưng thiết bị phải được đăng ký vào hệ thống.\nSuki: Máy của hướng dẫn viên đã được đăng ký. Tôi sẽ hỏi quầy tham quan xem họ có cần dùng sáng nay không.\nDario: Cảm ơn. Nếu họ cần, tôi sẽ nhờ người thuyết trình dùng máy tính xách tay của tôi. Tôi đã có tệp trong máy.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where are the adapters?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the tour desk"
+            },
+            {
+              "key": "B",
+              "text": "In Marta's van"
+            },
+            {
+              "key": "C",
+              "text": "In Dario's laptop case"
+            },
+            {
+              "key": "D",
+              "text": "Beside the presentation screens"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Suki cho biết bộ chuyển đổi vẫn trong xe Marta.",
+          "translation": "Các bộ chuyển đổi đang ở đâu?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What does Suki mean by “I'll check whether the tour desk needs it”?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She will see if a working tablet can be borrowed."
+            },
+            {
+              "key": "B",
+              "text": "She will find out which files the presenters need."
+            },
+            {
+              "key": "C",
+              "text": "She will offer to lead the tour herself."
+            },
+            {
+              "key": "D",
+              "text": "She will ask visitors to return two spare tablets."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Suki sẽ xác định xem máy đã đăng ký của hướng dẫn viên có thể cho mượn không.",
+          "translation": "Suki muốn nói gì khi bảo sẽ hỏi quầy tham quan có cần thiết bị không?",
+          "difficulty": 3,
+          "tags": [
+            "intent"
+          ],
+          "skill_tags": [
+            "intent"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How could the guide's tablet display the presentation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By linking directly to Marta's van"
+            },
+            {
+              "key": "B",
+              "text": "By connecting to the screen over the building network"
+            },
+            {
+              "key": "C",
+              "text": "By using an adapter at reception"
+            },
+            {
+              "key": "D",
+              "text": "By having the tour desk install a different screen"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Máy của hướng dẫn viên đã đăng ký nên đáp ứng điều kiện chiếu qua mạng.",
+          "translation": "Máy tính bảng của hướng dẫn viên có thể chiếu bài bằng cách nào?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is Dario's backup plan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Order more visitor tablets."
+            },
+            {
+              "key": "B",
+              "text": "Delay the presenters' arrival."
+            },
+            {
+              "key": "C",
+              "text": "Let the presenters use his laptop."
+            },
+            {
+              "key": "D",
+              "text": "Move the talk to the tour desk."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Nếu quầy cần máy tính bảng, Dario sẽ cho người thuyết trình dùng máy của mình.",
+          "translation": "Dario có phương án dự phòng nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is already on Dario's laptop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A directory of visitors"
+            },
+            {
+              "key": "B",
+              "text": "A recording of the tour"
+            },
+            {
+              "key": "C",
+              "text": "The building's tablet enrollment form"
+            },
+            {
+              "key": "D",
+              "text": "The presentation files"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Dario nói đã có sẵn các tệp cần dùng trên máy.",
+          "translation": "Máy của Dario đã có gì?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Cooper Wharf — Contractor check-in guide**\nNew contractors: present photo ID and watch a 15-minute safety briefing. Returning contractors: show the badge from your previous visit. Anyone arriving before the main office opens at 8 A.M. must report to the guard hut. Permits for working over water come from the dock supervisor only.\n---\n**Email from Arlen Rigging — November 3**\nTwo riggers will be at the wharf tomorrow. Esme has inspected your crane twice this year and still has her current badge. Liam is replacing Benoit and hasn't worked at your site before. They expect to get there at 7:30 and start on the shore-side platform. They won't need to work over water until after lunch.\n---\n**Dock supervisor's notice — November 4**\nI'll be on a tug until 1:15. The guard hut can contact me by radio for emergencies, but I won't issue permits until I'm back at the dock.",
+      "passage_vi": "**Cooper Wharf — Hướng dẫn tiếp nhận nhà thầu**\nNgười mới: xuất trình giấy tờ có ảnh và xem hướng dẫn an toàn 15 phút. Người quay lại: xuất trình thẻ từ lần trước. Ai đến trước giờ văn phòng chính mở cửa lúc 8 giờ sáng đều phải trình diện tại chốt bảo vệ. Chỉ giám sát cầu cảng cấp phép làm việc trên mặt nước.\n---\n**Email từ Arlen Rigging — 3/11**\nHai thợ lắp đặt sẽ có mặt ở cầu cảng ngày mai. Esme đã kiểm tra cần cẩu của quý vị hai lần năm nay và vẫn giữ thẻ hiện hành. Liam thay Benoit và chưa từng làm ở đây. Họ dự kiến đến lúc 7:30 và bắt đầu ở sàn phía bờ. Sau giờ ăn trưa họ mới cần làm việc trên mặt nước.\n---\n**Thông báo của giám sát cầu cảng — 4/11**\nTôi sẽ ở trên tàu kéo đến 13:15. Chốt bảo vệ có thể gọi bộ đàm trong trường hợp khẩn cấp, nhưng tôi chỉ cấp phép khi quay lại cầu cảng.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where should the two riggers report on arrival?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the guard hut"
+            },
+            {
+              "key": "B",
+              "text": "At the shore-side platform"
+            },
+            {
+              "key": "C",
+              "text": "On the tug"
+            },
+            {
+              "key": "D",
+              "text": "At the main office"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Họ đến lúc 7:30, trước giờ mở cửa văn phòng, nên phải đến chốt bảo vệ.",
+          "translation": "Hai thợ lắp đặt nên trình diện ở đâu khi đến?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which person must watch the safety briefing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Benoit"
+            },
+            {
+              "key": "B",
+              "text": "The dock supervisor"
+            },
+            {
+              "key": "C",
+              "text": "Liam"
+            },
+            {
+              "key": "D",
+              "text": "Esme"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Liam mới lần đầu đến làm việc, nên thuộc nhóm phải xem hướng dẫn.",
+          "translation": "Ai phải xem hướng dẫn an toàn?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What can Esme use to check in?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A permit kept on the tug"
+            },
+            {
+              "key": "B",
+              "text": "A copy of the crane inspection"
+            },
+            {
+              "key": "C",
+              "text": "Her current contractor badge"
+            },
+            {
+              "key": "D",
+              "text": "Benoit's replacement form"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Esme có thẻ từ lần trước và hướng dẫn cho phép người quay lại dùng thẻ.",
+          "translation": "Esme có thể dùng gì để làm thủ tục vào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What could prevent the crew from moving over water at 1 P.M.?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The only permit issuer will still be away."
+            },
+            {
+              "key": "B",
+              "text": "Both riggers must renew their badges first."
+            },
+            {
+              "key": "C",
+              "text": "The guard hut opens later in the afternoon."
+            },
+            {
+              "key": "D",
+              "text": "The shore platform is reserved for a tug."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Chỉ giám sát được cấp phép và người này chưa quay lại lúc 13 giờ.",
+          "translation": "Điều gì có thể khiến đội chưa thể ra làm trên mặt nước lúc 13 giờ?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How can the guard reach the supervisor in an emergency?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By sending a visitor to the tug"
+            },
+            {
+              "key": "B",
+              "text": "By using a permit kiosk"
+            },
+            {
+              "key": "C",
+              "text": "By calling the main office"
+            },
+            {
+              "key": "D",
+              "text": "By radio"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thông báo nói chốt bảo vệ có thể liên lạc bằng bộ đàm.",
+          "translation": "Bảo vệ có thể liên lạc với giám sát bằng cách nào khi khẩn cấp?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

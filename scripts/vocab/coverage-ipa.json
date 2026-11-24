@@ -1,12 +1,12 @@
 {
   "headwords": 10500,
-  "both": 10068,
+  "both": 10069,
   "counts": {
     "us": 10383,
     "ipa-dict-us:us": 10372,
-    "uk": 10127,
+    "uk": 10128,
     "ipa-dict-uk:uk": 9898,
-    "kaikki-simple:uk": 229,
+    "kaikki-simple:uk": 230,
     "kaikki-simple:us": 11
   },
   "missing": {
@@ -389,7 +389,6 @@
       "obligate",
       "covariance",
       "privatize",
-      "furor",
       "overcharge",
       "anticancer",
       "indent",
@@ -795,9 +794,9 @@
       "dialect": "us"
     },
     {
-      "file": "kaikki-simple/uk-00001-00229.json",
-      "sha256": "80360ca744742032fbb12739a19daf2a0af00aea15884af636d4d2265bc73beb",
-      "rows": 229,
+      "file": "kaikki-simple/uk-00001-00230.json",
+      "sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843",
+      "rows": 230,
       "source": "kaikki-simple",
       "dialect": "uk"
     },

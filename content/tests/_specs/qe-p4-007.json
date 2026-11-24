@@ -1,0 +1,126 @@
+{
+  "slug": "qe-p4-007",
+  "content_path": "content/tests/toeic_part/qe-p4-007.json",
+  "title": "QEnglish TOEIC Part 4 Draft Test 007",
+  "exam_type": "toeic_part",
+  "level": "B2-C1",
+  "difficulty": 4,
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "originality": {
+    "authorship": "original",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Quarterly procurement cost report",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Airline gate and connection announcement",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Vendor voicemail negotiating a production deadline",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Laboratory sample handling instruction",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Local radio report on a farmers market expansion",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Research conference scheduling announcement",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "IT incident status report",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Compliance training instruction on confidential documents",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Property manager voicemail about a water inspection",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Sustainability report on delivery fleet trial",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

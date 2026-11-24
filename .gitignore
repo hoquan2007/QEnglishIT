@@ -17,6 +17,8 @@ tools/*/.next/
 # Downloaded linguistic corpora and generated media stay local.
 content/vocab/raw/
 media/
+scripts/audio/.cache/
+scripts/audio/local.config.json
 *.wav
 *.mp3
 *.ogg

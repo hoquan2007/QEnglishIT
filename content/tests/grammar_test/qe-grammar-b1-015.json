@@ -1,0 +1,1508 @@
+{
+  "slug": "qe-grammar-b1-015",
+  "title": "B1 Grammar – Projects and Deadlines",
+  "collection": "QEnglishIT Grammar Assessments",
+  "exam_type": "grammar_test",
+  "level": "600",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "grammar",
+    "B1",
+    "intermediate"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Intermediate Grammar in Context",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The deadline is noon tomorrow. So far, three people ------- their applications.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had submitted"
+            },
+            {
+              "key": "B",
+              "text": "have submit"
+            },
+            {
+              "key": "C",
+              "text": "are submitted"
+            },
+            {
+              "key": "D",
+              "text": "have submitted"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So far chỉ kết quả tính đến lúc nói, nên dùng have submitted.",
+          "translation": "Hạn cuối là giữa trưa mai. Tính đến giờ, ba người đã nộp đơn.",
+          "difficulty": 3,
+          "tags": [
+            "present-perfect"
+          ],
+          "skill_tags": [
+            "present-perfect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "'I'd prefer to print the handouts tomorrow.' 'So ------- I. We might still make changes today.'",
+          "options": [
+            {
+              "key": "A",
+              "text": "would"
+            },
+            {
+              "key": "B",
+              "text": "do"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "am"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Câu đồng tình có dạng So + trợ động từ + chủ ngữ. I'd prefer chứa would, nên đáp lại bằng So would I.",
+          "translation": "“Tôi muốn in tài liệu phát tay vào ngày mai hơn.” “Tôi cũng vậy. Hôm nay có thể chúng ta vẫn sửa thêm.”",
+          "difficulty": 3,
+          "tags": [
+            "so-do-i"
+          ],
+          "skill_tags": [
+            "so-do-i"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The designer for ------- I prepared the slides sent me a thank-you note.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Khi giới từ for đứng ngay trước đại từ quan hệ chỉ người ở văn phong trang trọng, dùng whom.",
+          "translation": "Nhà thiết kế mà tôi chuẩn bị slide giúp đã gửi lời cảm ơn cho tôi.",
+          "difficulty": 3,
+          "tags": [
+            "relative-clauses"
+          ],
+          "skill_tags": [
+            "relative-clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "These badges ------- at the entrance on the first day of the course.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be handing out"
+            },
+            {
+              "key": "B",
+              "text": "will be handed out"
+            },
+            {
+              "key": "C",
+              "text": "will hand out"
+            },
+            {
+              "key": "D",
+              "text": "had already handed out"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Badges là vật được phát, nên dùng will be + handed out cho thể bị động trong tương lai.",
+          "translation": "Những thẻ này sẽ được phát ở lối vào trong ngày đầu của khóa học.",
+          "difficulty": 3,
+          "tags": [
+            "passive-voice"
+          ],
+          "skill_tags": [
+            "passive-voice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The courier denied ------- the parcel outside overnight, but the camera showed otherwise.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to leave"
+            },
+            {
+              "key": "B",
+              "text": "leave"
+            },
+            {
+              "key": "C",
+              "text": "to leaving"
+            },
+            {
+              "key": "D",
+              "text": "leaving"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Deny + dạng -ing diễn tả phủ nhận đã thực hiện hành động đó.",
+          "translation": "Nhân viên giao hàng phủ nhận đã để bưu kiện ngoài trời qua đêm, nhưng camera cho thấy điều ngược lại.",
+          "difficulty": 3,
+          "tags": [
+            "reporting-verbs"
+          ],
+          "skill_tags": [
+            "reporting-verbs"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The data file is too large for my laptop. If I ------- a faster computer, I could open it here.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have had"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "will have"
+            },
+            {
+              "key": "D",
+              "text": "had"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "If + had đưa ra giả định trái với hiện tại. Mệnh đề kết quả dùng could.",
+          "translation": "Tệp dữ liệu quá lớn đối với máy tính xách tay của tôi. Nếu có máy nhanh hơn, tôi có thể mở nó ở đây.",
+          "difficulty": 3,
+          "tags": [
+            "second-conditional"
+          ],
+          "skill_tags": [
+            "second-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "To keep the talk within ten minutes, I avoided ------- every number on the chart.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reading out"
+            },
+            {
+              "key": "B",
+              "text": "to read out"
+            },
+            {
+              "key": "C",
+              "text": "read out"
+            },
+            {
+              "key": "D",
+              "text": "to reading out"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau avoid, dùng dạng -ing để nêu hành động được tránh.",
+          "translation": "Để bài trình bày không quá mười phút, tôi tránh đọc to từng con số trên biểu đồ.",
+          "difficulty": 3,
+          "tags": [
+            "gerunds"
+          ],
+          "skill_tags": [
+            "gerunds"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "In spite ------- the extra cost, we chose the stronger material.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "of"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "In spite of + cụm danh từ diễn tả sự nhượng bộ.",
+          "translation": "Dù tốn thêm tiền, chúng tôi vẫn chọn loại vật liệu bền hơn.",
+          "difficulty": 3,
+          "tags": [
+            "contrast-linkers"
+          ],
+          "skill_tags": [
+            "contrast-linkers"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Could you check ------- still room for another table?",
+          "options": [
+            {
+              "key": "A",
+              "text": "is there"
+            },
+            {
+              "key": "B",
+              "text": "whether is there"
+            },
+            {
+              "key": "C",
+              "text": "whether there will"
+            },
+            {
+              "key": "D",
+              "text": "whether there's"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Whether giới thiệu câu hỏi gián tiếp, sau đó dùng trật tự there is.",
+          "translation": "Bạn kiểm tra giúp xem còn chỗ kê thêm một cái bàn không?",
+          "difficulty": 3,
+          "tags": [
+            "embedded-questions"
+          ],
+          "skill_tags": [
+            "embedded-questions"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The last collection is in ten minutes. We'd better ------- these envelopes now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to seal"
+            },
+            {
+              "key": "B",
+              "text": "sealing"
+            },
+            {
+              "key": "C",
+              "text": "sealed"
+            },
+            {
+              "key": "D",
+              "text": "seal"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Had better đi với động từ nguyên mẫu không có to khi khuyên làm một việc cần thiết.",
+          "translation": "Mười phút nữa là tới lượt thu thư cuối. Chúng ta nên dán ngay mấy phong bì này.",
+          "difficulty": 3,
+          "tags": [
+            "had-better"
+          ],
+          "skill_tags": [
+            "had-better"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "I'll wait here until the courier ------- the parcel.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would collect"
+            },
+            {
+              "key": "B",
+              "text": "had collected"
+            },
+            {
+              "key": "C",
+              "text": "will collect"
+            },
+            {
+              "key": "D",
+              "text": "collects"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau until chỉ thời điểm tương lai, dùng hiện tại đơn collects.",
+          "translation": "Tôi sẽ đợi ở đây cho đến khi nhân viên giao nhận đến lấy bưu kiện.",
+          "difficulty": 3,
+          "tags": [
+            "future-time-clauses"
+          ],
+          "skill_tags": [
+            "future-time-clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "I apologised ------- sending the wrong attachment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "from"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Apologise for + dạng -ing dùng để xin lỗi về một hành động.",
+          "translation": "Tôi xin lỗi vì đã gửi nhầm tệp đính kèm.",
+          "difficulty": 3,
+          "tags": [
+            "prepositions"
+          ],
+          "skill_tags": [
+            "prepositions"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The more examples we add, the ------- time we'll have for questions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "least"
+            },
+            {
+              "key": "B",
+              "text": "less"
+            },
+            {
+              "key": "C",
+              "text": "fewer"
+            },
+            {
+              "key": "D",
+              "text": "fewest"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Dùng the + so sánh hơn ở cả hai vế. Less đi với time không đếm được.",
+          "translation": "Chúng ta càng thêm nhiều ví dụ thì càng có ít thời gian trả lời câu hỏi.",
+          "difficulty": 3,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The room won't be ready in time ------- someone helps me move these desks right now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "while"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "although"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Unless diễn tả điều kiện cần để phòng kịp sẵn sàng.",
+          "translation": "Phòng sẽ không kịp sẵn sàng nếu không có ai giúp tôi chuyển mấy cái bàn ngay bây giờ.",
+          "difficulty": 3,
+          "tags": [
+            "conditionals-unless"
+          ],
+          "skill_tags": [
+            "conditionals-unless"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "We could finish the survey sooner if we had a ------- more volunteers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "few"
+            },
+            {
+              "key": "B",
+              "text": "several"
+            },
+            {
+              "key": "C",
+              "text": "much"
+            },
+            {
+              "key": "D",
+              "text": "little"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "A few more dùng trước danh từ đếm được số nhiều volunteers.",
+          "translation": "Chúng ta có thể hoàn thành khảo sát sớm hơn nếu có thêm vài tình nguyện viên.",
+          "difficulty": 3,
+          "tags": [
+            "quantifiers"
+          ],
+          "skill_tags": [
+            "quantifiers"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The customer asked us ------- from the price on the website.",
+          "options": [
+            {
+              "key": "A",
+              "text": "why the price different was"
+            },
+            {
+              "key": "B",
+              "text": "why did the price differ"
+            },
+            {
+              "key": "C",
+              "text": "why the price was different"
+            },
+            {
+              "key": "D",
+              "text": "why was the price different"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trong câu hỏi thuật lại, sau why là chủ ngữ the price rồi đến was.",
+          "translation": "Khách hàng hỏi chúng tôi vì sao mức giá lại khác giá trên trang web.",
+          "difficulty": 3,
+          "tags": [
+            "reported-questions"
+          ],
+          "skill_tags": [
+            "reported-questions"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The supervisor made me ------- the labels before sending out the boxes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to check"
+            },
+            {
+              "key": "B",
+              "text": "checking"
+            },
+            {
+              "key": "C",
+              "text": "check"
+            },
+            {
+              "key": "D",
+              "text": "checked"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trong câu chủ động, make + người + động từ nguyên mẫu không có to diễn tả việc buộc ai làm gì.",
+          "translation": "Người giám sát yêu cầu tôi kiểm tra nhãn trước khi gửi các thùng hàng đi.",
+          "difficulty": 3,
+          "tags": [
+            "infinitives"
+          ],
+          "skill_tags": [
+            "infinitives"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The office printer only prints in black and white. I wish it ------- print in colour.",
+          "options": [
+            {
+              "key": "A",
+              "text": "can"
+            },
+            {
+              "key": "B",
+              "text": "will"
+            },
+            {
+              "key": "C",
+              "text": "has to"
+            },
+            {
+              "key": "D",
+              "text": "could"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau wish, could print diễn tả một khả năng mong muốn mà hiện tại máy in không có.",
+          "translation": "Máy in văn phòng chỉ in đen trắng. Ước gì nó in màu được.",
+          "difficulty": 3,
+          "tags": [
+            "wish"
+          ],
+          "skill_tags": [
+            "wish"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "I ------- the order form when the website suddenly logged me out.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was filling in"
+            },
+            {
+              "key": "B",
+              "text": "had fill in"
+            },
+            {
+              "key": "C",
+              "text": "am filling in"
+            },
+            {
+              "key": "D",
+              "text": "have filled in"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Was filling in chỉ hành động đang diễn ra khi sự cố xảy ra trong quá khứ.",
+          "translation": "Tôi đang điền đơn đặt hàng thì trang web đột ngột đăng xuất tài khoản của tôi.",
+          "difficulty": 3,
+          "tags": [
+            "past-continuous"
+          ],
+          "skill_tags": [
+            "past-continuous"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Put the date in the file name ------- finding the newest copy will be easier.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in order to"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So that giới thiệu mệnh đề chỉ mục đích, với finding the newest copy làm chủ ngữ.",
+          "translation": "Hãy đưa ngày vào tên tệp để dễ tìm bản mới nhất.",
+          "difficulty": 3,
+          "tags": [
+            "purpose-clauses"
+          ],
+          "skill_tags": [
+            "purpose-clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Eli is used to ------- notes by hand, so typing them during meetings felt strange at first.",
+          "options": [
+            {
+              "key": "A",
+              "text": "taking"
+            },
+            {
+              "key": "B",
+              "text": "took"
+            },
+            {
+              "key": "C",
+              "text": "take"
+            },
+            {
+              "key": "D",
+              "text": "be taking"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "To trong be used to là giới từ, nên sau nó dùng dạng -ing.",
+          "translation": "Eli quen ghi chú bằng tay, nên lúc đầu việc gõ ghi chú trong cuộc họp có vẻ lạ.",
+          "difficulty": 3,
+          "tags": [
+            "used-to"
+          ],
+          "skill_tags": [
+            "used-to"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Inez sent the revised schedule yesterday, -------?",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't she"
+            },
+            {
+              "key": "B",
+              "text": "doesn't she"
+            },
+            {
+              "key": "C",
+              "text": "wasn't she"
+            },
+            {
+              "key": "D",
+              "text": "hasn't she"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sent là quá khứ đơn khẳng định, nên phần đuôi dùng didn't she.",
+          "translation": "Hôm qua Inez gửi lịch đã sửa rồi, đúng không?",
+          "difficulty": 3,
+          "tags": [
+            "question-tags"
+          ],
+          "skill_tags": [
+            "question-tags"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "I finally found a drawer ------- I can keep all the spare cables.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Where thay cho in the drawer trong mệnh đề quan hệ chỉ nơi cất dây.",
+          "translation": "Cuối cùng tôi đã tìm được một ngăn kéo để cất tất cả dây cáp dự phòng.",
+          "difficulty": 3,
+          "tags": [
+            "relative-clauses"
+          ],
+          "skill_tags": [
+            "relative-clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "I was the last person ------- the room, so I turned off the lights.",
+          "options": [
+            {
+              "key": "A",
+              "text": "leave"
+            },
+            {
+              "key": "B",
+              "text": "to leave"
+            },
+            {
+              "key": "C",
+              "text": "left"
+            },
+            {
+              "key": "D",
+              "text": "to leaving"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "To-infinitive bổ nghĩa cho the last person để chỉ người làm việc gì cuối cùng.",
+          "translation": "Tôi là người cuối cùng rời phòng nên đã tắt đèn.",
+          "difficulty": 3,
+          "tags": [
+            "infinitives"
+          ],
+          "skill_tags": [
+            "infinitives"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "There was ------- much background noise that nobody heard the reminder.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "too"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "So much + danh từ không đếm được + that diễn tả mức độ dẫn đến kết quả.",
+          "translation": "Tiếng ồn xung quanh lớn đến mức không ai nghe thấy lời nhắc.",
+          "difficulty": 3,
+          "tags": [
+            "so-such"
+          ],
+          "skill_tags": [
+            "so-such"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "We couldn't reach her at first, but after three calls we finally managed ------- to her assistant.",
+          "options": [
+            {
+              "key": "A",
+              "text": "speaking"
+            },
+            {
+              "key": "B",
+              "text": "to speak"
+            },
+            {
+              "key": "C",
+              "text": "speak"
+            },
+            {
+              "key": "D",
+              "text": "spoken"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Managed to speak diễn tả việc đã làm được sau nhiều lần cố gắng.",
+          "translation": "Ban đầu chúng tôi không gọi được cho cô ấy, nhưng sau ba cuộc gọi thì cuối cùng cũng nói chuyện được với trợ lý của cô ấy.",
+          "difficulty": 3,
+          "tags": [
+            "verb-patterns"
+          ],
+          "skill_tags": [
+            "verb-patterns"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Don't worry about sending the invitations, Ella. Ben and I can send them -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "yourselves"
+            },
+            {
+              "key": "B",
+              "text": "us"
+            },
+            {
+              "key": "C",
+              "text": "themselves"
+            },
+            {
+              "key": "D",
+              "text": "ourselves"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Ourselves nhấn mạnh rằng chủ ngữ Ben and I có thể tự làm.",
+          "translation": "Ella, đừng lo chuyện gửi thư mời. Ben và tôi có thể tự gửi.",
+          "difficulty": 3,
+          "tags": [
+            "reflexive-pronouns"
+          ],
+          "skill_tags": [
+            "reflexive-pronouns"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Our next speaker is ------- university lecturer who studies workplace habits.",
+          "options": [
+            {
+              "key": "A",
+              "text": "an"
+            },
+            {
+              "key": "B",
+              "text": "some of"
+            },
+            {
+              "key": "C",
+              "text": "a"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "University bắt đầu bằng âm /j/, một âm phụ âm, nên dùng a.",
+          "translation": "Diễn giả tiếp theo là một giảng viên đại học nghiên cứu thói quen ở nơi làm việc.",
+          "difficulty": 3,
+          "tags": [
+            "articles"
+          ],
+          "skill_tags": [
+            "articles"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "If we'd checked the address on the parcel, we ------- it to the wrong office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn't sent"
+            },
+            {
+              "key": "B",
+              "text": "won't have sent"
+            },
+            {
+              "key": "C",
+              "text": "wouldn't have sent"
+            },
+            {
+              "key": "D",
+              "text": "wouldn't send"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đây là giả định trái với việc đã xảy ra. Kết quả giả định dùng wouldn't have sent.",
+          "translation": "Nếu đã kiểm tra địa chỉ trên bưu kiện, chúng ta đã không gửi nhầm văn phòng.",
+          "difficulty": 3,
+          "tags": [
+            "third-conditional"
+          ],
+          "skill_tags": [
+            "third-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "We were allowed to borrow the projector, but we weren't allowed to ------- it out of the building.",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "took"
+            },
+            {
+              "key": "C",
+              "text": "taken"
+            },
+            {
+              "key": "D",
+              "text": "taking"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Be allowed to đi với động từ nguyên mẫu để nói về việc được phép làm.",
+          "translation": "Chúng tôi được phép mượn máy chiếu nhưng không được mang nó ra khỏi tòa nhà.",
+          "difficulty": 3,
+          "tags": [
+            "past-modals"
+          ],
+          "skill_tags": [
+            "past-modals"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "I started checking these names at nine, and I ------- them ever since. I'm still only halfway through.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had been checking"
+            },
+            {
+              "key": "B",
+              "text": "have been checking"
+            },
+            {
+              "key": "C",
+              "text": "had checked"
+            },
+            {
+              "key": "D",
+              "text": "will be checking"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Have been checking diễn tả việc bắt đầu trong quá khứ và vẫn chưa xong.",
+          "translation": "Tôi bắt đầu kiểm tra những cái tên này lúc chín giờ và làm từ đó đến giờ. Tôi vẫn mới kiểm tra được một nửa.",
+          "difficulty": 3,
+          "tags": [
+            "present-perfect-continuous"
+          ],
+          "skill_tags": [
+            "present-perfect-continuous"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "We can order the plain envelopes now and buy the coloured ------- when the shop restocks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "one"
+            },
+            {
+              "key": "B",
+              "text": "those"
+            },
+            {
+              "key": "C",
+              "text": "ones"
+            },
+            {
+              "key": "D",
+              "text": "them"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Ones thay cho envelopes số nhiều sau tính từ coloured.",
+          "translation": "Chúng ta có thể đặt phong bì trơn ngay và mua loại có màu khi cửa hàng nhập thêm.",
+          "difficulty": 3,
+          "tags": [
+            "pronouns"
+          ],
+          "skill_tags": [
+            "pronouns"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "I'm not familiar ------- this booking system. Could you show me where the dates go?",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "with"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Familiar with diễn tả việc một người đã quen với hoặc biết rõ điều gì.",
+          "translation": "Tôi chưa quen với hệ thống đặt chỗ này. Bạn chỉ giúp tôi nhập ngày ở đâu được không?",
+          "difficulty": 3,
+          "tags": [
+            "prepositions"
+          ],
+          "skill_tags": [
+            "prepositions"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "There's no point in ------- the old schedule now. It doesn't include any of the changes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to print"
+            },
+            {
+              "key": "B",
+              "text": "print"
+            },
+            {
+              "key": "C",
+              "text": "printing"
+            },
+            {
+              "key": "D",
+              "text": "printed"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "There's no point in + dạng -ing nói rằng làm việc gì đó không có ích.",
+          "translation": "Giờ in lịch cũ cũng chẳng ích gì. Lịch đó chưa cập nhật thay đổi nào.",
+          "difficulty": 3,
+          "tags": [
+            "gerunds"
+          ],
+          "skill_tags": [
+            "gerunds"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "I'll keep a copy of the old schedule ------- you tell me it's safe to delete it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "where"
+            },
+            {
+              "key": "B",
+              "text": "until"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "while"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Until nêu mốc kết thúc của việc giữ bản lịch cũ.",
+          "translation": "Tôi sẽ giữ bản lịch cũ cho đến khi bạn bảo có thể xóa nó.",
+          "difficulty": 3,
+          "tags": [
+            "time-clauses"
+          ],
+          "skill_tags": [
+            "time-clauses"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The organiser has ------- sent the invitation, so please don't send a second one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ever"
+            },
+            {
+              "key": "B",
+              "text": "already"
+            },
+            {
+              "key": "C",
+              "text": "yet"
+            },
+            {
+              "key": "D",
+              "text": "still"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Already đứng giữa has và sent, cho biết việc gửi đã hoàn tất.",
+          "translation": "Ban tổ chức đã gửi thư mời rồi, nên vui lòng đừng gửi thêm bản nữa.",
+          "difficulty": 3,
+          "tags": [
+            "adverb-position"
+          ],
+          "skill_tags": [
+            "adverb-position"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "He couldn't afford ------- new chairs, so he borrowed a set from the library.",
+          "options": [
+            {
+              "key": "A",
+              "text": "buying"
+            },
+            {
+              "key": "B",
+              "text": "to buy"
+            },
+            {
+              "key": "C",
+              "text": "bought"
+            },
+            {
+              "key": "D",
+              "text": "buy"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Afford + to-infinitive diễn tả có đủ tiền để làm việc gì.",
+          "translation": "Anh ấy không đủ tiền mua ghế mới nên mượn một bộ ghế ở thư viện.",
+          "difficulty": 3,
+          "tags": [
+            "verb-patterns"
+          ],
+          "skill_tags": [
+            "verb-patterns"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The courier delivered the samples to the wrong address. -------, we couldn't examine them at the meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "On the other hand"
+            },
+            {
+              "key": "B",
+              "text": "For instance"
+            },
+            {
+              "key": "C",
+              "text": "In the meantime"
+            },
+            {
+              "key": "D",
+              "text": "As a result"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "As a result nối việc giao nhầm với hệ quả là không xem được mẫu.",
+          "translation": "Nhân viên giao hàng giao mẫu nhầm địa chỉ, nên chúng tôi không thể xem mẫu trong cuộc họp.",
+          "difficulty": 3,
+          "tags": [
+            "result-linkers"
+          ],
+          "skill_tags": [
+            "result-linkers"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The new checklist applies to both paid staff ------- volunteers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "or"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Both A and B bao gồm cả hai nhóm được nhắc đến.",
+          "translation": "Danh sách kiểm tra mới áp dụng cho cả nhân viên được trả lương lẫn tình nguyện viên.",
+          "difficulty": 3,
+          "tags": [
+            "both-and"
+          ],
+          "skill_tags": [
+            "both-and"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "My access card doesn't work because it hasn't ------- yet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "been activated"
+            },
+            {
+              "key": "B",
+              "text": "been activating"
+            },
+            {
+              "key": "C",
+              "text": "be activated"
+            },
+            {
+              "key": "D",
+              "text": "activated"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hiện tại hoàn thành bị động dùng has + been + quá khứ phân từ activated.",
+          "translation": "Thẻ ra vào của tôi chưa dùng được vì vẫn chưa được kích hoạt.",
+          "difficulty": 3,
+          "tags": [
+            "passive-voice"
+          ],
+          "skill_tags": [
+            "passive-voice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

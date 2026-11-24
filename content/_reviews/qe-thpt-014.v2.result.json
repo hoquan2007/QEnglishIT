@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-014",
+  "revision": "fde1e94e73648b4af443e873edbf418bd9248d159eb6afb0489bd51869c2eba8",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q2, Q7 and Q17: several distractors include contradictory time expressions or visibly malformed tense constructions, so they are easy to eliminate without understanding the target grammar. Use coherent verb forms and plausible tense alternatives. Q11: several responses are unnatural or irrelevant. Reading answers are uniquely supported; many distractors rely on extreme or obviously false claims. Independently answered using only the current blind pack; no source test or previous answer file was consulted before submission.",
+  "admin_sample": [
+    1,
+    2,
+    16
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

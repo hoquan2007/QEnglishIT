@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-600-002",
+  "title": "Kiểm tra ngữ pháp 600 – 6",
+  "exam_type": "grammar_test",
+  "level": "600",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 2,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "Maria didn't use to ------- coffee, but now she drinks it daily.",
+          "explanation": "Sau didn't use to cần động từ nguyên mẫu drink.",
+          "translation": "Trước đây Maria không uống cà phê, nhưng bây giờ cô ấy uống hằng ngày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "drank"
+            },
+            {
+              "key": "B",
+              "text": "drink"
+            },
+            {
+              "key": "C",
+              "text": "drinking"
+            },
+            {
+              "key": "D",
+              "text": "to drink"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/quiz",
+          "independent_review": "pending",
+          "fingerprint": "01e121528b2000bb1835f828c90dd4f6c2f37259"
+        },
+        {
+          "question_text": "Take the ferry ------- the island.",
+          "explanation": "To chỉ đích đến của chuyến phà.",
+          "translation": "Hãy đi phà đến hòn đảo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0203344ae74ab7d830fa218432b30a74cce69303"
+        },
+        {
+          "question_text": "------- often do you review new words? Every evening.",
+          "explanation": "Cụm cố định How often hỏi tần suất lặp lại.",
+          "translation": "Bạn ôn lại từ mới bao lâu một lần? Mỗi tối.",
+          "options": [
+            {
+              "key": "A",
+              "text": "How"
+            },
+            {
+              "key": "B",
+              "text": "When"
+            },
+            {
+              "key": "C",
+              "text": "Why"
+            },
+            {
+              "key": "D",
+              "text": "Where"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#wh-questions-in-conversation/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0294726663128af1b0f7e1e1f35b0f294854d3b4"
+        },
+        {
+          "question_text": "I prefer this blue shirt ------- the red one.",
+          "explanation": "Cấu trúc sở thích với hai danh từ là prefer A to B.",
+          "translation": "Tôi thích chiếc áo xanh này hơn chiếc áo đỏ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "than"
+            },
+            {
+              "key": "C",
+              "text": "from"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#prefer-and-would-rather/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0322f05cca39b153c053dcc96266cbb5eb8e45fd"
+        },
+        {
+          "question_text": "At the station, walk ------- the escalator to the ground floor below.",
+          "explanation": "Ground floor below nằm phía dưới, nên dùng down.",
+          "translation": "Tại nhà ga, hãy đi xuống bằng thang cuốn để đến tầng trệt ở phía dưới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "down"
+            },
+            {
+              "key": "B",
+              "text": "through"
+            },
+            {
+              "key": "C",
+              "text": "along"
+            },
+            {
+              "key": "D",
+              "text": "over"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "038fd742133eeeff770c44af441600878220a744"
+        },
+        {
+          "question_text": "Let's ------- a short break after this activity.",
+          "explanation": "Let's luôn đi với động từ nguyên mẫu không có to.",
+          "translation": "Chúng ta hãy nghỉ giải lao một lát sau hoạt động này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to take"
+            },
+            {
+              "key": "B",
+              "text": "taking"
+            },
+            {
+              "key": "C",
+              "text": "took"
+            },
+            {
+              "key": "D",
+              "text": "take"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0437aa5c778ea684fb036bd2ae817bd35cc6d6eb"
+        },
+        {
+          "question_text": "Ms. Ito is a highly ------- candidate for the position.",
+          "explanation": "Highly + tính từ: qualified.",
+          "translation": "Bà Ito là ứng viên ------- cao cho vị trí này. A. đạt chuẩn (động từ); B. đang đạt chuẩn; C. có năng lực/đủ tiêu chuẩn; D. trình độ chuyên môn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "qualify"
+            },
+            {
+              "key": "B",
+              "text": "qualifying"
+            },
+            {
+              "key": "C",
+              "text": "qualified"
+            },
+            {
+              "key": "D",
+              "text": "qualification"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#word-form-strategy/exercises",
+          "independent_review": "pending",
+          "fingerprint": "047e082234ae6bfc2e0730f18a751265226d0dba"
+        },
+        {
+          "question_text": "My sister ------- be shy, but now she speaks confidently.",
+          "explanation": "Be shy là trạng thái trong quá khứ, nên dùng used to.",
+          "translation": "Chị gái tôi trước đây từng nhút nhát, nhưng giờ chị ấy nói chuyện rất tự tin.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would"
+            },
+            {
+              "key": "B",
+              "text": "used to"
+            },
+            {
+              "key": "C",
+              "text": "is used to"
+            },
+            {
+              "key": "D",
+              "text": "use to"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/quiz",
+          "independent_review": "pending",
+          "fingerprint": "04819ddf67fcde2470ca02f74d446c0641be4f4f"
+        },
+        {
+          "question_text": "Has your brother got a new laptop? No, he -------.",
+          "explanation": "Câu hỏi Has ... got dùng has, đáp phủ định hasn't.",
+          "translation": "Anh bạn có máy tính xách tay mới chưa? Chưa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't"
+            },
+            {
+              "key": "B",
+              "text": "hasn't"
+            },
+            {
+              "key": "C",
+              "text": "isn't"
+            },
+            {
+              "key": "D",
+              "text": "didn't"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0678e317b7c83012fc857b5b9ebc9a1cdacb7e5b"
+        },
+        {
+          "question_text": "The ------- results of the survey surprised the board.",
+          "explanation": "Results (vật) gây thất vọng: -ing.",
+          "translation": "Kết quả khảo sát ------- đã khiến hội đồng quản trị ngạc nhiên. A. đáng thất vọng; B. cảm thấy thất vọng; C. làm thất vọng (động từ); D. sự thất vọng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointing"
+            },
+            {
+              "key": "B",
+              "text": "disappointed"
+            },
+            {
+              "key": "C",
+              "text": "disappoint"
+            },
+            {
+              "key": "D",
+              "text": "disappointment"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "06bd40a82af465b6b219efff2ecf4260e6ef80e1"
+        },
+        {
+          "question_text": "------- your friends enjoy board games?",
+          "explanation": "Friends là chủ ngữ số nhiều; câu hỏi sở thích thường xuyên dùng Do.",
+          "translation": "Bạn bè của bạn có thích các trò chơi cờ bàn không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Does"
+            },
+            {
+              "key": "B",
+              "text": "Did"
+            },
+            {
+              "key": "C",
+              "text": "Do"
+            },
+            {
+              "key": "D",
+              "text": "Are"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/quiz",
+          "independent_review": "pending",
+          "fingerprint": "070cf6ee0f134b630160e87c51543fc274b580e8"
+        },
+        {
+          "question_text": "The gallery owns ------- from Spain.",
+          "explanation": "Rare ở đây là đánh giá về độ hiếm, medieval chỉ tuổi lịch sử.",
+          "translation": "Phòng tranh sở hữu một bức họa Trung cổ quý hiếm từ Tây Ban Nha.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a rare medieval painting"
+            },
+            {
+              "key": "B",
+              "text": "a medieval rare painting"
+            },
+            {
+              "key": "C",
+              "text": "a painting rare medieval"
+            },
+            {
+              "key": "D",
+              "text": "rare a medieval painting"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "072563d665505a91b558456ae3a879c576a08ee6"
+        },
+        {
+          "question_text": "She arrived early ------- to choose a seat near the front.",
+          "explanation": "Early enough nghĩa là đến đủ sớm để có thể chọn chỗ ngồi.",
+          "translation": "Cô ấy đến đủ sớm để chọn được chỗ ngồi gần phía trước.",
+          "options": [
+            {
+              "key": "A",
+              "text": "too"
+            },
+            {
+              "key": "B",
+              "text": "enough"
+            },
+            {
+              "key": "C",
+              "text": "several"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#too-and-enough/quiz",
+          "independent_review": "pending",
+          "fingerprint": "077f738ef722dc405475d5cc35157bf8edef58b1"
+        },
+        {
+          "question_text": "The office ordered ------- for the reception area.",
+          "explanation": "New chỉ tuổi, leather chỉ chất liệu, nên new đứng trước.",
+          "translation": "Văn phòng đặt mua những chiếc ghế da mới cho khu vực lễ tân.",
+          "options": [
+            {
+              "key": "A",
+              "text": "leather new chairs"
+            },
+            {
+              "key": "B",
+              "text": "chairs new leather"
+            },
+            {
+              "key": "C",
+              "text": "new leather chairs"
+            },
+            {
+              "key": "D",
+              "text": "new chairs leather"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0822a3d7a15155c1f8747fee17ea894f73b96971"
+        },
+        {
+          "question_text": "------- quiet during the announcement.",
+          "explanation": "Câu mệnh lệnh với be phải bắt đầu bằng Be.",
+          "translation": "Hãy giữ im lặng trong lúc có thông báo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Being"
+            },
+            {
+              "key": "B",
+              "text": "To be"
+            },
+            {
+              "key": "C",
+              "text": "Been"
+            },
+            {
+              "key": "D",
+              "text": "Be"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "08b0599332d432cc3f3e7e60f4c82c98615aad32"
+        },
+        {
+          "question_text": "The blanket is thick ------- for the cold night.",
+          "explanation": "Enough đứng sau tính từ thick theo cấu trúc adjective + enough + for; chiếc chăn đủ dày cho đêm lạnh.",
+          "translation": "Chiếc chăn đủ dày cho đêm trời lạnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "too"
+            },
+            {
+              "key": "B",
+              "text": "enough"
+            },
+            {
+              "key": "C",
+              "text": "a few"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#too-and-enough/quiz",
+          "independent_review": "pending",
+          "fingerprint": "08d6d8aab6782d0d008e7048c78ca547be41de9c"
+        },
+        {
+          "question_text": "------- this printer use recycled paper?",
+          "explanation": "This printer số ít, hỏi tính năng hiện tại dùng Does.",
+          "translation": "Máy in này có sử dụng giấy tái chế không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Did"
+            },
+            {
+              "key": "C",
+              "text": "Does"
+            },
+            {
+              "key": "D",
+              "text": "Is"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/quiz",
+          "independent_review": "pending",
+          "fingerprint": "094dcd6df67cfed631e0162e5cf41f9bb617d9f7"
+        },
+        {
+          "question_text": "No, he ------- drive to work; he takes the train.",
+          "explanation": "Thói quen hiện tại của he cần doesn't + drive.",
+          "translation": "Không, anh ấy không lái xe đi làm; anh ấy đi tàu hỏa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't"
+            },
+            {
+              "key": "B",
+              "text": "don't"
+            },
+            {
+              "key": "C",
+              "text": "didn't"
+            },
+            {
+              "key": "D",
+              "text": "isn't"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/quiz",
+          "independent_review": "pending",
+          "fingerprint": "096163cc97f25b9df8b58dd77c6d5e411c8867b0"
+        },
+        {
+          "question_text": "A: I am learning Japanese. B: -------.",
+          "explanation": "Am learning là tiếp diễn với be, đồng tình theo I dùng So am I.",
+          "translation": "Tôi đang học tiếng Nhật. Tôi cũng vậy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "So do I"
+            },
+            {
+              "key": "B",
+              "text": "Neither am I"
+            },
+            {
+              "key": "C",
+              "text": "So I am"
+            },
+            {
+              "key": "D",
+              "text": "So am I"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#agreement-with-so-and-neither/quiz",
+          "independent_review": "pending",
+          "fingerprint": "09b3d35cba2d1916b92da93738fc98814d9aedbd"
+        },
+        {
+          "question_text": "Did you ------- play chess during lunch breaks?",
+          "explanation": "Trong câu hỏi có Did, dùng use to.",
+          "translation": "Bạn có từng chơi cờ vua trong giờ nghỉ trưa không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "used to"
+            },
+            {
+              "key": "B",
+              "text": "using to"
+            },
+            {
+              "key": "C",
+              "text": "use to"
+            },
+            {
+              "key": "D",
+              "text": "would to"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0ca0c57e762fe06cab28a023857ea8da1d2450b3"
+        },
+        {
+          "question_text": "We drove ------- the library without stopping.",
+          "explanation": "Without stopping cho biết chỉ đi ngang qua thư viện; chọn past.",
+          "translation": "Chúng tôi lái xe ngang qua thư viện mà không dừng lại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "into"
+            },
+            {
+              "key": "B",
+              "text": "up"
+            },
+            {
+              "key": "C",
+              "text": "past"
+            },
+            {
+              "key": "D",
+              "text": "through"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0cc5a31eeb4afa93e2f112b5f9778811bd5b6c8a"
+        },
+        {
+          "question_text": "Can the students use calculators? Yes, they -------.",
+          "explanation": "Trợ động từ khuyết thiếu can được dùng lại trong câu trả lời.",
+          "translation": "Học sinh được sử dụng máy tính cầm tay chứ? Được.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "can"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0d633831b90a2e8e3c51d119f53ecf202069f2dd"
+        },
+        {
+          "question_text": "They have ------- this museum before.",
+          "explanation": "Sau have dùng never rồi đến phân từ visited.",
+          "translation": "Họ chưa từng tham quan bảo tàng này trước đây.",
+          "options": [
+            {
+              "key": "A",
+              "text": "visited never"
+            },
+            {
+              "key": "B",
+              "text": "never visiting"
+            },
+            {
+              "key": "C",
+              "text": "never visited"
+            },
+            {
+              "key": "D",
+              "text": "never visit"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#frequency-adverbs-position/exercises",
+          "independent_review": "pending",
+          "fingerprint": "10b9adbd613487c3a975a4b3ef74b96ebe5635fd"
+        },
+        {
+          "question_text": "Our team works ------- to meet every deadline.",
+          "explanation": "Trạng từ bổ nghĩa cho động từ works.",
+          "translation": "Nhóm chúng tôi làm việc ------- để đáp ứng mọi hạn chót. A. chăm chỉ (tính từ); B. một cách chăm chỉ; C. tính cần cù; D. chăm chỉ hơn (tính từ).",
+          "options": [
+            {
+              "key": "A",
+              "text": "diligent"
+            },
+            {
+              "key": "B",
+              "text": "diligently"
+            },
+            {
+              "key": "C",
+              "text": "diligence"
+            },
+            {
+              "key": "D",
+              "text": "more diligent"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#word-form-strategy/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1175d542945495255c5c810fe57c0a05c5011b85"
+        },
+        {
+          "question_text": "Was your ticket expensive? Yes, it -------.",
+          "explanation": "Câu hỏi Was về quá khứ, đáp Yes, it was.",
+          "translation": "Vé của bạn đắt à? Đúng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "132154036ab9a7644d6557453a8987fef73783ed"
+        },
+        {
+          "question_text": "Have the children eaten breakfast? No, they -------.",
+          "explanation": "Câu hỏi hiện tại hoàn thành dùng Have, đáp haven't.",
+          "translation": "Bọn trẻ đã ăn sáng chưa? Chưa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't"
+            },
+            {
+              "key": "B",
+              "text": "aren't"
+            },
+            {
+              "key": "C",
+              "text": "didn't"
+            },
+            {
+              "key": "D",
+              "text": "haven't"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "167714b086faea9d4a9e207c6e5381bdbba7d3c4"
+        },
+        {
+          "question_text": "The volunteers ------- late for meetings.",
+          "explanation": "Be số nhiều are đứng trước never để diễn tả không bao giờ muộn.",
+          "translation": "Các tình nguyện viên không bao giờ đến họp muộn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "never are to"
+            },
+            {
+              "key": "B",
+              "text": "are never"
+            },
+            {
+              "key": "C",
+              "text": "is never"
+            },
+            {
+              "key": "D",
+              "text": "never being"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#frequency-adverbs-position/exercises",
+          "independent_review": "pending",
+          "fingerprint": "189cc98767b0fcb79fe6cfbb1bf112091733f90b"
+        },
+        {
+          "question_text": "The delivery worker took the parcels ------- the van and placed them on the pavement.",
+          "explanation": "Parcels được lấy từ trong xe ra ngoài, nên chọn out of.",
+          "translation": "Nhân viên giao hàng lấy những kiện hàng ra khỏi xe tải rồi đặt chúng lên vỉa hè.",
+          "options": [
+            {
+              "key": "A",
+              "text": "into"
+            },
+            {
+              "key": "B",
+              "text": "onto"
+            },
+            {
+              "key": "C",
+              "text": "along"
+            },
+            {
+              "key": "D",
+              "text": "out of"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1938773e6c5cf800d6d3ccf2e3b8aabe616b4d4a"
+        },
+        {
+          "question_text": "Let's ------- the next lesson online.",
+          "explanation": "Let's + do là lời đề nghị cùng học trực tuyến.",
+          "translation": "Chúng ta hãy học bài tiếp theo qua mạng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "doing"
+            },
+            {
+              "key": "B",
+              "text": "to do"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "19510813397796fd90b7d682d554afe8c2dde956"
+        },
+        {
+          "question_text": "Would you please ------- the form before you go?",
+          "explanation": "Sau Would you please là động từ nguyên mẫu sign.",
+          "translation": "Bạn vui lòng ký vào biểu mẫu trước khi đi nhé?",
+          "options": [
+            {
+              "key": "A",
+              "text": "signed"
+            },
+            {
+              "key": "B",
+              "text": "signing"
+            },
+            {
+              "key": "C",
+              "text": "to sign"
+            },
+            {
+              "key": "D",
+              "text": "sign"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1b26538b61e63deb1ce3636e4471adb62f15c7d0"
+        },
+        {
+          "question_text": "A rabbit ran ------- the road in front of our car and reached the other side.",
+          "explanation": "Reached the other side là băng từ bên này sang bên kia, dùng across.",
+          "translation": "Một con thỏ chạy băng qua đường trước đầu xe chúng tôi và sang tới bên kia.",
+          "options": [
+            {
+              "key": "A",
+              "text": "across"
+            },
+            {
+              "key": "B",
+              "text": "through"
+            },
+            {
+              "key": "C",
+              "text": "into"
+            },
+            {
+              "key": "D",
+              "text": "along"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1b751b3b121db67fdc9bd7ced22089579a02dcaa"
+        },
+        {
+          "question_text": "The front desk ------- at night.",
+          "explanation": "Với động từ be, trạng từ tần suất usually đứng sau is. Desk là danh từ số ít.",
+          "translation": "Quầy lễ tân thường yên tĩnh vào ban đêm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "usually quiet is"
+            },
+            {
+              "key": "B",
+              "text": "are usually quiet"
+            },
+            {
+              "key": "C",
+              "text": "is usually quiet"
+            },
+            {
+              "key": "D",
+              "text": "is quiet usually"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#frequency-adverbs-position/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1d4da83c966b01d4eca66fd0e75e06fd72b9537f"
+        },
+        {
+          "question_text": "------- does the online class start? At seven thirty.",
+          "explanation": "At seven thirty chỉ giờ cụ thể nên hỏi What time.",
+          "translation": "Lớp học trực tuyến bắt đầu lúc mấy giờ? Lúc bảy giờ ba mươi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "How far"
+            },
+            {
+              "key": "B",
+              "text": "Who"
+            },
+            {
+              "key": "C",
+              "text": "Whose"
+            },
+            {
+              "key": "D",
+              "text": "What time"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#wh-questions-in-conversation/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1d9ac454b7c53729f292fd2872b29804db7b74aa"
+        },
+        {
+          "question_text": "------- Hoa speak Korean at work?",
+          "explanation": "Hoa là ngôi ba số ít, hỏi năng lực thường xuyên bằng Does + speak.",
+          "translation": "Hoa có nói tiếng Hàn tại nơi làm việc không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Did"
+            },
+            {
+              "key": "C",
+              "text": "Is"
+            },
+            {
+              "key": "D",
+              "text": "Does"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1dbcdf45af7384df940c37203923672eb61a1b15"
+        },
+        {
+          "question_text": "Is there a pharmacy nearby? Yes, there -------.",
+          "explanation": "Mẫu Is there...? trả lời Yes, there is.",
+          "translation": "Gần đây có nhà thuốc không? Có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1e38c3d511631aa995607e7e794513de55e8e67d"
+        },
+        {
+          "question_text": "------- the receipt before you leave the store.",
+          "explanation": "Câu hướng dẫn bắt đầu bằng động từ nguyên mẫu Keep.",
+          "translation": "Hãy giữ lại hóa đơn trước khi rời cửa hàng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Keeping"
+            },
+            {
+              "key": "B",
+              "text": "Keep"
+            },
+            {
+              "key": "C",
+              "text": "To keep"
+            },
+            {
+              "key": "D",
+              "text": "Kept"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/exercises",
+          "independent_review": "pending",
+          "fingerprint": "203cb5a856071e27212f4805eeae1b1aaacec683"
+        },
+        {
+          "question_text": "------- the new software start automatically each morning?",
+          "explanation": "Software là danh từ không đếm được số ít; hỏi quy trình hiện tại dùng Does.",
+          "translation": "Phần mềm mới có tự động khởi động mỗi sáng không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Does"
+            },
+            {
+              "key": "B",
+              "text": "Do"
+            },
+            {
+              "key": "C",
+              "text": "Did"
+            },
+            {
+              "key": "D",
+              "text": "Is"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/exercises",
+          "independent_review": "pending",
+          "fingerprint": "20af7630ca258af0a7e33625caac16b2252d7dd3"
+        },
+        {
+          "question_text": "We are looking for a ------- accountant with five years of experience.",
+          "explanation": "Accountant đủ trình độ: qualified.",
+          "translation": "Chúng tôi đang tìm một kế toán viên ------- có năm năm kinh nghiệm. A. đủ năng lực; B. đang đạt chuẩn; C. đạt chuẩn (động từ); D. bằng cấp/năng lực.",
+          "options": [
+            {
+              "key": "A",
+              "text": "qualifying"
+            },
+            {
+              "key": "B",
+              "text": "qualified"
+            },
+            {
+              "key": "C",
+              "text": "qualify"
+            },
+            {
+              "key": "D",
+              "text": "qualification"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "21bea89457982853a5e6906de5dd7ca3c6a88d52"
+        },
+        {
+          "question_text": "My colleagues prefer email ------- phone calls.",
+          "explanation": "Prefer hai danh từ email và phone calls nối bằng to.",
+          "translation": "Đồng nghiệp tôi thích email hơn các cuộc gọi điện thoại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#prefer-and-would-rather/exercises",
+          "independent_review": "pending",
+          "fingerprint": "22130e1d105918983ae20ef4724b6a78eea838f8"
+        },
+        {
+          "question_text": "Will the library close at six? No, it -------.",
+          "explanation": "Câu hỏi có Will, đáp phủ định dùng won't.",
+          "translation": "Thư viện sẽ đóng cửa lúc sáu giờ à? Không.",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't"
+            },
+            {
+              "key": "B",
+              "text": "isn't"
+            },
+            {
+              "key": "C",
+              "text": "hasn't"
+            },
+            {
+              "key": "D",
+              "text": "won't"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/quiz",
+          "independent_review": "pending",
+          "fingerprint": "223d5bd00445fe236a487afa6f652c1f38d9f06c"
+        }
+      ]
+    }
+  ]
+}

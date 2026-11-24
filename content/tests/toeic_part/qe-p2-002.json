@@ -1,0 +1,1412 @@
+{
+  "slug": "qe-p2-002",
+  "title": "TOEIC Part 2 – Hỏi đáp 02 (Mục tiêu 600)",
+  "collection": "QEnglishIT TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "difficulty": 3,
+  "cefr": "B1",
+  "duration_minutes": 15,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "tags": [
+    "toeic",
+    "part2",
+    "question-response",
+    "listening"
+  ],
+  "sections": [
+    {
+      "key": "part2",
+      "title": "Part 2 – Question–Response",
+      "parts": [
+        2
+      ],
+      "count": 30,
+      "minutes": 15
+    }
+  ],
+  "groups": [
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Do you know when the ceramics studio reopens?\n(A) Yes, they installed new shelves last Tuesday.\n(B) It's in the building behind the library.\n(C) Next Tuesday, after the new kiln is installed.",
+      "transcript_vi": "Q: Bạn có biết khi nào xưởng gốm mở cửa trở lại không?\n(A) Có, họ lắp kệ mới thứ Ba tuần trước.\n(B) Xưởng ở trong tòa nhà phía sau thư viện.\n(C) Thứ Ba tới, sau khi lắp xong lò nung mới.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Yes, they installed new shelves last Tuesday."
+            },
+            {
+              "key": "B",
+              "text": "It's in the building behind the library."
+            },
+            {
+              "key": "C",
+              "text": "Next Tuesday, after the new kiln is installed."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Do you know” dẫn vào câu hỏi “when”; mốc thứ Ba tới trả lời phần thông tin được hỏi. (A) Có “Yes” và một mốc thứ Ba, nhưng nói đến việc lắp kệ đã qua. (B) Nêu vị trí của xưởng thay vì ngày mở lại.",
+          "translation": "Q: Bạn có biết khi nào xưởng gốm mở cửa trở lại không?\n(A) Có, họ lắp kệ mới thứ Ba tuần trước.\n(B) Xưởng ở trong tòa nhà phía sau thư viện.\n(C) Thứ Ba tới, sau khi lắp xong lò nung mới.",
+          "difficulty": 2,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "embedded-time-question"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Will my visitor pass let me into the records room?\n(A) Only staff badges unlock that door.\n(B) We keep visitor records at reception.\n(C) The pass expires at the end of the day.",
+      "transcript_vi": "Q: Thẻ khách có cho phép tôi vào phòng lưu hồ sơ không?\n(A) Chỉ thẻ nhân viên mới mở được cửa đó.\n(B) Chúng tôi lưu hồ sơ khách tại quầy lễ tân.\n(C) Thẻ hết hạn vào cuối ngày.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Only staff badges unlock that door."
+            },
+            {
+              "key": "B",
+              "text": "We keep visitor records at reception."
+            },
+            {
+              "key": "C",
+              "text": "The pass expires at the end of the day."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). “Only staff badges” hàm ý thẻ khách không mở được cửa phòng lưu hồ sơ. (B) Ghép lại các từ “visitor” và “records”, nhưng đổi sang nơi lưu thông tin khách. (C) Hạn dùng không cho biết thẻ có quyền mở cửa nào.",
+          "translation": "Q: Thẻ khách có cho phép tôi vào phòng lưu hồ sơ không?\n(A) Chỉ thẻ nhân viên mới mở được cửa đó.\n(B) Chúng tôi lưu hồ sơ khách tại quầy lễ tân.\n(C) Thẻ hết hạn vào cuối ngày.",
+          "difficulty": 3,
+          "tags": [
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-access-from-condition"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Could you tell me who handles payroll corrections?\n(A) You can find the correction form on the staff portal.\n(B) The payroll coordinator on the third floor.\n(C) It should appear on your next pay slip.",
+      "transcript_vi": "Q: Bạn có thể cho tôi biết ai xử lý việc điều chỉnh bảng lương không?\n(A) Bạn có thể tìm biểu mẫu điều chỉnh trên cổng thông tin nhân viên.\n(B) Điều phối viên phụ trách bảng lương ở tầng ba.\n(C) Khoản đó sẽ xuất hiện trên phiếu lương kỳ tới.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "You can find the correction form on the staff portal."
+            },
+            {
+              "key": "B",
+              "text": "The payroll coordinator on the third floor."
+            },
+            {
+              "key": "C",
+              "text": "It should appear on your next pay slip."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Who handles” hỏi người phụ trách. Cụm “The payroll coordinator” xác định người đó. (A) Chỉ nơi lấy mẫu, không xác định người xử lý. (C) Nói về thời điểm một thay đổi hiện trên phiếu lương.",
+          "translation": "Q: Bạn có thể cho tôi biết ai xử lý việc điều chỉnh bảng lương không?\n(A) Bạn có thể tìm biểu mẫu điều chỉnh trên cổng thông tin nhân viên.\n(B) Điều phối viên phụ trách bảng lương ở tầng ba.\n(C) Khoản đó sẽ xuất hiện trên phiếu lương kỳ tới.",
+          "difficulty": 2,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "embedded-person-question"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Should the welcome sign go on an easel or hang from the booth frame?\n(A) The welcome sign was included in the printing quote.\n(B) Neither. The venue requires signs to be attached to the back wall.\n(C) The other booth will have a sign about membership fees.",
+      "transcript_vi": "Q: Nên đặt bảng chào mừng lên giá đỡ hay treo vào khung gian hàng?\n(A) Báo giá in đã bao gồm bảng chào mừng.\n(B) Cả hai cách đều không được. Nơi tổ chức yêu cầu gắn bảng lên vách sau.\n(C) Gian hàng kia sẽ có bảng thông tin về phí hội viên.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The welcome sign was included in the printing quote."
+            },
+            {
+              "key": "B",
+              "text": "Neither. The venue requires signs to be attached to the back wall."
+            },
+            {
+              "key": "C",
+              "text": "The other booth will have a sign about membership fees."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Neither” bác cả hai vị trí và quy định cho biết phải đặt bảng ở đâu. (A) Nói về giá in, không chọn cách đặt bảng. (C) Chuyển sang nội dung bảng của gian hàng khác.",
+          "translation": "Q: Nên đặt bảng chào mừng lên giá đỡ hay treo vào khung gian hàng?\n(A) Báo giá in đã bao gồm bảng chào mừng.\n(B) Cả hai cách đều không được. Nơi tổ chức yêu cầu gắn bảng lên vách sau.\n(C) Gian hàng kia sẽ có bảng thông tin về phí hội viên.",
+          "difficulty": 3,
+          "tags": [
+            "choice-question"
+          ],
+          "skill_tags": [
+            "substitute-for-both-options"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Didn't we ask for the sauces on the side?\n(A) We did, but the kitchen mixed them in anyway.\n(B) Yes, there's a side entrance next to the kitchen.\n(C) The sauce for tomorrow's lunch will be milder.",
+      "transcript_vi": "Q: Chẳng phải chúng ta đã dặn để nước xốt riêng sao?\n(A) Có dặn, nhưng nhà bếp vẫn trộn nước xốt vào món.\n(B) Có, cạnh bếp có một lối vào bên hông.\n(C) Nước xốt cho bữa trưa mai sẽ có vị dịu hơn.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "We did, but the kitchen mixed them in anyway."
+            },
+            {
+              "key": "B",
+              "text": "Yes, there's a side entrance next to the kitchen."
+            },
+            {
+              "key": "C",
+              "text": "The sauce for tomorrow's lunch will be milder."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). “We did” xác nhận đã dặn. Phần sau giải thích vì sao món vẫn có xốt trộn sẵn. (B) “Side entrance” chỉ lối phụ, còn “on the side” nghĩa là để riêng. (C) Mô tả xốt cho bữa khác, không xác nhận lời dặn.",
+          "translation": "Q: Chẳng phải chúng ta đã dặn để nước xốt riêng sao?\n(A) Có dặn, nhưng nhà bếp vẫn trộn nước xốt vào món.\n(B) Có, cạnh bếp có một lối vào bên hông.\n(C) Nước xốt cho bữa trưa mai sẽ có vị dịu hơn.",
+          "difficulty": 3,
+          "tags": [
+            "negative-question"
+          ],
+          "skill_tags": [
+            "correct-expected-state"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: The sound keeps cutting out in the video meeting.\n(A) I cut the recording down to three minutes.\n(B) The meeting link is in yesterday's invitation.\n(C) Try dialing in from your phone instead.",
+      "transcript_vi": "Q: Cuộc họp qua video liên tục bị mất tiếng.\n(A) Tôi đã cắt bản ghi xuống còn ba phút.\n(B) Đường dẫn vào họp nằm trong thư mời hôm qua.\n(C) Thử gọi vào cuộc họp bằng điện thoại xem.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I cut the recording down to three minutes."
+            },
+            {
+              "key": "B",
+              "text": "The meeting link is in yesterday's invitation."
+            },
+            {
+              "key": "C",
+              "text": "Try dialing in from your phone instead."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Dialing in” đề xuất dùng đường điện thoại để nghe tiếp khi âm thanh qua video chập chờn. (A) “Cut down” nghĩa là rút ngắn, còn “cut out” ở đây là mất tiếng ngắt quãng. (B) Hướng dẫn tìm đường vào cuộc họp mà người nói đã tham gia.",
+          "translation": "Q: Cuộc họp qua video liên tục bị mất tiếng.\n(A) Tôi đã cắt bản ghi xuống còn ba phút.\n(B) Đường dẫn vào họp nằm trong thư mời hôm qua.\n(C) Thử gọi vào cuộc họp bằng điện thoại xem.",
+          "difficulty": 3,
+          "tags": [
+            "statement"
+          ],
+          "skill_tags": [
+            "offer-workaround"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Where can I pick up the umbrella I left on the tram?\n(A) I left the tram at Riverside Station.\n(B) The driver turned it in at the terminal's lost property desk.\n(C) The next tram is due in ten minutes.",
+      "transcript_vi": "Q: Tôi có thể nhận lại chiếc ô bỏ quên trên tàu điện ở đâu?\n(A) Tôi xuống tàu điện ở ga Riverside.\n(B) Lái tàu đã giao ô cho quầy đồ thất lạc ở ga cuối.\n(C) Mười phút nữa chuyến tàu điện tiếp theo sẽ đến.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I left the tram at Riverside Station."
+            },
+            {
+              "key": "B",
+              "text": "The driver turned it in at the terminal's lost property desk."
+            },
+            {
+              "key": "C",
+              "text": "The next tram is due in ten minutes."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Turned it in” nghĩa là đã giao nộp. Tên quầy cho biết nơi nhận lại ô. (A) “Left the tram” là xuống tàu, không phải nói ô được đem đến đâu. (C) Nêu giờ tàu đến, không chỉ nơi nhận đồ.",
+          "translation": "Q: Tôi có thể nhận lại chiếc ô bỏ quên trên tàu điện ở đâu?\n(A) Tôi xuống tàu điện ở ga Riverside.\n(B) Lái tàu đã giao ô cho quầy đồ thất lạc ở ga cuối.\n(C) Mười phút nữa chuyến tàu điện tiếp theo sẽ đến.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "indirect-location"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Would you mind printing a second copy of my reservation?\n(A) You paid for the room when you made the reservation.\n(B) All rooms on the second floor are occupied.\n(C) Not at all. I'll print one for you now.",
+      "transcript_vi": "Q: Anh in giúp tôi thêm một bản xác nhận đặt phòng được không?\n(A) Anh đã thanh toán tiền phòng lúc đặt chỗ.\n(B) Tất cả các phòng trên tầng hai đều có khách.\n(C) Được chứ. Tôi sẽ in thêm một bản cho anh ngay.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "You paid for the room when you made the reservation."
+            },
+            {
+              "key": "B",
+              "text": "All rooms on the second floor are occupied."
+            },
+            {
+              "key": "C",
+              "text": "Not at all. I'll print one for you now."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Not at all” đáp lại “Would you mind” với nghĩa sẵn lòng; câu sau nhận việc ngay. (A) Chuyển sang thông tin thanh toán thay vì xử lý yêu cầu in. (B) “Second floor” dùng cùng từ chỉ thứ tự, nhưng không nói đến bản in thứ hai.",
+          "translation": "Q: Anh in giúp tôi thêm một bản xác nhận đặt phòng được không?\n(A) Anh đã thanh toán tiền phòng lúc đặt chỗ.\n(B) Tất cả các phòng trên tầng hai đều có khách.\n(C) Được chứ. Tôi sẽ in thêm một bản cho anh ngay.",
+          "difficulty": 2,
+          "tags": [
+            "request"
+          ],
+          "skill_tags": [
+            "request-acceptance"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: We still have a spare filter for this pump, don't we?\n(A) I used the last one during yesterday's inspection.\n(B) The spare shelves were moved into the storeroom.\n(C) The pump passed its pressure test yesterday.",
+      "transcript_vi": "Q: Ta vẫn còn bộ lọc dự phòng cho máy bơm này, đúng không?\n(A) Tôi đã dùng cái cuối cùng trong đợt kiểm tra hôm qua.\n(B) Các kệ dự phòng đã được chuyển vào kho.\n(C) Hôm qua máy bơm đã đạt yêu cầu trong bài kiểm tra áp suất.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I used the last one during yesterday's inspection."
+            },
+            {
+              "key": "B",
+              "text": "The spare shelves were moved into the storeroom."
+            },
+            {
+              "key": "C",
+              "text": "The pump passed its pressure test yesterday."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). “The last one” chỉ bộ lọc dự phòng cuối cùng, nên hiện không còn bộ nào. (B) “Spare” bổ nghĩa cho kệ, không phải bộ lọc. (C) Nêu kết quả kiểm tra máy bơm, không xác nhận tồn kho bộ lọc.",
+          "translation": "Q: Ta vẫn còn bộ lọc dự phòng cho máy bơm này, đúng không?\n(A) Tôi đã dùng cái cuối cùng trong đợt kiểm tra hôm qua.\n(B) Các kệ dự phòng đã được chuyển vào kho.\n(C) Hôm qua máy bơm đã đạt yêu cầu trong bài kiểm tra áp suất.",
+          "difficulty": 3,
+          "tags": [
+            "tag-question"
+          ],
+          "skill_tags": [
+            "implied-stock-level"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why did the driver skip the first delivery stop?\n(A) It was the first stop on yesterday's route, too.\n(B) The driver stopped working at five.\n(C) The road to that address was closed for resurfacing.",
+      "transcript_vi": "Q: Vì sao tài xế bỏ qua điểm giao hàng đầu tiên?\n(A) Đó cũng là điểm dừng đầu tiên trên tuyến hôm qua.\n(B) Tài xế nghỉ làm lúc năm giờ.\n(C) Đường đến địa chỉ đó bị đóng để trải lại mặt đường.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It was the first stop on yesterday's route, too."
+            },
+            {
+              "key": "B",
+              "text": "The driver stopped working at five."
+            },
+            {
+              "key": "C",
+              "text": "The road to that address was closed for resurfacing."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Đường bị đóng khiến tài xế không thể đến điểm giao, dù lời đáp không mở đầu bằng “because”. (A) Lặp thứ tự điểm dừng nhưng không giải thích việc bỏ qua. (B) “Stopped working” dùng “stop” với nghĩa ngừng làm việc, không giải thích thay đổi lộ trình.",
+          "translation": "Q: Vì sao tài xế bỏ qua điểm giao hàng đầu tiên?\n(A) Đó cũng là điểm dừng đầu tiên trên tuyến hôm qua.\n(B) Tài xế nghỉ làm lúc năm giờ.\n(C) Đường đến địa chỉ đó bị đóng để trải lại mặt đường.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "why-with-implied-cause"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: How about posting the new opening hours this afternoon?\n(A) Let's wait until the holiday schedule is confirmed.\n(B) We posted the job advertisement this morning.\n(C) The shop across the street opens an hour earlier than we do.",
+      "transcript_vi": "Q: Chiều nay đăng giờ mở cửa mới nhé?\n(A) Mình đợi đến khi lịch ngày lễ được xác nhận nhé.\n(B) Sáng nay chúng ta đã đăng tin tuyển dụng.\n(C) Cửa hàng đối diện mở sớm hơn chúng ta một tiếng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Let's wait until the holiday schedule is confirmed."
+            },
+            {
+              "key": "B",
+              "text": "We posted the job advertisement this morning."
+            },
+            {
+              "key": "C",
+              "text": "The shop across the street opens an hour earlier than we do."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). “Let's wait until” đề xuất hoãn đăng, vì lịch áp dụng còn chờ xác nhận. (B) Lặp từ “posted” nhưng nói về một thông báo khác đã đăng. (C) So sánh với giờ của cửa hàng khác, không phản hồi thời điểm đăng.",
+          "translation": "Q: Chiều nay đăng giờ mở cửa mới nhé?\n(A) Mình đợi đến khi lịch ngày lễ được xác nhận nhé.\n(B) Sáng nay chúng ta đã đăng tin tuyển dụng.\n(C) Cửa hàng đối diện mở sớm hơn chúng ta một tiếng.",
+          "difficulty": 3,
+          "tags": [
+            "suggestion"
+          ],
+          "skill_tags": [
+            "alternative-after-suggestion"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Does our license cover freelancers who work from home?\n(A) It's limited to people on the company payroll.\n(B) It includes technical support outside office hours.\n(C) The freelancers submit their invoices online.",
+      "transcript_vi": "Q: Giấy phép của chúng ta có áp dụng cho cộng tác viên làm việc tại nhà không?\n(A) Giấy phép chỉ áp dụng cho những người có tên trong bảng lương của công ty.\n(B) Giấy phép bao gồm hỗ trợ kỹ thuật ngoài giờ làm việc.\n(C) Cộng tác viên nộp hóa đơn trực tuyến.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It's limited to people on the company payroll."
+            },
+            {
+              "key": "B",
+              "text": "It includes technical support outside office hours."
+            },
+            {
+              "key": "C",
+              "text": "The freelancers submit their invoices online."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Giới hạn nằm ở đối tượng có tên trong bảng lương. Lời đáp cho thấy làm việc ở đâu không quyết định quyền sử dụng. (B) Nêu phạm vi hỗ trợ theo giờ, không nêu ai được cấp quyền. (C) Nêu cách gửi hóa đơn, không cho biết phạm vi giấy phép.",
+          "translation": "Q: Giấy phép của chúng ta có áp dụng cho cộng tác viên làm việc tại nhà không?\n(A) Giấy phép chỉ áp dụng cho những người có tên trong bảng lương của công ty.\n(B) Giấy phép bao gồm hỗ trợ kỹ thuật ngoài giờ làm việc.\n(C) Cộng tác viên nộp hóa đơn trực tuyến.",
+          "difficulty": 4,
+          "tags": [
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-permission-from-scope"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Which locations are included in the monthly safety inspection?\n(A) The checklist was updated last month.\n(B) The building checklist has the complete list.\n(C) The inspectors meet at the service entrance.",
+      "transcript_vi": "Q: Những địa điểm nào nằm trong đợt kiểm tra an toàn hằng tháng?\n(A) Bảng kiểm tra đã được cập nhật tháng trước.\n(B) Bảng kiểm tra tòa nhà có danh sách đầy đủ.\n(C) Các thanh tra tập trung ở lối vào dành cho nhân viên dịch vụ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The checklist was updated last month."
+            },
+            {
+              "key": "B",
+              "text": "The building checklist has the complete list."
+            },
+            {
+              "key": "C",
+              "text": "The inspectors meet at the service entrance."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp chỉ nguồn chứa đúng danh sách địa điểm cần kiểm tra. (A) Nói thời điểm cập nhật, không chỉ ra nơi có danh sách địa điểm. (C) Nêu một điểm tập trung, không phải các nơi thuộc phạm vi kiểm tra.",
+          "translation": "Q: Những địa điểm nào nằm trong đợt kiểm tra an toàn hằng tháng?\n(A) Bảng kiểm tra đã được cập nhật tháng trước.\n(B) Bảng kiểm tra tòa nhà có danh sách đầy đủ.\n(C) Các thanh tra tập trung ở lối vào dành cho nhân viên dịch vụ.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "redirect-to-source"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Shall I bring a trolley for those display panels?\n(A) The trolley stop is across from the exhibition hall.\n(B) These panels are lighter than the wooden ones.\n(C) Thanks, but the installer is picking them up from here.",
+      "transcript_vi": "Q: Tôi mang xe đẩy đến để chở mấy tấm pa-nô đó nhé?\n(A) Trạm xe điện ở đối diện sảnh triển lãm.\n(B) Mấy tấm này nhẹ hơn loại bằng gỗ.\n(C) Cảm ơn, nhưng bên lắp đặt sẽ đến đây lấy các tấm pa-nô.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The trolley stop is across from the exhibition hall."
+            },
+            {
+              "key": "B",
+              "text": "These panels are lighter than the wooden ones."
+            },
+            {
+              "key": "C",
+              "text": "Thanks, but the installer is picking them up from here."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Thanks, but” từ chối lịch sự. Nhân viên lắp đặt đến lấy nên người nghe không cần tự chuyển. (A) “Trolley stop” dùng “trolley” với nghĩa xe điện, khác với xe đẩy. (B) Chỉ so sánh trọng lượng với mẫu khác, chưa nhận hay từ chối xe đẩy.",
+          "translation": "Q: Tôi mang xe đẩy đến để chở mấy tấm pa-nô đó nhé?\n(A) Trạm xe điện ở đối diện sảnh triển lãm.\n(B) Mấy tấm này nhẹ hơn loại bằng gỗ.\n(C) Cảm ơn, nhưng bên lắp đặt sẽ đến đây lấy các tấm pa-nô.",
+          "difficulty": 3,
+          "tags": [
+            "offer"
+          ],
+          "skill_tags": [
+            "decline-with-workaround"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Aren't the grant applications due on Friday?\n(A) The reviewers will meet next Friday.\n(B) Friday is the deadline for drafts. The final versions are due next week.\n(C) The grant covers travel and registration fees.",
+      "transcript_vi": "Q: Chẳng phải hạn nộp hồ sơ xin tài trợ là thứ Sáu sao?\n(A) Những người xét duyệt sẽ họp vào thứ Sáu tuần sau.\n(B) Thứ Sáu là hạn nộp bản nháp. Bản chính thức đến tuần sau mới phải nộp.\n(C) Khoản tài trợ chi trả chi phí đi lại và phí đăng ký.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The reviewers will meet next Friday."
+            },
+            {
+              "key": "B",
+              "text": "Friday is the deadline for drafts. The final versions are due next week."
+            },
+            {
+              "key": "C",
+              "text": "The grant covers travel and registration fees."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp phân biệt hạn thứ Sáu dành cho bản nháp với hạn nộp bản chính thức. (A) Cùng mốc thứ Sáu nhưng chỉ lịch họp, không nêu hạn nộp. (C) Cho biết hạng mục được tài trợ, không nói đến hạn nộp.",
+          "translation": "Q: Chẳng phải hạn nộp hồ sơ xin tài trợ là thứ Sáu sao?\n(A) Những người xét duyệt sẽ họp vào thứ Sáu tuần sau.\n(B) Thứ Sáu là hạn nộp bản nháp. Bản chính thức đến tuần sau mới phải nộp.\n(C) Khoản tài trợ chi trả chi phí đi lại và phí đăng ký.",
+          "difficulty": 3,
+          "tags": [
+            "negative-question"
+          ],
+          "skill_tags": [
+            "reconcile-deadline"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Can you update the price on the booking page before lunch?\n(A) As soon as Finance sends me the approved rate.\n(B) The booking page loads on my phone now.\n(C) I booked a table for lunch yesterday.",
+      "transcript_vi": "Q: Bạn cập nhật giá trên trang đặt chỗ trước bữa trưa được không?\n(A) Ngay khi phòng Tài chính gửi cho tôi mức giá đã duyệt.\n(B) Trang đặt chỗ đã mở được trên điện thoại của tôi.\n(C) Hôm qua tôi đã đặt bàn ăn trưa rồi.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "As soon as Finance sends me the approved rate."
+            },
+            {
+              "key": "B",
+              "text": "The booking page loads on my phone now."
+            },
+            {
+              "key": "C",
+              "text": "I booked a table for lunch yesterday."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp nhận thực hiện khi có giá được duyệt, chứ chưa cam kết mốc trước bữa trưa. (B) Nói về khả năng tải trang, không đáp việc sửa giá. (C) Lặp các từ liên quan đến đặt chỗ và bữa trưa nhưng chuyển sang việc đặt bàn.",
+          "translation": "Q: Bạn cập nhật giá trên trang đặt chỗ trước bữa trưa được không?\n(A) Ngay khi phòng Tài chính gửi cho tôi mức giá đã duyệt.\n(B) Trang đặt chỗ đã mở được trên điện thoại của tôi.\n(C) Hôm qua tôi đã đặt bàn ăn trưa rồi.",
+          "difficulty": 3,
+          "tags": [
+            "request"
+          ],
+          "skill_tags": [
+            "defer-action-until-dependency"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: How far is the bike rental kiosk from the ferry terminal?\n(A) Ferries leave every half hour.\n(B) About three blocks along the waterfront.\n(C) I rented it for three hours.",
+      "transcript_vi": "Q: Quầy cho thuê xe đạp cách bến phà bao xa?\n(A) Phà chạy nửa tiếng một chuyến.\n(B) Khoảng ba dãy nhà dọc theo bờ nước.\n(C) Tôi thuê xe trong ba tiếng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Ferries leave every half hour."
+            },
+            {
+              "key": "B",
+              "text": "About three blocks along the waterfront."
+            },
+            {
+              "key": "C",
+              "text": "I rented it for three hours."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Three blocks” trả lời khoảng cách, kèm hướng đi dọc bờ nước. (A) Nêu tần suất phà chạy, không nêu khoảng cách. (C) Cùng số ba nhưng đo thời gian thuê, không đo khoảng cách.",
+          "translation": "Q: Quầy cho thuê xe đạp cách bến phà bao xa?\n(A) Phà chạy nửa tiếng một chuyến.\n(B) Khoảng ba dãy nhà dọc theo bờ nước.\n(C) Tôi thuê xe trong ba tiếng.",
+          "difficulty": 2,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "how-far-distance"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Has the signed contract made it to the client's office yet?\n(A) Our manager signed the contract just after nine.\n(B) The client's office opens at nine on weekdays.\n(C) Their receptionist signed for the envelope just after nine.",
+      "transcript_vi": "Q: Hợp đồng đã ký đã đến văn phòng khách hàng chưa?\n(A) Quản lý bên mình đã ký hợp đồng ngay sau chín giờ.\n(B) Văn phòng của khách mở cửa lúc chín giờ các ngày trong tuần.\n(C) Nhân viên lễ tân bên đó đã ký nhận phong bì ngay sau chín giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Our manager signed the contract just after nine."
+            },
+            {
+              "key": "B",
+              "text": "The client's office opens at nine on weekdays."
+            },
+            {
+              "key": "C",
+              "text": "Their receptionist signed for the envelope just after nine."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Signed for” nghĩa là ký nhận. Việc lễ tân bên nhận ký nhận phong bì cho thấy hợp đồng đã đến văn phòng. (A) Cùng từ “signed” và mốc giờ, nhưng ký hợp đồng không xác nhận đã giao. (B) Nêu giờ làm việc, không xác nhận bưu phẩm đã tới.",
+          "translation": "Q: Hợp đồng đã ký đã đến văn phòng khách hàng chưa?\n(A) Quản lý bên mình đã ký hợp đồng ngay sau chín giờ.\n(B) Văn phòng của khách mở cửa lúc chín giờ các ngày trong tuần.\n(C) Nhân viên lễ tân bên đó đã ký nhận phong bì ngay sau chín giờ.",
+          "difficulty": 4,
+          "tags": [
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-delivery-from-signature"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Several people on the late shift missed the equipment demo.\n(A) Our supplier demonstrated a newer model last year.\n(B) The late shift gets an extra break on Fridays.\n(C) I'll arrange a second session during their handover.",
+      "transcript_vi": "Q: Một số người ca muộn đã bỏ lỡ buổi hướng dẫn sử dụng thiết bị.\n(A) Năm ngoái nhà cung cấp đã giới thiệu một mẫu mới hơn.\n(B) Ca muộn có thêm một giờ nghỉ vào thứ Sáu.\n(C) Tôi sẽ bố trí thêm một buổi vào lúc họ giao ca.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Our supplier demonstrated a newer model last year."
+            },
+            {
+              "key": "B",
+              "text": "The late shift gets an extra break on Fridays."
+            },
+            {
+              "key": "C",
+              "text": "I'll arrange a second session during their handover."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Đề xuất thêm buổi vào giờ nhóm này có mặt giải quyết việc họ bỏ lỡ hướng dẫn. (A) Nhắc đến một buổi giới thiệu khác, không giúp nhóm ca muộn được hướng dẫn. (B) Chuyển sang chế độ nghỉ của ca muộn, không xử lý việc bỏ lỡ buổi hướng dẫn.",
+          "translation": "Q: Một số người ca muộn đã bỏ lỡ buổi hướng dẫn sử dụng thiết bị.\n(A) Năm ngoái nhà cung cấp đã giới thiệu một mẫu mới hơn.\n(B) Ca muộn có thêm một giờ nghỉ vào thứ Sáu.\n(C) Tôi sẽ bố trí thêm một buổi vào lúc họ giao ca.",
+          "difficulty": 3,
+          "tags": [
+            "statement"
+          ],
+          "skill_tags": [
+            "act-on-implicit-request"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: This printer can only print in black and white, right?\n(A) It can do color if you select the right setting.\n(B) I printed the black-and-white chart yesterday.\n(C) The printer next door has a new paper tray.",
+      "transcript_vi": "Q: Máy in này chỉ in được đen trắng thôi, đúng không?\n(A) Máy in được màu nếu bạn chọn đúng chế độ.\n(B) Hôm qua tôi đã in biểu đồ đen trắng.\n(C) Máy in phòng bên có khay giấy mới.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It can do color if you select the right setting."
+            },
+            {
+              "key": "B",
+              "text": "I printed the black-and-white chart yesterday."
+            },
+            {
+              "key": "C",
+              "text": "The printer next door has a new paper tray."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Chế độ in màu bác bỏ từ “only” trong lời hỏi, dù câu trả lời không bắt đầu bằng “No”. (B) Ví dụ đã từng in đen trắng không cho biết máy có in màu được hay không. (C) Đổi sang máy khác và một bộ phận không liên quan đến màu in.",
+          "translation": "Q: Máy in này chỉ in được đen trắng thôi, đúng không?\n(A) Máy in được màu nếu bạn chọn đúng chế độ.\n(B) Hôm qua tôi đã in biểu đồ đen trắng.\n(C) Máy in phòng bên có khay giấy mới.",
+          "difficulty": 3,
+          "tags": [
+            "tag-question"
+          ],
+          "skill_tags": [
+            "disconfirm-with-counterexample"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: How soon can we get a replacement belt for the conveyor?\n(A) It takes about an hour to fit a new belt.\n(B) The local supplier can deliver one by tomorrow morning.\n(C) The current belt was installed last autumn.",
+      "transcript_vi": "Q: Sớm nhất khi nào chúng ta nhận được dây đai thay cho băng tải?\n(A) Lắp dây đai mới mất khoảng một giờ.\n(B) Nhà cung cấp địa phương có thể giao một dây vào sáng mai.\n(C) Dây đang dùng được lắp vào mùa thu năm ngoái.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It takes about an hour to fit a new belt."
+            },
+            {
+              "key": "B",
+              "text": "The local supplier can deliver one by tomorrow morning."
+            },
+            {
+              "key": "C",
+              "text": "The current belt was installed last autumn."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Mốc “by tomorrow morning” cho biết có thể nhận dây mới sớm đến mức nào. (A) Nêu thời gian lắp, không phải thời gian chờ nhận dây. (C) Nêu mốc lắp dây cũ, không nói bao giờ có dây thay thế.",
+          "translation": "Q: Sớm nhất khi nào chúng ta nhận được dây đai thay cho băng tải?\n(A) Lắp dây đai mới mất khoảng một giờ.\n(B) Nhà cung cấp địa phương có thể giao một dây vào sáng mai.\n(C) Dây đang dùng được lắp vào mùa thu năm ngoái.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "how-soon-versus-how-long"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Should we go with coated paper or recycled matte for the catalogue reprint?\n(A) Use whichever one matches the uncoated stock in the first run.\n(B) The first run sold out at the spring fair.\n(C) We updated the product descriptions for the online catalogue.",
+      "transcript_vi": "Q: Mình nên chọn giấy tráng phủ hay giấy tái chế bề mặt mờ để in lại ca-ta-lô?\n(A) Dùng loại nào giống giấy không tráng phủ của đợt in đầu ấy.\n(B) Đợt in đầu đã bán hết tại hội chợ mùa xuân.\n(C) Chúng tôi đã cập nhật mô tả sản phẩm cho ca-ta-lô trực tuyến.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Use whichever one matches the uncoated stock in the first run."
+            },
+            {
+              "key": "B",
+              "text": "The first run sold out at the spring fair."
+            },
+            {
+              "key": "C",
+              "text": "We updated the product descriptions for the online catalogue."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Điều kiện “matches the uncoated stock” hướng đến loại giấy mờ phù hợp mẫu in trước, đồng thời loại phương án tráng phủ. (B) Nhắc đợt in đầu nhưng không đưa ra tiêu chí chọn giấy. (C) Đổi sang nội dung bản trực tuyến, không liên quan giấy in.",
+          "translation": "Q: Mình nên chọn giấy tráng phủ hay giấy tái chế bề mặt mờ để in lại ca-ta-lô?\n(A) Dùng loại nào giống giấy không tráng phủ của đợt in đầu ấy.\n(B) Đợt in đầu đã bán hết tại hội chợ mùa xuân.\n(C) Chúng tôi đã cập nhật mô tả sản phẩm cho ca-ta-lô trực tuyến.",
+          "difficulty": 4,
+          "tags": [
+            "choice-question"
+          ],
+          "skill_tags": [
+            "select-via-matching-constraint"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why not shut down the packing line during lunch?\n(A) The order for tomorrow has already been packed.\n(B) The line manager ordered lunch for the whole crew.\n(C) The afternoon shipment has to be packed by one.",
+      "transcript_vi": "Q: Sao mình không dừng dây chuyền đóng gói trong giờ ăn trưa?\n(A) Đơn hàng ngày mai đã được đóng gói rồi.\n(B) Quản lý dây chuyền đã đặt bữa trưa cho cả đội.\n(C) Lô hàng buổi chiều phải đóng gói xong trước một giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The order for tomorrow has already been packed."
+            },
+            {
+              "key": "B",
+              "text": "The line manager ordered lunch for the whole crew."
+            },
+            {
+              "key": "C",
+              "text": "The afternoon shipment has to be packed by one."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Hạn đóng gói sát giờ ăn trưa là lý do để tránh ngừng dây chuyền vào lúc đó. (A) Nói về đơn khác, không cho thấy có thể dừng dây chuyền hôm nay hay không. (B) Lặp “line” và “lunch” nhưng không liên quan việc dừng máy.",
+          "translation": "Q: Sao mình không dừng dây chuyền đóng gói trong giờ ăn trưa?\n(A) Đơn hàng ngày mai đã được đóng gói rồi.\n(B) Quản lý dây chuyền đã đặt bữa trưa cho cả đội.\n(C) Lô hàng buổi chiều phải đóng gói xong trước một giờ.",
+          "difficulty": 3,
+          "tags": [
+            "suggestion"
+          ],
+          "skill_tags": [
+            "implied-objection-from-schedule"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Where did you leave the box of sample tiles?\n(A) The tiles in that box are the new design.\n(B) The courier just took it out to the van.\n(C) I left for the warehouse at four.",
+      "transcript_vi": "Q: Bạn để thùng gạch mẫu ở đâu rồi?\n(A) Gạch trong thùng đó là mẫu mới.\n(B) Bên chuyển phát vừa mang thùng ra xe tải nhỏ rồi.\n(C) Tôi đi đến kho lúc bốn giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The tiles in that box are the new design."
+            },
+            {
+              "key": "B",
+              "text": "The courier just took it out to the van."
+            },
+            {
+              "key": "C",
+              "text": "I left for the warehouse at four."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Out to the van” cho biết vị trí hiện tại của thùng, dù người nghe không tự đặt thùng ở đó. (A) Mô tả loại gạch trong thùng, không cho biết thùng ở đâu. (C) “Left for” nghĩa là khởi hành đến một nơi, không phải để thùng lại.",
+          "translation": "Q: Bạn để thùng gạch mẫu ở đâu rồi?\n(A) Gạch trong thùng đó là mẫu mới.\n(B) Bên chuyển phát vừa mang thùng ra xe tải nhỏ rồi.\n(C) Tôi đi đến kho lúc bốn giờ.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "where-via-handoff"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Could you take the cancellation clause out of this agreement?\n(A) The agreement expires at the end of the quarter.\n(B) Any changes to the terms have to go through our legal team.\n(C) We canceled the meeting where we were going to sign it.",
+      "transcript_vi": "Q: Bạn bỏ điều khoản hủy bỏ khỏi thỏa thuận này được không?\n(A) Thỏa thuận hết hạn vào cuối quý.\n(B) Mọi thay đổi về điều khoản đều phải được bộ phận pháp chế xem xét.\n(C) Chúng tôi hủy cuộc họp dự kiến dùng để ký thỏa thuận rồi.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The agreement expires at the end of the quarter."
+            },
+            {
+              "key": "B",
+              "text": "Any changes to the terms have to go through our legal team."
+            },
+            {
+              "key": "C",
+              "text": "We canceled the meeting where we were going to sign it."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Bỏ điều khoản là thay đổi nội dung thỏa thuận, vì vậy yêu cầu phải chuyển qua pháp chế. (A) Hạn hiệu lực không trả lời yêu cầu bỏ điều khoản. (C) Cùng ý hủy nhưng là hủy cuộc họp, không phải xóa điều khoản.",
+          "translation": "Q: Bạn bỏ điều khoản hủy bỏ khỏi thỏa thuận này được không?\n(A) Thỏa thuận hết hạn vào cuối quý.\n(B) Mọi thay đổi về điều khoản đều phải được bộ phận pháp chế xem xét.\n(C) Chúng tôi hủy cuộc họp dự kiến dùng để ký thỏa thuận rồi.",
+          "difficulty": 4,
+          "tags": [
+            "request"
+          ],
+          "skill_tags": [
+            "recognise-limited-authority"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Have you put my new extension on the emergency contact sheet?\n(A) My extension hasn't changed since I moved upstairs.\n(B) I asked for an extension on the safety report.\n(C) I replaced your old number right after you called.",
+      "transcript_vi": "Q: Bạn đã ghi số máy lẻ mới của tôi vào danh sách liên hệ khẩn cấp chưa?\n(A) Số máy lẻ của tôi vẫn vậy từ khi chuyển lên tầng trên.\n(B) Tôi đã xin gia hạn nộp báo cáo an toàn.\n(C) Tôi đã thay số cũ của bạn ngay sau khi bạn gọi.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "My extension hasn't changed since I moved upstairs."
+            },
+            {
+              "key": "B",
+              "text": "I asked for an extension on the safety report."
+            },
+            {
+              "key": "C",
+              "text": "I replaced your old number right after you called."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Replaced your old number” xác nhận đã cập nhật số được hỏi, kèm mốc thực hiện. (A) Chuyển từ số của người hỏi sang số của người trả lời. (B) “Extension” ở đây là gia hạn, còn trong lời hỏi là số máy lẻ.",
+          "translation": "Q: Bạn đã ghi số máy lẻ mới của tôi vào danh sách liên hệ khẩn cấp chưa?\n(A) Số máy lẻ của tôi vẫn vậy từ khi chuyển lên tầng trên.\n(B) Tôi đã xin gia hạn nộp báo cáo an toàn.\n(C) Tôi đã thay số cũ của bạn ngay sau khi bạn gọi.",
+          "difficulty": 3,
+          "tags": [
+            "yes-no"
+          ],
+          "skill_tags": [
+            "perspective-and-elapsed-time"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why was the plain sample sent to the buyer instead of the printed one?\n(A) The ink on the printed sample hadn't dried yet.\n(B) The buyer asked us to email the receipt.\n(C) The plain sample was sent by express mail.",
+      "transcript_vi": "Q: Vì sao lại gửi mẫu trơn cho bên mua thay vì mẫu có in họa tiết?\n(A) Mực trên mẫu in lúc đó vẫn chưa khô.\n(B) Bên mua yêu cầu chúng ta gửi biên nhận qua thư điện tử.\n(C) Mẫu trơn được gửi chuyển phát nhanh.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The ink on the printed sample hadn't dried yet."
+            },
+            {
+              "key": "B",
+              "text": "The buyer asked us to email the receipt."
+            },
+            {
+              "key": "C",
+              "text": "The plain sample was sent by express mail."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lý do thay mẫu là bản in chưa khô mực và chưa thể gửi đi. (B) Nêu một yêu cầu về biên nhận, không giải thích lựa chọn mẫu. (C) Nêu phương thức gửi, không cho biết vì sao chọn mẫu trơn.",
+          "translation": "Q: Vì sao lại gửi mẫu trơn cho bên mua thay vì mẫu có in họa tiết?\n(A) Mực trên mẫu in lúc đó vẫn chưa khô.\n(B) Bên mua yêu cầu chúng ta gửi biên nhận qua thư điện tử.\n(C) Mẫu trơn được gửi chuyển phát nhanh.",
+          "difficulty": 3,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "why-contrastive-emphasis"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Can we still use the small hall for the briefing now that eighty people have registered?\n(A) The seating plan shows a maximum of sixty in there.\n(B) We had sixty people at the last briefing.\n(C) Registration will close tomorrow at noon.",
+      "transcript_vi": "Q: Giờ đã có tám mươi người đăng ký, ta vẫn dùng hội trường nhỏ cho buổi phổ biến được không?\n(A) Sơ đồ chỗ ngồi cho thấy phòng đó chỉ chứa tối đa sáu mươi người.\n(B) Buổi phổ biến lần trước có sáu mươi người.\n(C) Việc đăng ký sẽ kết thúc vào trưa mai.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The seating plan shows a maximum of sixty in there."
+            },
+            {
+              "key": "B",
+              "text": "We had sixty people at the last briefing."
+            },
+            {
+              "key": "C",
+              "text": "Registration will close tomorrow at noon."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). So sánh giới hạn sáu mươi với tám mươi người đăng ký cho thấy hội trường nhỏ không đủ chỗ. (B) Số người lần trước không cho biết sức chứa tối đa của hội trường. (C) Nêu hạn đăng ký, không cho biết hội trường đáp ứng được không.",
+          "translation": "Q: Giờ đã có tám mươi người đăng ký, ta vẫn dùng hội trường nhỏ cho buổi phổ biến được không?\n(A) Sơ đồ chỗ ngồi cho thấy phòng đó chỉ chứa tối đa sáu mươi người.\n(B) Buổi phổ biến lần trước có sáu mươi người.\n(C) Việc đăng ký sẽ kết thúc vào trưa mai.",
+          "difficulty": 4,
+          "tags": [
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-new-threshold"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: The bank will be closed by the time the first cash count is finished.\n(A) The bank is moving to a larger office in May.\n(B) I finished counting the cash from yesterday's sales.\n(C) We can use the night deposit box when the count is done.",
+      "transcript_vi": "Q: Đến lúc kiểm đếm tiền mặt lần đầu xong thì ngân hàng đã đóng cửa rồi.\n(A) Ngân hàng sẽ chuyển sang cơ sở lớn hơn vào tháng Năm.\n(B) Tôi đã đếm xong tiền bán hàng hôm qua.\n(C) Khi đếm xong, chúng ta có thể dùng hộp gửi tiền ngoài giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The bank is moving to a larger office in May."
+            },
+            {
+              "key": "B",
+              "text": "I finished counting the cash from yesterday's sales."
+            },
+            {
+              "key": "C",
+              "text": "We can use the night deposit box when the count is done."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). “Night deposit box” là cách nộp tiền sau khi quầy ngân hàng đã đóng, đúng với trở ngại về giờ. (A) Nhắc tới ngân hàng nhưng chuyển sang kế hoạch dời địa điểm. (B) Nói về một lượt kiểm đếm khác, không xử lý việc ngân hàng sắp đóng.",
+          "translation": "Q: Đến lúc kiểm đếm tiền mặt lần đầu xong thì ngân hàng đã đóng cửa rồi.\n(A) Ngân hàng sẽ chuyển sang cơ sở lớn hơn vào tháng Năm.\n(B) Tôi đã đếm xong tiền bán hàng hôm qua.\n(C) Khi đếm xong, chúng ta có thể dùng hộp gửi tiền ngoài giờ.",
+          "difficulty": 4,
+          "tags": [
+            "statement"
+          ],
+          "skill_tags": [
+            "infer-urgency-and-workaround"
+          ],
+          "source": "original"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Which of the two applicants can come in before the end of the week?\n(A) Both applicants sent in their references on Thursday.\n(B) The first one can't get away from work until next Monday, but the other is free on Thursday.\n(C) The first appointment of the day is at nine.",
+      "transcript_vi": "Q: Trong hai ứng viên, ai có thể đến phỏng vấn trước khi hết tuần?\n(A) Cả hai ứng viên đều gửi thông tin người giới thiệu hôm thứ Năm.\n(B) Người thứ nhất phải đến thứ Hai tới mới xin nghỉ được, còn người kia rảnh vào thứ Năm.\n(C) Lịch hẹn đầu tiên trong ngày là lúc chín giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Both applicants sent in their references on Thursday."
+            },
+            {
+              "key": "B",
+              "text": "The first one can't get away from work until next Monday, but the other is free on Thursday."
+            },
+            {
+              "key": "C",
+              "text": "The first appointment of the day is at nine."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). “Until next Monday” loại người thứ nhất. Thứ Năm còn trong tuần nên người thứ hai đáp ứng yêu cầu. (A) Thứ Năm chỉ ngày đã gửi giấy tờ, không cho biết ngày có thể tới phỏng vấn. (C) Nêu giờ của một lịch hẹn, không xác định ứng viên nào đến kịp.",
+          "translation": "Q: Trong hai ứng viên, ai có thể đến phỏng vấn trước khi hết tuần?\n(A) Cả hai ứng viên đều gửi thông tin người giới thiệu hôm thứ Năm.\n(B) Người thứ nhất phải đến thứ Hai tới mới xin nghỉ được, còn người kia rảnh vào thứ Năm.\n(C) Lịch hẹn đầu tiên trong ngày là lúc chín giờ.",
+          "difficulty": 4,
+          "tags": [
+            "wh-question"
+          ],
+          "skill_tags": [
+            "which-via-prior-commitment"
+          ],
+          "source": "original"
+        }
+      ]
+    }
+  ]
+}

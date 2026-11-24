@@ -1,0 +1,392 @@
+[
+  {
+    "lemma": "encryption", "pos": "n", "meaning_vi": "sự mã hóa dữ liệu",
+    "definition_en": "the process of encoding information so unauthorized people cannot read it",
+    "examples": [
+      {"en": "Encryption keeps the patient's medical records private during transfer.", "vi": "Việc mã hóa giữ kín hồ sơ y tế của bệnh nhân khi truyền dữ liệu."},
+      {"en": "The security team enabled encryption for every company laptop.", "vi": "Nhóm bảo mật đã bật tính năng mã hóa trên mọi máy tính xách tay của công ty."}
+    ],
+    "collocations": [{"en": "end-to-end encryption", "vi": "mã hóa đầu cuối"}],
+    "topics": ["security", "data-protection"], "register": "technical"
+  },
+  {
+    "lemma": "repository", "pos": "n", "meaning_vi": "kho lưu trữ mã nguồn; nơi tập hợp dữ liệu",
+    "definition_en": "a central location where code, documents, or other resources are stored and managed",
+    "examples": [
+      {"en": "The repository contains the application's source code and documentation.", "vi": "Kho lưu trữ chứa mã nguồn và tài liệu của ứng dụng."},
+      {"en": "Before reviewing the changes, Mina cloned the repository onto her laptop.", "vi": "Trước khi xem xét các thay đổi, Mina đã sao chép kho mã nguồn về máy tính của mình."}
+    ],
+    "collocations": [{"en": "source code repository", "vi": "kho mã nguồn"}],
+    "topics": ["software-development", "version-control"], "register": "technical"
+  },
+  {
+    "lemma": "deployment", "pos": "n", "meaning_vi": "việc triển khai phần mềm vào môi trường sử dụng",
+    "definition_en": "the process of making software available for people to use",
+    "examples": [
+      {"en": "Deployment was delayed after the payment tests failed.", "vi": "Đợt triển khai bị hoãn sau khi các bài kiểm thử thanh toán thất bại."},
+      {"en": "The team scheduled deployment for Sunday when traffic would be low.", "vi": "Nhóm đã lên lịch triển khai vào Chủ nhật, khi lưu lượng truy cập dự kiến thấp."}
+    ],
+    "collocations": [{"en": "production deployment", "vi": "đợt triển khai lên môi trường chính thức"}],
+    "topics": ["software-development", "operations"], "register": "technical"
+  },
+  {
+    "lemma": "framework", "pos": "n", "meaning_vi": "bộ khung công cụ và quy ước để xây dựng phần mềm",
+    "definition_en": "a structured collection of tools and conventions used to develop applications",
+    "examples": [
+      {"en": "This framework provides routing and database utilities out of the box.", "vi": "Bộ khung này cung cấp sẵn tiện ích định tuyến và làm việc với cơ sở dữ liệu."},
+      {"en": "We selected a lightweight framework for the customer support portal.", "vi": "Chúng tôi đã chọn một bộ khung gọn nhẹ cho cổng hỗ trợ khách hàng."}
+    ],
+    "collocations": [{"en": "web application framework", "vi": "bộ khung phát triển ứng dụng web"}],
+    "topics": ["software-development", "architecture"], "register": "technical"
+  },
+  {
+    "lemma": "server", "pos": "n", "meaning_vi": "máy chủ cung cấp dữ liệu hoặc dịch vụ",
+    "definition_en": "a computer or program that provides data or services to other computers",
+    "examples": [
+      {"en": "The server restarted automatically after a power interruption.", "vi": "Máy chủ tự khởi động lại sau khi nguồn điện bị gián đoạn."},
+      {"en": "Our server handles bookings from all twelve branches.", "vi": "Máy chủ của chúng tôi xử lý đặt lịch từ cả mười hai chi nhánh."}
+    ],
+    "collocations": [{"en": "application server", "vi": "máy chủ ứng dụng"}],
+    "topics": ["infrastructure", "networking"], "register": "technical"
+  },
+  {
+    "lemma": "browser", "pos": "n", "meaning_vi": "trình duyệt web",
+    "definition_en": "a program used to access and view websites",
+    "examples": [
+      {"en": "The browser blocked the download because the connection was insecure.", "vi": "Trình duyệt đã chặn tải xuống vì kết nối không an toàn."},
+      {"en": "Refresh the browser tab after we publish the updated schedule.", "vi": "Hãy tải lại thẻ trình duyệt sau khi chúng tôi đăng lịch trình mới."}
+    ],
+    "collocations": [{"en": "browser extension", "vi": "tiện ích mở rộng của trình duyệt"}],
+    "topics": ["web", "digital-literacy"], "register": "technical"
+  },
+  {
+    "lemma": "configuration", "pos": "n", "meaning_vi": "cấu hình; tập hợp các thiết lập hệ thống",
+    "definition_en": "the arrangement of settings that determines how a system operates",
+    "examples": [
+      {"en": "An incorrect configuration prevented the email service from starting.", "vi": "Một cấu hình sai khiến dịch vụ email không thể khởi động."},
+      {"en": "Our administrator reviewed the network configuration before opening the new office.", "vi": "Quản trị viên đã kiểm tra cấu hình mạng trước khi khai trương văn phòng mới."}
+    ],
+    "collocations": [{"en": "configuration file", "vi": "tệp cấu hình"}],
+    "topics": ["infrastructure", "operations"], "register": "technical"
+  },
+  {
+    "lemma": "compiler", "pos": "n", "meaning_vi": "trình biên dịch",
+    "definition_en": "a program that translates source code into another form that a computer can run",
+    "examples": [
+      {"en": "The compiler reported an error on line forty-two.", "vi": "Trình biên dịch báo lỗi ở dòng bốn mươi hai."},
+      {"en": "A newer compiler reduced the time needed to build the application.", "vi": "Trình biên dịch mới hơn đã rút ngắn thời gian tạo bản dựng ứng dụng."}
+    ],
+    "collocations": [{"en": "compiler error", "vi": "lỗi trình biên dịch"}],
+    "topics": ["programming", "tooling"], "register": "technical"
+  },
+  {
+    "lemma": "dependency", "pos": "n", "meaning_vi": "thư viện hoặc thành phần mà phần mềm khác phụ thuộc vào",
+    "definition_en": "a software component that another program needs in order to function",
+    "examples": [
+      {"en": "The outdated dependency introduced a security risk into our application.", "vi": "Thành phần phụ thuộc lỗi thời đã tạo ra rủi ro bảo mật cho ứng dụng của chúng tôi."},
+      {"en": "Before release, the team checked each dependency for known vulnerabilities.", "vi": "Trước khi phát hành, nhóm đã kiểm tra từng thư viện phụ thuộc để tìm lỗ hổng đã biết."}
+    ],
+    "collocations": [{"en": "software dependency", "vi": "thành phần phụ thuộc của phần mềm"}],
+    "topics": ["software-development", "security"], "register": "technical"
+  },
+  {
+    "lemma": "request", "pos": "n", "meaning_vi": "yêu cầu gửi tới hệ thống để lấy dữ liệu hoặc thực hiện thao tác",
+    "definition_en": "a message sent to a system asking for data or an action",
+    "examples": [
+      {"en": "Each request includes an identifier so the system can trace errors.", "vi": "Mỗi yêu cầu đều có mã định danh để hệ thống truy vết lỗi."},
+      {"en": "The API rejected a request without a valid access token.", "vi": "API đã từ chối yêu cầu không có mã thông báo truy cập hợp lệ."}
+    ],
+    "collocations": [{"en": "HTTP request", "vi": "yêu cầu HTTP"}],
+    "topics": ["web", "api-design"], "register": "technical"
+  },
+  {
+    "lemma": "response", "pos": "n", "meaning_vi": "phản hồi hoặc dữ liệu hệ thống trả về sau khi nhận yêu cầu",
+    "definition_en": "data or a status message returned by a system after a request",
+    "examples": [
+      {"en": "The response contained a list of available meeting rooms.", "vi": "Phản hồi chứa danh sách các phòng họp còn trống."},
+      {"en": "The server sent a response explaining why the upload failed.", "vi": "Máy chủ trả về phản hồi giải thích lý do tải tệp lên thất bại."}
+    ],
+    "collocations": [{"en": "server response", "vi": "phản hồi từ máy chủ"}],
+    "topics": ["web", "api-design"], "register": "technical"
+  },
+  {
+    "lemma": "token", "pos": "n", "meaning_vi": "mã thông báo dùng để xác thực hoặc cấp quyền truy cập",
+    "definition_en": "a digital value used to represent identity or permission in a system",
+    "examples": [
+      {"en": "The token expires after thirty minutes of inactivity.", "vi": "Mã thông báo hết hạn sau ba mươi phút không hoạt động."},
+      {"en": "Never share a token that grants access to customer records.", "vi": "Đừng bao giờ chia sẻ mã thông báo cho phép truy cập hồ sơ khách hàng."}
+    ],
+    "collocations": [{"en": "access token", "vi": "mã thông báo truy cập"}],
+    "topics": ["security", "authentication"], "register": "technical"
+  },
+  {
+    "lemma": "protocol", "pos": "n", "meaning_vi": "giao thức; tập hợp quy tắc trao đổi dữ liệu",
+    "definition_en": "a set of rules governing communication between devices or programs",
+    "examples": [
+      {"en": "The protocol defines how devices establish a secure connection.", "vi": "Giao thức quy định cách các thiết bị thiết lập kết nối an toàn."},
+      {"en": "Our partners agreed to use the same protocol for exchanging orders.", "vi": "Các đối tác đồng ý dùng cùng một giao thức để trao đổi đơn hàng."}
+    ],
+    "collocations": [{"en": "communication protocol", "vi": "giao thức truyền thông"}],
+    "topics": ["networking", "integration"], "register": "technical"
+  },
+  {
+    "lemma": "query", "pos": "n", "meaning_vi": "truy vấn; yêu cầu tìm hoặc xử lý dữ liệu",
+    "definition_en": "a request to retrieve or change information in a database or system",
+    "examples": [
+      {"en": "The query returned every order placed during October.", "vi": "Truy vấn trả về tất cả đơn hàng được đặt trong tháng Mười."},
+      {"en": "A poorly written query slowed down the sales dashboard.", "vi": "Một truy vấn viết chưa tốt đã làm chậm bảng điều khiển bán hàng."}
+    ],
+    "collocations": [{"en": "database query", "vi": "truy vấn cơ sở dữ liệu"}],
+    "topics": ["databases", "analytics"], "register": "technical"
+  },
+  {
+    "lemma": "cache", "pos": "n", "meaning_vi": "bộ nhớ đệm lưu dữ liệu để truy cập nhanh",
+    "definition_en": "temporary storage that makes frequently used data quicker to access",
+    "examples": [
+      {"en": "The cache stores recent search results to reduce database traffic.", "vi": "Bộ nhớ đệm lưu kết quả tìm kiếm gần đây để giảm lưu lượng truy cập cơ sở dữ liệu."},
+      {"en": "After changing the menu, we cleared the cache to show the new prices.", "vi": "Sau khi sửa thực đơn, chúng tôi xóa bộ nhớ đệm để hiển thị giá mới."}
+    ],
+    "collocations": [{"en": "cache invalidation", "vi": "việc làm mất hiệu lực bộ nhớ đệm"}],
+    "topics": ["performance", "web"], "register": "technical"
+  },
+  {
+    "lemma": "validation", "pos": "n", "meaning_vi": "việc kiểm tra tính hợp lệ của dữ liệu hoặc kết quả",
+    "definition_en": "the process of checking that information meets specified rules or requirements",
+    "examples": [
+      {"en": "Validation rejected the form because the phone number was incomplete.", "vi": "Bước kiểm tra tính hợp lệ đã từ chối biểu mẫu vì số điện thoại chưa đầy đủ."},
+      {"en": "The finance team added validation before importing payroll data.", "vi": "Nhóm tài chính đã bổ sung bước kiểm tra tính hợp lệ trước khi nhập dữ liệu lương."}
+    ],
+    "collocations": [{"en": "input validation", "vi": "kiểm tra tính hợp lệ của dữ liệu đầu vào"}],
+    "topics": ["data-quality", "software-testing"], "register": "technical"
+  },
+  {
+    "lemma": "monitoring", "pos": "n", "meaning_vi": "việc theo dõi liên tục trạng thái hệ thống",
+    "definition_en": "continuous observation of a system to detect changes or problems",
+    "examples": [
+      {"en": "Monitoring revealed a sudden increase in failed payments.", "vi": "Hoạt động giám sát phát hiện số giao dịch thanh toán thất bại tăng đột ngột."},
+      {"en": "The operations team improved monitoring before the holiday sale.", "vi": "Nhóm vận hành đã cải thiện hệ thống giám sát trước đợt giảm giá dịp lễ."}
+    ],
+    "collocations": [{"en": "system monitoring", "vi": "giám sát hệ thống"}],
+    "topics": ["operations", "reliability"], "register": "technical"
+  },
+  {
+    "lemma": "reliability", "pos": "n", "meaning_vi": "độ tin cậy; khả năng hoạt động ổn định",
+    "definition_en": "the ability to perform consistently and correctly over time",
+    "examples": [
+      {"en": "Reliability matters when hospitals depend on digital appointment systems.", "vi": "Độ tin cậy rất quan trọng khi bệnh viện phụ thuộc vào hệ thống đặt lịch điện tử."},
+      {"en": "We measured the service's reliability during a month of heavy traffic.", "vi": "Chúng tôi đo độ tin cậy của dịch vụ trong một tháng có lưu lượng truy cập cao."}
+    ],
+    "collocations": [{"en": "service reliability", "vi": "độ tin cậy của dịch vụ"}],
+    "topics": ["operations", "quality"], "register": "technical"
+  },
+  {
+    "lemma": "vulnerability", "pos": "n", "meaning_vi": "lỗ hổng bảo mật; điểm yếu có thể bị khai thác",
+    "definition_en": "a weakness in a system that could be exploited or cause harm",
+    "examples": [
+      {"en": "The audit uncovered a vulnerability in the login process.", "vi": "Đợt kiểm toán đã phát hiện một lỗ hổng trong quy trình đăng nhập."},
+      {"en": "Engineers patched the vulnerability before releasing the mobile app.", "vi": "Các kỹ sư đã vá lỗ hổng trước khi phát hành ứng dụng di động."}
+    ],
+    "collocations": [{"en": "security vulnerability", "vi": "lỗ hổng bảo mật"}],
+    "topics": ["security", "software-testing"], "register": "technical"
+  },
+  {
+    "lemma": "permission", "pos": "n", "meaning_vi": "quyền cho phép thực hiện một thao tác",
+    "definition_en": "authorization to perform an action or access a resource",
+    "examples": [
+      {"en": "The intern lacked permission to delete customer accounts.", "vi": "Thực tập sinh không có quyền xóa tài khoản khách hàng."},
+      {"en": "The dashboard checks permission before displaying confidential reports.", "vi": "Bảng điều khiển kiểm tra quyền truy cập trước khi hiển thị báo cáo mật."}
+    ],
+    "collocations": [{"en": "access permission", "vi": "quyền truy cập"}],
+    "topics": ["security", "workplace"], "register": "business"
+  },
+  {
+    "lemma": "notification", "pos": "n", "meaning_vi": "thông báo được gửi đến người dùng",
+    "definition_en": "a message that informs someone about an event or change",
+    "examples": [
+      {"en": "A notification appeared when the shipment reached the warehouse.", "vi": "Một thông báo xuất hiện khi lô hàng đến kho."},
+      {"en": "Customers can disable each notification in their account settings.", "vi": "Khách hàng có thể tắt từng loại thông báo trong phần cài đặt tài khoản."}
+    ],
+    "collocations": [{"en": "push notification", "vi": "thông báo đẩy"}],
+    "topics": ["product-design", "communication"], "register": "technical"
+  },
+  {
+    "lemma": "transaction", "pos": "n", "meaning_vi": "giao dịch; thao tác được xử lý như một đơn vị",
+    "definition_en": "an exchange or operation recorded and handled as one unit",
+    "examples": [
+      {"en": "The transaction failed because the card had expired.", "vi": "Giao dịch thất bại vì thẻ đã hết hạn."},
+      {"en": "Every transaction receives a unique reference number for reconciliation.", "vi": "Mỗi giao dịch được cấp một mã tham chiếu riêng để đối soát."}
+    ],
+    "collocations": [{"en": "payment transaction", "vi": "giao dịch thanh toán"}],
+    "topics": ["payments", "databases"], "register": "business"
+  },
+  {
+    "lemma": "logging", "pos": "n", "meaning_vi": "việc ghi nhật ký sự kiện của phần mềm",
+    "definition_en": "the recording of events and actions for later analysis",
+    "examples": [
+      {"en": "Logging helped engineers identify when the checkout service stopped responding.", "vi": "Việc ghi nhật ký đã giúp các kỹ sư xác định lúc dịch vụ thanh toán ngừng phản hồi."},
+      {"en": "We disabled sensitive data logging to protect customer privacy.", "vi": "Chúng tôi đã tắt ghi nhật ký dữ liệu nhạy cảm để bảo vệ quyền riêng tư của khách hàng."}
+    ],
+    "collocations": [{"en": "error logging", "vi": "ghi nhật ký lỗi"}],
+    "topics": ["observability", "security"], "register": "technical"
+  },
+  {
+    "lemma": "parameter", "pos": "n", "meaning_vi": "tham số đầu vào của một hàm hoặc thao tác",
+    "definition_en": "a value or variable that controls how a function or operation behaves",
+    "examples": [
+      {"en": "The function accepts a parameter that specifies the maximum file size.", "vi": "Hàm nhận một tham số để xác định kích thước tệp tối đa."},
+      {"en": "Change this parameter carefully because it affects every branch's inventory.", "vi": "Hãy thay đổi tham số này cẩn thận vì nó ảnh hưởng đến tồn kho của mọi chi nhánh."}
+    ],
+    "collocations": [{"en": "optional parameter", "vi": "tham số tùy chọn"}],
+    "topics": ["programming", "configuration"], "register": "technical"
+  },
+  {
+    "lemma": "interpreter", "pos": "n", "meaning_vi": "trình thông dịch mã lệnh",
+    "definition_en": "a program that executes instructions written in a programming language",
+    "examples": [
+      {"en": "The interpreter stopped when it encountered an undefined variable.", "vi": "Trình thông dịch dừng lại khi gặp một biến chưa được định nghĩa."},
+      {"en": "The Python interpreter runs the script without creating a separate executable.", "vi": "Trình thông dịch Python chạy tập lệnh mà không tạo tệp thực thi riêng."}
+    ],
+    "collocations": [{"en": "Python interpreter", "vi": "trình thông dịch Python"}],
+    "topics": ["programming", "tooling"], "register": "technical"
+  },
+  {
+    "lemma": "syntax", "pos": "n", "meaning_vi": "cú pháp; quy tắc viết câu lệnh trong ngôn ngữ lập trình",
+    "definition_en": "rules governing how instructions are written in a programming language",
+    "examples": [
+      {"en": "The editor highlighted the incorrect syntax in red.", "vi": "Trình soạn thảo tô đỏ phần cú pháp sai."},
+      {"en": "New hires studied the query language's syntax before accessing reports.", "vi": "Nhân viên mới đã học cú pháp ngôn ngữ truy vấn trước khi truy cập báo cáo."}
+    ],
+    "collocations": [{"en": "syntax error", "vi": "lỗi cú pháp"}],
+    "topics": ["programming", "databases"], "register": "technical"
+  },
+  {
+    "lemma": "packet", "pos": "n", "meaning_vi": "gói dữ liệu được truyền trên mạng",
+    "definition_en": "a small unit of information sent across a computer network",
+    "examples": [
+      {"en": "Each packet carries part of the video stream to the viewer.", "vi": "Mỗi gói dữ liệu mang một phần luồng video đến người xem."},
+      {"en": "The router discarded a damaged packet during the transfer.", "vi": "Bộ định tuyến đã loại bỏ một gói dữ liệu bị hỏng trong quá trình truyền."}
+    ],
+    "collocations": [{"en": "data packet", "vi": "gói dữ liệu"}],
+    "topics": ["networking", "infrastructure"], "register": "technical"
+  },
+  {
+    "lemma": "domain", "pos": "n", "meaning_vi": "tên miền; địa chỉ nhận dạng một website trên Internet",
+    "definition_en": "a human-readable name used to identify a website or online service",
+    "examples": [
+      {"en": "The company registered a new domain for its online store.", "vi": "Công ty đã đăng ký tên miền mới cho cửa hàng trực tuyến."},
+      {"en": "Our domain expires next month unless we renew it.", "vi": "Tên miền của chúng tôi sẽ hết hạn vào tháng sau nếu không được gia hạn."}
+    ],
+    "collocations": [{"en": "domain name", "vi": "tên miền"}],
+    "topics": ["web", "networking"], "register": "technical"
+  },
+  {
+    "lemma": "regression", "pos": "n", "meaning_vi": "lỗi hồi quy do thay đổi phần mềm làm hỏng chức năng từng hoạt động tốt",
+    "definition_en": "a defect in previously working software caused by a later change",
+    "examples": [
+      {"en": "A regression prevented returning customers from viewing their saved orders.", "vi": "Một lỗi phát sinh sau cập nhật khiến khách hàng cũ không xem được đơn hàng đã lưu."},
+      {"en": "The team added a test to prevent the regression from returning.", "vi": "Nhóm đã thêm bài kiểm thử để ngăn lỗi đó tái diễn."}
+    ],
+    "collocations": [{"en": "regression test", "vi": "bài kiểm thử hồi quy"}],
+    "topics": ["software-testing", "quality"], "register": "technical"
+  },
+  {
+    "lemma": "compatibility", "pos": "n", "meaning_vi": "tính tương thích; khả năng hoạt động cùng nhau",
+    "definition_en": "the ability of products or systems to work together correctly",
+    "examples": [
+      {"en": "Compatibility with older phones was a requirement for the new app.", "vi": "Khả năng tương thích với điện thoại đời cũ là một yêu cầu của ứng dụng mới."},
+      {"en": "We checked compatibility before installing the accounting software across every branch.", "vi": "Chúng tôi kiểm tra tính tương thích trước khi cài phần mềm kế toán tại tất cả chi nhánh."}
+    ],
+    "collocations": [{"en": "backward compatibility", "vi": "khả năng tương thích ngược"}],
+    "topics": ["software-testing", "integration"], "register": "technical"
+  },
+  {
+    "lemma": "component", "pos": "n", "meaning_vi": "thành phần cấu thành một hệ thống hoặc giao diện",
+    "definition_en": "a distinct part that works with other parts of a system",
+    "examples": [
+      {"en": "The search component displays matching products as customers type.", "vi": "Thành phần tìm kiếm hiển thị sản phẩm phù hợp khi khách hàng nhập chữ."},
+      {"en": "Each component has its own tests and maintenance schedule.", "vi": "Mỗi thành phần có bộ kiểm thử và lịch bảo trì riêng."}
+    ],
+    "collocations": [{"en": "user interface component", "vi": "thành phần giao diện người dùng"}],
+    "topics": ["software-development", "architecture"], "register": "technical"
+  },
+  {
+    "lemma": "architecture", "pos": "n", "meaning_vi": "kiến trúc hệ thống; cách tổ chức các thành phần phần mềm",
+    "definition_en": "the overall design and organization of a software system",
+    "examples": [
+      {"en": "The new architecture separates the payment service from the customer portal.", "vi": "Kiến trúc mới tách dịch vụ thanh toán khỏi cổng khách hàng."},
+      {"en": "Before hiring developers, the startup documented its system architecture.", "vi": "Trước khi tuyển lập trình viên, công ty khởi nghiệp đã ghi lại kiến trúc hệ thống."}
+    ],
+    "collocations": [{"en": "software architecture", "vi": "kiến trúc phần mềm"}],
+    "topics": ["software-development", "system-design"], "register": "technical"
+  },
+  {
+    "lemma": "implementation", "pos": "n", "meaning_vi": "việc hiện thực hóa thiết kế thành phần mềm hoạt động",
+    "definition_en": "the process of turning a plan or design into working software",
+    "examples": [
+      {"en": "Implementation of the search feature took longer than expected.", "vi": "Việc triển khai tính năng tìm kiếm mất nhiều thời gian hơn dự kiến."},
+      {"en": "The implementation passed testing before the marketing team announced the launch.", "vi": "Phần triển khai đã vượt qua kiểm thử trước khi nhóm tiếp thị công bố ra mắt."}
+    ],
+    "collocations": [{"en": "feature implementation", "vi": "việc triển khai tính năng"}],
+    "topics": ["software-development", "project-management"], "register": "technical"
+  },
+  {
+    "lemma": "developer", "pos": "n", "meaning_vi": "lập trình viên; người phát triển phần mềm",
+    "definition_en": "a person who designs, builds, or maintains software",
+    "examples": [
+      {"en": "The developer corrected a pricing bug before customers noticed it.", "vi": "Lập trình viên đã sửa lỗi định giá trước khi khách hàng nhận thấy."},
+      {"en": "Every developer joined the planning meeting for the new booking feature.", "vi": "Mọi lập trình viên đều tham gia cuộc họp lên kế hoạch cho tính năng đặt lịch mới."}
+    ],
+    "collocations": [{"en": "software developer", "vi": "lập trình viên phần mềm"}],
+    "topics": ["careers", "software-development"], "register": "technical"
+  },
+  {
+    "lemma": "version", "pos": "n", "meaning_vi": "phiên bản của phần mềm hoặc tài liệu",
+    "definition_en": "a particular form of a product released or revised at a given time",
+    "examples": [
+      {"en": "The latest version fixes a problem with invoice downloads.", "vi": "Phiên bản mới nhất sửa lỗi tải hóa đơn."},
+      {"en": "Our support team still maintains a version used by older tablets.", "vi": "Nhóm hỗ trợ vẫn bảo trì một phiên bản dành cho máy tính bảng đời cũ."}
+    ],
+    "collocations": [{"en": "software version", "vi": "phiên bản phần mềm"}],
+    "topics": ["releases", "software-development"], "register": "technical"
+  },
+  {
+    "lemma": "production", "pos": "n", "meaning_vi": "môi trường phần mềm chính thức đang phục vụ người dùng thực tế",
+    "definition_en": "the live environment where software is available to real users",
+    "examples": [
+      {"en": "Production remained stable while the team investigated errors in staging.", "vi": "Môi trường vận hành chính thức vẫn ổn định khi nhóm điều tra lỗi ở môi trường thử nghiệm."},
+      {"en": "The team tested the fix before deploying it to production.", "vi": "Nhóm kiểm thử bản sửa lỗi trước khi triển khai lên môi trường vận hành chính thức."}
+    ],
+    "collocations": [{"en": "production environment", "vi": "môi trường vận hành chính thức"}],
+    "topics": ["deployment", "operations"], "register": "technical"
+  },
+  {
+    "lemma": "exception", "pos": "n", "meaning_vi": "ngoại lệ; tình huống lỗi bất thường khi chương trình chạy",
+    "definition_en": "an unexpected event or error that interrupts a program's normal execution",
+    "examples": [
+      {"en": "An exception occurred when the program tried to open a missing file.", "vi": "Một ngoại lệ xảy ra khi chương trình cố mở tệp không tồn tại."},
+      {"en": "The developer handled the exception and displayed a helpful message.", "vi": "Lập trình viên đã xử lý ngoại lệ và hiển thị thông báo hữu ích."}
+    ],
+    "collocations": [{"en": "unhandled exception", "vi": "ngoại lệ chưa được xử lý"}],
+    "topics": ["programming", "debugging"], "register": "technical"
+  },
+  {
+    "lemma": "prediction", "pos": "n", "meaning_vi": "dự đoán về kết quả hoặc sự kiện tương lai",
+    "definition_en": "a statement or estimate about what is likely to happen",
+    "examples": [
+      {"en": "The prediction showed higher electricity demand during the heatwave.", "vi": "Dự đoán cho thấy nhu cầu điện tăng trong đợt nắng nóng."},
+      {"en": "Managers compared the model's prediction with actual monthly sales.", "vi": "Các nhà quản lý so sánh dự đoán của mô hình với doanh số thực tế hằng tháng."}
+    ],
+    "collocations": [{"en": "sales prediction", "vi": "dự đoán doanh số"}],
+    "topics": ["artificial-intelligence", "analytics"], "register": "technical"
+  },
+  {
+    "lemma": "classification", "pos": "n", "meaning_vi": "việc phân loại dữ liệu thành các nhóm",
+    "definition_en": "the process of placing items into categories according to shared features",
+    "examples": [
+      {"en": "Classification helps the support system route messages to the right department.", "vi": "Việc phân loại giúp hệ thống hỗ trợ chuyển tin nhắn đến đúng bộ phận."},
+      {"en": "The team checked the model's classification of customer feedback against human labels.", "vi": "Nhóm đối chiếu việc phân loại phản hồi khách hàng của mô hình với nhãn do con người gán."}
+    ],
+    "collocations": [{"en": "text classification", "vi": "phân loại văn bản"}],
+    "topics": ["artificial-intelligence", "data-science"], "register": "technical"
+  }
+]

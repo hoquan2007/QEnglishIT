@@ -1,9 +1,8 @@
 # Local audio pipeline
 
-Requires Node.js, an **installed TTS command**, FFmpeg with libmp3lame, and
-FFprobe. No packages are installed. No TTS binary, model or voice is downloaded.
-There is no default/fake synthesizer and no cloud TTS call. No audio has been
-generated in this workspace because TTS/FFmpeg are not on PATH/configured.
+Requires Node.js, a local TTS command, FFmpeg with libmp3lame, and FFprobe.
+Set up the tools explicitly before running these scripts. Audio generation
+runs on the local machine.
 
 Copy `config.example.json` to ignored `local.config.json`, configure actual
 executable paths and replace all voice/license fields with verified values.
@@ -17,6 +16,20 @@ licensed local ONNX files. Verify that installed CLI's own help and each model's
 license before use. The adapter also supports installed Kokoro wrappers meeting
 the same stdin/WAV contract. Locale and voice terms must be explicit; they are
 operator assertions, not automatically validated voice-model licenses.
+
+For Kokoro, install `kokoro-onnx==0.6.1` in a local virtual environment and
+point `command` to that interpreter. Use `scripts/audio/kokoro-wav.py`
+with these `args`, replacing the two asset paths with local paths from the
+[official ONNX release](https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0).
+
+```json
+["scripts/audio/kokoro-wav.py", "--model", "kokoro-v1.0.int8.onnx", "--voices", "voices-v1.0.bin", "--voice", "{voice}", "--output", "{output}"]
+```
+
+The batch generated on 24/11/2026 uses `af_heart` and `am_michael` for
+US English and `bf_emma` and `bm_george` for UK English. See the
+[Kokoro model card](https://huggingface.co/hexgrad/Kokoro-82M) and
+[voice list](https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md).
 
 ```powershell
 node scripts/audio/tts-words.mjs --help
@@ -75,4 +88,14 @@ Bucket/table/schema/policy setup must already exist. Standard uploads buffer fil
 for files >6 MB, so very long lessons need a future resumable-upload adapter.
 Stable overwritten URLs may remain stale at CDN edges despite successful upsert.
 
-No upload command with `--execute` has been run; no cloud mutations occurred.
+To import a new batch of listening lessons, stage its verified MP3 files in
+Storage before running the strict importer. The staging command adds the
+resulting URLs and durations to the batch JSON after every upload succeeds.
+Seed the batch, then run the uploader normally to record `media_assets`.
+For lessons already in the database, run the uploader normally.
+
+```powershell
+node --env-file-if-exists=.env.local scripts/audio/upload-media.mjs --input <manifest> --execute --prepare-listening content/listening/lessons-003.json
+npm run seed -- listening --strict --file content/listening/lessons-003.json
+node --env-file-if-exists=.env.local scripts/audio/upload-media.mjs --input <manifest> --execute
+```

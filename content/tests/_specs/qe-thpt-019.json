@@ -1,0 +1,144 @@
+{
+  "slug": "qe-thpt-019",
+  "content_path": "content/tests/thpt/qe-thpt-019.json",
+  "title": "Đề luyện thi tiếng Anh THPT 19 – Biểu mẫu số, Sửa quần áo và Phục hồi cồn cát",
+  "exam_type": "thpt",
+  "level": "B1-B2",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        4,
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "context": "Standalone language use",
+      "first_question": 1,
+      "last_question": 20,
+      "skill_distribution": {
+        "tense": 1,
+        "word-form": 1,
+        "relative-clause": 1,
+        "collocation": 1,
+        "conditional": 1,
+        "preposition": 1,
+        "verb-pattern": 1,
+        "passive": 1,
+        "concession": 1,
+        "phrasal-verb": 1,
+        "agreement": 1,
+        "modal-perfect": 1,
+        "dialogue": 1,
+        "comparison": 1,
+        "inversion": 1,
+        "vocabulary": 1,
+        "reduced-clause": 1,
+        "quantifier": 1,
+        "article": 1,
+        "paraphrase": 1
+      }
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "context": "Digital application instructions",
+      "first_question": 21,
+      "last_question": 25,
+      "skill_distribution": {
+        "relative-clause": 1,
+        "word-form": 1,
+        "preposition": 1,
+        "conjunction": 1,
+        "collocation": 1
+      }
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "context": "Fabric care guide",
+      "first_question": 26,
+      "last_question": 30,
+      "skill_distribution": {
+        "reduced-clause": 2,
+        "preposition": 1,
+        "verb-pattern": 2
+      }
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "context": "Testing an online form",
+      "first_question": 31,
+      "last_question": 36,
+      "skill_distribution": {
+        "detail": 3,
+        "purpose": 1,
+        "inference": 1,
+        "main-idea": 1
+      }
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "A clothing repair service",
+      "first_question": 37,
+      "last_question": 42,
+      "skill_distribution": {
+        "detail": 3,
+        "cause-effect": 1,
+        "vocabulary-in-context": 1,
+        "inference": 1
+      }
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "context": "Coastal dune restoration",
+      "first_question": 43,
+      "last_question": 50,
+      "skill_distribution": {
+        "detail": 2,
+        "purpose": 1,
+        "reference": 1,
+        "inference": 2,
+        "vocabulary-in-context": 1,
+        "main-idea": 1
+      }
+    }
+  ],
+  "answer_distribution": {
+    "A": 13,
+    "B": 13,
+    "C": 12,
+    "D": 12
+  }
+}

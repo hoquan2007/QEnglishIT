@@ -4,12 +4,13 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { ChevronLeft, ChevronRight, Ear, Layers, List, ListChecks, PenLine, RotateCcw, Shuffle, Trophy, Volume2, FolderPlus } from "lucide-react";
 import type { VocabWord } from "@/lib/types";
-import { speak } from "@/lib/tts";
+import { speakWord } from "@/lib/tts";
 import { cn, normalizeText, shuffle } from "@/lib/utils";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { nextReview } from "@/lib/srs";
 import { CartButton } from "./CartButton";
 import { AddToSet } from "./AddToSet";
+import { WordPronunciation } from "./WordPronunciation";
 
 type Mode = "list" | "flash" | "quiz" | "spell";
 const MODES = [
@@ -50,15 +51,24 @@ export function WordList({ words }: { words: VocabWord[] }) {
             <div className="flex flex-wrap items-baseline gap-2">
               <span className="text-lg font-bold text-brand-700">{w.word}</span>
               {w.pos && <span className="rounded bg-slate-100 px-1.5 text-xs text-slate-500">{w.pos}</span>}
-              {w.ipa && <span className="text-sm text-slate-400">{w.ipa}</span>}
               {w.cefr && <span className="text-[10px] font-bold text-violet-500">{w.cefr}</span>}
             </div>
+            <WordPronunciation word={w} />
             <div className="font-medium text-slate-800">{w.meaning_vi}</div>
-            {w.example_en && <p className="mt-1 text-sm italic text-slate-600">{w.example_en}</p>}
-            {w.example_vi && <p className="text-sm text-slate-400">{w.example_vi}</p>}
+            {(w.examples?.length ? w.examples : [{ en: w.example_en, vi: w.example_vi }]).map((example, index) => (
+              <div key={index} className="mt-1">
+                {example.en && <p className="text-sm italic text-slate-600">{example.en}</p>}
+                {example.vi && <p className="text-sm text-slate-500">{example.vi}</p>}
+              </div>
+            ))}
+            {w.collocations?.map(({ en, vi }) => (
+              <p key={en} className="mt-1 text-sm text-slate-600"><strong>{en}</strong> · {vi}</p>
+            ))}
+            {!!w.word_family?.length && <p className="mt-1 text-sm text-slate-600">
+              <strong>Họ từ</strong> · {w.word_family.map(({ word, pos }) => `${word} (${pos})`).join(", ")}
+            </p>}
           </div>
           <div className="flex flex-col items-center gap-1">
-            <button onClick={() => speak(w.word)} className="rounded-full p-2 text-brand-600 hover:bg-brand-50" aria-label="Phát âm"><Volume2 className="h-4 w-4" /></button>
             <CartButton wordId={w.id} />
             <AddToSet wordId={w.id} />
           </div>
@@ -75,7 +85,7 @@ export function Flashcards({ words: initial, onRated }: { words: VocabWord[]; on
   const w = words[i];
 
   useEffect(() => {
-    if (w) speak(w.word);
+    if (w) speakWord(w);
   }, [w]);
 
   async function rate(r: 0 | 1 | 2 | 3) {
@@ -124,7 +134,7 @@ export function Flashcards({ words: initial, onRated }: { words: VocabWord[]; on
         )}
       </button>
       <div className="mt-3 flex justify-center">
-        <button onClick={() => speak(w.word)} className="btn btn-ghost"><Volume2 className="h-4 w-4" />Phát âm</button>
+        <button onClick={() => speakWord(w)} className="btn btn-ghost"><Volume2 className="h-4 w-4" />Phát âm</button>
       </div>
       {flipped ? (
         <div className="mt-3 grid grid-cols-4 gap-2">
@@ -189,7 +199,7 @@ function VocabQuiz({ words, lessonId, nextHref }: { words: VocabWord[]; lessonId
     setPicked(id);
     const ok = id === q.w.id;
     if (ok) setScore((s) => s + 1);
-    if (!q.reverse) speak(q.w.word);
+    if (!q.reverse) speakWord(q.w);
     setTimeout(() => {
       const last = i === questions.length - 1;
       if (last) saveLesson(lessonId, score + (ok ? 1 : 0), questions.length);
@@ -230,7 +240,7 @@ function Spelling({ words, lessonId }: { words: VocabWord[]; lessonId: string })
   const w = list[i];
 
   useEffect(() => {
-    if (w) speak(w.word);
+    if (w) speakWord(w);
   }, [w]);
 
   if (!w) {
@@ -261,7 +271,7 @@ function Spelling({ words, lessonId }: { words: VocabWord[]; lessonId: string })
     <form onSubmit={check} className="mx-auto max-w-xl">
       <div className="mb-2 text-sm text-slate-500">Từ {i + 1}/{list.length} · Đúng {score}</div>
       <div className="card p-8 text-center">
-        <button type="button" onClick={() => speak(w.word)} className="mx-auto grid h-16 w-16 place-items-center rounded-full bg-brand-500 text-white shadow-lg hover:bg-brand-600" aria-label="Nghe lại">
+        <button type="button" onClick={() => speakWord(w)} className="mx-auto grid h-16 w-16 place-items-center rounded-full bg-brand-500 text-white shadow-lg hover:bg-brand-600" aria-label="Nghe lại">
           <Volume2 className="h-7 w-7" />
         </button>
         <p className="mt-3 text-sm text-slate-500">Gợi ý: {w.meaning_vi}</p>

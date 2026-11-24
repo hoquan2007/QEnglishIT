@@ -1,0 +1,203 @@
+{
+  "slug": "qe-p6-002",
+  "content_path": "content/tests/toeic_part/qe-p6-002.json",
+  "title": "TOEIC Part 6 – Text Completion 02 (Workplace Procedures and Projects)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "authoring_scope": "Four original texts, four blanks per text, one sentence insertion per text; questions numbered 1–16.",
+  "difficulty_rationale_vi": "Các văn bản mô tả quy trình và quyết định tại nơi làm việc. Câu chèn ở mức 4 yêu cầu liên kết thông tin hoặc đối chiếu nhiều chi tiết trong đoạn.",
+  "topic_distribution": {
+    "collocation": 1,
+    "connector": 2,
+    "indirect-question": 1,
+    "preposition": 1,
+    "sentence-insertion": 4,
+    "tense": 1,
+    "verb-form": 1,
+    "vocabulary": 2,
+    "word-form": 3
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 6,
+      "category": "connector",
+      "context": "email: monitor reassignment",
+      "difficulty": 3
+    },
+    {
+      "number": 2,
+      "group_order": 1,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "email: monitor reassignment",
+      "difficulty": 4
+    },
+    {
+      "number": 3,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "email: monitor reassignment",
+      "difficulty": 3
+    },
+    {
+      "number": 4,
+      "group_order": 1,
+      "part": 6,
+      "category": "verb-form",
+      "context": "email: monitor reassignment",
+      "difficulty": 3
+    },
+    {
+      "number": 5,
+      "group_order": 2,
+      "part": 6,
+      "category": "tense",
+      "context": "notice: loading-bay resurfacing",
+      "difficulty": 3
+    },
+    {
+      "number": 6,
+      "group_order": 2,
+      "part": 6,
+      "category": "vocabulary",
+      "context": "notice: loading-bay resurfacing",
+      "difficulty": 3
+    },
+    {
+      "number": 7,
+      "group_order": 2,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "notice: loading-bay resurfacing",
+      "difficulty": 4
+    },
+    {
+      "number": 8,
+      "group_order": 2,
+      "part": 6,
+      "category": "preposition",
+      "context": "notice: loading-bay resurfacing",
+      "difficulty": 3
+    },
+    {
+      "number": 9,
+      "group_order": 3,
+      "part": 6,
+      "category": "collocation",
+      "context": "article: factory rainwater trial",
+      "difficulty": 3
+    },
+    {
+      "number": 10,
+      "group_order": 3,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "article: factory rainwater trial",
+      "difficulty": 4
+    },
+    {
+      "number": 11,
+      "group_order": 3,
+      "part": 6,
+      "category": "word-form",
+      "context": "article: factory rainwater trial",
+      "difficulty": 3
+    },
+    {
+      "number": 12,
+      "group_order": 3,
+      "part": 6,
+      "category": "indirect-question",
+      "context": "article: factory rainwater trial",
+      "difficulty": 3
+    },
+    {
+      "number": 13,
+      "group_order": 4,
+      "part": 6,
+      "category": "connector",
+      "context": "letter: budget course arrangements",
+      "difficulty": 3
+    },
+    {
+      "number": 14,
+      "group_order": 4,
+      "part": 6,
+      "category": "word-form",
+      "context": "letter: budget course arrangements",
+      "difficulty": 3
+    },
+    {
+      "number": 15,
+      "group_order": 4,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "letter: budget course arrangements",
+      "difficulty": 4
+    },
+    {
+      "number": 16,
+      "group_order": 4,
+      "part": 6,
+      "category": "vocabulary",
+      "context": "letter: budget course arrangements",
+      "difficulty": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 4,
+      "B": 4,
+      "C": 4,
+      "D": 4
+    },
+    "sequence": [
+      "B",
+      "D",
+      "A",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "C",
+      "D",
+      "A",
+      "B",
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, đoạn văn tiếng Anh nếu có và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

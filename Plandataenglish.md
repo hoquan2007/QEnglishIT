@@ -299,7 +299,9 @@ Quy ước:
 | `cefr_placement` (kiểm tra đầu vào) | **5** | 60 | 40' | 1–5 (tăng dần) | 🟡 |
 | `grammar_test` (theo cấp 450/600/700/800) | **20** | 40 | 30' | 1–5 | 🟡 |
 | `vocab_test` (theo bộ từ / CEFR) | **20** | 50 | 20' | 1–5 | 🟡 |
-| **Tổng (đề mới)** | **335** | ~29.000 câu | | | |
+| **Tổng (đề mới)** | **315** | ~25.835 câu | | | |
+
+> Tổng từng dòng là 315 đề mới, tương ứng khoảng 25.835 câu theo số câu/đề đã nêu và giả định 10 đề cho mỗi Part TOEIC. Cộng 2 đề TOEIC full đã có trước kế hoạch thành 317 đề. Mục tiêu tối thiểu 25.000 câu hỏi phải được kiểm tra riêng trên database để tránh đếm trùng hoặc đếm dự thảo chưa nạp.
 
 > Ưu tiên thực hiện theo thứ tự: TOEIC (✅ dùng ngay) → THPT/grammar/vocab test (MCQ) → VSTEP → IELTS (cần thêm loại câu hỏi).
 > Đề 🟡 vẫn seed được vào DB ngay; UI hiển thị sẽ làm ở sprint riêng (ghi trong mục 10).

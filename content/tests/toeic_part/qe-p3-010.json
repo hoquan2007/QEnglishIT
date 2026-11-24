@@ -1,0 +1,1581 @@
+{
+  "slug": "qe-p3-010",
+  "title": "TOEIC Part 3 – Hội thoại 10",
+  "collection": "toeic_part",
+  "exam_type": "toeic_part",
+  "level": "900",
+  "difficulty": 5,
+  "cefr": "B2-C1",
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "listening",
+    "part-3",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Listening Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: Our euro payment is due in six weeks, and the currency has moved four percent against us since the budget was approved.\nM: We can lock the full amount today, but Treasury policy normally hedges only half this far from settlement.\nW: The contract margin is already thin. I would rather protect more of it than usual.\nM: Then prepare an exception memo showing margin sensitivity at fifty, seventy-five, and one hundred percent coverage.",
+      "transcript_vi": "W: Khoản thanh toán euro đến hạn trong sáu tuần và tỷ giá đã biến động bất lợi bốn phần trăm.\nM: Có thể khóa toàn bộ hôm nay nhưng chính sách thường chỉ phòng hộ một nửa ở thời điểm này.\nW: Biên lợi nhuận đang mỏng nên tôi muốn bảo vệ nhiều hơn.\nM: Hãy lập bản ghi ngoại lệ so sánh độ nhạy ở ba mức phòng hộ.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "Why is a higher hedge ratio being considered?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The contract margin has increased since approval."
+            },
+            {
+              "key": "B",
+              "text": "Adverse currency movements threaten a thin contract margin."
+            },
+            {
+              "key": "C",
+              "text": "Treasury has suspended its hedging policy."
+            },
+            {
+              "key": "D",
+              "text": "The euro payment has already been made."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Tỷ giá biến động bất lợi 4% trong khi biên lợi nhuận đã mỏng.",
+          "translation": "Vì sao cân nhắc tỷ lệ phòng hộ cao hơn?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What is Treasury's usual coverage at this stage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fifty percent"
+            },
+            {
+              "key": "B",
+              "text": "Four percent"
+            },
+            {
+              "key": "C",
+              "text": "Seventy-five percent"
+            },
+            {
+              "key": "D",
+              "text": "One hundred percent"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Chính sách thường phòng hộ một nửa số tiền khi còn sáu tuần.",
+          "translation": "Mức phòng hộ thông thường của bộ phận ngân quỹ ở thời điểm này là bao nhiêu?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What should the memo show about protecting different proportions of the euro payment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether each coverage level changes the settlement date"
+            },
+            {
+              "key": "B",
+              "text": "Whether the currency movement is the same at all three coverage levels"
+            },
+            {
+              "key": "C",
+              "text": "The proportion of the original budget already spent"
+            },
+            {
+              "key": "D",
+              "text": "How the contract margin would respond at each of the three coverage levels"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Người đàn ông yêu cầu so sánh độ nhạy biên lợi nhuận ở mức 50%, 75% và 100%.",
+          "translation": "Bản ghi nhớ nên cho thấy điều gì về việc phòng hộ các tỷ lệ khác nhau của khoản thanh toán bằng euro?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The target company uploaded customer contracts, but several folders are restricted to legal advisers.\nW: That is expected for privileged material, but our commercial team still needs renewal dates and customer-concentration data.\nM: We could ask Legal for a sanitized schedule instead of opening the folders.\nW: Do that. It gives us the metrics we need without changing the access protocol.",
+      "transcript_vi": "M: Công ty mục tiêu đã tải hợp đồng nhưng một số thư mục chỉ cho cố vấn pháp lý truy cập.\nW: Điều đó phù hợp với tài liệu đặc quyền nhưng nhóm thương mại vẫn cần ngày gia hạn và dữ liệu tập trung khách hàng.\nM: Ta có thể xin bảng tóm tắt đã làm sạch.\nW: Hãy làm vậy để có số liệu mà không đổi quy trình truy cập.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "Why are some contract folders restricted?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They contain privileged material."
+            },
+            {
+              "key": "B",
+              "text": "They have not been uploaded yet."
+            },
+            {
+              "key": "C",
+              "text": "They contain only expired contracts."
+            },
+            {
+              "key": "D",
+              "text": "They contain inaccurate renewal dates."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người phụ nữ cho biết việc hạn chế tài liệu được bảo mật pháp lý là bình thường.",
+          "translation": "Vì sao một số thư mục hợp đồng bị hạn chế?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-strategy"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "Which information does the commercial team require?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Detailed negotiations on privileged contracts"
+            },
+            {
+              "key": "B",
+              "text": "The target's employee salary records"
+            },
+            {
+              "key": "C",
+              "text": "Legal advisers' login credentials"
+            },
+            {
+              "key": "D",
+              "text": "Renewal dates and customer concentration"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhóm cần ngày gia hạn và số liệu tập trung khách hàng.",
+          "translation": "Nhóm thương mại cần thông tin nào?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-strategy"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "How will the team obtain the information?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Request a sanitized schedule from Legal"
+            },
+            {
+              "key": "B",
+              "text": "Ask customers to resend all contracts"
+            },
+            {
+              "key": "C",
+              "text": "Grant the commercial team unrestricted access"
+            },
+            {
+              "key": "D",
+              "text": "Remove the restricted folders from the data room"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người đàn ông đề xuất xin bản tổng hợp đã loại bỏ thông tin nhạy cảm từ Legal.",
+          "translation": "Nhóm sẽ lấy thông tin bằng cách nào?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-strategy"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: Foundry capacity for the new chip is ten percent below our forecast for the quarter.\nM: The automotive customer has a firm minimum commitment, while consumer orders are flexible by month.\nW: If we protect automotive volume, the consumer launch may slip by two weeks.\nM: Model that scenario and a proportional allocation. Sales needs the revenue impact of both before we choose.",
+      "transcript_vi": "W: Công suất xưởng đúc cho chip mới thấp hơn dự báo quý mười phần trăm.\nM: Khách hàng ô tô có cam kết tối thiểu chắc chắn còn đơn hàng tiêu dùng linh hoạt theo tháng.\nW: Nếu ưu tiên ô tô, đợt ra mắt tiêu dùng có thể chậm hai tuần.\nM: Hãy mô hình hóa cả phương án ưu tiên và phân bổ theo tỷ lệ.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "What is the main constraint on chip allocation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Automotive demand has fallen below the minimum."
+            },
+            {
+              "key": "B",
+              "text": "Sales has canceled the consumer launch."
+            },
+            {
+              "key": "C",
+              "text": "Foundry capacity is below forecast."
+            },
+            {
+              "key": "D",
+              "text": "Consumer orders have become contractually fixed."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Công suất xưởng đúc thấp hơn dự báo quý 10%.",
+          "translation": "Hạn chế chính khi phân bổ chip là gì?",
+          "difficulty": 5,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "Which order has a fixed minimum volume commitment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An automotive customer’s order"
+            },
+            {
+              "key": "B",
+              "text": "All consumer orders for the quarter"
+            },
+            {
+              "key": "C",
+              "text": "A consumer customer’s monthly order"
+            },
+            {
+              "key": "D",
+              "text": "Both customer segments’ orders"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Khách hàng ngành ô tô có mức cam kết tối thiểu cố định; đơn hàng tiêu dùng linh hoạt theo tháng.",
+          "translation": "Đơn hàng nào có cam kết số lượng tối thiểu cố định?",
+          "difficulty": 5,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "What will Sales need before choosing an allocation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A confirmed two-week delay for both segments"
+            },
+            {
+              "key": "B",
+              "text": "A list of consumer orders already canceled"
+            },
+            {
+              "key": "C",
+              "text": "Revenue effects of two allocation scenarios"
+            },
+            {
+              "key": "D",
+              "text": "New foundry capacity commitments for the entire year"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Cần mô hình hóa phương án ưu tiên ô tô và phân bổ theo tỷ lệ để so doanh thu.",
+          "translation": "Bộ phận bán hàng cần gì trước khi chọn phương án phân bổ?",
+          "difficulty": 5,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The logger shows the shipment reached nine degrees for twenty-two minutes during transfer.\nW: The product specification is two to eight degrees, but the stability file allows short excursions if Quality reviews the duration.\nM: So distribution should remain on hold?\nW: Yes. Quarantine the shipment and send the logger trace to Quality before classifying any loss.",
+      "transcript_vi": "M: Bộ ghi cho thấy lô hàng đạt chín độ trong hai mươi hai phút khi chuyển giao.\nW: Tiêu chuẩn là hai đến tám độ nhưng hồ sơ độ ổn định cho phép lệch ngắn nếu Chất lượng đánh giá.\nM: Vậy vẫn giữ lô hàng?\nW: Đúng, hãy cách ly và gửi biểu đồ nhiệt độ trước khi xác định tổn thất.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "What prompted the discussion about the shipment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A shipment delivered twenty-two hours late"
+            },
+            {
+              "key": "B",
+              "text": "A recorded temperature above the specified range"
+            },
+            {
+              "key": "C",
+              "text": "A logger that stopped recording during transfer"
+            },
+            {
+              "key": "D",
+              "text": "A change to the specified storage temperature"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Thiết bị ghi nhận 9 độ trong 22 phút, vượt giới hạn 8 độ.",
+          "translation": "Điều gì dẫn tới cuộc trao đổi về lô hàng?",
+          "difficulty": 5,
+          "tags": [
+            "pharma-operations"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "Why is the shipment not automatically classified as a loss?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The temperature logger has been declared defective."
+            },
+            {
+              "key": "B",
+              "text": "The specified maximum is actually nine degrees."
+            },
+            {
+              "key": "C",
+              "text": "Short excursions may be acceptable after Quality review."
+            },
+            {
+              "key": "D",
+              "text": "The product was already released before transfer."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hồ sơ độ ổn định cho phép sai lệch ngắn nếu Quality xem xét thời lượng.",
+          "translation": "Vì sao chưa tự động phân loại lô hàng là tổn thất?",
+          "difficulty": 5,
+          "tags": [
+            "pharma-operations"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "What must be done with the shipment now?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quarantine it and send the logger trace to Quality."
+            },
+            {
+              "key": "B",
+              "text": "Release it while the logger is being checked."
+            },
+            {
+              "key": "C",
+              "text": "Discard it and classify the entire shipment as a loss."
+            },
+            {
+              "key": "D",
+              "text": "Return it to the supplier without review."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người phụ nữ yêu cầu cách ly và gửi dữ liệu ghi nhiệt cho Quality.",
+          "translation": "Cần làm gì với lô hàng ngay lúc này?",
+          "difficulty": 5,
+          "tags": [
+            "pharma-operations"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The auditor accepted our electricity records but questioned the estimate for supplier emissions.\nM: We used industry averages because only sixty percent of suppliers reported primary data.\nW: For the largest suppliers, the auditor wants evidence that we requested actual figures before using estimates.\nM: I will match the outreach log to the supplier list.",
+      "transcript_vi": "W: Kiểm toán viên chấp nhận hồ sơ điện nhưng đặt câu hỏi về ước tính phát thải nhà cung cấp.\nM: Ta dùng trung bình ngành vì chỉ sáu mươi phần trăm nhà cung cấp gửi dữ liệu gốc.\nW: Với nhà cung cấp lớn, họ muốn bằng chứng ta đã yêu cầu số liệu thực.\nM: Tôi sẽ đối chiếu nhật ký liên hệ với danh sách nhà cung cấp.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "Which part of the emissions evidence did the auditor question?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The electricity consumption records"
+            },
+            {
+              "key": "B",
+              "text": "The estimate for supplier emissions"
+            },
+            {
+              "key": "C",
+              "text": "The total number of suppliers"
+            },
+            {
+              "key": "D",
+              "text": "The dates of the electricity invoices"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Kiểm toán viên chấp nhận hồ sơ điện nhưng đặt câu hỏi về ước tính phát thải nhà cung cấp.",
+          "translation": "Kiểm toán viên chất vấn phần bằng chứng phát thải nào?",
+          "difficulty": 5,
+          "tags": [
+            "sustainability"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "Why were industry averages used?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All major suppliers refused to provide electricity bills."
+            },
+            {
+              "key": "B",
+              "text": "The auditor prohibited the use of actual figures."
+            },
+            {
+              "key": "C",
+              "text": "Industry averages were required for every supplier."
+            },
+            {
+              "key": "D",
+              "text": "Only sixty percent of suppliers reported primary data."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Chỉ 60% nhà cung cấp báo cáo dữ liệu sơ cấp.",
+          "translation": "Vì sao dùng mức trung bình ngành?",
+          "difficulty": 5,
+          "tags": [
+            "sustainability"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What will the man match against the supplier list?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The supplier payment schedule"
+            },
+            {
+              "key": "B",
+              "text": "The record of requests for actual figures"
+            },
+            {
+              "key": "C",
+              "text": "The auditor's electricity records"
+            },
+            {
+              "key": "D",
+              "text": "The list of industry-average values"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Anh sẽ đối chiếu nhật ký liên hệ để chứng minh đã yêu cầu số liệu thực tế.",
+          "translation": "Người đàn ông sẽ đối chiếu gì với danh sách nhà cung cấp?",
+          "difficulty": 5,
+          "tags": [
+            "sustainability"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The broker accepted the premium but wants the equipment endorsement to cover temporary off-site storage.\nW: Our standard wording covers transit, not storage after delivery.\nM: Could we extend coverage if the storage site meets the same fire-protection standard?\nW: Possibly. Ask for site details first, and I will price the added exposure before changing the wording.",
+      "transcript_vi": "M: Môi giới chấp nhận phí nhưng muốn bảo hiểm thêm lưu kho tạm ngoài cơ sở.\nW: Điều khoản chuẩn chỉ bao phủ vận chuyển, không bao phủ lưu kho sau giao hàng.\nM: Có thể mở rộng nếu nơi lưu kho đạt cùng tiêu chuẩn phòng cháy không?\nW: Có thể, nhưng trước hết hãy xin thông tin địa điểm để định giá rủi ro tăng thêm.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "What additional coverage has the broker requested?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A longer period of transport coverage only"
+            },
+            {
+              "key": "B",
+              "text": "A reduction in the existing premium"
+            },
+            {
+              "key": "C",
+              "text": "Equipment repair after a fire"
+            },
+            {
+              "key": "D",
+              "text": "Temporary storage away from the insured site"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhà môi giới muốn điều khoản bổ sung bao gồm lưu kho tạm thời ngoài cơ sở.",
+          "translation": "Nhà môi giới yêu cầu bổ sung phạm vi bảo hiểm nào?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "What distinction does the standard wording make?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It covers transit but excludes storage after delivery."
+            },
+            {
+              "key": "B",
+              "text": "It covers storage but excludes transit."
+            },
+            {
+              "key": "C",
+              "text": "It excludes any equipment moved from the main site."
+            },
+            {
+              "key": "D",
+              "text": "It covers both transit and all off-site storage."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người phụ nữ nói điều khoản hiện tại bảo hiểm vận chuyển, không gồm lưu kho sau giao hàng.",
+          "translation": "Điều khoản tiêu chuẩn phân biệt điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What does the woman need before pricing the added exposure?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A second quote for the current transit premium"
+            },
+            {
+              "key": "B",
+              "text": "A completed claim for fire damage"
+            },
+            {
+              "key": "C",
+              "text": "A signed replacement endorsement"
+            },
+            {
+              "key": "D",
+              "text": "Details of the proposed storage site"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Cô yêu cầu thông tin địa điểm trước khi định giá rủi ro bổ sung.",
+          "translation": "Người phụ nữ cần gì trước khi tính phí rủi ro bổ sung?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The service recovered after we failed traffic away from Region A, but the postmortem still lists the database as the root cause.\nM: That may be premature. Database latency began after the configuration service stopped returning credentials.\nW: So the database could be a downstream symptom.\nM: Exactly. Let's correlate the timestamps before assigning root cause and remediation owners.",
+      "transcript_vi": "W: Dịch vụ phục hồi sau khi chuyển lưu lượng khỏi Vùng A nhưng hậu kiểm vẫn ghi cơ sở dữ liệu là nguyên nhân gốc.\nM: Kết luận có thể quá sớm vì độ trễ bắt đầu sau khi dịch vụ cấu hình ngừng trả thông tin xác thực.\nW: Vậy cơ sở dữ liệu có thể chỉ là triệu chứng.\nM: Hãy đối chiếu mốc thời gian trước khi xác định nguyên nhân.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why do the speakers question the postmortem finding?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Region A remained fully operational."
+            },
+            {
+              "key": "B",
+              "text": "The database never showed increased latency."
+            },
+            {
+              "key": "C",
+              "text": "The database problem followed a configuration-service failure."
+            },
+            {
+              "key": "D",
+              "text": "The incident was resolved before traffic was moved."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Độ trễ cơ sở dữ liệu xuất hiện sau khi dịch vụ cấu hình ngừng trả thông tin xác thực.",
+          "translation": "Vì sao hai người nghi ngờ kết luận báo cáo sự cố?",
+          "difficulty": 5,
+          "tags": [
+            "cloud-operations"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "What was done to restore service?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All credentials were permanently removed."
+            },
+            {
+              "key": "B",
+              "text": "Traffic was moved away from Region A."
+            },
+            {
+              "key": "C",
+              "text": "The database was replaced immediately."
+            },
+            {
+              "key": "D",
+              "text": "The postmortem was rewritten during the outage."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Dịch vụ phục hồi sau khi chuyển lưu lượng khỏi Region A.",
+          "translation": "Điều gì đã được thực hiện để khôi phục dịch vụ?",
+          "difficulty": 5,
+          "tags": [
+            "cloud-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "What will the speakers do before deciding which failure caused the incident and who should address it?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Compare the database response times only after service recovered"
+            },
+            {
+              "key": "B",
+              "text": "Review which region received the most traffic before the outage"
+            },
+            {
+              "key": "C",
+              "text": "Compare when the individual failures occurred"
+            },
+            {
+              "key": "D",
+              "text": "Assign the database team responsibility based on the current report"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Người đàn ông đề nghị đối chiếu thời điểm sự cố trước khi xác định nguyên nhân và người phụ trách.",
+          "translation": "Hai người sẽ làm gì trước khi quyết định lỗi nào gây ra sự cố và ai cần xử lý?",
+          "difficulty": 5,
+          "tags": [
+            "cloud-operations"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The engineering report recommends replacing the chiller in year three, but our capital reserve assumes year five.\nW: The unit still operates, yet its efficiency has declined faster than expected.\nM: If we move replacement forward, next year's reserve contribution may need to rise.\nW: Model both schedules so owners can see the cash-flow effect before we amend the reserve plan.",
+      "transcript_vi": "M: Báo cáo kỹ thuật đề nghị thay máy làm lạnh năm thứ ba nhưng quỹ dự phòng giả định năm thứ năm.\nW: Thiết bị vẫn chạy nhưng hiệu suất giảm nhanh hơn dự kiến.\nM: Nếu thay sớm, đóng góp quỹ năm tới có thể tăng.\nW: Hãy mô hình hóa hai lịch để chủ sở hữu thấy tác động dòng tiền.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "How does the engineering report differ from the reserve plan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It recommends keeping the chiller for two more years."
+            },
+            {
+              "key": "B",
+              "text": "It recommends replacing the chiller next month."
+            },
+            {
+              "key": "C",
+              "text": "It recommends replacement two years earlier."
+            },
+            {
+              "key": "D",
+              "text": "It assumes no replacement will be needed."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Báo cáo đề xuất thay năm thứ ba thay vì năm thứ năm.",
+          "translation": "Báo cáo kỹ thuật khác kế hoạch dự phòng vốn thế nào?",
+          "difficulty": 5,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "What might an earlier replacement require?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A higher reserve contribution next year"
+            },
+            {
+              "key": "B",
+              "text": "An immediate end to the reserve fund"
+            },
+            {
+              "key": "C",
+              "text": "A lower reserve contribution next year"
+            },
+            {
+              "key": "D",
+              "text": "A reduction in the replacement budget"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người đàn ông nói mức đóng góp dự phòng năm sau có thể tăng.",
+          "translation": "Thay thế sớm hơn có thể đòi hỏi điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "What should the owners be shown before the plan changes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A completed purchase order for a new chiller"
+            },
+            {
+              "key": "B",
+              "text": "Cash-flow effects of both replacement schedules"
+            },
+            {
+              "key": "C",
+              "text": "A final decision to retain the old unit"
+            },
+            {
+              "key": "D",
+              "text": "The original installation invoice only"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người phụ nữ yêu cầu mô hình hóa hai lịch để chủ sở hữu thấy tác động dòng tiền.",
+          "translation": "Cần trình bày gì cho chủ sở hữu trước khi sửa kế hoạch?",
+          "difficulty": 5,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The evening flight historically has an eight-percent no-show rate, but tomorrow's passenger list includes two large tour groups.\nM: Groups tend to show up more reliably than individual travelers.\nW: Then our usual overbooking level may be too aggressive.\nM: Reduce the oversell by four seats and check again after online check-in opens tonight.",
+      "transcript_vi": "W: Chuyến tối thường có tám phần trăm khách không đến nhưng ngày mai có hai đoàn du lịch lớn.\nM: Đoàn thường đến ổn định hơn khách lẻ.\nW: Vậy mức bán vượt chỗ thông thường có thể quá cao.\nM: Hãy giảm bốn ghế bán vượt và kiểm tra lại sau khi check-in trực tuyến mở.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "Why might the usual oversell level be unsuitable tomorrow?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The evening flight has been moved to a smaller airport."
+            },
+            {
+              "key": "B",
+              "text": "The historical no-show rate has doubled."
+            },
+            {
+              "key": "C",
+              "text": "Large tour groups may have fewer no-shows."
+            },
+            {
+              "key": "D",
+              "text": "Two tour groups have already canceled."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Nhóm du lịch thường đến đầy đủ hơn khách lẻ, làm tăng rủi ro bán vượt chỗ.",
+          "translation": "Vì sao mức bán vượt chỗ thường lệ có thể không phù hợp ngày mai?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "By how many seats will the oversell be reduced?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two"
+            },
+            {
+              "key": "B",
+              "text": "Ten"
+            },
+            {
+              "key": "C",
+              "text": "Eight"
+            },
+            {
+              "key": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Người đàn ông yêu cầu giảm bốn ghế.",
+          "translation": "Mức bán vượt chỗ sẽ giảm bao nhiêu ghế?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "When will the speakers reassess the oversell?",
+          "options": [
+            {
+              "key": "A",
+              "text": "After the tour groups cancel their bookings"
+            },
+            {
+              "key": "B",
+              "text": "After online check-in opens tonight"
+            },
+            {
+              "key": "C",
+              "text": "After tomorrow's flight departs"
+            },
+            {
+              "key": "D",
+              "text": "Before online check-in closes today"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Anh yêu cầu kiểm tra lại sau khi mở check-in trực tuyến tối nay.",
+          "translation": "Khi nào hai người sẽ đánh giá lại mức bán vượt chỗ?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The subsidiary corrected a revenue classification that shifts two million dollars between product lines but does not change total revenue.\nW: The filing note may still need revision because segment disclosure is material to investors.\nM: Even though consolidated revenue is unchanged?\nW: Yes. Ask Disclosure Committee counsel whether the segment movement crosses our qualitative threshold.",
+      "transcript_vi": "M: Công ty con sửa phân loại doanh thu, chuyển hai triệu đô giữa các dòng sản phẩm nhưng không đổi tổng doanh thu.\nW: Ghi chú hồ sơ vẫn có thể cần sửa vì thông tin phân khúc quan trọng với nhà đầu tư.\nM: Dù tổng hợp nhất không đổi sao?\nW: Đúng, hãy hỏi cố vấn Ủy ban Công bố về ngưỡng định tính.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "What effect does the subsidiary's correction have on total revenue?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Total revenue is unchanged."
+            },
+            {
+              "key": "B",
+              "text": "Total revenue decreases by two million dollars."
+            },
+            {
+              "key": "C",
+              "text": "Total revenue increases by two million dollars."
+            },
+            {
+              "key": "D",
+              "text": "Total revenue doubles across all product lines."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hai triệu đô la được chuyển giữa các dòng sản phẩm nhưng tổng doanh thu không đổi.",
+          "translation": "Điều chỉnh của công ty con ảnh hưởng thế nào đến tổng doanh thu?",
+          "difficulty": 5,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "Why could the filing note still need revision?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The correction changes the filing deadline."
+            },
+            {
+              "key": "B",
+              "text": "The subsidiary has stopped reporting revenue."
+            },
+            {
+              "key": "C",
+              "text": "Segment disclosures can matter to investors."
+            },
+            {
+              "key": "D",
+              "text": "The consolidated total was understated."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Người phụ nữ nói công bố theo phân khúc có ý nghĩa với nhà đầu tư.",
+          "translation": "Vì sao ghi chú hồ sơ công bố vẫn có thể cần sửa?",
+          "difficulty": 5,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "Who should advise whether the revenue shift between product lines is significant enough to require a disclosure change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The subsidiary’s sales manager"
+            },
+            {
+              "key": "B",
+              "text": "Disclosure Committee counsel"
+            },
+            {
+              "key": "C",
+              "text": "The team that prepares consolidated revenue totals"
+            },
+            {
+              "key": "D",
+              "text": "The investors who receive the filing"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Cô yêu cầu hỏi cố vấn pháp lý của ủy ban công bố thông tin.",
+          "translation": "Ai nên tư vấn liệu việc chuyển doanh thu giữa các dòng sản phẩm có đủ quan trọng để sửa thông tin công bố hay không?",
+          "difficulty": 5,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The secondary supplier passed quality testing, but its first production lot is not scheduled until next quarter.\nM: Procurement wants to shift twenty percent of volume immediately to reduce dependency on the current source.\nW: We should not count unproven production capacity as available yet.\nM: Agreed. Sign the framework agreement now, but make volume transfer contingent on first-lot review.",
+      "transcript_vi": "W: Nhà cung cấp thứ hai đã vượt kiểm tra chất lượng nhưng lô sản xuất đầu tiên đến quý sau mới chạy.\nM: Mua hàng muốn chuyển ngay hai mươi phần trăm sản lượng.\nW: Chưa nên coi năng lực chưa được chứng minh là sẵn có.\nM: Hãy ký thỏa thuận khung nhưng chỉ chuyển sản lượng sau khi duyệt lô đầu.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "question_type": "mcq",
+          "question_text": "Why do the speakers want to make the volume transfer conditional on a first-lot review?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The current supplier’s framework agreement has expired."
+            },
+            {
+              "key": "B",
+              "text": "The secondary supplier can only deliver twenty percent after the first quarter."
+            },
+            {
+              "key": "C",
+              "text": "The secondary supplier has not passed the quality tests."
+            },
+            {
+              "key": "D",
+              "text": "The secondary supplier’s actual production capacity has not yet been demonstrated."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhà cung cấp phụ đã đạt thử nghiệm chất lượng nhưng chưa có lô sản xuất đầu tiên chứng minh năng lực thực tế.",
+          "translation": "Vì sao hai người muốn việc chuyển sản lượng phụ thuộc vào đánh giá lô sản xuất đầu tiên?",
+          "difficulty": 5,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "question_type": "mcq",
+          "question_text": "How much volume does Procurement want to shift?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fifty percent"
+            },
+            {
+              "key": "B",
+              "text": "Twenty percent"
+            },
+            {
+              "key": "C",
+              "text": "Ten percent"
+            },
+            {
+              "key": "D",
+              "text": "One hundred percent"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người đàn ông nói Procurement muốn chuyển 20% sản lượng.",
+          "translation": "Bộ phận mua hàng muốn chuyển bao nhiêu sản lượng?",
+          "difficulty": 5,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "question_type": "mcq",
+          "question_text": "What action is agreed on for now?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel the secondary supplier's quality approval."
+            },
+            {
+              "key": "B",
+              "text": "Approve the first production lot before it is made."
+            },
+            {
+              "key": "C",
+              "text": "Sign the framework agreement."
+            },
+            {
+              "key": "D",
+              "text": "Transfer twenty percent of volume immediately."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hai người thống nhất ký thỏa thuận khung ngay, chuyển sản lượng phụ thuộc đánh giá lô đầu.",
+          "translation": "Hai người thống nhất hành động gì ngay bây giờ?",
+          "difficulty": 5,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The streaming platform accepted our fee, but its draft grants worldwide rights, including a market where we already have an exclusive broadcaster.\nW: We cannot license overlapping rights there.\nM: I can carve that country out and keep the rest of the commercial terms unchanged.\nW: Do that and flag the exclusion in the cover note for their legal team.",
+      "transcript_vi": "M: Nền tảng phát trực tuyến chấp nhận mức phí nhưng dự thảo trao quyền toàn cầu, gồm thị trường đã có đài phát sóng độc quyền.\nW: Ta không thể cấp quyền chồng lấn.\nM: Tôi sẽ loại quốc gia đó và giữ nguyên điều khoản thương mại khác.\nW: Hãy nêu rõ ngoại lệ trong thư kèm cho nhóm pháp lý.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 34,
+          "question_type": "mcq",
+          "question_text": "Why must the worldwide license be amended?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The platform has rejected the agreed fee."
+            },
+            {
+              "key": "B",
+              "text": "The platform wants to remove every country from the license."
+            },
+            {
+              "key": "C",
+              "text": "The existing broadcaster has ended its agreement."
+            },
+            {
+              "key": "D",
+              "text": "Another broadcaster has exclusive rights in one market."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Một thị trường đã có đài phát sóng sở hữu quyền độc quyền.",
+          "translation": "Vì sao giấy phép toàn cầu cần sửa đổi?",
+          "difficulty": 5,
+          "tags": [
+            "media-business"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "question_type": "mcq",
+          "question_text": "What does the man propose keeping unchanged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The number of countries including the excluded market"
+            },
+            {
+              "key": "B",
+              "text": "The conflicting exclusive rights clause"
+            },
+            {
+              "key": "C",
+              "text": "The other commercial terms"
+            },
+            {
+              "key": "D",
+              "text": "The worldwide territorial grant"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Anh đề xuất loại nước đó ra và giữ nguyên các điều khoản thương mại còn lại.",
+          "translation": "Người đàn ông đề xuất giữ nguyên điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "media-business"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "question_type": "mcq",
+          "question_text": "Where will the territorial exclusion be flagged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the platform's public program schedule"
+            },
+            {
+              "key": "B",
+              "text": "In the cover note for the platform's legal team"
+            },
+            {
+              "key": "C",
+              "text": "In the fee calculation sheet only"
+            },
+            {
+              "key": "D",
+              "text": "In a new invoice for the broadcaster"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người phụ nữ yêu cầu ghi rõ phần loại trừ trong thư gửi kèm cho nhóm pháp lý.",
+          "translation": "Phần loại trừ lãnh thổ sẽ được nhấn mạnh ở đâu?",
+          "difficulty": 5,
+          "tags": [
+            "media-business"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The board agenda is already full, but the equipment lease requires director approval before month-end.\nM: The terms are unchanged from the package reviewed last quarter.\nW: Then we may be able to use written consent instead of adding another meeting item.\nM: I will confirm that the bylaws allow unanimous written action for this type of approval.",
+      "transcript_vi": "W: Chương trình họp hội đồng đã kín nhưng hợp đồng thuê thiết bị cần phê duyệt trước cuối tháng.\nM: Điều khoản không đổi so với hồ sơ quý trước.\nW: Có thể dùng đồng thuận bằng văn bản thay vì thêm mục họp.\nM: Tôi sẽ xác nhận điều lệ cho phép hành động bằng văn bản nhất trí.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 37,
+          "question_type": "mcq",
+          "question_text": "Why is written consent being considered?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The board agenda is full and lease approval is due before month-end."
+            },
+            {
+              "key": "B",
+              "text": "The board has approved a revised lease package."
+            },
+            {
+              "key": "C",
+              "text": "The equipment lease has already expired."
+            },
+            {
+              "key": "D",
+              "text": "The directors have rejected the lease terms."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Lịch họp đã kín nhưng cần phê duyệt hợp đồng thuê trước cuối tháng.",
+          "translation": "Vì sao cân nhắc chấp thuận bằng văn bản?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-governance"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "question_type": "mcq",
+          "question_text": "What is known about the current lease terms?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They include a newly increased rental fee."
+            },
+            {
+              "key": "B",
+              "text": "They require a longer lease period than before."
+            },
+            {
+              "key": "C",
+              "text": "They have not been reviewed by the board at all."
+            },
+            {
+              "key": "D",
+              "text": "They match the package reviewed last quarter."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Các điều khoản không thay đổi so với hồ sơ quý trước.",
+          "translation": "Đã biết gì về điều khoản thuê hiện tại?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-governance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "question_type": "mcq",
+          "question_text": "What will the man check in the bylaws?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether unanimous written action is permitted for this approval"
+            },
+            {
+              "key": "B",
+              "text": "Whether the lease can be extended without director approval"
+            },
+            {
+              "key": "C",
+              "text": "Whether a simple majority can change the lease price"
+            },
+            {
+              "key": "D",
+              "text": "Whether the board agenda can be canceled"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Anh sẽ xác nhận điều lệ cho phép quyết định bằng văn bản nhất trí cho loại phê duyệt này.",
+          "translation": "Người đàn ông sẽ kiểm tra gì trong điều lệ?",
+          "difficulty": 5,
+          "tags": [
+            "corporate-governance"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1508 @@
+{
+  "slug": "qe-grammar-c1-014",
+  "title": "Advanced Grammar C1 – Arguments, Assumptions and Counterclaims",
+  "collection": "QEnglishIT Grammar Assessments",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "cefr": "C1",
+  "difficulty": 4,
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "grammar",
+    "C1",
+    "argument-structure"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Advanced Grammar in Context",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The distinction is worth -------, since the two figures answer different questions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "making"
+            },
+            {
+              "key": "B",
+              "text": "being made it"
+            },
+            {
+              "key": "C",
+              "text": "to make"
+            },
+            {
+              "key": "D",
+              "text": "having been made it"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Worth + V-ing diễn tả một việc đáng làm. Making có nghĩa bị động trong ngữ cảnh vì distinction là thứ được nêu.",
+          "translation": "Sự phân biệt này đáng được nêu ra vì hai con số trả lời hai câu hỏi khác nhau.",
+          "difficulty": 4,
+          "tags": [
+            "adjective-complement"
+          ],
+          "skill_tags": [
+            "adjective-complement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "On no account ------- the preliminary figures be treated as final.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the figures should"
+            },
+            {
+              "key": "B",
+              "text": "the editors should"
+            },
+            {
+              "key": "C",
+              "text": "would it"
+            },
+            {
+              "key": "D",
+              "text": "should"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "On no account có nghĩa phủ định và kéo theo đảo should trước chủ ngữ the preliminary figures.",
+          "translation": "Trong mọi trường hợp đều không được xem số liệu sơ bộ là số liệu cuối cùng.",
+          "difficulty": 4,
+          "tags": [
+            "inversion-on-no-account"
+          ],
+          "skill_tags": [
+            "inversion-on-no-account"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "However persuasive the opening paragraph -------, it cannot compensate for a lack of evidence.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does it sound"
+            },
+            {
+              "key": "B",
+              "text": "to sound"
+            },
+            {
+              "key": "C",
+              "text": "sounding"
+            },
+            {
+              "key": "D",
+              "text": "may sound"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Với however + tính từ, chủ ngữ vẫn đứng trước may. Sound là động từ nối với persuasive.",
+          "translation": "Dù đoạn mở đầu nghe có vẻ thuyết phục đến đâu, nó cũng không bù đắp được việc thiếu bằng chứng.",
+          "difficulty": 4,
+          "tags": [
+            "concessive-may"
+          ],
+          "skill_tags": [
+            "concessive-may"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The editors insisted that the quotation ------- in full so the author's qualification would remain visible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reproduce it"
+            },
+            {
+              "key": "B",
+              "text": "be reproduced"
+            },
+            {
+              "key": "C",
+              "text": "to be reproduced"
+            },
+            {
+              "key": "D",
+              "text": "had been reproducing"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Insist với nghĩa yêu cầu có thể đi với mệnh đề giả định thức. Be reproduced là dạng bị động nguyên mẫu.",
+          "translation": "Các biên tập viên yêu cầu trích dẫn đầy đủ để người đọc vẫn thấy điều kiện giới hạn do tác giả nêu.",
+          "difficulty": 4,
+          "tags": [
+            "subjunctive-insistence"
+          ],
+          "skill_tags": [
+            "subjunctive-insistence"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "To infer intent from the correction alone would be ------- a great deal of weight on a single sentence.",
+          "options": [
+            {
+              "key": "A",
+              "text": "placed"
+            },
+            {
+              "key": "B",
+              "text": "having placed"
+            },
+            {
+              "key": "C",
+              "text": "to place"
+            },
+            {
+              "key": "D",
+              "text": "to have been placed"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "To place song song với to infer và diễn giải hành động đó tương đương với việc gì.",
+          "translation": "Suy ra ý định chỉ từ lời đính chính là đặt quá nhiều trọng lượng lên một câu duy nhất.",
+          "difficulty": 4,
+          "tags": [
+            "infinitive-extraposition"
+          ],
+          "skill_tags": [
+            "infinitive-extraposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The recommendation, ------- sound in principle, would be expensive to implement in dispersed rural areas.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "while"
+            },
+            {
+              "key": "C",
+              "text": "therefore"
+            },
+            {
+              "key": "D",
+              "text": "unless it makes"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "While sound rút gọn while it is sound, thể hiện sự nhượng bộ.",
+          "translation": "Khuyến nghị tuy hợp lý về nguyên tắc nhưng sẽ tốn kém khi triển khai ở các vùng nông thôn có dân cư thưa và phân tán.",
+          "difficulty": 4,
+          "tags": [
+            "reduced-concession-adjective"
+          ],
+          "skill_tags": [
+            "reduced-concession-adjective"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There are two defensible readings. ------- you favour, the final paragraph needs to be reconsidered.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whichever"
+            },
+            {
+              "key": "B",
+              "text": "Whenever"
+            },
+            {
+              "key": "C",
+              "text": "Whomever"
+            },
+            {
+              "key": "D",
+              "text": "Whose"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Whichever giới hạn lựa chọn trong hai cách hiểu đã nêu và có nghĩa whichever reading.",
+          "translation": "Có hai cách hiểu đều có cơ sở. Dù bạn nghiêng về cách nào, đoạn cuối vẫn cần được xem xét lại.",
+          "difficulty": 4,
+          "tags": [
+            "fused-relative-choice"
+          ],
+          "skill_tags": [
+            "fused-relative-choice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "If the definition were less restrictive, the editors ------- several relevant studies from last year's review.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would not have excluded"
+            },
+            {
+              "key": "B",
+              "text": "did not exclude"
+            },
+            {
+              "key": "C",
+              "text": "would not be excluded"
+            },
+            {
+              "key": "D",
+              "text": "will not have excluded"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "If + were nêu giả định về một đặc điểm hiện hành. Would have excluded đặt hệ quả ở quá khứ.",
+          "translation": "Nếu định nghĩa bớt hạn hẹp, các biên tập viên đã không loại một số nghiên cứu liên quan khỏi bài tổng quan năm ngoái.",
+          "difficulty": 4,
+          "tags": [
+            "conditional-different-time"
+          ],
+          "skill_tags": [
+            "conditional-different-time"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The editorial treats delay as though it ------- proof of incompetence in itself.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "has been being"
+            },
+            {
+              "key": "D",
+              "text": "were to have being"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "As though it were diễn tả cách nhìn giả định mà câu văn tạo khoảng cách.",
+          "translation": "Bài xã luận xem sự chậm trễ như thể bản thân nó là bằng chứng cho sự kém năng lực.",
+          "difficulty": 4,
+          "tags": [
+            "as-if-hypothetical"
+          ],
+          "skill_tags": [
+            "as-if-hypothetical"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The objection is as much about who sets the rules ------- about how the rules are enforced.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as is it"
+            },
+            {
+              "key": "B",
+              "text": "as it is"
+            },
+            {
+              "key": "C",
+              "text": "as does it"
+            },
+            {
+              "key": "D",
+              "text": "than it is"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "As much ... as cân bằng hai khía cạnh. It is duy trì trật tự mệnh đề sau as.",
+          "translation": "Ý kiến phản đối liên quan đến cả việc ai đặt ra quy tắc lẫn việc quy tắc được thực thi ra sao, với mức độ ngang nhau.",
+          "difficulty": 4,
+          "tags": [
+            "comparative-contrasted"
+          ],
+          "skill_tags": [
+            "comparative-contrasted"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The author's ------- to acknowledge the exception weakens an otherwise persuasive argument.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unwilling"
+            },
+            {
+              "key": "B",
+              "text": "unwilling to"
+            },
+            {
+              "key": "C",
+              "text": "unwillingness"
+            },
+            {
+              "key": "D",
+              "text": "unwillingly"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau author's cần danh từ. Unwillingness nhận to-infinitive chỉ hành động mà tác giả không muốn làm.",
+          "translation": "Việc tác giả không chịu thừa nhận ngoại lệ làm yếu đi một lập luận vốn khá thuyết phục.",
+          "difficulty": 4,
+          "tags": [
+            "nominal-negation"
+          ],
+          "skill_tags": [
+            "nominal-negation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The report offers no evidence of a short-term improvement, ------- a lasting one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in turn"
+            },
+            {
+              "key": "B",
+              "text": "as such"
+            },
+            {
+              "key": "C",
+              "text": "even so"
+            },
+            {
+              "key": "D",
+              "text": "let alone"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Let alone nối thêm khả năng khó khẳng định hơn sau mệnh đề phủ định.",
+          "translation": "Báo cáo không đưa bằng chứng về cải thiện ngắn hạn, huống hồ là cải thiện bền vững.",
+          "difficulty": 4,
+          "tags": [
+            "gradation-let-alone"
+          ],
+          "skill_tags": [
+            "gradation-let-alone"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The proposal would, ------- anything, make it harder for small suppliers to compete.",
+          "options": [
+            {
+              "key": "A",
+              "text": "with"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "if"
+            },
+            {
+              "key": "D",
+              "text": "should"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "If anything là cụm chêm, dùng để điều chỉnh nhận định về phía mà người nói cho là đúng hơn.",
+          "translation": "Nếu có tác động gì thì đề xuất sẽ chỉ khiến nhà cung cấp nhỏ khó cạnh tranh hơn.",
+          "difficulty": 4,
+          "tags": [
+            "stance-parenthetical"
+          ],
+          "skill_tags": [
+            "stance-parenthetical"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The reviewer finds the second illustration no ------- informative than the first; she recommends keeping both.",
+          "options": [
+            {
+              "key": "A",
+              "text": "any less than"
+            },
+            {
+              "key": "B",
+              "text": "less"
+            },
+            {
+              "key": "C",
+              "text": "least"
+            },
+            {
+              "key": "D",
+              "text": "as"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "No less + tính từ + than phủ định việc đối tượng thứ hai thua kém về đặc điểm đang so sánh.",
+          "translation": "Người phản biện thấy hình minh họa thứ hai có giá trị thông tin không kém hình thứ nhất nên đề nghị giữ cả hai.",
+          "difficulty": 4,
+          "tags": [
+            "negated-comparison"
+          ],
+          "skill_tags": [
+            "negated-comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The author objects not to the use of numerical targets ------- to the assumption that they can measure everything that matters.",
+          "options": [
+            {
+              "key": "A",
+              "text": "and also"
+            },
+            {
+              "key": "B",
+              "text": "or rather than"
+            },
+            {
+              "key": "C",
+              "text": "but"
+            },
+            {
+              "key": "D",
+              "text": "nor"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Not A but B bác bỏ A để xác định B mới là đối tượng phản đối.",
+          "translation": "Tác giả phản đối giả định rằng chỉ tiêu số có thể đo mọi điều quan trọng, chứ không phản đối việc dùng các chỉ tiêu đó.",
+          "difficulty": 4,
+          "tags": [
+            "coordination-not-but"
+          ],
+          "skill_tags": [
+            "coordination-not-but"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The essay makes much of the associations ------- the word carries in ordinary conversation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whose"
+            },
+            {
+              "key": "B",
+              "text": "of which"
+            },
+            {
+              "key": "C",
+              "text": "to whom"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "That làm tân ngữ của carries trong mệnh đề quan hệ xác định bổ nghĩa cho associations.",
+          "translation": "Bài luận nhấn mạnh những liên tưởng mà từ này gợi lên trong hội thoại thông thường.",
+          "difficulty": 4,
+          "tags": [
+            "nominal-relative"
+          ],
+          "skill_tags": [
+            "nominal-relative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Making all the raw figures public would do little ------- differences in how the districts count repeat visits.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to resolve"
+            },
+            {
+              "key": "B",
+              "text": "resolve"
+            },
+            {
+              "key": "C",
+              "text": "to be resolved"
+            },
+            {
+              "key": "D",
+              "text": "resolving"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Do little to + động từ nêu đóng góp rất hạn chế vào việc đạt một kết quả.",
+          "translation": "Công khai toàn bộ số liệu thô cũng chẳng giúp giải quyết mấy sự khác biệt giữa các quận trong cách đếm lượt đến lại.",
+          "difficulty": 4,
+          "tags": [
+            "infinitive-of-result"
+          ],
+          "skill_tags": [
+            "infinitive-of-result"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The smaller the affected population, ------- it is for a large survey to detect a change within it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the less likely"
+            },
+            {
+              "key": "B",
+              "text": "as unlikely as"
+            },
+            {
+              "key": "C",
+              "text": "less likely"
+            },
+            {
+              "key": "D",
+              "text": "the least likely"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Dạng so sánh tương liên yêu cầu the ở cả hai vế. The less likely nêu xác suất giảm.",
+          "translation": "Nhóm dân số chịu tác động càng nhỏ thì khảo sát lớn càng ít khả năng phát hiện thay đổi trong nhóm đó.",
+          "difficulty": 4,
+          "tags": [
+            "inverse-comparative"
+          ],
+          "skill_tags": [
+            "inverse-comparative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The author ------- the exception in a footnote, but chose to leave it unmentioned altogether.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had acknowledged"
+            },
+            {
+              "key": "B",
+              "text": "was acknowledged"
+            },
+            {
+              "key": "C",
+              "text": "must have acknowledged"
+            },
+            {
+              "key": "D",
+              "text": "could have acknowledged"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Could have + phân từ diễn tả một lựa chọn có sẵn trong quá khứ mà tác giả không thực hiện.",
+          "translation": "Tác giả đã có thể ghi ngoại lệ trong chú thích, nhưng quyết định không nhắc đến nó chút nào.",
+          "difficulty": 4,
+          "tags": [
+            "perfect-modal-criticism"
+          ],
+          "skill_tags": [
+            "perfect-modal-criticism"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "------- the original recordings are made available or not, the published quotations need to be checked against the transcripts.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whereas"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "Unless"
+            },
+            {
+              "key": "D",
+              "text": "Whether"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Whether ... or not giới thiệu hai khả năng mà yêu cầu ở mệnh đề chính đều áp dụng.",
+          "translation": "Dù các bản ghi âm gốc có được cung cấp hay không, các đoạn trích đã công bố vẫn cần đối chiếu với bản chép lời.",
+          "difficulty": 4,
+          "tags": [
+            "alternative-condition"
+          ],
+          "skill_tags": [
+            "alternative-condition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "What this revision does is ------- attention to a distinction the previous draft obscured.",
+          "options": [
+            {
+              "key": "A",
+              "text": "having drawn"
+            },
+            {
+              "key": "B",
+              "text": "drew"
+            },
+            {
+              "key": "C",
+              "text": "draw"
+            },
+            {
+              "key": "D",
+              "text": "draws"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trong câu chẻ What X does is ..., sau is có thể dùng động từ nguyên mẫu không to.",
+          "translation": "Bản sửa đổi này làm nổi bật một điểm phân biệt mà bản dự thảo trước đã làm mờ.",
+          "difficulty": 4,
+          "tags": [
+            "pseudo-cleft-do"
+          ],
+          "skill_tags": [
+            "pseudo-cleft-do"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The first recommendation I can support. The second -------, given what it would cost to enforce.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I cannot"
+            },
+            {
+              "key": "B",
+              "text": "have I not"
+            },
+            {
+              "key": "C",
+              "text": "I am not"
+            },
+            {
+              "key": "D",
+              "text": "cannot I"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "The second được đưa lên đầu làm tân ngữ tương phản. I cannot lược bỏ support vì đã rõ từ câu trước.",
+          "translation": "Tôi có thể ủng hộ khuyến nghị đầu tiên. Khuyến nghị thứ hai thì không, xét chi phí thực thi.",
+          "difficulty": 4,
+          "tags": [
+            "fronted-object"
+          ],
+          "skill_tags": [
+            "fronted-object"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The extent ------- poorer households would benefit depends on where the new routes are actually built.",
+          "options": [
+            {
+              "key": "A",
+              "text": "with which"
+            },
+            {
+              "key": "B",
+              "text": "for whose"
+            },
+            {
+              "key": "C",
+              "text": "of what"
+            },
+            {
+              "key": "D",
+              "text": "to which"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "To which tương ứng với to what extent, chỉ mức độ trong mệnh đề quan hệ bổ nghĩa cho extent.",
+          "translation": "Mức độ các hộ thu nhập thấp được hưởng lợi phụ thuộc vào nơi các tuyến mới thực sự được xây.",
+          "difficulty": 4,
+          "tags": [
+            "relative-preposition"
+          ],
+          "skill_tags": [
+            "relative-preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "------- the figures prove unreliable, the conclusions will need to be revisited.",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the event that"
+            },
+            {
+              "key": "B",
+              "text": "With a view to"
+            },
+            {
+              "key": "C",
+              "text": "In the absence of"
+            },
+            {
+              "key": "D",
+              "text": "Regardless of"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "In the event that nhận một mệnh đề hoàn chỉnh để giới thiệu điều kiện dự phòng.",
+          "translation": "Trong trường hợp số liệu hóa ra không đáng tin, các kết luận sẽ cần được xem xét lại.",
+          "difficulty": 4,
+          "tags": [
+            "condition-in-the-event"
+          ],
+          "skill_tags": [
+            "condition-in-the-event"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The final version says nothing about the pilot programme except ------- that its funding had expired.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to note"
+            },
+            {
+              "key": "B",
+              "text": "for note"
+            },
+            {
+              "key": "C",
+              "text": "to be noted"
+            },
+            {
+              "key": "D",
+              "text": "noting it"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Except to note nêu hành động phát ngôn duy nhất được thực hiện.",
+          "translation": "Bản cuối không nói gì về chương trình thí điểm ngoài việc ghi nhận rằng kinh phí đã hết hạn.",
+          "difficulty": 4,
+          "tags": [
+            "except-to"
+          ],
+          "skill_tags": [
+            "except-to"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Few, -------, of these changes would be visible to a person using the service for the first time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "if so many"
+            },
+            {
+              "key": "B",
+              "text": "if at all of"
+            },
+            {
+              "key": "C",
+              "text": "if any"
+            },
+            {
+              "key": "D",
+              "text": "if not"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Few, if any, nghĩa là rất ít, nếu quả thực có trường hợp nào.",
+          "translation": "Hầu như không có thay đổi nào trong số này mà người dùng dịch vụ lần đầu có thể nhận thấy.",
+          "difficulty": 4,
+          "tags": [
+            "elliptical-if"
+          ],
+          "skill_tags": [
+            "elliptical-if"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The definition is broad enough to cover ordinary delays, ------- rendering the separate clause on late delivery redundant.",
+          "options": [
+            {
+              "key": "A",
+              "text": "thus"
+            },
+            {
+              "key": "B",
+              "text": "nevertheless to"
+            },
+            {
+              "key": "C",
+              "text": "provided"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thus + V-ing đưa ra hệ quả trực tiếp của đặc điểm vừa nêu.",
+          "translation": "Định nghĩa đủ rộng để bao quát các trường hợp chậm trễ thông thường, khiến điều khoản riêng về giao hàng muộn trở nên thừa.",
+          "difficulty": 4,
+          "tags": [
+            "reason-result-so"
+          ],
+          "skill_tags": [
+            "reason-result-so"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The two reports differ ------- only one treats respondents who declined to answer as a separate category.",
+          "options": [
+            {
+              "key": "A",
+              "text": "with which"
+            },
+            {
+              "key": "B",
+              "text": "provided that"
+            },
+            {
+              "key": "C",
+              "text": "in which case that"
+            },
+            {
+              "key": "D",
+              "text": "in that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "In that giới thiệu khía cạnh cụ thể tạo nên sự khác biệt.",
+          "translation": "Hai báo cáo khác nhau ở chỗ chỉ một báo cáo coi những người từ chối trả lời là một nhóm riêng.",
+          "difficulty": 4,
+          "tags": [
+            "contrast-in-that"
+          ],
+          "skill_tags": [
+            "contrast-in-that"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The rejection concerned the fee alone. The panel rejected -------, leaving the rest of the plan intact.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not only the fee"
+            },
+            {
+              "key": "B",
+              "text": "only the fee"
+            },
+            {
+              "key": "C",
+              "text": "the only fee charged by the plan and the rest"
+            },
+            {
+              "key": "D",
+              "text": "nothing but the rest of the proposal"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Only ngay trước the fee giới hạn phạm vi bác bỏ vào khoản phí.",
+          "translation": "Việc bác bỏ chỉ liên quan đến khoản phí. Hội đồng chỉ bác bỏ khoản phí và giữ nguyên các phần khác của kế hoạch.",
+          "difficulty": 4,
+          "tags": [
+            "position-scope-only"
+          ],
+          "skill_tags": [
+            "position-scope-only"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "An independent assessor, ------- access to the full set of transcripts by the custodian, could resolve the dispute quickly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "giving"
+            },
+            {
+              "key": "B",
+              "text": "given"
+            },
+            {
+              "key": "C",
+              "text": "having given"
+            },
+            {
+              "key": "D",
+              "text": "to give"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Given access rút gọn if they were given access, với người đánh giá là bên nhận quyền tiếp cận.",
+          "translation": "Một người đánh giá độc lập, nếu được người quản lý kho lưu trữ cho xem toàn bộ bản chép lời, có thể nhanh chóng giải quyết tranh cãi.",
+          "difficulty": 4,
+          "tags": [
+            "reduced-passive-condition"
+          ],
+          "skill_tags": [
+            "reduced-passive-condition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "So little ------- about the trial in the final report that readers could not work out how many people took part.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it said"
+            },
+            {
+              "key": "B",
+              "text": "had said"
+            },
+            {
+              "key": "C",
+              "text": "was said"
+            },
+            {
+              "key": "D",
+              "text": "they said"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "So little ở đầu câu kéo theo đảo ngữ. Was said giữ nghĩa bị động của những điều được nói.",
+          "translation": "Báo cáo cuối nói quá ít về thử nghiệm đến mức độc giả không biết có bao nhiêu người tham gia.",
+          "difficulty": 4,
+          "tags": [
+            "negative-result-inversion"
+          ],
+          "skill_tags": [
+            "negative-result-inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The figures, ------- in the appendix rather than rounded as in the summary, reveal a small but consistent gap.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as have given"
+            },
+            {
+              "key": "B",
+              "text": "as giving"
+            },
+            {
+              "key": "C",
+              "text": "as been given"
+            },
+            {
+              "key": "D",
+              "text": "as given"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "As given rút gọn as they are given và chỉ hình thức trình bày đang được dùng.",
+          "translation": "Các con số đúng như được trình bày trong phụ lục, thay vì làm tròn như ở phần tóm tắt, cho thấy một chênh lệch nhỏ nhưng nhất quán.",
+          "difficulty": 4,
+          "tags": [
+            "comparative-as-participle"
+          ],
+          "skill_tags": [
+            "comparative-as-participle"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The contributors would sooner the editor ------- the piece altogether than publish it under a misleading headline.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would have been dropped"
+            },
+            {
+              "key": "B",
+              "text": "dropped"
+            },
+            {
+              "key": "C",
+              "text": "will drop"
+            },
+            {
+              "key": "D",
+              "text": "to drop"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Would sooner + chủ ngữ khác + quá khứ đơn diễn tả điều người nói muốn người khác làm.",
+          "translation": "Những người đóng góp thà để biên tập viên bỏ hẳn bài còn hơn đăng dưới tiêu đề gây hiểu lầm.",
+          "difficulty": 4,
+          "tags": [
+            "would-sooner-unreal"
+          ],
+          "skill_tags": [
+            "would-sooner-unreal"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The agency could have sought clarification before issuing the notice. To ------- afterwards was far more costly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so do it"
+            },
+            {
+              "key": "B",
+              "text": "have so"
+            },
+            {
+              "key": "C",
+              "text": "do so"
+            },
+            {
+              "key": "D",
+              "text": "do such"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Do so thay cho hành động seek clarification. Sau to dùng do ở nguyên mẫu.",
+          "translation": "Cơ quan lẽ ra có thể yêu cầu làm rõ trước khi ra thông báo. Làm việc đó sau này tốn kém hơn nhiều.",
+          "difficulty": 4,
+          "tags": [
+            "substitution-proform"
+          ],
+          "skill_tags": [
+            "substitution-proform"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "There is no reason ------- the two estimates should agree if they are based on different populations.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which of"
+            },
+            {
+              "key": "B",
+              "text": "why"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Reason why dẫn mệnh đề giải thích quan hệ giữa lý do và điều được nêu.",
+          "translation": "Không có lý do gì hai ước tính phải giống nhau nếu chúng dựa trên hai quần thể khác nhau.",
+          "difficulty": 4,
+          "tags": [
+            "undercut-claim"
+          ],
+          "skill_tags": [
+            "undercut-claim"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "------- the survey at face value, the claim would still be an exaggeration.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Even had we take"
+            },
+            {
+              "key": "B",
+              "text": "Despite we took"
+            },
+            {
+              "key": "C",
+              "text": "Even if we took"
+            },
+            {
+              "key": "D",
+              "text": "Although taking"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Even if + chủ ngữ + quá khứ đơn nêu giả định nhượng bộ. Chủ thể chấp nhận là we.",
+          "translation": "Ngay cả nếu chấp nhận kết quả khảo sát đúng như được trình bày, nhận định đó vẫn là phóng đại.",
+          "difficulty": 4,
+          "tags": [
+            "hypothetical-concession"
+          ],
+          "skill_tags": [
+            "hypothetical-concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The conclusion rests on the premise ------- a decline in complaints necessarily signals an improvement in service.",
+          "options": [
+            {
+              "key": "A",
+              "text": "how"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "by which of"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Mệnh đề that đồng vị với premise và nêu nội dung của tiền đề.",
+          "translation": "Kết luận dựa trên tiền đề rằng số lời phàn nàn giảm nhất thiết cho thấy dịch vụ được cải thiện.",
+          "difficulty": 4,
+          "tags": [
+            "appositive-complement"
+          ],
+          "skill_tags": [
+            "appositive-complement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "It is high time the debate ------- beyond whether the change is affordable and considered who would bear the cost.",
+          "options": [
+            {
+              "key": "A",
+              "text": "moved"
+            },
+            {
+              "key": "B",
+              "text": "has moved"
+            },
+            {
+              "key": "C",
+              "text": "would move"
+            },
+            {
+              "key": "D",
+              "text": "will move"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "It is high time + quá khứ đơn diễn tả việc đáng lẽ đã nên xảy ra. Moved song song với considered.",
+          "translation": "Đã đến lúc cuộc tranh luận vượt khỏi câu hỏi liệu có đủ tiền thực hiện thay đổi và bàn xem ai sẽ chịu chi phí.",
+          "difficulty": 4,
+          "tags": [
+            "unreal-time"
+          ],
+          "skill_tags": [
+            "unreal-time"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The review focuses as much on how outcomes are defined as ------- how they are measured.",
+          "options": [
+            {
+              "key": "A",
+              "text": "about"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "of"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hai cụm on how ... song song làm bổ ngữ cho focus, và as much ... as cân bằng mức độ.",
+          "translation": "Bài tổng quan chú trọng cách định nghĩa kết quả ngang với cách đo lường kết quả.",
+          "difficulty": 4,
+          "tags": [
+            "parallel-preposition"
+          ],
+          "skill_tags": [
+            "parallel-preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The revised estimates are unusually sensitive to the choice of baseline, a point ------- in the summary.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that overlooked it"
+            },
+            {
+              "key": "B",
+              "text": "overlooking it"
+            },
+            {
+              "key": "C",
+              "text": "overlooked"
+            },
+            {
+              "key": "D",
+              "text": "was overlooked"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Overlooked rút gọn that was overlooked, bổ nghĩa cho a point và giữ nghĩa bị động.",
+          "translation": "Các ước tính sửa đổi đặc biệt nhạy với mốc nền được chọn, một điểm bị bỏ qua trong phần tóm tắt.",
+          "difficulty": 4,
+          "tags": [
+            "relative-resumption"
+          ],
+          "skill_tags": [
+            "relative-resumption"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "qe-thpt-012",
+  "content_path": "content/tests/thpt/qe-thpt-012.json",
+  "title": "Đề luyện thi tiếng Anh THPT 12 – Vườn cộng đồng, Chia sẻ dụng cụ và Sửa chữa",
+  "exam_type": "thpt",
+  "level": "A2-B2",
+  "difficulty": 2,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        4,
+        5
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "context": "Grammar, vocabulary, pragmatic response and paraphrase in community-garden contexts",
+      "first_question": 1,
+      "last_question": 18,
+      "skill_distribution": {
+        "tense": 1,
+        "phrasal-verb": 1,
+        "agreement": 1,
+        "clauses": 1,
+        "word-form": 1,
+        "verb-pattern": 2,
+        "relative-clause": 1,
+        "collocation": 1,
+        "conditional": 1,
+        "inversion": 1,
+        "dialogue": 1,
+        "vocabulary": 1,
+        "correlative-conjunction": 1,
+        "reduced-clause": 1,
+        "quantifier": 1,
+        "cohesion": 1,
+        "paraphrase": 1
+      }
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "context": "Community garden volunteer notice",
+      "first_question": 19,
+      "last_question": 24,
+      "skill_distribution": {
+        "preposition": 1,
+        "conjunction": 1,
+        "word-form": 1,
+        "cohesion": 1,
+        "concession": 1,
+        "relative-clause": 1
+      }
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "context": "Neighborhood tool library",
+      "first_question": 25,
+      "last_question": 30,
+      "skill_distribution": {
+        "passive": 1,
+        "word-form": 1,
+        "preposition": 1,
+        "comparison": 1,
+        "cohesion": 1,
+        "tense": 1
+      }
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "context": "Student heat-mapping project on a school campus",
+      "first_question": 31,
+      "last_question": 38,
+      "skill_distribution": {
+        "main-idea": 1,
+        "method": 1,
+        "detail": 3,
+        "vocab-in-context": 1,
+        "evaluation": 1,
+        "inference": 1
+      }
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Community repair events as practical learning",
+      "first_question": 39,
+      "last_question": 50,
+      "skill_distribution": {
+        "detail": 4,
+        "argument": 1,
+        "vocab-in-context": 1,
+        "inference": 2,
+        "author-purpose": 1,
+        "reference": 1,
+        "synthesis": 1,
+        "main-idea": 1
+      }
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 13,
+      "B": 13,
+      "C": 12,
+      "D": 12
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 3
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 3,
+    "blind_review_instruction_vi": "Giải độc lập từ câu hỏi, bài đọc và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

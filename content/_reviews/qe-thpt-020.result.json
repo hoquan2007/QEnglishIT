@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-020",
+  "revision": "8a0137674c511ebff3c3920dcb477719ed67ecd480b644ba299dd9b7cda530e3",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q28: provided that is the best answer; the otherwise clause explicitly establishes the conditional arrangement. Q31-50: many distractors are visibly implausible, especially Q32, Q35, Q37, Q38, Q43, Q48 and Q49. Q45-50 use only C and D, ending with three D answers; improve local answer-position variety. No competing correct option identified.",
+  "admin_sample": [
+    18,
+    21,
+    40
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

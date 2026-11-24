@@ -1,0 +1,1782 @@
+{
+  "slug": "qe-vocab-b2-012",
+  "title": "Kiểm tra từ vựng B2 – 012",
+  "exam_type": "vocab_test",
+  "level": "B2",
+  "cefr": "B2",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 20,
+  "total_questions": 50,
+  "difficulty": 4,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 50,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "There were enough complaints to suggest a pattern, so the team launched an investigation to ___ the cause.",
+          "explanation": "“Establish the cause” là tìm ra nguyên nhân dựa trên kiểm tra hoặc bằng chứng.",
+          "translation": "Có đủ lời phàn nàn để thấy dấu hiệu lặp lại, nên nhóm mở cuộc điều tra nhằm xác định nguyên nhân.",
+          "options": [
+            {
+              "key": "A",
+              "text": "conceal"
+            },
+            {
+              "key": "B",
+              "text": "overstate"
+            },
+            {
+              "key": "C",
+              "text": "justify"
+            },
+            {
+              "key": "D",
+              "text": "establish"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a5b824f524f77b6a22fe834c0b1c47b8d5ed51fe"
+        },
+        {
+          "question_text": "An editor calls the second article “redundant”. Which detail would explain why?",
+          "explanation": "“Redundant” nghĩa là không cần thiết vì chức năng hoặc thông tin đã có ở nơi khác.",
+          "translation": "Biên tập viên cho rằng bài thứ hai thừa. Chi tiết nào giải thích nhận xét đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It repeats information the first article already gives."
+            },
+            {
+              "key": "B",
+              "text": "It corrects a serious error in the first article."
+            },
+            {
+              "key": "C",
+              "text": "It presents evidence that has never been published."
+            },
+            {
+              "key": "D",
+              "text": "It tells the other side of the story."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-b2-technology-006.json",
+          "independent_review": "pending",
+          "fingerprint": "4de8d7f2b04e35b7441b97e8b17d939679cc3566"
+        },
+        {
+          "question_text": "Before sharing the figures, confirm that they ___ to the current year rather than the previous one.",
+          "explanation": "“Relate to” ở đây là thuộc về hoặc nói về năm được nêu.",
+          "translation": "Trước khi chia sẻ số liệu, hãy xác nhận chúng liên quan đến năm hiện tại thay vì năm trước.",
+          "options": [
+            {
+              "key": "A",
+              "text": "contribute"
+            },
+            {
+              "key": "B",
+              "text": "relate"
+            },
+            {
+              "key": "C",
+              "text": "respond"
+            },
+            {
+              "key": "D",
+              "text": "object"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e549e00954867e598610dd4b31332a6daeac5b21"
+        },
+        {
+          "question_text": "‘The committee has “signed off on” the designs.’ What has it done?",
+          "explanation": "“Sign off on” nghĩa là chính thức chấp thuận để công việc được triển khai.",
+          "translation": "Hội đồng đã phê duyệt các bản thiết kế. Hội đồng đã làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "asked for the first draft"
+            },
+            {
+              "key": "B",
+              "text": "formally approved the designs"
+            },
+            {
+              "key": "C",
+              "text": "removed its name from the plans"
+            },
+            {
+              "key": "D",
+              "text": "withdrawn the designs from use"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "def4b78e37ed0de18de6282481a0f5e2047c041d"
+        },
+        {
+          "question_text": "Guests had been promised a sea view, but the wall of a new building completely ___ it.",
+          "explanation": "“Block a view” nghĩa là che khuất những gì lẽ ra nhìn thấy.",
+          "translation": "Khách được hứa có tầm nhìn ra biển nhưng tường tòa nhà mới chắn hết cảnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reflected"
+            },
+            {
+              "key": "B",
+              "text": "framed"
+            },
+            {
+              "key": "C",
+              "text": "expanded"
+            },
+            {
+              "key": "D",
+              "text": "blocked"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "1bffa1390c46e455f686c8639359438057f75114"
+        },
+        {
+          "question_text": "Which action would amount to “waiving” a late fee?",
+          "explanation": "“Waive a fee” là từ bỏ quyền thu khoản phí, nên khách không phải trả.",
+          "translation": "Hành động nào tương đương với việc miễn phí trả muộn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Giving the customer a week longer to pay it."
+            },
+            {
+              "key": "B",
+              "text": "Raising it for a second late payment."
+            },
+            {
+              "key": "C",
+              "text": "Dividing it into two instalments."
+            },
+            {
+              "key": "D",
+              "text": "Deciding that the customer doesn't have to pay it."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8bc2fc94c854f3eade220ba8759c40a0400b750f"
+        },
+        {
+          "question_text": "Our instructor asked us to ___ our claims with at least one example from the book.",
+          "explanation": "“Back up a claim” là nêu bằng chứng hoặc ví dụ ủng hộ nhận định.",
+          "translation": "Giảng viên yêu cầu chúng tôi đưa ít nhất một ví dụ trong sách để củng cố nhận định.",
+          "options": [
+            {
+              "key": "A",
+              "text": "back up"
+            },
+            {
+              "key": "B",
+              "text": "come across"
+            },
+            {
+              "key": "C",
+              "text": "take back"
+            },
+            {
+              "key": "D",
+              "text": "put aside"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f8dea80aeacbad160d776f2495d183c7ec0aebe4"
+        },
+        {
+          "question_text": "After months of falling orders, the manufacturer announced it would ___ production from 500 units a day to 300.",
+          "explanation": "“Scale back” là giảm quy mô hoạt động.",
+          "translation": "Sau nhiều tháng đơn hàng giảm, hãng thông báo sẽ cắt sản lượng từ 500 xuống 300 sản phẩm mỗi ngày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "scale back"
+            },
+            {
+              "key": "B",
+              "text": "bring forward"
+            },
+            {
+              "key": "C",
+              "text": "speed up"
+            },
+            {
+              "key": "D",
+              "text": "hand over"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e571666981aa5eaba7bac544ff67c45d579d5f02"
+        },
+        {
+          "question_text": "‘Their figures are “rough estimates”.’ How should the reader treat them?",
+          "explanation": "“Rough” nói về ước tính nghĩa là gần đúng, chưa chính xác hoàn toàn.",
+          "translation": "Các con số chỉ là ước tính sơ bộ. Độc giả nên hiểu chúng thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "as a promise about future sales"
+            },
+            {
+              "key": "B",
+              "text": "as approximate values"
+            },
+            {
+              "key": "C",
+              "text": "as exact measurements"
+            },
+            {
+              "key": "D",
+              "text": "as fully verified results"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "dc3342ffe8dba16cbaaf20ce4ab6bac38a9b41e5"
+        },
+        {
+          "question_text": "The charity receives both money and ___ of clothes and blankets.",
+          "explanation": "“Donation” là thứ tự nguyện tặng cho một mục đích chung.",
+          "translation": "Tổ chức từ thiện nhận cả tiền lẫn quần áo và chăn được quyên góp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "discounts"
+            },
+            {
+              "key": "B",
+              "text": "earnings"
+            },
+            {
+              "key": "C",
+              "text": "donations"
+            },
+            {
+              "key": "D",
+              "text": "receipts"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7dc6486157af80c0f75e81da3da56b301626b476"
+        },
+        {
+          "question_text": "The speakers disagreed about spending but found “common ground” on the need for better lighting. What happened?",
+          "explanation": "“Common ground” là điểm chung mà các bên cùng chấp nhận.",
+          "translation": "Người phát biểu bất đồng về chi tiêu nhưng tìm được điểm chung về nhu cầu chiếu sáng tốt hơn. Chuyện gì đã xảy ra?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They agreed to meet in a different place."
+            },
+            {
+              "key": "B",
+              "text": "They changed the subject to avoid a decision."
+            },
+            {
+              "key": "C",
+              "text": "They reached agreement on every point."
+            },
+            {
+              "key": "D",
+              "text": "They identified one point they agreed on."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a1bd133721feecb1fd80df5d9562fdfc2c4caa16"
+        },
+        {
+          "question_text": "A thick carpet will ___ the sound of footsteps from the flat above.",
+          "explanation": "“Muffle” là làm âm thanh bị giảm hoặc nghe không rõ.",
+          "translation": "Thảm dày sẽ làm tiếng bước chân ở căn hộ phía trên nhỏ và khó nghe hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "record"
+            },
+            {
+              "key": "B",
+              "text": "muffle"
+            },
+            {
+              "key": "C",
+              "text": "amplify"
+            },
+            {
+              "key": "D",
+              "text": "transmit clearly"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a870dd5a6e5ea6894877165cab0e0caa11986138"
+        },
+        {
+          "question_text": "Select the wording that preserves the meaning of ‘The figures “vary” by region’.",
+          "explanation": "“Vary by region” nghĩa là có khác biệt tùy theo vùng.",
+          "translation": "Hãy chọn cách nói giữ nguyên nghĩa của câu “Số liệu khác nhau theo từng vùng”.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The figures differ across regions."
+            },
+            {
+              "key": "B",
+              "text": "The figures are missing in every region."
+            },
+            {
+              "key": "C",
+              "text": "The figures change with each season."
+            },
+            {
+              "key": "D",
+              "text": "Every region reports the same figures."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d25980a16ebe1dd1c08e7a6adc0c9100394b95f6"
+        },
+        {
+          "question_text": "The researchers had two records of the same event and were unable to ___ the conflicting dates.",
+          "explanation": "“Reconcile” là tìm cách dung hòa hoặc giải thích những thông tin có vẻ mâu thuẫn.",
+          "translation": "Các nhà nghiên cứu có hai ghi chép về cùng sự kiện nhưng không thể lý giải sự mâu thuẫn về ngày tháng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "repeat"
+            },
+            {
+              "key": "B",
+              "text": "allocate"
+            },
+            {
+              "key": "C",
+              "text": "impose"
+            },
+            {
+              "key": "D",
+              "text": "reconcile"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f8fea38c65d193b4678233bf83b61aa0161af282"
+        },
+        {
+          "question_text": "The workers agreed to take on extra duties if they received a pay rise in ___.",
+          "explanation": "“In return” nghĩa là để đổi lại một lợi ích hay hành động.",
+          "translation": "Nhân viên đồng ý nhận thêm việc nếu đổi lại họ được tăng lương.",
+          "options": [
+            {
+              "key": "A",
+              "text": "public"
+            },
+            {
+              "key": "B",
+              "text": "return"
+            },
+            {
+              "key": "C",
+              "text": "advance"
+            },
+            {
+              "key": "D",
+              "text": "full"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d8d0a5f860b6e407e6dd32dde5830562dfd12fc5"
+        },
+        {
+          "question_text": "‘The shop has “phased out” its plastic bags.’ What does the statement suggest about the change?",
+          "explanation": "“Phase out” là ngừng dùng dần theo từng giai đoạn.",
+          "translation": "Cửa hàng đã loại bỏ dần túi nhựa. Câu này cho biết thay đổi diễn ra thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The shop suspended the change before starting."
+            },
+            {
+              "key": "B",
+              "text": "The shop began using them more frequently."
+            },
+            {
+              "key": "C",
+              "text": "The shop gave them a temporary new design."
+            },
+            {
+              "key": "D",
+              "text": "The shop stopped using them gradually."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d1df777375dfbf07599c6c1d16f9a0724f8b88d0"
+        },
+        {
+          "question_text": "The new platform allows customers to ___ their orders in real time, from the warehouse to their door.",
+          "explanation": "“Track” nghĩa là theo dõi quá trình di chuyển.",
+          "translation": "Nền tảng mới cho khách theo dõi đơn hàng theo thời gian thực, từ kho đến cửa nhà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "repeat"
+            },
+            {
+              "key": "B",
+              "text": "place"
+            },
+            {
+              "key": "C",
+              "text": "track"
+            },
+            {
+              "key": "D",
+              "text": "cancel"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "55e2bcaa0fa1975dbe093f1ee0a523a8946cb19c"
+        },
+        {
+          "question_text": "The company replaced each participant's name with a random number before publishing the survey replies to protect their ___.",
+          "explanation": "“Privacy” là quyền giữ kín thông tin cá nhân.",
+          "translation": "Công ty thay tên mỗi người tham gia bằng một số ngẫu nhiên trước khi công bố câu trả lời để bảo vệ quyền riêng tư.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reputation"
+            },
+            {
+              "key": "B",
+              "text": "eligibility"
+            },
+            {
+              "key": "C",
+              "text": "privacy"
+            },
+            {
+              "key": "D",
+              "text": "income"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "948bd928b0632337647b72b75f7fc9dbccace02a"
+        },
+        {
+          "question_text": "A presenter describes an explanation as “plausible”. Which statement comes closest to her view?",
+          "explanation": "“Plausible” chỉ lời giải thích đáng tin ở mức có thể đúng.",
+          "translation": "Người thuyết trình cho rằng một lời giải thích có vẻ hợp lý. Câu nào gần nhất với nhận xét ấy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It must be true in every detail."
+            },
+            {
+              "key": "B",
+              "text": "It could reasonably be true."
+            },
+            {
+              "key": "C",
+              "text": "It is too complicated to understand."
+            },
+            {
+              "key": "D",
+              "text": "It has already been disproved."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a6a3db8a9ae5c7a80d75a1b176156bac68b876b2"
+        },
+        {
+          "question_text": "People kept entering through the wrong door, so the signs were ___ to show the way more clearly.",
+          "explanation": "“Reposition” là di chuyển một vật sang vị trí khác.",
+          "translation": "Mọi người liên tục vào nhầm cửa nên biển chỉ dẫn được đổi chỗ để chỉ đường rõ hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "repositioned"
+            },
+            {
+              "key": "B",
+              "text": "stored"
+            },
+            {
+              "key": "C",
+              "text": "removed"
+            },
+            {
+              "key": "D",
+              "text": "covered"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "4f4ab525f3142a81fdbedd3be28471c98dbca6f5"
+        },
+        {
+          "question_text": "The two bands will ___ on a new track, sharing both writing and recording duties.",
+          "explanation": "“Collaborate on” là cùng làm một dự án hoặc tác phẩm.",
+          "translation": "Hai ban nhạc sẽ hợp tác làm bài mới, cùng chia sẻ việc sáng tác và thu âm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "insist"
+            },
+            {
+              "key": "B",
+              "text": "collaborate"
+            },
+            {
+              "key": "C",
+              "text": "differ"
+            },
+            {
+              "key": "D",
+              "text": "compete"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ca83b45965ca35f9413e17ce11c512e50aed7c15"
+        },
+        {
+          "question_text": "‘That price doesn't “take into account” the cost of installation.’ What has been left out?",
+          "explanation": "“Take into account” nghĩa là tính đến một yếu tố khi xem xét hoặc tính toán.",
+          "translation": "Giá đó chưa tính chi phí lắp đặt. Khoản nào bị bỏ sót?",
+          "options": [
+            {
+              "key": "A",
+              "text": "the expense of fitting the equipment"
+            },
+            {
+              "key": "B",
+              "text": "the date of the sale"
+            },
+            {
+              "key": "C",
+              "text": "the equipment's original price"
+            },
+            {
+              "key": "D",
+              "text": "the buyer's delivery address"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "95cf8f438361dc38e548ad5a6aa69917f93fc6e2"
+        },
+        {
+          "question_text": "The shift supervisor called a meeting to ___ the new duties among the staff.",
+          "explanation": "“Allocate” là phân bổ công việc hoặc nguồn lực cho từng người.",
+          "translation": "Quản lý ca triệu tập cuộc họp để phân công nhiệm vụ mới cho nhân viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "refund"
+            },
+            {
+              "key": "B",
+              "text": "estimate"
+            },
+            {
+              "key": "C",
+              "text": "allocate"
+            },
+            {
+              "key": "D",
+              "text": "preserve"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "9a220b5d137f12561fc3fd2c29f6b2a8b5585e80"
+        },
+        {
+          "question_text": "The guide's comment was “off the record”. How should a journalist handle it?",
+          "explanation": "“Off the record” cho biết thông tin được nói với thỏa thuận không đăng công khai.",
+          "translation": "Hướng dẫn viên đưa ra nhận xét với điều kiện không công bố. Nhà báo nên xử lý thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Describe it as an official announcement."
+            },
+            {
+              "key": "B",
+              "text": "Publish it under the guide's full name."
+            },
+            {
+              "key": "C",
+              "text": "Keep it out of the published story."
+            },
+            {
+              "key": "D",
+              "text": "Put it in the headline."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "54e3cabeee1d5d7e6270fda3231911820b5ba1cc"
+        },
+        {
+          "question_text": "After finding a crack in the support beam, the inspector advised against ___ the building until repairs were complete. No one should move in yet.",
+          "explanation": "“Occupy a building” là vào ở hoặc sử dụng tòa nhà.",
+          "translation": "Sau khi thấy dầm đỡ bị nứt, thanh tra khuyên chưa sử dụng tòa nhà cho đến khi sửa xong. Chưa ai nên chuyển vào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "renovating"
+            },
+            {
+              "key": "B",
+              "text": "occupying"
+            },
+            {
+              "key": "C",
+              "text": "advertising"
+            },
+            {
+              "key": "D",
+              "text": "insuring"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "aa353ba16b3bf765d9855ed2c0eedb054cd5dbe1"
+        },
+        {
+          "question_text": "The garden can now ___ itself on rainwater alone, even through most of the summer.",
+          "explanation": "“Sustain itself” là tự duy trì trong thời gian dài nhờ nguồn lực sẵn có.",
+          "translation": "Khu vườn hiện có thể duy trì chỉ bằng nước mưa, kể cả gần suốt mùa hè.",
+          "options": [
+            {
+              "key": "A",
+              "text": "assess"
+            },
+            {
+              "key": "B",
+              "text": "sustain"
+            },
+            {
+              "key": "C",
+              "text": "restrict"
+            },
+            {
+              "key": "D",
+              "text": "transform"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "9dcb4892417a3600c1aca87c39ca93cedfacda41"
+        },
+        {
+          "question_text": "‘Their new services “complement” each other.’ What does this mean?",
+          "explanation": "“Complement” là cung cấp phần còn thiếu, tạo thành một tổng thể hữu ích hơn.",
+          "translation": "Các dịch vụ mới bổ sung cho nhau. Điều đó nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Each service adds something the other lacks."
+            },
+            {
+              "key": "B",
+              "text": "Neither service can work at all."
+            },
+            {
+              "key": "C",
+              "text": "The services compete for the same task."
+            },
+            {
+              "key": "D",
+              "text": "They charge exactly the same fee."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "b65b79f9f4f9a29954572ba6cddea3ac5ea2f093"
+        },
+        {
+          "question_text": "The venue isn't free until May, so we need either to ___ the schedule or find another place.",
+          "explanation": "“Revise a schedule” là sửa lịch cho phù hợp tình hình.",
+          "translation": "Địa điểm chỉ trống từ tháng Năm nên ta cần điều chỉnh lịch hoặc tìm chỗ khác.",
+          "options": [
+            {
+              "key": "A",
+              "text": "verify"
+            },
+            {
+              "key": "B",
+              "text": "revise"
+            },
+            {
+              "key": "C",
+              "text": "observe"
+            },
+            {
+              "key": "D",
+              "text": "maintain"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "56945926857c956b7d95152d47e05b6a35dd9853"
+        },
+        {
+          "question_text": "The event promoter made an “exaggerated” claim about the crowd. Which comparison shows that?",
+          "explanation": "“Exaggerated” là nói quá mức thực tế. 5.000 lớn hơn nhiều so với 900.",
+          "translation": "Người quảng bá sự kiện đưa ra con số phóng đại về lượng khách. So sánh nào cho thấy điều đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She said she didn't know how many attended."
+            },
+            {
+              "key": "B",
+              "text": "She reported the final count from the organisers."
+            },
+            {
+              "key": "C",
+              "text": "She claimed 5,000 attended, though only 900 did."
+            },
+            {
+              "key": "D",
+              "text": "She claimed 900 attended and the count was 900."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "65673ab68ad0bf5175d7704103dcf5652056bb6a"
+        },
+        {
+          "question_text": "One goal of the programme is to ___ people from relying on a car for very short journeys.",
+          "explanation": "“Discourage someone from” là khuyên hoặc tạo điều kiện để ai bớt làm một việc.",
+          "translation": "Một mục tiêu của chương trình là hạn chế việc người dân dùng ô tô cho quãng đường rất ngắn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "involve"
+            },
+            {
+              "key": "B",
+              "text": "prepare"
+            },
+            {
+              "key": "C",
+              "text": "discourage"
+            },
+            {
+              "key": "D",
+              "text": "permit"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "418b076647db46236c3fc2a0ef5b7cb05fbe0dfa"
+        },
+        {
+          "question_text": "The talks reached a ___ when neither side was willing to change its offer.",
+          "explanation": "“Deadlock” là tình thế không thể tiến triển vì các bên giữ nguyên lập trường.",
+          "translation": "Đàm phán lâm vào bế tắc khi không bên nào chịu thay đổi đề nghị.",
+          "options": [
+            {
+              "key": "A",
+              "text": "deadlock"
+            },
+            {
+              "key": "B",
+              "text": "conclusion acceptable to both"
+            },
+            {
+              "key": "C",
+              "text": "compromise"
+            },
+            {
+              "key": "D",
+              "text": "agreement"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e95fd3e7dbb030f608798ae357184f5f5795c771"
+        },
+        {
+          "question_text": "‘We have a “provisional” booking for June.’ What should a guest understand?",
+          "explanation": "“Provisional” nghĩa là tạm thời, chưa được xác nhận dứt khoát.",
+          "translation": "Chúng tôi có đặt chỗ tạm thời vào tháng Sáu. Khách nên hiểu thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The booking has already been cancelled."
+            },
+            {
+              "key": "B",
+              "text": "The date is planned but may still change."
+            },
+            {
+              "key": "C",
+              "text": "The booking applies only to last June."
+            },
+            {
+              "key": "D",
+              "text": "The date was confirmed and cannot move."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "343a501a95f0c5f7f03fbe45955b67bf277d8074"
+        },
+        {
+          "question_text": "The new website asks for fewer details in an effort to ___ the registration process.",
+          "explanation": "“Streamline” là bỏ bớt bước không cần thiết để quy trình gọn hơn.",
+          "translation": "Trang mới yêu cầu ít thông tin hơn để đơn giản hóa quy trình đăng ký.",
+          "options": [
+            {
+              "key": "A",
+              "text": "duplicate"
+            },
+            {
+              "key": "B",
+              "text": "delay"
+            },
+            {
+              "key": "C",
+              "text": "streamline"
+            },
+            {
+              "key": "D",
+              "text": "complicate"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "fb85ea64cdd382ccbb94f565ce22bb97e6f11146"
+        },
+        {
+          "question_text": "The first account of the incident was ___ by footage that showed a different sequence of events.",
+          "explanation": "“Contradict” là đưa ra điều trái với một lời kể hoặc nhận định.",
+          "translation": "Lời kể đầu tiên về sự việc bị đoạn phim bác lại vì trình tự trong phim khác hẳn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "contradicted"
+            },
+            {
+              "key": "B",
+              "text": "translated"
+            },
+            {
+              "key": "C",
+              "text": "summarised"
+            },
+            {
+              "key": "D",
+              "text": "verified"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "78bef52b425950f26a666ad02aa18c3804c2ed0f"
+        },
+        {
+          "question_text": "‘We have to read “between the lines”.’ What is the speaker advising?",
+          "explanation": "“Read between the lines” nghĩa là suy ra ý không được nói thẳng.",
+          "translation": "Ta phải đọc để hiểu ý ngầm. Người nói khuyên làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ignore any implied message."
+            },
+            {
+              "key": "B",
+              "text": "Write the missing sentences yourself."
+            },
+            {
+              "key": "C",
+              "text": "Look for a meaning that isn't stated directly."
+            },
+            {
+              "key": "D",
+              "text": "Read only the headings."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "89a9970fde2d36413cb4e51070d4e99c0530309e"
+        },
+        {
+          "question_text": "The auditor requested a breakdown of spending so she could ___ each payment to the invoice that supported it.",
+          "explanation": "“Trace A to B” là lần theo A để tìm nguồn hoặc chứng từ B.",
+          "translation": "Kiểm toán viên yêu cầu bảng chi tiết khoản chi để truy từng khoản về hóa đơn tương ứng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "trace"
+            },
+            {
+              "key": "B",
+              "text": "transfer"
+            },
+            {
+              "key": "C",
+              "text": "waive"
+            },
+            {
+              "key": "D",
+              "text": "lend"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c4ccdc9c18b5e2b865bfb9f168688855d9992075"
+        },
+        {
+          "question_text": "The course fee includes lunch but ___ overnight accommodation, which must be booked separately.",
+          "explanation": "“Exclude” là không tính một mục vào khoản đã nêu.",
+          "translation": "Học phí gồm bữa trưa nhưng không gồm chỗ ở qua đêm, vốn cần đặt riêng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "covers"
+            },
+            {
+              "key": "B",
+              "text": "excludes"
+            },
+            {
+              "key": "C",
+              "text": "provides"
+            },
+            {
+              "key": "D",
+              "text": "includes"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a8bab3d2f0fe03fb954a4f430ab897dce1cdfbdc"
+        },
+        {
+          "question_text": "‘The findings should be interpreted “with caution”.’ Which response follows the advice?",
+          "explanation": "“With caution” nghĩa là cẩn trọng, chẳng hạn chưa vội khẳng định kết luận.",
+          "translation": "Cần thận trọng khi diễn giải kết quả. Cách nào làm theo lời khuyên?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Treat the sample as representing everyone."
+            },
+            {
+              "key": "B",
+              "text": "Assume the findings prove the theory."
+            },
+            {
+              "key": "C",
+              "text": "Ignore the sample's limitations."
+            },
+            {
+              "key": "D",
+              "text": "Be careful about drawing firm conclusions."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "e0876bad0bdecb7bea92e9ed5454776d2f398bf4"
+        },
+        {
+          "question_text": "Passenger numbers have ___ levels last seen before the station closed. They are now even higher than that old peak.",
+          "explanation": "“Surpass” là vượt qua một mốc so sánh.",
+          "translation": "Số hành khách đã vượt mức trước khi ga đóng cửa. Hiện số đó còn cao hơn cả đỉnh cũ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fallen below"
+            },
+            {
+              "key": "B",
+              "text": "matched"
+            },
+            {
+              "key": "C",
+              "text": "maintained"
+            },
+            {
+              "key": "D",
+              "text": "surpassed"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8ea11c91b1ce70e69b49f3ee5d5e6235c2898526"
+        },
+        {
+          "question_text": "Thanks to the new lighting, the photos are clear. We no longer have to ___ on a long exposure.",
+          "explanation": "“Rely on” là dựa vào một thứ để đạt kết quả cần thiết.",
+          "translation": "Nhờ hệ thống đèn mới, ảnh đã rõ. Chúng tôi không còn phải dựa vào thời gian phơi sáng dài.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reflect"
+            },
+            {
+              "key": "B",
+              "text": "insist"
+            },
+            {
+              "key": "C",
+              "text": "report"
+            },
+            {
+              "key": "D",
+              "text": "rely"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "3361398b41022dc86e8577154a0684032105ffcd"
+        },
+        {
+          "question_text": "‘Their repairs are a “stopgap”.’ What does this suggest?",
+          "explanation": "“Stopgap” là biện pháp dùng tạm khi chưa có giải pháp lâu dài.",
+          "translation": "Việc sửa chữa của họ chỉ là giải pháp tạm thời. Điều đó cho thấy gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A more lasting fix is still needed."
+            },
+            {
+              "key": "B",
+              "text": "The repairs made the problem impossible to fix."
+            },
+            {
+              "key": "C",
+              "text": "The repairs were carried out years in advance."
+            },
+            {
+              "key": "D",
+              "text": "The problem has been solved permanently."
+            }
+          ],
+          "correct_answer": "A",
+          "number": 41,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d2e6675aefc571618bd0c3ec7c215b499203b654"
+        },
+        {
+          "question_text": "The instructor stressed the ___ of recording results as they occurred instead of relying on memory.",
+          "explanation": "“Stress the importance of” là nhấn mạnh điều gì đáng được coi trọng.",
+          "translation": "Giảng viên nhấn mạnh tầm quan trọng của việc ghi kết quả ngay khi có thay vì dựa vào trí nhớ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "likelihood"
+            },
+            {
+              "key": "B",
+              "text": "impossibility"
+            },
+            {
+              "key": "C",
+              "text": "importance"
+            },
+            {
+              "key": "D",
+              "text": "absence"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 42,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7575d6714e4a28d31e1d5063b547fc0069ccd2d2"
+        },
+        {
+          "question_text": "The two figures look similar at first. A closer inspection reveals a ___ difference in the colour of the lower panel.",
+          "explanation": "“Subtle” chỉ sự khác biệt tinh tế, khó nhận ra nếu không chú ý.",
+          "translation": "Hai hình thoạt nhìn giống nhau. Xem kỹ mới thấy khác biệt nhỏ ở màu mảng dưới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unmistakable"
+            },
+            {
+              "key": "B",
+              "text": "dramatic"
+            },
+            {
+              "key": "C",
+              "text": "subtle"
+            },
+            {
+              "key": "D",
+              "text": "massive"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 43,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "4e5a6da49c5a3abfedbe9d8059e8ae3032fb888f"
+        },
+        {
+          "question_text": "Which is closest to ‘The café is “within walking distance” of the station’?",
+          "explanation": "“Within walking distance” chỉ khoảng cách đủ gần để đi bộ thuận tiện.",
+          "translation": "Cách nói nào gần nhất với câu “Quán cà phê cách ga một đoạn có thể đi bộ”?",
+          "options": [
+            {
+              "key": "A",
+              "text": "You can walk only as far as the station."
+            },
+            {
+              "key": "B",
+              "text": "The café is inside the station building."
+            },
+            {
+              "key": "C",
+              "text": "The café provides a regular bus service to the station."
+            },
+            {
+              "key": "D",
+              "text": "You can reach the café from the station on foot without going far."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 44,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ebbbd25885ea77631399ce9045d7935780024a27"
+        },
+        {
+          "question_text": "The editor ___ the author's original meaning even though she made the wording simpler.",
+          "explanation": "“Preserve” nghĩa là giữ cho điều gốc không bị mất hoặc thay đổi.",
+          "translation": "Biên tập viên giữ nguyên ý của tác giả dù đơn giản hóa câu chữ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "distorted"
+            },
+            {
+              "key": "B",
+              "text": "preserved"
+            },
+            {
+              "key": "C",
+              "text": "reversed"
+            },
+            {
+              "key": "D",
+              "text": "obscured"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 45,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "9642dcef56fbe3476c04319ebb1b0a6b1af68a4c"
+        },
+        {
+          "question_text": "Several community groups managed to ___ forces and organise one festival instead of separate events.",
+          "explanation": "“Join forces” nghĩa là kết hợp nỗ lực để cùng làm.",
+          "translation": "Một số nhóm cộng đồng hợp sức tổ chức một lễ hội chung thay vì các sự kiện riêng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "turn"
+            },
+            {
+              "key": "B",
+              "text": "draw"
+            },
+            {
+              "key": "C",
+              "text": "join"
+            },
+            {
+              "key": "D",
+              "text": "hold"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 46,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7b5fe0bdd8dfa4f1deef520b31d4842d54b3c0ab"
+        },
+        {
+          "question_text": "‘The drop in traffic was “attributed to” the school holidays.’ What does the sentence claim?",
+          "explanation": "“Attribute A to B” là cho rằng B gây ra A.",
+          "translation": "Lưu lượng xe giảm được cho là do kỳ nghỉ của trường. Câu đó nêu điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The drop was measured only after the holidays ended."
+            },
+            {
+              "key": "B",
+              "text": "The drop was thought to cause the holidays."
+            },
+            {
+              "key": "C",
+              "text": "The holidays were cancelled because of traffic."
+            },
+            {
+              "key": "D",
+              "text": "The holidays were thought to cause the drop."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 47,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "938448cc362d7e427b3c0eed6a53e24bc808dff8"
+        },
+        {
+          "question_text": "The redesign was costly, but its benefits are expected to ___ the expense in the long run.",
+          "explanation": "“Outweigh” là có giá trị hoặc tầm quan trọng lớn hơn khi cân nhắc hai mặt.",
+          "translation": "Thiết kế lại tốn kém nhưng về lâu dài lợi ích dự kiến sẽ lớn hơn chi phí.",
+          "options": [
+            {
+              "key": "A",
+              "text": "outweigh"
+            },
+            {
+              "key": "B",
+              "text": "hide"
+            },
+            {
+              "key": "C",
+              "text": "increase"
+            },
+            {
+              "key": "D",
+              "text": "equal"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 48,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "f0c6ad9a0ea510ce9fef641365afcf805f4b135d"
+        },
+        {
+          "question_text": "The landlord's new payment plan should ___ the pressure on tenants who cannot pay in one instalment.",
+          "explanation": "“Ease pressure” là làm sức ép nhẹ bớt.",
+          "translation": "Kế hoạch thanh toán mới của chủ nhà sẽ giảm áp lực cho người thuê không thể trả một lần.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ease"
+            },
+            {
+              "key": "B",
+              "text": "intensify"
+            },
+            {
+              "key": "C",
+              "text": "measure"
+            },
+            {
+              "key": "D",
+              "text": "spread to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 49,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "b37778a90bafa5b8d37a194412f1f7ec5df6ef18"
+        },
+        {
+          "question_text": "The organisers have a main staffing schedule and a backup if demand is higher than forecast. What kind of plan is the backup?",
+          "explanation": "“Contingency plan” là phương án dự phòng cho một tình huống có thể phát sinh.",
+          "translation": "Ban tổ chức có lịch nhân sự chính và phương án dự phòng nếu nhu cầu cao hơn dự báo. Phương án dự phòng thuộc loại kế hoạch nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A retrospective plan."
+            },
+            {
+              "key": "B",
+              "text": "A routine staffing plan."
+            },
+            {
+              "key": "C",
+              "text": "A long-term recruitment plan."
+            },
+            {
+              "key": "D",
+              "text": "A contingency plan."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 50,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ad4e3cd352ce30902a62c391b507a53b05712817"
+        }
+      ]
+    }
+  ]
+}

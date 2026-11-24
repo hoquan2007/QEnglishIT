@@ -1,0 +1,664 @@
+{
+  "slug": "qe-p6-003",
+  "title": "TOEIC Part 6 – Text Completion 03 (Operations and Service Updates)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part6",
+    "operations",
+    "training",
+    "logistics",
+    "hospitality"
+  ],
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "groups": [
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "To: New regional coordinators\nFrom: People Operations\nSubject: First-week mentoring schedule\n\nEach new coordinator will be paired with an experienced colleague for the first five working days. Please contact your assigned mentor -------(1)------- Monday morning to confirm where you will meet. The first session will focus on the regional reporting dashboard and the weekly planning routine.\n\nMentors have been asked to reserve one hour each afternoon for questions. -------(2)------- This arrangement should help new coordinators resolve small issues without waiting for the next formal training session.\n\nOn Thursday, all new coordinators will join a virtual workshop on handling schedule changes. The workshop link will be sent automatically, so no separate registration is -------(3)-------. If you cannot attend, inform People Operations as early as possible so that an alternative session can be -------(4)-------.",
+      "passage_vi": "Đến các điều phối viên khu vực mới\nTừ Bộ phận nhân sự\nChủ đề lịch cố vấn trong tuần đầu\n\nMỗi điều phối viên mới sẽ được ghép với một đồng nghiệp có kinh nghiệm trong năm ngày làm việc đầu tiên. Vui lòng liên hệ người cố vấn được phân công trước sáng thứ Hai để xác nhận nơi gặp. Buổi đầu sẽ tập trung vào bảng điều khiển báo cáo khu vực và quy trình lập kế hoạch hằng tuần.\n\nCác cố vấn được yêu cầu dành một giờ mỗi buổi chiều để giải đáp câu hỏi. Người mới có thể ghi lại các vấn đề phát sinh trong ngày và trao đổi vào khung giờ này. Cách sắp xếp này sẽ giúp điều phối viên mới giải quyết các vấn đề nhỏ mà không phải chờ buổi đào tạo chính thức tiếp theo.\n\nVào thứ Năm, tất cả điều phối viên mới sẽ tham gia hội thảo trực tuyến về xử lý thay đổi lịch. Liên kết hội thảo sẽ được gửi tự động nên không cần đăng ký riêng. Nếu không thể tham dự, hãy báo cho Bộ phận nhân sự sớm nhất có thể để sắp xếp một buổi thay thế.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(1)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "before"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "beside"
+            },
+            {
+              "key": "D",
+              "text": "throughout"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Before Monday morning diễn tả hạn liên hệ trước thời điểm sáng thứ Hai.",
+          "translation": "Chỗ trống (1). (A) trước. (B) giữa, trong số. (C) bên cạnh. (D) xuyên suốt.",
+          "difficulty": 3,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(2)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The dashboard will be replaced with a paper form next month."
+            },
+            {
+              "key": "B",
+              "text": "New coordinators can note issues during the day and discuss them during that time."
+            },
+            {
+              "key": "C",
+              "text": "Regional offices are closed every Thursday afternoon."
+            },
+            {
+              "key": "D",
+              "text": "Mentors are responsible for approving all travel expenses."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cụm during that time nối trực tiếp với một giờ mỗi buổi chiều ở câu trước và giải thích công dụng của khung giờ hỏi đáp.",
+          "translation": "Chỗ trống (2). (A) Bảng điều khiển sẽ được thay bằng biểu mẫu giấy vào tháng tới. (B) Điều phối viên mới có thể ghi lại vấn đề trong ngày và trao đổi trong khung giờ đó. (C) Văn phòng khu vực đóng cửa mỗi chiều thứ Năm. (D) Người cố vấn chịu trách nhiệm duyệt mọi chi phí đi lại.",
+          "difficulty": 4,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(3)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "require"
+            },
+            {
+              "key": "B",
+              "text": "requiring"
+            },
+            {
+              "key": "C",
+              "text": "required"
+            },
+            {
+              "key": "D",
+              "text": "requirement"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau is cần phân từ required để tạo cấu trúc bị động no separate registration is required.",
+          "translation": "Chỗ trống (3). (A) yêu cầu, động từ nguyên mẫu. (B) đang yêu cầu. (C) được yêu cầu. (D) yêu cầu, danh từ.",
+          "difficulty": 3,
+          "tags": [
+            "verb-form"
+          ],
+          "skill_tags": [
+            "verb-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(4)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "measured"
+            },
+            {
+              "key": "B",
+              "text": "translated"
+            },
+            {
+              "key": "C",
+              "text": "borrowed"
+            },
+            {
+              "key": "D",
+              "text": "arranged"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Arrange a session là sắp xếp một buổi học hoặc cuộc họp, phù hợp với việc cần buổi thay thế.",
+          "translation": "Chỗ trống (4). (A) đo lường. (B) dịch. (C) mượn. (D) sắp xếp.",
+          "difficulty": 3,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "**Cold-storage inspection notice**\n\nOn 12 November, the west warehouse will undergo its annual temperature-control inspection. Normal receiving will continue, -------(5)------- drivers may experience short delays while inspectors test the loading-bay sensors.\n\nWarehouse staff should keep the marked inspection lanes clear from 8 A.M. until noon. Pallets waiting for quality checks should be placed in the temporary holding zone near Door 4. The zone is refrigerated and has been prepared -------(6)------- for this inspection.\n\n-------(7)------- The maintenance team will review every alert before normal sensor settings are restored. Employees should therefore avoid resetting alarms themselves during the inspection.\n\nThe inspection is expected to finish by 1 P.M. A supervisor will send a message when the warehouse can resume -------(8)------- receiving procedures.",
+      "passage_vi": "**Thông báo kiểm tra kho lạnh**\n\nNgày 12 tháng Mười Một, kho phía tây sẽ trải qua đợt kiểm tra hệ thống kiểm soát nhiệt độ hằng năm. Hoạt động nhận hàng bình thường vẫn tiếp tục, nhưng tài xế có thể chậm một chút trong lúc thanh tra kiểm tra cảm biến tại khu bốc dỡ.\n\nNhân viên kho phải giữ trống các làn được đánh dấu để kiểm tra từ 8 giờ đến trưa. Pa lét chờ kiểm tra chất lượng nên được đặt tại khu giữ tạm gần Cửa 4. Khu này được làm lạnh và đã được chuẩn bị riêng cho đợt kiểm tra.\n\nTrong quá trình kiểm tra, một số cảnh báo nhiệt độ có thể xuất hiện trên bảng điều khiển dù hàng hóa vẫn nằm trong giới hạn an toàn. Đội bảo trì sẽ xem xét từng cảnh báo trước khi khôi phục cài đặt cảm biến bình thường. Vì vậy nhân viên không nên tự đặt lại cảnh báo trong thời gian kiểm tra.\n\nĐợt kiểm tra dự kiến kết thúc trước 13 giờ. Một giám sát viên sẽ gửi tin nhắn khi kho có thể quay lại quy trình nhận hàng thông thường.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(5)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "but"
+            },
+            {
+              "key": "C",
+              "text": "therefore"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hai vế đối lập nhau. Nhận hàng vẫn tiếp tục nhưng có thể phát sinh chậm trễ.",
+          "translation": "Chỗ trống (5). (A) trừ khi. (B) nhưng. (C) vì vậy. (D) bởi vì.",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(6)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "specifically"
+            },
+            {
+              "key": "B",
+              "text": "specific"
+            },
+            {
+              "key": "C",
+              "text": "specification"
+            },
+            {
+              "key": "D",
+              "text": "specify"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cần trạng từ specifically bổ nghĩa cho has been prepared để diễn tả khu vực được chuẩn bị riêng cho đợt kiểm tra.",
+          "translation": "Chỗ trống (6). (A) cụ thể, riêng cho. (B) cụ thể, tính từ. (C) thông số kỹ thuật. (D) chỉ rõ.",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(7)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The warehouse will stop accepting all deliveries for the rest of the week."
+            },
+            {
+              "key": "B",
+              "text": "Inspectors will replace every refrigerated pallet in the west warehouse."
+            },
+            {
+              "key": "C",
+              "text": "Drivers should reset the loading-bay sensors whenever an alert appears."
+            },
+            {
+              "key": "D",
+              "text": "During testing, some temperature alerts may appear on the dashboard even when stored goods remain within safe limits."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu sau nhắc đội bảo trì xem xét every alert, nên câu chèn phải giới thiệu khả năng xuất hiện cảnh báo trong lúc kiểm tra.",
+          "translation": "Chỗ trống (7). (A) Kho sẽ ngừng nhận mọi chuyến hàng trong phần còn lại của tuần. (B) Thanh tra sẽ thay mọi pa lét lạnh trong kho phía tây. (C) Tài xế nên đặt lại cảm biến mỗi khi có cảnh báo. (D) Trong lúc thử, một số cảnh báo nhiệt độ có thể xuất hiện dù hàng hóa vẫn trong giới hạn an toàn.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(8)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "routines"
+            },
+            {
+              "key": "B",
+              "text": "routinely"
+            },
+            {
+              "key": "C",
+              "text": "routine"
+            },
+            {
+              "key": "D",
+              "text": "routine's"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trong cụm resume routine receiving procedures, routine là tính từ bổ nghĩa cho receiving procedures.",
+          "translation": "Chỗ trống (8). (A) các quy trình. (B) một cách thường lệ. (C) thông thường, tính từ. (D) của quy trình.",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "**Community solar project reaches installation stage**\n\nAfter six months of site surveys and permit reviews, Greenline Cooperative will begin installing rooftop solar panels on three neighborhood service buildings next week. The first shipment of mounting equipment arrived Monday and was inspected -------(9)------- it entered storage.\n\nInstallation will start at the health center because its roof work was completed ahead of schedule. Crews will then move to the library and the recreation hall. -------(10)------- This sequence allows the same lifting equipment to be used at all three locations without an extra rental period.\n\nThe cooperative expects installation to take four weeks. Weather delays have been included in the schedule, so the project manager is -------(11)------- that the final inspection can still occur before the end of the month.\n\nOnce each system passes inspection, electricity production will be tracked online. The cooperative plans to publish monthly reports showing -------(12)------- power each building generates.",
+      "passage_vi": "**Dự án điện mặt trời cộng đồng bước vào giai đoạn lắp đặt**\n\nSau sáu tháng khảo sát địa điểm và xem xét giấy phép, Greenline Cooperative sẽ bắt đầu lắp các tấm pin mặt trời trên mái ba tòa nhà dịch vụ cộng đồng vào tuần tới. Lô thiết bị gắn đầu tiên đã đến vào thứ Hai và được kiểm tra trước khi đưa vào kho.\n\nViệc lắp đặt sẽ bắt đầu tại trung tâm y tế vì công việc trên mái ở đó hoàn tất sớm hơn kế hoạch. Sau đó đội thi công sẽ chuyển đến thư viện và nhà sinh hoạt cộng đồng. Cần cẩu sẽ được chuyển cùng đội thi công sau khi hoàn tất từng địa điểm. Trình tự này cho phép dùng cùng thiết bị nâng tại cả ba nơi mà không cần thuê thêm thời gian.\n\nHợp tác xã dự kiến việc lắp đặt kéo dài bốn tuần. Lịch đã tính cả chậm trễ do thời tiết nên quản lý dự án tin tưởng rằng việc kiểm tra cuối cùng vẫn có thể diễn ra trước cuối tháng.\n\nSau khi mỗi hệ thống vượt qua kiểm tra, sản lượng điện sẽ được theo dõi trực tuyến. Hợp tác xã dự định công bố báo cáo hằng tháng cho biết mỗi tòa nhà tạo ra bao nhiêu điện.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(9)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "before"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Thiết bị được kiểm tra trước khi được đưa vào kho, nên before phù hợp với trình tự hành động.",
+          "translation": "Chỗ trống (9). (A) mặc dù. (B) trừ khi. (C) trước khi. (D) mặc dù, bất chấp.",
+          "difficulty": 3,
+          "tags": [
+            "connector"
+          ],
+          "skill_tags": [
+            "connector"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(10)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The library has canceled all community programs for the year."
+            },
+            {
+              "key": "B",
+              "text": "Each building will purchase a different type of lifting equipment."
+            },
+            {
+              "key": "C",
+              "text": "The cooperative will store the panels at the recreation hall indefinitely."
+            },
+            {
+              "key": "D",
+              "text": "The crane will move with the installation crew after work is completed at each site."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu sau nói cùng thiết bị nâng được dùng ở cả ba địa điểm, nên câu chèn phải giải thích thiết bị sẽ di chuyển theo đội thi công.",
+          "translation": "Chỗ trống (10). (A) Thư viện đã hủy mọi chương trình cộng đồng trong năm. (B) Mỗi tòa nhà sẽ mua thiết bị nâng khác nhau. (C) Hợp tác xã sẽ lưu các tấm pin tại nhà sinh hoạt cộng đồng vô thời hạn. (D) Cần cẩu sẽ di chuyển cùng đội lắp đặt sau khi hoàn tất từng địa điểm.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(11)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "confident"
+            },
+            {
+              "key": "B",
+              "text": "confidence"
+            },
+            {
+              "key": "C",
+              "text": "confidently"
+            },
+            {
+              "key": "D",
+              "text": "confide"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau is cần tính từ confident, theo sau bởi mệnh đề that.",
+          "translation": "Chỗ trống (11). (A) tự tin. (B) sự tự tin. (C) một cách tự tin. (D) tâm sự.",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(12)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "whether"
+            },
+            {
+              "key": "B",
+              "text": "how much"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Power là danh từ không đếm được nên how much power diễn tả lượng điện mỗi tòa nhà tạo ra.",
+          "translation": "Chỗ trống (12). (A) liệu rằng. (B) bao nhiêu. (C) người mà. (D) ở đâu.",
+          "difficulty": 4,
+          "tags": [
+            "quantifier"
+          ],
+          "skill_tags": [
+            "quantifier"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Choose the best word, phrase, or sentence for each numbered blank.",
+      "passage": "Dear event coordinator,\n\nThank you for choosing the Riverside Hotel for your October leadership meeting. We have reviewed the room setup you submitted and can provide the requested U-shaped table arrangement. The meeting room is currently being renovated, but the work is scheduled to finish -------(13)------- three days before your event.\n\nOur audiovisual team will install the presentation screen and two wireless microphones the evening before the meeting. -------(14)------- This gives your presenter time to confirm that the slides, sound, and remote control are working as expected.\n\nYou also asked whether coffee can be available before registration begins. We can open the refreshment station at 7:30 A.M., which is thirty minutes -------(15)------- than the standard service time. There is no additional room charge for this change.\n\nPlease send the final attendance number by 5 October. We use that figure to prepare seating and to make the catering order as -------(16)------- as possible.",
+      "passage_vi": "Kính gửi điều phối viên sự kiện\n\nCảm ơn quý vị đã chọn Riverside Hotel cho cuộc họp lãnh đạo vào tháng Mười. Chúng tôi đã xem cách bố trí phòng quý vị gửi và có thể cung cấp bàn hình chữ U theo yêu cầu. Phòng họp hiện đang được cải tạo nhưng công việc dự kiến hoàn tất sớm hơn sự kiện ba ngày.\n\nĐội nghe nhìn sẽ lắp màn hình trình chiếu và hai micro không dây vào tối trước cuộc họp. Sáng hôm sau, một kỹ thuật viên sẽ có mặt từ 7 giờ 45 để hỗ trợ kiểm tra thiết bị cuối cùng. Việc này giúp người thuyết trình có thời gian xác nhận slide, âm thanh và điều khiển từ xa hoạt động đúng.\n\nQuý vị cũng hỏi liệu cà phê có thể sẵn sàng trước khi đăng ký bắt đầu hay không. Chúng tôi có thể mở quầy đồ uống lúc 7 giờ 30, sớm hơn giờ phục vụ tiêu chuẩn ba mươi phút. Thay đổi này không làm tăng phí phòng.\n\nVui lòng gửi số người tham dự cuối cùng trước ngày 5 tháng Mười. Chúng tôi dùng con số đó để chuẩn bị chỗ ngồi và đặt suất ăn chính xác nhất có thể.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(13)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "during"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "through"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "By three days before your event diễn tả hạn hoàn tất muộn nhất là trước sự kiện ba ngày.",
+          "translation": "Chỗ trống (13). (A) trong suốt. (B) giữa, trong số. (C) xuyên qua. (D) vào thời điểm không muộn hơn.",
+          "difficulty": 4,
+          "tags": [
+            "preposition"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 6,
+          "question_type": "sentence_insert",
+          "question_text": "-------(14)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "The hotel will close the meeting room immediately after installation."
+            },
+            {
+              "key": "B",
+              "text": "The presenter must bring a separate screen from another venue."
+            },
+            {
+              "key": "C",
+              "text": "A technician will be available from 7:45 the next morning to assist with a final equipment check."
+            },
+            {
+              "key": "D",
+              "text": "The wireless microphones cannot be tested until after the meeting begins."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu sau nói người thuyết trình có thời gian kiểm tra slide và âm thanh, nên câu chèn hợp lý là kỹ thuật viên hỗ trợ kiểm tra thiết bị trước cuộc họp.",
+          "translation": "Chỗ trống (14). (A) Khách sạn sẽ đóng phòng ngay sau khi lắp đặt. (B) Người thuyết trình phải mang màn hình riêng từ địa điểm khác. (C) Kỹ thuật viên sẽ có mặt từ 7 giờ 45 sáng hôm sau để hỗ trợ kiểm tra thiết bị cuối cùng. (D) Micro không dây chỉ được kiểm tra sau khi cuộc họp bắt đầu.",
+          "difficulty": 5,
+          "tags": [
+            "sentence-insertion"
+          ],
+          "skill_tags": [
+            "sentence-insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(15)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "earliest"
+            },
+            {
+              "key": "B",
+              "text": "earlier"
+            },
+            {
+              "key": "C",
+              "text": "early"
+            },
+            {
+              "key": "D",
+              "text": "earliness"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cấu trúc thirty minutes earlier than dùng dạng so sánh hơn để so với giờ phục vụ tiêu chuẩn.",
+          "translation": "Chỗ trống (15). (A) sớm nhất. (B) sớm hơn. (C) sớm. (D) sự sớm.",
+          "difficulty": 3,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "-------(16)-------",
+          "options": [
+            {
+              "key": "A",
+              "text": "accurately"
+            },
+            {
+              "key": "B",
+              "text": "accuracy"
+            },
+            {
+              "key": "C",
+              "text": "accurate"
+            },
+            {
+              "key": "D",
+              "text": "accuracies"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Trong cấu trúc make the catering order as accurately as possible, trạng từ accurately bổ nghĩa cho động từ make.",
+          "translation": "Chỗ trống (16). (A) một cách chính xác. (B) độ chính xác. (C) chính xác, tính từ. (D) các mức độ chính xác.",
+          "difficulty": 4,
+          "tags": [
+            "word-form"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

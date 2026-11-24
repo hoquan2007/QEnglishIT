@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-800-001",
+  "title": "Kiểm tra ngữ pháp 800 – 4",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 4,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The committee reached a final ------- to relocate the archive.",
+          "explanation": "Sau a final cần danh từ decision và dùng decision to + V.",
+          "translation": "Ủy ban đi đến quyết định cuối cùng là chuyển kho lưu trữ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "decision"
+            },
+            {
+              "key": "B",
+              "text": "decide"
+            },
+            {
+              "key": "C",
+              "text": "decisive"
+            },
+            {
+              "key": "D",
+              "text": "deciding"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "074c8fac8dc40a8c79044c5edc0f5795cf515bc7"
+        },
+        {
+          "question_text": "The sudden ------- of the service affected many users.",
+          "explanation": "Sau sudden cần danh từ failure, diễn tả sự cố.",
+          "translation": "Việc dịch vụ đột ngột ngừng hoạt động ảnh hưởng đến nhiều người dùng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "failure"
+            },
+            {
+              "key": "B",
+              "text": "fail"
+            },
+            {
+              "key": "C",
+              "text": "failing"
+            },
+            {
+              "key": "D",
+              "text": "failedness"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "095f60c7a5f40f928ba0277e435fe0b15bfd9525"
+        },
+        {
+          "question_text": "The repairs seem ------- complete by Friday.",
+          "explanation": "Seem + likely + to be là chuỗi cấu trúc chuẩn.",
+          "translation": "Việc sửa chữa dường như có khả năng hoàn thành vào thứ Sáu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "likely being"
+            },
+            {
+              "key": "B",
+              "text": "like to been"
+            },
+            {
+              "key": "C",
+              "text": "likelihood be"
+            },
+            {
+              "key": "D",
+              "text": "likely to be"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "09b32064b7512adebe46a3f086fcdb0391cbae3e"
+        },
+        {
+          "question_text": "The increase may be linked ------- the holiday season.",
+          "explanation": "Be linked to là cụm diễn tả mối liên hệ, có sắc thái thận trọng.",
+          "translation": "Mức tăng có thể liên quan đến mùa nghỉ lễ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0a519afa14e57ffdc5eaba84a1605044dddb7698"
+        },
+        {
+          "question_text": "The review highlighted the need for ------- in data accuracy.",
+          "explanation": "For cần danh từ improvement, tiếp theo in chỉ khía cạnh thay đổi.",
+          "translation": "Đợt rà soát nhấn mạnh nhu cầu cải thiện độ chính xác dữ liệu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "improve"
+            },
+            {
+              "key": "B",
+              "text": "improvingly"
+            },
+            {
+              "key": "C",
+              "text": "improvement"
+            },
+            {
+              "key": "D",
+              "text": "improved"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1381e1ce23066c76bec5d7ddf4a251aaed6b1e7c"
+        },
+        {
+          "question_text": "Approximately half the participants ------- satisfied with the trial.",
+          "explanation": "Participants là danh từ số nhiều, dùng were trong quá khứ.",
+          "translation": "Khoảng một nửa số người tham gia hài lòng với đợt thử nghiệm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "being"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1a967fe7c189a0af44668a072b65ac7273cf66c6"
+        },
+        {
+          "question_text": "The company measured the ------- of the new process.",
+          "explanation": "Sau the cần danh từ trừu tượng efficiency of.",
+          "translation": "Công ty đo lường hiệu quả của quy trình mới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "efficient"
+            },
+            {
+              "key": "B",
+              "text": "efficiently"
+            },
+            {
+              "key": "C",
+              "text": "inefficiently"
+            },
+            {
+              "key": "D",
+              "text": "efficiency"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1fb5e9cf0d984498e10441c916cd05f0c8610712"
+        },
+        {
+          "question_text": "The new filter is ------- to prevent every possible fault.",
+          "explanation": "Sau is dùng tính từ unlikely + to V.",
+          "translation": "Bộ lọc mới khó có khả năng ngăn được mọi lỗi có thể xảy ra.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unlikely be"
+            },
+            {
+              "key": "B",
+              "text": "unlikely"
+            },
+            {
+              "key": "C",
+              "text": "unlikely being"
+            },
+            {
+              "key": "D",
+              "text": "unlikelyness"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "25d2376ecea4dbde5a633e06ec196c2f3b662dfd"
+        },
+        {
+          "question_text": "The ------- to the new guidelines was completed in May.",
+          "explanation": "The + danh từ revision to + tài liệu được sửa.",
+          "translation": "Việc sửa đổi các hướng dẫn mới được hoàn tất vào tháng Năm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "revise"
+            },
+            {
+              "key": "B",
+              "text": "revision"
+            },
+            {
+              "key": "C",
+              "text": "revising"
+            },
+            {
+              "key": "D",
+              "text": "revised"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "29657638fc860e2077e258562d46ecba177ced6c"
+        },
+        {
+          "question_text": "The effect is difficult to measure and cannot be ruled -------.",
+          "explanation": "Cụm cố định rule out diễn tả loại trừ khả năng.",
+          "translation": "Tác động này khó đo lường và chưa thể bị loại trừ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "off"
+            },
+            {
+              "key": "B",
+              "text": "up"
+            },
+            {
+              "key": "C",
+              "text": "out"
+            },
+            {
+              "key": "D",
+              "text": "over"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2d8478fb5c048c605dac05fc9820d8226ff289f4"
+        },
+        {
+          "question_text": "The manager asked for an ------- of the delay.",
+          "explanation": "An + danh từ explanation, thường đi với of trong ngữ cảnh này.",
+          "translation": "Quản lý yêu cầu lời giải thích về sự chậm trễ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "explain"
+            },
+            {
+              "key": "B",
+              "text": "explanatory"
+            },
+            {
+              "key": "C",
+              "text": "explainingly"
+            },
+            {
+              "key": "D",
+              "text": "explanation"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2ec4444847c170a5d88b31c663c07b19511dc592"
+        },
+        {
+          "question_text": "The ------- of the safety policy began on Monday.",
+          "explanation": "Sau The cần danh từ quá trình implementation đi với of.",
+          "translation": "Việc triển khai chính sách an toàn bắt đầu vào thứ Hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "implement"
+            },
+            {
+              "key": "B",
+              "text": "implementation"
+            },
+            {
+              "key": "C",
+              "text": "implementingly"
+            },
+            {
+              "key": "D",
+              "text": "implementative"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "314f38a61bcf2aad41fb1d44b67ea0fa865467ed"
+        },
+        {
+          "question_text": "The delivery ------- likely to arrive before noon.",
+          "explanation": "Chủ ngữ delivery số ít cần is likely to.",
+          "translation": "Lô hàng có khả năng đến trước trưa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "being"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "32db2c65eb409ec81086f4ee54e641388b5eea34"
+        },
+        {
+          "question_text": "This change is likely ------- costs in the short term.",
+          "explanation": "Is likely phải đi với to + nguyên mẫu increase.",
+          "translation": "Thay đổi này có khả năng làm tăng chi phí trong ngắn hạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to increase"
+            },
+            {
+              "key": "B",
+              "text": "increasing"
+            },
+            {
+              "key": "C",
+              "text": "increase to"
+            },
+            {
+              "key": "D",
+              "text": "increased to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3f382efd0577a87abf236354856b02bf00d28697"
+        },
+        {
+          "question_text": "The inspection confirmed compliance ------- all fire regulations.",
+          "explanation": "Compliance with + quy định là kết hợp chuẩn.",
+          "translation": "Đợt kiểm tra xác nhận việc tuân thủ mọi quy định phòng cháy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "of"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "44643c7df0f03f02787a0d74e638cdd6288a7955"
+        },
+        {
+          "question_text": "The new training program ------- improve staff confidence.",
+          "explanation": "Động từ khuyết thiếu may đứng trước nguyên mẫu improve.",
+          "translation": "Chương trình đào tạo mới có thể cải thiện sự tự tin của nhân viên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "may"
+            },
+            {
+              "key": "B",
+              "text": "may to"
+            },
+            {
+              "key": "C",
+              "text": "may be to"
+            },
+            {
+              "key": "D",
+              "text": "may improving"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "62fbfe0571caee39e4251475a8468b5b05c28978"
+        },
+        {
+          "question_text": "The report is thought ------- several useful insights.",
+          "explanation": "Cấu trúc bị động is thought to + nguyên mẫu contain.",
+          "translation": "Người ta cho rằng báo cáo chứa một số hiểu biết hữu ích.",
+          "options": [
+            {
+              "key": "A",
+              "text": "containing"
+            },
+            {
+              "key": "B",
+              "text": "to contain"
+            },
+            {
+              "key": "C",
+              "text": "contain to"
+            },
+            {
+              "key": "D",
+              "text": "contained"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "6e04cbf3ae944958d39f3f79878490f8264b7533"
+        },
+        {
+          "question_text": "The original forecast may ------- too optimistic.",
+          "explanation": "May have been diễn đạt phỏng đoán thận trọng về quá khứ.",
+          "translation": "Dự báo ban đầu có thể đã quá lạc quan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been"
+            },
+            {
+              "key": "B",
+              "text": "have be"
+            },
+            {
+              "key": "C",
+              "text": "having been"
+            },
+            {
+              "key": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "79613ede883a6bcae10d125ff2bb5fc5bb227830"
+        },
+        {
+          "question_text": "Upon ------- of the review, the files were archived.",
+          "explanation": "Upon + danh từ completion of dùng trong văn phong trang trọng.",
+          "translation": "Sau khi hoàn tất việc rà soát, các hồ sơ được lưu trữ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "complete"
+            },
+            {
+              "key": "B",
+              "text": "completing"
+            },
+            {
+              "key": "C",
+              "text": "completion"
+            },
+            {
+              "key": "D",
+              "text": "completed"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "7a0099ed25a54fd1dd520844c6d16f04679f5408"
+        },
+        {
+          "question_text": "The figures ------- that weekend demand is increasing.",
+          "explanation": "Figures là chủ ngữ số nhiều, dùng suggest that.",
+          "translation": "Các con số gợi ý rằng nhu cầu cuối tuần đang tăng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "suggests"
+            },
+            {
+              "key": "B",
+              "text": "suggesting"
+            },
+            {
+              "key": "C",
+              "text": "suggest"
+            },
+            {
+              "key": "D",
+              "text": "suggestion"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "7a3333cdb2a6ddf4f7009749d1ceefcdd531fc4f"
+        },
+        {
+          "question_text": "The two changes may be associated ------- higher sales.",
+          "explanation": "Cấu trúc be associated with chỉ mối liên hệ.",
+          "translation": "Hai thay đổi này có thể liên quan đến doanh số cao hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "with"
+            },
+            {
+              "key": "C",
+              "text": "of"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8c06c69d26d32143627bd8214bd09cf2e32bcedb"
+        },
+        {
+          "question_text": "The data suggest ------- customer preferences vary by region.",
+          "explanation": "Suggest that + mệnh đề customer preferences vary.",
+          "translation": "Dữ liệu gợi ý rằng sở thích khách hàng khác nhau giữa các vùng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "as to"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8fabbed925d76bea0da2e6c0150cb99673f0d5ec"
+        },
+        {
+          "question_text": "The team requested ------- for the revised budget.",
+          "explanation": "Request là động từ, tân ngữ cần danh từ approval.",
+          "translation": "Nhóm yêu cầu phê duyệt ngân sách đã chỉnh sửa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "approve"
+            },
+            {
+              "key": "B",
+              "text": "approved"
+            },
+            {
+              "key": "C",
+              "text": "approval"
+            },
+            {
+              "key": "D",
+              "text": "approvingly"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "93941f1a7e7d49c6ed1f1f8399b3baf15ef20cea"
+        },
+        {
+          "question_text": "A thorough ------- of the equipment is required.",
+          "explanation": "A thorough + danh từ assessment of.",
+          "translation": "Cần có sự đánh giá kỹ lưỡng đối với thiết bị.",
+          "options": [
+            {
+              "key": "A",
+              "text": "assess"
+            },
+            {
+              "key": "B",
+              "text": "assessable"
+            },
+            {
+              "key": "C",
+              "text": "assessing"
+            },
+            {
+              "key": "D",
+              "text": "assessment"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "98b48a9b4642e366dfd35590e05e3d1bfe88162d"
+        },
+        {
+          "question_text": "We received a formal request ------- additional documents.",
+          "explanation": "Request for + danh từ chỉ thứ được yêu cầu.",
+          "translation": "Chúng tôi nhận được yêu cầu chính thức về các tài liệu bổ sung.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "a16ba6c92ce53d26c9d85dbfbe3cb714a6bd82f8"
+        },
+        {
+          "question_text": "These costs tend ------- during the winter months.",
+          "explanation": "Tend đi với to + nguyên mẫu rise.",
+          "translation": "Các chi phí này có xu hướng tăng trong mùa đông.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to rise"
+            },
+            {
+              "key": "B",
+              "text": "rising"
+            },
+            {
+              "key": "C",
+              "text": "rise to"
+            },
+            {
+              "key": "D",
+              "text": "rose to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "a1c4cefdea3a52f10ae23e684e6b7031d1c158d9"
+        },
+        {
+          "question_text": "A quick ------- to the customer’s email prevented confusion.",
+          "explanation": "A quick đòi hỏi danh từ response và giới từ to.",
+          "translation": "Một phản hồi nhanh cho email của khách đã tránh gây nhầm lẫn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "respond"
+            },
+            {
+              "key": "B",
+              "text": "response"
+            },
+            {
+              "key": "C",
+              "text": "responsive"
+            },
+            {
+              "key": "D",
+              "text": "responding"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "a4354beed72e6a90b76fcf9b039781fa47359c4c"
+        },
+        {
+          "question_text": "The sample is small, so the result should be interpreted -------.",
+          "explanation": "Trạng từ cautiously bổ nghĩa cho interpreted.",
+          "translation": "Mẫu khảo sát nhỏ nên cần diễn giải kết quả một cách thận trọng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cautious"
+            },
+            {
+              "key": "B",
+              "text": "caution"
+            },
+            {
+              "key": "C",
+              "text": "cautiously"
+            },
+            {
+              "key": "D",
+              "text": "cautiousness"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "ae891d1b0a86e931d2a638728d73bf87c8d15c44"
+        },
+        {
+          "question_text": "The agency announced the ------- of a new recycling scheme.",
+          "explanation": "Sau the cần danh từ adoption, ghép với of.",
+          "translation": "Cơ quan thông báo việc áp dụng chương trình tái chế mới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "adopt"
+            },
+            {
+              "key": "B",
+              "text": "adopted"
+            },
+            {
+              "key": "C",
+              "text": "adopting"
+            },
+            {
+              "key": "D",
+              "text": "adoption"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b0bf6b73b771f40b715e72b20bf46a3a8a26a62f"
+        },
+        {
+          "question_text": "The report noted a decrease ------- electricity use.",
+          "explanation": "Decrease in chỉ đại lượng giảm.",
+          "translation": "Báo cáo ghi nhận sự giảm sút trong mức dùng điện.",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b43adffc541f919939c3d97dd4da609aa0df6ded"
+        },
+        {
+          "question_text": "There is some evidence to ------- that lighting affects concentration.",
+          "explanation": "Sau to là động từ nguyên mẫu suggest.",
+          "translation": "Có một số bằng chứng gợi ý rằng ánh sáng ảnh hưởng đến sự tập trung.",
+          "options": [
+            {
+              "key": "A",
+              "text": "suggesting"
+            },
+            {
+              "key": "B",
+              "text": "suggested"
+            },
+            {
+              "key": "C",
+              "text": "suggestion"
+            },
+            {
+              "key": "D",
+              "text": "suggest"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d164aa0d8ae9b5c76e4e16f094888df1ad5bf80e"
+        },
+        {
+          "question_text": "An independent ------- of the figures found two errors.",
+          "explanation": "Independent là tính từ, sau đó cần danh từ analysis of.",
+          "translation": "Một phân tích độc lập về các con số phát hiện hai lỗi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "analyze"
+            },
+            {
+              "key": "B",
+              "text": "analytical"
+            },
+            {
+              "key": "C",
+              "text": "analyzingly"
+            },
+            {
+              "key": "D",
+              "text": "analysis"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "d2c90dfd3e441554e830779f254ba9faa4d08e52"
+        },
+        {
+          "question_text": "The researchers discussed the ------- of their findings.",
+          "explanation": "The + danh từ significance of diễn tả tầm quan trọng.",
+          "translation": "Các nhà nghiên cứu thảo luận về ý nghĩa quan trọng của phát hiện.",
+          "options": [
+            {
+              "key": "A",
+              "text": "significance"
+            },
+            {
+              "key": "B",
+              "text": "significant"
+            },
+            {
+              "key": "C",
+              "text": "significantly"
+            },
+            {
+              "key": "D",
+              "text": "signify"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d4f5f696bb4e79ed31f5ecaafdb05e4701db8538"
+        },
+        {
+          "question_text": "The survey findings ------- to indicate a preference for flexible hours.",
+          "explanation": "Findings số nhiều nên dùng appear to indicate.",
+          "translation": "Kết quả khảo sát dường như cho thấy người tham gia thích giờ làm linh hoạt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "appear"
+            },
+            {
+              "key": "B",
+              "text": "appears"
+            },
+            {
+              "key": "C",
+              "text": "appearing"
+            },
+            {
+              "key": "D",
+              "text": "appearance"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "d71219dae1b16a018e9ee24a37da37e96855df91"
+        },
+        {
+          "question_text": "The director praised the staff’s ------- during the emergency.",
+          "explanation": "Sở hữu cách staff’s đứng trước danh từ performance.",
+          "translation": "Giám đốc khen ngợi phần thể hiện của nhân viên trong tình huống khẩn cấp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "perform"
+            },
+            {
+              "key": "B",
+              "text": "performance"
+            },
+            {
+              "key": "C",
+              "text": "performative"
+            },
+            {
+              "key": "D",
+              "text": "performing"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "f5a1c3d8e644b8dd33be91ddb48597642cb1e50c"
+        },
+        {
+          "question_text": "The ------- in demand led to a longer waiting list.",
+          "explanation": "The + danh từ increase in chỉ biến động về nhu cầu.",
+          "translation": "Mức tăng nhu cầu khiến danh sách chờ dài hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "increasingly"
+            },
+            {
+              "key": "B",
+              "text": "increasedly"
+            },
+            {
+              "key": "C",
+              "text": "increase"
+            },
+            {
+              "key": "D",
+              "text": "to increase"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/quiz",
+          "independent_review": "pending",
+          "fingerprint": "f7d736da7794d14392e2d2b0dfe32a0bc1aeb938"
+        },
+        {
+          "question_text": "There was a clear improvement ------- response time.",
+          "explanation": "Improvement in chỉ phương diện được cải thiện.",
+          "translation": "Đã có sự cải thiện rõ rệt về thời gian phản hồi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#nominalisation-in-formal-writing/exercises",
+          "independent_review": "pending",
+          "fingerprint": "f7f84edc6253250383c104cb4285eec813b75bfa"
+        },
+        {
+          "question_text": "Only a ------- small group completed the optional survey.",
+          "explanation": "Trạng từ relatively bổ nghĩa cho tính từ small.",
+          "translation": "Chỉ một nhóm tương đối nhỏ hoàn thành khảo sát tùy chọn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "relative"
+            },
+            {
+              "key": "B",
+              "text": "relatively"
+            },
+            {
+              "key": "C",
+              "text": "relation"
+            },
+            {
+              "key": "D",
+              "text": "relativeness"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "fd07466c83fe1cb9510247fdd3edb07366187ad9"
+        },
+        {
+          "question_text": "The sensor ------- to work better in cooler rooms.",
+          "explanation": "Sensor số ít dùng appears to work.",
+          "translation": "Cảm biến dường như hoạt động tốt hơn trong phòng mát.",
+          "options": [
+            {
+              "key": "A",
+              "text": "appears"
+            },
+            {
+              "key": "B",
+              "text": "appearing"
+            },
+            {
+              "key": "C",
+              "text": "appearance"
+            },
+            {
+              "key": "D",
+              "text": "appearances"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/quiz",
+          "independent_review": "pending",
+          "fingerprint": "fd4f93440f2ff7b604979b8dd22116d6b8300428"
+        },
+        {
+          "question_text": "The patterns could ------- seasonal demand.",
+          "explanation": "Sau could dùng động từ nguyên mẫu reflect.",
+          "translation": "Các mô hình có thể phản ánh nhu cầu theo mùa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to reflect"
+            },
+            {
+              "key": "B",
+              "text": "reflecting"
+            },
+            {
+              "key": "C",
+              "text": "reflected"
+            },
+            {
+              "key": "D",
+              "text": "reflect"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#hedging-and-cautious-claims/exercises",
+          "independent_review": "pending",
+          "fingerprint": "fe190646b78f14f14e444927e50beeed01b9322a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "slug": "qe-p5-004",
+  "content_path": "content/tests/toeic_part/qe-p5-004.json",
+  "title": "TOEIC Part 5 – Incomplete Sentences 04 (Travel and Hospitality)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "cefr": "B1",
+  "difficulty": 2,
+  "duration_minutes": 20,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part5",
+      "title": "Part 5 – Incomplete Sentences",
+      "parts": [
+        5
+      ],
+      "count": 40,
+      "minutes": 20
+    }
+  ],
+  "authoring_scope": "Forty original incomplete sentences, one question per group; questions numbered 1–40.",
+  "difficulty_rationale_vi": "Câu dùng bối cảnh đi lại, lưu trú và sự kiện để kiểm tra mẫu kết hợp và dấu hiệu ngữ pháp trong câu. Có một câu ở mức 3 về kết hợp từ trong ngữ cảnh quy hoạch dịch vụ.",
+  "topic_distribution": {
+    "agreement": 1,
+    "collocation": 3,
+    "connector": 4,
+    "determiner": 1,
+    "modifier": 1,
+    "preposition": 5,
+    "pronoun": 2,
+    "relative-clause": 3,
+    "tense": 3,
+    "verb-form": 3,
+    "vocabulary": 5,
+    "word-form": 9
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 5,
+      "category": "word-form",
+      "context": "airport shuttle",
+      "difficulty": 2
+    },
+    {
+      "number": 2,
+      "group_order": 2,
+      "part": 5,
+      "category": "verb-form",
+      "context": "guided tour staffing",
+      "difficulty": 2
+    },
+    {
+      "number": 3,
+      "group_order": 3,
+      "part": 5,
+      "category": "preposition",
+      "context": "room rates",
+      "difficulty": 2
+    },
+    {
+      "number": 4,
+      "group_order": 4,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "breakfast service",
+      "difficulty": 2
+    },
+    {
+      "number": 5,
+      "group_order": 5,
+      "part": 5,
+      "category": "connector",
+      "context": "terrace repairs",
+      "difficulty": 2
+    },
+    {
+      "number": 6,
+      "group_order": 6,
+      "part": 5,
+      "category": "word-form",
+      "context": "ticket line",
+      "difficulty": 2
+    },
+    {
+      "number": 7,
+      "group_order": 7,
+      "part": 5,
+      "category": "pronoun",
+      "context": "resort parking",
+      "difficulty": 2
+    },
+    {
+      "number": 8,
+      "group_order": 8,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "assisted travel",
+      "difficulty": 2
+    },
+    {
+      "number": 9,
+      "group_order": 9,
+      "part": 5,
+      "category": "tense",
+      "context": "itinerary changes",
+      "difficulty": 2
+    },
+    {
+      "number": 10,
+      "group_order": 10,
+      "part": 5,
+      "category": "collocation",
+      "context": "ferry boarding",
+      "difficulty": 2
+    },
+    {
+      "number": 11,
+      "group_order": 11,
+      "part": 5,
+      "category": "word-form",
+      "context": "equipment hire",
+      "difficulty": 2
+    },
+    {
+      "number": 12,
+      "group_order": 12,
+      "part": 5,
+      "category": "determiner",
+      "context": "checked baggage",
+      "difficulty": 2
+    },
+    {
+      "number": 13,
+      "group_order": 13,
+      "part": 5,
+      "category": "preposition",
+      "context": "morning tours",
+      "difficulty": 2
+    },
+    {
+      "number": 14,
+      "group_order": 14,
+      "part": 5,
+      "category": "connector",
+      "context": "guest adapters",
+      "difficulty": 2
+    },
+    {
+      "number": 15,
+      "group_order": 15,
+      "part": 5,
+      "category": "word-form",
+      "context": "trail map checks",
+      "difficulty": 2
+    },
+    {
+      "number": 16,
+      "group_order": 16,
+      "part": 5,
+      "category": "verb-form",
+      "context": "walkway safety",
+      "difficulty": 2
+    },
+    {
+      "number": 17,
+      "group_order": 17,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "theater seats",
+      "difficulty": 2
+    },
+    {
+      "number": 18,
+      "group_order": 18,
+      "part": 5,
+      "category": "agreement",
+      "context": "reception staffing",
+      "difficulty": 2
+    },
+    {
+      "number": 19,
+      "group_order": 19,
+      "part": 5,
+      "category": "word-form",
+      "context": "accessible routes",
+      "difficulty": 2
+    },
+    {
+      "number": 20,
+      "group_order": 20,
+      "part": 5,
+      "category": "preposition",
+      "context": "breakfast room access",
+      "difficulty": 2
+    },
+    {
+      "number": 21,
+      "group_order": 21,
+      "part": 5,
+      "category": "tense",
+      "context": "conference sound",
+      "difficulty": 2
+    },
+    {
+      "number": 22,
+      "group_order": 22,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "reception venue",
+      "difficulty": 2
+    },
+    {
+      "number": 23,
+      "group_order": 23,
+      "part": 5,
+      "category": "collocation",
+      "context": "shift coverage",
+      "difficulty": 2
+    },
+    {
+      "number": 24,
+      "group_order": 24,
+      "part": 5,
+      "category": "connector",
+      "context": "guidebook formats",
+      "difficulty": 2
+    },
+    {
+      "number": 25,
+      "group_order": 25,
+      "part": 5,
+      "category": "word-form",
+      "context": "platform lighting",
+      "difficulty": 2
+    },
+    {
+      "number": 26,
+      "group_order": 26,
+      "part": 5,
+      "category": "pronoun",
+      "context": "conference badges",
+      "difficulty": 2
+    },
+    {
+      "number": 27,
+      "group_order": 27,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "ferry cancellation",
+      "difficulty": 2
+    },
+    {
+      "number": 28,
+      "group_order": 28,
+      "part": 5,
+      "category": "verb-form",
+      "context": "banquet setup",
+      "difficulty": 2
+    },
+    {
+      "number": 29,
+      "group_order": 29,
+      "part": 5,
+      "category": "preposition",
+      "context": "guest parcel",
+      "difficulty": 2
+    },
+    {
+      "number": 30,
+      "group_order": 30,
+      "part": 5,
+      "category": "word-form",
+      "context": "ingredient notices",
+      "difficulty": 2
+    },
+    {
+      "number": 31,
+      "group_order": 31,
+      "part": 5,
+      "category": "connector",
+      "context": "outdoor seating",
+      "difficulty": 2
+    },
+    {
+      "number": 32,
+      "group_order": 32,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "hostel entry",
+      "difficulty": 2
+    },
+    {
+      "number": 33,
+      "group_order": 33,
+      "part": 5,
+      "category": "modifier",
+      "context": "shuttle route",
+      "difficulty": 2
+    },
+    {
+      "number": 34,
+      "group_order": 34,
+      "part": 5,
+      "category": "word-form",
+      "context": "badge holder reuse",
+      "difficulty": 2
+    },
+    {
+      "number": 35,
+      "group_order": 35,
+      "part": 5,
+      "category": "relative-clause",
+      "context": "courtyard reception",
+      "difficulty": 2
+    },
+    {
+      "number": 36,
+      "group_order": 36,
+      "part": 5,
+      "category": "tense",
+      "context": "flight delay updates",
+      "difficulty": 2
+    },
+    {
+      "number": 37,
+      "group_order": 37,
+      "part": 5,
+      "category": "collocation",
+      "context": "evening transportation",
+      "difficulty": 3
+    },
+    {
+      "number": 38,
+      "group_order": 38,
+      "part": 5,
+      "category": "word-form",
+      "context": "conference panel",
+      "difficulty": 2
+    },
+    {
+      "number": 39,
+      "group_order": 39,
+      "part": 5,
+      "category": "preposition",
+      "context": "ceremony access",
+      "difficulty": 2
+    },
+    {
+      "number": 40,
+      "group_order": 40,
+      "part": 5,
+      "category": "vocabulary",
+      "context": "catering quote",
+      "difficulty": 2
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 10
+    },
+    "sequence": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "A",
+      "C",
+      "B",
+      "D",
+      "D",
+      "C",
+      "B",
+      "A",
+      "D",
+      "B",
+      "A",
+      "C",
+      "D",
+      "A",
+      "D",
+      "B",
+      "C",
+      "C",
+      "A",
+      "B",
+      "D",
+      "C",
+      "B",
+      "A",
+      "A",
+      "C",
+      "D",
+      "B",
+      "B",
+      "C",
+      "D",
+      "A",
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, đoạn văn tiếng Anh nếu có và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

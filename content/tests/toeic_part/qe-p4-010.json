@@ -1,0 +1,1224 @@
+{
+  "slug": "qe-p4-010",
+  "title": "QEnglish TOEIC Part 4 Draft Test 010",
+  "collection": "toeic-part-4",
+  "exam_type": "toeic_part",
+  "level": "B2-C1",
+  "difficulty": 5,
+  "cefr": "B2-C1",
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "listening",
+    "part-4",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Flooding has closed the rail corridor used for our primary resin shipments. We have about six days of resin on site. Trucking is available as an alternative, but transit would take eighteen hours longer and cost roughly twelve percent more. Procurement is securing capacity, while planners should model which orders can shift by one day without affecting customer commitments.",
+      "transcript_vi": "N: Lũ lụt đã đóng hành lang đường sắt dùng cho các lô nhựa chính. Nhà máy còn khoảng sáu ngày tồn kho. Xe tải có thể thay thế nhưng thời gian vận chuyển dài hơn mười tám giờ và chi phí cao hơn khoảng mười hai phần trăm. Mua hàng đang giữ chỗ vận chuyển, còn bộ phận kế hoạch nên mô hình hóa đơn hàng nào có thể lùi một ngày mà không ảnh hưởng cam kết khách hàng.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "What has interrupted the primary resin shipments?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Flooding has closed a rail corridor."
+            },
+            {
+              "key": "B",
+              "text": "The resin supplier has canceled all orders."
+            },
+            {
+              "key": "C",
+              "text": "A trucking strike has closed the factory."
+            },
+            {
+              "key": "D",
+              "text": "A shortage of storage space has halted shipments."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Lũ lụt khiến hành lang vận chuyển đường sắt bị đóng.",
+          "translation": "Điều gì làm gián đoạn các lô nhựa chính?",
+          "difficulty": 5,
+          "tags": [
+            "supply-chain"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What disadvantage of using trucks is mentioned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Shorter transit but higher costs"
+            },
+            {
+              "key": "B",
+              "text": "Longer transit and higher costs"
+            },
+            {
+              "key": "C",
+              "text": "Higher inventory requirements with no transit delay"
+            },
+            {
+              "key": "D",
+              "text": "Lower costs but fewer delivery dates"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Xe tải mất thêm 18 giờ vận chuyển và tốn thêm khoảng 12%.",
+          "translation": "Nhược điểm của việc dùng xe tải được đề cập là gì?",
+          "difficulty": 5,
+          "tags": [
+            "supply-chain"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What should planners identify while Procurement secures capacity?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Orders that can shift by a day without affecting customer commitments"
+            },
+            {
+              "key": "B",
+              "text": "All customers willing to pay the extra freight cost"
+            },
+            {
+              "key": "C",
+              "text": "Orders that must be canceled immediately"
+            },
+            {
+              "key": "D",
+              "text": "Rail shipments that can leave before the flooding"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu mô hình hóa đơn hàng có thể lùi một ngày mà vẫn giữ cam kết khách hàng.",
+          "translation": "Bộ phận kế hoạch cần xác định gì trong khi Procurement giữ chỗ vận chuyển?",
+          "difficulty": 5,
+          "tags": [
+            "supply-chain"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Our revised full-year guidance now reflects nine months of contribution from the acquisition expected to close this quarter. The revenue range is higher, while the operating-margin range is unchanged because projected integration costs offset near-term scale benefits. Analysts should use the supplemental schedule to separate acquired growth from the base business.",
+      "transcript_vi": "N: Hướng dẫn cả năm điều chỉnh hiện tính chín tháng đóng góp từ thương vụ dự kiến hoàn tất trong quý này. Khoảng doanh thu tăng, còn khoảng biên lợi nhuận hoạt động không đổi vì chi phí tích hợp dự kiến bù cho lợi ích quy mô ngắn hạn. Các nhà phân tích nên dùng bảng bổ sung để tách tăng trưởng từ thương vụ khỏi hoạt động cơ sở.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "How much of the acquisition’s contribution is included in the revised full-year forecast?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Three months of contribution"
+            },
+            {
+              "key": "B",
+              "text": "Nine months of contribution"
+            },
+            {
+              "key": "C",
+              "text": "Twelve months of contribution"
+            },
+            {
+              "key": "D",
+              "text": "No contribution until next year"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Dự báo cả năm đã điều chỉnh bao gồm chín tháng đóng góp từ thương vụ dự kiến hoàn tất quý này.",
+          "translation": "Dự báo cả năm đã điều chỉnh bao gồm bao nhiêu tháng đóng góp từ thương vụ mua lại?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "Why is the operating-margin range unchanged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Integration costs offset near-term scale benefits."
+            },
+            {
+              "key": "B",
+              "text": "The revenue range has been reduced."
+            },
+            {
+              "key": "C",
+              "text": "The acquisition has no integration costs."
+            },
+            {
+              "key": "D",
+              "text": "The acquired business contributes no revenue."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Chi phí tích hợp dự kiến bù trừ lợi ích quy mô ngắn hạn.",
+          "translation": "Vì sao phạm vi biên lợi nhuận hoạt động không đổi?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "Which resource should analysts use to distinguish the sources of growth?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The unchanged operating-margin range alone"
+            },
+            {
+              "key": "B",
+              "text": "The acquisition closing timetable"
+            },
+            {
+              "key": "C",
+              "text": "The previous year's acquisition announcement"
+            },
+            {
+              "key": "D",
+              "text": "The supplemental schedule"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Người nói hướng dẫn dùng bảng bổ sung để tách tăng trưởng từ mua lại và kinh doanh hiện tại.",
+          "translation": "Nhà phân tích nên dùng tài liệu nào để phân biệt các nguồn tăng trưởng?",
+          "difficulty": 5,
+          "tags": [
+            "finance"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Starting next month, support-call recordings will have a default retention period of twelve months instead of eighteen. Legal holds and customer contracts can override that period, so do not manually delete existing recordings. Team leads should review locally downloaded copies because those files sit outside the automated retention process.",
+      "transcript_vi": "N: Từ tháng sau, bản ghi cuộc gọi hỗ trợ sẽ có thời hạn lưu mặc định mười hai tháng thay vì mười tám. Lệnh giữ pháp lý và hợp đồng khách hàng có thể ghi đè thời hạn đó, vì vậy không được xóa thủ công bản ghi hiện có. Trưởng nhóm nên kiểm tra các bản sao tải về máy vì chúng nằm ngoài quy trình lưu giữ tự động.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "How will the default retention period change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will increase from twelve to eighteen months."
+            },
+            {
+              "key": "B",
+              "text": "It will decrease from twelve to six months."
+            },
+            {
+              "key": "C",
+              "text": "It will remain at eighteen months."
+            },
+            {
+              "key": "D",
+              "text": "It will decrease from eighteen to twelve months."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Từ tháng sau thời hạn mặc định giảm từ 18 xuống 12 tháng.",
+          "translation": "Thời hạn lưu giữ mặc định thay đổi thế nào?",
+          "difficulty": 5,
+          "tags": [
+            "privacy"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "Under what circumstances can the default period be overridden?",
+          "options": [
+            {
+              "key": "A",
+              "text": "When a recording is less than twelve months old"
+            },
+            {
+              "key": "B",
+              "text": "When legal holds or customer contracts require it"
+            },
+            {
+              "key": "C",
+              "text": "Whenever an employee requests immediate deletion"
+            },
+            {
+              "key": "D",
+              "text": "Whenever a team lead downloads a file"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Lệnh bảo toàn pháp lý và hợp đồng khách hàng có thể thay đổi thời hạn mặc định.",
+          "translation": "Trong trường hợp nào thời hạn mặc định có thể bị thay thế?",
+          "difficulty": 5,
+          "tags": [
+            "privacy"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "Why must team leads review locally downloaded recordings?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will all be transferred to customer accounts."
+            },
+            {
+              "key": "B",
+              "text": "They are stored only under legal holds."
+            },
+            {
+              "key": "C",
+              "text": "They are outside the automated retention process."
+            },
+            {
+              "key": "D",
+              "text": "They are automatically deleted after every call."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Tệp tải xuống nằm ngoài quy trình lưu giữ tự động.",
+          "translation": "Vì sao trưởng nhóm phải xem xét bản ghi tải xuống cục bộ?",
+          "difficulty": 5,
+          "tags": [
+            "privacy"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: The solar array passed its performance test yesterday, but commercial operation cannot begin until the utility verifies the revenue meter on Thursday. Construction crews may demobilize nonessential equipment now, although the controls team must remain on site for the live meter test and final handoff.",
+      "transcript_vi": "N: Hệ thống điện mặt trời đã vượt kiểm tra hiệu suất hôm qua, nhưng chưa thể vận hành thương mại cho đến khi công ty điện xác minh công tơ doanh thu vào thứ Năm. Đội xây dựng có thể rút thiết bị không thiết yếu, nhưng nhóm điều khiển phải ở lại cho bài thử công tơ trực tiếp và bàn giao cuối.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "What prevents commercial operation of the solar array from beginning?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The array failed its performance test."
+            },
+            {
+              "key": "B",
+              "text": "The controls team has not installed the array."
+            },
+            {
+              "key": "C",
+              "text": "The utility has yet to verify the revenue meter."
+            },
+            {
+              "key": "D",
+              "text": "All construction equipment must be removed first."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hệ thống đã qua thử nghiệm hiệu năng nhưng còn cần điện lực xác minh công tơ doanh thu.",
+          "translation": "Điều gì ngăn hệ thống điện mặt trời bắt đầu vận hành thương mại?",
+          "difficulty": 5,
+          "tags": [
+            "renewable-energy"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "When is the utility's verification scheduled?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thursday"
+            },
+            {
+              "key": "B",
+              "text": "Yesterday"
+            },
+            {
+              "key": "C",
+              "text": "Next Monday"
+            },
+            {
+              "key": "D",
+              "text": "At the end of next month"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đơn vị điện lực sẽ xác minh công tơ vào thứ Năm.",
+          "translation": "Việc xác minh của đơn vị điện lực được lên lịch khi nào?",
+          "difficulty": 5,
+          "tags": [
+            "renewable-energy"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "Which team must remain on site for the live meter test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All construction crews"
+            },
+            {
+              "key": "B",
+              "text": "The commercial sales team"
+            },
+            {
+              "key": "C",
+              "text": "The equipment transportation team"
+            },
+            {
+              "key": "D",
+              "text": "The controls team"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhóm điều khiển phải ở lại để kiểm tra công tơ trực tiếp và bàn giao cuối cùng.",
+          "translation": "Nhóm nào phải ở lại hiện trường để kiểm tra công tơ trực tiếp?",
+          "difficulty": 5,
+          "tags": [
+            "renewable-energy"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Overall trial enrollment is close to target, but two sites are screening many candidates and enrolling very few. The pattern suggests a difference in how eligibility criteria are being interpreted rather than a shortage of interested participants. Before opening another site, review the screening logs and schedule a calibration call with those coordinators.",
+      "transcript_vi": "N: Tổng tuyển người cho thử nghiệm gần đạt mục tiêu, nhưng hai cơ sở sàng lọc nhiều ứng viên mà ghi danh rất ít. Mẫu hình này cho thấy có khác biệt trong cách hiểu tiêu chí đủ điều kiện hơn là thiếu người quan tâm. Trước khi mở cơ sở mới, hãy xem nhật ký sàng lọc và tổ chức cuộc gọi hiệu chỉnh với các điều phối viên đó.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What pattern is occurring at two trial sites?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Enrollment greatly exceeds the overall target."
+            },
+            {
+              "key": "B",
+              "text": "No candidates have expressed interest in screening."
+            },
+            {
+              "key": "C",
+              "text": "Few candidates are screened but most are enrolled."
+            },
+            {
+              "key": "D",
+              "text": "Many candidates are screened but few are enrolled."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hai địa điểm sàng lọc nhiều ứng viên nhưng tuyển rất ít.",
+          "translation": "Hai địa điểm thử nghiệm đang có tình trạng gì?",
+          "difficulty": 5,
+          "tags": [
+            "clinical-research"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "What does the speaker suspect is causing this pattern?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A general shortage of interested candidates"
+            },
+            {
+              "key": "B",
+              "text": "Inconsistent interpretation of eligibility criteria"
+            },
+            {
+              "key": "C",
+              "text": "A failure to open any trial sites"
+            },
+            {
+              "key": "D",
+              "text": "A decision to reduce the overall enrollment target"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói nghi ngờ có khác biệt trong cách diễn giải tiêu chí đủ điều kiện.",
+          "translation": "Người nói nghi ngờ nguyên nhân nào gây ra tình trạng này?",
+          "difficulty": 5,
+          "tags": [
+            "clinical-research"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What should happen before another trial site is opened?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Recruit more candidates at a new site immediately."
+            },
+            {
+              "key": "B",
+              "text": "Close both sites with low enrollment."
+            },
+            {
+              "key": "C",
+              "text": "Review screening logs and arrange a calibration call."
+            },
+            {
+              "key": "D",
+              "text": "Lower the eligibility standards without review."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Cần xem nhật ký sàng lọc và tổ chức cuộc gọi thống nhất cách áp dụng tiêu chí.",
+          "translation": "Điều gì cần thực hiện trước khi mở địa điểm thử nghiệm khác?",
+          "difficulty": 5,
+          "tags": [
+            "clinical-research"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: For the winter trial, the weekday 7:10 flight will depart twenty-five minutes earlier. The change improves aircraft utilization enough to support an additional afternoon segment, and all published connections remain above the minimum connection time. We will monitor missed connections during the first two weeks before making the schedule permanent.",
+      "transcript_vi": "N: Trong đợt thử mùa đông, chuyến 7:10 ngày thường sẽ khởi hành sớm hơn hai mươi lăm phút. Thay đổi này cải thiện mức sử dụng máy bay để thêm một chặng chiều, và mọi nối chuyến công bố vẫn cao hơn thời gian nối tối thiểu. Chúng ta sẽ theo dõi các nối chuyến bị lỡ trong hai tuần đầu trước khi quyết định lịch cố định.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "Why is the weekday flight departing earlier during the trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To accommodate a permanent change in airport operating hours"
+            },
+            {
+              "key": "B",
+              "text": "To reduce the number of afternoon flights"
+            },
+            {
+              "key": "C",
+              "text": "To shorten the minimum connection time"
+            },
+            {
+              "key": "D",
+              "text": "To improve aircraft utilization and support an extra afternoon segment"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Lịch mới cải thiện hiệu suất sử dụng máy bay để bổ sung một chặng chiều.",
+          "translation": "Vì sao chuyến bay ngày thường khởi hành sớm hơn trong đợt thử nghiệm?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "What is true of the published connections under the revised schedule?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They all require an additional twenty-five minutes."
+            },
+            {
+              "key": "B",
+              "text": "They fall below the minimum connection time."
+            },
+            {
+              "key": "C",
+              "text": "They remain above the minimum connection time."
+            },
+            {
+              "key": "D",
+              "text": "They have been removed from the winter timetable."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Tất cả chuyến nối đã công bố vẫn vượt thời gian nối chuyến tối thiểu.",
+          "translation": "Điều gì đúng về các chuyến nối đã công bố theo lịch sửa đổi?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What will the airline monitor during the first two weeks?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Aircraft maintenance costs"
+            },
+            {
+              "key": "B",
+              "text": "Afternoon flight cancellations only"
+            },
+            {
+              "key": "C",
+              "text": "Missed connections"
+            },
+            {
+              "key": "D",
+              "text": "Changes in ticket prices"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Người nói thông báo sẽ theo dõi các trường hợp lỡ chuyến nối trước khi áp dụng lịch lâu dài.",
+          "translation": "Hãng hàng không sẽ theo dõi điều gì trong hai tuần đầu?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Storm claims are arriving faster than field inspectors can visit them. Low-value property losses may therefore be reviewed remotely using customer photos and receipts. Coverage terms and deductibles do not change, and adjusters must document why remote review is appropriate. Any claim involving structural-safety concerns still requires an in-person inspection.",
+      "transcript_vi": "N: Yêu cầu bồi thường do bão đến nhanh hơn khả năng kiểm tra hiện trường. Vì vậy tổn thất tài sản giá trị thấp có thể được xem từ xa bằng ảnh và hóa đơn của khách hàng. Điều khoản bảo hiểm và mức khấu trừ không đổi, và chuyên viên phải ghi lý do phù hợp cho việc xem từ xa. Mọi yêu cầu có lo ngại an toàn kết cấu vẫn cần kiểm tra trực tiếp.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why are some storm claims being reviewed remotely?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Field inspections have been permanently discontinued."
+            },
+            {
+              "key": "B",
+              "text": "Claims are arriving faster than inspectors can visit."
+            },
+            {
+              "key": "C",
+              "text": "Customers are no longer required to provide evidence."
+            },
+            {
+              "key": "D",
+              "text": "Deductibles have been reduced for all storm losses."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Số yêu cầu đến nhanh hơn khả năng kiểm tra hiện trường.",
+          "translation": "Vì sao một số yêu cầu bồi thường do bão được xem xét từ xa?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "What remains unchanged under the remote-review process?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The method used to review all low-value losses"
+            },
+            {
+              "key": "B",
+              "text": "Coverage terms and deductibles"
+            },
+            {
+              "key": "C",
+              "text": "The number of inspectors assigned to each claim"
+            },
+            {
+              "key": "D",
+              "text": "The requirement for every low-value claim to receive a field visit"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Điều khoản bảo hiểm và mức khấu trừ không đổi.",
+          "translation": "Điều gì giữ nguyên trong quy trình xem xét từ xa?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "Which claims still require an in-person inspection?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Claims involving structural-safety concerns"
+            },
+            {
+              "key": "B",
+              "text": "All claims with customer photographs"
+            },
+            {
+              "key": "C",
+              "text": "Every low-value property claim with receipts"
+            },
+            {
+              "key": "D",
+              "text": "Claims where remote review has been documented as appropriate"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Các yêu cầu có lo ngại về an toàn kết cấu vẫn phải kiểm tra trực tiếp.",
+          "translation": "Yêu cầu bồi thường nào vẫn cần kiểm tra trực tiếp?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: At Wednesday's planning hearing, the waterfront proposal will be heard after the transit item rather than first. Staff requested the change so a revised traffic memo can be attached before discussion. Written comments submitted by noon Tuesday will still enter the official record, and speakers who already registered do not need to sign up again.",
+      "transcript_vi": "N: Tại phiên điều trần quy hoạch thứ Tư, đề xuất khu ven sông sẽ được xem sau mục giao thông công cộng thay vì đầu tiên. Nhân viên yêu cầu đổi để có thể đính kèm bản ghi giao thông sửa đổi trước khi thảo luận. Ý kiến bằng văn bản gửi trước trưa thứ Ba vẫn vào hồ sơ chính thức, và người đã đăng ký phát biểu không cần đăng ký lại.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "What change has been made to Wednesday's hearing agenda?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Written comments will replace both agenda items."
+            },
+            {
+              "key": "B",
+              "text": "The waterfront proposal has been removed."
+            },
+            {
+              "key": "C",
+              "text": "The waterfront proposal will follow the transit item."
+            },
+            {
+              "key": "D",
+              "text": "The transit item will follow the waterfront proposal."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đề xuất ven biển được chuyển xuống sau nội dung giao thông.",
+          "translation": "Chương trình phiên điều trần thứ Tư thay đổi như thế nào?",
+          "difficulty": 5,
+          "tags": [
+            "public-administration"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "Why did staff request the change in order?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To allow time to attach a revised traffic memo"
+            },
+            {
+              "key": "B",
+              "text": "To extend the deadline for all written comments"
+            },
+            {
+              "key": "C",
+              "text": "To allow registered speakers to sign up again"
+            },
+            {
+              "key": "D",
+              "text": "To cancel discussion of the transit item"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Nhân viên muốn có thời gian đính kèm bản ghi nhớ giao thông đã sửa.",
+          "translation": "Vì sao nhân viên yêu cầu thay đổi thứ tự?",
+          "difficulty": 5,
+          "tags": [
+            "public-administration"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "By when must written comments be submitted to enter the official record?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Noon Tuesday"
+            },
+            {
+              "key": "B",
+              "text": "The end of Monday"
+            },
+            {
+              "key": "C",
+              "text": "The end of Wednesday’s hearing"
+            },
+            {
+              "key": "D",
+              "text": "Noon Wednesday"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Ý kiến bằng văn bản gửi trước hoặc vào trưa thứ Ba sẽ được đưa vào hồ sơ chính thức.",
+          "translation": "Ý kiến bằng văn bản phải được nộp chậm nhất khi nào để được đưa vào hồ sơ chính thức?",
+          "difficulty": 5,
+          "tags": [
+            "public-administration"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: API version 3 will stop accepting new integrations on March 1, although existing integrations may continue through September. Version 4 changes several field names and uses token-based authentication. Development teams should migrate test environments first and report any incompatible fields before the July readiness review.",
+      "transcript_vi": "N: API phiên bản 3 sẽ ngừng nhận tích hợp mới từ ngày 1 tháng Ba, nhưng tích hợp hiện có có thể tiếp tục đến tháng Chín. Phiên bản 4 đổi một số tên trường và dùng xác thực bằng token. Các nhóm phát triển nên chuyển môi trường thử nghiệm trước và báo các trường không tương thích trước đợt rà soát sẵn sàng tháng Bảy.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "What restriction begins on March 1 for API version 3?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Version 4 stops issuing tokens."
+            },
+            {
+              "key": "B",
+              "text": "All field names revert to the previous version."
+            },
+            {
+              "key": "C",
+              "text": "All existing integrations stop working."
+            },
+            {
+              "key": "D",
+              "text": "It stops accepting new integrations."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Phiên bản 3 ngừng nhận tích hợp mới từ ngày 1 tháng Ba.",
+          "translation": "Hạn chế nào bắt đầu từ ngày 1 tháng Ba đối với API phiên bản 3?",
+          "difficulty": 5,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "What is the last month during which existing version 3 integrations may continue?",
+          "options": [
+            {
+              "key": "A",
+              "text": "September"
+            },
+            {
+              "key": "B",
+              "text": "July"
+            },
+            {
+              "key": "C",
+              "text": "March"
+            },
+            {
+              "key": "D",
+              "text": "December"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Tích hợp hiện có có thể tiếp tục đến hết tháng Chín.",
+          "translation": "Tháng cuối cùng mà các tích hợp phiên bản 3 hiện có được phép tiếp tục là tháng nào?",
+          "difficulty": 5,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "Which environments should development teams migrate first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All production environments at once"
+            },
+            {
+              "key": "B",
+              "text": "Test environments"
+            },
+            {
+              "key": "C",
+              "text": "Only archived environments"
+            },
+            {
+              "key": "D",
+              "text": "Customer environments using version 3 exclusively"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu chuyển môi trường thử nghiệm trước rồi báo cáo các trường không tương thích.",
+          "translation": "Nhóm phát triển nên chuyển đổi môi trường nào trước?",
+          "difficulty": 5,
+          "tags": [
+            "software-operations"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Next quarter, the small-business and partner-service portfolios will report to one regional leader. Current customer contracts, account owners, and service levels remain unchanged. The goal is to share specialist capacity across both portfolios. Managers should map team skills this month before any reporting-line adjustments are finalized.",
+      "transcript_vi": "N: Quý tới, danh mục doanh nghiệp nhỏ và dịch vụ đối tác sẽ cùng báo cáo cho một lãnh đạo khu vực. Hợp đồng khách hàng, chủ tài khoản và mức dịch vụ hiện tại giữ nguyên. Mục tiêu là chia sẻ năng lực chuyên gia giữa hai danh mục. Quản lý nên lập bản đồ kỹ năng nhóm trong tháng này trước khi hoàn tất điều chỉnh tuyến báo cáo.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "What organizational change is planned for next quarter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Each portfolio will appoint a separate regional leader."
+            },
+            {
+              "key": "B",
+              "text": "The partner-service portfolio will be discontinued."
+            },
+            {
+              "key": "C",
+              "text": "All account owners will be reassigned immediately."
+            },
+            {
+              "key": "D",
+              "text": "Two portfolios will report to one regional leader."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hai danh mục doanh nghiệp nhỏ và dịch vụ đối tác sẽ báo cáo cho cùng một lãnh đạo khu vực.",
+          "translation": "Thay đổi tổ chức nào được dự kiến trong quý tới?",
+          "difficulty": 5,
+          "tags": [
+            "management"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "What is the stated goal of combining the portfolios?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Separating specialists into independent teams"
+            },
+            {
+              "key": "B",
+              "text": "Replacing all current customer contracts"
+            },
+            {
+              "key": "C",
+              "text": "Sharing specialist capacity across the portfolios"
+            },
+            {
+              "key": "D",
+              "text": "Reducing the promised service levels"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Mục tiêu là chia sẻ năng lực chuyên gia giữa hai danh mục.",
+          "translation": "Mục tiêu được nêu của việc hợp nhất hai danh mục là gì?",
+          "difficulty": 5,
+          "tags": [
+            "management"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "What should managers do this month?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Renegotiate current customer contracts."
+            },
+            {
+              "key": "B",
+              "text": "Map the skills of their teams."
+            },
+            {
+              "key": "C",
+              "text": "Reassign all account owners before mapping skills."
+            },
+            {
+              "key": "D",
+              "text": "Finalize every new reporting line immediately."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu lập bản đồ kỹ năng trước khi hoàn tất thay đổi tuyến báo cáo.",
+          "translation": "Các quản lý nên làm gì trong tháng này?",
+          "difficulty": 5,
+          "tags": [
+            "management"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

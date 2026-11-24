@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "stress-primary",
+    "symbol": "ˈ",
+    "kind": "stress",
+    "title": "Tìm trọng âm chính trong từ",
+    "description_md": "**Cách đọc.** Dấu /ˈ/ đứng ngay trước âm tiết mang trọng âm chính. Âm tiết đó thường nổi bật nhờ cao độ, độ dài và độ rõ của nguyên âm. Dò dấu trong IPA rồi đọc cả từ liền mạch. Với *banana*, giữ âm giữa rõ và để hai âm /ə/ lướt nhẹ.\n\n**Tự kiểm.** Gõ một nhịp trên âm tiết được nhấn của mỗi từ. Ba từ đích dưới đây lần lượt nhấn âm 2, 1 và 2.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "banana",
+        "ipa": "/bəˈnɑːnə/",
+        "source": "original"
+      },
+      {
+        "word": "window",
+        "ipa": "/ˈwɪndəʊ/",
+        "source": "original"
+      },
+      {
+        "word": "hotel",
+        "ipa": "/həʊˈtel/",
+        "source": "original"
+      },
+      {
+        "word": "computer",
+        "ipa": "/kəmˈpjuːtə/",
+        "source": "original"
+      },
+      {
+        "word": "ticket",
+        "ipa": "/ˈtɪkɪt/",
+        "source": "original"
+      },
+      {
+        "word": "engineer",
+        "ipa": "/ˌendʒɪˈnɪə/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "I packed a banana for the trip.",
+        "vi": "Tôi mang theo một quả chuối cho chuyến đi.",
+        "source": "original"
+      },
+      {
+        "en": "The window faces the garden.",
+        "vi": "Cửa sổ nhìn ra vườn.",
+        "source": "original"
+      },
+      {
+        "en": "Our hotel is near the station.",
+        "vi": "Khách sạn của chúng tôi ở gần nhà ga.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 45,
+    "source": "original"
+  },
+  {
+    "slug": "stress-two-syllable-nouns-adjectives",
+    "symbol": "ˈσ σ",
+    "kind": "stress",
+    "title": "Danh từ và tính từ hai âm tiết",
+    "description_md": "**Xu hướng.** Nhiều danh từ và tính từ hai âm tiết nhấn âm đầu, như *folder* và *quiet*. Có ngoại lệ như *machine* và *polite*, đều nhấn âm thứ hai.\n\n**Tự kiểm.** Đọc các câu rồi ghi vị trí trọng âm của *folder*, *quiet*, *polite*. Đáp án lần lượt là 1, 1, 2.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "folder",
+        "ipa": "/ˈfəʊldə/",
+        "source": "original"
+      },
+      {
+        "word": "market",
+        "ipa": "/ˈmɑːkɪt/",
+        "source": "original"
+      },
+      {
+        "word": "quiet",
+        "ipa": "/ˈkwaɪət/",
+        "source": "original"
+      },
+      {
+        "word": "simple",
+        "ipa": "/ˈsɪmpəl/",
+        "source": "original"
+      },
+      {
+        "word": "machine",
+        "ipa": "/məˈʃiːn/",
+        "source": "original"
+      },
+      {
+        "word": "polite",
+        "ipa": "/pəˈlaɪt/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The folder is on your desk.",
+        "vi": "Bìa hồ sơ ở trên bàn của bạn.",
+        "source": "original"
+      },
+      {
+        "en": "We found a quiet place to work.",
+        "vi": "Chúng tôi tìm được một chỗ yên tĩnh để làm việc.",
+        "source": "original"
+      },
+      {
+        "en": "Her reply was polite.",
+        "vi": "Cô ấy trả lời rất lịch sự.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 46,
+    "source": "original"
+  },
+  {
+    "slug": "stress-two-syllable-verbs",
+    "symbol": "σ ˈσ",
+    "kind": "stress",
+    "title": "Động từ hai âm tiết",
+    "description_md": "**Xu hướng.** Nhiều động từ hai âm tiết như *reply* và *decide* nhấn âm thứ hai. Những động từ như *finish* và *follow* lại nhấn âm đầu. Hãy học vị trí nhấn cùng với từng từ.\n\n**Tự kiểm.** Đọc *reply*, *decide*, *finish* riêng, rồi đưa vào câu. Gõ đúng một nhịp cho từ đích mỗi lần đọc.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "reply",
+        "ipa": "/rɪˈplaɪ/",
+        "source": "original"
+      },
+      {
+        "word": "decide",
+        "ipa": "/dɪˈsaɪd/",
+        "source": "original"
+      },
+      {
+        "word": "arrive",
+        "ipa": "/əˈraɪv/",
+        "source": "original"
+      },
+      {
+        "word": "begin",
+        "ipa": "/bɪˈɡɪn/",
+        "source": "original"
+      },
+      {
+        "word": "finish",
+        "ipa": "/ˈfɪnɪʃ/",
+        "source": "original"
+      },
+      {
+        "word": "follow",
+        "ipa": "/ˈfɒləʊ/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "Please reply before lunch.",
+        "vi": "Vui lòng trả lời trước giờ ăn trưa.",
+        "source": "original"
+      },
+      {
+        "en": "We can decide on Friday.",
+        "vi": "Chúng ta có thể quyết định vào thứ Sáu.",
+        "source": "original"
+      },
+      {
+        "en": "I’ll finish the report tonight.",
+        "vi": "Tối nay tôi sẽ làm xong báo cáo.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 47,
+    "source": "original"
+  },
+  {
+    "slug": "stress-noun-verb-shift",
+    "symbol": "ˈσ σ → σ ˈσ",
+    "kind": "stress",
+    "title": "Đổi trọng âm theo từ loại",
+    "description_md": "**Cách nhận biết.** Một số từ có cùng cách viết, như *record*, *present* và *export*, thường nhấn âm đầu khi là danh từ và âm sau khi là động từ. Nguyên âm cũng có thể đổi theo trọng âm, chẳng hạn /e/ thành /ɪ/ ở âm đầu của *present*.\n\n**Tự kiểm.** Trong mỗi câu, khoanh từ đích xuất hiện hai lần và xác định từ loại. Vị trí nhấn lần lượt là 1–2, 2–1 và 2–1.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "record (noun)",
+        "ipa": "/ˈrekɔːd/",
+        "source": "original"
+      },
+      {
+        "word": "record (verb)",
+        "ipa": "/rɪˈkɔːd/",
+        "source": "original"
+      },
+      {
+        "word": "present (noun)",
+        "ipa": "/ˈprezənt/",
+        "source": "original"
+      },
+      {
+        "word": "present (verb)",
+        "ipa": "/prɪˈzent/",
+        "source": "original"
+      },
+      {
+        "word": "export (noun)",
+        "ipa": "/ˈekspɔːt/",
+        "source": "original"
+      },
+      {
+        "word": "export (verb)",
+        "ipa": "/ɪkˈspɔːt/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "Keep a record when you record each payment.",
+        "vi": "Hãy lưu hồ sơ khi bạn ghi lại từng khoản thanh toán.",
+        "source": "original"
+      },
+      {
+        "en": "We’ll present a small present to each guest.",
+        "vi": "Chúng tôi sẽ trao một món quà nhỏ cho mỗi vị khách.",
+        "source": "original"
+      },
+      {
+        "en": "They export tea, the island’s main export.",
+        "vi": "Họ xuất khẩu trà, mặt hàng xuất khẩu chủ lực của hòn đảo.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 48,
+    "source": "original"
+  },
+  {
+    "slug": "stress-suffix-tion-sion",
+    "symbol": "ˈσ + -tion/-sion",
+    "kind": "stress",
+    "title": "Trọng âm trước đuôi -tion và -sion",
+    "description_md": "**Cách tìm.** Với các từ dưới đây, nhấn âm tiết ngay trước đuôi /ʃən/ hoặc /ʒən/. Đuôi đọc nhẹ với /ə/. Trong *revision*, phần mang trọng âm là /vɪ/, còn đuôi là /ʒən/.\n\n**Tự kiểm.** Tách *inforMAtion*, *deCIsion*, *disCUSsion* theo âm tiết rồi nói lại cả câu. Chữ in hoa chỉ chỗ nhấn, còn IPA cho biết âm cần đọc.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "information",
+        "ipa": "/ˌɪnfəˈmeɪʃən/",
+        "source": "original"
+      },
+      {
+        "word": "station",
+        "ipa": "/ˈsteɪʃən/",
+        "source": "original"
+      },
+      {
+        "word": "invitation",
+        "ipa": "/ˌɪnvɪˈteɪʃən/",
+        "source": "original"
+      },
+      {
+        "word": "decision",
+        "ipa": "/dɪˈsɪʒən/",
+        "source": "original"
+      },
+      {
+        "word": "revision",
+        "ipa": "/rɪˈvɪʒən/",
+        "source": "original"
+      },
+      {
+        "word": "discussion",
+        "ipa": "/dɪˈskʌʃən/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The leaflet has information about the tour.",
+        "vi": "Tờ gấp có thông tin về chuyến tham quan.",
+        "source": "original"
+      },
+      {
+        "en": "We’ll make a decision tomorrow.",
+        "vi": "Ngày mai chúng tôi sẽ đưa ra quyết định.",
+        "source": "original"
+      },
+      {
+        "en": "The discussion lasted an hour.",
+        "vi": "Cuộc thảo luận kéo dài một giờ.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 49,
+    "source": "original"
+  },
+  {
+    "slug": "stress-suffix-ic-ity",
+    "symbol": "ˈσ + -ic/-ity",
+    "kind": "stress",
+    "title": "Trọng âm trước đuôi -ic và -ity",
+    "description_md": "**Cách tìm.** Trong các mẫu dưới đây, âm ngay trước *-ic* hoặc *-ity* mang trọng âm chính. So sánh *economy* với *economic* để thấy trọng âm dịch khi thêm hậu tố. Đây là xu hướng để dự đoán, sau đó có thể kiểm lại bằng phiên âm.\n\n**Tự kiểm.** Gõ nhịp trên /nɒ/ trong *economic*, /kɒ/ trong *economy*, /tɪ/ trong *activity* và /bɪ/ trong *ability*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "economy",
+        "ipa": "/ɪˈkɒnəmi/",
+        "source": "original"
+      },
+      {
+        "word": "economic",
+        "ipa": "/ˌiːkəˈnɒmɪk/",
+        "source": "original"
+      },
+      {
+        "word": "electric",
+        "ipa": "/ɪˈlektrɪk/",
+        "source": "original"
+      },
+      {
+        "word": "dramatic",
+        "ipa": "/drəˈmætɪk/",
+        "source": "original"
+      },
+      {
+        "word": "activity",
+        "ipa": "/ækˈtɪvəti/",
+        "source": "original"
+      },
+      {
+        "word": "ability",
+        "ipa": "/əˈbɪləti/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The economic outlook affects the local economy.",
+        "vi": "Triển vọng kinh tế ảnh hưởng đến nền kinh tế địa phương.",
+        "source": "original"
+      },
+      {
+        "en": "The last activity takes ten minutes.",
+        "vi": "Hoạt động cuối cùng mất mười phút.",
+        "source": "original"
+      },
+      {
+        "en": "She has the ability to stay calm under pressure.",
+        "vi": "Cô ấy có khả năng giữ bình tĩnh khi chịu áp lực.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 50,
+    "source": "original"
+  },
+  {
+    "slug": "stress-suffix-neutral",
+    "symbol": "ˈσ + -ness/-less",
+    "kind": "stress",
+    "title": "Hậu tố giữ nguyên vị trí trọng âm",
+    "description_md": "**Mẫu cần nhớ.** Các hậu tố như *-ness* và *-less* thường giữ trọng âm ở vị trí của từ gốc. Đọc *kind* rồi *kindness*, sau đó làm tương tự với *use* và *useless*. Phần thêm vào đọc nhẹ.\n\n**Tự kiểm.** Đọc từng từ gốc trước, sau đó tìm và đọc từ có hậu tố trong câu tương ứng. Cả ba từ *kindness*, *useless* và *darkness* đều nhấn âm đầu.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "kind",
+        "ipa": "/kaɪnd/",
+        "source": "original"
+      },
+      {
+        "word": "kindness",
+        "ipa": "/ˈkaɪndnəs/",
+        "source": "original"
+      },
+      {
+        "word": "use (noun)",
+        "ipa": "/juːs/",
+        "source": "original"
+      },
+      {
+        "word": "useless",
+        "ipa": "/ˈjuːsləs/",
+        "source": "original"
+      },
+      {
+        "word": "dark",
+        "ipa": "/dɑːk/",
+        "source": "original"
+      },
+      {
+        "word": "darkness",
+        "ipa": "/ˈdɑːknəs/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "I remember her kindness that day.",
+        "vi": "Tôi vẫn nhớ lòng tốt của cô ấy hôm đó.",
+        "source": "original"
+      },
+      {
+        "en": "This key is useless without the code.",
+        "vi": "Chiếc chìa khóa này vô dụng nếu thiếu mã.",
+        "source": "original"
+      },
+      {
+        "en": "We waited in darkness until the lights came on.",
+        "vi": "Chúng tôi chờ trong bóng tối cho đến khi đèn sáng trở lại.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 51,
+    "source": "original"
+  },
+  {
+    "slug": "stress-compound-nouns",
+    "symbol": "ˈσ + σ",
+    "kind": "stress",
+    "title": "Trọng âm trong một số danh từ ghép",
+    "description_md": "**Mẫu thường gặp.** Nhiều danh từ ghép quen thuộc nhấn thành tố đầu, như *bus stop* và *toothbrush*. Trong cụm miêu tả *a black bird*, từ *bird* thường nổi bật hơn khi màu sắc không cần đối chiếu. *Blackbird*, tên một loài chim, nhấn *black*.\n\n**Tự kiểm.** Trong ba câu, đọc nổi bật *bus* trong *bus stop*, *tooth* trong *toothbrush* và *black* trong *blackbird*. Ở cụm *a black bird*, thử đọc nổi bật *bird*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "bus stop",
+        "ipa": "/ˈbʌs stɒp/",
+        "source": "original"
+      },
+      {
+        "word": "toothbrush",
+        "ipa": "/ˈtuːθbrʌʃ/",
+        "source": "original"
+      },
+      {
+        "word": "blackbird",
+        "ipa": "/ˈblækbɜːd/",
+        "source": "original"
+      },
+      {
+        "word": "black bird",
+        "ipa": "/blæk ˈbɜːd/",
+        "source": "original"
+      },
+      {
+        "word": "raincoat",
+        "ipa": "/ˈreɪnkəʊt/",
+        "source": "original"
+      },
+      {
+        "word": "greenhouse",
+        "ipa": "/ˈɡriːnhaʊs/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "Let’s meet at the bus stop.",
+        "vi": "Chúng ta gặp nhau ở trạm xe buýt nhé.",
+        "source": "original"
+      },
+      {
+        "en": "I forgot to pack my toothbrush.",
+        "vi": "Tôi quên mang bàn chải đánh răng.",
+        "source": "original"
+      },
+      {
+        "en": "I saw a black bird, but it wasn’t a blackbird.",
+        "vi": "Tôi thấy một con chim màu đen, nhưng nó không thuộc loài hoét đen.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 52,
+    "source": "original"
+  },
+  {
+    "slug": "stress-secondary",
+    "symbol": "ˌ / ˈ",
+    "kind": "stress",
+    "title": "Phân biệt trọng âm chính và trọng âm phụ",
+    "description_md": "**Đọc hai dấu nhấn.** /ˈ/ báo trọng âm chính, /ˌ/ báo trọng âm phụ. Trong *afternoon*, âm đầu có trọng âm phụ và âm cuối có trọng âm chính. Khi đọc từ riêng lẻ, tập cho âm chính nổi bật hơn âm phụ.\n\n**Tự kiểm.** Vỗ nhẹ ở /ɑːf/, /ʌn/, /edʒ/ rồi vỗ rõ hơn ở /nuːn/, /stænd/, /keɪ/ theo thứ tự các từ dưới đây.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "afternoon",
+        "ipa": "/ˌɑːftəˈnuːn/",
+        "source": "original"
+      },
+      {
+        "word": "understand",
+        "ipa": "/ˌʌndəˈstænd/",
+        "source": "original"
+      },
+      {
+        "word": "education",
+        "ipa": "/ˌedʒʊˈkeɪʃən/",
+        "source": "original"
+      },
+      {
+        "word": "disagree",
+        "ipa": "/ˌdɪsəˈɡriː/",
+        "source": "original"
+      },
+      {
+        "word": "independent",
+        "ipa": "/ˌɪndɪˈpendənt/",
+        "source": "original"
+      },
+      {
+        "word": "international",
+        "ipa": "/ˌɪntəˈnæʃənəl/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The parcel arrived this afternoon.",
+        "vi": "Bưu kiện đến vào chiều nay.",
+        "source": "original"
+      },
+      {
+        "en": "I understand the first step.",
+        "vi": "Tôi hiểu bước đầu tiên.",
+        "source": "original"
+      },
+      {
+        "en": "The grant supports adult education.",
+        "vi": "Khoản tài trợ hỗ trợ việc học của người trưởng thành.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 53,
+    "source": "original"
+  },
+  {
+    "slug": "stress-sentence-weak-forms",
+    "symbol": "ˈ / ə",
+    "kind": "stress",
+    "title": "Nhịp câu và dạng yếu",
+    "description_md": "**Nhịp câu.** Khi câu có thông tin mới, các từ mang nội dung thường nổi bật hơn. Từ chức năng có thể dùng dạng yếu, như *can* /kən/ và *to* /tə/. Khi được nhấn hoặc đọc riêng, chúng có thể trở lại dạng mạnh /kæn/ và /tuː/.\n\n**Tự kiểm.** Đọc câu đầu với *can* nhẹ và *help* rõ, rồi nhấn *can* như khi bác bỏ lời nghi ngờ. Với hai câu sau, tập /tə/ cho *to* và /ənd/ cho *and*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "can (weak)",
+        "ipa": "/kən/",
+        "source": "original"
+      },
+      {
+        "word": "can (strong)",
+        "ipa": "/kæn/",
+        "source": "original"
+      },
+      {
+        "word": "to (weak before a consonant)",
+        "ipa": "/tə/",
+        "source": "original"
+      },
+      {
+        "word": "to (strong)",
+        "ipa": "/tuː/",
+        "source": "original"
+      },
+      {
+        "word": "and (weak)",
+        "ipa": "/ənd/",
+        "source": "original"
+      },
+      {
+        "word": "and (strong)",
+        "ipa": "/ænd/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "I can help.",
+        "vi": "Tôi có thể giúp.",
+        "source": "original"
+      },
+      {
+        "en": "We need to book a room.",
+        "vi": "Chúng ta cần đặt một phòng.",
+        "source": "original"
+      },
+      {
+        "en": "I brought bread and cheese.",
+        "vi": "Tôi mang bánh mì và phô mai.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 54,
+    "source": "original"
+  }
+]

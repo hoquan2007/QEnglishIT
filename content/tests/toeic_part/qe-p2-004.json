@@ -1,0 +1,1476 @@
+{
+  "slug": "qe-p2-004",
+  "title": "TOEIC Part 2 – Hỏi đáp 04 (Mục tiêu 900)",
+  "collection": "QEnglishIT TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "900",
+  "difficulty": 5,
+  "cefr": "C1",
+  "duration_minutes": 15,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part2",
+    "question-response",
+    "listening",
+    "business-context",
+    "advanced-inference"
+  ],
+  "sections": [
+    {
+      "key": "part2",
+      "title": "Part 2 – Question–Response",
+      "parts": [
+        2
+      ],
+      "count": 30,
+      "minutes": 15
+    }
+  ],
+  "groups": [
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: When can Procurement release the purchase order for the lab freezer?\n(A) Once Finance posts the approved capital code.\n(B) The freezer has two temperature zones.\n(C) Procurement moved to the second floor last year.",
+      "transcript_vi": "Q: Khi nào phòng Mua sắm có thể phát hành đơn đặt hàng cho tủ đông phòng thí nghiệm?\n(A) Ngay khi Tài chính ghi nhận mã vốn đã được phê duyệt.\n(B) Tủ đông có hai vùng nhiệt độ.\n(C) Phòng Mua sắm chuyển lên tầng hai vào năm ngoái.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Once Finance posts the approved capital code."
+            },
+            {
+              "key": "B",
+              "text": "The freezer has two temperature zones."
+            },
+            {
+              "key": "C",
+              "text": "Procurement moved to the second floor last year."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống capital equipment purchase và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Khi nào phòng Mua sắm có thể phát hành đơn đặt hàng cho tủ đông phòng thí nghiệm?\n(A) Ngay khi Tài chính ghi nhận mã vốn đã được phê duyệt.\n(B) Tủ đông có hai vùng nhiệt độ.\n(C) Phòng Mua sắm chuyển lên tầng hai vào năm ngoái.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "budget-release-timing"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Has Legal cleared the slogan for the regional campaign?\n(A) The regional office closes at six.\n(B) The media team has already booked the approved artwork.\n(C) We used a shorter slogan last spring.",
+      "transcript_vi": "Q: Pháp chế đã duyệt khẩu hiệu cho chiến dịch khu vực chưa?\n(A) Văn phòng khu vực đóng cửa lúc sáu giờ.\n(B) Nhóm truyền thông đã đặt lịch cho artwork được duyệt.\n(C) Mùa xuân trước chúng ta dùng khẩu hiệu ngắn hơn.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The regional office closes at six."
+            },
+            {
+              "key": "B",
+              "text": "The media team has already booked the approved artwork."
+            },
+            {
+              "key": "C",
+              "text": "We used a shorter slogan last spring."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống brand campaign approval và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Pháp chế đã duyệt khẩu hiệu cho chiến dịch khu vực chưa?\n(A) Văn phòng khu vực đóng cửa lúc sáu giờ.\n(B) Nhóm truyền thông đã đặt lịch cho artwork được duyệt.\n(C) Mùa xuân trước chúng ta dùng khẩu hiệu ngắn hơn.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-approval-from-downstream-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Should we renew the freight contract now or wait for the fuel review?\n(A) The warehouse receives freight until nine.\n(B) The current contract lists three carriers.\n(C) Wait—the surcharge formula is being recalculated this week.",
+      "transcript_vi": "Q: Chúng ta nên gia hạn hợp đồng vận chuyển ngay hay chờ rà soát nhiên liệu?\n(A) Kho nhận hàng đến chín giờ.\n(B) Hợp đồng hiện tại liệt kê ba hãng vận chuyển.\n(C) Hãy chờ—công thức phụ phí đang được tính lại tuần này.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The warehouse receives freight until nine."
+            },
+            {
+              "key": "B",
+              "text": "The current contract lists three carriers."
+            },
+            {
+              "key": "C",
+              "text": "Wait—the surcharge formula is being recalculated this week."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống freight contract renewal và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Chúng ta nên gia hạn hợp đồng vận chuyển ngay hay chờ rà soát nhiên liệu?\n(A) Kho nhận hàng đến chín giờ.\n(B) Hợp đồng hiện tại liệt kê ba hãng vận chuyển.\n(C) Hãy chờ—công thức phụ phí đang được tính lại tuần này.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "choice-question"
+          ],
+          "skill_tags": [
+            "select-option-by-contract-condition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Isn't visitor parking free after four?\n(A) The visitors arrived before lunch.\n(B) Only on weekends; weekday rates apply until six.\n(C) The parking entrance is behind the hotel.",
+      "transcript_vi": "Q: Bãi đỗ xe cho khách không miễn phí sau bốn giờ sao?\n(A) Khách đã đến trước bữa trưa.\n(B) Chỉ vào cuối tuần; ngày thường vẫn tính phí đến sáu giờ.\n(C) Lối vào bãi đỗ xe ở phía sau khách sạn.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The visitors arrived before lunch."
+            },
+            {
+              "key": "B",
+              "text": "Only on weekends; weekday rates apply until six."
+            },
+            {
+              "key": "C",
+              "text": "The parking entrance is behind the hotel."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống visitor parking policy và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bãi đỗ xe cho khách không miễn phí sau bốn giờ sao?\n(A) Khách đã đến trước bữa trưa.\n(B) Chỉ vào cuối tuần; ngày thường vẫn tính phí đến sáu giờ.\n(C) Lối vào bãi đỗ xe ở phía sau khách sạn.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "negative-question"
+          ],
+          "skill_tags": [
+            "correct-premise-with-exception"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: The overnight backup completed, but the integrity check failed.\n(A) The server room is on the lower level.\n(B) We changed the backup window last month.\n(C) Then I’ll keep the old snapshot until the new one is verified.",
+      "transcript_vi": "Q: Bản sao lưu qua đêm đã hoàn tất, nhưng kiểm tra tính toàn vẹn thất bại.\n(A) Phòng máy chủ ở tầng dưới.\n(B) Chúng ta đã đổi khung giờ sao lưu tháng trước.\n(C) Vậy tôi sẽ giữ bản snapshot cũ cho đến khi bản mới được xác minh.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The server room is on the lower level."
+            },
+            {
+              "key": "B",
+              "text": "We changed the backup window last month."
+            },
+            {
+              "key": "C",
+              "text": "Then I’ll keep the old snapshot until the new one is verified."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống backup system alert và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bản sao lưu qua đêm đã hoàn tất, nhưng kiểm tra tính toàn vẹn thất bại.\n(A) Phòng máy chủ ở tầng dưới.\n(B) Chúng ta đã đổi khung giờ sao lưu tháng trước.\n(C) Vậy tôi sẽ giữ bản snapshot cũ cho đến khi bản mới được xác minh.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "statement"
+          ],
+          "skill_tags": [
+            "respond-to-operational-risk"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Could you send the revised drawings to the contractor this afternoon?\n(A) I can, as soon as the engineer signs the revision block.\n(B) The contractor uses a shared project folder.\n(C) The drawings show the north entrance.",
+      "transcript_vi": "Q: Bạn có thể gửi bản vẽ đã chỉnh sửa cho nhà thầu chiều nay không?\n(A) Được, ngay khi kỹ sư ký vào ô sửa đổi.\n(B) Nhà thầu dùng thư mục dự án dùng chung.\n(C) Bản vẽ thể hiện lối vào phía bắc.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I can, as soon as the engineer signs the revision block."
+            },
+            {
+              "key": "B",
+              "text": "The contractor uses a shared project folder."
+            },
+            {
+              "key": "C",
+              "text": "The drawings show the north entrance."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống construction drawing release và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bạn có thể gửi bản vẽ đã chỉnh sửa cho nhà thầu chiều nay không?\n(A) Được, ngay khi kỹ sư ký vào ô sửa đổi.\n(B) Nhà thầu dùng thư mục dự án dùng chung.\n(C) Bản vẽ thể hiện lối vào phía bắc.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "request"
+          ],
+          "skill_tags": [
+            "defer-action-until-authorized"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Who is confirming the wheelchair-accessible seating with the venue?\n(A) The venue added another afternoon session.\n(B) The seating chart is attached to the agenda.\n(C) Nora is—Facilities transferred that task to her yesterday.",
+      "transcript_vi": "Q: Ai đang xác nhận chỗ ngồi tiếp cận xe lăn với địa điểm tổ chức?\n(A) Địa điểm đã thêm một phiên buổi chiều.\n(B) Sơ đồ chỗ ngồi được đính kèm chương trình.\n(C) Nora phụ trách—Bộ phận Cơ sở vật chất đã chuyển việc đó cho cô ấy hôm qua.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The venue added another afternoon session."
+            },
+            {
+              "key": "B",
+              "text": "The seating chart is attached to the agenda."
+            },
+            {
+              "key": "C",
+              "text": "Nora is—Facilities transferred that task to her yesterday."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống conference accessibility arrangements và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Ai đang xác nhận chỗ ngồi tiếp cận xe lăn với địa điểm tổ chức?\n(A) Địa điểm đã thêm một phiên buổi chiều.\n(B) Sơ đồ chỗ ngồi được đính kèm chương trình.\n(C) Nora phụ trách—Bộ phận Cơ sở vật chất đã chuyển việc đó cho cô ấy hôm qua.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "identify-owner-via-delegation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: The calibration team is coming Thursday, isn't it?\n(A) They moved us to Friday because the reference unit is delayed.\n(B) The calibration certificate is valid for a year.\n(C) Thursday is usually our maintenance day.",
+      "transcript_vi": "Q: Nhóm hiệu chuẩn sẽ đến thứ Năm, đúng không?\n(A) Họ chuyển lịch sang thứ Sáu vì bộ chuẩn bị chậm.\n(B) Chứng nhận hiệu chuẩn có hiệu lực một năm.\n(C) Thứ Năm thường là ngày bảo trì của chúng ta.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They moved us to Friday because the reference unit is delayed."
+            },
+            {
+              "key": "B",
+              "text": "The calibration certificate is valid for a year."
+            },
+            {
+              "key": "C",
+              "text": "Thursday is usually our maintenance day."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống equipment calibration và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Nhóm hiệu chuẩn sẽ đến thứ Năm, đúng không?\n(A) Họ chuyển lịch sang thứ Sáu vì bộ chuẩn bị chậm.\n(B) Chứng nhận hiệu chuẩn có hiệu lực một năm.\n(C) Thứ Năm thường là ngày bảo trì của chúng ta.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "tag-question"
+          ],
+          "skill_tags": [
+            "correct-schedule-assumption"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Would you like me to arrange a car for the visiting director?\n(A) The director’s office is beside the boardroom.\n(B) Thanks, but her hotel has already confirmed a pickup.\n(C) The rental desk accepts corporate cards.",
+      "transcript_vi": "Q: Bạn có muốn tôi sắp xếp xe cho vị giám đốc đến thăm không?\n(A) Văn phòng giám đốc ở cạnh phòng họp hội đồng.\n(B) Cảm ơn, nhưng khách sạn của cô ấy đã xác nhận đón rồi.\n(C) Quầy thuê xe chấp nhận thẻ doanh nghiệp.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The director’s office is beside the boardroom."
+            },
+            {
+              "key": "B",
+              "text": "Thanks, but her hotel has already confirmed a pickup."
+            },
+            {
+              "key": "C",
+              "text": "The rental desk accepts corporate cards."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống executive airport transfer và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bạn có muốn tôi sắp xếp xe cho vị giám đốc đến thăm không?\n(A) Văn phòng giám đốc ở cạnh phòng họp hội đồng.\n(B) Cảm ơn, nhưng khách sạn của cô ấy đã xác nhận đón rồi.\n(C) Quầy thuê xe chấp nhận thẻ doanh nghiệp.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "offer"
+          ],
+          "skill_tags": [
+            "decline-because-existing-arrangement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why is the compliance certificate still pending?\n(A) The certificate is printed on security paper.\n(B) Compliance meetings are held upstairs.\n(C) The lab has not uploaded the final emissions result.",
+      "transcript_vi": "Q: Tại sao chứng nhận tuân thủ vẫn đang chờ?\n(A) Chứng nhận được in trên giấy bảo mật.\n(B) Các cuộc họp tuân thủ diễn ra ở tầng trên.\n(C) Phòng thí nghiệm chưa tải lên kết quả khí thải cuối cùng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The certificate is printed on security paper."
+            },
+            {
+              "key": "B",
+              "text": "Compliance meetings are held upstairs."
+            },
+            {
+              "key": "C",
+              "text": "The lab has not uploaded the final emissions result."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống product certification và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Tại sao chứng nhận tuân thủ vẫn đang chờ?\n(A) Chứng nhận được in trên giấy bảo mật.\n(B) Các cuộc họp tuân thủ diễn ra ở tầng trên.\n(C) Phòng thí nghiệm chưa tải lên kết quả khí thải cuối cùng.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "explain-delay-via-dependency"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Did the replacement key cards arrive from the printer?\n(A) Reception signed for a small secured parcel this morning.\n(B) We print temporary badges at the front desk.\n(C) The old cards expire at the end of the month.",
+      "transcript_vi": "Q: Thẻ khóa thay thế từ nhà in đã đến chưa?\n(A) Lễ tân đã ký nhận một kiện hàng bảo mật nhỏ sáng nay.\n(B) Chúng ta in thẻ tạm tại quầy lễ tân.\n(C) Thẻ cũ hết hạn vào cuối tháng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Reception signed for a small secured parcel this morning."
+            },
+            {
+              "key": "B",
+              "text": "We print temporary badges at the front desk."
+            },
+            {
+              "key": "C",
+              "text": "The old cards expire at the end of the month."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống replacement key cards và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Thẻ khóa thay thế từ nhà in đã đến chưa?\n(A) Lễ tân đã ký nhận một kiện hàng bảo mật nhỏ sáng nay.\n(B) Chúng ta in thẻ tạm tại quầy lễ tân.\n(C) Thẻ cũ hết hạn vào cuối tháng.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-delivery-from-evidence"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why don’t we move the final interview online?\n(A) The interview room has a new camera.\n(B) That would let the overseas candidate join without changing flights.\n(C) We interviewed three candidates yesterday.",
+      "transcript_vi": "Q: Sao chúng ta không chuyển vòng phỏng vấn cuối sang trực tuyến?\n(A) Phòng phỏng vấn có camera mới.\n(B) Như vậy ứng viên ở nước ngoài có thể tham gia mà không phải đổi chuyến bay.\n(C) Hôm qua chúng ta đã phỏng vấn ba ứng viên.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The interview room has a new camera."
+            },
+            {
+              "key": "B",
+              "text": "That would let the overseas candidate join without changing flights."
+            },
+            {
+              "key": "C",
+              "text": "We interviewed three candidates yesterday."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống hybrid interview scheduling và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Sao chúng ta không chuyển vòng phỏng vấn cuối sang trực tuyến?\n(A) Phòng phỏng vấn có camera mới.\n(B) Như vậy ứng viên ở nước ngoài có thể tham gia mà không phải đổi chuyến bay.\n(C) Hôm qua chúng ta đã phỏng vấn ba ứng viên.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "suggestion"
+          ],
+          "skill_tags": [
+            "evaluate-solution-against-constraint"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Where did the courier leave the signed lease package?\n(A) The lease begins on the first of July.\n(B) The courier route covers the financial district.\n(C) With building security, according to the delivery log.",
+      "transcript_vi": "Q: Người giao hàng đã để gói hợp đồng thuê đã ký ở đâu?\n(A) Hợp đồng thuê bắt đầu từ ngày một tháng Bảy.\n(B) Tuyến giao hàng bao phủ khu tài chính.\n(C) Theo nhật ký giao hàng, nó được để tại bộ phận an ninh tòa nhà.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The lease begins on the first of July."
+            },
+            {
+              "key": "B",
+              "text": "The courier route covers the financial district."
+            },
+            {
+              "key": "C",
+              "text": "With building security, according to the delivery log."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống signed lease documents và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Người giao hàng đã để gói hợp đồng thuê đã ký ở đâu?\n(A) Hợp đồng thuê bắt đầu từ ngày một tháng Bảy.\n(B) Tuyến giao hàng bao phủ khu tài chính.\n(C) Theo nhật ký giao hàng, nó được để tại bộ phận an ninh tòa nhà.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "locate-item-via-handoff-record"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: We have thirty-two registrations, but the training room seats only twenty-eight.\n(A) I’ll ask Facilities whether the larger room is still available.\n(B) The registration form closes tomorrow.\n(C) Most sessions begin at nine o’clock.",
+      "transcript_vi": "Q: Chúng ta có ba mươi hai đăng ký, nhưng phòng đào tạo chỉ có hai mươi tám chỗ.\n(A) Tôi sẽ hỏi Cơ sở vật chất xem phòng lớn hơn còn trống không.\n(B) Mẫu đăng ký đóng vào ngày mai.\n(C) Hầu hết các buổi học bắt đầu lúc chín giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I’ll ask Facilities whether the larger room is still available."
+            },
+            {
+              "key": "B",
+              "text": "The registration form closes tomorrow."
+            },
+            {
+              "key": "C",
+              "text": "Most sessions begin at nine o’clock."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống training enrollment và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Chúng ta có ba mươi hai đăng ký, nhưng phòng đào tạo chỉ có hai mươi tám chỗ.\n(A) Tôi sẽ hỏi Cơ sở vật chất xem phòng lớn hơn còn trống không.\n(B) Mẫu đăng ký đóng vào ngày mai.\n(C) Hầu hết các buổi học bắt đầu lúc chín giờ.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "statement"
+          ],
+          "skill_tags": [
+            "respond-to-capacity-shortfall"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Wasn't Daniel presenting the forecast today?\n(A) The forecast uses last quarter’s exchange rate.\n(B) Today’s agenda has four presentations.\n(C) He is, but Finance asked him to reconcile one variance first.",
+      "transcript_vi": "Q: Daniel không phải trình bày dự báo hôm nay sao?\n(A) Dự báo dùng tỷ giá của quý trước.\n(B) Chương trình hôm nay có bốn bài trình bày.\n(C) Đúng, nhưng Tài chính yêu cầu anh ấy đối chiếu một chênh lệch trước.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The forecast uses last quarter’s exchange rate."
+            },
+            {
+              "key": "B",
+              "text": "Today’s agenda has four presentations."
+            },
+            {
+              "key": "C",
+              "text": "He is, but Finance asked him to reconcile one variance first."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống quarterly forecast ownership và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Daniel không phải trình bày dự báo hôm nay sao?\n(A) Dự báo dùng tỷ giá của quý trước.\n(B) Chương trình hôm nay có bốn bài trình bày.\n(C) Đúng, nhưng Tài chính yêu cầu anh ấy đối chiếu một chênh lệch trước.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "negative-question"
+          ],
+          "skill_tags": [
+            "resolve-responsibility-with-delay"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Can you export the archived records before the migration starts?\n(A) The archive contains seven years of records.\n(B) Yes, provided Security approves the temporary storage location.\n(C) The migration window begins after midnight.",
+      "transcript_vi": "Q: Bạn có thể xuất hồ sơ lưu trữ trước khi quá trình di chuyển bắt đầu không?\n(A) Kho lưu trữ chứa bảy năm hồ sơ.\n(B) Có, với điều kiện An ninh phê duyệt nơi lưu trữ tạm thời.\n(C) Khung giờ di chuyển bắt đầu sau nửa đêm.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The archive contains seven years of records."
+            },
+            {
+              "key": "B",
+              "text": "Yes, provided Security approves the temporary storage location."
+            },
+            {
+              "key": "C",
+              "text": "The migration window begins after midnight."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống data retention export và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bạn có thể xuất hồ sơ lưu trữ trước khi quá trình di chuyển bắt đầu không?\n(A) Kho lưu trữ chứa bảy năm hồ sơ.\n(B) Có, với điều kiện An ninh phê duyệt nơi lưu trữ tạm thời.\n(C) Khung giờ di chuyển bắt đầu sau nửa đêm.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "request"
+          ],
+          "skill_tags": [
+            "conditional-commitment"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: How long will the failover test take?\n(A) About forty-five minutes if replication stays synchronized.\n(B) The test environment is in another region.\n(C) We ran a different test on Tuesday.",
+      "transcript_vi": "Q: Bài kiểm tra chuyển đổi dự phòng sẽ mất bao lâu?\n(A) Khoảng bốn mươi lăm phút nếu sao chép vẫn đồng bộ.\n(B) Môi trường kiểm thử ở khu vực khác.\n(C) Chúng ta đã chạy một bài kiểm tra khác vào thứ Ba.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "About forty-five minutes if replication stays synchronized."
+            },
+            {
+              "key": "B",
+              "text": "The test environment is in another region."
+            },
+            {
+              "key": "C",
+              "text": "We ran a different test on Tuesday."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống database failover test và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bài kiểm tra chuyển đổi dự phòng sẽ mất bao lâu?\n(A) Khoảng bốn mươi lăm phút nếu sao chép vẫn đồng bộ.\n(B) Môi trường kiểm thử ở khu vực khác.\n(C) Chúng ta đã chạy một bài kiểm tra khác vào thứ Ba.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "duration-with-risk-condition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Does the extended warranty cover an on-site technician?\n(A) The warranty number is on the invoice.\n(B) Our technicians carry replacement sensors.\n(C) Labor is covered, though travel charges are billed separately.",
+      "transcript_vi": "Q: Bảo hành mở rộng có bao gồm kỹ thuật viên tại chỗ không?\n(A) Số bảo hành nằm trên hóa đơn.\n(B) Kỹ thuật viên của chúng ta mang theo cảm biến thay thế.\n(C) Chi phí nhân công được bảo hành, nhưng phí đi lại được tính riêng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The warranty number is on the invoice."
+            },
+            {
+              "key": "B",
+              "text": "Our technicians carry replacement sensors."
+            },
+            {
+              "key": "C",
+              "text": "Labor is covered, though travel charges are billed separately."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống service warranty và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bảo hành mở rộng có bao gồm kỹ thuật viên tại chỗ không?\n(A) Số bảo hành nằm trên hóa đơn.\n(B) Kỹ thuật viên của chúng ta mang theo cảm biến thay thế.\n(C) Chi phí nhân công được bảo hành, nhưng phí đi lại được tính riêng.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "yes-no"
+          ],
+          "skill_tags": [
+            "partial-coverage-interpretation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Should the risk dashboard go to the board monthly or quarterly?\n(A) The dashboard includes six risk categories.\n(B) Quarterly matches the board’s scheduled review cycle.\n(C) The boardroom screen was replaced recently.",
+      "transcript_vi": "Q: Bảng điều khiển rủi ro nên gửi cho hội đồng hàng tháng hay hàng quý?\n(A) Bảng điều khiển gồm sáu nhóm rủi ro.\n(B) Hàng quý phù hợp với chu kỳ rà soát đã lên lịch của hội đồng.\n(C) Màn hình phòng hội đồng vừa được thay gần đây.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The dashboard includes six risk categories."
+            },
+            {
+              "key": "B",
+              "text": "Quarterly matches the board’s scheduled review cycle."
+            },
+            {
+              "key": "C",
+              "text": "The boardroom screen was replaced recently."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống risk dashboard reporting và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bảng điều khiển rủi ro nên gửi cho hội đồng hàng tháng hay hàng quý?\n(A) Bảng điều khiển gồm sáu nhóm rủi ro.\n(B) Hàng quý phù hợp với chu kỳ rà soát đã lên lịch của hội đồng.\n(C) Màn hình phòng hội đồng vừa được thay gần đây.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "choice-question"
+          ],
+          "skill_tags": [
+            "choose-reporting-frequency-by-governance"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: What is holding up the new supplier account?\n(A) Their tax form is still missing a required signature.\n(B) The account manager sits near Procurement.\n(C) The supplier offers thirty-day terms.",
+      "transcript_vi": "Q: Điều gì đang làm chậm tài khoản nhà cung cấp mới?\n(A) Biểu mẫu thuế của họ vẫn thiếu chữ ký bắt buộc.\n(B) Quản lý tài khoản ngồi gần phòng Mua sắm.\n(C) Nhà cung cấp cho điều khoản thanh toán ba mươi ngày.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Their tax form is still missing a required signature."
+            },
+            {
+              "key": "B",
+              "text": "The account manager sits near Procurement."
+            },
+            {
+              "key": "C",
+              "text": "The supplier offers thirty-day terms."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống supplier onboarding và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Điều gì đang làm chậm tài khoản nhà cung cấp mới?\n(A) Biểu mẫu thuế của họ vẫn thiếu chữ ký bắt buộc.\n(B) Quản lý tài khoản ngồi gần phòng Mua sắm.\n(C) Nhà cung cấp cho điều khoản thanh toán ba mươi ngày.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "identify-cause-from-process-state"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: The temporary office is accessible by elevator, isn't it?\n(A) The relocation begins after the holiday.\n(B) The elevator inspection is annual.\n(C) Yes, but visitors need to use the east lobby entrance.",
+      "transcript_vi": "Q: Văn phòng tạm có thể đi bằng thang máy, đúng không?\n(A) Việc chuyển văn phòng bắt đầu sau kỳ nghỉ.\n(B) Thang máy được kiểm tra hàng năm.\n(C) Đúng, nhưng khách phải dùng lối vào sảnh phía đông.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The relocation begins after the holiday."
+            },
+            {
+              "key": "B",
+              "text": "The elevator inspection is annual."
+            },
+            {
+              "key": "C",
+              "text": "Yes, but visitors need to use the east lobby entrance."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống temporary office relocation và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Văn phòng tạm có thể đi bằng thang máy, đúng không?\n(A) Việc chuyển văn phòng bắt đầu sau kỳ nghỉ.\n(B) Thang máy được kiểm tra hàng năm.\n(C) Đúng, nhưng khách phải dùng lối vào sảnh phía đông.",
+          "difficulty": 4,
+          "tags": [
+            "part2",
+            "tag-question"
+          ],
+          "skill_tags": [
+            "confirm-accessibility-via-route"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Yesterday’s regional sales are missing from the dashboard.\n(A) The regional offices use the same dashboard.\n(B) The overnight import failed, so I’m rerunning that batch now.\n(C) Yesterday’s meeting ended before five.",
+      "transcript_vi": "Q: Doanh số khu vực ngày hôm qua đang thiếu trên bảng điều khiển.\n(A) Các văn phòng khu vực dùng cùng một bảng điều khiển.\n(B) Lần nhập dữ liệu qua đêm bị lỗi, nên tôi đang chạy lại lô đó.\n(C) Cuộc họp hôm qua kết thúc trước năm giờ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The regional offices use the same dashboard."
+            },
+            {
+              "key": "B",
+              "text": "The overnight import failed, so I’m rerunning that batch now."
+            },
+            {
+              "key": "C",
+              "text": "Yesterday’s meeting ended before five."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống sales analytics import và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Doanh số khu vực ngày hôm qua đang thiếu trên bảng điều khiển.\n(A) Các văn phòng khu vực dùng cùng một bảng điều khiển.\n(B) Lần nhập dữ liệu qua đêm bị lỗi, nên tôi đang chạy lại lô đó.\n(C) Cuộc họp hôm qua kết thúc trước năm giờ.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "statement"
+          ],
+          "skill_tags": [
+            "diagnose-data-gap"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Could Maintenance repair aisle four before the inventory count?\n(A) They can, if Receiving clears the pallets by noon.\n(B) The count sheet has four columns.\n(C) Maintenance stores tools near aisle six.",
+      "transcript_vi": "Q: Bộ phận Bảo trì có thể sửa lối đi số bốn trước khi kiểm kê không?\n(A) Họ có thể, nếu bộ phận Nhận hàng dọn các pallet trước trưa.\n(B) Phiếu kiểm kê có bốn cột.\n(C) Bảo trì cất dụng cụ gần lối đi số sáu.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They can, if Receiving clears the pallets by noon."
+            },
+            {
+              "key": "B",
+              "text": "The count sheet has four columns."
+            },
+            {
+              "key": "C",
+              "text": "Maintenance stores tools near aisle six."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống warehouse aisle repair và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Bộ phận Bảo trì có thể sửa lối đi số bốn trước khi kiểm kê không?\n(A) Họ có thể, nếu bộ phận Nhận hàng dọn các pallet trước trưa.\n(B) Phiếu kiểm kê có bốn cột.\n(C) Bảo trì cất dụng cụ gần lối đi số sáu.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "request"
+          ],
+          "skill_tags": [
+            "negotiate-sequence-by-dependency"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Has the client signed the renewal agreement?\n(A) The client is visiting next month.\n(B) The renewal covers two service locations.\n(C) A countersigned copy appeared in the contract system this morning.",
+      "transcript_vi": "Q: Khách hàng đã ký thỏa thuận gia hạn chưa?\n(A) Khách hàng sẽ đến thăm vào tháng sau.\n(B) Gia hạn bao gồm hai địa điểm dịch vụ.\n(C) Một bản có đủ chữ ký đã xuất hiện trong hệ thống hợp đồng sáng nay.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The client is visiting next month."
+            },
+            {
+              "key": "B",
+              "text": "The renewal covers two service locations."
+            },
+            {
+              "key": "C",
+              "text": "A countersigned copy appeared in the contract system this morning."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống contract signature và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Khách hàng đã ký thỏa thuận gia hạn chưa?\n(A) Khách hàng sẽ đến thăm vào tháng sau.\n(B) Gia hạn bao gồm hai địa điểm dịch vụ.\n(C) Một bản có đủ chữ ký đã xuất hiện trong hệ thống hợp đồng sáng nay.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "yes-no"
+          ],
+          "skill_tags": [
+            "infer-status-from-artifact"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Which branch can process the foreign-currency deposit today?\n(A) The deposit slip is in the finance folder.\n(B) The airport branch handles that service every day.\n(C) We opened the downtown account last year.",
+      "transcript_vi": "Q: Chi nhánh nào có thể xử lý khoản gửi ngoại tệ hôm nay?\n(A) Phiếu gửi tiền nằm trong thư mục tài chính.\n(B) Chi nhánh sân bay xử lý dịch vụ đó mỗi ngày.\n(C) Chúng ta mở tài khoản trung tâm thành phố năm ngoái.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The deposit slip is in the finance folder."
+            },
+            {
+              "key": "B",
+              "text": "The airport branch handles that service every day."
+            },
+            {
+              "key": "C",
+              "text": "We opened the downtown account last year."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống foreign currency deposit và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Chi nhánh nào có thể xử lý khoản gửi ngoại tệ hôm nay?\n(A) Phiếu gửi tiền nằm trong thư mục tài chính.\n(B) Chi nhánh sân bay xử lý dịch vụ đó mỗi ngày.\n(C) Chúng ta mở tài khoản trung tâm thành phố năm ngoái.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "select-location-by-capability"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Don't we need three client references for this bid?\n(A) Only for bids above fifty thousand dollars; this one is below that threshold.\n(B) The client references are listed alphabetically.\n(C) Three firms submitted bids last quarter.",
+      "transcript_vi": "Q: Chúng ta không cần ba thư giới thiệu khách hàng cho hồ sơ thầu này sao?\n(A) Chỉ với gói thầu trên năm mươi nghìn đô la; gói này thấp hơn ngưỡng đó.\n(B) Các thư giới thiệu khách hàng được liệt kê theo thứ tự chữ cái.\n(C) Ba công ty đã nộp thầu quý trước.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Only for bids above fifty thousand dollars; this one is below that threshold."
+            },
+            {
+              "key": "B",
+              "text": "The client references are listed alphabetically."
+            },
+            {
+              "key": "C",
+              "text": "Three firms submitted bids last quarter."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống tender reference requirement và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Chúng ta không cần ba thư giới thiệu khách hàng cho hồ sơ thầu này sao?\n(A) Chỉ với gói thầu trên năm mươi nghìn đô la; gói này thấp hơn ngưỡng đó.\n(B) Các thư giới thiệu khách hàng được liệt kê theo thứ tự chữ cái.\n(C) Ba công ty đã nộp thầu quý trước.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "negative-question"
+          ],
+          "skill_tags": [
+            "apply-threshold-exception"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Why hasn’t the ferry reservation been confirmed?\n(A) The ferry terminal has a café upstairs.\n(B) We reserved passenger seats last week.\n(C) The operator is still checking space for the service van.",
+      "transcript_vi": "Q: Tại sao đặt chỗ phà vẫn chưa được xác nhận?\n(A) Nhà ga phà có quán cà phê ở tầng trên.\n(B) Chúng ta đã đặt ghế hành khách tuần trước.\n(C) Nhà vận hành vẫn đang kiểm tra chỗ cho xe dịch vụ.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The ferry terminal has a café upstairs."
+            },
+            {
+              "key": "B",
+              "text": "We reserved passenger seats last week."
+            },
+            {
+              "key": "C",
+              "text": "The operator is still checking space for the service van."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống ferry vehicle reservation và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Tại sao đặt chỗ phà vẫn chưa được xác nhận?\n(A) Nhà ga phà có quán cà phê ở tầng trên.\n(B) Chúng ta đã đặt ghế hành khách tuần trước.\n(C) Nhà vận hành vẫn đang kiểm tra chỗ cho xe dịch vụ.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "reason-pending-via-capacity"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Should managers approve these expenses by email or in the finance system?\n(A) The finance system was upgraded in May.\n(B) In the system, since the audit trail is mandatory.\n(C) Managers receive the monthly budget report.",
+      "transcript_vi": "Q: Quản lý nên phê duyệt các chi phí này qua email hay trong hệ thống tài chính?\n(A) Hệ thống tài chính đã được nâng cấp vào tháng Năm.\n(B) Trong hệ thống, vì bắt buộc phải có dấu vết kiểm toán.\n(C) Quản lý nhận báo cáo ngân sách hàng tháng.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The finance system was upgraded in May."
+            },
+            {
+              "key": "B",
+              "text": "In the system, since the audit trail is mandatory."
+            },
+            {
+              "key": "C",
+              "text": "Managers receive the monthly budget report."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống expense approval workflow và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Quản lý nên phê duyệt các chi phí này qua email hay trong hệ thống tài chính?\n(A) Hệ thống tài chính đã được nâng cấp vào tháng Năm.\n(B) Trong hệ thống, vì bắt buộc phải có dấu vết kiểm toán.\n(C) Quản lý nhận báo cáo ngân sách hàng tháng.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "choice-question"
+          ],
+          "skill_tags": [
+            "choose-method-by-auditability"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: Can we transfer the unused licenses to the new subsidiary?\n(A) Yes, once the vendor adds the subsidiary to our master agreement.\n(B) The unused licenses expire next summer.\n(C) The subsidiary has offices in two cities.",
+      "transcript_vi": "Q: Chúng ta có thể chuyển giấy phép chưa dùng cho công ty con mới không?\n(A) Có, sau khi nhà cung cấp thêm công ty con vào thỏa thuận khung của chúng ta.\n(B) Các giấy phép chưa dùng hết hạn vào mùa hè năm sau.\n(C) Công ty con có văn phòng ở hai thành phố.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Yes, once the vendor adds the subsidiary to our master agreement."
+            },
+            {
+              "key": "B",
+              "text": "The unused licenses expire next summer."
+            },
+            {
+              "key": "C",
+              "text": "The subsidiary has offices in two cities."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Lời đáp đúng xử lý trực tiếp ý định giao tiếp trong tình huống software license transfer và phù hợp với điều kiện hoặc bằng chứng được nêu.",
+          "translation": "Q: Chúng ta có thể chuyển giấy phép chưa dùng cho công ty con mới không?\n(A) Có, sau khi nhà cung cấp thêm công ty con vào thỏa thuận khung của chúng ta.\n(B) Các giấy phép chưa dùng hết hạn vào mùa hè năm sau.\n(C) Công ty con có văn phòng ở hai thành phố.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "yes-no"
+          ],
+          "skill_tags": [
+            "qualified-confirmation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "listening",
+      "instructions": "Listen to a question or statement and three responses. Choose the best response.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "Q: When will the revised production schedule be released?\n(A) The production line runs two shifts.\n(B) After Quality closes the final deviation report.\n(C) The schedule is posted on the planning board.",
+      "transcript_vi": "Q: Khi nào lịch sản xuất sửa đổi sẽ được phát hành?\n(A) Dây chuyền sản xuất chạy hai ca.\n(B) Sau khi bộ phận Chất lượng đóng báo cáo sai lệch cuối cùng.\n(C) Lịch được đăng trên bảng kế hoạch.",
+      "image_description": null,
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The production line runs two shifts."
+            },
+            {
+              "key": "B",
+              "text": "After Quality closes the final deviation report."
+            },
+            {
+              "key": "C",
+              "text": "The schedule is posted on the planning board."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Lời đáp đúng nêu điều kiện kiểm soát phải hoàn tất trước khi lịch sản xuất sửa đổi được phát hành.",
+          "translation": "Q: Khi nào lịch sản xuất sửa đổi sẽ được phát hành?\n(A) Dây chuyền sản xuất chạy hai ca.\n(B) Sau khi bộ phận Chất lượng đóng báo cáo sai lệch cuối cùng.\n(C) Lịch được đăng trên bảng kế hoạch.",
+          "difficulty": 5,
+          "tags": [
+            "part2",
+            "wh-question"
+          ],
+          "skill_tags": [
+            "when-after-control-gate"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

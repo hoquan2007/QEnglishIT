@@ -48,6 +48,19 @@ def read_ipa(path):
     return result
 
 
+def tagged_uk_spelling_variant(word, tagged, spellings):
+    """Use only an attested UK pronunciation of an explicitly mapped UK spelling."""
+    for spelling, canonical in spellings.items():
+        if canonical != word:
+            continue
+        variants = list(dict.fromkeys(
+            v for v in tagged.get(spelling, {}).get('uk', []) if valid_ipa(v)
+        ))
+        if variants:
+            return variants, spelling
+    return [], None
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--input', default=str(ROOT / 'content/vocab/headwords.json'))
@@ -87,6 +100,7 @@ def main():
             # US/UK spelling variants may differ: use only explicit editorial mappings.
             variants = dictionaries[dialect].get(word)
             source = 'ipa-dict-' + dialect
+            pronunciation_spelling = None
             if not variants and dialect == 'uk':
                 for british, american in wordlist.SPELLINGS.items():
                     if american == word and british in dictionaries[dialect]:
@@ -97,11 +111,20 @@ def main():
             if not variants:
                 variants = list(dict.fromkeys(v for v in tagged.get(word, {}).get(dialect, []) if valid_ipa(v)))
                 source = 'kaikki-simple'
+            if not variants and dialect == 'uk':
+                # Example: furor (US headword) has an attested UK furore entry.
+                # Keep the actual spelling used as evidence; never synthesize IPA.
+                variants, pronunciation_spelling = tagged_uk_spelling_variant(
+                    word, tagged, wordlist.SPELLINGS
+                )
+                source = 'kaikki-simple'
             if not variants:
                 missing[dialect].append(word)
                 continue
             field = 'ipa_' + dialect
             record = {'lemma': word, field: variants[0], 'source': source, 'reviewed': False}
+            if pronunciation_spelling:
+                record['pronunciation_spelling'] = pronunciation_spelling
             if len(variants) > 1:
                 record[field + '_variants'] = variants
             by_source[(source, dialect)].append(record)

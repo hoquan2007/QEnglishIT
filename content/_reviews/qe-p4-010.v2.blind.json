@@ -1,0 +1,778 @@
+{
+  "slug": "qe-p4-010",
+  "revision": "920268b1ab2fc1d885b7ad4a8ed774f974ca89313e37f119e1a3630e67e3e448",
+  "title": "QEnglish TOEIC Part 4 Draft Test 010",
+  "exam_type": "toeic_part",
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Flooding has closed the rail corridor used for our primary resin shipments. We have about six days of resin on site. Trucking is available as an alternative, but transit would take eighteen hours longer and cost roughly twelve percent more. Procurement is securing capacity, while planners should model which orders can shift by one day without affecting customer commitments.",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "What has interrupted the primary resin shipments?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Flooding has closed a rail corridor."
+            },
+            {
+              "key": "B",
+              "text": "The resin supplier has canceled all orders."
+            },
+            {
+              "key": "C",
+              "text": "A trucking strike has closed the factory."
+            },
+            {
+              "key": "D",
+              "text": "A shortage of storage space has halted shipments."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What disadvantage of using trucks is mentioned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Shorter transit but higher costs"
+            },
+            {
+              "key": "B",
+              "text": "Longer transit and higher costs"
+            },
+            {
+              "key": "C",
+              "text": "Higher inventory requirements with no transit delay"
+            },
+            {
+              "key": "D",
+              "text": "Lower costs but fewer delivery dates"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What should planners identify while Procurement secures capacity?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All customers willing to pay the extra freight cost"
+            },
+            {
+              "key": "B",
+              "text": "Orders that must be canceled immediately"
+            },
+            {
+              "key": "C",
+              "text": "Orders that can shift by a day without affecting customer commitments"
+            },
+            {
+              "key": "D",
+              "text": "Rail shipments that can leave before the flooding"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Our revised full-year guidance now reflects nine months of contribution from the acquisition expected to close this quarter. The revenue range is higher, while the operating-margin range is unchanged because projected integration costs offset near-term scale benefits. Analysts should use the supplemental schedule to separate acquired growth from the base business.",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "What does the revised full-year guidance account for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Three months of revenue lost from the base business"
+            },
+            {
+              "key": "B",
+              "text": "Nine months of contribution from the planned acquisition"
+            },
+            {
+              "key": "C",
+              "text": "A full year of contribution from an already completed acquisition"
+            },
+            {
+              "key": "D",
+              "text": "A delay of the acquisition until next year"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "Why is the operating-margin range unchanged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Integration costs offset near-term scale benefits."
+            },
+            {
+              "key": "B",
+              "text": "The revenue range has been reduced."
+            },
+            {
+              "key": "C",
+              "text": "The acquisition has no integration costs."
+            },
+            {
+              "key": "D",
+              "text": "The acquired business contributes no revenue."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "Which resource should analysts use to distinguish the sources of growth?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The unchanged operating-margin range alone"
+            },
+            {
+              "key": "B",
+              "text": "The acquisition closing timetable"
+            },
+            {
+              "key": "C",
+              "text": "The previous year's acquisition announcement"
+            },
+            {
+              "key": "D",
+              "text": "The supplemental schedule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Starting next month, support-call recordings will have a default retention period of twelve months instead of eighteen. Legal holds and customer contracts can override that period, so do not manually delete existing recordings. Team leads should review locally downloaded copies because those files sit outside the automated retention process.",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "How will the default retention period change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will increase from twelve to eighteen months."
+            },
+            {
+              "key": "B",
+              "text": "It will decrease from twelve to six months."
+            },
+            {
+              "key": "C",
+              "text": "It will remain at eighteen months."
+            },
+            {
+              "key": "D",
+              "text": "It will decrease from eighteen to twelve months."
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "Under what circumstances can the default period be overridden?",
+          "options": [
+            {
+              "key": "A",
+              "text": "When a recording is less than twelve months old"
+            },
+            {
+              "key": "B",
+              "text": "When legal holds or customer contracts require it"
+            },
+            {
+              "key": "C",
+              "text": "Whenever an employee requests immediate deletion"
+            },
+            {
+              "key": "D",
+              "text": "Whenever a team lead downloads a file"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "Why must team leads review locally downloaded recordings?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will all be transferred to customer accounts."
+            },
+            {
+              "key": "B",
+              "text": "They are stored only under legal holds."
+            },
+            {
+              "key": "C",
+              "text": "They are outside the automated retention process."
+            },
+            {
+              "key": "D",
+              "text": "They are automatically deleted after every call."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: The solar array passed its performance test yesterday, but commercial operation cannot begin until the utility verifies the revenue meter on Thursday. Construction crews may demobilize nonessential equipment now, although the controls team must remain on site for the live meter test and final handoff.",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "What prevents commercial operation of the solar array from beginning?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The array failed its performance test."
+            },
+            {
+              "key": "B",
+              "text": "The utility has yet to verify the revenue meter."
+            },
+            {
+              "key": "C",
+              "text": "The controls team has not installed the array."
+            },
+            {
+              "key": "D",
+              "text": "All construction equipment must be removed first."
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "When is the utility's verification scheduled?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thursday"
+            },
+            {
+              "key": "B",
+              "text": "Yesterday"
+            },
+            {
+              "key": "C",
+              "text": "Next Monday"
+            },
+            {
+              "key": "D",
+              "text": "At the end of next month"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "Which team must remain on site for the live meter test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All construction crews"
+            },
+            {
+              "key": "B",
+              "text": "The commercial sales team"
+            },
+            {
+              "key": "C",
+              "text": "The equipment transportation team"
+            },
+            {
+              "key": "D",
+              "text": "The controls team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Overall trial enrollment is close to target, but two sites are screening many candidates and enrolling very few. The pattern suggests a difference in how eligibility criteria are being interpreted rather than a shortage of interested participants. Before opening another site, review the screening logs and schedule a calibration call with those coordinators.",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What pattern is occurring at two trial sites?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Many candidates are screened but few are enrolled."
+            },
+            {
+              "key": "B",
+              "text": "No candidates have expressed interest in screening."
+            },
+            {
+              "key": "C",
+              "text": "Few candidates are screened but most are enrolled."
+            },
+            {
+              "key": "D",
+              "text": "Enrollment greatly exceeds the overall target."
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "What does the speaker suspect is causing this pattern?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A general shortage of interested candidates"
+            },
+            {
+              "key": "B",
+              "text": "Inconsistent interpretation of eligibility criteria"
+            },
+            {
+              "key": "C",
+              "text": "A failure to open any trial sites"
+            },
+            {
+              "key": "D",
+              "text": "A decision to reduce the overall enrollment target"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What should happen before another trial site is opened?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Recruit more candidates at a new site immediately."
+            },
+            {
+              "key": "B",
+              "text": "Close both sites with low enrollment."
+            },
+            {
+              "key": "C",
+              "text": "Review screening logs and arrange a calibration call."
+            },
+            {
+              "key": "D",
+              "text": "Lower the eligibility standards without review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: For the winter trial, the weekday 7:10 flight will depart twenty-five minutes earlier. The change improves aircraft utilization enough to support an additional afternoon segment, and all published connections remain above the minimum connection time. We will monitor missed connections during the first two weeks before making the schedule permanent.",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "Why is the weekday flight departing earlier during the trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To accommodate a permanent change in airport operating hours"
+            },
+            {
+              "key": "B",
+              "text": "To reduce the number of afternoon flights"
+            },
+            {
+              "key": "C",
+              "text": "To shorten the minimum connection time"
+            },
+            {
+              "key": "D",
+              "text": "To improve aircraft utilization and support an extra afternoon segment"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "What is true of the published connections under the revised schedule?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They all require an additional twenty-five minutes."
+            },
+            {
+              "key": "B",
+              "text": "They fall below the minimum connection time."
+            },
+            {
+              "key": "C",
+              "text": "They remain above the minimum connection time."
+            },
+            {
+              "key": "D",
+              "text": "They have been removed from the winter timetable."
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What will the airline monitor during the first two weeks?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Aircraft maintenance costs"
+            },
+            {
+              "key": "B",
+              "text": "Afternoon flight cancellations only"
+            },
+            {
+              "key": "C",
+              "text": "Missed connections"
+            },
+            {
+              "key": "D",
+              "text": "Changes in ticket prices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Storm claims are arriving faster than field inspectors can visit them. Low-value property losses may therefore be reviewed remotely using customer photos and receipts. Coverage terms and deductibles do not change, and adjusters must document why remote review is appropriate. Any claim involving structural-safety concerns still requires an in-person inspection.",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why are some storm claims being reviewed remotely?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Claims are arriving faster than inspectors can visit."
+            },
+            {
+              "key": "B",
+              "text": "Field inspections have been permanently discontinued."
+            },
+            {
+              "key": "C",
+              "text": "Customers are no longer required to provide evidence."
+            },
+            {
+              "key": "D",
+              "text": "Deductibles have been reduced for all storm losses."
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "What remains unchanged under the remote-review process?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The method used to review all low-value losses"
+            },
+            {
+              "key": "B",
+              "text": "Coverage terms and deductibles"
+            },
+            {
+              "key": "C",
+              "text": "The number of inspectors assigned to each claim"
+            },
+            {
+              "key": "D",
+              "text": "The requirement for every low-value claim to receive a field visit"
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "Which claims still require an in-person inspection?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Claims involving structural-safety concerns"
+            },
+            {
+              "key": "B",
+              "text": "All claims with customer photographs"
+            },
+            {
+              "key": "C",
+              "text": "Every low-value property claim with receipts"
+            },
+            {
+              "key": "D",
+              "text": "Claims where remote review has been documented as appropriate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: At Wednesday's planning hearing, the waterfront proposal will be heard after the transit item rather than first. Staff requested the change so a revised traffic memo can be attached before discussion. Written comments submitted by noon Tuesday will still enter the official record, and speakers who already registered do not need to sign up again.",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "What change has been made to Wednesday's hearing agenda?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Written comments will replace both agenda items."
+            },
+            {
+              "key": "B",
+              "text": "The waterfront proposal has been removed."
+            },
+            {
+              "key": "C",
+              "text": "The waterfront proposal will follow the transit item."
+            },
+            {
+              "key": "D",
+              "text": "The transit item will follow the waterfront proposal."
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "Why did staff request the change in order?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To allow time to attach a revised traffic memo"
+            },
+            {
+              "key": "B",
+              "text": "To extend the deadline for all written comments"
+            },
+            {
+              "key": "C",
+              "text": "To allow registered speakers to sign up again"
+            },
+            {
+              "key": "D",
+              "text": "To cancel discussion of the transit item"
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "What is the deadline for optional written comments to enter the official record?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Noon Wednesday"
+            },
+            {
+              "key": "B",
+              "text": "The end of Monday"
+            },
+            {
+              "key": "C",
+              "text": "The end of Wednesday's hearing"
+            },
+            {
+              "key": "D",
+              "text": "Noon Tuesday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: API version 3 will stop accepting new integrations on March 1, although existing integrations may continue through September. Version 4 changes several field names and uses token-based authentication. Development teams should migrate test environments first and report any incompatible fields before the July readiness review.",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "What restriction begins on March 1 for API version 3?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Version 4 stops issuing tokens."
+            },
+            {
+              "key": "B",
+              "text": "All field names revert to the previous version."
+            },
+            {
+              "key": "C",
+              "text": "All existing integrations stop working."
+            },
+            {
+              "key": "D",
+              "text": "It stops accepting new integrations."
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "What is the last month during which existing version 3 integrations may continue?",
+          "options": [
+            {
+              "key": "A",
+              "text": "September"
+            },
+            {
+              "key": "B",
+              "text": "July"
+            },
+            {
+              "key": "C",
+              "text": "March"
+            },
+            {
+              "key": "D",
+              "text": "December"
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "Which environments should development teams migrate first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All production environments at once"
+            },
+            {
+              "key": "B",
+              "text": "Test environments"
+            },
+            {
+              "key": "C",
+              "text": "Only archived environments"
+            },
+            {
+              "key": "D",
+              "text": "Customer environments using version 3 exclusively"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Next quarter, the small-business and partner-service portfolios will report to one regional leader. Current customer contracts, account owners, and service levels remain unchanged. The goal is to share specialist capacity across both portfolios. Managers should map team skills this month before any reporting-line adjustments are finalized.",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "What organizational change is planned for next quarter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Each portfolio will appoint a separate regional leader."
+            },
+            {
+              "key": "B",
+              "text": "The partner-service portfolio will be discontinued."
+            },
+            {
+              "key": "C",
+              "text": "All account owners will be reassigned immediately."
+            },
+            {
+              "key": "D",
+              "text": "Two portfolios will report to one regional leader."
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "What is the stated goal of combining the portfolios?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Separating specialists into independent teams"
+            },
+            {
+              "key": "B",
+              "text": "Replacing all current customer contracts"
+            },
+            {
+              "key": "C",
+              "text": "Sharing specialist capacity across the portfolios"
+            },
+            {
+              "key": "D",
+              "text": "Reducing the promised service levels"
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "What should managers do this month?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Renegotiate current customer contracts."
+            },
+            {
+              "key": "B",
+              "text": "Map the skills of their teams."
+            },
+            {
+              "key": "C",
+              "text": "Reassign all account owners before mapping skills."
+            },
+            {
+              "key": "D",
+              "text": "Finalize every new reporting line immediately."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

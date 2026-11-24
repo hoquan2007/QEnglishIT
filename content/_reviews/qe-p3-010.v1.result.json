@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p3-010",
+  "revision": "6de7807057511d14bfa3668e175f2cf14731b261116b7e338ee25eadf95a252e",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 39,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q17: A captures the distinction between transit and storage after delivery. Q33: A correctly identifies the condition on volume transfer, although signing the framework agreement is the immediate action. No other materially ambiguous answers identified. Independently solved using only the blind transcript, questions, and options. Major assessment-quality concern: every answer position follows the same repeating A-B-C-D cycle, and generic off-topic distractors recur across groups and all six sets. The repeated broad purpose/detail/next-action stems also make answers easy to predict; shuffle positions and replace distractors with plausible passage-specific alternatives before publication.",
+  "admin_sample": [
+    11,
+    34
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

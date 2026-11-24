@@ -2,22 +2,30 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
+import { parseArgs } from 'node:util';
 import { discoverContent, loadContent, root } from './report.mjs';
 import { gradeReview } from './review-tests.mjs';
 import { batch, fetchAll } from '../seed.mjs';
 
-const args = process.argv.slice(2);
-if (args.some(a => a !== '--dry-run')) throw new Error('Usage: node --env-file-if-exists=.env.local scripts/qa/sync-reviews.mjs [--dry-run]');
+const { values:args } = parseArgs({options:{
+  'dry-run':{type:'boolean'},
+  only:{type:'string',multiple:true},
+}});
+const selected = new Set(args.only);
 const reviews = [];
 for (const {item:test} of loadContent(discoverContent(['tests']))) {
+  if (selected.size && !selected.has(test.slug)) continue;
   const file = join(root, '_reviews', `${test.slug}.answers.json`);
   if (!existsSync(file)) continue;
   const result = gradeReview(test, JSON.parse(readFileSync(file, 'utf8')));
   reviews.push(result);
 }
+for (const slug of selected) if (!reviews.some(review => review.slug === slug)) {
+  throw new Error(`No independently submitted review for ${slug}`);
+}
 if (!reviews.length) throw new Error('No independently submitted reviews found');
 console.table(reviews.map(r => ({slug:r.slug, status:r.status, questions:r.total, editorialNotes:r.reviewer_notes.length, admin:'pending'})));
-if (args.includes('--dry-run')) {
+if (args['dry-run']) {
   console.log('Dry-run: no credentials loaded and no writes.');
 } else {
   if (!process.env.NEXT_PUBLIC_SUPABASE_URL || !process.env.SUPABASE_SECRET_KEY) throw new Error('Supabase server environment required');

@@ -1,0 +1,5252 @@
+[
+  {
+    "lemma": "grocery",
+    "pos": "n",
+    "meaning_vi": "cửa hàng tạp hóa; thực phẩm và đồ dùng thiết yếu",
+    "definition_en": "a shop or the food and household goods bought there",
+    "examples": [
+      {
+        "en": "The grocery near campus stays open until midnight for students.",
+        "vi": "Cửa hàng tạp hóa gần trường mở đến nửa đêm để phục vụ sinh viên."
+      },
+      {
+        "en": "Our weekly grocery bill fell after we planned meals more carefully.",
+        "vi": "Chi phí thực phẩm hằng tuần của chúng tôi giảm sau khi lên kế hoạch bữa ăn kỹ hơn."
+      }
+    ],
+    "topics": [
+      "daily-life",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "laundry",
+    "pos": "n",
+    "meaning_vi": "quần áo cần giặt; việc giặt giũ",
+    "definition_en": "clothes being washed or the work of washing them",
+    "examples": [
+      {
+        "en": "I sorted the laundry before starting the washing machine.",
+        "vi": "Tôi phân loại quần áo trước khi khởi động máy giặt."
+      },
+      {
+        "en": "The hotel collects guest laundry every morning before nine.",
+        "vi": "Khách sạn nhận đồ giặt của khách mỗi sáng trước chín giờ."
+      }
+    ],
+    "topics": [
+      "daily-life",
+      "home"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "prosecution",
+    "pos": "n",
+    "meaning_vi": "việc truy tố; bên công tố",
+    "definition_en": "the legal process of bringing a criminal case against someone",
+    "examples": [
+      {
+        "en": "The prosecution presented digital records to support its case.",
+        "vi": "Bên công tố trình các hồ sơ số để củng cố vụ án."
+      },
+      {
+        "en": "Successful prosecution requires evidence that can withstand careful legal review.",
+        "vi": "Việc truy tố thành công cần bằng chứng có thể vượt qua quá trình xem xét pháp lý kỹ lưỡng."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "pulse",
+    "pos": "n",
+    "meaning_vi": "mạch đập; nhịp đập đều",
+    "definition_en": "a regular beat caused by the heart or repeated movement",
+    "examples": [
+      {
+        "en": "The nurse checked his pulse before recording the blood pressure.",
+        "vi": "Y tá kiểm tra mạch của anh ấy trước khi ghi huyết áp."
+      },
+      {
+        "en": "A steady pulse from the sensor confirms that the device is active.",
+        "vi": "Nhịp tín hiệu đều từ cảm biến xác nhận thiết bị đang hoạt động."
+      }
+    ],
+    "topics": [
+      "health",
+      "science"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "realm",
+    "pos": "n",
+    "meaning_vi": "lĩnh vực; phạm vi hoạt động hoặc hiểu biết",
+    "definition_en": "an area of activity, knowledge, or experience",
+    "examples": [
+      {
+        "en": "Privacy has become a major issue in the realm of artificial intelligence.",
+        "vi": "Quyền riêng tư đã trở thành vấn đề lớn trong lĩnh vực trí tuệ nhân tạo."
+      },
+      {
+        "en": "The proposal moves beyond theory into the realm of practical policy.",
+        "vi": "Đề xuất chuyển từ lý thuyết sang phạm vi chính sách thực tiễn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "spectacular",
+    "pos": "adj",
+    "meaning_vi": "ngoạn mục; rất ấn tượng",
+    "definition_en": "extremely impressive or striking to see",
+    "examples": [
+      {
+        "en": "The telescope captured a spectacular image of the distant nebula.",
+        "vi": "Kính thiên văn ghi lại hình ảnh ngoạn mục của tinh vân xa."
+      },
+      {
+        "en": "The team achieved a spectacular recovery after fixing the critical defect.",
+        "vi": "Nhóm đạt được sự phục hồi ấn tượng sau khi sửa lỗi nghiêm trọng."
+      }
+    ],
+    "topics": [
+      "culture",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "apology",
+    "pos": "n",
+    "meaning_vi": "lời xin lỗi",
+    "definition_en": "a statement expressing regret for a mistake or offense",
+    "examples": [
+      {
+        "en": "Her apology acknowledged the delay and explained how the team would prevent another one.",
+        "vi": "Lời xin lỗi của cô ấy thừa nhận sự chậm trễ và giải thích cách nhóm sẽ tránh lặp lại."
+      },
+      {
+        "en": "A sincere apology can restore trust after a careless remark.",
+        "vi": "Một lời xin lỗi chân thành có thể khôi phục niềm tin sau lời nói thiếu cân nhắc."
+      }
+    ],
+    "topics": [
+      "communication",
+      "social"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "lamp",
+    "pos": "n",
+    "meaning_vi": "đèn, thiết bị chiếu sáng",
+    "definition_en": "a device that produces light, usually from electricity",
+    "examples": [
+      {
+        "en": "The desk lamp provides enough light for late-night reading.",
+        "vi": "Đèn bàn cung cấp đủ ánh sáng để đọc sách vào ban đêm."
+      },
+      {
+        "en": "This smart lamp adjusts its brightness according to the room.",
+        "vi": "Chiếc đèn thông minh này tự điều chỉnh độ sáng theo căn phòng."
+      }
+    ],
+    "topics": [
+      "home",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "oven",
+    "pos": "n",
+    "meaning_vi": "lò nướng",
+    "definition_en": "an enclosed appliance used for heating or baking food",
+    "examples": [
+      {
+        "en": "Preheat the oven before placing the bread on the middle shelf.",
+        "vi": "Làm nóng lò trước khi đặt bánh mì lên kệ giữa."
+      },
+      {
+        "en": "The laboratory oven keeps samples at a controlled temperature.",
+        "vi": "Lò trong phòng thí nghiệm giữ mẫu ở nhiệt độ được kiểm soát."
+      }
+    ],
+    "topics": [
+      "food",
+      "home"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "rhythm",
+    "pos": "n",
+    "meaning_vi": "nhịp điệu; nhịp đều đặn",
+    "definition_en": "a regular pattern of sounds, movements, or events",
+    "examples": [
+      {
+        "en": "The drummer changed the rhythm to make the final section more energetic.",
+        "vi": "Tay trống thay đổi nhịp điệu để phần cuối sôi động hơn."
+      },
+      {
+        "en": "A consistent study rhythm helps learners review material without feeling overwhelmed.",
+        "vi": "Nhịp học đều đặn giúp người học ôn lại kiến thức mà không bị quá tải."
+      }
+    ],
+    "topics": [
+      "music",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "slim",
+    "pos": "adj",
+    "meaning_vi": "thon, mảnh; nhỏ về mức độ hoặc khả năng",
+    "definition_en": "thin in an attractive way or small in amount",
+    "examples": [
+      {
+        "en": "The slim laptop fits easily into a small backpack.",
+        "vi": "Chiếc máy tính xách tay mỏng dễ dàng vừa trong ba lô nhỏ."
+      },
+      {
+        "en": "There is only a slim chance that the old battery will recover.",
+        "vi": "Chỉ có khả năng rất nhỏ là viên pin cũ sẽ phục hồi."
+      }
+    ],
+    "topics": [
+      "appearance",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "subway",
+    "pos": "n",
+    "meaning_vi": "tàu điện ngầm; hệ thống đường sắt đô thị ngầm",
+    "definition_en": "an underground urban railway system or one of its trains",
+    "examples": [
+      {
+        "en": "The subway carries thousands of commuters into the city each morning.",
+        "vi": "Tàu điện ngầm chở hàng nghìn người đi làm vào thành phố mỗi sáng."
+      },
+      {
+        "en": "A new subway station will shorten travel time for nearby residents.",
+        "vi": "Ga tàu điện ngầm mới sẽ rút ngắn thời gian đi lại cho cư dân gần đó."
+      }
+    ],
+    "topics": [
+      "transport",
+      "city"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "tide",
+    "pos": "n",
+    "meaning_vi": "thủy triều; xu hướng lên xuống",
+    "definition_en": "the regular rise and fall of sea level",
+    "examples": [
+      {
+        "en": "The tide rose quickly and covered the lower part of the beach.",
+        "vi": "Thủy triều dâng nhanh và phủ phần thấp của bãi biển."
+      },
+      {
+        "en": "Researchers measure the tide to improve coastal flood forecasts.",
+        "vi": "Các nhà nghiên cứu đo thủy triều để cải thiện dự báo ngập ven biển."
+      }
+    ],
+    "topics": [
+      "environment",
+      "science"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "flavor",
+    "pos": "n",
+    "meaning_vi": "hương vị",
+    "definition_en": "the particular taste and smell of food or drink",
+    "examples": [
+      {
+        "en": "Fresh herbs give the soup a brighter flavor.",
+        "vi": "Các loại rau thơm tươi làm món súp có hương vị tươi hơn."
+      },
+      {
+        "en": "Roasting changes the flavor of coffee beans by developing new aromatic compounds.",
+        "vi": "Rang làm thay đổi hương vị hạt cà phê bằng cách tạo ra các hợp chất thơm mới."
+      }
+    ],
+    "topics": [
+      "food",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "crunch",
+    "pos": "n",
+    "meaning_vi": "tình trạng thiếu hụt nghiêm trọng; tiếng răng rắc",
+    "definition_en": "a severe shortage or a loud crushing sound",
+    "examples": [
+      {
+        "en": "The funding crunch forced the startup to delay hiring.",
+        "vi": "Tình trạng thiếu vốn buộc công ty khởi nghiệp trì hoãn tuyển dụng."
+      },
+      {
+        "en": "A sharp crunch came from the gravel under the tires.",
+        "vi": "Một tiếng răng rắc sắc vang lên từ lớp sỏi dưới bánh xe."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "shallow",
+    "pos": "adj",
+    "meaning_vi": "nông; không sâu",
+    "definition_en": "having little distance from the surface to the bottom",
+    "examples": [
+      {
+        "en": "Small boats can cross the shallow water near the shore.",
+        "vi": "Thuyền nhỏ có thể đi qua vùng nước nông gần bờ."
+      },
+      {
+        "en": "The sensor failed because it was installed in a shallow protective case.",
+        "vi": "Cảm biến hỏng vì được lắp trong vỏ bảo vệ quá nông."
+      }
+    ],
+    "topics": [
+      "environment",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "sketch",
+    "pos": "n",
+    "meaning_vi": "bản phác thảo",
+    "definition_en": "a quick, simple drawing or outline of an idea",
+    "examples": [
+      {
+        "en": "The architect showed a sketch before preparing the detailed floor plan.",
+        "vi": "Kiến trúc sư trình bày bản phác thảo trước khi chuẩn bị sơ đồ mặt bằng chi tiết."
+      },
+      {
+        "en": "Her sketch helped the developers understand the proposed screen layout.",
+        "vi": "Bản phác thảo của cô ấy giúp lập trình viên hiểu bố cục màn hình đề xuất."
+      }
+    ],
+    "topics": [
+      "design",
+      "art"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "cloth",
+    "pos": "n",
+    "meaning_vi": "vải; mảnh vải",
+    "definition_en": "material made by weaving or knitting fibers together",
+    "examples": [
+      {
+        "en": "Use a soft cloth to clean the screen without scratching it.",
+        "vi": "Dùng khăn vải mềm để lau màn hình mà không làm xước."
+      },
+      {
+        "en": "The designer tested each cloth for strength, texture, and color stability.",
+        "vi": "Nhà thiết kế kiểm tra từng loại vải về độ bền, kết cấu và độ ổn định màu."
+      }
+    ],
+    "topics": [
+      "materials",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "kidney",
+    "pos": "n",
+    "meaning_vi": "thận",
+    "definition_en": "one of two organs that filter waste from the blood",
+    "examples": [
+      {
+        "en": "Each kidney filters blood and helps control the body's fluid balance.",
+        "vi": "Mỗi quả thận lọc máu và giúp kiểm soát cân bằng chất lỏng của cơ thể."
+      },
+      {
+        "en": "Doctors monitored her kidney function after changing the medication.",
+        "vi": "Bác sĩ theo dõi chức năng thận của cô ấy sau khi đổi thuốc."
+      }
+    ],
+    "topics": [
+      "health",
+      "biology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "sentiment",
+    "pos": "n",
+    "meaning_vi": "cảm xúc; quan điểm chung",
+    "definition_en": "a feeling or opinion held by a person or group",
+    "examples": [
+      {
+        "en": "Customer sentiment improved after the company simplified its refund process.",
+        "vi": "Tâm lý khách hàng cải thiện sau khi công ty đơn giản hóa quy trình hoàn tiền."
+      },
+      {
+        "en": "The survey measures public sentiment toward renewable energy projects.",
+        "vi": "Khảo sát đo lường quan điểm công chúng đối với các dự án năng lượng tái tạo."
+      }
+    ],
+    "topics": [
+      "society",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "verdict",
+    "pos": "n",
+    "meaning_vi": "phán quyết; kết luận chính thức",
+    "definition_en": "an official decision reached by a jury or judging body",
+    "examples": [
+      {
+        "en": "The jury returned a verdict after reviewing the evidence for three days.",
+        "vi": "Bồi thẩm đoàn đưa ra phán quyết sau ba ngày xem xét bằng chứng."
+      },
+      {
+        "en": "The panel's verdict will determine whether the project receives final approval.",
+        "vi": "Kết luận của hội đồng sẽ quyết định dự án có được phê duyệt cuối cùng hay không."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "bizarre",
+    "pos": "adj",
+    "meaning_vi": "kỳ quái; rất khác thường",
+    "definition_en": "very strange and difficult to explain",
+    "examples": [
+      {
+        "en": "A bizarre error caused the clock to display yesterday's date.",
+        "vi": "Một lỗi kỳ quái khiến đồng hồ hiển thị ngày hôm qua."
+      },
+      {
+        "en": "The museum contains a bizarre collection of machines from failed inventions.",
+        "vi": "Bảo tàng có một bộ sưu tập kỳ lạ các cỗ máy từ những phát minh thất bại."
+      }
+    ],
+    "topics": [
+      "general",
+      "culture"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "ferry",
+    "pos": "n",
+    "meaning_vi": "phà; tàu chở người và xe qua vùng nước",
+    "definition_en": "a boat that regularly carries passengers or vehicles across water",
+    "examples": [
+      {
+        "en": "The ferry connects the island with the mainland every two hours.",
+        "vi": "Phà nối hòn đảo với đất liền mỗi hai giờ."
+      },
+      {
+        "en": "Heavy fog delayed the morning ferry until visibility improved.",
+        "vi": "Sương mù dày làm chuyến phà buổi sáng bị hoãn đến khi tầm nhìn cải thiện."
+      }
+    ],
+    "topics": [
+      "transport",
+      "travel"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "helmet",
+    "pos": "n",
+    "meaning_vi": "mũ bảo hiểm",
+    "definition_en": "a hard protective covering worn on the head",
+    "examples": [
+      {
+        "en": "Every rider must wear a helmet before entering the cycling track.",
+        "vi": "Mọi người đi xe phải đội mũ bảo hiểm trước khi vào đường đua xe đạp."
+      },
+      {
+        "en": "The smart helmet can detect a strong impact and send an emergency alert.",
+        "vi": "Mũ bảo hiểm thông minh có thể phát hiện va chạm mạnh và gửi cảnh báo khẩn cấp."
+      }
+    ],
+    "topics": [
+      "safety",
+      "transport"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "ideology",
+    "pos": "n",
+    "meaning_vi": "hệ tư tưởng; hệ thống quan điểm",
+    "definition_en": "a system of ideas and beliefs guiding a group or society",
+    "examples": [
+      {
+        "en": "The course examines how ideology can influence public policy.",
+        "vi": "Khóa học xem xét cách hệ tư tưởng có thể ảnh hưởng đến chính sách công."
+      },
+      {
+        "en": "Researchers separated economic evidence from ideology when comparing the proposals.",
+        "vi": "Các nhà nghiên cứu tách bằng chứng kinh tế khỏi hệ tư tưởng khi so sánh các đề xuất."
+      }
+    ],
+    "topics": [
+      "society",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "instructor",
+    "pos": "n",
+    "meaning_vi": "giảng viên; người hướng dẫn",
+    "definition_en": "a person who teaches a subject or practical skill",
+    "examples": [
+      {
+        "en": "The instructor demonstrated the safety procedure before students entered the laboratory.",
+        "vi": "Giảng viên minh họa quy trình an toàn trước khi sinh viên vào phòng thí nghiệm."
+      },
+      {
+        "en": "Ask the instructor for feedback on your pronunciation and pacing.",
+        "vi": "Hãy hỏi người hướng dẫn để nhận phản hồi về phát âm và nhịp nói của bạn."
+      }
+    ],
+    "topics": [
+      "education",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "resignation",
+    "pos": "n",
+    "meaning_vi": "sự từ chức; đơn xin nghỉ việc",
+    "definition_en": "the act of formally leaving a job or position",
+    "examples": [
+      {
+        "en": "Her resignation became effective at the end of the month.",
+        "vi": "Việc từ chức của cô ấy có hiệu lực vào cuối tháng."
+      },
+      {
+        "en": "The manager submitted a resignation after accepting a position overseas.",
+        "vi": "Người quản lý nộp đơn xin nghỉ việc sau khi nhận một vị trí ở nước ngoài."
+      }
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "ritual",
+    "pos": "n",
+    "meaning_vi": "nghi thức; thói quen được lặp lại theo cách cố định",
+    "definition_en": "a fixed set of actions performed regularly or ceremonially",
+    "examples": [
+      {
+        "en": "Morning tea became a quiet ritual before the team started work.",
+        "vi": "Uống trà buổi sáng trở thành một thói quen yên tĩnh trước khi nhóm bắt đầu làm việc."
+      },
+      {
+        "en": "The festival ritual has been preserved by local families for generations.",
+        "vi": "Nghi thức lễ hội được các gia đình địa phương gìn giữ qua nhiều thế hệ."
+      }
+    ],
+    "topics": [
+      "culture",
+      "social"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "aluminum",
+    "pos": "n",
+    "meaning_vi": "nhôm",
+    "definition_en": "a lightweight silver-colored metal widely used in manufacturing",
+    "examples": [
+      {
+        "en": "The frame uses aluminum to reduce weight without sacrificing much strength.",
+        "vi": "Khung sử dụng nhôm để giảm trọng lượng mà không mất nhiều độ bền."
+      },
+      {
+        "en": "Recycled aluminum requires less energy than producing the metal from raw ore.",
+        "vi": "Nhôm tái chế cần ít năng lượng hơn so với sản xuất kim loại từ quặng thô."
+      }
+    ],
+    "topics": [
+      "materials",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "disappointment",
+    "pos": "n",
+    "meaning_vi": "sự thất vọng",
+    "definition_en": "sadness caused when hopes or expectations are not met",
+    "examples": [
+      {
+        "en": "Missing the final deadline was a disappointment for the entire research team.",
+        "vi": "Việc lỡ hạn cuối là một sự thất vọng đối với toàn bộ nhóm nghiên cứu."
+      },
+      {
+        "en": "She turned her disappointment into a plan for improving the next presentation.",
+        "vi": "Cô ấy biến sự thất vọng thành kế hoạch cải thiện bài thuyết trình tiếp theo."
+      }
+    ],
+    "topics": [
+      "emotion",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "massage",
+    "pos": "n",
+    "meaning_vi": "việc xoa bóp; mát-xa",
+    "definition_en": "the rubbing and pressing of muscles to relax or treat them",
+    "examples": [
+      {
+        "en": "A gentle massage helped reduce the tension in his shoulders.",
+        "vi": "Một buổi mát-xa nhẹ giúp giảm căng thẳng ở vai anh ấy."
+      },
+      {
+        "en": "The clinic offers massage as part of its physical recovery program.",
+        "vi": "Phòng khám cung cấp dịch vụ xoa bóp trong chương trình phục hồi thể chất."
+      }
+    ],
+    "topics": [
+      "health",
+      "wellness"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "orchestra",
+    "pos": "n",
+    "meaning_vi": "dàn nhạc giao hưởng",
+    "definition_en": "a large group of musicians playing different instruments together",
+    "examples": [
+      {
+        "en": "The orchestra rehearsed the new composition before the evening concert.",
+        "vi": "Dàn nhạc luyện tập tác phẩm mới trước buổi hòa nhạc tối."
+      },
+      {
+        "en": "A conductor helps the orchestra maintain timing and balance across sections.",
+        "vi": "Nhạc trưởng giúp dàn nhạc giữ nhịp và cân bằng giữa các bè."
+      }
+    ],
+    "topics": [
+      "music",
+      "culture"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "crude",
+    "pos": "adj",
+    "meaning_vi": "thô; chưa tinh chế hoặc chưa hoàn thiện",
+    "definition_en": "in a raw, unrefined, or roughly made state",
+    "examples": [
+      {
+        "en": "The refinery converts crude oil into fuels and other products.",
+        "vi": "Nhà máy lọc dầu chuyển dầu thô thành nhiên liệu và các sản phẩm khác."
+      },
+      {
+        "en": "Their first crude prototype proved the basic mechanism could work.",
+        "vi": "Nguyên mẫu thô đầu tiên của họ chứng minh cơ chế cơ bản có thể hoạt động."
+      }
+    ],
+    "topics": [
+      "energy",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "flour",
+    "pos": "n",
+    "meaning_vi": "bột mì; bột xay từ ngũ cốc",
+    "definition_en": "powder made by grinding grain, especially wheat",
+    "examples": [
+      {
+        "en": "The baker mixed flour with water, yeast, and salt.",
+        "vi": "Thợ làm bánh trộn bột mì với nước, men và muối."
+      },
+      {
+        "en": "Whole-grain flour contains more fiber than highly refined flour.",
+        "vi": "Bột nguyên cám chứa nhiều chất xơ hơn bột đã tinh luyện kỹ."
+      }
+    ],
+    "topics": [
+      "food",
+      "agriculture"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "pledge",
+    "pos": "n",
+    "meaning_vi": "lời cam kết; lời hứa trang trọng",
+    "definition_en": "a serious promise to do or provide something",
+    "examples": [
+      {
+        "en": "The company made a pledge to cut emissions by half.",
+        "vi": "Công ty đưa ra cam kết giảm một nửa lượng phát thải."
+      },
+      {
+        "en": "A public pledge can increase pressure on leaders to report measurable progress.",
+        "vi": "Một lời cam kết công khai có thể tăng áp lực buộc lãnh đạo báo cáo tiến bộ đo lường được."
+      }
+    ],
+    "topics": [
+      "business",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "asylum",
+    "pos": "n",
+    "meaning_vi": "nơi tị nạn; quyền tị nạn",
+    "definition_en": "protection given by a country to someone fleeing danger",
+    "examples": [
+      {
+        "en": "The applicant requested asylum after documenting threats in his home country.",
+        "vi": "Người nộp đơn xin tị nạn sau khi ghi lại các mối đe dọa tại quê nhà."
+      },
+      {
+        "en": "International law sets rules for considering an asylum claim.",
+        "vi": "Luật quốc tế đặt ra quy tắc xem xét một yêu cầu tị nạn."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "neat",
+    "pos": "adj",
+    "meaning_vi": "gọn gàng; ngăn nắp",
+    "definition_en": "tidy, orderly, and carefully arranged",
+    "examples": [
+      {
+        "en": "Keep the wiring neat so future repairs are easier.",
+        "vi": "Hãy giữ dây điện gọn gàng để việc sửa chữa sau này dễ hơn."
+      },
+      {
+        "en": "Her neat notes made the complicated lecture easier to review.",
+        "vi": "Ghi chép ngăn nắp của cô ấy giúp bài giảng phức tạp dễ ôn lại hơn."
+      }
+    ],
+    "topics": [
+      "daily-life",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "steep",
+    "pos": "adj",
+    "meaning_vi": "dốc; tăng hoặc giảm rất mạnh",
+    "definition_en": "rising or falling sharply over a short distance or period",
+    "examples": [
+      {
+        "en": "The hikers slowed down on the steep final section of the trail.",
+        "vi": "Những người đi bộ chậm lại ở đoạn cuối dốc của đường mòn."
+      },
+      {
+        "en": "A steep price increase reduced demand for the imported product.",
+        "vi": "Mức tăng giá mạnh làm giảm nhu cầu đối với sản phẩm nhập khẩu."
+      }
+    ],
+    "topics": [
+      "geography",
+      "economics"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "bicycle",
+    "pos": "n",
+    "meaning_vi": "xe đạp",
+    "definition_en": "a two-wheeled vehicle moved by pedals",
+    "examples": [
+      {
+        "en": "She rides a bicycle to work when the weather is dry.",
+        "vi": "Cô ấy đi xe đạp đến nơi làm việc khi thời tiết khô ráo."
+      },
+      {
+        "en": "The city added bicycle parking beside every new subway entrance.",
+        "vi": "Thành phố bổ sung chỗ đỗ xe đạp cạnh mỗi lối vào tàu điện ngầm mới."
+      }
+    ],
+    "topics": [
+      "transport",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "cord",
+    "pos": "n",
+    "meaning_vi": "dây; sợi dây mềm dùng để nối hoặc buộc",
+    "definition_en": "a flexible string or cable used for tying or connecting things",
+    "examples": [
+      {
+        "en": "Unplug the power cord before opening the device.",
+        "vi": "Rút dây nguồn trước khi mở thiết bị."
+      },
+      {
+        "en": "A damaged cord can expose wires and create a safety hazard.",
+        "vi": "Dây bị hỏng có thể làm lộ dây điện và tạo nguy cơ mất an toàn."
+      }
+    ],
+    "topics": [
+      "technology",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "doctrine",
+    "pos": "n",
+    "meaning_vi": "học thuyết; hệ thống nguyên tắc",
+    "definition_en": "a set of beliefs or principles officially taught or accepted",
+    "examples": [
+      {
+        "en": "The lecture compared legal doctrine across several constitutional systems.",
+        "vi": "Bài giảng so sánh học thuyết pháp lý giữa một số hệ thống hiến pháp."
+      },
+      {
+        "en": "Economic doctrine can shape how governments respond to inflation.",
+        "vi": "Học thuyết kinh tế có thể định hình cách chính phủ ứng phó với lạm phát."
+      }
+    ],
+    "topics": [
+      "academic",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "prey",
+    "pos": "n",
+    "meaning_vi": "con mồi",
+    "definition_en": "an animal hunted and eaten by another animal",
+    "examples": [
+      {
+        "en": "The owl hunts small prey during the night.",
+        "vi": "Con cú săn những con mồi nhỏ vào ban đêm."
+      },
+      {
+        "en": "Changes in prey numbers can affect the entire food web.",
+        "vi": "Sự thay đổi số lượng con mồi có thể ảnh hưởng toàn bộ lưới thức ăn."
+      }
+    ],
+    "topics": [
+      "biology",
+      "environment"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "seasonal",
+    "pos": "adj",
+    "meaning_vi": "theo mùa; chỉ xảy ra vào một thời điểm trong năm",
+    "definition_en": "happening or available during a particular season",
+    "examples": [
+      {
+        "en": "The farm hires seasonal workers during the fruit harvest.",
+        "vi": "Trang trại thuê lao động thời vụ trong mùa thu hoạch trái cây."
+      },
+      {
+        "en": "Retailers adjust inventory when seasonal demand rises before major holidays.",
+        "vi": "Các nhà bán lẻ điều chỉnh tồn kho khi nhu cầu theo mùa tăng trước các dịp lễ lớn."
+      }
+    ],
+    "topics": [
+      "environment",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "sensible",
+    "pos": "adj",
+    "meaning_vi": "hợp lý; thực tế",
+    "definition_en": "showing practical judgment and good sense",
+    "examples": [
+      {
+        "en": "A sensible backup plan protects the team from unexpected outages.",
+        "vi": "Một kế hoạch dự phòng hợp lý bảo vệ nhóm trước các sự cố mất dịch vụ bất ngờ."
+      },
+      {
+        "en": "Wearing protective glasses is a sensible precaution in the workshop.",
+        "vi": "Đeo kính bảo hộ là một biện pháp phòng ngừa hợp lý trong xưởng."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "capitalism",
+    "pos": "n",
+    "meaning_vi": "chủ nghĩa tư bản",
+    "definition_en": "an economic system based on private ownership and market exchange",
+    "examples": [
+      {
+        "en": "The seminar examines how capitalism developed across different regions.",
+        "vi": "Hội thảo xem xét cách chủ nghĩa tư bản phát triển ở các khu vực khác nhau."
+      },
+      {
+        "en": "Critics and supporters of capitalism often disagree about regulation and inequality.",
+        "vi": "Người chỉ trích và ủng hộ chủ nghĩa tư bản thường bất đồng về quản lý và bất bình đẳng."
+      }
+    ],
+    "topics": [
+      "economics",
+      "society"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "caution",
+    "pos": "n",
+    "meaning_vi": "sự thận trọng; lời cảnh báo",
+    "definition_en": "care taken to avoid danger, error, or unwanted results",
+    "examples": [
+      {
+        "en": "Engineers used caution when testing the high-voltage equipment.",
+        "vi": "Các kỹ sư thận trọng khi thử nghiệm thiết bị điện áp cao."
+      },
+      {
+        "en": "The report recommends caution before applying the findings to a larger population.",
+        "vi": "Báo cáo khuyến nghị thận trọng trước khi áp dụng kết quả cho quần thể lớn hơn."
+      }
+    ],
+    "topics": [
+      "safety",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "certification",
+    "pos": "n",
+    "meaning_vi": "chứng nhận; quá trình cấp chứng chỉ",
+    "definition_en": "official confirmation that required standards or qualifications have been met",
+    "examples": [
+      {
+        "en": "The technician earned certification after completing the safety assessment.",
+        "vi": "Kỹ thuật viên nhận chứng chỉ sau khi hoàn thành đánh giá an toàn."
+      },
+      {
+        "en": "Product certification can show customers that independent standards were met.",
+        "vi": "Chứng nhận sản phẩm có thể cho khách hàng thấy các tiêu chuẩn độc lập đã được đáp ứng."
+      }
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "continuously",
+    "pos": "adv",
+    "meaning_vi": "liên tục, không ngừng",
+    "definition_en": "without stopping or with no significant interruption",
+    "examples": [
+      {
+        "en": "The sensor continuously records temperature while the experiment is running.",
+        "vi": "Cảm biến liên tục ghi nhiệt độ khi thí nghiệm đang diễn ra."
+      },
+      {
+        "en": "The service is continuously monitored for unusual traffic patterns.",
+        "vi": "Dịch vụ được giám sát liên tục để phát hiện các mẫu lưu lượng bất thường."
+      }
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "frontier",
+    "pos": "n",
+    "meaning_vi": "biên giới; giới hạn mới của một lĩnh vực",
+    "definition_en": "the edge of explored knowledge or a border region",
+    "examples": [
+      {
+        "en": "Quantum computing remains an important frontier in computer science.",
+        "vi": "Điện toán lượng tử vẫn là một biên giới quan trọng của khoa học máy tính."
+      },
+      {
+        "en": "The expedition mapped a remote frontier that had few reliable roads.",
+        "vi": "Đoàn thám hiểm lập bản đồ một vùng biên xa xôi có ít đường đáng tin cậy."
+      }
+    ],
+    "topics": [
+      "science",
+      "history"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "frustration",
+    "pos": "n",
+    "meaning_vi": "sự bực bội; cảm giác thất vọng vì bị cản trở",
+    "definition_en": "annoyance caused by being unable to achieve something",
+    "examples": [
+      {
+        "en": "Repeated login failures caused frustration among new users.",
+        "vi": "Các lỗi đăng nhập lặp lại gây bực bội cho người dùng mới."
+      },
+      {
+        "en": "She expressed frustration when the same defect returned after deployment.",
+        "vi": "Cô ấy bày tỏ sự bực bội khi lỗi cũ xuất hiện lại sau triển khai."
+      }
+    ],
+    "topics": [
+      "emotion",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "geographic",
+    "pos": "adj",
+    "meaning_vi": "thuộc địa lý",
+    "definition_en": "relating to the physical features or location of places",
+    "examples": [
+      {
+        "en": "The study compares geographic differences in rainfall across the region.",
+        "vi": "Nghiên cứu so sánh khác biệt địa lý về lượng mưa trong khu vực."
+      },
+      {
+        "en": "Geographic data helps planners choose safer routes for new roads.",
+        "vi": "Dữ liệu địa lý giúp nhà quy hoạch chọn tuyến đường mới an toàn hơn."
+      }
+    ],
+    "topics": [
+      "geography",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "grasp",
+    "pos": "v",
+    "meaning_vi": "nắm bắt, hiểu được",
+    "definition_en": "to understand an idea or situation clearly",
+    "examples": [
+      {
+        "en": "Students often grasp the concept faster after seeing a practical example.",
+        "vi": "Sinh viên thường nắm bắt khái niệm nhanh hơn sau khi xem ví dụ thực tế."
+      },
+      {
+        "en": "Managers must grasp the risks before approving a major system change.",
+        "vi": "Nhà quản lý phải hiểu các rủi ro trước khi phê duyệt thay đổi hệ thống lớn."
+      }
+    ],
+    "topics": [
+      "education",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "handy",
+    "pos": "adj",
+    "meaning_vi": "tiện dụng; hữu ích và dễ dùng",
+    "definition_en": "useful, convenient, and easy to use",
+    "examples": [
+      {
+        "en": "This handy adapter lets older monitors connect to modern laptops.",
+        "vi": "Bộ chuyển đổi tiện dụng này giúp màn hình cũ kết nối với máy tính xách tay hiện đại."
+      },
+      {
+        "en": "Keep a handy checklist beside the equipment during maintenance.",
+        "vi": "Hãy để một danh sách kiểm tra tiện dụng cạnh thiết bị khi bảo trì."
+      }
+    ],
+    "topics": [
+      "technology",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "harmful",
+    "pos": "adj",
+    "meaning_vi": "có hại",
+    "definition_en": "causing damage, injury, or negative effects",
+    "examples": [
+      {
+        "en": "Excessive noise can be harmful to hearing over time.",
+        "vi": "Tiếng ồn quá mức có thể gây hại cho thính giác theo thời gian."
+      },
+      {
+        "en": "The filter removes harmful particles before air enters the room.",
+        "vi": "Bộ lọc loại bỏ các hạt có hại trước khi không khí vào phòng."
+      }
+    ],
+    "topics": [
+      "health",
+      "environment"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "headache",
+    "pos": "n",
+    "meaning_vi": "đau đầu; vấn đề gây phiền toái",
+    "definition_en": "pain in the head or a difficult problem",
+    "examples": [
+      {
+        "en": "A severe headache made it difficult for him to concentrate.",
+        "vi": "Cơn đau đầu dữ dội khiến anh ấy khó tập trung."
+      },
+      {
+        "en": "Manual data entry became a headache as the project grew.",
+        "vi": "Nhập dữ liệu thủ công trở thành một vấn đề phiền toái khi dự án mở rộng."
+      }
+    ],
+    "topics": [
+      "health",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "randomly",
+    "pos": "adv",
+    "meaning_vi": "một cách ngẫu nhiên",
+    "definition_en": "in a way that follows no deliberate pattern or order",
+    "examples": [
+      {
+        "en": "Participants were randomly assigned to one of two treatment groups.",
+        "vi": "Người tham gia được phân ngẫu nhiên vào một trong hai nhóm điều trị."
+      },
+      {
+        "en": "The program randomly selects questions from the practice bank.",
+        "vi": "Chương trình chọn câu hỏi ngẫu nhiên từ ngân hàng luyện tập."
+      }
+    ],
+    "topics": [
+      "science",
+      "data"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "succession",
+    "pos": "n",
+    "meaning_vi": "sự kế tiếp; chuỗi liên tiếp",
+    "definition_en": "a sequence in which one person or event follows another",
+    "examples": [
+      {
+        "en": "A succession of storms damaged roads along the coast.",
+        "vi": "Một loạt cơn bão liên tiếp làm hư hại đường ven biển."
+      },
+      {
+        "en": "Leadership succession should be planned before senior managers retire.",
+        "vi": "Việc kế nhiệm lãnh đạo nên được lập kế hoạch trước khi quản lý cấp cao nghỉ hưu."
+      }
+    ],
+    "topics": [
+      "history",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "suspicion",
+    "pos": "n",
+    "meaning_vi": "sự nghi ngờ",
+    "definition_en": "a belief or feeling that something may be wrong or untrue",
+    "examples": [
+      {
+        "en": "The unusual transaction raised suspicion during the audit.",
+        "vi": "Giao dịch bất thường làm dấy lên nghi ngờ trong cuộc kiểm toán."
+      },
+      {
+        "en": "Her suspicion was confirmed when the logs showed repeated unauthorized access.",
+        "vi": "Sự nghi ngờ của cô ấy được xác nhận khi nhật ký cho thấy truy cập trái phép lặp lại."
+      }
+    ],
+    "topics": [
+      "society",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "thereafter",
+    "pos": "adv",
+    "meaning_vi": "sau đó, kể từ thời điểm ấy",
+    "definition_en": "after that time or event",
+    "examples": [
+      {
+        "en": "The device was repaired and operated normally thereafter.",
+        "vi": "Thiết bị được sửa và sau đó hoạt động bình thường."
+      },
+      {
+        "en": "He completed the internship and thereafter joined the company full time.",
+        "vi": "Anh ấy hoàn thành kỳ thực tập và sau đó gia nhập công ty toàn thời gian."
+      }
+    ],
+    "topics": [
+      "academic",
+      "formal-writing"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "thorough",
+    "pos": "adj",
+    "meaning_vi": "kỹ lưỡng, toàn diện",
+    "definition_en": "careful and complete in examining or doing something",
+    "examples": [
+      {
+        "en": "A thorough review found several assumptions that needed stronger evidence.",
+        "vi": "Một cuộc rà soát kỹ lưỡng phát hiện một số giả định cần bằng chứng vững hơn."
+      },
+      {
+        "en": "The technician performed a thorough inspection before restarting the machine.",
+        "vi": "Kỹ thuật viên kiểm tra toàn diện trước khi khởi động lại máy."
+      }
+    ],
+    "topics": [
+      "work",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "tumor",
+    "pos": "n",
+    "meaning_vi": "khối u",
+    "definition_en": "an abnormal mass of cells growing in body tissue",
+    "examples": [
+      {
+        "en": "The scan revealed a small tumor near the affected tissue.",
+        "vi": "Ảnh chụp cho thấy một khối u nhỏ gần mô bị ảnh hưởng."
+      },
+      {
+        "en": "Doctors measured the tumor before choosing the next treatment.",
+        "vi": "Bác sĩ đo khối u trước khi chọn phương pháp điều trị tiếp theo."
+      }
+    ],
+    "topics": [
+      "health",
+      "biology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "architectural",
+    "pos": "adj",
+    "meaning_vi": "thuộc kiến trúc; thuộc cấu trúc thiết kế",
+    "definition_en": "relating to the design or structure of buildings or systems",
+    "examples": [
+      {
+        "en": "The team preserved the building's architectural character during renovation.",
+        "vi": "Nhóm bảo tồn đặc trưng kiến trúc của tòa nhà trong quá trình cải tạo."
+      },
+      {
+        "en": "An architectural diagram shows how the software components communicate.",
+        "vi": "Sơ đồ kiến trúc cho thấy các thành phần phần mềm giao tiếp với nhau."
+      }
+    ],
+    "topics": [
+      "architecture",
+      "design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "dedication",
+    "pos": "n",
+    "meaning_vi": "sự tận tâm; cam kết mạnh mẽ",
+    "definition_en": "strong commitment of time and effort to a purpose",
+    "examples": [
+      {
+        "en": "Her dedication to careful testing improved the quality of every release.",
+        "vi": "Sự tận tâm của cô ấy với kiểm thử kỹ lưỡng nâng chất lượng mỗi bản phát hành."
+      },
+      {
+        "en": "Learning a new language requires regular practice and dedication.",
+        "vi": "Học một ngôn ngữ mới cần luyện tập thường xuyên và sự tận tâm."
+      }
+    ],
+    "topics": [
+      "work",
+      "education"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "explicitly",
+    "pos": "adv",
+    "meaning_vi": "một cách rõ ràng, trực tiếp",
+    "definition_en": "in a clear and direct way that leaves little doubt",
+    "examples": [
+      {
+        "en": "The policy explicitly states who may access confidential records.",
+        "vi": "Chính sách nêu rõ ai được phép truy cập hồ sơ mật."
+      },
+      {
+        "en": "Researchers explicitly described every exclusion rule in the methods section.",
+        "vi": "Các nhà nghiên cứu mô tả rõ từng quy tắc loại trừ trong phần phương pháp."
+      }
+    ],
+    "topics": [
+      "communication",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "flu",
+    "pos": "n",
+    "meaning_vi": "bệnh cúm",
+    "definition_en": "an infectious illness causing fever, aches, and respiratory symptoms",
+    "examples": [
+      {
+        "en": "The flu spread quickly through the office during winter.",
+        "vi": "Bệnh cúm lây nhanh trong văn phòng vào mùa đông."
+      },
+      {
+        "en": "People with flu symptoms were advised to rest and avoid crowded spaces.",
+        "vi": "Người có triệu chứng cúm được khuyên nghỉ ngơi và tránh nơi đông người."
+      }
+    ],
+    "topics": [
+      "health",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "polar",
+    "pos": "adj",
+    "meaning_vi": "thuộc vùng cực; liên quan hai cực",
+    "definition_en": "relating to the Earth's poles or having opposite ends",
+    "examples": [
+      {
+        "en": "Polar ice reflects a large amount of sunlight back into space.",
+        "vi": "Băng vùng cực phản xạ lượng lớn ánh sáng mặt trời trở lại không gian."
+      },
+      {
+        "en": "The molecule has a polar structure that affects how it dissolves.",
+        "vi": "Phân tử có cấu trúc phân cực ảnh hưởng đến cách nó hòa tan."
+      }
+    ],
+    "topics": [
+      "geography",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "preview",
+    "pos": "n",
+    "meaning_vi": "bản xem trước; phần giới thiệu trước",
+    "definition_en": "an advance view or sample of something not yet released",
+    "examples": [
+      {
+        "en": "The editor showed a preview of the report before publication.",
+        "vi": "Biên tập viên cho xem trước báo cáo trước khi xuất bản."
+      },
+      {
+        "en": "A live preview helps designers spot layout problems immediately.",
+        "vi": "Bản xem trước trực tiếp giúp nhà thiết kế phát hiện lỗi bố cục ngay lập tức."
+      }
+    ],
+    "topics": [
+      "media",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "puzzle",
+    "pos": "n",
+    "meaning_vi": "câu đố; vấn đề khó hiểu",
+    "definition_en": "a problem or game that requires thought to solve",
+    "examples": [
+      {
+        "en": "The logic puzzle encourages students to test different strategies.",
+        "vi": "Câu đố logic khuyến khích học sinh thử các chiến lược khác nhau."
+      },
+      {
+        "en": "The unexplained signal remains a puzzle for the research team.",
+        "vi": "Tín hiệu chưa giải thích vẫn là một bí ẩn đối với nhóm nghiên cứu."
+      }
+    ],
+    "topics": [
+      "education",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "socially",
+    "pos": "adv",
+    "meaning_vi": "về mặt xã hội; trong giao tiếp xã hội",
+    "definition_en": "in relation to society or interaction with other people",
+    "examples": [
+      {
+        "en": "The project aims to create socially useful technology for older adults.",
+        "vi": "Dự án nhằm tạo ra công nghệ có ích cho xã hội dành cho người lớn tuổi."
+      },
+      {
+        "en": "Remote work can feel socially isolating without regular team interaction.",
+        "vi": "Làm việc từ xa có thể tạo cảm giác cô lập xã hội nếu thiếu tương tác nhóm thường xuyên."
+      }
+    ],
+    "topics": [
+      "society",
+      "communication"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "superb",
+    "pos": "adj",
+    "meaning_vi": "tuyệt vời, xuất sắc",
+    "definition_en": "extremely good in quality or performance",
+    "examples": [
+      {
+        "en": "The camera produced superb detail even in low light.",
+        "vi": "Máy ảnh tạo ra chi tiết tuyệt vời ngay cả trong ánh sáng yếu."
+      },
+      {
+        "en": "Her superb explanation made the difficult concept easy to understand.",
+        "vi": "Lời giải thích xuất sắc của cô ấy giúp khái niệm khó trở nên dễ hiểu."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "supposedly",
+    "pos": "adv",
+    "meaning_vi": "được cho là; theo lời nói hoặc niềm tin chưa chắc đúng",
+    "definition_en": "according to what is claimed or believed, though uncertain",
+    "examples": [
+      {
+        "en": "The supposedly secure link redirected users to an unrelated website.",
+        "vi": "Đường liên kết được cho là an toàn lại chuyển người dùng đến trang không liên quan."
+      },
+      {
+        "en": "This supposedly simple task required several hours of debugging.",
+        "vi": "Nhiệm vụ tưởng là đơn giản này lại cần nhiều giờ gỡ lỗi."
+      }
+    ],
+    "topics": [
+      "communication",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "tricky",
+    "pos": "adj",
+    "meaning_vi": "khó xử lý; cần khéo léo hoặc cẩn thận",
+    "definition_en": "difficult to deal with and requiring careful thought",
+    "examples": [
+      {
+        "en": "Parsing dates can be tricky when users follow different formats.",
+        "vi": "Phân tích ngày tháng có thể khó khi người dùng dùng các định dạng khác nhau."
+      },
+      {
+        "en": "The final question was tricky but solvable with careful reading.",
+        "vi": "Câu hỏi cuối khó nhưng có thể giải được nếu đọc cẩn thận."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "triumph",
+    "pos": "n",
+    "meaning_vi": "chiến thắng lớn; thành công nổi bật",
+    "definition_en": "a major victory or impressive success",
+    "examples": [
+      {
+        "en": "The successful launch was a triumph for the engineering team.",
+        "vi": "Vụ phóng thành công là một thắng lợi lớn của nhóm kỹ thuật."
+      },
+      {
+        "en": "Finishing the recovery project felt like a personal triumph after months of setbacks.",
+        "vi": "Hoàn thành dự án phục hồi giống như một chiến thắng cá nhân sau nhiều tháng trở ngại."
+      }
+    ],
+    "topics": [
+      "general",
+      "history"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "ambitious",
+    "pos": "adj",
+    "meaning_vi": "tham vọng; có mục tiêu lớn",
+    "definition_en": "having strong goals that require significant effort",
+    "examples": [
+      {
+        "en": "The city announced an ambitious plan to expand public transport.",
+        "vi": "Thành phố công bố kế hoạch đầy tham vọng mở rộng giao thông công cộng."
+      },
+      {
+        "en": "Their ambitious research project combines robotics, medicine, and machine learning.",
+        "vi": "Dự án nghiên cứu tham vọng của họ kết hợp robot, y học và học máy."
+      }
+    ],
+    "topics": [
+      "work",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "blend",
+    "pos": "v",
+    "meaning_vi": "trộn, pha; kết hợp hài hòa",
+    "definition_en": "to mix different things until they combine smoothly",
+    "examples": [
+      {
+        "en": "Chefs blend the spices before adding them to the sauce.",
+        "vi": "Đầu bếp trộn các loại gia vị trước khi cho vào nước sốt."
+      },
+      {
+        "en": "The interface blends familiar controls with newer accessibility features.",
+        "vi": "Giao diện kết hợp các điều khiển quen thuộc với tính năng trợ năng mới."
+      }
+    ],
+    "topics": [
+      "food",
+      "design"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "brake",
+    "pos": "n",
+    "meaning_vi": "phanh, bộ phận làm chậm hoặc dừng chuyển động",
+    "definition_en": "a device used to slow or stop a moving vehicle or machine",
+    "examples": [
+      {
+        "en": "The mechanic replaced the worn brake before the road test.",
+        "vi": "Thợ máy thay phanh bị mòn trước khi thử xe trên đường."
+      },
+      {
+        "en": "A faulty brake sensor can trigger unnecessary safety warnings.",
+        "vi": "Cảm biến phanh lỗi có thể kích hoạt cảnh báo an toàn không cần thiết."
+      }
+    ],
+    "topics": [
+      "transport",
+      "engineering"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "correction",
+    "pos": "n",
+    "meaning_vi": "sự sửa chữa; phần sửa sai",
+    "definition_en": "a change made to remove an error or improve accuracy",
+    "examples": [
+      {
+        "en": "The editor made a correction after checking the original source.",
+        "vi": "Biên tập viên sửa lại sau khi kiểm tra nguồn gốc."
+      },
+      {
+        "en": "A small correction to the formula changed the final result.",
+        "vi": "Một chỉnh sửa nhỏ trong công thức đã thay đổi kết quả cuối."
+      }
+    ],
+    "topics": [
+      "education",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "distress",
+    "pos": "v",
+    "meaning_vi": "làm đau khổ; khiến lo lắng nghiêm trọng",
+    "definition_en": "to cause severe worry, sadness, or discomfort",
+    "examples": [
+      {
+        "en": "Graphic images may distress some viewers without a warning.",
+        "vi": "Hình ảnh gây sốc có thể khiến một số người xem đau khổ nếu không có cảnh báo."
+      },
+      {
+        "en": "Unexpected account charges can distress customers who have limited funds.",
+        "vi": "Các khoản phí tài khoản bất ngờ có thể làm khách hàng ít tiền lo lắng nghiêm trọng."
+      }
+    ],
+    "topics": [
+      "emotion",
+      "health"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "elegant",
+    "pos": "adj",
+    "meaning_vi": "thanh lịch; gọn gàng và hiệu quả",
+    "definition_en": "graceful in appearance or impressively simple in design",
+    "examples": [
+      {
+        "en": "The architect proposed an elegant solution for the narrow entrance.",
+        "vi": "Kiến trúc sư đề xuất một giải pháp thanh lịch cho lối vào hẹp."
+      },
+      {
+        "en": "An elegant algorithm can solve the problem with very little code.",
+        "vi": "Một thuật toán gọn gàng có thể giải quyết vấn đề với rất ít mã."
+      }
+    ],
+    "topics": [
+      "design",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "execute",
+    "pos": "v",
+    "meaning_vi": "thực thi; thực hiện theo kế hoạch",
+    "definition_en": "to carry out an action, plan, or computer instruction",
+    "examples": [
+      {
+        "en": "The processor can execute millions of instructions each second.",
+        "vi": "Bộ xử lý có thể thực thi hàng triệu lệnh mỗi giây."
+      },
+      {
+        "en": "The team will execute the migration after verifying all backups.",
+        "vi": "Nhóm sẽ thực hiện việc di chuyển sau khi xác minh tất cả bản sao lưu."
+      }
+    ],
+    "topics": [
+      "technology",
+      "work"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "hike",
+    "pos": "n",
+    "meaning_vi": "chuyến đi bộ đường dài",
+    "definition_en": "a long walk, especially through natural areas",
+    "examples": [
+      {
+        "en": "The weekend hike follows a trail through the national park.",
+        "vi": "Chuyến đi bộ cuối tuần đi theo đường mòn xuyên công viên quốc gia."
+      },
+      {
+        "en": "Bring enough water because the hike takes nearly four hours.",
+        "vi": "Hãy mang đủ nước vì chuyến đi bộ kéo dài gần bốn giờ."
+      }
+    ],
+    "topics": [
+      "travel",
+      "outdoors"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "internationally",
+    "pos": "adv",
+    "meaning_vi": "trên phạm vi quốc tế",
+    "definition_en": "across or among different countries",
+    "examples": [
+      {
+        "en": "The company sells its software internationally through local partners.",
+        "vi": "Công ty bán phần mềm trên phạm vi quốc tế thông qua đối tác địa phương."
+      },
+      {
+        "en": "The research team is internationally recognized for its climate models.",
+        "vi": "Nhóm nghiên cứu được công nhận quốc tế nhờ các mô hình khí hậu."
+      }
+    ],
+    "topics": [
+      "business",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "mainland",
+    "pos": "n",
+    "meaning_vi": "đất liền chính; phần lục địa lớn",
+    "definition_en": "the main continuous land area of a country or region",
+    "examples": [
+      {
+        "en": "A bridge now connects the island to the mainland.",
+        "vi": "Một cây cầu hiện nối hòn đảo với đất liền."
+      },
+      {
+        "en": "Supplies arrive from the mainland twice a week by ferry.",
+        "vi": "Hàng tiếp tế từ đất liền đến hai lần mỗi tuần bằng phà."
+      }
+    ],
+    "topics": [
+      "geography",
+      "travel"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "messenger",
+    "pos": "n",
+    "meaning_vi": "người hoặc phương tiện chuyển tin",
+    "definition_en": "a person or system that carries messages between people or places",
+    "examples": [
+      {
+        "en": "The messenger delivered the signed documents before noon.",
+        "vi": "Người đưa tin giao các tài liệu đã ký trước buổi trưa."
+      },
+      {
+        "en": "A secure messenger encrypts conversations before sending them across the network.",
+        "vi": "Ứng dụng nhắn tin an toàn mã hóa cuộc trò chuyện trước khi gửi qua mạng."
+      }
+    ],
+    "topics": [
+      "communication",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "philosophical",
+    "pos": "adj",
+    "meaning_vi": "thuộc triết học; mang tính suy ngẫm sâu",
+    "definition_en": "relating to philosophy or careful thought about fundamental questions",
+    "examples": [
+      {
+        "en": "The essay raises a philosophical question about personal identity.",
+        "vi": "Bài luận đặt ra một câu hỏi triết học về bản sắc cá nhân."
+      },
+      {
+        "en": "Their philosophical disagreement influenced how they interpreted the same evidence.",
+        "vi": "Bất đồng triết học ảnh hưởng đến cách họ diễn giải cùng một bằng chứng."
+      }
+    ],
+    "topics": [
+      "philosophy",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "punish",
+    "pos": "v",
+    "meaning_vi": "trừng phạt",
+    "definition_en": "to impose a penalty for wrongdoing or breaking a rule",
+    "examples": [
+      {
+        "en": "Schools should punish serious misconduct through fair and consistent procedures.",
+        "vi": "Trường học nên xử phạt hành vi sai trái nghiêm trọng bằng quy trình công bằng và nhất quán."
+      },
+      {
+        "en": "The law may punish companies that deliberately falsify safety records.",
+        "vi": "Luật có thể trừng phạt các công ty cố tình làm giả hồ sơ an toàn."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "secular",
+    "pos": "adj",
+    "meaning_vi": "thế tục; không thuộc tôn giáo",
+    "definition_en": "not connected with religion or religious institutions",
+    "examples": [
+      {
+        "en": "The school follows a secular curriculum established by public authorities.",
+        "vi": "Trường học theo chương trình thế tục do cơ quan công quyền xây dựng."
+      },
+      {
+        "en": "Researchers compared secular and religious institutions in the region.",
+        "vi": "Các nhà nghiên cứu so sánh các tổ chức thế tục và tôn giáo trong khu vực."
+      }
+    ],
+    "topics": [
+      "society",
+      "history"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "sovereign",
+    "pos": "adj",
+    "meaning_vi": "có chủ quyền; độc lập về quyền lực",
+    "definition_en": "having independent authority over a territory or political system",
+    "examples": [
+      {
+        "en": "Each sovereign state controls its own domestic legal system.",
+        "vi": "Mỗi quốc gia có chủ quyền kiểm soát hệ thống pháp luật trong nước của mình."
+      },
+      {
+        "en": "The treaty recognizes the island as part of a sovereign nation.",
+        "vi": "Hiệp ước công nhận hòn đảo là một phần của quốc gia có chủ quyền."
+      }
+    ],
+    "topics": [
+      "politics",
+      "law"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "spouse",
+    "pos": "n",
+    "meaning_vi": "vợ hoặc chồng",
+    "definition_en": "a person's husband or wife",
+    "examples": [
+      {
+        "en": "Employees may add a spouse to the company health plan.",
+        "vi": "Nhân viên có thể thêm vợ hoặc chồng vào chương trình bảo hiểm sức khỏe của công ty."
+      },
+      {
+        "en": "The form asks whether your spouse shares the same address.",
+        "vi": "Biểu mẫu hỏi liệu vợ hoặc chồng của bạn có cùng địa chỉ hay không."
+      }
+    ],
+    "topics": [
+      "family",
+      "law"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "tense",
+    "pos": "adj",
+    "meaning_vi": "căng thẳng; căng cứng",
+    "definition_en": "nervous, strained, or unable to relax",
+    "examples": [
+      {
+        "en": "The meeting became tense when the budget cuts were announced.",
+        "vi": "Cuộc họp trở nên căng thẳng khi việc cắt giảm ngân sách được công bố."
+      },
+      {
+        "en": "His shoulders felt tense after several hours at the computer.",
+        "vi": "Vai anh ấy bị căng sau nhiều giờ ngồi máy tính."
+      }
+    ],
+    "topics": [
+      "emotion",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "adviser",
+    "pos": "n",
+    "meaning_vi": "cố vấn; người đưa lời khuyên chuyên môn",
+    "definition_en": "a person who gives professional or expert advice",
+    "examples": [
+      {
+        "en": "Her academic adviser helped her choose courses for the next semester.",
+        "vi": "Cố vấn học tập giúp cô ấy chọn môn cho học kỳ tới."
+      },
+      {
+        "en": "The company hired a legal adviser before signing the contract.",
+        "vi": "Công ty thuê cố vấn pháp lý trước khi ký hợp đồng."
+      }
+    ],
+    "topics": [
+      "work",
+      "education"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "automobile",
+    "pos": "n",
+    "meaning_vi": "ô tô, xe hơi",
+    "definition_en": "a road vehicle powered by an engine and used for carrying people",
+    "examples": [
+      {
+        "en": "The museum displays an early automobile beside modern electric vehicles.",
+        "vi": "Bảo tàng trưng bày một chiếc ô tô đời đầu cạnh các xe điện hiện đại."
+      },
+      {
+        "en": "Automobile manufacturers are investing heavily in battery technology.",
+        "vi": "Các hãng sản xuất ô tô đang đầu tư mạnh vào công nghệ pin."
+      }
+    ],
+    "topics": [
+      "transport",
+      "engineering"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "dull",
+    "pos": "adj",
+    "meaning_vi": "tẻ nhạt; không sáng hoặc không sắc",
+    "definition_en": "not interesting, bright, or sharp",
+    "examples": [
+      {
+        "en": "The lecture felt dull until the speaker introduced a real case study.",
+        "vi": "Bài giảng khá tẻ nhạt cho đến khi diễn giả đưa vào một tình huống thực tế."
+      },
+      {
+        "en": "A dull blade requires more force and can be less safe.",
+        "vi": "Lưỡi dao cùn cần nhiều lực hơn và có thể kém an toàn."
+      }
+    ],
+    "topics": [
+      "general",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "generator",
+    "pos": "n",
+    "meaning_vi": "máy phát điện; thiết bị tạo ra thứ gì đó",
+    "definition_en": "a machine or device that produces electrical power or another output",
+    "examples": [
+      {
+        "en": "The backup generator started automatically when the building lost power.",
+        "vi": "Máy phát điện dự phòng tự khởi động khi tòa nhà mất điện."
+      },
+      {
+        "en": "A random-number generator supports many simulations and security systems.",
+        "vi": "Bộ tạo số ngẫu nhiên hỗ trợ nhiều mô phỏng và hệ thống bảo mật."
+      }
+    ],
+    "topics": [
+      "engineering",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "illusion",
+    "pos": "n",
+    "meaning_vi": "ảo giác; nhận thức sai về thực tế",
+    "definition_en": "a false appearance or belief that seems real",
+    "examples": [
+      {
+        "en": "The mirror creates an illusion of extra space in the small room.",
+        "vi": "Chiếc gương tạo ảo giác về không gian rộng hơn trong căn phòng nhỏ."
+      },
+      {
+        "en": "Fast early growth can create an illusion of long-term success.",
+        "vi": "Tăng trưởng nhanh ban đầu có thể tạo ảo tưởng về thành công lâu dài."
+      }
+    ],
+    "topics": [
+      "psychology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "incorrect",
+    "pos": "adj",
+    "meaning_vi": "không đúng, sai",
+    "definition_en": "not accurate, true, or suitable",
+    "examples": [
+      {
+        "en": "An incorrect password locks the account after several attempts.",
+        "vi": "Mật khẩu sai sẽ khóa tài khoản sau vài lần thử."
+      },
+      {
+        "en": "The report contained an incorrect figure that changed the conclusion.",
+        "vi": "Báo cáo chứa một con số sai làm thay đổi kết luận."
+      }
+    ],
+    "topics": [
+      "education",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "postal",
+    "pos": "adj",
+    "meaning_vi": "thuộc bưu chính",
+    "definition_en": "relating to the system for sending letters and parcels",
+    "examples": [
+      {
+        "en": "The postal service introduced tracking for all registered packages.",
+        "vi": "Dịch vụ bưu chính triển khai theo dõi cho mọi bưu kiện đăng ký."
+      },
+      {
+        "en": "Please confirm your postal address before we ship the replacement.",
+        "vi": "Vui lòng xác nhận địa chỉ bưu chính trước khi chúng tôi gửi hàng thay thế."
+      }
+    ],
+    "topics": [
+      "communication",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "prosecutor",
+    "pos": "n",
+    "meaning_vi": "công tố viên",
+    "definition_en": "a lawyer who presents a criminal case against an accused person",
+    "examples": [
+      {
+        "en": "The prosecutor questioned the witness about the missing records.",
+        "vi": "Công tố viên hỏi nhân chứng về các hồ sơ bị thiếu."
+      },
+      {
+        "en": "A prosecutor must disclose relevant evidence under the applicable rules.",
+        "vi": "Công tố viên phải công bố bằng chứng liên quan theo các quy định áp dụng."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "squeeze",
+    "pos": "v",
+    "meaning_vi": "bóp, ép chặt",
+    "definition_en": "to press something firmly from opposite sides",
+    "examples": [
+      {
+        "en": "Squeeze the bottle gently to release a small amount of liquid.",
+        "vi": "Bóp nhẹ chai để lấy ra một lượng nhỏ chất lỏng."
+      },
+      {
+        "en": "Engineers squeeze the sample between plates to measure its strength.",
+        "vi": "Các kỹ sư ép mẫu giữa hai tấm để đo độ bền."
+      }
+    ],
+    "topics": [
+      "general",
+      "science"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "towel",
+    "pos": "n",
+    "meaning_vi": "khăn lau",
+    "definition_en": "a piece of absorbent cloth used for drying",
+    "examples": [
+      {
+        "en": "Use a clean towel to dry the equipment after washing.",
+        "vi": "Dùng khăn sạch để lau khô thiết bị sau khi rửa."
+      },
+      {
+        "en": "The hotel replaces every towel after a guest checks out.",
+        "vi": "Khách sạn thay từng chiếc khăn sau khi khách trả phòng."
+      }
+    ],
+    "topics": [
+      "daily-life",
+      "home"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "automotive",
+    "pos": "adj",
+    "meaning_vi": "thuộc ngành ô tô",
+    "definition_en": "relating to cars, vehicles, or the motor industry",
+    "examples": [
+      {
+        "en": "The automotive industry is investing heavily in electric drive systems.",
+        "vi": "Ngành ô tô đang đầu tư mạnh vào các hệ thống truyền động điện."
+      },
+      {
+        "en": "Automotive sensors help vehicles monitor speed, temperature, and pressure.",
+        "vi": "Cảm biến ô tô giúp xe theo dõi tốc độ, nhiệt độ và áp suất."
+      }
+    ],
+    "topics": [
+      "transport",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "halt",
+    "pos": "v",
+    "meaning_vi": "dừng lại, làm dừng",
+    "definition_en": "to stop moving, operating, or continuing",
+    "examples": [
+      {
+        "en": "Engineers halted the test when the temperature rose too quickly.",
+        "vi": "Các kỹ sư dừng thử nghiệm khi nhiệt độ tăng quá nhanh."
+      },
+      {
+        "en": "A damaged cable can halt production across an entire line.",
+        "vi": "Cáp hỏng có thể làm dừng sản xuất trên cả một dây chuyền."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "inability",
+    "pos": "n",
+    "meaning_vi": "sự không có khả năng",
+    "definition_en": "a lack of ability to do or achieve something",
+    "examples": [
+      {
+        "en": "The inability to verify the source reduced confidence in the claim.",
+        "vi": "Việc không thể xác minh nguồn làm giảm độ tin cậy của tuyên bố."
+      },
+      {
+        "en": "His inability to access the account delayed the submission.",
+        "vi": "Việc anh ấy không thể truy cập tài khoản làm chậm quá trình nộp bài."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "norm",
+    "pos": "n",
+    "meaning_vi": "chuẩn mực; điều được xem là bình thường",
+    "definition_en": "a standard, rule, or usual pattern accepted by a group",
+    "examples": [
+      {
+        "en": "Remote meetings became a workplace norm after the company expanded globally.",
+        "vi": "Họp từ xa trở thành chuẩn mực nơi làm việc sau khi công ty mở rộng toàn cầu."
+      },
+      {
+        "en": "The study compares cultural norm differences between several communities.",
+        "vi": "Nghiên cứu so sánh khác biệt chuẩn mực văn hóa giữa một số cộng đồng."
+      }
+    ],
+    "topics": [
+      "society",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "donor",
+    "pos": "n",
+    "meaning_vi": "người hiến tặng; nhà tài trợ",
+    "definition_en": "a person or organization that gives money, blood, organs, or resources",
+    "examples": [
+      {
+        "en": "Each donor received a receipt after contributing to the scholarship fund.",
+        "vi": "Mỗi nhà tài trợ nhận biên lai sau khi đóng góp vào quỹ học bổng."
+      },
+      {
+        "en": "The hospital contacted a compatible donor for the urgent transplant.",
+        "vi": "Bệnh viện liên hệ một người hiến phù hợp cho ca ghép khẩn cấp."
+      }
+    ],
+    "topics": [
+      "health",
+      "society"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "manuscript",
+    "pos": "n",
+    "meaning_vi": "bản thảo",
+    "definition_en": "a written work before publication or an old handwritten document",
+    "examples": [
+      {
+        "en": "The author revised the manuscript after receiving detailed reviewer comments.",
+        "vi": "Tác giả chỉnh sửa bản thảo sau khi nhận nhận xét chi tiết từ người phản biện."
+      },
+      {
+        "en": "The library preserves a medieval manuscript in a climate-controlled room.",
+        "vi": "Thư viện bảo quản một bản thảo thời trung cổ trong phòng kiểm soát khí hậu."
+      }
+    ],
+    "topics": [
+      "publishing",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "velocity",
+    "pos": "n",
+    "meaning_vi": "vận tốc",
+    "definition_en": "speed in a particular direction",
+    "examples": [
+      {
+        "en": "The sensor calculates velocity from changes in position over time.",
+        "vi": "Cảm biến tính vận tốc từ sự thay đổi vị trí theo thời gian."
+      },
+      {
+        "en": "Higher velocity increases the energy involved in a collision.",
+        "vi": "Vận tốc cao hơn làm tăng năng lượng trong một vụ va chạm."
+      }
+    ],
+    "topics": [
+      "physics",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "pioneer",
+    "pos": "n",
+    "meaning_vi": "người tiên phong",
+    "definition_en": "a person who first develops or explores a new field",
+    "examples": [
+      {
+        "en": "She became a pioneer in low-cost medical imaging.",
+        "vi": "Cô ấy trở thành người tiên phong trong chẩn đoán hình ảnh y tế chi phí thấp."
+      },
+      {
+        "en": "The company founder was a pioneer of online education in the region.",
+        "vi": "Nhà sáng lập công ty là người tiên phong về giáo dục trực tuyến trong khu vực."
+      }
+    ],
+    "topics": [
+      "history",
+      "innovation"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "recreational",
+    "pos": "adj",
+    "meaning_vi": "thuộc giải trí, thư giãn",
+    "definition_en": "done for enjoyment during free time rather than as work",
+    "examples": [
+      {
+        "en": "The park offers recreational facilities for cycling, swimming, and basketball.",
+        "vi": "Công viên cung cấp các cơ sở giải trí cho đạp xe, bơi và bóng rổ."
+      },
+      {
+        "en": "Recreational exercise can improve health without requiring competitive training.",
+        "vi": "Vận động giải trí có thể cải thiện sức khỏe mà không cần tập luyện thi đấu."
+      }
+    ],
+    "topics": [
+      "leisure",
+      "health"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "clarity",
+    "pos": "n",
+    "meaning_vi": "sự rõ ràng",
+    "definition_en": "the quality of being easy to understand, see, or hear",
+    "examples": [
+      {
+        "en": "The editor shortened several sentences to improve clarity.",
+        "vi": "Biên tập viên rút ngắn một số câu để tăng sự rõ ràng."
+      },
+      {
+        "en": "High screen clarity makes small technical diagrams easier to read.",
+        "vi": "Độ rõ màn hình cao giúp các sơ đồ kỹ thuật nhỏ dễ đọc hơn."
+      }
+    ],
+    "topics": [
+      "communication",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "elevation",
+    "pos": "n",
+    "meaning_vi": "độ cao; sự nâng lên",
+    "definition_en": "height above a reference level, especially sea level",
+    "examples": [
+      {
+        "en": "The station records temperature at several levels of elevation.",
+        "vi": "Trạm ghi nhiệt độ ở nhiều mức độ cao khác nhau."
+      },
+      {
+        "en": "Engineers considered road elevation when designing the drainage system.",
+        "vi": "Các kỹ sư tính đến độ cao mặt đường khi thiết kế hệ thống thoát nước."
+      }
+    ],
+    "topics": [
+      "geography",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "horizontal",
+    "pos": "adj",
+    "meaning_vi": "nằm ngang; song song với mặt phẳng chuẩn",
+    "definition_en": "flat or parallel to the ground rather than upright",
+    "examples": [
+      {
+        "en": "Draw a horizontal line across the center of the diagram.",
+        "vi": "Vẽ một đường ngang qua tâm của sơ đồ."
+      },
+      {
+        "en": "The horizontal layout gives the chart more room for long labels.",
+        "vi": "Bố cục ngang tạo thêm chỗ cho các nhãn dài trên biểu đồ."
+      }
+    ],
+    "topics": [
+      "geometry",
+      "design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "individually",
+    "pos": "adv",
+    "meaning_vi": "riêng lẻ, từng người hoặc từng vật",
+    "definition_en": "one by one or separately rather than as a group",
+    "examples": [
+      {
+        "en": "Each sample was individually labeled before entering the laboratory.",
+        "vi": "Mỗi mẫu được dán nhãn riêng trước khi đưa vào phòng thí nghiệm."
+      },
+      {
+        "en": "Students were individually assessed on pronunciation and listening accuracy.",
+        "vi": "Từng sinh viên được đánh giá riêng về phát âm và độ chính xác nghe."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "inevitably",
+    "pos": "adv",
+    "meaning_vi": "chắc chắn sẽ xảy ra; không thể tránh khỏi",
+    "definition_en": "in a way that cannot reasonably be avoided",
+    "examples": [
+      {
+        "en": "Rapid growth inevitably creates new coordination problems for large teams.",
+        "vi": "Tăng trưởng nhanh khó tránh khỏi việc tạo ra vấn đề phối hợp mới cho nhóm lớn."
+      },
+      {
+        "en": "Old hardware will inevitably require replacement as support ends.",
+        "vi": "Phần cứng cũ chắc chắn sẽ cần thay thế khi hỗ trợ kết thúc."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "opt",
+    "pos": "v",
+    "meaning_vi": "chọn, quyết định chọn",
+    "definition_en": "to choose one option from available alternatives",
+    "examples": [
+      {
+        "en": "Many commuters opt for trains when fuel prices rise.",
+        "vi": "Nhiều người đi làm chọn tàu khi giá nhiên liệu tăng."
+      },
+      {
+        "en": "Users can opt to receive security alerts by email.",
+        "vi": "Người dùng có thể chọn nhận cảnh báo bảo mật qua email."
+      }
+    ],
+    "topics": [
+      "general",
+      "decision-making"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "reservoir",
+    "pos": "n",
+    "meaning_vi": "hồ chứa; nơi tích trữ chất lỏng",
+    "definition_en": "a large natural or artificial place used to store water",
+    "examples": [
+      {
+        "en": "The reservoir supplies drinking water to three nearby towns.",
+        "vi": "Hồ chứa cung cấp nước uống cho ba thị trấn lân cận."
+      },
+      {
+        "en": "Low rainfall reduced the reservoir level during the dry season.",
+        "vi": "Lượng mưa thấp làm giảm mực nước hồ chứa trong mùa khô."
+      }
+    ],
+    "topics": [
+      "environment",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "scrap",
+    "pos": "n",
+    "meaning_vi": "mảnh vụn; vật liệu bỏ đi còn có thể tái chế",
+    "definition_en": "a small discarded piece or material left after use",
+    "examples": [
+      {
+        "en": "The factory separates metal scrap for recycling.",
+        "vi": "Nhà máy tách phế liệu kim loại để tái chế."
+      },
+      {
+        "en": "Engineers reused a scrap piece of plastic for the prototype.",
+        "vi": "Các kỹ sư tái sử dụng một mảnh nhựa thừa cho nguyên mẫu."
+      }
+    ],
+    "topics": [
+      "materials",
+      "industry"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "shuttle",
+    "pos": "n",
+    "meaning_vi": "xe hoặc phương tiện chạy tuyến ngắn thường xuyên",
+    "definition_en": "a vehicle that travels repeatedly between two nearby places",
+    "examples": [
+      {
+        "en": "A free shuttle carries passengers from the station to the airport.",
+        "vi": "Xe trung chuyển miễn phí chở hành khách từ ga đến sân bay."
+      },
+      {
+        "en": "The campus shuttle runs every fifteen minutes during peak hours.",
+        "vi": "Xe buýt nội khu chạy mỗi mười lăm phút vào giờ cao điểm."
+      }
+    ],
+    "topics": [
+      "transport",
+      "travel"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "trademark",
+    "pos": "n",
+    "meaning_vi": "nhãn hiệu được pháp luật bảo hộ",
+    "definition_en": "a legally protected name or symbol identifying a product or company",
+    "examples": [
+      {
+        "en": "The company registered its logo as a trademark.",
+        "vi": "Công ty đăng ký logo của mình làm nhãn hiệu."
+      },
+      {
+        "en": "Using another firm's trademark without permission can create legal problems.",
+        "vi": "Sử dụng nhãn hiệu của công ty khác khi chưa được phép có thể gây vấn đề pháp lý."
+      }
+    ],
+    "topics": [
+      "business",
+      "law"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "haul",
+    "pos": "v",
+    "meaning_vi": "kéo hoặc chở vật nặng",
+    "definition_en": "to pull or transport something heavy over a distance",
+    "examples": [
+      {
+        "en": "Trucks haul construction materials from the port to the site.",
+        "vi": "Xe tải chở vật liệu xây dựng từ cảng đến công trường."
+      },
+      {
+        "en": "Workers haul damaged equipment away after the inspection.",
+        "vi": "Công nhân kéo thiết bị hỏng đi sau cuộc kiểm tra."
+      }
+    ],
+    "topics": [
+      "transport",
+      "industry"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "node",
+    "pos": "n",
+    "meaning_vi": "nút; điểm kết nối trong mạng hoặc cấu trúc",
+    "definition_en": "a point where connections meet in a network or system",
+    "examples": [
+      {
+        "en": "Each network node forwards data to the next available route.",
+        "vi": "Mỗi nút mạng chuyển dữ liệu sang tuyến khả dụng tiếp theo."
+      },
+      {
+        "en": "A damaged node can interrupt communication across the sensor network.",
+        "vi": "Một nút bị hỏng có thể làm gián đoạn liên lạc trên mạng cảm biến."
+      }
+    ],
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "yearly",
+    "pos": "adj",
+    "meaning_vi": "hằng năm",
+    "definition_en": "happening, produced, or calculated once every year",
+    "examples": [
+      {
+        "en": "The company publishes a yearly report on energy use.",
+        "vi": "Công ty công bố báo cáo hằng năm về mức sử dụng năng lượng."
+      },
+      {
+        "en": "Yearly maintenance reduces the risk of sudden equipment failure.",
+        "vi": "Bảo trì hằng năm làm giảm nguy cơ thiết bị hỏng đột ngột."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "marker",
+    "pos": "n",
+    "meaning_vi": "dấu hiệu; bút đánh dấu; chỉ báo",
+    "definition_en": "an object or sign used to identify, indicate, or measure something",
+    "examples": [
+      {
+        "en": "The researcher used a genetic marker to identify the cell type.",
+        "vi": "Nhà nghiên cứu dùng một dấu ấn di truyền để xác định loại tế bào."
+      },
+      {
+        "en": "Place a marker beside each completed task on the board.",
+        "vi": "Đặt một dấu cạnh mỗi nhiệm vụ đã hoàn thành trên bảng."
+      }
+    ],
+    "topics": [
+      "science",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "problematic",
+    "pos": "adj",
+    "meaning_vi": "có vấn đề; gây khó khăn",
+    "definition_en": "causing difficulty, doubt, or undesirable consequences",
+    "examples": [
+      {
+        "en": "The assumption is problematic because it ignores rural households.",
+        "vi": "Giả định này có vấn đề vì bỏ qua các hộ gia đình nông thôn."
+      },
+      {
+        "en": "A problematic dependency can block the entire software upgrade.",
+        "vi": "Một phụ thuộc có vấn đề có thể chặn toàn bộ quá trình nâng cấp phần mềm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "promotional",
+    "pos": "adj",
+    "meaning_vi": "thuộc quảng bá, khuyến mãi",
+    "definition_en": "intended to advertise or encourage interest in a product or event",
+    "examples": [
+      {
+        "en": "The company released a promotional video before the product launch.",
+        "vi": "Công ty phát hành video quảng bá trước khi ra mắt sản phẩm."
+      },
+      {
+        "en": "Promotional pricing attracted many first-time customers during the weekend.",
+        "vi": "Giá khuyến mãi thu hút nhiều khách hàng mới trong cuối tuần."
+      }
+    ],
+    "topics": [
+      "marketing",
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "sodium",
+    "pos": "n",
+    "meaning_vi": "natri",
+    "definition_en": "a reactive chemical element essential in small amounts to living organisms",
+    "examples": [
+      {
+        "en": "Too much sodium in food can increase health risks for some people.",
+        "vi": "Quá nhiều natri trong thực phẩm có thể tăng rủi ro sức khỏe cho một số người."
+      },
+      {
+        "en": "The laboratory measured sodium concentration in each water sample.",
+        "vi": "Phòng thí nghiệm đo nồng độ natri trong từng mẫu nước."
+      }
+    ],
+    "topics": [
+      "chemistry",
+      "health"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "underway",
+    "pos": "adv",
+    "meaning_vi": "đang diễn ra, đã bắt đầu",
+    "definition_en": "already started and currently in progress",
+    "examples": [
+      {
+        "en": "The investigation is underway and preliminary results are expected tomorrow.",
+        "vi": "Cuộc điều tra đang diễn ra và kết quả sơ bộ dự kiến có vào ngày mai."
+      },
+      {
+        "en": "Construction was underway when the new safety rules were issued.",
+        "vi": "Công trình đang thi công khi các quy định an toàn mới được ban hành."
+      }
+    ],
+    "topics": [
+      "work",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "unstable",
+    "pos": "adj",
+    "meaning_vi": "không ổn định",
+    "definition_en": "likely to change suddenly, fail, or lose balance",
+    "examples": [
+      {
+        "en": "The unstable connection caused repeated interruptions during the call.",
+        "vi": "Kết nối không ổn định gây gián đoạn lặp lại trong cuộc gọi."
+      },
+      {
+        "en": "An unstable chemical compound may react quickly under heat.",
+        "vi": "Một hợp chất hóa học không ổn định có thể phản ứng nhanh khi gặp nhiệt."
+      }
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "behavioral",
+    "pos": "adj",
+    "meaning_vi": "thuộc hành vi",
+    "definition_en": "relating to actions, reactions, or patterns of behavior",
+    "examples": [
+      {
+        "en": "The study examined behavioral changes after participants received feedback.",
+        "vi": "Nghiên cứu xem xét thay đổi hành vi sau khi người tham gia nhận phản hồi."
+      },
+      {
+        "en": "Behavioral data can reveal how users actually interact with a product.",
+        "vi": "Dữ liệu hành vi có thể cho thấy người dùng thực sự tương tác với sản phẩm thế nào."
+      }
+    ],
+    "topics": [
+      "psychology",
+      "science"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "fatigue",
+    "pos": "n",
+    "meaning_vi": "sự mệt mỏi kéo dài",
+    "definition_en": "extreme tiredness caused by physical or mental effort",
+    "examples": [
+      {
+        "en": "Long shifts can cause fatigue and reduce attention.",
+        "vi": "Ca làm dài có thể gây mệt mỏi và giảm sự tập trung."
+      },
+      {
+        "en": "The pilot reported fatigue after several nights of poor sleep.",
+        "vi": "Phi công báo cáo tình trạng mệt mỏi sau vài đêm ngủ kém."
+      }
+    ],
+    "topics": [
+      "health",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "radius",
+    "pos": "n",
+    "meaning_vi": "bán kính",
+    "definition_en": "the distance from the center of a circle to its edge",
+    "examples": [
+      {
+        "en": "The circle has a radius of five centimeters.",
+        "vi": "Hình tròn có bán kính năm xăng-ti-mét."
+      },
+      {
+        "en": "Engineers increased the turning radius to accommodate larger vehicles.",
+        "vi": "Các kỹ sư tăng bán kính quay để phù hợp với xe lớn hơn."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "scroll",
+    "pos": "v",
+    "meaning_vi": "cuộn nội dung trên màn hình",
+    "definition_en": "to move displayed content up, down, or across a screen",
+    "examples": [
+      {
+        "en": "Scroll down to view the remaining settings.",
+        "vi": "Cuộn xuống để xem các cài đặt còn lại."
+      },
+      {
+        "en": "Users can scroll through the timeline using a mouse wheel.",
+        "vi": "Người dùng có thể cuộn qua dòng thời gian bằng bánh xe chuột."
+      }
+    ],
+    "topics": [
+      "technology",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "taxpayer",
+    "pos": "n",
+    "meaning_vi": "người nộp thuế",
+    "definition_en": "a person or organization required to pay taxes",
+    "examples": [
+      {
+        "en": "Every taxpayer can review the public budget online.",
+        "vi": "Mỗi người nộp thuế có thể xem ngân sách công trực tuyến."
+      },
+      {
+        "en": "The reform aims to simplify filing for the average taxpayer.",
+        "vi": "Cải cách nhằm đơn giản hóa việc khai thuế cho người nộp thuế thông thường."
+      }
+    ],
+    "topics": [
+      "economics",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "gasoline",
+    "pos": "n",
+    "meaning_vi": "xăng",
+    "definition_en": "a liquid fuel used mainly in petrol-powered engines",
+    "examples": [
+      {
+        "en": "The car uses less gasoline after the engine was tuned.",
+        "vi": "Chiếc xe dùng ít xăng hơn sau khi động cơ được hiệu chỉnh."
+      },
+      {
+        "en": "Gasoline prices rose after supply disruptions affected the region.",
+        "vi": "Giá xăng tăng sau khi gián đoạn nguồn cung ảnh hưởng khu vực."
+      }
+    ],
+    "topics": [
+      "energy",
+      "transport"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "incomplete",
+    "pos": "adj",
+    "meaning_vi": "chưa hoàn chỉnh, còn thiếu",
+    "definition_en": "missing necessary parts or not fully finished",
+    "examples": [
+      {
+        "en": "The application was rejected because several fields were incomplete.",
+        "vi": "Đơn đăng ký bị từ chối vì một số trường còn chưa hoàn chỉnh."
+      },
+      {
+        "en": "An incomplete backup cannot restore the entire database.",
+        "vi": "Bản sao lưu không đầy đủ không thể khôi phục toàn bộ cơ sở dữ liệu."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "niche",
+    "pos": "n",
+    "meaning_vi": "thị trường ngách; vị trí chuyên biệt",
+    "definition_en": "a specialized area, role, or small market",
+    "examples": [
+      {
+        "en": "The startup found a profitable niche in educational software.",
+        "vi": "Công ty khởi nghiệp tìm thấy một thị trường ngách có lợi nhuận trong phần mềm giáo dục."
+      },
+      {
+        "en": "Each species occupies a particular ecological niche within the forest.",
+        "vi": "Mỗi loài chiếm một ổ sinh thái riêng trong rừng."
+      }
+    ],
+    "topics": [
+      "business",
+      "biology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "obscure",
+    "pos": "adj",
+    "meaning_vi": "ít được biết đến; khó hiểu",
+    "definition_en": "not well known or difficult to understand",
+    "examples": [
+      {
+        "en": "The article cites an obscure study from the early 1990s.",
+        "vi": "Bài báo trích dẫn một nghiên cứu ít được biết đến từ đầu thập niên 1990."
+      },
+      {
+        "en": "An obscure error message made the failure difficult to diagnose.",
+        "vi": "Thông báo lỗi khó hiểu khiến sự cố khó chẩn đoán."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "uranium",
+    "pos": "n",
+    "meaning_vi": "uranium, nguyên tố phóng xạ",
+    "definition_en": "a heavy radioactive chemical element used in nuclear fuel",
+    "examples": [
+      {
+        "en": "The facility stores uranium under strict safety controls.",
+        "vi": "Cơ sở lưu trữ uranium dưới các biện pháp kiểm soát an toàn nghiêm ngặt."
+      },
+      {
+        "en": "Scientists measure uranium concentration in rock samples during exploration.",
+        "vi": "Các nhà khoa học đo nồng độ uranium trong mẫu đá khi thăm dò."
+      }
+    ],
+    "topics": [
+      "chemistry",
+      "energy"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "vanilla",
+    "pos": "n",
+    "meaning_vi": "vani; hương liệu từ quả vani",
+    "definition_en": "a fragrant flavoring obtained from vanilla plants or made synthetically",
+    "examples": [
+      {
+        "en": "The recipe uses vanilla to add a warm sweet aroma.",
+        "vi": "Công thức dùng vani để tạo hương thơm ngọt ấm."
+      },
+      {
+        "en": "Natural vanilla is produced from cured pods of a tropical orchid.",
+        "vi": "Vani tự nhiên được sản xuất từ quả đã xử lý của một loài lan nhiệt đới."
+      }
+    ],
+    "topics": [
+      "food",
+      "agriculture"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "critique",
+    "pos": "n",
+    "meaning_vi": "bài phê bình; sự đánh giá phân tích",
+    "definition_en": "a detailed analysis evaluating strengths and weaknesses",
+    "examples": [
+      {
+        "en": "Her critique identifies weaknesses in the study's sampling method.",
+        "vi": "Bài phê bình của cô ấy chỉ ra điểm yếu trong phương pháp lấy mẫu của nghiên cứu."
+      },
+      {
+        "en": "A useful critique should explain both problems and possible improvements.",
+        "vi": "Một bài phê bình hữu ích nên giải thích cả vấn đề và cách cải thiện."
+      }
+    ],
+    "topics": [
+      "academic",
+      "communication"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "diagnostic",
+    "pos": "adj",
+    "meaning_vi": "thuộc chẩn đoán; dùng để xác định lỗi hoặc bệnh",
+    "definition_en": "used to identify the cause of a problem or disease",
+    "examples": [
+      {
+        "en": "The doctor ordered a diagnostic test before choosing treatment.",
+        "vi": "Bác sĩ yêu cầu xét nghiệm chẩn đoán trước khi chọn phương pháp điều trị."
+      },
+      {
+        "en": "Diagnostic software detected a failing storage drive.",
+        "vi": "Phần mềm chẩn đoán phát hiện một ổ lưu trữ sắp hỏng."
+      }
+    ],
+    "topics": [
+      "health",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "differential",
+    "pos": "adj",
+    "meaning_vi": "khác biệt; liên quan đến mức chênh lệch",
+    "definition_en": "relating to a difference between quantities, groups, or conditions",
+    "examples": [
+      {
+        "en": "The sensor measures differential pressure across the filter.",
+        "vi": "Cảm biến đo chênh lệch áp suất qua bộ lọc."
+      },
+      {
+        "en": "Researchers examined differential effects across age groups.",
+        "vi": "Các nhà nghiên cứu xem xét tác động khác biệt giữa các nhóm tuổi."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "dominance",
+    "pos": "n",
+    "meaning_vi": "sự thống trị; vị thế vượt trội",
+    "definition_en": "the state of having greater power, influence, or control",
+    "examples": [
+      {
+        "en": "Market dominance can make it harder for small competitors to survive.",
+        "vi": "Sự thống trị thị trường có thể khiến đối thủ nhỏ khó tồn tại hơn."
+      },
+      {
+        "en": "The study explores dominance patterns within the animal group.",
+        "vi": "Nghiên cứu khám phá các mô hình thống trị trong nhóm động vật."
+      }
+    ],
+    "topics": [
+      "business",
+      "biology"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "economically",
+    "pos": "adv",
+    "meaning_vi": "về mặt kinh tế; theo cách tiết kiệm chi phí",
+    "definition_en": "in financial or economic terms",
+    "examples": [
+      {
+        "en": "The project is economically viable only at larger production volumes.",
+        "vi": "Dự án chỉ khả thi về mặt kinh tế ở quy mô sản xuất lớn hơn."
+      },
+      {
+        "en": "Solar power has become economically attractive in many regions.",
+        "vi": "Điện mặt trời đã trở nên hấp dẫn về kinh tế ở nhiều khu vực."
+      }
+    ],
+    "topics": [
+      "economics",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "humidity",
+    "pos": "n",
+    "meaning_vi": "độ ẩm không khí",
+    "definition_en": "the amount of water vapor present in the air",
+    "examples": [
+      {
+        "en": "High humidity can make hot weather feel more uncomfortable.",
+        "vi": "Độ ẩm cao có thể khiến thời tiết nóng trở nên khó chịu hơn."
+      },
+      {
+        "en": "The laboratory controls humidity to protect sensitive materials.",
+        "vi": "Phòng thí nghiệm kiểm soát độ ẩm để bảo vệ vật liệu nhạy cảm."
+      }
+    ],
+    "topics": [
+      "weather",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "statute",
+    "pos": "n",
+    "meaning_vi": "đạo luật; quy định thành văn",
+    "definition_en": "a written law formally enacted by a legislative authority",
+    "examples": [
+      {
+        "en": "The new statute requires companies to disclose certain environmental risks.",
+        "vi": "Đạo luật mới yêu cầu công ty công bố một số rủi ro môi trường."
+      },
+      {
+        "en": "A court may interpret the statute when its wording is unclear.",
+        "vi": "Tòa án có thể diễn giải đạo luật khi câu chữ không rõ ràng."
+      }
+    ],
+    "topics": [
+      "law",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "wholly",
+    "pos": "adv",
+    "meaning_vi": "hoàn toàn",
+    "definition_en": "completely and in every relevant respect",
+    "examples": [
+      {
+        "en": "The conclusion is not wholly supported by the available evidence.",
+        "vi": "Kết luận chưa hoàn toàn được bằng chứng hiện có hỗ trợ."
+      },
+      {
+        "en": "The subsidiary is wholly owned by the parent company.",
+        "vi": "Công ty con thuộc sở hữu hoàn toàn của công ty mẹ."
+      }
+    ],
+    "topics": [
+      "academic",
+      "formal-writing"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "calcium",
+    "pos": "n",
+    "meaning_vi": "canxi",
+    "definition_en": "a chemical element important for bones, muscles, and many biological processes",
+    "examples": [
+      {
+        "en": "Milk contains calcium that supports bone development.",
+        "vi": "Sữa chứa canxi hỗ trợ phát triển xương."
+      },
+      {
+        "en": "The test measured calcium levels in the water supply.",
+        "vi": "Xét nghiệm đo nồng độ canxi trong nguồn nước."
+      }
+    ],
+    "topics": [
+      "health",
+      "chemistry"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "collectively",
+    "pos": "adv",
+    "meaning_vi": "một cách tập thể; xét chung",
+    "definition_en": "as a group or when considered together",
+    "examples": [
+      {
+        "en": "The committee members collectively approved the revised proposal.",
+        "vi": "Các thành viên ủy ban cùng nhau phê duyệt đề xuất sửa đổi."
+      },
+      {
+        "en": "These small changes collectively reduced processing time by twenty percent.",
+        "vi": "Các thay đổi nhỏ này khi xét chung đã giảm thời gian xử lý hai mươi phần trăm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "drift",
+    "pos": "v",
+    "meaning_vi": "trôi dạt; dịch chuyển dần khỏi vị trí",
+    "definition_en": "to move slowly without a clear direction or control",
+    "examples": [
+      {
+        "en": "The boat began to drift away from the dock.",
+        "vi": "Chiếc thuyền bắt đầu trôi khỏi bến."
+      },
+      {
+        "en": "Sensor readings can drift over time without regular calibration.",
+        "vi": "Số đo cảm biến có thể lệch dần theo thời gian nếu không hiệu chuẩn thường xuyên."
+      }
+    ],
+    "topics": [
+      "physics",
+      "environment"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "dye",
+    "pos": "n",
+    "meaning_vi": "thuốc nhuộm; chất tạo màu",
+    "definition_en": "a substance used to change the color of material",
+    "examples": [
+      {
+        "en": "The factory uses a plant-based dye for several fabrics.",
+        "vi": "Nhà máy dùng thuốc nhuộm nguồn gốc thực vật cho một số loại vải."
+      },
+      {
+        "en": "This dye remains stable after repeated washing.",
+        "vi": "Thuốc nhuộm này vẫn bền màu sau nhiều lần giặt."
+      }
+    ],
+    "topics": [
+      "chemistry",
+      "manufacturing"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "enzyme",
+    "pos": "n",
+    "meaning_vi": "enzym; chất xúc tác sinh học",
+    "definition_en": "a protein that speeds up a chemical reaction in living organisms",
+    "examples": [
+      {
+        "en": "The enzyme helps break down starch during digestion.",
+        "vi": "Enzym giúp phân giải tinh bột trong quá trình tiêu hóa."
+      },
+      {
+        "en": "Temperature changes can alter how quickly an enzyme works.",
+        "vi": "Thay đổi nhiệt độ có thể ảnh hưởng tốc độ hoạt động của enzym."
+      }
+    ],
+    "topics": [
+      "biology",
+      "chemistry"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "hormone",
+    "pos": "n",
+    "meaning_vi": "hormone; chất truyền tin hóa học của cơ thể",
+    "definition_en": "a chemical messenger produced in the body that controls biological processes",
+    "examples": [
+      {
+        "en": "The hormone regulates growth during several stages of development.",
+        "vi": "Hormone điều hòa tăng trưởng trong nhiều giai đoạn phát triển."
+      },
+      {
+        "en": "Doctors measured hormone levels before adjusting the treatment.",
+        "vi": "Bác sĩ đo nồng độ hormone trước khi điều chỉnh điều trị."
+      }
+    ],
+    "topics": [
+      "biology",
+      "health"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "infinity",
+    "pos": "n",
+    "meaning_vi": "vô cực; trạng thái không có giới hạn",
+    "definition_en": "a state or quantity with no end or limit",
+    "examples": [
+      {
+        "en": "In mathematics, infinity is used to describe values without a finite bound.",
+        "vi": "Trong toán học, vô cực được dùng để mô tả các giá trị không có giới hạn hữu hạn."
+      },
+      {
+        "en": "The concept of infinity has fascinated mathematicians and philosophers for centuries.",
+        "vi": "Khái niệm vô cực đã hấp dẫn các nhà toán học và triết gia suốt nhiều thế kỷ."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "philosophy"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "marketplace",
+    "pos": "n",
+    "meaning_vi": "thị trường; nơi người mua và người bán gặp nhau",
+    "definition_en": "a physical or digital place where goods and services are traded",
+    "examples": [
+      {
+        "en": "The online marketplace connects independent sellers with customers worldwide.",
+        "vi": "Thị trường trực tuyến kết nối người bán độc lập với khách hàng toàn cầu."
+      },
+      {
+        "en": "Competition in the marketplace pushed companies to improve delivery speed.",
+        "vi": "Cạnh tranh trên thị trường buộc các công ty cải thiện tốc độ giao hàng."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "membrane",
+    "pos": "n",
+    "meaning_vi": "màng mỏng; lớp ngăn cách",
+    "definition_en": "a thin layer that separates, covers, or controls passage between areas",
+    "examples": [
+      {
+        "en": "The cell membrane controls which substances enter and leave the cell.",
+        "vi": "Màng tế bào kiểm soát chất nào đi vào và ra khỏi tế bào."
+      },
+      {
+        "en": "A filtering membrane removes tiny particles from the water.",
+        "vi": "Màng lọc loại bỏ các hạt nhỏ khỏi nước."
+      }
+    ],
+    "topics": [
+      "biology",
+      "materials"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "nap",
+    "pos": "n",
+    "meaning_vi": "giấc ngủ ngắn",
+    "definition_en": "a short period of sleep, usually during the day",
+    "examples": [
+      {
+        "en": "A short nap helped her stay alert during the afternoon.",
+        "vi": "Một giấc ngủ ngắn giúp cô ấy tỉnh táo vào buổi chiều."
+      },
+      {
+        "en": "He took a nap before starting the night shift.",
+        "vi": "Anh ấy chợp mắt trước khi bắt đầu ca đêm."
+      }
+    ],
+    "topics": [
+      "health",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "stimulus",
+    "pos": "n",
+    "meaning_vi": "kích thích; yếu tố gây phản ứng",
+    "definition_en": "something that causes a response or encourages activity",
+    "examples": [
+      {
+        "en": "Bright light acts as a visual stimulus for the experiment.",
+        "vi": "Ánh sáng mạnh đóng vai trò kích thích thị giác trong thí nghiệm."
+      },
+      {
+        "en": "Lower interest rates can provide a stimulus to investment.",
+        "vi": "Lãi suất thấp hơn có thể tạo kích thích cho đầu tư."
+      }
+    ],
+    "topics": [
+      "psychology",
+      "economics"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "boycott",
+    "pos": "n",
+    "meaning_vi": "cuộc tẩy chay",
+    "definition_en": "an organized refusal to buy, use, or support something",
+    "examples": [
+      {
+        "en": "The consumer boycott reduced sales for several weeks.",
+        "vi": "Cuộc tẩy chay của người tiêu dùng làm giảm doanh số trong vài tuần."
+      },
+      {
+        "en": "Organizers ended the boycott after the company changed its policy.",
+        "vi": "Ban tổ chức kết thúc cuộc tẩy chay sau khi công ty thay đổi chính sách."
+      }
+    ],
+    "topics": [
+      "society",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "carpenter",
+    "pos": "n",
+    "meaning_vi": "thợ mộc",
+    "definition_en": "a skilled worker who makes or repairs wooden structures and objects",
+    "examples": [
+      {
+        "en": "The carpenter measured the frame before cutting the wood.",
+        "vi": "Thợ mộc đo khung trước khi cắt gỗ."
+      },
+      {
+        "en": "A carpenter repaired the damaged staircase in two days.",
+        "vi": "Một thợ mộc sửa cầu thang bị hỏng trong hai ngày."
+      }
+    ],
+    "topics": [
+      "work",
+      "construction"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "homemade",
+    "pos": "adj",
+    "meaning_vi": "tự làm tại nhà",
+    "definition_en": "made at home rather than produced commercially",
+    "examples": [
+      {
+        "en": "They served homemade bread with the evening meal.",
+        "vi": "Họ phục vụ bánh mì tự làm trong bữa tối."
+      },
+      {
+        "en": "The homemade sensor case protected the prototype surprisingly well.",
+        "vi": "Vỏ cảm biến tự làm bảo vệ nguyên mẫu tốt một cách đáng ngạc nhiên."
+      }
+    ],
+    "topics": [
+      "food",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "inferior",
+    "pos": "adj",
+    "meaning_vi": "kém hơn; thấp hơn về chất lượng hoặc vị thế",
+    "definition_en": "lower in quality, value, or rank than something else",
+    "examples": [
+      {
+        "en": "The cheaper material proved inferior under repeated stress.",
+        "vi": "Vật liệu rẻ hơn tỏ ra kém hơn khi chịu ứng suất lặp lại."
+      },
+      {
+        "en": "An inferior data source can weaken an otherwise careful analysis.",
+        "vi": "Nguồn dữ liệu kém có thể làm yếu một phân tích vốn cẩn thận."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "reliance",
+    "pos": "n",
+    "meaning_vi": "sự phụ thuộc; mức độ dựa vào",
+    "definition_en": "dependence on someone or something for support or success",
+    "examples": [
+      {
+        "en": "Heavy reliance on one supplier created a serious business risk.",
+        "vi": "Sự phụ thuộc lớn vào một nhà cung cấp tạo ra rủi ro kinh doanh nghiêm trọng."
+      },
+      {
+        "en": "The system reduces reliance on manual data entry.",
+        "vi": "Hệ thống giảm sự phụ thuộc vào nhập dữ liệu thủ công."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "taxation",
+    "pos": "n",
+    "meaning_vi": "việc đánh thuế; hệ thống thuế",
+    "definition_en": "the system or process of collecting taxes by a government",
+    "examples": [
+      {
+        "en": "The course examines how taxation affects household spending.",
+        "vi": "Khóa học xem xét cách thuế ảnh hưởng đến chi tiêu hộ gia đình."
+      },
+      {
+        "en": "Digital commerce has created new challenges for international taxation.",
+        "vi": "Thương mại số tạo ra thách thức mới cho việc đánh thuế quốc tế."
+      }
+    ],
+    "topics": [
+      "economics",
+      "law"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "predominantly",
+    "pos": "adv",
+    "meaning_vi": "chủ yếu, phần lớn",
+    "definition_en": "mainly or for the most part",
+    "examples": [
+      {
+        "en": "The region is predominantly rural and depends heavily on agriculture.",
+        "vi": "Khu vực này chủ yếu là nông thôn và phụ thuộc nhiều vào nông nghiệp."
+      },
+      {
+        "en": "The sample was predominantly composed of first-year students.",
+        "vi": "Mẫu nghiên cứu chủ yếu gồm sinh viên năm nhất."
+      }
+    ],
+    "topics": [
+      "academic",
+      "formal-writing"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "curb",
+    "pos": "v",
+    "meaning_vi": "kiềm chế, hạn chế",
+    "definition_en": "to control or reduce something unwanted",
+    "examples": [
+      {
+        "en": "The new rules aim to curb unnecessary energy use.",
+        "vi": "Các quy định mới nhằm hạn chế việc sử dụng năng lượng không cần thiết."
+      },
+      {
+        "en": "Stronger authentication can curb unauthorized access to sensitive accounts.",
+        "vi": "Xác thực mạnh hơn có thể hạn chế truy cập trái phép vào tài khoản nhạy cảm."
+      }
+    ],
+    "topics": [
+      "society",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "efficiently",
+    "pos": "adv",
+    "meaning_vi": "một cách hiệu quả, ít lãng phí",
+    "definition_en": "in a way that uses time, energy, or resources well",
+    "examples": [
+      {
+        "en": "The new algorithm processes large files more efficiently.",
+        "vi": "Thuật toán mới xử lý tệp lớn hiệu quả hơn."
+      },
+      {
+        "en": "Teams work efficiently when responsibilities are clearly assigned.",
+        "vi": "Các nhóm làm việc hiệu quả khi trách nhiệm được phân công rõ ràng."
+      }
+    ],
+    "topics": [
+      "work",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "faction",
+    "pos": "n",
+    "meaning_vi": "phe phái; nhóm nhỏ có quan điểm riêng",
+    "definition_en": "a smaller group within a larger organization, often with different views",
+    "examples": [
+      {
+        "en": "A reform faction pushed for changes inside the organization.",
+        "vi": "Một phe cải cách thúc đẩy thay đổi trong tổ chức."
+      },
+      {
+        "en": "Conflict between each faction delayed the final agreement.",
+        "vi": "Xung đột giữa các phe làm chậm thỏa thuận cuối cùng."
+      }
+    ],
+    "topics": [
+      "society",
+      "history"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "inconsistent",
+    "pos": "adj",
+    "meaning_vi": "không nhất quán",
+    "definition_en": "not staying the same in quality, behavior, or logic",
+    "examples": [
+      {
+        "en": "The measurements were inconsistent across the three laboratories.",
+        "vi": "Các phép đo không nhất quán giữa ba phòng thí nghiệm."
+      },
+      {
+        "en": "Inconsistent naming makes the codebase harder to maintain.",
+        "vi": "Cách đặt tên không nhất quán khiến mã nguồn khó bảo trì hơn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "receptor",
+    "pos": "n",
+    "meaning_vi": "thụ thể; bộ phận tiếp nhận tín hiệu",
+    "definition_en": "a structure that receives and responds to a specific signal",
+    "examples": [
+      {
+        "en": "The receptor binds to a specific molecule on the cell surface.",
+        "vi": "Thụ thể liên kết với một phân tử cụ thể trên bề mặt tế bào."
+      },
+      {
+        "en": "A light receptor converts incoming light into a biological signal.",
+        "vi": "Thụ thể ánh sáng chuyển ánh sáng đi vào thành tín hiệu sinh học."
+      }
+    ],
+    "topics": [
+      "biology",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "reproduction",
+    "pos": "n",
+    "meaning_vi": "sự sinh sản; sự sao chép",
+    "definition_en": "the process of producing offspring or creating a copy",
+    "examples": [
+      {
+        "en": "The course explains reproduction in flowering plants.",
+        "vi": "Khóa học giải thích sự sinh sản ở thực vật có hoa."
+      },
+      {
+        "en": "High-quality reproduction preserves fine details in historical images.",
+        "vi": "Việc sao chép chất lượng cao giữ được chi tiết nhỏ trong ảnh lịch sử."
+      }
+    ],
+    "topics": [
+      "biology",
+      "media"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "subjective",
+    "pos": "adj",
+    "meaning_vi": "mang tính chủ quan",
+    "definition_en": "based on personal feelings or judgments rather than only facts",
+    "examples": [
+      {
+        "en": "Taste is subjective, so preferences vary widely among users.",
+        "vi": "Khẩu vị mang tính chủ quan nên sở thích khác nhau nhiều giữa người dùng."
+      },
+      {
+        "en": "The researchers separated subjective ratings from objective measurements.",
+        "vi": "Các nhà nghiên cứu tách đánh giá chủ quan khỏi phép đo khách quan."
+      }
+    ],
+    "topics": [
+      "academic",
+      "psychology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "constructive",
+    "pos": "adj",
+    "meaning_vi": "mang tính xây dựng",
+    "definition_en": "helpful and intended to improve a situation or result",
+    "examples": [
+      {
+        "en": "The reviewer gave constructive feedback instead of vague criticism.",
+        "vi": "Người phản biện đưa phản hồi mang tính xây dựng thay vì chỉ trích mơ hồ."
+      },
+      {
+        "en": "A constructive discussion helped both teams agree on priorities.",
+        "vi": "Một cuộc thảo luận xây dựng giúp hai nhóm thống nhất ưu tiên."
+      }
+    ],
+    "topics": [
+      "communication",
+      "work"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "developmental",
+    "pos": "adj",
+    "meaning_vi": "thuộc quá trình phát triển",
+    "definition_en": "relating to growth or gradual change over time",
+    "examples": [
+      {
+        "en": "The study tracks developmental changes in early childhood.",
+        "vi": "Nghiên cứu theo dõi các thay đổi phát triển ở thời thơ ấu."
+      },
+      {
+        "en": "Developmental testing revealed problems before the product reached customers.",
+        "vi": "Kiểm thử trong giai đoạn phát triển phát hiện vấn đề trước khi sản phẩm đến tay khách hàng."
+      }
+    ],
+    "topics": [
+      "biology",
+      "education"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "fertility",
+    "pos": "n",
+    "meaning_vi": "khả năng sinh sản; độ màu mỡ",
+    "definition_en": "the ability to produce offspring or support plant growth",
+    "examples": [
+      {
+        "en": "Soil fertility declined after years of intensive farming.",
+        "vi": "Độ màu mỡ của đất giảm sau nhiều năm canh tác thâm canh."
+      },
+      {
+        "en": "The clinic provides counseling about fertility and reproductive health.",
+        "vi": "Phòng khám tư vấn về khả năng sinh sản và sức khỏe sinh sản."
+      }
+    ],
+    "topics": [
+      "biology",
+      "agriculture"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "forge",
+    "pos": "v",
+    "meaning_vi": "rèn; tạo dựng qua nỗ lực",
+    "definition_en": "to shape metal by heating or to build something strong",
+    "examples": [
+      {
+        "en": "Workers forge the steel while it is hot.",
+        "vi": "Công nhân rèn thép khi còn nóng."
+      },
+      {
+        "en": "Strong partnerships often forge lasting trust between research teams.",
+        "vi": "Quan hệ hợp tác bền chặt thường tạo dựng niềm tin lâu dài giữa các nhóm nghiên cứu."
+      }
+    ],
+    "topics": [
+      "manufacturing",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "jointly",
+    "pos": "adv",
+    "meaning_vi": "cùng nhau; theo hình thức chung",
+    "definition_en": "together with shared responsibility or ownership",
+    "examples": [
+      {
+        "en": "The universities jointly funded the new research center.",
+        "vi": "Các trường đại học cùng tài trợ trung tâm nghiên cứu mới."
+      },
+      {
+        "en": "Both departments jointly prepared the final safety report.",
+        "vi": "Hai bộ phận cùng chuẩn bị báo cáo an toàn cuối cùng."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "lightweight",
+    "pos": "adj",
+    "meaning_vi": "nhẹ; có trọng lượng thấp",
+    "definition_en": "weighing less than comparable objects or materials",
+    "examples": [
+      {
+        "en": "The drone uses a lightweight frame to extend flight time.",
+        "vi": "Máy bay không người lái dùng khung nhẹ để kéo dài thời gian bay."
+      },
+      {
+        "en": "Lightweight packaging reduces shipping costs and material use.",
+        "vi": "Bao bì nhẹ làm giảm chi phí vận chuyển và lượng vật liệu sử dụng."
+      }
+    ],
+    "topics": [
+      "engineering",
+      "design"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "render",
+    "pos": "v",
+    "meaning_vi": "kết xuất; làm cho trở thành",
+    "definition_en": "to produce an image or cause something to become a particular state",
+    "examples": [
+      {
+        "en": "The graphics engine can render complex scenes in real time.",
+        "vi": "Công cụ đồ họa có thể kết xuất cảnh phức tạp theo thời gian thực."
+      },
+      {
+        "en": "A power failure could render the backup server unavailable.",
+        "vi": "Mất điện có thể khiến máy chủ dự phòng không khả dụng."
+      }
+    ],
+    "topics": [
+      "technology",
+      "design"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "variant",
+    "pos": "n",
+    "meaning_vi": "biến thể",
+    "definition_en": "a form of something that differs slightly from other forms",
+    "examples": [
+      {
+        "en": "Researchers identified a genetic variant associated with the condition.",
+        "vi": "Các nhà nghiên cứu xác định một biến thể di truyền liên quan đến tình trạng này."
+      },
+      {
+        "en": "The mobile variant uses a simpler layout for smaller screens.",
+        "vi": "Biến thể dành cho di động dùng bố cục đơn giản hơn cho màn hình nhỏ."
+      }
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "algebra",
+    "pos": "n",
+    "meaning_vi": "đại số",
+    "definition_en": "the branch of mathematics using symbols to represent numbers and relationships",
+    "examples": [
+      {
+        "en": "Students use algebra to solve equations with unknown values.",
+        "vi": "Học sinh dùng đại số để giải phương trình có giá trị chưa biết."
+      },
+      {
+        "en": "Basic algebra is useful in programming, finance, and engineering.",
+        "vi": "Đại số cơ bản hữu ích trong lập trình, tài chính và kỹ thuật."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "education"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "continuity",
+    "pos": "n",
+    "meaning_vi": "tính liên tục; sự tiếp nối không gián đoạn",
+    "definition_en": "the state of continuing without interruption or sudden change",
+    "examples": [
+      {
+        "en": "The backup plan protects business continuity during major outages.",
+        "vi": "Kế hoạch dự phòng bảo vệ tính liên tục kinh doanh khi xảy ra sự cố lớn."
+      },
+      {
+        "en": "Mathematical continuity describes functions without sudden breaks at a point.",
+        "vi": "Tính liên tục trong toán học mô tả các hàm không bị đứt đoạn đột ngột tại một điểm."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "credible",
+    "pos": "adj",
+    "meaning_vi": "đáng tin cậy, có sức thuyết phục",
+    "definition_en": "believable and supported by trustworthy evidence",
+    "examples": [
+      {
+        "en": "A credible source should explain where its data came from.",
+        "vi": "Nguồn đáng tin cậy nên giải thích dữ liệu của mình đến từ đâu."
+      },
+      {
+        "en": "The witness gave a credible account that matched the records.",
+        "vi": "Nhân chứng đưa ra lời kể đáng tin phù hợp với hồ sơ."
+      }
+    ],
+    "topics": [
+      "academic",
+      "communication"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "digit",
+    "pos": "n",
+    "meaning_vi": "chữ số",
+    "definition_en": "one of the symbols from zero through nine used in numbers",
+    "examples": [
+      {
+        "en": "Enter the final digit of the verification code.",
+        "vi": "Nhập chữ số cuối của mã xác minh."
+      },
+      {
+        "en": "Each binary digit can have a value of zero or one.",
+        "vi": "Mỗi chữ số nhị phân có thể mang giá trị không hoặc một."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "fundamentally",
+    "pos": "adv",
+    "meaning_vi": "về cơ bản, ở cấp độ cốt lõi",
+    "definition_en": "in a basic or essential way",
+    "examples": [
+      {
+        "en": "The two methods are fundamentally different in how they handle uncertainty.",
+        "vi": "Hai phương pháp khác nhau về cơ bản trong cách xử lý sự không chắc chắn."
+      },
+      {
+        "en": "Encryption fundamentally changes how stored data can be accessed.",
+        "vi": "Mã hóa thay đổi về cơ bản cách dữ liệu lưu trữ được truy cập."
+      }
+    ],
+    "topics": [
+      "academic",
+      "formal-writing"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "insider",
+    "pos": "n",
+    "meaning_vi": "người trong nội bộ",
+    "definition_en": "a person with special knowledge because they belong to an organization",
+    "examples": [
+      {
+        "en": "An insider reported the accounting problem to regulators.",
+        "vi": "Một người nội bộ báo cáo vấn đề kế toán cho cơ quan quản lý."
+      },
+      {
+        "en": "Sensitive insider information must be protected from improper use.",
+        "vi": "Thông tin nội bộ nhạy cảm phải được bảo vệ khỏi việc sử dụng sai mục đích."
+      }
+    ],
+    "topics": [
+      "business",
+      "society"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "maternal",
+    "pos": "adj",
+    "meaning_vi": "thuộc người mẹ; liên quan thai sản",
+    "definition_en": "relating to a mother, motherhood, or pregnancy",
+    "examples": [
+      {
+        "en": "The program aims to improve maternal health in rural areas.",
+        "vi": "Chương trình nhằm cải thiện sức khỏe bà mẹ ở vùng nông thôn."
+      },
+      {
+        "en": "Maternal nutrition can affect early development before birth.",
+        "vi": "Dinh dưỡng của mẹ có thể ảnh hưởng phát triển sớm trước khi sinh."
+      }
+    ],
+    "topics": [
+      "health",
+      "family"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "occurrence",
+    "pos": "n",
+    "meaning_vi": "sự xuất hiện; sự kiện xảy ra",
+    "definition_en": "an event or instance of something happening",
+    "examples": [
+      {
+        "en": "The rare occurrence was recorded by two independent sensors.",
+        "vi": "Sự kiện hiếm gặp được ghi lại bởi hai cảm biến độc lập."
+      },
+      {
+        "en": "Researchers tracked the occurrence of errors across multiple software versions.",
+        "vi": "Các nhà nghiên cứu theo dõi sự xuất hiện lỗi qua nhiều phiên bản phần mềm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "science"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "offspring",
+    "pos": "n",
+    "meaning_vi": "con non; thế hệ con",
+    "definition_en": "the young produced by a person, animal, or plant",
+    "examples": [
+      {
+        "en": "The birds feed their offspring until they can fly.",
+        "vi": "Những con chim nuôi con non cho đến khi chúng có thể bay."
+      },
+      {
+        "en": "Genetic traits can pass from parents to offspring.",
+        "vi": "Đặc điểm di truyền có thể truyền từ bố mẹ sang thế hệ con."
+      }
+    ],
+    "topics": [
+      "biology",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "pathway",
+    "pos": "n",
+    "meaning_vi": "con đường; chuỗi bước dẫn đến kết quả",
+    "definition_en": "a route or sequence of steps leading to a result",
+    "examples": [
+      {
+        "en": "The pathway carries chemical signals from the receptor to the nucleus.",
+        "vi": "Con đường này truyền tín hiệu hóa học từ thụ thể đến nhân tế bào."
+      },
+      {
+        "en": "The course provides a pathway from basic coding to software development.",
+        "vi": "Khóa học tạo lộ trình từ lập trình cơ bản đến phát triển phần mềm."
+      }
+    ],
+    "topics": [
+      "biology",
+      "education"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "simplicity",
+    "pos": "n",
+    "meaning_vi": "sự đơn giản",
+    "definition_en": "the quality of being easy to understand or use",
+    "examples": [
+      {
+        "en": "Users praised the simplicity of the new checkout process.",
+        "vi": "Người dùng khen sự đơn giản của quy trình thanh toán mới."
+      },
+      {
+        "en": "Simplicity can make a technical explanation easier to remember.",
+        "vi": "Sự đơn giản có thể khiến lời giải thích kỹ thuật dễ nhớ hơn."
+      }
+    ],
+    "topics": [
+      "design",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "stereo",
+    "pos": "n",
+    "meaning_vi": "hệ thống âm thanh nổi",
+    "definition_en": "a sound system using separate channels to create spatial audio",
+    "examples": [
+      {
+        "en": "The stereo produces clear sound across the entire room.",
+        "vi": "Hệ thống âm thanh nổi tạo âm thanh rõ khắp căn phòng."
+      },
+      {
+        "en": "He connected the phone to the car stereo wirelessly.",
+        "vi": "Anh ấy kết nối điện thoại với hệ thống âm thanh ô tô bằng kết nối không dây."
+      }
+    ],
+    "topics": [
+      "audio",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "vegetation",
+    "pos": "n",
+    "meaning_vi": "thảm thực vật",
+    "definition_en": "plants growing collectively in a particular area",
+    "examples": [
+      {
+        "en": "Dense vegetation covers much of the valley.",
+        "vi": "Thảm thực vật dày bao phủ phần lớn thung lũng."
+      },
+      {
+        "en": "Satellite images reveal changes in vegetation after the drought.",
+        "vi": "Ảnh vệ tinh cho thấy thay đổi thảm thực vật sau đợt hạn hán."
+      }
+    ],
+    "topics": [
+      "environment",
+      "geography"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "activate",
+    "pos": "v",
+    "meaning_vi": "kích hoạt; làm cho hoạt động",
+    "definition_en": "to make a device, process, or system start working",
+    "examples": [
+      {
+        "en": "Press the button to activate the emergency alarm.",
+        "vi": "Nhấn nút để kích hoạt báo động khẩn cấp."
+      },
+      {
+        "en": "Users must activate the account before signing in.",
+        "vi": "Người dùng phải kích hoạt tài khoản trước khi đăng nhập."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "newsletter",
+    "pos": "n",
+    "meaning_vi": "bản tin định kỳ",
+    "definition_en": "a regularly distributed publication containing news or updates",
+    "examples": [
+      {
+        "en": "The monthly newsletter summarizes new courses and upcoming events.",
+        "vi": "Bản tin hằng tháng tóm tắt các khóa học mới và sự kiện sắp tới."
+      },
+      {
+        "en": "Subscribers receive the newsletter by email every Friday.",
+        "vi": "Người đăng ký nhận bản tin qua email mỗi thứ Sáu."
+      }
+    ],
+    "topics": [
+      "communication",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "nitrogen",
+    "pos": "n",
+    "meaning_vi": "nitơ",
+    "definition_en": "a colorless gaseous chemical element that makes up most of Earth's atmosphere",
+    "examples": [
+      {
+        "en": "Nitrogen makes up most of the air we breathe.",
+        "vi": "Nitơ chiếm phần lớn không khí chúng ta hít thở."
+      },
+      {
+        "en": "Farmers manage nitrogen levels to support crop growth without polluting waterways.",
+        "vi": "Nông dân quản lý mức nitơ để hỗ trợ cây trồng mà không gây ô nhiễm nguồn nước."
+      }
+    ],
+    "topics": [
+      "chemistry",
+      "environment"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "phenomenal",
+    "pos": "adj",
+    "meaning_vi": "phi thường, xuất sắc",
+    "definition_en": "extremely impressive, successful, or remarkable",
+    "examples": [
+      {
+        "en": "The new battery showed phenomenal durability during laboratory testing.",
+        "vi": "Pin mới cho thấy độ bền phi thường trong thử nghiệm phòng thí nghiệm."
+      },
+      {
+        "en": "Her first year brought phenomenal growth in online sales.",
+        "vi": "Năm đầu tiên của cô ấy mang lại mức tăng trưởng doanh số trực tuyến phi thường."
+      }
+    ],
+    "topics": [
+      "general",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "photographic",
+    "pos": "adj",
+    "meaning_vi": "thuộc nhiếp ảnh",
+    "definition_en": "relating to photographs, photography, or photographic processes",
+    "examples": [
+      {
+        "en": "The archive contains photographic evidence from the original survey.",
+        "vi": "Kho lưu trữ chứa bằng chứng nhiếp ảnh từ cuộc khảo sát ban đầu."
+      },
+      {
+        "en": "Photographic sensors convert incoming light into digital signals.",
+        "vi": "Cảm biến nhiếp ảnh chuyển ánh sáng đi vào thành tín hiệu số."
+      }
+    ],
+    "topics": [
+      "media",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "professionally",
+    "pos": "adv",
+    "meaning_vi": "một cách chuyên nghiệp",
+    "definition_en": "in a skilled, responsible, and appropriate manner for work",
+    "examples": [
+      {
+        "en": "The complaint was handled professionally by the support team.",
+        "vi": "Khiếu nại được đội hỗ trợ xử lý một cách chuyên nghiệp."
+      },
+      {
+        "en": "She professionally presented the findings to a difficult audience.",
+        "vi": "Cô ấy trình bày kết quả một cách chuyên nghiệp trước một khán giả khó tính."
+      }
+    ],
+    "topics": [
+      "work",
+      "communication"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "statutory",
+    "pos": "adj",
+    "meaning_vi": "theo luật định",
+    "definition_en": "required, created, or controlled by written law",
+    "examples": [
+      {
+        "en": "Employers must provide statutory benefits required by national law.",
+        "vi": "Người sử dụng lao động phải cung cấp các quyền lợi theo luật định."
+      },
+      {
+        "en": "The agency performs a statutory review before granting the license.",
+        "vi": "Cơ quan thực hiện rà soát theo luật định trước khi cấp giấy phép."
+      }
+    ],
+    "topics": [
+      "law",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "transplant",
+    "pos": "n",
+    "meaning_vi": "ca ghép; mô hoặc cơ quan được cấy ghép",
+    "definition_en": "an operation or organ involving transfer of tissue from one body to another",
+    "examples": [
+      {
+        "en": "The patient received a kidney transplant after months of preparation.",
+        "vi": "Bệnh nhân được ghép thận sau nhiều tháng chuẩn bị."
+      },
+      {
+        "en": "A successful transplant requires careful matching and long-term medical monitoring.",
+        "vi": "Một ca ghép thành công cần ghép phù hợp và theo dõi y tế lâu dài."
+      }
+    ],
+    "topics": [
+      "health",
+      "biology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "cue",
+    "pos": "n",
+    "meaning_vi": "tín hiệu gợi ý; dấu hiệu để hành động",
+    "definition_en": "a signal or prompt indicating when to act or respond",
+    "examples": [
+      {
+        "en": "The flashing light is a cue to begin the next task.",
+        "vi": "Đèn nhấp nháy là tín hiệu để bắt đầu nhiệm vụ tiếp theo."
+      },
+      {
+        "en": "Speakers use audience reactions as a cue to adjust their pace.",
+        "vi": "Diễn giả dùng phản ứng khán giả làm dấu hiệu để điều chỉnh nhịp nói."
+      }
+    ],
+    "topics": [
+      "communication",
+      "psychology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "endorsement",
+    "pos": "n",
+    "meaning_vi": "sự ủng hộ công khai; sự xác nhận",
+    "definition_en": "public approval or support for a person, product, or idea",
+    "examples": [
+      {
+        "en": "The product gained credibility after receiving an expert endorsement.",
+        "vi": "Sản phẩm tăng độ tin cậy sau khi nhận được sự ủng hộ của chuyên gia."
+      },
+      {
+        "en": "A formal endorsement from the board allowed the project to continue.",
+        "vi": "Sự phê chuẩn chính thức của hội đồng cho phép dự án tiếp tục."
+      }
+    ],
+    "topics": [
+      "business",
+      "communication"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "finite",
+    "pos": "adj",
+    "meaning_vi": "hữu hạn; có giới hạn",
+    "definition_en": "having a definite limit or end",
+    "examples": [
+      {
+        "en": "The device has a finite amount of battery power.",
+        "vi": "Thiết bị có lượng pin hữu hạn."
+      },
+      {
+        "en": "A finite dataset cannot represent every possible real-world situation.",
+        "vi": "Một tập dữ liệu hữu hạn không thể đại diện mọi tình huống thực tế có thể xảy ra."
+      }
+    ],
+    "topics": [
+      "mathematics",
+      "science"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "internally",
+    "pos": "adv",
+    "meaning_vi": "ở bên trong; trong nội bộ",
+    "definition_en": "within an organization, system, or object",
+    "examples": [
+      {
+        "en": "The issue was discussed internally before the public announcement.",
+        "vi": "Vấn đề được thảo luận nội bộ trước thông báo công khai."
+      },
+      {
+        "en": "The application stores temporary settings internally on the device.",
+        "vi": "Ứng dụng lưu cài đặt tạm thời bên trong thiết bị."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "lateral",
+    "pos": "adj",
+    "meaning_vi": "ở bên; theo chiều ngang",
+    "definition_en": "positioned at the side or moving sideways",
+    "examples": [
+      {
+        "en": "The lateral support prevents the frame from shifting sideways.",
+        "vi": "Thanh đỡ bên ngăn khung dịch chuyển sang ngang."
+      },
+      {
+        "en": "Doctors examined the lateral surface of the injured knee.",
+        "vi": "Bác sĩ kiểm tra bề mặt bên của đầu gối bị thương."
+      }
+    ],
+    "topics": [
+      "anatomy",
+      "engineering"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "migrant",
+    "pos": "n",
+    "meaning_vi": "người di cư",
+    "definition_en": "a person who moves to another place, often for work or safety",
+    "examples": [
+      {
+        "en": "The city provides language classes for each migrant seeking local employment.",
+        "vi": "Thành phố cung cấp lớp ngôn ngữ cho người di cư tìm việc tại địa phương."
+      },
+      {
+        "en": "A migrant may move seasonally when agricultural work becomes available.",
+        "vi": "Người di cư có thể di chuyển theo mùa khi có việc nông nghiệp."
+      }
+    ],
+    "topics": [
+      "society",
+      "economics"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "rigid",
+    "pos": "adj",
+    "meaning_vi": "cứng; không linh hoạt",
+    "definition_en": "stiff and difficult to bend or unwilling to change",
+    "examples": [
+      {
+        "en": "The rigid frame protects delicate components during transport.",
+        "vi": "Khung cứng bảo vệ linh kiện dễ hỏng khi vận chuyển."
+      },
+      {
+        "en": "A rigid schedule can make unexpected problems harder to manage.",
+        "vi": "Lịch trình cứng nhắc có thể khiến vấn đề bất ngờ khó xử lý hơn."
+      }
+    ],
+    "topics": [
+      "materials",
+      "general"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "textile",
+    "pos": "n",
+    "meaning_vi": "vải dệt; sản phẩm dệt may",
+    "definition_en": "cloth or material produced by weaving, knitting, or similar methods",
+    "examples": [
+      {
+        "en": "The factory tests each textile for strength and color stability.",
+        "vi": "Nhà máy kiểm tra từng loại vải về độ bền và độ ổn định màu."
+      },
+      {
+        "en": "Recycled fibers are increasingly used in textile production.",
+        "vi": "Sợi tái chế ngày càng được dùng nhiều trong sản xuất dệt may."
+      }
+    ],
+    "topics": [
+      "manufacturing",
+      "materials"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "valuation",
+    "pos": "n",
+    "meaning_vi": "sự định giá; mức giá trị được ước tính",
+    "definition_en": "the process or result of estimating the value of something",
+    "examples": [
+      {
+        "en": "The investor requested an independent valuation of the company.",
+        "vi": "Nhà đầu tư yêu cầu định giá độc lập cho công ty."
+      },
+      {
+        "en": "Property valuation depends on location, condition, and market demand.",
+        "vi": "Định giá bất động sản phụ thuộc vị trí, tình trạng và nhu cầu thị trường."
+      }
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "diplomat",
+    "pos": "n",
+    "meaning_vi": "nhà ngoại giao",
+    "definition_en": "an official representing a country in relations with other countries",
+    "examples": [
+      {
+        "en": "The diplomat attended negotiations on regional trade rules.",
+        "vi": "Nhà ngoại giao tham dự đàm phán về quy tắc thương mại khu vực."
+      },
+      {
+        "en": "A skilled diplomat must communicate carefully during sensitive discussions.",
+        "vi": "Một nhà ngoại giao giỏi phải giao tiếp cẩn trọng trong các cuộc thảo luận nhạy cảm."
+      }
+    ],
+    "topics": [
+      "politics",
+      "international-relations"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "manipulate",
+    "pos": "v",
+    "meaning_vi": "thao tác; điều khiển khéo léo hoặc chi phối",
+    "definition_en": "to handle, control, or influence something skillfully or unfairly",
+    "examples": [
+      {
+        "en": "Researchers manipulate variables to test specific hypotheses.",
+        "vi": "Các nhà nghiên cứu điều chỉnh biến số để kiểm tra giả thuyết cụ thể."
+      },
+      {
+        "en": "Image software lets users manipulate brightness without changing the original file.",
+        "vi": "Phần mềm ảnh cho phép người dùng điều chỉnh độ sáng mà không đổi tệp gốc."
+      }
+    ],
+    "topics": [
+      "technology",
+      "society"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "realism",
+    "pos": "n",
+    "meaning_vi": "chủ nghĩa hiện thực; cách nhìn thực tế",
+    "definition_en": "an approach emphasizing realistic representation or practical acceptance of facts",
+    "examples": [
+      {
+        "en": "The novel uses realism to portray ordinary working life.",
+        "vi": "Tiểu thuyết dùng chủ nghĩa hiện thực để khắc họa đời sống lao động bình thường."
+      },
+      {
+        "en": "Budget realism helped the team set achievable project goals.",
+        "vi": "Cách nhìn thực tế về ngân sách giúp nhóm đặt mục tiêu dự án khả thi."
+      }
+    ],
+    "topics": [
+      "art",
+      "philosophy"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "takeover",
+    "pos": "n",
+    "meaning_vi": "sự tiếp quản; thương vụ thâu tóm",
+    "definition_en": "the act of gaining control of a company or organization",
+    "examples": [
+      {
+        "en": "The takeover gave the buyer control of the smaller company.",
+        "vi": "Thương vụ thâu tóm giúp bên mua kiểm soát công ty nhỏ hơn."
+      },
+      {
+        "en": "Employees received new contracts after the takeover was completed.",
+        "vi": "Nhân viên nhận hợp đồng mới sau khi việc tiếp quản hoàn tất."
+      }
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "trait",
+    "pos": "n",
+    "meaning_vi": "đặc điểm; nét đặc trưng",
+    "definition_en": "a distinguishing quality or characteristic of a person or organism",
+    "examples": [
+      {
+        "en": "Eye color is a visible genetic trait.",
+        "vi": "Màu mắt là một đặc điểm di truyền có thể nhìn thấy."
+      },
+      {
+        "en": "Patience is a valuable trait for technical support staff.",
+        "vi": "Kiên nhẫn là một phẩm chất có giá trị đối với nhân viên hỗ trợ kỹ thuật."
+      }
+    ],
+    "topics": [
+      "biology",
+      "psychology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "clone",
+    "pos": "n",
+    "meaning_vi": "bản sao giống hệt; sinh vật có vật chất di truyền giống nhau",
+    "definition_en": "an identical copy of an organism, cell, object, or digital resource",
+    "examples": [
+      {
+        "en": "The laboratory created a cell clone for controlled testing.",
+        "vi": "Phòng thí nghiệm tạo một bản sao tế bào để thử nghiệm có kiểm soát."
+      },
+      {
+        "en": "Developers used a repository clone to test changes safely.",
+        "vi": "Các lập trình viên dùng bản sao kho mã để kiểm thử thay đổi an toàn."
+      }
+    ],
+    "topics": [
+      "biology",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "disastrous",
+    "pos": "adj",
+    "meaning_vi": "thảm khốc; gây hậu quả rất nghiêm trọng",
+    "definition_en": "causing great damage, failure, or suffering",
+    "examples": [
+      {
+        "en": "A disastrous flood destroyed roads and isolated several villages.",
+        "vi": "Một trận lũ thảm khốc phá hủy đường và cô lập nhiều ngôi làng."
+      },
+      {
+        "en": "Skipping backups can have disastrous consequences after storage failure.",
+        "vi": "Bỏ qua sao lưu có thể gây hậu quả thảm khốc khi thiết bị lưu trữ hỏng."
+      }
+    ],
+    "topics": [
+      "general",
+      "risk"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "exclusion",
+    "pos": "n",
+    "meaning_vi": "sự loại trừ; việc không cho tham gia",
+    "definition_en": "the act of leaving someone or something out",
+    "examples": [
+      {
+        "en": "The paper explains every exclusion rule used during data cleaning.",
+        "vi": "Bài báo giải thích từng quy tắc loại trừ dùng khi làm sạch dữ liệu."
+      },
+      {
+        "en": "Social exclusion can reduce access to education and employment.",
+        "vi": "Sự loại trừ xã hội có thể làm giảm cơ hội tiếp cận giáo dục và việc làm."
+      }
+    ],
+    "topics": [
+      "society",
+      "academic"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "mutually",
+    "pos": "adv",
+    "meaning_vi": "lẫn nhau; theo cách có lợi hoặc áp dụng cho cả hai bên",
+    "definition_en": "in a way shared or experienced by two or more sides",
+    "examples": [
+      {
+        "en": "The teams agreed on a mutually acceptable delivery schedule.",
+        "vi": "Các nhóm thống nhất một lịch giao hàng mà cả hai bên chấp nhận."
+      },
+      {
+        "en": "These systems are mutually dependent and must be updated together.",
+        "vi": "Các hệ thống này phụ thuộc lẫn nhau và phải được cập nhật cùng lúc."
+      }
+    ],
+    "topics": [
+      "communication",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "rehearsal",
+    "pos": "n",
+    "meaning_vi": "buổi diễn tập; buổi tập trước khi trình diễn",
+    "definition_en": "a practice session held before a performance or important event",
+    "examples": [
+      {
+        "en": "The speakers attended a rehearsal before the conference opened.",
+        "vi": "Các diễn giả tham gia buổi diễn tập trước khi hội nghị khai mạc."
+      },
+      {
+        "en": "A technical rehearsal revealed a problem with the projection system.",
+        "vi": "Buổi diễn tập kỹ thuật phát hiện vấn đề với hệ thống trình chiếu."
+      }
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "revive",
+    "pos": "v",
+    "meaning_vi": "hồi sinh; khôi phục hoạt động",
+    "definition_en": "to bring something back to life, activity, or popularity",
+    "examples": [
+      {
+        "en": "The treatment helped revive the damaged plant.",
+        "vi": "Phương pháp xử lý giúp cây bị hỏng phục hồi."
+      },
+      {
+        "en": "The company hopes to revive demand with a redesigned product.",
+        "vi": "Công ty hy vọng khôi phục nhu cầu bằng sản phẩm được thiết kế lại."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "scenery",
+    "pos": "n",
+    "meaning_vi": "phong cảnh",
+    "definition_en": "the natural features and views of a place",
+    "examples": [
+      {
+        "en": "The train route is famous for its mountain scenery.",
+        "vi": "Tuyến tàu nổi tiếng với phong cảnh núi non."
+      },
+      {
+        "en": "Tourists stopped frequently to photograph the coastal scenery.",
+        "vi": "Du khách thường xuyên dừng lại để chụp phong cảnh ven biển."
+      }
+    ],
+    "topics": [
+      "travel",
+      "environment"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "sensory",
+    "pos": "adj",
+    "meaning_vi": "thuộc giác quan",
+    "definition_en": "relating to sight, hearing, touch, taste, or smell",
+    "examples": [
+      {
+        "en": "The experiment measures sensory responses to different textures.",
+        "vi": "Thí nghiệm đo phản ứng giác quan với các kết cấu khác nhau."
+      },
+      {
+        "en": "Sensory overload can make a busy environment uncomfortable.",
+        "vi": "Quá tải giác quan có thể khiến môi trường đông đúc trở nên khó chịu."
+      }
+    ],
+    "topics": [
+      "biology",
+      "psychology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "sidewalk",
+    "pos": "n",
+    "meaning_vi": "vỉa hè",
+    "definition_en": "a paved path beside a road for people walking",
+    "examples": [
+      {
+        "en": "The city widened the sidewalk near the school entrance.",
+        "vi": "Thành phố mở rộng vỉa hè gần cổng trường."
+      },
+      {
+        "en": "A damaged sidewalk can create hazards for pedestrians.",
+        "vi": "Vỉa hè hỏng có thể tạo nguy hiểm cho người đi bộ."
+      }
+    ],
+    "topics": [
+      "city",
+      "transport"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "sleepy",
+    "pos": "adj",
+    "meaning_vi": "buồn ngủ",
+    "definition_en": "feeling tired and ready to sleep",
+    "examples": [
+      {
+        "en": "He felt sleepy after working through the night.",
+        "vi": "Anh ấy cảm thấy buồn ngủ sau khi làm việc suốt đêm."
+      },
+      {
+        "en": "A sleepy driver reacts more slowly to sudden hazards.",
+        "vi": "Tài xế buồn ngủ phản ứng chậm hơn với nguy hiểm bất ngờ."
+      }
+    ],
+    "topics": [
+      "health",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "smoothly",
+    "pos": "adv",
+    "meaning_vi": "một cách trơn tru, thuận lợi",
+    "definition_en": "without sudden problems, interruptions, or rough movement",
+    "examples": [
+      {
+        "en": "The migration ran smoothly after the team fixed the configuration.",
+        "vi": "Quá trình di chuyển diễn ra trơn tru sau khi nhóm sửa cấu hình."
+      },
+      {
+        "en": "The doors should slide smoothly along the track.",
+        "vi": "Các cánh cửa nên trượt êm trên đường ray."
+      }
+    ],
+    "topics": [
+      "work",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "staple",
+    "pos": "n",
+    "meaning_vi": "mặt hàng thiết yếu; ghim bấm",
+    "definition_en": "a basic important product or a small metal fastener",
+    "examples": [
+      {
+        "en": "Rice is a staple food in many Asian countries.",
+        "vi": "Gạo là thực phẩm thiết yếu ở nhiều nước châu Á."
+      },
+      {
+        "en": "The office keeps every staple size beside the printer supplies.",
+        "vi": "Văn phòng để các cỡ ghim bấm cạnh vật tư máy in."
+      }
+    ],
+    "topics": [
+      "daily-life",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "strand",
+    "pos": "n",
+    "meaning_vi": "sợi; dải mảnh và dài",
+    "definition_en": "a thin length of material, hair, or fiber",
+    "examples": [
+      {
+        "en": "A single strand of fiber was examined under the microscope.",
+        "vi": "Một sợi xơ đơn được quan sát dưới kính hiển vi."
+      },
+      {
+        "en": "The technician replaced a damaged strand in the cable.",
+        "vi": "Kỹ thuật viên thay một sợi bị hỏng trong cáp."
+      }
+    ],
+    "topics": [
+      "materials",
+      "biology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "terminology",
+    "pos": "n",
+    "meaning_vi": "thuật ngữ; hệ thống từ chuyên môn",
+    "definition_en": "the specialized words used in a particular subject or profession",
+    "examples": [
+      {
+        "en": "Medical terminology can be difficult for new students.",
+        "vi": "Thuật ngữ y khoa có thể khó đối với sinh viên mới."
+      },
+      {
+        "en": "The team standardized terminology across all technical documents.",
+        "vi": "Nhóm chuẩn hóa thuật ngữ trên toàn bộ tài liệu kỹ thuật."
+      }
+    ],
+    "topics": [
+      "education",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "timer",
+    "pos": "n",
+    "meaning_vi": "bộ hẹn giờ",
+    "definition_en": "a device or program that measures time or triggers an action",
+    "examples": [
+      {
+        "en": "Set the timer for twenty minutes before starting the test.",
+        "vi": "Đặt bộ hẹn giờ hai mươi phút trước khi bắt đầu bài kiểm tra."
+      },
+      {
+        "en": "The irrigation timer turns the water on before sunrise.",
+        "vi": "Bộ hẹn giờ tưới bật nước trước lúc mặt trời mọc."
+      }
+    ],
+    "topics": [
+      "technology",
+      "daily-life"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "trustee",
+    "pos": "n",
+    "meaning_vi": "người được ủy thác; thành viên quản trị",
+    "definition_en": "a person legally responsible for managing property or an organization",
+    "examples": [
+      {
+        "en": "Each trustee reviews the foundation's financial statements.",
+        "vi": "Mỗi người được ủy thác xem xét báo cáo tài chính của quỹ."
+      },
+      {
+        "en": "The board elected a new trustee for a three-year term.",
+        "vi": "Hội đồng bầu một thành viên quản trị mới cho nhiệm kỳ ba năm."
+      }
+    ],
+    "topics": [
+      "law",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "unpredictable",
+    "pos": "adj",
+    "meaning_vi": "khó đoán trước",
+    "definition_en": "not able to be reliably predicted",
+    "examples": [
+      {
+        "en": "Mountain weather can be unpredictable even during summer.",
+        "vi": "Thời tiết miền núi có thể khó đoán ngay cả vào mùa hè."
+      },
+      {
+        "en": "Unpredictable traffic makes exact delivery times difficult to guarantee.",
+        "vi": "Giao thông khó đoán khiến thời gian giao hàng chính xác khó được đảm bảo."
+      }
+    ],
+    "topics": [
+      "general",
+      "science"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "bakery",
+    "pos": "n",
+    "meaning_vi": "tiệm bánh; cơ sở làm bánh",
+    "definition_en": "a place where bread, cakes, and similar foods are made or sold",
+    "examples": [
+      {
+        "en": "The bakery starts preparing bread before sunrise.",
+        "vi": "Tiệm bánh bắt đầu chuẩn bị bánh mì trước bình minh."
+      },
+      {
+        "en": "A local bakery supplied pastries for the conference.",
+        "vi": "Một tiệm bánh địa phương cung cấp bánh ngọt cho hội nghị."
+      }
+    ],
+    "topics": [
+      "food",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "commentator",
+    "pos": "n",
+    "meaning_vi": "bình luận viên; người phân tích công khai",
+    "definition_en": "a person who describes or analyzes events for an audience",
+    "examples": [
+      {
+        "en": "The commentator explained the strategy during the live broadcast.",
+        "vi": "Bình luận viên giải thích chiến thuật trong buổi phát sóng trực tiếp."
+      },
+      {
+        "en": "A financial commentator discussed the latest market figures.",
+        "vi": "Một bình luận viên tài chính thảo luận các số liệu thị trường mới nhất."
+      }
+    ],
+    "topics": [
+      "media",
+      "communication"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "depart",
+    "pos": "v",
+    "meaning_vi": "rời đi, khởi hành",
+    "definition_en": "to leave a place, especially to begin a journey",
+    "examples": [
+      {
+        "en": "The train will depart from platform four at noon.",
+        "vi": "Tàu sẽ khởi hành từ sân ga số bốn vào buổi trưa."
+      },
+      {
+        "en": "Passengers should arrive before buses depart for the airport.",
+        "vi": "Hành khách nên đến trước khi xe buýt khởi hành ra sân bay."
+      }
+    ],
+    "topics": [
+      "travel",
+      "transport"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "hacker",
+    "pos": "n",
+    "meaning_vi": "tin tặc; người có kỹ năng chuyên sâu về hệ thống máy tính",
+    "definition_en": "a person who explores or gains access to computer systems",
+    "examples": [
+      {
+        "en": "The hacker exploited a weak password to access the account.",
+        "vi": "Tin tặc khai thác mật khẩu yếu để truy cập tài khoản."
+      },
+      {
+        "en": "An ethical hacker reported the vulnerability before criminals could use it.",
+        "vi": "Một hacker có đạo đức báo cáo lỗ hổng trước khi tội phạm có thể khai thác."
+      }
+    ],
+    "topics": [
+      "cybersecurity",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "imminent",
+    "pos": "adj",
+    "meaning_vi": "sắp xảy ra, cận kề",
+    "definition_en": "expected to happen very soon",
+    "examples": [
+      {
+        "en": "Officials warned residents of an imminent storm.",
+        "vi": "Các quan chức cảnh báo cư dân về cơn bão sắp xảy ra."
+      },
+      {
+        "en": "The monitoring system detected signs of imminent hardware failure.",
+        "vi": "Hệ thống giám sát phát hiện dấu hiệu hỏng phần cứng sắp xảy ra."
+      }
+    ],
+    "topics": [
+      "general",
+      "formal-writing"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "intern",
+    "pos": "n",
+    "meaning_vi": "thực tập sinh",
+    "definition_en": "a student or trainee gaining practical work experience",
+    "examples": [
+      {
+        "en": "The intern helped organize data for the research team.",
+        "vi": "Thực tập sinh giúp sắp xếp dữ liệu cho nhóm nghiên cứu."
+      },
+      {
+        "en": "Each intern receives weekly feedback from a supervisor.",
+        "vi": "Mỗi thực tập sinh nhận phản hồi hằng tuần từ người hướng dẫn."
+      }
+    ],
+    "topics": [
+      "work",
+      "education"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "lag",
+    "pos": "n",
+    "meaning_vi": "độ trễ; sự chậm hơn so với mong đợi",
+    "definition_en": "a delay between an action, signal, or expected response",
+    "examples": [
+      {
+        "en": "Network lag made the video call difficult to follow.",
+        "vi": "Độ trễ mạng khiến cuộc gọi video khó theo dõi."
+      },
+      {
+        "en": "There is often a lag between policy changes and measurable results.",
+        "vi": "Thường có độ trễ giữa thay đổi chính sách và kết quả đo được."
+      }
+    ],
+    "topics": [
+      "technology",
+      "economics"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "lure",
+    "pos": "v",
+    "meaning_vi": "thu hút, dụ dỗ",
+    "definition_en": "to attract or tempt someone toward something",
+    "examples": [
+      {
+        "en": "Low introductory prices can lure customers to try a new service.",
+        "vi": "Giá giới thiệu thấp có thể thu hút khách hàng dùng thử dịch vụ mới."
+      },
+      {
+        "en": "Bright lights lure some insects toward the building at night.",
+        "vi": "Ánh sáng mạnh thu hút một số côn trùng về phía tòa nhà vào ban đêm."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "molecule",
+    "pos": "n",
+    "meaning_vi": "phân tử",
+    "definition_en": "the smallest unit of a substance retaining its chemical properties",
+    "examples": [
+      {
+        "en": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+        "vi": "Một phân tử nước chứa hai nguyên tử hydro và một nguyên tử oxy."
+      },
+      {
+        "en": "The drug molecule binds to a specific receptor.",
+        "vi": "Phân tử thuốc liên kết với một thụ thể cụ thể."
+      }
+    ],
+    "topics": [
+      "chemistry",
+      "science"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "noisy",
+    "pos": "adj",
+    "meaning_vi": "ồn ào; chứa nhiều nhiễu",
+    "definition_en": "making much unwanted sound or containing unwanted signal variation",
+    "examples": [
+      {
+        "en": "The noisy classroom made listening practice difficult.",
+        "vi": "Lớp học ồn ào khiến việc luyện nghe trở nên khó khăn."
+      },
+      {
+        "en": "A noisy signal can hide small but important measurements.",
+        "vi": "Tín hiệu nhiễu có thể che mất các phép đo nhỏ nhưng quan trọng."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "statistically",
+    "pos": "adv",
+    "meaning_vi": "về mặt thống kê",
+    "definition_en": "according to statistical methods or numerical analysis",
+    "examples": [
+      {
+        "en": "The difference was statistically significant across both groups.",
+        "vi": "Sự khác biệt có ý nghĩa thống kê ở cả hai nhóm."
+      },
+      {
+        "en": "Statistically similar results appeared in three independent experiments.",
+        "vi": "Kết quả tương đồng về mặt thống kê xuất hiện trong ba thí nghiệm độc lập."
+      }
+    ],
+    "topics": [
+      "statistics",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "susceptible",
+    "pos": "adj",
+    "meaning_vi": "dễ bị ảnh hưởng; dễ mắc phải",
+    "definition_en": "easily affected, harmed, or influenced by something",
+    "examples": [
+      {
+        "en": "Young plants are susceptible to frost during early growth.",
+        "vi": "Cây non dễ bị ảnh hưởng bởi sương giá trong giai đoạn phát triển sớm."
+      },
+      {
+        "en": "Unpatched servers are susceptible to known security attacks.",
+        "vi": "Máy chủ chưa vá lỗi dễ bị các cuộc tấn công bảo mật đã biết."
+      }
+    ],
+    "topics": [
+      "health",
+      "science"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "translator",
+    "pos": "n",
+    "meaning_vi": "biên dịch viên; người dịch",
+    "definition_en": "a person who converts written or spoken content between languages",
+    "examples": [
+      {
+        "en": "The translator checked technical terms before submitting the document.",
+        "vi": "Biên dịch viên kiểm tra thuật ngữ kỹ thuật trước khi nộp tài liệu."
+      },
+      {
+        "en": "A skilled translator preserves meaning while adapting style for readers.",
+        "vi": "Một người dịch giỏi giữ nguyên ý nghĩa đồng thời điều chỉnh văn phong cho độc giả."
+      }
+    ],
+    "topics": [
+      "language",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "tutor",
+    "pos": "n",
+    "meaning_vi": "gia sư; người hướng dẫn học tập",
+    "definition_en": "a person who teaches a student individually or in a small group",
+    "examples": [
+      {
+        "en": "The tutor reviewed difficult grammar points with the student.",
+        "vi": "Gia sư ôn lại các điểm ngữ pháp khó với học sinh."
+      },
+      {
+        "en": "An online tutor can provide immediate feedback during speaking practice.",
+        "vi": "Gia sư trực tuyến có thể phản hồi ngay trong lúc luyện nói."
+      }
+    ],
+    "topics": [
+      "education",
+      "work"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "yeast",
+    "pos": "n",
+    "meaning_vi": "men; vi sinh vật dùng trong lên men",
+    "definition_en": "a microscopic fungus used in baking and fermentation",
+    "examples": [
+      {
+        "en": "Yeast produces gas that helps bread dough rise.",
+        "vi": "Men tạo khí giúp bột bánh mì nở."
+      },
+      {
+        "en": "The brewery controls temperature so yeast ferments the mixture consistently.",
+        "vi": "Nhà máy bia kiểm soát nhiệt độ để men lên men hỗn hợp ổn định."
+      }
+    ],
+    "topics": [
+      "food",
+      "biology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "absorption",
+    "pos": "n",
+    "meaning_vi": "sự hấp thụ",
+    "definition_en": "the process of taking in a substance, energy, or information",
+    "examples": [
+      {
+        "en": "Vitamin absorption can depend on other nutrients in the meal.",
+        "vi": "Sự hấp thụ vitamin có thể phụ thuộc vào các chất dinh dưỡng khác trong bữa ăn."
+      },
+      {
+        "en": "Dark surfaces increase heat absorption under direct sunlight.",
+        "vi": "Bề mặt tối làm tăng sự hấp thụ nhiệt dưới ánh nắng trực tiếp."
+      }
+    ],
+    "topics": [
+      "science",
+      "biology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "accelerate",
+    "pos": "v",
+    "meaning_vi": "tăng tốc; thúc đẩy nhanh hơn",
+    "definition_en": "to increase speed or make a process happen faster",
+    "examples": [
+      {
+        "en": "The vehicle begins to accelerate after leaving the sharp turn.",
+        "vi": "Chiếc xe bắt đầu tăng tốc sau khi rời khúc cua gấp."
+      },
+      {
+        "en": "Automation can accelerate routine processing without increasing staff workload.",
+        "vi": "Tự động hóa có thể đẩy nhanh xử lý thường lệ mà không tăng khối lượng công việc."
+      }
+    ],
+    "topics": [
+      "physics",
+      "business"
+    ],
+    "register": "formal"
+  },
+  {
+    "lemma": "bulb",
+    "pos": "n",
+    "meaning_vi": "bóng đèn; củ của một số loài cây",
+    "definition_en": "a rounded glass light source or underground plant storage structure",
+    "examples": [
+      {
+        "en": "Replace the damaged bulb after switching off the power.",
+        "vi": "Thay bóng đèn hỏng sau khi tắt nguồn."
+      },
+      {
+        "en": "The tulip bulb stores nutrients during the cold season.",
+        "vi": "Củ tulip dự trữ chất dinh dưỡng trong mùa lạnh."
+      }
+    ],
+    "topics": [
+      "technology",
+      "biology"
+    ],
+    "register": "general"
+  }
+]

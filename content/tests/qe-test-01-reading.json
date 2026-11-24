@@ -2,6 +2,8 @@
   "slug": "qe-test-01",
   "title": "Test 01",
   "collection": "QEnglishIT 2026",
+  "source": "original",
+  "exam_type": "toeic_full",
   "groups": [
     {
       "part": 5,
@@ -1793,7 +1795,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"This year, the course will be held online instead of in the training room.\"",
+          "explanation": "Thông báo cho biết khóa đào tạo an toàn năm nay được tổ chức trực tuyến thay cho học tại phòng đào tạo. Vì vậy, (C) là thay đổi được nhắc đến.",
           "translation": "Điều gì khác biệt ở khóa đào tạo an toàn năm nay? (A) Ngắn hơn trước. (B) Không bắt buộc. (C) Hoàn thành trực tuyến. (D) Do giám sát viên hướng dẫn.",
           "tags": [
             "detail"
@@ -1821,7 +1823,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Employees who have not finished by the deadline will not be allowed on the factory floor until they do.\"",
+          "explanation": "Nhân viên chưa hoàn thành khóa đào tạo trước hạn sẽ không được vào khu vực sản xuất cho đến khi học xong. Điều này khớp với (D).",
           "translation": "Điều gì xảy ra với nhân viên lỡ hạn? (A) Họ phải trả phí. (B) Họ phải học lại trực tiếp. (C) Họ bị chuyển sang ca khác. (D) Họ không được làm việc ở khu nhà máy.",
           "tags": [
             "detail"
@@ -1887,7 +1889,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"You will receive an e-mail with tracking details once each package leaves our warehouse.\"",
+          "explanation": "Sau khi mỗi kiện hàng rời kho, khách sẽ nhận email chứa thông tin theo dõi vận chuyển, đúng với (C).",
           "translation": "Khách hàng sẽ biết kiện hàng đã gửi đi bằng cách nào? (A) Gọi cho cửa hàng (B) Đến kho (C) Nhận e-mail kèm thông tin theo dõi (D) Xem hóa đơn in",
           "tags": [
             "detail"
@@ -1925,7 +1927,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"The change follows a survey of residents in which 62 percent... said they would use the library more often if evening hours were available.\"",
+          "explanation": "Thư viện kéo dài giờ mở cửa vì trong khảo sát, 62% cư dân nói rằng họ sẽ đến thư viện thường xuyên hơn nếu có giờ phục vụ buổi tối. Chọn (D).",
           "translation": "Vì sao thư viện kéo dài giờ mở cửa? (A) Một tòa nhà mới đã mở. (B) Giám đốc nghỉ hưu. (C) Các trường học yêu cầu. (D) Cư dân bày tỏ sự quan tâm trong khảo sát.",
           "tags": [
             "detail"
@@ -1981,7 +1983,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"the library will launch a free lending program for laptops in July.\"",
+          "explanation": "Thông báo nêu rằng thư viện sẽ triển khai chương trình cho mượn máy tính xách tay miễn phí trong tháng Bảy. Chọn (A).",
           "translation": "Điều gì sẽ xảy ra vào tháng Bảy? (A) Có thể mượn máy tính xách tay. (B) Tuyển hai nhân viên bán thời gian. (C) Khu thiếu nhi mở rộng. (D) Khoản tài trợ kết thúc.",
           "tags": [
             "detail"
@@ -2169,7 +2171,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"At the end of the pilot, HR will gather feedback through an online survey.\"",
+          "explanation": "Kết thúc chương trình làm việc linh hoạt thí điểm, phòng Nhân sự sẽ lấy ý kiến qua khảo sát trực tuyến để cân nhắc duy trì chương trình. Chọn (D).",
           "translation": "Phòng Nhân sự sẽ làm gì khi kết thúc đợt thí điểm? (A) Mở rộng cho nhân viên vận chuyển (B) Giảm giờ làm (C) Yêu cầu nhân viên đăng ký lại (D) Thu thập phản hồi qua khảo sát trực tuyến",
           "tags": [
             "detail"
@@ -2235,7 +2237,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"the farm will keep its name and its current employees.\"",
+          "explanation": "Theo thỏa thuận mua lại, Bellwether Farms vẫn giữ tên hiện tại và đội ngũ nhân viên của mình, nên (A) đúng.",
           "translation": "Điều gì được nêu về Bellwether Farms sau thương vụ? (A) Giữ tên cũ. (B) Chuyển địa điểm. (C) Sa thải công nhân. (D) Ngừng bán cho nhà hàng.",
           "tags": [
             "detail"
@@ -2263,7 +2265,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"the family chose Harlow Foods because it promised to maintain the farm's quality standards.\"",
+          "explanation": "Gia đình Okoro chọn Harlow Foods vì công ty này cam kết duy trì các tiêu chuẩn chất lượng của trang trại. Đáp án (D).",
           "translation": "Vì sao gia đình Okoro chọn Harlow Foods? (A) Trả giá cao nhất. (B) Cũng là doanh nghiệp gia đình. (C) Có kế hoạch bán phô mai ra nước ngoài. (D) Hứa duy trì chất lượng sản phẩm.",
           "tags": [
             "detail"
@@ -2357,7 +2359,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"replaced the faulty system in Room 412.\"",
+          "explanation": "Thư phản hồi cho biết bộ phận bảo trì đã thay hệ thống điều hòa bị lỗi ở phòng 412. Vì vậy, chọn (C).",
           "translation": "Khách sạn đã làm gì với sự cố điều hòa? (A) Hoàn tiền cho mọi khách tầng bốn (B) Đóng cửa tầng bốn (C) Thay hệ thống ở phòng 412 (D) Thuê thêm kỹ thuật viên",
           "tags": [
             "detail"
@@ -2451,7 +2453,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"8:00 A.M. Bus departs from the main office (parking lot B)\".",
+          "explanation": "Lịch trình ghi xe buýt khởi hành lúc 8 giờ sáng tại bãi đậu xe B của văn phòng chính. Đáp án (B).",
           "translation": "Nhân viên tập trung ở đâu để đi xe buýt vào thứ Năm? (A) Tại nhà nghỉ (B) Ở bãi đỗ xe của văn phòng chính (C) Ở bãi dưới của nhà nghỉ (D) Ở bàn Nhân sự",
           "tags": [
             "detail"
@@ -2479,7 +2481,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"9:30 A.M. Workshop: Managing Project Budgets (Mr. Daniel Cho)\".",
+          "explanation": "Trong lịch hội thảo lúc 9 giờ 30, ông Daniel Cho phụ trách chuyên đề quản lý ngân sách dự án. Đáp án (D).",
           "translation": "Ông Cho sẽ trình bày chủ đề gì? (A) Giao tiếp với khách hàng (B) Gắn kết nhóm (C) Chương trình trao giải (D) Ngân sách dự án",
           "tags": [
             "detail"
@@ -2507,7 +2509,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"Employees who prefer to drive must notify Ms. Okafor in HR by September 10.\"",
+          "explanation": "Nhân viên muốn tự lái xe đến nhà nghỉ phải báo cho bà Okafor ở phòng Nhân sự trước hoặc vào ngày 10 tháng Chín. Chọn (A).",
           "translation": "Nhân viên muốn tự lái đến nhà nghỉ phải làm gì? (A) Báo cho bà Okafor trước ngày 10/9 (B) Đỗ ở bãi B (C) Đăng ký hội thảo (D) Đến trước 8 giờ sáng",
           "tags": [
             "detail"
@@ -2535,7 +2537,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"In case of rain, team-building activities will be moved indoors to the lodge's main hall.\"",
+          "explanation": "Nếu trời mưa vào thứ Năm, các hoạt động xây dựng đội nhóm sẽ chuyển vào sảnh chính của nhà nghỉ. Chọn (C).",
           "translation": "Điều gì xảy ra nếu thứ Năm trời mưa? (A) Hội nghị bị hủy. (B) Hoạt động dời sang thứ Sáu. (C) Hoạt động gắn kết nhóm diễn ra trong sảnh chính. (D) Xe buýt đi sớm hơn.",
           "tags": [
             "detail"
@@ -2629,7 +2631,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"helped to redesign our post-trip survey, which raised the response rate by 20 percent.\"",
+          "explanation": "Bà Moreau cho biết đã góp phần thiết kế lại khảo sát sau chuyến đi, giúp tỷ lệ phản hồi tăng 20%. Vì vậy, chọn (C).",
           "translation": "Cô Moreau nói cô đã làm gì ở Bluewave Cruises? (A) Mở văn phòng mới (B) Đào tạo nhân viên mới (C) Giúp tăng số phản hồi khảo sát (D) Tạo hệ thống đặt chỗ",
           "tags": [
             "detail"
@@ -2779,7 +2781,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"My other colleague, Anita Cole, would like to take his place. Could you please update our registration?\"",
+          "explanation": "Bà Santos muốn Anita Cole thay chỗ một đồng nghiệp đã đăng ký tham dự và đề nghị Northgate cập nhật thông tin đăng ký. Chọn (D).",
           "translation": "Cô Santos yêu cầu Northgate làm gì? (A) Giữ chỗ đỗ xe (B) Gửi danh mục sản phẩm (C) Gia hạn đăng ký (D) Thay một người đã đăng ký",
           "tags": [
             "detail"
@@ -3051,7 +3053,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"The fee includes meals and conference materials but not accommodation.\"",
+          "explanation": "Phí đăng ký đã bao gồm các bữa ăn và tài liệu hội nghị, còn chi phí lưu trú thì chưa được bao gồm. Đáp án (A).",
           "translation": "Phí đăng ký bao gồm gì? (A) Bữa ăn và tài liệu hội nghị (B) Chỗ ở khách sạn (C) Vé máy bay (D) Đi lại nội địa",
           "tags": [
             "detail"
@@ -3079,7 +3081,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"The sessions on remote-work policy would directly help our project to revise the employee handbook.\"",
+          "explanation": "Bà Joshi muốn dự các phiên về chính sách làm việc từ xa vì nội dung đó hỗ trợ dự án sửa đổi sổ tay nhân viên của công ty. Chọn (B).",
           "translation": "Vì sao cô Joshi muốn tham dự hội nghị? (A) Gặp đồng nghiệp cũ (B) Tìm hiểu các chủ đề liên quan đến một dự án công việc (C) Nhận giải thưởng (D) Phỏng vấn ứng viên",
           "tags": [
             "detail"
@@ -3285,7 +3287,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Please bring a copy of your business registration so that I can prepare the lease.\"",
+          "explanation": "Ông Tanaka được yêu cầu mang theo bản sao giấy đăng ký kinh doanh để bên cho thuê chuẩn bị hợp đồng. Chọn (D).",
           "translation": "Ông Tanaka được yêu cầu mang gì khi đến xem phòng? (A) Séc đặt cọc (B) Thư giới thiệu từ khách hàng (C) Sơ đồ mặt bằng (D) Bản sao giấy đăng ký kinh doanh",
           "tags": [
             "detail"

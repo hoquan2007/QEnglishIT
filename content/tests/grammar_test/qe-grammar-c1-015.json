@@ -1,0 +1,1508 @@
+{
+  "slug": "qe-grammar-c1-015",
+  "title": "Advanced Grammar C1 – Design, Performance and Collaboration",
+  "collection": "QEnglishIT Grammar Assessments",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "cefr": "C1",
+  "difficulty": 4,
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "grammar",
+    "C1",
+    "creative-collaboration"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Advanced Grammar in Context",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The rig looks awkward, but it is surprisingly easy for one person ------- once the counterweight is in place.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to be operated"
+            },
+            {
+              "key": "B",
+              "text": "to operate"
+            },
+            {
+              "key": "C",
+              "text": "operate it"
+            },
+            {
+              "key": "D",
+              "text": "operating it"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Trong easy for one person to operate, the rig là tân ngữ được hiểu của operate và không cần nhắc lại.",
+          "translation": "Bộ giàn trông cồng kềnh, nhưng một người vận hành khá dễ khi quả đối trọng đã vào đúng vị trí.",
+          "difficulty": 4,
+          "tags": [
+            "infinitive-complement-active"
+          ],
+          "skill_tags": [
+            "infinitive-complement-active"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Should the projection fail during the overture, the stage manager ------- to switch to the backup cue without waiting for a signal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is to"
+            },
+            {
+              "key": "B",
+              "text": "can have"
+            },
+            {
+              "key": "C",
+              "text": "had been"
+            },
+            {
+              "key": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Be to + nguyên mẫu diễn tả chỉ thị đã được quy định. Should đầu vế điều kiện báo khả năng cần đề phòng.",
+          "translation": "Nếu máy chiếu hỏng trong khúc dạo đầu, quản lý sân khấu phải chuyển sang hiệu lệnh dự phòng ngay mà không đợi tín hiệu.",
+          "difficulty": 4,
+          "tags": [
+            "be-to-directive"
+          ],
+          "skill_tags": [
+            "be-to-directive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The composer, several of ------- earlier works use the same unusual tuning, supervised the first rehearsal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whose"
+            },
+            {
+              "key": "B",
+              "text": "whom"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Several of whose earlier works là chủ ngữ của mệnh đề quan hệ bổ sung. Whose xác lập quan hệ sở hữu với the composer.",
+          "translation": "Nhà soạn nhạc, người có vài tác phẩm trước dùng cùng cách lên dây đặc biệt đó, giám sát buổi tập đầu tiên.",
+          "difficulty": 4,
+          "tags": [
+            "possessive-relative"
+          ],
+          "skill_tags": [
+            "possessive-relative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The studio can lend us microphones, but not ------- suitable for recording in heavy wind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "each"
+            },
+            {
+              "key": "B",
+              "text": "ones"
+            },
+            {
+              "key": "C",
+              "text": "these of"
+            },
+            {
+              "key": "D",
+              "text": "it"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ones thay cho microphones số nhiều và được xác định thêm bằng suitable for ....",
+          "translation": "Phòng thu có thể cho mượn micro, nhưng không có loại thích hợp để thu trong gió mạnh.",
+          "difficulty": 4,
+          "tags": [
+            "substitution-one"
+          ],
+          "skill_tags": [
+            "substitution-one"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "It is partly because the stage is so shallow ------- we have to move the piano before each scene change.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "why"
+            },
+            {
+              "key": "C",
+              "text": "so"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu chẻ It is ... that nhấn mạnh lý do nằm trong cụm because.",
+          "translation": "Một phần vì sân khấu quá nông nên chúng tôi phải dời đàn piano trước mỗi lần chuyển cảnh.",
+          "difficulty": 4,
+          "tags": [
+            "cleft-reason"
+          ],
+          "skill_tags": [
+            "cleft-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "------- the score in a lower key, the arranger had to rewrite two of the clarinet parts as well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Having transposed"
+            },
+            {
+              "key": "B",
+              "text": "Being transposed"
+            },
+            {
+              "key": "C",
+              "text": "Having been transposed"
+            },
+            {
+              "key": "D",
+              "text": "To have been transposed"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Having transposed diễn tả hành động xảy ra trước. Người hòa âm là người thực hiện nên dùng dạng chủ động.",
+          "translation": "Sau khi chuyển tổng phổ xuống giọng thấp hơn, người hòa âm cũng phải viết lại hai bè clarinet.",
+          "difficulty": 4,
+          "tags": [
+            "perfect-participial-active"
+          ],
+          "skill_tags": [
+            "perfect-participial-active"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Don't cue the lights until the dancers are in place, -------?",
+          "options": [
+            {
+              "key": "A",
+              "text": "do you"
+            },
+            {
+              "key": "B",
+              "text": "will you"
+            },
+            {
+              "key": "C",
+              "text": "shall we"
+            },
+            {
+              "key": "D",
+              "text": "aren't you"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Will you là câu hỏi đuôi thường đi với câu mệnh lệnh phủ định để nhắc người nghe thực hiện yêu cầu.",
+          "translation": "Đừng bật đèn theo hiệu lệnh cho đến khi các vũ công vào đúng chỗ nhé?",
+          "difficulty": 4,
+          "tags": [
+            "negative-imperative-tag"
+          ],
+          "skill_tags": [
+            "negative-imperative-tag"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The director made ------- clear that no one was to adjust the tempo without consulting the accompanist.",
+          "options": [
+            {
+              "key": "A",
+              "text": "there"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "it"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "It là tân ngữ hình thức của made. Mệnh đề that ở sau clear nêu nội dung được làm rõ.",
+          "translation": "Đạo diễn nói rõ rằng không ai được chỉnh nhịp độ mà không hỏi người đệm đàn.",
+          "difficulty": 4,
+          "tags": [
+            "anticipatory-it"
+          ],
+          "skill_tags": [
+            "anticipatory-it"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The editor was free to remove ------- of the dialogue she thought unnecessary, provided the ending remained intact.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as much"
+            },
+            {
+              "key": "B",
+              "text": "so many"
+            },
+            {
+              "key": "C",
+              "text": "the most of it"
+            },
+            {
+              "key": "D",
+              "text": "however many"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "As much of + danh từ không đếm được chỉ lượng tùy theo mức xác định bởi she thought unnecessary.",
+          "translation": "Biên tập viên được tự do bỏ bao nhiêu lời thoại tùy thấy thừa, miễn là giữ nguyên đoạn kết.",
+          "difficulty": 4,
+          "tags": [
+            "quantifier-extent"
+          ],
+          "skill_tags": [
+            "quantifier-extent"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Not once in the entire rehearsal ------- to check whether the actors could hear the prompts.",
+          "options": [
+            {
+              "key": "A",
+              "text": "anyone did stop"
+            },
+            {
+              "key": "B",
+              "text": "stopped anyone"
+            },
+            {
+              "key": "C",
+              "text": "did anyone stop"
+            },
+            {
+              "key": "D",
+              "text": "anyone stopped"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Trạng ngữ phủ định not once đứng đầu kéo theo đảo trợ động từ did trước anyone.",
+          "translation": "Suốt buổi tập không một lần nào có người dừng lại để kiểm tra xem diễn viên có nghe được lời nhắc không.",
+          "difficulty": 4,
+          "tags": [
+            "inversion-at-notime"
+          ],
+          "skill_tags": [
+            "inversion-at-notime"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "There is little, if -------, resemblance between the sketches and the final set.",
+          "options": [
+            {
+              "key": "A",
+              "text": "any"
+            },
+            {
+              "key": "B",
+              "text": "none"
+            },
+            {
+              "key": "C",
+              "text": "some"
+            },
+            {
+              "key": "D",
+              "text": "much of"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Little, if any, nhấn mạnh mức độ rất nhỏ và để ngỏ khả năng hoàn toàn không có.",
+          "translation": "Các bản phác thảo và cảnh trí cuối cùng hầu như không giống nhau.",
+          "difficulty": 4,
+          "tags": [
+            "negative-quantifier"
+          ],
+          "skill_tags": [
+            "negative-quantifier"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The venue has made a point ------- anyone who cannot manage stairs to use the side entrance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "allowing to"
+            },
+            {
+              "key": "B",
+              "text": "of allowing"
+            },
+            {
+              "key": "C",
+              "text": "to allowing"
+            },
+            {
+              "key": "D",
+              "text": "for allowing"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Make a point of + V-ing diễn tả việc có chủ ý coi trọng một hành động.",
+          "translation": "Địa điểm biểu diễn chủ động cho phép bất kỳ ai không đi được cầu thang sử dụng lối bên.",
+          "difficulty": 4,
+          "tags": [
+            "noun-complement"
+          ],
+          "skill_tags": [
+            "noun-complement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The scenic panels ------- on Friday, but a problem with the lift delayed their arrival until Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "must have been delivered"
+            },
+            {
+              "key": "B",
+              "text": "were to have delivered"
+            },
+            {
+              "key": "C",
+              "text": "had been delivered"
+            },
+            {
+              "key": "D",
+              "text": "were to have been delivered"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Were to have been delivered diễn tả kế hoạch giao hàng đã không thành, ở dạng bị động.",
+          "translation": "Theo kế hoạch các tấm phông phải được giao vào thứ Sáu, nhưng thang nâng gặp trục trặc nên mãi đến thứ Hai chúng mới đến.",
+          "difficulty": 4,
+          "tags": [
+            "modal-perfect-plan"
+          ],
+          "skill_tags": [
+            "modal-perfect-plan"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The boards were set at an angle in such a way ------- the joins disappeared from the audience's view.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as if"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "how"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "In such a way that nối cách sắp đặt với hệ quả mà cách đó tạo ra.",
+          "translation": "Các tấm ván được đặt nghiêng sao cho khán giả không thấy các mối nối.",
+          "difficulty": 4,
+          "tags": [
+            "result-clause-manner"
+          ],
+          "skill_tags": [
+            "result-clause-manner"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The dancers know their exact marks, as -------, although the stage layout has changed twice.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do the musicians"
+            },
+            {
+              "key": "B",
+              "text": "are the musicians"
+            },
+            {
+              "key": "C",
+              "text": "the musicians are"
+            },
+            {
+              "key": "D",
+              "text": "were the musicians"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "As do the musicians là cấu trúc song song có đảo ngữ. Do thay cho know ở thì hiện tại đơn.",
+          "translation": "Các vũ công biết chính xác vị trí đứng của mình, các nhạc công cũng vậy, dù bố trí sân khấu đã thay đổi hai lần.",
+          "difficulty": 4,
+          "tags": [
+            "coordination-ellipsis"
+          ],
+          "skill_tags": [
+            "coordination-ellipsis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "In the first recording, someone can be heard ------- about a missing page just before the strings come in.",
+          "options": [
+            {
+              "key": "A",
+              "text": "complaining"
+            },
+            {
+              "key": "B",
+              "text": "complained"
+            },
+            {
+              "key": "C",
+              "text": "complain"
+            },
+            {
+              "key": "D",
+              "text": "to complaining"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Be heard + V-ing nêu hành động đang diễn ra khi được nghe thấy. Dạng nguyên mẫu với bị động phải có to.",
+          "translation": "Trong bản thu đầu, có thể nghe thấy ai đó phàn nàn vì thiếu một trang ngay trước khi bộ dây bắt đầu chơi.",
+          "difficulty": 4,
+          "tags": [
+            "passive-perception"
+          ],
+          "skill_tags": [
+            "passive-perception"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Whenever we agree on a lighting cue, Martin changes it at the next rehearsal. He ------- the plan without telling anyone.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was not altering"
+            },
+            {
+              "key": "B",
+              "text": "had once altered"
+            },
+            {
+              "key": "C",
+              "text": "has never altered"
+            },
+            {
+              "key": "D",
+              "text": "is forever altering"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Hiện tại tiếp diễn với forever nhấn mạnh hành vi lặp lại gây khó chịu.",
+          "translation": "Hễ chúng tôi thống nhất một hiệu lệnh đèn, Martin lại đổi nó ở buổi tập sau. Anh ấy cứ sửa kế hoạch mà chẳng báo ai.",
+          "difficulty": 4,
+          "tags": [
+            "progressive-criticism"
+          ],
+          "skill_tags": [
+            "progressive-criticism"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Only after the curtain had fallen ------- permitted to open the side door.",
+          "options": [
+            {
+              "key": "A",
+              "text": "latecomers had"
+            },
+            {
+              "key": "B",
+              "text": "latecomers were"
+            },
+            {
+              "key": "C",
+              "text": "did latecomers"
+            },
+            {
+              "key": "D",
+              "text": "were latecomers"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Only after + mệnh đề đứng đầu gây đảo ngữ trong mệnh đề chính. Were đứng trước latecomers để tạo bị động were permitted.",
+          "translation": "Chỉ sau khi màn hạ, những người đến muộn mới được phép mở cửa bên.",
+          "difficulty": 4,
+          "tags": [
+            "restrictive-adverbial"
+          ],
+          "skill_tags": [
+            "restrictive-adverbial"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The lighting technician walked slowly round the set, ------- for shadows that might hide the actors' faces.",
+          "options": [
+            {
+              "key": "A",
+              "text": "checking"
+            },
+            {
+              "key": "B",
+              "text": "was checking"
+            },
+            {
+              "key": "C",
+              "text": "checked"
+            },
+            {
+              "key": "D",
+              "text": "having been checked"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Checking nêu hành động đi kèm do cùng chủ ngữ thực hiện và không cần thêm động từ chia thì.",
+          "translation": "Kỹ thuật viên ánh sáng đi chậm quanh cảnh trí, kiểm tra xem có bóng nào che mặt diễn viên không.",
+          "difficulty": 4,
+          "tags": [
+            "participle-accompanying"
+          ],
+          "skill_tags": [
+            "participle-accompanying"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "------- tightly the fabric is stretched, the seam will still show under a strong side light.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Whichever"
+            },
+            {
+              "key": "C",
+              "text": "However"
+            },
+            {
+              "key": "D",
+              "text": "Whenever"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "However + trạng từ tightly biểu thị mọi mức độ kéo căng trong mệnh đề nhượng bộ.",
+          "translation": "Dù kéo căng vải đến đâu, đường may vẫn lộ dưới ánh sáng mạnh chiếu từ bên.",
+          "difficulty": 4,
+          "tags": [
+            "concessive-however"
+          ],
+          "skill_tags": [
+            "concessive-however"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The actors marked the new positions with tape. Otherwise they ------- their way in the dark during the first scene.",
+          "options": [
+            {
+              "key": "A",
+              "text": "might have lost"
+            },
+            {
+              "key": "B",
+              "text": "would have been lost"
+            },
+            {
+              "key": "C",
+              "text": "must have lost"
+            },
+            {
+              "key": "D",
+              "text": "had already lost"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Otherwise chỉ tình huống giả định nếu không đánh dấu. Might have lost nêu hệ quả quá khứ có thể xảy ra.",
+          "translation": "Các diễn viên dùng băng dính đánh dấu vị trí mới. Nếu không, họ có thể đã lạc hướng trong bóng tối ở cảnh đầu.",
+          "difficulty": 4,
+          "tags": [
+            "conditional-otherwise"
+          ],
+          "skill_tags": [
+            "conditional-otherwise"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The sound from the balcony is markedly clearer than ------- from the seats beneath it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "there"
+            },
+            {
+              "key": "B",
+              "text": "it"
+            },
+            {
+              "key": "C",
+              "text": "those"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "That thay cho the sound để so sánh cùng một loại đối tượng ở hai vị trí.",
+          "translation": "Âm thanh nghe từ ban công rõ hơn hẳn so với âm thanh ở các ghế bên dưới.",
+          "difficulty": 4,
+          "tags": [
+            "comparison-noun-phrase"
+          ],
+          "skill_tags": [
+            "comparison-noun-phrase"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The stage manager requested that the loading bay ------- clear until the last truck had left.",
+          "options": [
+            {
+              "key": "A",
+              "text": "remains"
+            },
+            {
+              "key": "B",
+              "text": "remain"
+            },
+            {
+              "key": "C",
+              "text": "to remain"
+            },
+            {
+              "key": "D",
+              "text": "was remaining"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Requested that có thể đi với giả định thức. Remain ở dạng nguyên mẫu và đứng sau chủ ngữ the loading bay.",
+          "translation": "Quản lý sân khấu yêu cầu giữ khu bốc dỡ thông thoáng cho đến khi xe tải cuối cùng rời đi.",
+          "difficulty": 4,
+          "tags": [
+            "formal-directive"
+          ],
+          "skill_tags": [
+            "formal-directive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The seamstress recalled ------- the dress on a larger mannequin before being told the measurements had changed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have fitted"
+            },
+            {
+              "key": "B",
+              "text": "having been fitted"
+            },
+            {
+              "key": "C",
+              "text": "having fitted"
+            },
+            {
+              "key": "D",
+              "text": "to fit"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Recall nhận bổ ngữ V-ing. Having fitted đặt việc thử váy trước lúc nhận thông báo.",
+          "translation": "Thợ may nhớ đã thử váy trên ma-nơ-canh lớn hơn trước khi được báo số đo đã thay đổi.",
+          "difficulty": 4,
+          "tags": [
+            "gerund-vs-infinitive"
+          ],
+          "skill_tags": [
+            "gerund-vs-infinitive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "By the time the costume department opens on Monday, the cast ------- without their winter coats for exactly two weeks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had been rehearsing"
+            },
+            {
+              "key": "B",
+              "text": "will have been rehearsed"
+            },
+            {
+              "key": "C",
+              "text": "will have been rehearsing"
+            },
+            {
+              "key": "D",
+              "text": "would have been rehearsing"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Will have been + V-ing đo độ dài hoạt động tính đến mốc tương lai.",
+          "translation": "Đến khi bộ phận phục trang mở cửa vào thứ Hai, dàn diễn viên sẽ tập không có áo khoác mùa đông được đúng hai tuần.",
+          "difficulty": 4,
+          "tags": [
+            "time-contrast"
+          ],
+          "skill_tags": [
+            "time-contrast"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The prop list was the first document ------- by the director after the design meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to revise"
+            },
+            {
+              "key": "B",
+              "text": "to be revised"
+            },
+            {
+              "key": "C",
+              "text": "having revised"
+            },
+            {
+              "key": "D",
+              "text": "to have revised it"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau the first + danh từ có thể dùng mệnh đề quan hệ rút gọn dạng to-infinitive. To be revised giữ nghĩa bị động.",
+          "translation": "Danh sách đạo cụ là tài liệu đầu tiên được đạo diễn sửa sau buổi họp thiết kế.",
+          "difficulty": 4,
+          "tags": [
+            "passive-infinitive-relative"
+          ],
+          "skill_tags": [
+            "passive-infinitive-relative"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "The new material absorbs sound, ------- the old panels tended to reflect it back towards the stage.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in lieu of"
+            },
+            {
+              "key": "B",
+              "text": "whereas"
+            },
+            {
+              "key": "C",
+              "text": "notwithstanding what"
+            },
+            {
+              "key": "D",
+              "text": "inasmuch as"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Whereas liên kết hai mệnh đề để đối chiếu các đặc tính trái nhau.",
+          "translation": "Vật liệu mới hấp thụ âm, còn các tấm cũ có xu hướng phản âm trở lại sân khấu.",
+          "difficulty": 4,
+          "tags": [
+            "contrast-whereas-register"
+          ],
+          "skill_tags": [
+            "contrast-whereas-register"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "It would be misleading to describe the entire production as improvised: at ------- two of the scenes were unscripted.",
+          "options": [
+            {
+              "key": "A",
+              "text": "length"
+            },
+            {
+              "key": "B",
+              "text": "once"
+            },
+            {
+              "key": "C",
+              "text": "times of"
+            },
+            {
+              "key": "D",
+              "text": "most"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "At most đặt giới hạn trên cho số cảnh. Các cảnh còn lại có kịch bản.",
+          "translation": "Gọi toàn bộ vở diễn là ứng tác sẽ gây hiểu lầm vì nhiều nhất chỉ hai cảnh không có kịch bản.",
+          "difficulty": 4,
+          "tags": [
+            "result-overgeneralisation"
+          ],
+          "skill_tags": [
+            "result-overgeneralisation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Both technicians can operate the sound desk, but it seats only one. They can take turns operating it, though -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "neither can"
+            },
+            {
+              "key": "B",
+              "text": "each at the same time"
+            },
+            {
+              "key": "C",
+              "text": "not both at once"
+            },
+            {
+              "key": "D",
+              "text": "only both can"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Not both at once phủ định việc hai người cùng làm một lúc. Từng người vẫn có thể làm riêng.",
+          "translation": "Cả hai kỹ thuật viên đều có thể vận hành bàn âm thanh, nhưng chỉ có một chỗ ngồi. Họ có thể thay phiên nhau vận hành, chứ không thể vận hành cùng lúc.",
+          "difficulty": 4,
+          "tags": [
+            "negation-scope-both"
+          ],
+          "skill_tags": [
+            "negation-scope-both"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Had the van been smaller, we ------- fit the painted backdrop inside without folding it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were not hoped to"
+            },
+            {
+              "key": "B",
+              "text": "had not hoped to"
+            },
+            {
+              "key": "C",
+              "text": "could not have hoped to"
+            },
+            {
+              "key": "D",
+              "text": "cannot have hoped to"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Had the van been smaller nêu điều kiện trái quá khứ. Could not have hoped to diễn tả kết quả giả định cùng thời.",
+          "translation": "Nếu xe tải nhỏ hơn, chúng tôi khó lòng đưa được phông đã sơn vào mà không gấp nó lại.",
+          "difficulty": 4,
+          "tags": [
+            "past-modal-ability"
+          ],
+          "skill_tags": [
+            "past-modal-ability"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Choose the word or phrase that best completes each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The agreement does not require a new recording, ------- does it authorise the reuse of an old one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or"
+            },
+            {
+              "key": "B",
+              "text": "neither of which"
+            },
+            {
+              "key": "C",
+              "text": "also"
+            },
+            {
+              "key": "D",
+              "text": "nor"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nor dẫn thêm một mệnh đề phủ định với đảo trợ động từ does trước it.",
+          "translation": "Thỏa thuận không yêu cầu thu bản mới và cũng không cho phép tái sử dụng bản cũ.",
+          "difficulty": 4,
+          "tags": [
+            "negative-coordination"
+          ],
+          "skill_tags": [
+            "negative-coordination"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "------- short of rehearsal time, we agreed to run just the scenes involving a change of set.",
+          "options": [
+            {
+              "key": "A",
+              "text": "To have"
+            },
+            {
+              "key": "B",
+              "text": "Been"
+            },
+            {
+              "key": "C",
+              "text": "Being"
+            },
+            {
+              "key": "D",
+              "text": "Having been made"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Being short of ... là mệnh đề phân từ chỉ nguyên nhân, với chủ thể được hiểu là we.",
+          "translation": "Vì thiếu thời gian tập, chúng tôi thống nhất chỉ tập những cảnh có đổi cảnh trí.",
+          "difficulty": 4,
+          "tags": [
+            "reduced-reason"
+          ],
+          "skill_tags": [
+            "reduced-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "There is no need to rush the changes. The first public performance isn't until July, -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "all but"
+            },
+            {
+              "key": "B",
+              "text": "after all"
+            },
+            {
+              "key": "C",
+              "text": "thereafter all"
+            },
+            {
+              "key": "D",
+              "text": "after that of"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "After all ở cuối câu nhắc người nghe một căn cứ cho nhận định vừa nêu.",
+          "translation": "Không cần gấp rút sửa đổi. Suy cho cùng, đến tháng Bảy mới có buổi diễn công khai đầu tiên.",
+          "difficulty": 4,
+          "tags": [
+            "discourse-after-all"
+          ],
+          "skill_tags": [
+            "discourse-after-all"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The technicians renewed their demand ------- a separate desk before rehearsals resumed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "of"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Demand for + cụm danh từ nêu thứ được yêu cầu. Demand that phải dẫn một mệnh đề.",
+          "translation": "Các kỹ thuật viên nhắc lại yêu cầu có một bàn điều khiển riêng trước khi tập trở lại.",
+          "difficulty": 4,
+          "tags": [
+            "noun-complement-demand"
+          ],
+          "skill_tags": [
+            "noun-complement-demand"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Spectacular ------- the opening effect was, it drew attention away from the dialogue.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whereas"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "though"
+            },
+            {
+              "key": "D",
+              "text": "after"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Spectacular though ... was đưa tính từ ra đầu mệnh đề để nhấn mạnh sự nhượng bộ.",
+          "translation": "Dù hiệu ứng mở màn rất ấn tượng, nó làm khán giả mất tập trung vào lời thoại.",
+          "difficulty": 4,
+          "tags": [
+            "concession-may"
+          ],
+          "skill_tags": [
+            "concession-may"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The revised schedule is workable, ------- no one adds another full run at the last minute.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in spite that"
+            },
+            {
+              "key": "B",
+              "text": "unless if"
+            },
+            {
+              "key": "C",
+              "text": "provided with"
+            },
+            {
+              "key": "D",
+              "text": "provided that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Provided that nêu điều kiện đủ để nhận định ở vế chính đúng.",
+          "translation": "Lịch sửa đổi khả thi miễn là không ai thêm một lượt chạy toàn bộ vào phút chót.",
+          "difficulty": 4,
+          "tags": [
+            "conditional-substitute"
+          ],
+          "skill_tags": [
+            "conditional-substitute"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Unless the colour swatches get ------- under stage lighting first, we could end up ordering fabric that looks completely different in performance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have checked"
+            },
+            {
+              "key": "B",
+              "text": "check"
+            },
+            {
+              "key": "C",
+              "text": "having checked"
+            },
+            {
+              "key": "D",
+              "text": "checked"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Get + phân từ quá khứ tạo bị động. Các mẫu màu là đối tượng được kiểm tra.",
+          "translation": "Nếu mẫu màu không được kiểm tra dưới đèn sân khấu trước, chúng ta có thể đặt loại vải lên sân khấu trông hoàn toàn khác.",
+          "difficulty": 4,
+          "tags": [
+            "get-passive"
+          ],
+          "skill_tags": [
+            "get-passive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The last entrance is less predictable than the score would lead a first-time listener -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "expect"
+            },
+            {
+              "key": "B",
+              "text": "to expect"
+            },
+            {
+              "key": "C",
+              "text": "to be expected"
+            },
+            {
+              "key": "D",
+              "text": "expecting"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Lead + tân ngữ + to-infinitive diễn tả điều mà dấu hiệu khiến ai dự đoán. Than nối chuẩn so sánh.",
+          "translation": "Lần vào cuối khó đoán hơn điều mà tổng phổ khiến người nghe lần đầu chờ đợi.",
+          "difficulty": 4,
+          "tags": [
+            "comparative-standards"
+          ],
+          "skill_tags": [
+            "comparative-standards"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The first scene should be played -------, with no extra pause before the final line.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as it rehearsing"
+            },
+            {
+              "key": "B",
+              "text": "as rehearsed"
+            },
+            {
+              "key": "C",
+              "text": "as having rehearsed"
+            },
+            {
+              "key": "D",
+              "text": "as rehearsing"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "As rehearsed tương đương as it was rehearsed, chỉ cách diễn và lược chủ ngữ cùng động từ be.",
+          "translation": "Cảnh đầu nên được diễn như đã tập, không ngừng thêm trước câu thoại cuối.",
+          "difficulty": 4,
+          "tags": [
+            "manner-ellipsis"
+          ],
+          "skill_tags": [
+            "manner-ellipsis"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "For all ------- meticulous preparation, the company still had to improvise when the trapdoor stuck.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it has"
+            },
+            {
+              "key": "B",
+              "text": "it"
+            },
+            {
+              "key": "C",
+              "text": "its"
+            },
+            {
+              "key": "D",
+              "text": "itself"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "For all + cụm danh từ diễn tả sự nhượng bộ. Its xác định sự chuẩn bị là của đoàn.",
+          "translation": "Dù đoàn đã chuẩn bị rất kỹ, họ vẫn phải ứng biến khi cửa sập bị kẹt.",
+          "difficulty": 4,
+          "tags": [
+            "preposition-concessive"
+          ],
+          "skill_tags": [
+            "preposition-concessive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

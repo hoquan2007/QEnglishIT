@@ -1,0 +1,3592 @@
+[
+  {
+    "word": "methodology",
+    "lemma": "methodology",
+    "pos": "n",
+    "ipa": "/ˌmɛθəˈdɑɫədʒi/",
+    "ipa_us": "/ˌmɛθəˈdɑɫədʒi/",
+    "ipa_uk": "/mˌɛθədˈɒlədʒi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "phương pháp luận; hệ thống phương pháp nghiên cứu",
+    "definition_en": "a system of methods used to carry out research or analysis",
+    "examples": [
+      {
+        "en": "Our methodology combines interviews with classroom observations.",
+        "vi": "Phương pháp nghiên cứu của chúng tôi kết hợp phỏng vấn với quan sát lớp học.",
+        "source": "original"
+      },
+      {
+        "en": "The research team explained its methodology before presenting the results.",
+        "vi": "Nhóm nghiên cứu đã giải thích phương pháp luận trước khi trình bày kết quả.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "research methodology",
+        "vi": "phương pháp nghiên cứu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9402,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "hypothesis",
+    "lemma": "hypothesis",
+    "pos": "n",
+    "ipa": "/haɪˈpɑθəsəs/",
+    "ipa_us": "/haɪˈpɑθəsəs/",
+    "ipa_uk": "/haɪpˈɒθəsˌɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "giả thuyết nghiên cứu",
+    "definition_en": "a proposed explanation that can be tested with evidence",
+    "examples": [
+      {
+        "en": "The hypothesis predicts that shorter meetings improve productivity.",
+        "vi": "Giả thuyết dự đoán rằng các cuộc họp ngắn hơn giúp tăng năng suất.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers revised the hypothesis after reviewing the initial data.",
+        "vi": "Các nhà nghiên cứu điều chỉnh giả thuyết sau khi xem xét dữ liệu ban đầu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "test a hypothesis",
+        "vi": "kiểm chứng giả thuyết"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8714,
+    "lists": [
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "variable",
+    "lemma": "variable",
+    "pos": "n",
+    "ipa": "/ˈvɛɹiəbəɫ/",
+    "ipa_us": "/ˈvɛɹiəbəɫ/",
+    "ipa_uk": "/vˈeəɹɪəbəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "biến số; yếu tố có thể thay đổi",
+    "definition_en": "a factor that can change or take different values in a study",
+    "examples": [
+      {
+        "en": "Temperature was the only variable changed during the experiment.",
+        "vi": "Nhiệt độ là biến số duy nhất được thay đổi trong thí nghiệm.",
+        "source": "original"
+      },
+      {
+        "en": "The analyst recorded each variable in a separate column.",
+        "vi": "Chuyên viên phân tích ghi từng biến số vào một cột riêng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "independent variable",
+        "vi": "biến độc lập"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5952,
+    "lists": [
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "analysis",
+    "lemma": "analysis",
+    "pos": "n",
+    "ipa": "/əˈnæɫəsəs/",
+    "ipa_us": "/əˈnæɫəsəs/",
+    "ipa_uk": "/ɐnˈæləsˌɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00501-01000.json",
+        "batch_sha256": "02bb223e4195345055ea8d2de44c657023790359cd9b4e14a6ebdd0b375c2cf1"
+      }
+    },
+    "meaning_vi": "sự phân tích",
+    "definition_en": "a careful examination of information to identify patterns or explain results",
+    "examples": [
+      {
+        "en": "The analysis revealed differences between the two groups.",
+        "vi": "Việc phân tích cho thấy sự khác biệt giữa hai nhóm.",
+        "source": "original"
+      },
+      {
+        "en": "Our analysis of the budget identified unnecessary expenses.",
+        "vi": "Việc phân tích ngân sách của chúng tôi đã xác định những khoản chi không cần thiết.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "data analysis",
+        "vi": "phân tích dữ liệu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1304,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "interpret",
+    "lemma": "interpret",
+    "pos": "v",
+    "ipa": "/ˌɪnˈtɝpɹət/",
+    "ipa_us": "/ˌɪnˈtɝpɹət/",
+    "ipa_uk": "/ɪntˈɜːpɹɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "diễn giải; lý giải",
+    "definition_en": "to explain the meaning of information or results",
+    "examples": [
+      {
+        "en": "Students interpret the chart differently after reading the notes.",
+        "vi": "Các sinh viên diễn giải biểu đồ khác nhau sau khi đọc phần ghi chú.",
+        "source": "original"
+      },
+      {
+        "en": "The manager asked us to interpret the survey results carefully.",
+        "vi": "Người quản lý yêu cầu chúng tôi diễn giải kết quả khảo sát một cách cẩn thận.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "interpret results",
+        "vi": "diễn giải kết quả"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 9524,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "infer",
+    "lemma": "infer",
+    "pos": "v",
+    "ipa": "/ˌɪnˈfɝ/",
+    "ipa_us": "/ˌɪnˈfɝ/",
+    "ipa_uk": "/ɪnfˈɜː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-09001-09500.json",
+        "batch_sha256": "921e10cd15b4f84d862457892489a81ea069548f58dfced93f1870ea1999b621"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-09001-09500.json",
+        "batch_sha256": "a3d63cbc92205ae4c26636328b942f0b47553642c3a123cb95e3d6a8bb032ce1"
+      }
+    },
+    "meaning_vi": "suy ra từ bằng chứng",
+    "definition_en": "to reach a conclusion based on evidence and reasoning",
+    "examples": [
+      {
+        "en": "We cannot infer cause from this single survey.",
+        "vi": "Chúng ta không thể suy ra quan hệ nhân quả từ một cuộc khảo sát duy nhất.",
+        "source": "original"
+      },
+      {
+        "en": "Reviewers infer the author's intention from the introduction.",
+        "vi": "Những người phản biện suy ra ý định của tác giả từ phần mở đầu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "infer from evidence",
+        "vi": "suy luận từ bằng chứng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 23668,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "critical-thinking"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "validity",
+    "lemma": "validity",
+    "pos": "n",
+    "ipa": "/vəˈɫɪdəti/",
+    "ipa_us": "/vəˈɫɪdəti/",
+    "ipa_uk": "/vælˈɪdɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06001-06500.json",
+        "batch_sha256": "127f17a8cfda9d4b119e9cbff9c32893518e69bb449d6dba898196ccf7e92ab4"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06001-06500.json",
+        "batch_sha256": "1174433b9bec237d84b5952849767e346a23dfba3f6f7e3401c8baf774ba34bc"
+      }
+    },
+    "meaning_vi": "tính hợp lệ; độ giá trị của phép đo hoặc kết luận",
+    "definition_en": "the extent to which a test or conclusion measures or reflects what it claims",
+    "examples": [
+      {
+        "en": "The small sample raised questions about the validity of the findings.",
+        "vi": "Cỡ mẫu nhỏ khiến người ta nghi ngờ độ giá trị của các phát hiện.",
+        "source": "original"
+      },
+      {
+        "en": "The committee checked the validity of the questionnaire before approval.",
+        "vi": "Hội đồng kiểm tra độ giá trị của bảng câu hỏi trước khi phê duyệt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "research validity",
+        "vi": "độ giá trị của nghiên cứu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 11359,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "factor",
+    "lemma": "factor",
+    "pos": "n",
+    "ipa": "/ˈfæktɝ/",
+    "ipa_us": "/ˈfæktɝ/",
+    "ipa_uk": "/fˈæktɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "yếu tố tác động",
+    "definition_en": "a circumstance that influences a result or decision",
+    "examples": [
+      {
+        "en": "Travel time was a major factor in student attendance.",
+        "vi": "Thời gian di chuyển là yếu tố chính ảnh hưởng đến việc sinh viên đi học.",
+        "source": "original"
+      },
+      {
+        "en": "The hiring panel considered experience as one factor among several.",
+        "vi": "Hội đồng tuyển dụng coi kinh nghiệm là một trong nhiều yếu tố cần xem xét.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contributing factor",
+        "vi": "yếu tố góp phần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2168,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "decision-making"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "outcome",
+    "lemma": "outcome",
+    "pos": "n",
+    "ipa": "/ˈaʊtˌkəm/",
+    "ipa_us": "/ˈaʊtˌkəm/",
+    "ipa_uk": "/ˈaʊtkʌm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "kết quả; kết cục",
+    "definition_en": "the final result of a process, activity, or decision",
+    "examples": [
+      {
+        "en": "The outcome of the trial surprised the research team.",
+        "vi": "Kết quả thử nghiệm khiến nhóm nghiên cứu bất ngờ.",
+        "source": "original"
+      },
+      {
+        "en": "We will report each project's outcome at Friday's meeting.",
+        "vi": "Chúng tôi sẽ báo cáo kết quả của từng dự án trong cuộc họp thứ Sáu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "learning outcome",
+        "vi": "kết quả học tập"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3986,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "projects"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "consistent",
+    "lemma": "consistent",
+    "pos": "adj",
+    "ipa": "/kənˈsɪstənt/",
+    "ipa_us": "/kənˈsɪstənt/",
+    "ipa_uk": "/kənsˈɪstənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "nhất quán; ổn định",
+    "definition_en": "showing the same pattern or standard over time",
+    "examples": [
+      {
+        "en": "The measurements were consistent across three independent trials.",
+        "vi": "Các phép đo cho kết quả nhất quán qua ba lần thử nghiệm độc lập.",
+        "source": "original"
+      },
+      {
+        "en": "Her consistent feedback helped interns improve their reports.",
+        "vi": "Những góp ý nhất quán của cô ấy giúp các thực tập sinh cải thiện báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "consistent results",
+        "vi": "kết quả nhất quán"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3115,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "workplace"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "assumption",
+    "lemma": "assumption",
+    "pos": "n",
+    "ipa": "/əˈsəmpʃən/",
+    "ipa_us": "/əˈsəmpʃən/",
+    "ipa_uk": "/ɐsˈʌmpʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "giả định",
+    "definition_en": "an idea accepted as true without sufficient proof",
+    "examples": [
+      {
+        "en": "The calculation relies on an assumption about future demand.",
+        "vi": "Phép tính dựa trên một giả định về nhu cầu trong tương lai.",
+        "source": "original"
+      },
+      {
+        "en": "The researcher questioned an assumption in the original model.",
+        "vi": "Nhà nghiên cứu đặt nghi vấn về một giả định trong mô hình ban đầu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "underlying assumption",
+        "vi": "giả định nền tảng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6355,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "critical-thinking"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "clarify",
+    "lemma": "clarify",
+    "pos": "v",
+    "ipa": "/ˈkɫɛɹəˌfaɪ/",
+    "ipa_us": "/ˈkɫɛɹəˌfaɪ/",
+    "ipa_uk": "/klˈæɹɪfˌaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "làm rõ; giải thích cho dễ hiểu",
+    "definition_en": "to make a statement or situation easier to understand",
+    "examples": [
+      {
+        "en": "Could you clarify the meaning of this graph?",
+        "vi": "Bạn có thể làm rõ ý nghĩa của biểu đồ này không?",
+        "source": "original"
+      },
+      {
+        "en": "The team will clarify the eligibility rules in an email.",
+        "vi": "Nhóm sẽ làm rõ các quy định về điều kiện tham gia qua email.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "clarify requirements",
+        "vi": "làm rõ yêu cầu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 8945,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "criterion",
+    "lemma": "criterion",
+    "pos": "n",
+    "ipa": "/kɹaɪˈtɪɹiən/",
+    "ipa_us": "/kɹaɪˈtɪɹiən/",
+    "ipa_uk": "/kɹaɪtˈiəɹɪən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-08001-08500.json",
+        "batch_sha256": "f3d918964827d64da1a2dbdd69f88559bf8703bc131ba1b54747e467d06bd734"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07501-08000.json",
+        "batch_sha256": "3245af848a89893f69a921c3a35d4f3e788a4b83b4f9affaf26ab9e4f0d09ae1"
+      }
+    },
+    "meaning_vi": "tiêu chí đánh giá",
+    "definition_en": "a standard used to judge something or make a decision",
+    "examples": [
+      {
+        "en": "Cost is one criterion for selecting a research method.",
+        "vi": "Chi phí là một tiêu chí để lựa chọn phương pháp nghiên cứu.",
+        "source": "original"
+      },
+      {
+        "en": "The committee agreed on each criterion before reviewing applications.",
+        "vi": "Hội đồng thống nhất từng tiêu chí trước khi xét các đơn đăng ký.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "selection criterion",
+        "vi": "tiêu chí lựa chọn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 15849,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "evaluation"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "insight",
+    "lemma": "insight",
+    "pos": "n",
+    "ipa": "/ˈɪnˌsaɪt/",
+    "ipa_us": "/ˈɪnˌsaɪt/",
+    "ipa_uk": "/ˈɪnsaɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhận định sâu sắc; hiểu biết mới",
+    "definition_en": "a clear understanding gained from examining a situation or information",
+    "examples": [
+      {
+        "en": "The interviews offered insight into students' learning habits.",
+        "vi": "Các cuộc phỏng vấn mang lại hiểu biết sâu hơn về thói quen học tập của sinh viên.",
+        "source": "original"
+      },
+      {
+        "en": "Customer feedback gave the team insight into delivery problems.",
+        "vi": "Phản hồi của khách hàng giúp nhóm hiểu sâu hơn về các vấn đề giao hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "valuable insight",
+        "vi": "nhận định có giá trị"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5251,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "implication",
+    "lemma": "implication",
+    "pos": "n",
+    "ipa": "/ˌɪmpɫəˈkeɪʃən/",
+    "ipa_us": "/ˌɪmpɫəˈkeɪʃən/",
+    "ipa_uk": "/ˌɪmplɪkˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "hàm ý; hệ quả có thể xảy ra",
+    "definition_en": "a possible effect or meaning suggested by a finding or decision",
+    "examples": [
+      {
+        "en": "One implication of the study is a need for better training.",
+        "vi": "Một hàm ý của nghiên cứu là cần có chương trình đào tạo tốt hơn.",
+        "source": "original"
+      },
+      {
+        "en": "The director discussed the financial implication of delaying the launch.",
+        "vi": "Giám đốc thảo luận về hệ quả tài chính của việc hoãn ra mắt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "practical implication",
+        "vi": "hàm ý thực tiễn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 13785,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "decision-making"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "academic",
+    "lemma": "academic",
+    "pos": "adj",
+    "ipa": "/ˌækəˈdɛmɪk/",
+    "ipa_us": "/ˌækəˈdɛmɪk/",
+    "ipa_uk": "/ˌækədˈɛmɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "thuộc học thuật; liên quan đến học tập và nghiên cứu",
+    "definition_en": "related to education, study, or scholarly research",
+    "examples": [
+      {
+        "en": "She improved her academic writing through weekly practice.",
+        "vi": "Cô ấy cải thiện kỹ năng viết học thuật nhờ luyện tập hằng tuần.",
+        "source": "original"
+      },
+      {
+        "en": "The university hosted an academic workshop for new lecturers.",
+        "vi": "Trường đại học tổ chức hội thảo học thuật dành cho giảng viên mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "academic writing",
+        "vi": "viết học thuật"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2618,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "education"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "dissertation",
+    "lemma": "dissertation",
+    "pos": "n",
+    "ipa": "/ˌdɪsɝˈteɪʃən/",
+    "ipa_us": "/ˌdɪsɝˈteɪʃən/",
+    "ipa_uk": "/dɪsətˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06001-06500.json",
+        "batch_sha256": "127f17a8cfda9d4b119e9cbff9c32893518e69bb449d6dba898196ccf7e92ab4"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06001-06500.json",
+        "batch_sha256": "1174433b9bec237d84b5952849767e346a23dfba3f6f7e3401c8baf774ba34bc"
+      }
+    },
+    "meaning_vi": "luận án nghiên cứu dài",
+    "definition_en": "an extended research paper submitted for an advanced degree",
+    "examples": [
+      {
+        "en": "Her dissertation examines how local libraries support young readers.",
+        "vi": "Luận án của cô ấy nghiên cứu cách thư viện địa phương hỗ trợ độc giả nhỏ tuổi.",
+        "source": "original"
+      },
+      {
+        "en": "The supervisor reviewed the dissertation before the final submission.",
+        "vi": "Giảng viên hướng dẫn đã xem lại luận án trước khi nộp bản cuối.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "doctoral dissertation",
+        "vi": "luận án tiến sĩ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 11242,
+    "lists": [
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "higher-education"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "thesis",
+    "lemma": "thesis",
+    "pos": "n",
+    "ipa": "/ˈθisəs/",
+    "ipa_us": "/ˈθisəs/",
+    "ipa_uk": "/θˈiːsɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "luận văn; công trình nghiên cứu để lấy bằng",
+    "definition_en": "a research paper submitted as part of a degree",
+    "examples": [
+      {
+        "en": "He defended his thesis on renewable energy policy.",
+        "vi": "Anh ấy bảo vệ luận văn về chính sách năng lượng tái tạo.",
+        "source": "original"
+      },
+      {
+        "en": "The student revised her thesis after receiving feedback.",
+        "vi": "Sinh viên đó chỉnh sửa luận văn sau khi nhận được góp ý.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "master's thesis",
+        "vi": "luận văn thạc sĩ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6663,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "higher-education"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "citation",
+    "lemma": "citation",
+    "pos": "n",
+    "ipa": "/saɪˈteɪʃən/",
+    "ipa_us": "/saɪˈteɪʃən/",
+    "ipa_uk": "/saɪtˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "trích dẫn nguồn tài liệu",
+    "definition_en": "a reference identifying the source of information or ideas",
+    "examples": [
+      {
+        "en": "Every borrowed statistic needs a clear citation.",
+        "vi": "Mỗi số liệu sử dụng từ nguồn khác đều cần trích dẫn rõ ràng.",
+        "source": "original"
+      },
+      {
+        "en": "The editor corrected a missing citation in the report.",
+        "vi": "Biên tập viên bổ sung một trích dẫn còn thiếu trong báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "source citation",
+        "vi": "trích dẫn nguồn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9336,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "writing"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "empirical",
+    "lemma": "empirical",
+    "pos": "adj",
+    "ipa": "/ˌɛmˈpɪɹɪkəɫ/",
+    "ipa_us": "/ˌɛmˈpɪɹɪkəɫ/",
+    "ipa_uk": "/ɛmpˈɪɹɪkəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06501-07000.json",
+        "batch_sha256": "84bdeb7e22118ad64093e1b7d2f746d80ba767be874883409dc235674f6542ff"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "dựa trên quan sát hoặc bằng chứng thực nghiệm",
+    "definition_en": "based on observation or experience rather than theory alone",
+    "examples": [
+      {
+        "en": "The team collected empirical evidence from field visits.",
+        "vi": "Nhóm thu thập bằng chứng thực nghiệm từ các chuyến khảo sát thực địa.",
+        "source": "original"
+      },
+      {
+        "en": "Empirical findings shaped the agency's new training program.",
+        "vi": "Những phát hiện thực nghiệm góp phần định hình chương trình đào tạo mới của cơ quan.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "empirical evidence",
+        "vi": "bằng chứng thực nghiệm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 12633,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "qualitative",
+    "lemma": "qualitative",
+    "pos": "adj",
+    "ipa": "/ˈkwɑɫəˌteɪtɪv/",
+    "ipa_us": "/ˈkwɑɫəˌteɪtɪv/",
+    "ipa_uk": "/kwˈɒlɪtˌeɪtɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-08001-08500.json",
+        "batch_sha256": "f3d918964827d64da1a2dbdd69f88559bf8703bc131ba1b54747e467d06bd734"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07501-08000.json",
+        "batch_sha256": "3245af848a89893f69a921c3a35d4f3e788a4b83b4f9affaf26ab9e4f0d09ae1"
+      }
+    },
+    "meaning_vi": "định tính; liên quan đến đặc điểm và trải nghiệm",
+    "definition_en": "describing qualities or experiences rather than numerical measurements",
+    "examples": [
+      {
+        "en": "Qualitative interviews revealed concerns that the survey missed.",
+        "vi": "Các cuộc phỏng vấn định tính cho thấy những mối lo mà khảo sát chưa ghi nhận.",
+        "source": "original"
+      },
+      {
+        "en": "The researcher summarized qualitative feedback from volunteers.",
+        "vi": "Nhà nghiên cứu tóm tắt phản hồi định tính từ các tình nguyện viên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "qualitative research",
+        "vi": "nghiên cứu định tính"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 16160,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "quantitative",
+    "lemma": "quantitative",
+    "pos": "adj",
+    "ipa": "/ˈkwɑntɪˌteɪtɪv/",
+    "ipa_us": "/ˈkwɑntɪˌteɪtɪv/",
+    "ipa_uk": "/kwˈɒntɪtˌeɪtɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06001-06500.json",
+        "batch_sha256": "127f17a8cfda9d4b119e9cbff9c32893518e69bb449d6dba898196ccf7e92ab4"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "định lượng; thể hiện bằng số liệu",
+    "definition_en": "expressed or analyzed using numerical information",
+    "examples": [
+      {
+        "en": "The report includes quantitative data from five districts.",
+        "vi": "Báo cáo có dữ liệu định lượng từ năm quận.",
+        "source": "original"
+      },
+      {
+        "en": "Quantitative analysis helped the team compare attendance rates.",
+        "vi": "Phân tích định lượng giúp nhóm so sánh tỷ lệ tham dự.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "quantitative data",
+        "vi": "dữ liệu định lượng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 10791,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "correlation",
+    "lemma": "correlation",
+    "pos": "n",
+    "ipa": "/ˌkɔɹəˈɫeɪʃən/",
+    "ipa_us": "/ˌkɔɹəˈɫeɪʃən/",
+    "ipa_uk": "/kˌɒɹɪlˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "mối tương quan",
+    "definition_en": "a statistical relationship between two variables",
+    "examples": [
+      {
+        "en": "The study found a correlation between sleep and concentration.",
+        "vi": "Nghiên cứu tìm thấy mối tương quan giữa giấc ngủ và khả năng tập trung.",
+        "source": "original"
+      },
+      {
+        "en": "A correlation in the data does not prove causation.",
+        "vi": "Một mối tương quan trong dữ liệu không chứng minh được quan hệ nhân quả.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "strong correlation",
+        "vi": "mối tương quan mạnh"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8807,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "statistics"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "synthesis",
+    "lemma": "synthesis",
+    "pos": "n",
+    "ipa": "/ˈsɪnθəsəs/",
+    "ipa_us": "/ˈsɪnθəsəs/",
+    "ipa_uk": "/sˈɪnθəsˌɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "sự tổng hợp thông tin hoặc ý tưởng",
+    "definition_en": "the process of combining information or ideas into a coherent whole",
+    "examples": [
+      {
+        "en": "Her synthesis of previous studies identified three unanswered questions.",
+        "vi": "Bản tổng hợp các nghiên cứu trước của cô ấy chỉ ra ba câu hỏi chưa được giải đáp.",
+        "source": "original"
+      },
+      {
+        "en": "The analyst presented a synthesis of customer interviews.",
+        "vi": "Chuyên viên phân tích trình bày bản tổng hợp các cuộc phỏng vấn khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "research synthesis",
+        "vi": "tổng hợp nghiên cứu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9146,
+    "lists": [
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "accuracy",
+    "lemma": "accuracy",
+    "pos": "n",
+    "ipa": "/ˈækjɝəsi/",
+    "ipa_us": "/ˈækjɝəsi/",
+    "ipa_uk": "/ˈækjʊɹəsi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "độ chính xác",
+    "definition_en": "the degree to which information or measurements are correct",
+    "examples": [
+      {
+        "en": "The team checked the accuracy of the survey responses.",
+        "vi": "Nhóm kiểm tra độ chính xác của các câu trả lời khảo sát.",
+        "source": "original"
+      },
+      {
+        "en": "Regular calibration improved the accuracy of laboratory measurements.",
+        "vi": "Việc hiệu chuẩn định kỳ giúp nâng cao độ chính xác của các phép đo trong phòng thí nghiệm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "measurement accuracy",
+        "vi": "độ chính xác của phép đo"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4757,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic",
+      "research"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "facilitate",
+    "lemma": "facilitate",
+    "pos": "v",
+    "ipa": "/fəˈsɪɫəˌteɪt/",
+    "ipa_us": "/fəˈsɪɫəˌteɪt/",
+    "ipa_uk": "/fəsˈɪlɪtˌeɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "tạo điều kiện; giúp quá trình diễn ra thuận lợi",
+    "definition_en": "to make an activity or process easier to complete",
+    "examples": [
+      {
+        "en": "Clear agendas facilitate productive meetings.",
+        "vi": "Chương trình họp rõ ràng giúp các cuộc họp diễn ra hiệu quả.",
+        "source": "original"
+      },
+      {
+        "en": "The coordinator will facilitate a discussion between the departments.",
+        "vi": "Người điều phối sẽ hỗ trợ cuộc thảo luận giữa các phòng ban.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "facilitate a workshop",
+        "vi": "điều phối một buổi hội thảo"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 7257,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "collaborate",
+    "lemma": "collaborate",
+    "pos": "v",
+    "ipa": "/kəˈɫæbɝˌeɪt/",
+    "ipa_us": "/kəˈɫæbɝˌeɪt/",
+    "ipa_uk": "/kəlˈæbəɹˌeɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "hợp tác",
+    "definition_en": "to work with others toward a shared goal",
+    "examples": [
+      {
+        "en": "Researchers collaborate with local schools to test new materials.",
+        "vi": "Các nhà nghiên cứu hợp tác với trường học địa phương để thử nghiệm tài liệu mới.",
+        "source": "original"
+      },
+      {
+        "en": "Our designers collaborate across departments on major projects.",
+        "vi": "Các nhà thiết kế của chúng tôi hợp tác liên phòng ban trong những dự án lớn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "collaborate with colleagues",
+        "vi": "hợp tác với đồng nghiệp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 14776,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "teamwork"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "applicable",
+    "lemma": "applicable",
+    "pos": "adj",
+    "ipa": "/ˈæpɫəkəbəɫ/",
+    "ipa_us": "/ˈæpɫəkəbəɫ/",
+    "ipa_uk": "/ɐplˈɪkəbəl/",
+    "ipa_provenance": {
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      },
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      }
+    },
+    "meaning_vi": "có thể áp dụng; phù hợp với trường hợp cụ thể",
+    "definition_en": "relevant or suitable for a particular situation or purpose",
+    "examples": [
+      {
+        "en": "This policy is applicable to all remote employees.",
+        "vi": "Chính sách này áp dụng cho tất cả nhân viên làm việc từ xa.",
+        "source": "original"
+      },
+      {
+        "en": "The discount is applicable only to registered community groups.",
+        "vi": "Khoản giảm giá này chỉ áp dụng cho các nhóm cộng đồng đã đăng ký.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "applicable rules",
+        "vi": "các quy định có thể áp dụng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5784,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "policy"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "propose",
+    "lemma": "propose",
+    "pos": "v",
+    "ipa": "/pɹəˈpoʊz/",
+    "ipa_us": "/pɹəˈpoʊz/",
+    "ipa_uk": "/pɹəpˈəʊz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "đề xuất",
+    "definition_en": "to suggest a plan or idea for consideration",
+    "examples": [
+      {
+        "en": "The interns propose a simpler registration process.",
+        "vi": "Các thực tập sinh đề xuất quy trình đăng ký đơn giản hơn.",
+        "source": "original"
+      },
+      {
+        "en": "We will propose a revised budget at the next meeting.",
+        "vi": "Chúng tôi sẽ đề xuất ngân sách điều chỉnh trong cuộc họp tới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "propose a plan",
+        "vi": "đề xuất một kế hoạch"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 7301,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "accountability",
+    "lemma": "accountability",
+    "pos": "n",
+    "ipa": "/əˈkaʊnəbɪɫɪti/",
+    "ipa_us": "/əˈkaʊnəbɪɫɪti/",
+    "ipa_uk": "/ɐkˌaʊntəbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "trách nhiệm giải trình",
+    "definition_en": "the obligation to explain decisions and accept responsibility for results",
+    "examples": [
+      {
+        "en": "Public reports improve accountability in community projects.",
+        "vi": "Các báo cáo công khai tăng cường trách nhiệm giải trình trong dự án cộng đồng.",
+        "source": "original"
+      },
+      {
+        "en": "Clear ownership helps establish accountability within the team.",
+        "vi": "Việc phân định người phụ trách rõ ràng giúp thiết lập trách nhiệm giải trình trong nhóm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "public accountability",
+        "vi": "trách nhiệm giải trình trước công chúng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8147,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "governance"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "transparent",
+    "lemma": "transparent",
+    "pos": "adj",
+    "ipa": "/tɹænˈspɛɹənt/",
+    "ipa_us": "/tɹænˈspɛɹənt/",
+    "ipa_uk": "/tɹænspˈæɹənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "minh bạch; rõ ràng",
+    "definition_en": "open and easy to understand, especially about actions or decisions",
+    "examples": [
+      {
+        "en": "The hiring process should be transparent to every applicant.",
+        "vi": "Quy trình tuyển dụng cần minh bạch với mọi ứng viên.",
+        "source": "original"
+      },
+      {
+        "en": "Our team uses transparent criteria when assigning grants.",
+        "vi": "Nhóm chúng tôi sử dụng tiêu chí minh bạch khi phân bổ tài trợ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "transparent process",
+        "vi": "quy trình minh bạch"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 7104,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "ethics"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "reinforce",
+    "lemma": "reinforce",
+    "pos": "v",
+    "ipa": "/ˌɹiɪnˈfɔɹs/",
+    "ipa_us": "/ˌɹiɪnˈfɔɹs/",
+    "ipa_uk": "/ɹˌiːɪnfˈɔːs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06501-07000.json",
+        "batch_sha256": "84bdeb7e22118ad64093e1b7d2f746d80ba767be874883409dc235674f6542ff"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06001-06500.json",
+        "batch_sha256": "1174433b9bec237d84b5952849767e346a23dfba3f6f7e3401c8baf774ba34bc"
+      }
+    },
+    "meaning_vi": "củng cố; tăng cường",
+    "definition_en": "to make an idea, behavior, or structure stronger",
+    "examples": [
+      {
+        "en": "Short quizzes reinforce key concepts after each lesson.",
+        "vi": "Các bài kiểm tra ngắn giúp củng cố khái niệm chính sau mỗi bài học.",
+        "source": "original"
+      },
+      {
+        "en": "The manager used examples to reinforce the safety guidelines.",
+        "vi": "Người quản lý dùng ví dụ để củng cố các hướng dẫn an toàn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reinforce learning",
+        "vi": "củng cố việc học"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 11636,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "training"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "internship",
+    "lemma": "internship",
+    "pos": "n",
+    "ipa": "/ˈɪntɝnˌʃɪp/",
+    "ipa_us": "/ˈɪntɝnˌʃɪp/",
+    "ipa_uk": "/ɪntˈɜːnʃɪp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "kỳ thực tập",
+    "definition_en": "a temporary period of supervised work intended to provide practical experience",
+    "examples": [
+      {
+        "en": "Her internship included field research and weekly presentations.",
+        "vi": "Kỳ thực tập của cô ấy gồm nghiên cứu thực địa và thuyết trình hằng tuần.",
+        "source": "original"
+      },
+      {
+        "en": "The company offers an internship for final-year students.",
+        "vi": "Công ty cung cấp kỳ thực tập cho sinh viên năm cuối.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "paid internship",
+        "vi": "kỳ thực tập có lương"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 12838,
+    "lists": [
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "career"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "leadership",
+    "lemma": "leadership",
+    "pos": "n",
+    "ipa": "/ˈɫidɝˌʃɪp/",
+    "ipa_us": "/ˈɫidɝˌʃɪp/",
+    "ipa_uk": "/lˈiːdəʃˌɪp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "khả năng lãnh đạo; sự lãnh đạo",
+    "definition_en": "the ability or responsibility to guide a group toward a goal",
+    "examples": [
+      {
+        "en": "Effective leadership kept the volunteers focused during the event.",
+        "vi": "Khả năng lãnh đạo hiệu quả giúp các tình nguyện viên tập trung trong sự kiện.",
+        "source": "original"
+      },
+      {
+        "en": "The program develops leadership skills through group projects.",
+        "vi": "Chương trình phát triển kỹ năng lãnh đạo thông qua các dự án nhóm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "leadership skills",
+        "vi": "kỹ năng lãnh đạo"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1778,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "management"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "motivation",
+    "lemma": "motivation",
+    "pos": "n",
+    "ipa": "/ˌmoʊtəˈveɪʃən/",
+    "ipa_us": "/ˌmoʊtəˈveɪʃən/",
+    "ipa_uk": "/mˌəʊtɪvˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "động lực",
+    "definition_en": "a reason or desire that drives someone to act",
+    "examples": [
+      {
+        "en": "Positive feedback increased the trainees' motivation.",
+        "vi": "Phản hồi tích cực làm tăng động lực của các học viên.",
+        "source": "original"
+      },
+      {
+        "en": "Her motivation for volunteering came from her neighborhood experience.",
+        "vi": "Động lực làm tình nguyện của cô ấy xuất phát từ trải nghiệm tại khu dân cư.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "maintain motivation",
+        "vi": "duy trì động lực"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4989,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "personal-development"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "transparency",
+    "lemma": "transparency",
+    "pos": "n",
+    "ipa": "/tɹænˈspɛɹənsi/",
+    "ipa_us": "/tɹænˈspɛɹənsi/",
+    "ipa_uk": "/tɹænspˈæɹənsi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "sự minh bạch",
+    "definition_en": "openness in sharing information about actions and decisions",
+    "examples": [
+      {
+        "en": "Publishing the budget increased transparency in the organization.",
+        "vi": "Việc công bố ngân sách làm tăng tính minh bạch trong tổ chức.",
+        "source": "original"
+      },
+      {
+        "en": "Employees asked for greater transparency about promotion decisions.",
+        "vi": "Nhân viên đề nghị minh bạch hơn về các quyết định thăng chức.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "financial transparency",
+        "vi": "tính minh bạch tài chính"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8406,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "governance"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "fairness",
+    "lemma": "fairness",
+    "pos": "n",
+    "ipa": "/ˈfɛɹnəs/",
+    "ipa_us": "/ˈfɛɹnəs/",
+    "ipa_uk": "/fˈeənəs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "sự công bằng",
+    "definition_en": "the quality of treating people equally and without bias",
+    "examples": [
+      {
+        "en": "The committee reviewed its rules to ensure fairness.",
+        "vi": "Hội đồng xem xét lại các quy định để bảo đảm sự công bằng.",
+        "source": "original"
+      },
+      {
+        "en": "Staff raised concerns about fairness in shift assignments.",
+        "vi": "Nhân viên bày tỏ lo ngại về tính công bằng trong việc phân ca.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "procedural fairness",
+        "vi": "sự công bằng trong quy trình"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 10083,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "ethics"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "assignment",
+    "lemma": "assignment",
+    "pos": "n",
+    "ipa": "/əˈsaɪnmənt/",
+    "ipa_us": "/əˈsaɪnmənt/",
+    "ipa_uk": "/ɐsˈaɪnmənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhiệm vụ được giao; bài tập",
+    "definition_en": "a piece of work or a task given to someone",
+    "examples": [
+      {
+        "en": "The lecturer posted the assignment on Monday morning.",
+        "vi": "Giảng viên đăng bài tập vào sáng thứ Hai.",
+        "source": "original"
+      },
+      {
+        "en": "My first assignment at work was to update the contact list.",
+        "vi": "Nhiệm vụ đầu tiên của tôi ở cơ quan là cập nhật danh sách liên hệ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "complete an assignment",
+        "vi": "hoàn thành nhiệm vụ được giao"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5316,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "education"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "recruitment",
+    "lemma": "recruitment",
+    "pos": "n",
+    "ipa": "/ɹəˈkɹutmənt/",
+    "ipa_us": "/ɹəˈkɹutmənt/",
+    "ipa_uk": "/ɹɪkɹˈuːtmənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "hoạt động tuyển dụng",
+    "definition_en": "the process of finding and selecting people for jobs or roles",
+    "examples": [
+      {
+        "en": "The department started recruitment for two research assistants.",
+        "vi": "Phòng ban bắt đầu tuyển dụng hai trợ lý nghiên cứu.",
+        "source": "original"
+      },
+      {
+        "en": "Recruitment for the volunteer program closes next week.",
+        "vi": "Việc tuyển tình nguyện viên cho chương trình sẽ kết thúc vào tuần tới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "recruitment process",
+        "vi": "quy trình tuyển dụng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 7206,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "human-resources"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "governance",
+    "lemma": "governance",
+    "pos": "n",
+    "ipa": "/ˈɡəvɝnəns/",
+    "ipa_us": "/ˈɡəvɝnəns/",
+    "ipa_uk": "/ɡˈʌvənəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "cơ chế quản trị; cách điều hành",
+    "definition_en": "the systems and processes used to direct and oversee an organization",
+    "examples": [
+      {
+        "en": "Good governance requires clear rules and regular reporting.",
+        "vi": "Quản trị tốt đòi hỏi các quy định rõ ràng và việc báo cáo định kỳ.",
+        "source": "original"
+      },
+      {
+        "en": "The board reviewed governance practices after the audit.",
+        "vi": "Hội đồng quản trị rà soát các phương thức quản trị sau đợt kiểm toán.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "corporate governance",
+        "vi": "quản trị doanh nghiệp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6172,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "governance"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "evaluation",
+    "lemma": "evaluation",
+    "pos": "n",
+    "ipa": "/iˌvæɫjuˈeɪʃən/",
+    "ipa_us": "/iˌvæɫjuˈeɪʃən/",
+    "ipa_uk": "/ɪvˌæljuːˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự đánh giá",
+    "definition_en": "a systematic judgment of the quality or effectiveness of something",
+    "examples": [
+      {
+        "en": "The evaluation included interviews with service users.",
+        "vi": "Hoạt động đánh giá gồm các cuộc phỏng vấn người sử dụng dịch vụ.",
+        "source": "original"
+      },
+      {
+        "en": "Staff completed an evaluation after the training session.",
+        "vi": "Nhân viên hoàn thành bản đánh giá sau buổi đào tạo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "performance evaluation",
+        "vi": "đánh giá hiệu suất"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5058,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "evaluation"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "advancement",
+    "lemma": "advancement",
+    "pos": "n",
+    "ipa": "/ədˈvænsmənt/",
+    "ipa_us": "/ədˈvænsmənt/",
+    "ipa_uk": "/ɐdvˈænsmənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "sự tiến bộ; cơ hội thăng tiến",
+    "definition_en": "progress toward a higher level, position, or standard",
+    "examples": [
+      {
+        "en": "The scholarship supports the advancement of young researchers.",
+        "vi": "Học bổng hỗ trợ sự phát triển của các nhà nghiên cứu trẻ.",
+        "source": "original"
+      },
+      {
+        "en": "Employees discussed career advancement during their reviews.",
+        "vi": "Nhân viên thảo luận về cơ hội thăng tiến khi được đánh giá định kỳ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "career advancement",
+        "vi": "sự thăng tiến trong nghề nghiệp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 9469,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "career"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "negotiation",
+    "lemma": "negotiation",
+    "pos": "n",
+    "ipa": "/nɪˌɡoʊʃiˈeɪʃən/",
+    "ipa_us": "/nɪˌɡoʊʃiˈeɪʃən/",
+    "ipa_uk": "/nɪɡˈəʊʃɪˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "cuộc thương lượng; quá trình đàm phán",
+    "definition_en": "a discussion aimed at reaching an agreement",
+    "examples": [
+      {
+        "en": "The negotiation continued until both sides accepted the timeline.",
+        "vi": "Cuộc đàm phán tiếp tục cho đến khi hai bên chấp nhận tiến độ.",
+        "source": "original"
+      },
+      {
+        "en": "Good preparation made the salary negotiation less stressful.",
+        "vi": "Sự chuẩn bị kỹ lưỡng giúp cuộc thương lượng lương bớt căng thẳng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contract negotiation",
+        "vi": "đàm phán hợp đồng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 9960,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "collaboration",
+    "lemma": "collaboration",
+    "pos": "n",
+    "ipa": "/kəˌɫæbɝˈeɪʃən/",
+    "ipa_us": "/kəˌɫæbɝˈeɪʃən/",
+    "ipa_uk": "/kəlˌæbəɹˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "sự hợp tác",
+    "definition_en": "the act of working together to achieve a shared objective",
+    "examples": [
+      {
+        "en": "Collaboration between departments reduced repeated work.",
+        "vi": "Sự hợp tác giữa các phòng ban giúp giảm công việc trùng lặp.",
+        "source": "original"
+      },
+      {
+        "en": "The library's collaboration with schools expanded reading programs.",
+        "vi": "Sự hợp tác của thư viện với các trường học giúp mở rộng chương trình đọc sách.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cross-team collaboration",
+        "vi": "hợp tác giữa các nhóm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4452,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "teamwork"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "contribution",
+    "lemma": "contribution",
+    "pos": "n",
+    "ipa": "/ˌkɑntɹəbˈjuʃən/",
+    "ipa_us": "/ˌkɑntɹəbˈjuʃən/",
+    "ipa_uk": "/kˌɒntɹɪbjˈuːʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "sự đóng góp",
+    "definition_en": "something given or done to help achieve a shared result",
+    "examples": [
+      {
+        "en": "Each volunteer made a valuable contribution to the campaign.",
+        "vi": "Mỗi tình nguyện viên đều có đóng góp quý giá cho chiến dịch.",
+        "source": "original"
+      },
+      {
+        "en": "The report recognizes her contribution to the research project.",
+        "vi": "Báo cáo ghi nhận đóng góp của cô ấy cho dự án nghiên cứu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "make a contribution",
+        "vi": "đóng góp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4028,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "workplace",
+      "teamwork"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "diversity",
+    "lemma": "diversity",
+    "pos": "n",
+    "ipa": "/daɪˈvɝsɪti/",
+    "ipa_us": "/daɪˈvɝsɪti/",
+    "ipa_uk": "/daɪvˈɜːsɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "sự đa dạng",
+    "definition_en": "the presence of different backgrounds, experiences, or characteristics within a group",
+    "examples": [
+      {
+        "en": "The festival celebrates the cultural diversity of the city.",
+        "vi": "Lễ hội tôn vinh sự đa dạng văn hóa của thành phố.",
+        "source": "original"
+      },
+      {
+        "en": "The association values diversity in its leadership team.",
+        "vi": "Hiệp hội coi trọng sự đa dạng trong đội ngũ lãnh đạo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cultural diversity",
+        "vi": "sự đa dạng văn hóa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4171,
+    "lists": [
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "inclusion"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "inclusion",
+    "lemma": "inclusion",
+    "pos": "n",
+    "ipa": "/ˌɪnˈkɫuʒən/",
+    "ipa_us": "/ˌɪnˈkɫuʒən/",
+    "ipa_uk": "/ɪnklˈuːʒən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "sự hòa nhập; việc tạo cơ hội tham gia cho mọi người",
+    "definition_en": "the practice of ensuring everyone can participate and feel welcome",
+    "examples": [
+      {
+        "en": "The school introduced new policies to promote inclusion.",
+        "vi": "Trường học đưa ra các chính sách mới nhằm thúc đẩy sự hòa nhập.",
+        "source": "original"
+      },
+      {
+        "en": "Community leaders discussed inclusion at the public forum.",
+        "vi": "Các lãnh đạo cộng đồng thảo luận về sự hòa nhập tại diễn đàn công khai.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "social inclusion",
+        "vi": "sự hòa nhập xã hội"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6951,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "inclusion"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "resilience",
+    "lemma": "resilience",
+    "pos": "n",
+    "ipa": "/ɹɪˈzɪɫiəns/",
+    "ipa_us": "/ɹɪˈzɪɫiəns/",
+    "ipa_uk": "/ɹɪsˈɪliəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "khả năng phục hồi; sức chống chịu",
+    "definition_en": "the ability to recover after difficulties or changes",
+    "examples": [
+      {
+        "en": "Local businesses showed resilience after the flood.",
+        "vi": "Các doanh nghiệp địa phương cho thấy khả năng phục hồi sau trận lụt.",
+        "source": "original"
+      },
+      {
+        "en": "The workshop teaches resilience through practical coping skills.",
+        "vi": "Buổi hội thảo dạy khả năng thích ứng và phục hồi thông qua kỹ năng ứng phó thực tế.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "community resilience",
+        "vi": "khả năng phục hồi của cộng đồng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 13456,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "wellbeing"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "grant",
+    "lemma": "grant",
+    "pos": "n",
+    "ipa": "/ˈɡɹænt/",
+    "ipa_us": "/ˈɡɹænt/",
+    "ipa_uk": "/ɡɹˈɑːnt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "khoản tài trợ",
+    "definition_en": "money provided to support a project or organization",
+    "examples": [
+      {
+        "en": "The youth center received a grant for new equipment.",
+        "vi": "Trung tâm thanh thiếu niên nhận được một khoản tài trợ để mua thiết bị mới.",
+        "source": "original"
+      },
+      {
+        "en": "Our grant will fund free weekend classes.",
+        "vi": "Khoản tài trợ của chúng tôi sẽ chi trả cho các lớp học cuối tuần miễn phí.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "apply for a grant",
+        "vi": "nộp đơn xin tài trợ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2171,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "funding"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "conflict",
+    "lemma": "conflict",
+    "pos": "n",
+    "ipa": "/ˈkɑnfɫɪkt/",
+    "ipa_us": "/ˈkɑnfɫɪkt/",
+    "ipa_uk": "/ˈkɒnflɪkt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "xung đột; bất đồng",
+    "definition_en": "a serious disagreement between people or groups",
+    "examples": [
+      {
+        "en": "A conflict arose over the use of the shared hall.",
+        "vi": "Một cuộc xung đột nảy sinh về việc sử dụng hội trường chung.",
+        "source": "original"
+      },
+      {
+        "en": "The mediator helped resolve the conflict between residents.",
+        "vi": "Người hòa giải giúp giải quyết mâu thuẫn giữa các cư dân.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "resolve a conflict",
+        "vi": "giải quyết xung đột"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2299,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "mediation"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "participation",
+    "lemma": "participation",
+    "pos": "n",
+    "ipa": "/pɑɹˌtɪsəˈpeɪʃən/",
+    "ipa_us": "/pɑɹˌtɪsəˈpeɪʃən/",
+    "ipa_uk": "/pɑːtˈɪsɪpˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "sự tham gia",
+    "definition_en": "the act of taking part in an activity or decision",
+    "examples": [
+      {
+        "en": "Participation increased after the meeting moved online.",
+        "vi": "Mức độ tham gia tăng sau khi cuộc họp chuyển sang trực tuyến.",
+        "source": "original"
+      },
+      {
+        "en": "The council encouraged participation in neighborhood planning.",
+        "vi": "Hội đồng khuyến khích người dân tham gia quy hoạch khu dân cư.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "public participation",
+        "vi": "sự tham gia của công chúng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4121,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "civic-life"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "accessibility",
+    "lemma": "accessibility",
+    "pos": "n",
+    "ipa": "/ˌæksɛsəˈbɪɫɪti/",
+    "ipa_us": "/ˌæksɛsəˈbɪɫɪti/",
+    "ipa_uk": "/ɐksˌɛsəbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "khả năng tiếp cận; mức độ dễ sử dụng cho mọi người",
+    "definition_en": "the quality of being easy to reach or use, including for people with disabilities",
+    "examples": [
+      {
+        "en": "The library improved accessibility by adding ramps.",
+        "vi": "Thư viện cải thiện khả năng tiếp cận bằng cách lắp thêm đường dốc.",
+        "source": "original"
+      },
+      {
+        "en": "Residents assessed the accessibility of local bus stops.",
+        "vi": "Cư dân đánh giá khả năng tiếp cận các điểm dừng xe buýt trong khu vực.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "physical accessibility",
+        "vi": "khả năng tiếp cận về mặt vật lý"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 14739,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "public-services"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "civic",
+    "lemma": "civic",
+    "pos": "adj",
+    "ipa": "/ˈsɪvɪk/",
+    "ipa_us": "/ˈsɪvɪk/",
+    "ipa_uk": "/sˈɪvɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "thuộc công dân; thuộc đời sống cộng đồng",
+    "definition_en": "related to citizens and their duties or public life",
+    "examples": [
+      {
+        "en": "Students learned about civic responsibilities during the workshop.",
+        "vi": "Học sinh tìm hiểu trách nhiệm công dân trong buổi hội thảo.",
+        "source": "original"
+      },
+      {
+        "en": "The mayor thanked residents for their civic engagement.",
+        "vi": "Thị trưởng cảm ơn cư dân vì đã tích cực tham gia hoạt động cộng đồng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "civic engagement",
+        "vi": "sự tham gia hoạt động công dân"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 7138,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "civic-life"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "mobility",
+    "lemma": "mobility",
+    "pos": "n",
+    "ipa": "/moʊˈbɪɫəti/",
+    "ipa_us": "/moʊˈbɪɫəti/",
+    "ipa_uk": "/məʊbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "khả năng di chuyển; sự lưu động",
+    "definition_en": "the ability to move easily from place to place",
+    "examples": [
+      {
+        "en": "Better bus routes improved mobility for older residents.",
+        "vi": "Các tuyến xe buýt tốt hơn giúp người cao tuổi đi lại dễ dàng hơn.",
+        "source": "original"
+      },
+      {
+        "en": "The project studies mobility in rural communities.",
+        "vi": "Dự án nghiên cứu khả năng di chuyển tại các cộng đồng nông thôn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "urban mobility",
+        "vi": "khả năng di chuyển trong đô thị"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6621,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "transport"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "barrier",
+    "lemma": "barrier",
+    "pos": "n",
+    "ipa": "/ˈbæɹiɝ/",
+    "ipa_us": "/ˈbæɹiɝ/",
+    "ipa_uk": "/bˈæɹɪɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "rào cản; trở ngại",
+    "definition_en": "something that prevents or makes progress or access difficult",
+    "examples": [
+      {
+        "en": "High transport costs create a barrier to education.",
+        "vi": "Chi phí đi lại cao tạo ra rào cản tiếp cận giáo dục.",
+        "source": "original"
+      },
+      {
+        "en": "The team removed a language barrier by providing translations.",
+        "vi": "Nhóm xóa bỏ rào cản ngôn ngữ bằng cách cung cấp bản dịch.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "language barrier",
+        "vi": "rào cản ngôn ngữ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5601,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "access"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "equality",
+    "lemma": "equality",
+    "pos": "n",
+    "ipa": "/ɪˈkwɑɫəti/",
+    "ipa_us": "/ɪˈkwɑɫəti/",
+    "ipa_uk": "/iːkwˈɒlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "sự bình đẳng",
+    "definition_en": "the state of having equal rights, status, or opportunities",
+    "examples": [
+      {
+        "en": "The campaign promotes equality in access to education.",
+        "vi": "Chiến dịch thúc đẩy sự bình đẳng trong tiếp cận giáo dục.",
+        "source": "original"
+      },
+      {
+        "en": "Community groups discussed equality in public services.",
+        "vi": "Các nhóm cộng đồng thảo luận về sự bình đẳng trong dịch vụ công.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "gender equality",
+        "vi": "bình đẳng giới"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4618,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "inclusion"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "cultural",
+    "lemma": "cultural",
+    "pos": "adj",
+    "ipa": "/ˈkəɫtʃɝəɫ/",
+    "ipa_us": "/ˈkəɫtʃɝəɫ/",
+    "ipa_uk": "/kˈʌltʃəɹəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "thuộc văn hóa",
+    "definition_en": "relating to the customs, beliefs, and arts of a group",
+    "examples": [
+      {
+        "en": "The museum organized a cultural exchange for local families.",
+        "vi": "Bảo tàng tổ chức hoạt động giao lưu văn hóa cho các gia đình địa phương.",
+        "source": "original"
+      },
+      {
+        "en": "Staff received cultural training before working abroad.",
+        "vi": "Nhân viên được tập huấn về văn hóa trước khi làm việc ở nước ngoài.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cultural heritage",
+        "vi": "di sản văn hóa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1833,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "culture"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "sustainability",
+    "lemma": "sustainability",
+    "pos": "n",
+    "ipa": "/səˌsteɪnəˈbɪɫɪti/",
+    "ipa_us": "/səˌsteɪnəˈbɪɫɪti/",
+    "ipa_uk": "/səstˌeɪnəbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "tính bền vững",
+    "definition_en": "the ability to continue activities without exhausting environmental or other resources",
+    "examples": [
+      {
+        "en": "The council made sustainability a priority in city planning.",
+        "vi": "Hội đồng coi tính bền vững là ưu tiên trong quy hoạch thành phố.",
+        "source": "original"
+      },
+      {
+        "en": "The charity assessed the sustainability of its food program.",
+        "vi": "Tổ chức từ thiện đánh giá tính bền vững của chương trình hỗ trợ thực phẩm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "environmental sustainability",
+        "vi": "tính bền vững môi trường"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 10177,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "environment"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "empathy",
+    "lemma": "empathy",
+    "pos": "n",
+    "ipa": "/ˈɛmpəθi/",
+    "ipa_us": "/ˈɛmpəθi/",
+    "ipa_uk": "/ˈɛmpəθi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06001-06500.json",
+        "batch_sha256": "127f17a8cfda9d4b119e9cbff9c32893518e69bb449d6dba898196ccf7e92ab4"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "sự đồng cảm",
+    "definition_en": "the ability to understand and share another person's feelings",
+    "examples": [
+      {
+        "en": "Listening with empathy helped the volunteers build trust.",
+        "vi": "Lắng nghe bằng sự đồng cảm giúp các tình nguyện viên xây dựng niềm tin.",
+        "source": "original"
+      },
+      {
+        "en": "Teachers use empathy when supporting students under stress.",
+        "vi": "Giáo viên thể hiện sự đồng cảm khi hỗ trợ học sinh đang căng thẳng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "show empathy",
+        "vi": "thể hiện sự đồng cảm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 10886,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "wellbeing"
+    ],
+    "source": "original",
+    "reviewed": false
+  },
+  {
+    "word": "concern",
+    "lemma": "concern",
+    "pos": "n",
+    "ipa": "/kənˈsɝn/",
+    "ipa_us": "/kənˈsɝn/",
+    "ipa_uk": "/kənsˈɜːn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "mối lo ngại; điều đáng quan tâm",
+    "definition_en": "a matter that causes worry or deserves attention",
+    "examples": [
+      {
+        "en": "Road safety is a major concern for parents.",
+        "vi": "An toàn đường bộ là mối lo lớn của các bậc phụ huynh.",
+        "source": "original"
+      },
+      {
+        "en": "Residents raised a concern about noise near the clinic.",
+        "vi": "Cư dân nêu lên mối lo ngại về tiếng ồn gần phòng khám.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "raise a concern",
+        "vi": "nêu lên mối quan ngại"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2209,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "community",
+      "public-services"
+    ],
+    "source": "original",
+    "reviewed": false
+  }
+]

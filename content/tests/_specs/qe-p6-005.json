@@ -1,0 +1,201 @@
+{
+  "slug": "qe-p6-005",
+  "content_path": "content/tests/toeic_part/qe-p6-005.json",
+  "title": "TOEIC Part 6 – Text Completion 05 (Projects, Logistics, and Client Communication)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "authoring_scope": "Four original texts, four blanks per text, one sentence insertion per text; questions numbered 1–16.",
+  "difficulty_rationale_vi": "Các văn bản tập trung vào dự án, vận hành kho, báo cáo thử nghiệm và giao tiếp với khách hàng. Câu mức 3 đòi hỏi lựa chọn theo ngữ cảnh, còn câu chèn mức 4 cần theo dõi quan hệ nguyên nhân hoặc quy trình.",
+  "topic_distribution": {
+    "word-form": 3,
+    "sentence-insertion": 4,
+    "verb-form": 4,
+    "connector": 2,
+    "indirect-question": 1,
+    "collocation": 1,
+    "preposition": 1
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "email: support dashboard update",
+      "difficulty": 3
+    },
+    {
+      "number": 2,
+      "group_order": 1,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "email: support dashboard update",
+      "difficulty": 4
+    },
+    {
+      "number": 3,
+      "group_order": 1,
+      "part": 6,
+      "category": "verb-form",
+      "context": "email: support dashboard update",
+      "difficulty": 3
+    },
+    {
+      "number": 4,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "email: support dashboard update",
+      "difficulty": 3
+    },
+    {
+      "number": 5,
+      "group_order": 2,
+      "part": 6,
+      "category": "verb-form",
+      "context": "notice: annual warehouse inventory",
+      "difficulty": 3
+    },
+    {
+      "number": 6,
+      "group_order": 2,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "notice: annual warehouse inventory",
+      "difficulty": 4
+    },
+    {
+      "number": 7,
+      "group_order": 2,
+      "part": 6,
+      "category": "verb-form",
+      "context": "notice: annual warehouse inventory",
+      "difficulty": 3
+    },
+    {
+      "number": 8,
+      "group_order": 2,
+      "part": 6,
+      "category": "connector",
+      "context": "notice: annual warehouse inventory",
+      "difficulty": 3
+    },
+    {
+      "number": 9,
+      "group_order": 3,
+      "part": 6,
+      "category": "word-form",
+      "context": "article: hotel rooftop garden",
+      "difficulty": 3
+    },
+    {
+      "number": 10,
+      "group_order": 3,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "article: hotel rooftop garden",
+      "difficulty": 4
+    },
+    {
+      "number": 11,
+      "group_order": 3,
+      "part": 6,
+      "category": "verb-form",
+      "context": "article: hotel rooftop garden",
+      "difficulty": 3
+    },
+    {
+      "number": 12,
+      "group_order": 3,
+      "part": 6,
+      "category": "indirect-question",
+      "context": "article: hotel rooftop garden",
+      "difficulty": 3
+    },
+    {
+      "number": 13,
+      "group_order": 4,
+      "part": 6,
+      "category": "connector",
+      "context": "client letter: survey findings presentation",
+      "difficulty": 3
+    },
+    {
+      "number": 14,
+      "group_order": 4,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "client letter: survey findings presentation",
+      "difficulty": 4
+    },
+    {
+      "number": 15,
+      "group_order": 4,
+      "part": 6,
+      "category": "collocation",
+      "context": "client letter: survey findings presentation",
+      "difficulty": 3
+    },
+    {
+      "number": 16,
+      "group_order": 4,
+      "part": 6,
+      "category": "preposition",
+      "context": "client letter: survey findings presentation",
+      "difficulty": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 4,
+      "B": 4,
+      "C": 4,
+      "D": 4
+    },
+    "sequence": [
+      "B",
+      "C",
+      "D",
+      "A",
+      "C",
+      "A",
+      "B",
+      "D",
+      "D",
+      "B",
+      "A",
+      "C",
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 2
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, đoạn văn tiếng Anh và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

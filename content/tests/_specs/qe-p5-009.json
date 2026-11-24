@@ -1,0 +1,381 @@
+{
+  "slug": "qe-p5-009",
+  "content_path": "content/tests/toeic_part/qe-p5-009.json",
+  "title": "TOEIC Part 5 – Incomplete Sentences 09 (Workplace, Hospitality, and Logistics)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 20,
+  "total_questions": 40,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part5",
+      "title": "Part 5 – Incomplete Sentences",
+      "parts": [
+        5
+      ],
+      "count": 40,
+      "minutes": 20
+    }
+  ],
+  "authoring_scope": "Forty original incomplete sentences, one question per group; questions numbered 1–40.",
+  "difficulty_rationale_vi": "Đề B2 tập trung tình huống nơi làm việc, khách sạn và logistics, kiểm tra từ loại, giới từ, liên từ, dạng động từ, collocation và từ vựng nghề nghiệp với một đáp án rõ ràng.",
+  "topic_distribution": {
+    "word-form": 8,
+    "preposition": 4,
+    "tense": 2,
+    "vocabulary": 5,
+    "connector": 5,
+    "pronoun": 2,
+    "collocation": 4,
+    "relative-clause": 3,
+    "verb-form": 4,
+    "determiner": 1,
+    "subject-verb-agreement": 1,
+    "undefined": 1
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 2,
+      "group_order": 2,
+      "part": 5,
+      "category": "preposition",
+      "difficulty": 3
+    },
+    {
+      "number": 3,
+      "group_order": 3,
+      "part": 5,
+      "category": "tense",
+      "difficulty": 3
+    },
+    {
+      "number": 4,
+      "group_order": 4,
+      "part": 5,
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "number": 5,
+      "group_order": 5,
+      "part": 5,
+      "category": "connector",
+      "difficulty": 3
+    },
+    {
+      "number": 6,
+      "group_order": 6,
+      "part": 5,
+      "category": "pronoun",
+      "difficulty": 3
+    },
+    {
+      "number": 7,
+      "group_order": 7,
+      "part": 5,
+      "category": "collocation",
+      "difficulty": 3
+    },
+    {
+      "number": 8,
+      "group_order": 8,
+      "part": 5,
+      "category": "relative-clause",
+      "difficulty": 3
+    },
+    {
+      "number": 9,
+      "group_order": 9,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 10,
+      "group_order": 10,
+      "part": 5,
+      "category": "verb-form",
+      "difficulty": 3
+    },
+    {
+      "number": 11,
+      "group_order": 11,
+      "part": 5,
+      "category": "connector",
+      "difficulty": 3
+    },
+    {
+      "number": 12,
+      "group_order": 12,
+      "part": 5,
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "number": 13,
+      "group_order": 13,
+      "part": 5,
+      "category": "preposition",
+      "difficulty": 3
+    },
+    {
+      "number": 14,
+      "group_order": 14,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 15,
+      "group_order": 15,
+      "part": 5,
+      "category": "tense",
+      "difficulty": 3
+    },
+    {
+      "number": 16,
+      "group_order": 16,
+      "part": 5,
+      "category": "collocation",
+      "difficulty": 3
+    },
+    {
+      "number": 17,
+      "group_order": 17,
+      "part": 5,
+      "category": "connector",
+      "difficulty": 3
+    },
+    {
+      "number": 18,
+      "group_order": 18,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 19,
+      "group_order": 19,
+      "part": 5,
+      "category": "verb-form",
+      "difficulty": 3
+    },
+    {
+      "number": 20,
+      "group_order": 20,
+      "part": 5,
+      "category": "relative-clause",
+      "difficulty": 3
+    },
+    {
+      "number": 21,
+      "group_order": 21,
+      "part": 5,
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "number": 22,
+      "group_order": 22,
+      "part": 5,
+      "category": "preposition",
+      "difficulty": 3
+    },
+    {
+      "number": 23,
+      "group_order": 23,
+      "part": 5,
+      "category": "determiner",
+      "difficulty": 3
+    },
+    {
+      "number": 24,
+      "group_order": 24,
+      "part": 5,
+      "category": "collocation",
+      "difficulty": 3
+    },
+    {
+      "number": 25,
+      "group_order": 25,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 26,
+      "group_order": 26,
+      "part": 5,
+      "category": "verb-form",
+      "difficulty": 3
+    },
+    {
+      "number": 27,
+      "group_order": 27,
+      "part": 5,
+      "category": "connector",
+      "difficulty": 3
+    },
+    {
+      "number": 28,
+      "group_order": 28,
+      "part": 5,
+      "category": "relative-clause",
+      "difficulty": 3
+    },
+    {
+      "number": 29,
+      "group_order": 29,
+      "part": 5,
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "number": 30,
+      "group_order": 30,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 31,
+      "group_order": 31,
+      "part": 5,
+      "category": "preposition",
+      "difficulty": 3
+    },
+    {
+      "number": 32,
+      "group_order": 32,
+      "part": 5,
+      "category": "subject-verb-agreement",
+      "difficulty": 3
+    },
+    {
+      "number": 33,
+      "group_order": 33,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 34,
+      "group_order": 34,
+      "part": 5,
+      "category": "verb-form",
+      "difficulty": 3
+    },
+    {
+      "number": 35,
+      "group_order": 35,
+      "part": 5,
+      "difficulty": 3
+    },
+    {
+      "number": 36,
+      "group_order": 36,
+      "part": 5,
+      "category": "word-form",
+      "difficulty": 3
+    },
+    {
+      "number": 37,
+      "group_order": 37,
+      "part": 5,
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "number": 38,
+      "group_order": 38,
+      "part": 5,
+      "category": "collocation",
+      "difficulty": 3
+    },
+    {
+      "number": 39,
+      "group_order": 39,
+      "part": 5,
+      "category": "pronoun",
+      "difficulty": 3
+    },
+    {
+      "number": 40,
+      "group_order": 40,
+      "part": 5,
+      "category": "connector",
+      "difficulty": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 10
+    },
+    "sequence": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "B",
+      "D",
+      "A",
+      "C",
+      "C",
+      "A",
+      "D",
+      "B",
+      "D",
+      "C",
+      "B",
+      "A",
+      "A",
+      "C",
+      "B",
+      "D",
+      "B",
+      "A",
+      "D",
+      "C",
+      "C",
+      "D",
+      "A",
+      "B",
+      "D",
+      "B",
+      "C",
+      "A",
+      "A",
+      "D",
+      "C",
+      "B",
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu tiếng Anh và các phương án cho người giải độc lập. Giữ riêng đáp án, lời giải, bản dịch và file đặc tả."
+  }
+}

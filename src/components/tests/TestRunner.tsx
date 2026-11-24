@@ -7,7 +7,7 @@ import {
   ArrowLeft, ChevronLeft, ChevronRight, Clock, FileText, Flag, Grid3x3, Image as ImageIcon, Languages, Play, Send,
 } from "lucide-react";
 import type { Question, QuestionGroup, Test } from "@/lib/types";
-import { isListeningPart, PARTS } from "@/lib/toeic";
+import { getTestPartLabel, isListeningPart, isToeicListeningReading } from "@/lib/toeic";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { cn, formatDuration } from "@/lib/utils";
 import { stopSpeaking } from "@/lib/tts";
@@ -35,6 +35,7 @@ export function TestRunner({
   reviewAttemptId?: string;
 }) {
   const router = useRouter();
+  const toeic = isToeicListeningReading(test);
   const questions = useMemo(() => groups.flatMap((g) => g.questions), [groups]);
   const [phase, setPhase] = useState<Phase>(reviewAttemptId ? "review" : "intro");
   const [answers, setAnswers] = useState<Record<string, string>>({});
@@ -84,7 +85,7 @@ export function TestRunner({
   const submit = useCallback(async () => {
     stopSpeaking();
     setSaving(true);
-    const r = computeResult(questions, answersRef.current, parts);
+    const r = computeResult(questions, answersRef.current, parts, toeic);
     const sb = supabaseBrowser();
     const { data: u } = await sb.auth.getUser();
     if (u.user) {
@@ -110,7 +111,7 @@ export function TestRunner({
     setSaving(false);
     setPhase("result");
     window.scrollTo(0, 0);
-  }, [questions, parts, elapsed, attemptId, test.id, mode]);
+  }, [questions, parts, elapsed, attemptId, test.id, mode, toeic]);
 
   // Auto-submit at time limit
   useEffect(() => {
@@ -211,10 +212,10 @@ export function TestRunner({
               <Stat label="Thời gian" value={limit ? `${timeLimitMinutes} phút` : "Không giới hạn"} />
             </div>
             <div className="mt-3 flex flex-wrap justify-center gap-1.5">
-              {parts.map((p) => <span key={p} className="chip">Part {p}</span>)}
+              {parts.map((p) => <span key={p} className="chip">{getTestPartLabel(test, p)}</span>)}
             </div>
             <button className="btn btn-primary mt-6 !px-8" onClick={start}><Play className="h-4 w-4" />Bắt đầu</button>
-            <p className="mt-4 text-xs text-slate-400">Audio được đọc bằng giọng đọc của trình duyệt. Hãy bật loa hoặc tai nghe.</p>
+            {toeic && parts.some(isListeningPart) && <p className="mt-4 text-xs text-slate-400">Hãy bật loa hoặc tai nghe để làm phần nghe.</p>}
           </div>
         </div>
       </div>
@@ -240,8 +241,9 @@ export function TestRunner({
     );
   }
 
-  const isL = isListeningPart(group.part);
-  const hasLeft = isL || group.part >= 6 || Boolean(group.passage);
+  const isL = toeic ? isListeningPart(group.part) : Boolean(group.transcript || group.audio_url);
+  const hasLeft = isL || Boolean(group.passage);
+  const partLabel = getTestPartLabel(test, group.part);
   const answeredCount = questions.filter((q) => answers[q.id]).length;
 
   return (
@@ -282,12 +284,12 @@ export function TestRunner({
           {hasLeft && (
             <div className="min-h-0 overflow-y-auto border-r border-slate-200 bg-brand-50/40 p-4">
               <div className="mb-2 text-xs font-bold uppercase tracking-wider text-brand-700">
-                {PARTS[group.part - 1].name} · {PARTS[group.part - 1].title}
+                {partLabel}
               </div>
               {isL && (
                 <AudioBar key={group.id} transcript={group.transcript} audioUrl={group.audio_url} autoPlay={mode === "exam" && !reviewing} />
               )}
-              {group.part === 1 && <PhotoCard group={group} />}
+              {toeic && group.part === 1 && <PhotoCard group={group} />}
               {group.passage && (
                 <div className="card mt-4 p-5">
                   <Markdown className="prose-sm">{group.passage}</Markdown>
@@ -308,7 +310,7 @@ export function TestRunner({
             </div>
           )}
           <div className="min-h-0 overflow-y-auto p-4">
-            {!hasLeft && <div className="mb-2 text-xs font-bold uppercase tracking-wider text-brand-700">{PARTS[group.part - 1].name} · {PARTS[group.part - 1].title}</div>}
+            {!hasLeft && <div className="mb-2 text-xs font-bold uppercase tracking-wider text-brand-700">{partLabel}</div>}
             <div className="mx-auto max-w-3xl space-y-4">
               {group.questions.map((q, qi) => (
                 <QuestionCard
@@ -317,7 +319,7 @@ export function TestRunner({
                   active={qi === activeQ}
                   selected={answers[q.id]}
                   revealed={revealed.has(q.id)}
-                  hideOptionText={(q.part === 1 || q.part === 2) && !revealed.has(q.id)}
+                  hideOptionText={toeic && (q.part === 1 || q.part === 2) && !revealed.has(q.id)}
                   flagged={flagged.has(q.id)}
                   showVi={showVi}
                   onFocus={() => setActiveQ(qi)}
@@ -344,7 +346,7 @@ export function TestRunner({
               if (!qs.length) return null;
               return (
                 <div key={p} className="mb-4">
-                  <div className="mb-1.5 text-xs font-semibold text-slate-500">Part {p}</div>
+                  <div className="mb-1.5 text-xs font-semibold text-slate-500">{getTestPartLabel(test, p)}</div>
                   <div className="grid grid-cols-6 gap-1.5">
                     {qs.map((q) => {
                       const g = groups.findIndex((x) => x.id === q.group_id);

@@ -1,0 +1,304 @@
+[
+  {
+    "slug": "endings-s-es-s-z",
+    "symbol": "/s/ ~ /z/",
+    "kind": "consonant",
+    "title": "Đuôi -s/-es đọc /s/ hoặc /z/",
+    "description_md": "**Chọn theo âm cuối của từ gốc.** Sau /p, t, k, f, θ/, đuôi đọc /s/. Sau nguyên âm hoặc phụ âm hữu thanh không thuộc nhóm âm xuýt, đuôi đọc /z/. Chẳng hạn, *cup* kết thúc bằng /p/ nên *cups* có /s/. *Play* kết thúc bằng /eɪ/ nên *plays* có /z/. Cả hai cách đọc giữ nguyên số âm tiết. Quy tắc áp dụng cho đuôi số nhiều và động từ ngôi thứ ba số ít theo mẫu thông thường.\n\n**Tự kiểm.** Phân loại từ đích trước khi đọc. Đáp án là *cups* và *plates* → /s/, *keys* và *plays* → /z/. Với /z/, giữ tiếng rung nhẹ trong lúc đẩy hơi qua khe hẹp.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "cups",
+        "ipa": "/kʌps/",
+        "source": "original"
+      },
+      {
+        "word": "plates",
+        "ipa": "/pleɪts/",
+        "source": "original"
+      },
+      {
+        "word": "books",
+        "ipa": "/bʊks/",
+        "source": "original"
+      },
+      {
+        "word": "laughs",
+        "ipa": "/lɑːfs/",
+        "source": "original"
+      },
+      {
+        "word": "months",
+        "ipa": "/mʌnθs/",
+        "source": "original"
+      },
+      {
+        "word": "keys",
+        "ipa": "/kiːz/",
+        "source": "original"
+      },
+      {
+        "word": "plays",
+        "ipa": "/pleɪz/",
+        "source": "original"
+      },
+      {
+        "word": "pens",
+        "ipa": "/penz/",
+        "source": "original"
+      },
+      {
+        "word": "bags",
+        "ipa": "/bæɡz/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "ice",
+        "b": "eyes",
+        "ipa_a": "/aɪs/",
+        "ipa_b": "/aɪz/",
+        "source": "original"
+      },
+      {
+        "a": "race",
+        "b": "rays",
+        "ipa_a": "/reɪs/",
+        "ipa_b": "/reɪz/",
+        "source": "original"
+      },
+      {
+        "a": "pace",
+        "b": "pays",
+        "ipa_a": "/peɪs/",
+        "ipa_b": "/peɪz/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "Put the cups beside the plates.",
+        "vi": "Đặt cốc cạnh đĩa nhé.",
+        "source": "original"
+      },
+      {
+        "en": "The keys are in the top drawer.",
+        "vi": "Chìa khóa nằm trong ngăn kéo trên cùng.",
+        "source": "original"
+      },
+      {
+        "en": "My neighbour plays the piano on Sundays.",
+        "vi": "Hàng xóm của tôi chơi dương cầm vào Chủ nhật.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 67,
+    "source": "original"
+  },
+  {
+    "slug": "endings-s-es-iz",
+    "symbol": "/ɪz/",
+    "kind": "consonant",
+    "title": "Đuôi -s/-es đọc /ɪz/",
+    "description_md": "**Chọn theo âm cuối của từ gốc.** Sau /s, z, ʃ, ʒ, tʃ, dʒ/, đuôi đọc /ɪz/ trong mẫu của bài này và tạo thêm một âm tiết. *Box* tuy viết bằng x, nhưng kết thúc bằng cụm /ks/, nên *boxes* có /ɪz/. Trong một số giọng hoặc cách phiên âm, nguyên âm yếu của đuôi có thể là [ə].\n\n**Tự kiểm.** Đọc *box → boxes*, *brush → brushes*, *watch → watches* rồi đếm âm tiết. Trong các câu, giữ nguyên âm /ɪ/ ngắn và đọc rõ /z/ cuối.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "buses",
+        "ipa": "/ˈbʌsɪz/",
+        "source": "original"
+      },
+      {
+        "word": "prizes",
+        "ipa": "/ˈpraɪzɪz/",
+        "source": "original"
+      },
+      {
+        "word": "brushes",
+        "ipa": "/ˈbrʌʃɪz/",
+        "source": "original"
+      },
+      {
+        "word": "garages",
+        "ipa": "/ˈɡærɑːʒɪz/",
+        "source": "original"
+      },
+      {
+        "word": "watches",
+        "ipa": "/ˈwɒtʃɪz/",
+        "source": "original"
+      },
+      {
+        "word": "bridges",
+        "ipa": "/ˈbrɪdʒɪz/",
+        "source": "original"
+      },
+      {
+        "word": "boxes",
+        "ipa": "/ˈbɒksɪz/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The boxes are beside the door.",
+        "vi": "Những chiếc hộp ở cạnh cửa.",
+        "source": "original"
+      },
+      {
+        "en": "Put the brushes in warm water.",
+        "vi": "Hãy ngâm cọ vào nước ấm.",
+        "source": "original"
+      },
+      {
+        "en": "She watches the birds from her desk.",
+        "vi": "Cô ấy ngắm chim từ chỗ ngồi làm việc.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 68,
+    "source": "original"
+  },
+  {
+    "slug": "endings-ed-t-d",
+    "symbol": "/t/ ~ /d/",
+    "kind": "consonant",
+    "title": "Đuôi -ed đọc /t/ hoặc /d/",
+    "description_md": "**Chọn theo âm cuối của động từ gốc.** Sau phụ âm vô thanh khác /t/, như /p, k, f, s, ʃ, tʃ/, đuôi đọc /t/. Sau nguyên âm hoặc phụ âm hữu thanh khác /d/, đuôi đọc /d/. Ví dụ *packed* giữ cụm /kt/ và *cleaned* giữ cụm /nd/. Hai cách đọc đều giữ nguyên số âm tiết.\n\n**Tự kiểm.** Nói từ gốc rồi thêm đúng phụ âm cuối. Chọn /t/ cho *packed*, *washed*, *stopped* và /d/ cho *cleaned*, *played*, *called*. Đọc câu chậm để các cụm cuối vẫn nghe được.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "packed",
+        "ipa": "/pækt/",
+        "source": "original"
+      },
+      {
+        "word": "washed",
+        "ipa": "/wɒʃt/",
+        "source": "original"
+      },
+      {
+        "word": "stopped",
+        "ipa": "/stɒpt/",
+        "source": "original"
+      },
+      {
+        "word": "laughed",
+        "ipa": "/lɑːft/",
+        "source": "original"
+      },
+      {
+        "word": "cleaned",
+        "ipa": "/kliːnd/",
+        "source": "original"
+      },
+      {
+        "word": "played",
+        "ipa": "/pleɪd/",
+        "source": "original"
+      },
+      {
+        "word": "called",
+        "ipa": "/kɔːld/",
+        "source": "original"
+      },
+      {
+        "word": "lived",
+        "ipa": "/lɪvd/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "We packed the cables and cleaned the desk.",
+        "vi": "Chúng tôi cất dây cáp và lau bàn.",
+        "source": "original"
+      },
+      {
+        "en": "I washed the cups while they played cards.",
+        "vi": "Tôi rửa cốc trong lúc họ chơi bài.",
+        "source": "original"
+      },
+      {
+        "en": "The bus stopped just after I called you.",
+        "vi": "Xe buýt dừng ngay sau khi tôi gọi cho bạn.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 69,
+    "source": "original"
+  },
+  {
+    "slug": "endings-ed-id",
+    "symbol": "/ɪd/",
+    "kind": "consonant",
+    "title": "Đuôi -ed đọc /ɪd/",
+    "description_md": "**Thêm một âm tiết.** Với động từ có quy tắc, nếu âm cuối của từ gốc là /t/ hoặc /d/, đọc đuôi *-ed* là /ɪd/ trong mẫu của bài này. *Wait* có một âm tiết, còn *waited* có hai. Hãy giữ âm tiết mới ngắn và nhẹ, đồng thời đọc rõ /d/ cuối. Một số giọng dùng nguyên âm yếu gần [ə].\n\n**Tự kiểm.** Đếm âm tiết của *printed*, *waited*, *needed* và *added*. Mỗi từ có hai âm tiết. *Worked* và *filled* chỉ có một, với đuôi lần lượt là /t/ và /d/.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "printed",
+        "ipa": "/ˈprɪntɪd/",
+        "source": "original"
+      },
+      {
+        "word": "waited",
+        "ipa": "/ˈweɪtɪd/",
+        "source": "original"
+      },
+      {
+        "word": "needed",
+        "ipa": "/ˈniːdɪd/",
+        "source": "original"
+      },
+      {
+        "word": "added",
+        "ipa": "/ˈædɪd/",
+        "source": "original"
+      },
+      {
+        "word": "started",
+        "ipa": "/ˈstɑːtɪd/",
+        "source": "original"
+      },
+      {
+        "word": "ended",
+        "ipa": "/ˈendɪd/",
+        "source": "original"
+      },
+      {
+        "word": "worked",
+        "ipa": "/wɜːkt/",
+        "source": "original"
+      },
+      {
+        "word": "filled",
+        "ipa": "/fɪld/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "I printed the tickets while you waited.",
+        "vi": "Tôi in vé trong lúc bạn chờ.",
+        "source": "original"
+      },
+      {
+        "en": "We needed more space, so I added a shelf.",
+        "vi": "Chúng tôi cần thêm chỗ nên tôi lắp thêm một cái kệ.",
+        "source": "original"
+      },
+      {
+        "en": "She filled the forms before the meeting started.",
+        "vi": "Cô ấy điền các biểu mẫu trước khi cuộc họp bắt đầu.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 70,
+    "source": "original"
+  }
+]

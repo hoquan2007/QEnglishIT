@@ -1,0 +1,441 @@
+{
+  "slug": "qe-p1-001",
+  "title": "TOEIC Part 1 – Mô tả tranh 01 (Mục tiêu 600)",
+  "collection": "QEnglishIT TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "difficulty": 2,
+  "cefr": "A2-B1",
+  "duration_minutes": 8,
+  "total_questions": 12,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": ["toeic", "part1", "photographs", "listening"],
+  "sections": [
+    {"key": "part1", "title": "Part 1 – Photographs", "parts": [1], "count": 12, "minutes": 8}
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Several customers are carrying chairs outside. (B) A woman is attaching a cable beneath a table. (C) A window cleaner is standing on a ladder. (D) Two people are sharing a printed newspaper.",
+      "transcript_vi": "(A) Một số khách đang mang ghế ra ngoài. (B) Một phụ nữ đang gắn dây cáp bên dưới bàn. (C) Một người lau cửa sổ đang đứng trên thang. (D) Hai người đang cùng đọc một tờ báo in.",
+      "image_description": "A bright coworking lounge has a long wooden table beside floor-to-ceiling windows. A woman in a blazer is plugging a laptop charger into a power strip under the table while two empty chairs face her.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Several customers are carrying chairs outside."},
+            {"key": "B", "text": "A woman is attaching a cable beneath a table."},
+            {"key": "C", "text": "A window cleaner is standing on a ladder."},
+            {"key": "D", "text": "Two people are sharing a printed newspaper."}
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Người phụ nữ đang cúi xuống ổ điện và cắm dây sạc dưới bàn, nên câu nói về việc gắn dây cáp khớp trực tiếp với hình.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Một số khách đang mang ghế ra ngoài.\n(B) Một phụ nữ đang gắn dây cáp bên dưới bàn.\n(C) Một người lau cửa sổ đang đứng trên thang.\n(D) Hai người đang cùng đọc một tờ báo in.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) A customer is paying at the counter. (B) Some shelves are being painted. (C) Bread is being wrapped in gift boxes. (D) A baker is placing baked goods on a rack.",
+      "transcript_vi": "(A) Một khách hàng đang thanh toán tại quầy. (B) Một số kệ đang được sơn. (C) Bánh mì đang được gói vào hộp quà. (D) Một thợ làm bánh đang đặt bánh lên giá.",
+      "image_description": "Inside a small bakery kitchen, a baker wearing an apron is sliding a tray of bread rolls onto a cooling rack. Several empty metal trays are stacked vertically near a sink.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "A customer is paying at the counter."},
+            {"key": "B", "text": "Some shelves are being painted."},
+            {"key": "C", "text": "Bread is being wrapped in gift boxes."},
+            {"key": "D", "text": "A baker is placing baked goods on a rack."}
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Khay bánh vừa được đưa lên giá làm nguội, đúng với hành động đặt đồ nướng lên giá.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Một khách hàng đang thanh toán tại quầy.\n(B) Một số kệ đang được sơn.\n(C) Bánh mì đang được gói vào hộp quà.\n(D) Một thợ làm bánh đang đặt bánh lên giá.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Some bicycles are displayed on the wall. (B) A mechanic is sweeping the shop floor. (C) A cyclist is riding through an open doorway. (D) A tire is being loaded into a delivery van.",
+      "transcript_vi": "(A) Một số xe đạp được treo trưng bày trên tường. (B) Một thợ sửa đang quét sàn cửa hàng. (C) Một người đi xe đạp đang chạy qua cửa mở. (D) Một chiếc lốp đang được chất lên xe giao hàng.",
+      "image_description": "At a neighborhood bicycle repair shop, three bicycles hang from wall hooks. A mechanic is kneeling next to a fourth bicycle and checking its front wheel with a small tool.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Some bicycles are displayed on the wall."},
+            {"key": "B", "text": "A mechanic is sweeping the shop floor."},
+            {"key": "C", "text": "A cyclist is riding through an open doorway."},
+            {"key": "D", "text": "A tire is being loaded into a delivery van."}
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Ba chiếc xe đạp treo trên móc tường là chi tiết rõ ràng và khớp với câu mô tả.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Một số xe đạp được treo trưng bày trên tường.\n(B) Một thợ sửa đang quét sàn cửa hàng.\n(C) Một người đi xe đạp đang chạy qua cửa mở.\n(D) Một chiếc lốp đang được chất lên xe giao hàng.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) All of the lamps have been removed from the tables. (B) Several readers are waiting at a checkout desk. (C) A man is reaching toward a bookshelf. (D) A backpack is hanging from a chair.",
+      "transcript_vi": "(A) Tất cả đèn đã được dọn khỏi các bàn. (B) Một số độc giả đang chờ ở quầy mượn sách. (C) Một người đàn ông đang với tay về phía giá sách. (D) Một ba lô đang treo trên ghế.",
+      "image_description": "A public library reading area contains rows of tables with green desk lamps. One man is reaching up to return a book to a high shelf while a backpack rests on the floor beside him.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "All of the lamps have been removed from the tables."},
+            {"key": "B", "text": "Several readers are waiting at a checkout desk."},
+            {"key": "C", "text": "A man is reaching toward a bookshelf."},
+            {"key": "D", "text": "A backpack is hanging from a chair."}
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Người đàn ông đang giơ tay để trả sách lên kệ cao, nên câu nói về việc với tới giá sách là chính xác.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Tất cả đèn đã được dọn khỏi các bàn.\n(B) Một số độc giả đang chờ ở quầy mượn sách.\n(C) Một người đàn ông đang với tay về phía giá sách.\n(D) Một ba lô đang treo trên ghế.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Guests are ordering drinks from a menu. (B) The tables are being moved into a dining room. (C) A server is adjusting an outdoor umbrella. (D) Several umbrellas are lying on the ground.",
+      "transcript_vi": "(A) Khách đang gọi đồ uống từ thực đơn. (B) Các bàn đang được chuyển vào phòng ăn. (C) Một nhân viên phục vụ đang chỉnh chiếc ô ngoài trời. (D) Một số chiếc ô đang nằm trên mặt đất.",
+      "image_description": "On a hotel terrace, four round tables have been set with folded napkins and glasses. A server is adjusting an umbrella above one table, and no guests are seated yet.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Guests are ordering drinks from a menu."},
+            {"key": "B", "text": "The tables are being moved into a dining room."},
+            {"key": "C", "text": "A server is adjusting an outdoor umbrella."},
+            {"key": "D", "text": "Several umbrellas are lying on the ground."}
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Nhân viên đang dùng tay chỉnh chiếc ô che phía trên bàn, đúng với câu mô tả.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Khách đang gọi đồ uống từ thực đơn.\n(B) Các bàn đang được chuyển vào phòng ăn.\n(C) Một nhân viên phục vụ đang chỉnh chiếc ô ngoài trời.\n(D) Một số chiếc ô đang nằm trên mặt đất.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Two workers are planting beside a pathway. (B) A bench is being carried across a bridge. (C) A wheelbarrow has been emptied into the pond. (D) Several visitors are feeding birds from a boat.",
+      "transcript_vi": "(A) Hai công nhân đang trồng cây cạnh lối đi. (B) Một chiếc ghế dài đang được mang qua cầu. (C) Một xe cút kít đã bị đổ đất xuống ao. (D) Một số khách đang cho chim ăn từ trên thuyền.",
+      "image_description": "A city park has a paved path curving around a pond. Two maintenance workers are planting flowers beside a bench, while a wheelbarrow filled with soil stands nearby.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Two workers are planting beside a pathway."},
+            {"key": "B", "text": "A bench is being carried across a bridge."},
+            {"key": "C", "text": "A wheelbarrow has been emptied into the pond."},
+            {"key": "D", "text": "Several visitors are feeding birds from a boat."}
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Hai công nhân đang trồng hoa ngay cạnh lối đi lát đá, nên phương án này mô tả đúng cảnh.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Hai công nhân đang trồng cây cạnh lối đi.\n(B) Một chiếc ghế dài đang được mang qua cầu.\n(C) Một xe cút kít đã bị đổ đất xuống ao.\n(D) Một số khách đang cho chim ăn từ trên thuyền.",
+          "difficulty": 2,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Boxes are being thrown into a container. (B) A shelf has collapsed onto a cart. (C) Two workers are opening every carton. (D) A worker is scanning a package label.",
+      "transcript_vi": "(A) Các hộp đang được ném vào thùng chứa. (B) Một kệ hàng đã đổ xuống xe đẩy. (C) Hai nhân viên đang mở mọi thùng hàng. (D) Một nhân viên đang quét nhãn trên kiện hàng.",
+      "image_description": "In an electronics warehouse, sealed cartons are arranged on tall shelves. A worker on the floor is scanning a label on one carton with a handheld device while another carton sits on a cart.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Boxes are being thrown into a container."},
+            {"key": "B", "text": "A shelf has collapsed onto a cart."},
+            {"key": "C", "text": "Two workers are opening every carton."},
+            {"key": "D", "text": "A worker is scanning a package label."}
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Thiết bị cầm tay đang hướng vào nhãn thùng hàng, cho thấy nhân viên đang quét mã hoặc nhãn.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Các hộp đang được ném vào thùng chứa.\n(B) Một kệ hàng đã đổ xuống xe đẩy.\n(C) Hai nhân viên đang mở mọi thùng hàng.\n(D) Một nhân viên đang quét nhãn trên kiện hàng.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) The screen is showing a movie trailer. (B) One person is writing on a board. (C) Everyone is standing beside the doorway. (D) The table is covered with food trays.",
+      "transcript_vi": "(A) Màn hình đang chiếu đoạn giới thiệu phim. (B) Một người đang viết lên bảng. (C) Mọi người đang đứng cạnh cửa ra vào. (D) Chiếc bàn phủ đầy khay thức ăn.",
+      "image_description": "A conference room has a large screen at one end. Three colleagues are seated around a table, and one of them is writing on a small whiteboard placed on an easel.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "The screen is showing a movie trailer."},
+            {"key": "B", "text": "One person is writing on a board."},
+            {"key": "C", "text": "Everyone is standing beside the doorway."},
+            {"key": "D", "text": "The table is covered with food trays."}
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Một người đang viết trên bảng trắng đặt trên giá, còn những người khác ngồi quanh bàn.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Màn hình đang chiếu đoạn giới thiệu phim.\n(B) Một người đang viết lên bảng.\n(C) Mọi người đang đứng cạnh cửa ra vào.\n(D) Chiếc bàn phủ đầy khay thức ăn.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Fruit is being unloaded from a truck. (B) A shopper is stacking empty baskets. (C) The market stalls have been closed for the day. (D) A vendor is weighing some produce.",
+      "transcript_vi": "(A) Trái cây đang được dỡ khỏi xe tải. (B) Một người mua đang xếp các giỏ rỗng. (C) Các quầy chợ đã đóng cửa trong ngày. (D) Một người bán đang cân nông sản.",
+      "image_description": "At an outdoor produce market, baskets of oranges and apples are arranged on a stall. A vendor is weighing a bag of vegetables on a hanging scale while a shopper watches.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Fruit is being unloaded from a truck."},
+            {"key": "B", "text": "A shopper is stacking empty baskets."},
+            {"key": "C", "text": "The market stalls have been closed for the day."},
+            {"key": "D", "text": "A vendor is weighing some produce."}
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án (D). Túi rau đang được đặt trên cân treo, vì vậy hành động cân nông sản là mô tả đúng.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Trái cây đang được dỡ khỏi xe tải.\n(B) Một người mua đang xếp các giỏ rỗng.\n(C) Các quầy chợ đã đóng cửa trong ngày.\n(D) Một người bán đang cân nông sản.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) Passengers are repairing a departure board. (B) A traveler is pulling luggage toward a train. (C) All the train doors are closed. (D) Several suitcases are lined up on a bench.",
+      "transcript_vi": "(A) Các hành khách đang sửa bảng giờ khởi hành. (B) Một hành khách đang kéo hành lý về phía tàu. (C) Tất cả cửa tàu đều đóng. (D) Một số va li được xếp trên ghế dài.",
+      "image_description": "A train station platform has an electronic departure board above several benches. A traveler is pulling a rolling suitcase toward an open train door, and another passenger is already inside the carriage.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "Passengers are repairing a departure board."},
+            {"key": "B", "text": "A traveler is pulling luggage toward a train."},
+            {"key": "C", "text": "All the train doors are closed."},
+            {"key": "D", "text": "Several suitcases are lined up on a bench."}
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án (B). Người đi tàu đang kéo va li có bánh xe về phía cửa toa đang mở, đúng với câu mô tả.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Các hành khách đang sửa bảng giờ khởi hành.\n(B) Một hành khách đang kéo hành lý về phía tàu.\n(C) Tất cả cửa tàu đều đóng.\n(D) Một số va li được xếp trên ghế dài.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) A visitor is arranging flowers in a vase. (B) The reception desk is being dismantled. (C) A receptionist is handing something to a visitor. (D) A tablet is mounted on the wall.",
+      "transcript_vi": "(A) Một vị khách đang cắm hoa vào bình. (B) Quầy lễ tân đang được tháo dỡ. (C) Một lễ tân đang đưa một vật cho khách. (D) Một máy tính bảng được gắn trên tường.",
+      "image_description": "In a modern office lobby, a receptionist is handing a visitor a badge across a curved desk. A vase of flowers and a tablet computer are on the counter.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "A visitor is arranging flowers in a vase."},
+            {"key": "B", "text": "The reception desk is being dismantled."},
+            {"key": "C", "text": "A receptionist is handing something to a visitor."},
+            {"key": "D", "text": "A tablet is mounted on the wall."}
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án (C). Lễ tân đang đưa thẻ khách qua quầy, nên câu nói về việc trao một vật cho khách là đúng.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Một vị khách đang cắm hoa vào bình.\n(B) Quầy lễ tân đang được tháo dỡ.\n(C) Một lễ tân đang đưa một vật cho khách.\n(D) Một máy tính bảng được gắn trên tường.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "instructions": "Look at the image description. Listen to four statements and choose the statement that best describes the picture.",
+      "passage": null,
+      "passage_vi": null,
+      "transcript": "(A) An employee is cleaning a table. (B) Customers are moving the chairs into the river. (C) Cups are being stored under the floor. (D) A table is covered with unopened umbrellas.",
+      "transcript_vi": "(A) Một nhân viên đang lau bàn. (B) Khách đang chuyển ghế xuống sông. (C) Các cốc đang được cất dưới sàn. (D) Một chiếc bàn phủ đầy ô chưa mở.",
+      "image_description": "A riverside café has several empty metal chairs facing the water. One employee is wiping a tabletop with a cloth while another stacks clean cups on a tray.",
+      "image_prompt": null,
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": null,
+          "options": [
+            {"key": "A", "text": "An employee is cleaning a table."},
+            {"key": "B", "text": "Customers are moving the chairs into the river."},
+            {"key": "C", "text": "Cups are being stored under the floor."},
+            {"key": "D", "text": "A table is covered with unopened umbrellas."}
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án (A). Nhân viên đang dùng khăn lau mặt bàn, đúng với hành động làm sạch bàn.",
+          "translation": "Chọn câu mô tả đúng nhất cho hình.\n(A) Một nhân viên đang lau bàn.\n(B) Khách đang chuyển ghế xuống sông.\n(C) Các cốc đang được cất dưới sàn.\n(D) Một chiếc bàn phủ đầy ô chưa mở.",
+          "difficulty": 3,
+          "tags": ["part1", "photo-description"],
+          "skill_tags": ["visual-detail"],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

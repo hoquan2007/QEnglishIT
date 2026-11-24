@@ -1,0 +1,2361 @@
+[
+  {
+    "word": "encryption",
+    "lemma": "encryption",
+    "pos": "n",
+    "ipa": "/ɛnˈkɹɪpʃən/",
+    "ipa_us": "/ɛnˈkɹɪpʃən/",
+    "ipa_uk": "/ɛnkɹˈɪpʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "sự mã hóa dữ liệu",
+    "definition_en": "the process of encoding information so unauthorized people cannot read it",
+    "examples": [
+      {
+        "en": "Encryption keeps the patient's medical records private during transfer.",
+        "vi": "Việc mã hóa giữ kín hồ sơ y tế của bệnh nhân khi truyền dữ liệu.",
+        "source": "original"
+      },
+      {
+        "en": "The security team enabled encryption for every company laptop.",
+        "vi": "Nhóm bảo mật đã bật tính năng mã hóa trên mọi máy tính xách tay của công ty.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "end-to-end encryption",
+        "vi": "mã hóa đầu cuối"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 13759,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "security",
+      "data-protection"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "repository",
+    "lemma": "repository",
+    "pos": "n",
+    "ipa": "/ɹiˈpɑzəˌtɔɹi/",
+    "ipa_us": "/ɹiˈpɑzəˌtɔɹi/",
+    "ipa_uk": "/ɹɪpˈɒsɪtəɹˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-08501-09000.json",
+        "batch_sha256": "573917adc4e835bf7f11000ca75aab678dd563aae439ab3dc623a0cec001439a"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-08001-08500.json",
+        "batch_sha256": "62154c5f6fcd8b2fb2926005c02bf4e92c7760257d40ada5f185be90c6d25565"
+      }
+    },
+    "meaning_vi": "kho lưu trữ mã nguồn; nơi tập hợp dữ liệu",
+    "definition_en": "a central location where code, documents, or other resources are stored and managed",
+    "examples": [
+      {
+        "en": "The repository contains the application's source code and documentation.",
+        "vi": "Kho lưu trữ chứa mã nguồn và tài liệu của ứng dụng.",
+        "source": "original"
+      },
+      {
+        "en": "Before reviewing the changes, Mina cloned the repository onto her laptop.",
+        "vi": "Trước khi xem xét các thay đổi, Mina đã sao chép kho mã nguồn về máy tính của mình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "source code repository",
+        "vi": "kho mã nguồn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 16636,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "version-control"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "deployment",
+    "lemma": "deployment",
+    "pos": "n",
+    "ipa": "/dɪˈpɫɔɪmənt/",
+    "ipa_us": "/dɪˈpɫɔɪmənt/",
+    "ipa_uk": "/dɪplˈɔɪmənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "việc triển khai phần mềm vào môi trường sử dụng",
+    "definition_en": "the process of making software available for people to use",
+    "examples": [
+      {
+        "en": "Deployment was delayed after the payment tests failed.",
+        "vi": "Đợt triển khai bị hoãn sau khi các bài kiểm thử thanh toán thất bại.",
+        "source": "original"
+      },
+      {
+        "en": "The team scheduled deployment for Sunday when traffic would be low.",
+        "vi": "Nhóm đã lên lịch triển khai vào Chủ nhật, khi lưu lượng truy cập dự kiến thấp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "production deployment",
+        "vi": "đợt triển khai lên môi trường chính thức"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8175,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "operations"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "framework",
+    "lemma": "framework",
+    "pos": "n",
+    "ipa": "/ˈfɹeɪmˌwɝk/",
+    "ipa_us": "/ˈfɹeɪmˌwɝk/",
+    "ipa_uk": "/fɹˈeɪmwɜːk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "bộ khung công cụ và quy ước để xây dựng phần mềm",
+    "definition_en": "a structured collection of tools and conventions used to develop applications",
+    "examples": [
+      {
+        "en": "This framework provides routing and database utilities out of the box.",
+        "vi": "Bộ khung này cung cấp sẵn tiện ích định tuyến và làm việc với cơ sở dữ liệu.",
+        "source": "original"
+      },
+      {
+        "en": "We selected a lightweight framework for the customer support portal.",
+        "vi": "Chúng tôi đã chọn một bộ khung gọn nhẹ cho cổng hỗ trợ khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "web application framework",
+        "vi": "bộ khung phát triển ứng dụng web"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4398,
+    "lists": [
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "architecture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "server",
+    "lemma": "server",
+    "pos": "n",
+    "ipa": "/ˈsɝvɝ/",
+    "ipa_us": "/ˈsɝvɝ/",
+    "ipa_uk": "/sˈɜːvɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "máy chủ cung cấp dữ liệu hoặc dịch vụ",
+    "definition_en": "a computer or program that provides data or services to other computers",
+    "examples": [
+      {
+        "en": "The server restarted automatically after a power interruption.",
+        "vi": "Máy chủ tự khởi động lại sau khi nguồn điện bị gián đoạn.",
+        "source": "original"
+      },
+      {
+        "en": "Our server handles bookings from all twelve branches.",
+        "vi": "Máy chủ của chúng tôi xử lý đặt lịch từ cả mười hai chi nhánh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "application server",
+        "vi": "máy chủ ứng dụng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3275,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "infrastructure",
+      "networking"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "browser",
+    "lemma": "browser",
+    "pos": "n",
+    "ipa": "/ˈbɹaʊzɝ/",
+    "ipa_us": "/ˈbɹaʊzɝ/",
+    "ipa_uk": "/bɹˈaʊzɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "trình duyệt web",
+    "definition_en": "a program used to access and view websites",
+    "examples": [
+      {
+        "en": "The browser blocked the download because the connection was insecure.",
+        "vi": "Trình duyệt đã chặn tải xuống vì kết nối không an toàn.",
+        "source": "original"
+      },
+      {
+        "en": "Refresh the browser tab after we publish the updated schedule.",
+        "vi": "Hãy tải lại thẻ trình duyệt sau khi chúng tôi đăng lịch trình mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "browser extension",
+        "vi": "tiện ích mở rộng của trình duyệt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 8431,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "web",
+      "digital-literacy"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "configuration",
+    "lemma": "configuration",
+    "pos": "n",
+    "ipa": "/kənˌfɪɡjɝˈeɪʃən/",
+    "ipa_us": "/kənˌfɪɡjɝˈeɪʃən/",
+    "ipa_uk": "/kənfˌɪɡjʊɹˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "cấu hình; tập hợp các thiết lập hệ thống",
+    "definition_en": "the arrangement of settings that determines how a system operates",
+    "examples": [
+      {
+        "en": "An incorrect configuration prevented the email service from starting.",
+        "vi": "Một cấu hình sai khiến dịch vụ email không thể khởi động.",
+        "source": "original"
+      },
+      {
+        "en": "Our administrator reviewed the network configuration before opening the new office.",
+        "vi": "Quản trị viên đã kiểm tra cấu hình mạng trước khi khai trương văn phòng mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "configuration file",
+        "vi": "tệp cấu hình"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 7468,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "infrastructure",
+      "operations"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "compiler",
+    "lemma": "compiler",
+    "pos": "n",
+    "ipa": "/kəmˈpaɪɫɝ/",
+    "ipa_us": "/kəmˈpaɪɫɝ/",
+    "ipa_uk": "/kəmpˈaɪlɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-08501-09000.json",
+        "batch_sha256": "573917adc4e835bf7f11000ca75aab678dd563aae439ab3dc623a0cec001439a"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-08501-09000.json",
+        "batch_sha256": "be39d939ed10f6d3607a09bdaeacffe9df238e3e6a66825ca5d64d7ca21ad81d"
+      }
+    },
+    "meaning_vi": "trình biên dịch",
+    "definition_en": "a program that translates source code into another form that a computer can run",
+    "examples": [
+      {
+        "en": "The compiler reported an error on line forty-two.",
+        "vi": "Trình biên dịch báo lỗi ở dòng bốn mươi hai.",
+        "source": "original"
+      },
+      {
+        "en": "A newer compiler reduced the time needed to build the application.",
+        "vi": "Trình biên dịch mới hơn đã rút ngắn thời gian tạo bản dựng ứng dụng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "compiler error",
+        "vi": "lỗi trình biên dịch"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 17867,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "programming",
+      "tooling"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "dependency",
+    "lemma": "dependency",
+    "pos": "n",
+    "ipa": "/dɪˈpɛndənsi/",
+    "ipa_us": "/dɪˈpɛndənsi/",
+    "ipa_uk": "/dɪpˈɛndənsi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "thư viện hoặc thành phần mà phần mềm khác phụ thuộc vào",
+    "definition_en": "a software component that another program needs in order to function",
+    "examples": [
+      {
+        "en": "The outdated dependency introduced a security risk into our application.",
+        "vi": "Thành phần phụ thuộc lỗi thời đã tạo ra rủi ro bảo mật cho ứng dụng của chúng tôi.",
+        "source": "original"
+      },
+      {
+        "en": "Before release, the team checked each dependency for known vulnerabilities.",
+        "vi": "Trước khi phát hành, nhóm đã kiểm tra từng thư viện phụ thuộc để tìm lỗ hổng đã biết.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "software dependency",
+        "vi": "thành phần phụ thuộc của phần mềm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 14560,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "security"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "request",
+    "lemma": "request",
+    "pos": "n",
+    "ipa": "/ɹiˈkwɛst/",
+    "ipa_us": "/ɹiˈkwɛst/",
+    "ipa_uk": "/ɹɪkwˈɛst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "yêu cầu gửi tới hệ thống để lấy dữ liệu hoặc thực hiện thao tác",
+    "definition_en": "a message sent to a system asking for data or an action",
+    "examples": [
+      {
+        "en": "Each request includes an identifier so the system can trace errors.",
+        "vi": "Mỗi yêu cầu đều có mã định danh để hệ thống truy vết lỗi.",
+        "source": "original"
+      },
+      {
+        "en": "The API rejected a request without a valid access token.",
+        "vi": "API đã từ chối yêu cầu không có mã thông báo truy cập hợp lệ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "HTTP request",
+        "vi": "yêu cầu HTTP"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1815,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "web",
+      "api-design"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "response",
+    "lemma": "response",
+    "pos": "n",
+    "ipa": "/ɹiˈspɑns/",
+    "ipa_us": "/ɹiˈspɑns/",
+    "ipa_uk": "/ɹɪspˈɒns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00501-01000.json",
+        "batch_sha256": "e20aaaca01f26cfbeac87efa10fef09d29deeb53638c8e0aacda881516bf3a8d"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00501-01000.json",
+        "batch_sha256": "02bb223e4195345055ea8d2de44c657023790359cd9b4e14a6ebdd0b375c2cf1"
+      }
+    },
+    "meaning_vi": "phản hồi hoặc dữ liệu hệ thống trả về sau khi nhận yêu cầu",
+    "definition_en": "data or a status message returned by a system after a request",
+    "examples": [
+      {
+        "en": "The response contained a list of available meeting rooms.",
+        "vi": "Phản hồi chứa danh sách các phòng họp còn trống.",
+        "source": "original"
+      },
+      {
+        "en": "The server sent a response explaining why the upload failed.",
+        "vi": "Máy chủ trả về phản hồi giải thích lý do tải tệp lên thất bại.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "server response",
+        "vi": "phản hồi từ máy chủ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1011,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "web",
+      "api-design"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "token",
+    "lemma": "token",
+    "pos": "n",
+    "ipa": "/ˈtoʊkən/",
+    "ipa_us": "/ˈtoʊkən/",
+    "ipa_uk": "/tˈəʊkən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "mã thông báo dùng để xác thực hoặc cấp quyền truy cập",
+    "definition_en": "a digital value used to represent identity or permission in a system",
+    "examples": [
+      {
+        "en": "The token expires after thirty minutes of inactivity.",
+        "vi": "Mã thông báo hết hạn sau ba mươi phút không hoạt động.",
+        "source": "original"
+      },
+      {
+        "en": "Never share a token that grants access to customer records.",
+        "vi": "Đừng bao giờ chia sẻ mã thông báo cho phép truy cập hồ sơ khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "access token",
+        "vi": "mã thông báo truy cập"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9447,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "security",
+      "authentication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "protocol",
+    "lemma": "protocol",
+    "pos": "n",
+    "ipa": "/ˈpɹoʊtəˌkɑɫ/",
+    "ipa_us": "/ˈpɹoʊtəˌkɑɫ/",
+    "ipa_uk": "/pɹˈəʊtəkˌɒl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "giao thức; tập hợp quy tắc trao đổi dữ liệu",
+    "definition_en": "a set of rules governing communication between devices or programs",
+    "examples": [
+      {
+        "en": "The protocol defines how devices establish a secure connection.",
+        "vi": "Giao thức quy định cách các thiết bị thiết lập kết nối an toàn.",
+        "source": "original"
+      },
+      {
+        "en": "Our partners agreed to use the same protocol for exchanging orders.",
+        "vi": "Các đối tác đồng ý dùng cùng một giao thức để trao đổi đơn hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "communication protocol",
+        "vi": "giao thức truyền thông"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5646,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "networking",
+      "integration"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "query",
+    "lemma": "query",
+    "pos": "n",
+    "ipa": "/ˈkwiɹi/",
+    "ipa_us": "/ˈkwiɹi/",
+    "ipa_uk": "/kwˈiəɹi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06501-07000.json",
+        "batch_sha256": "84bdeb7e22118ad64093e1b7d2f746d80ba767be874883409dc235674f6542ff"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "truy vấn; yêu cầu tìm hoặc xử lý dữ liệu",
+    "definition_en": "a request to retrieve or change information in a database or system",
+    "examples": [
+      {
+        "en": "The query returned every order placed during October.",
+        "vi": "Truy vấn trả về tất cả đơn hàng được đặt trong tháng Mười.",
+        "source": "original"
+      },
+      {
+        "en": "A poorly written query slowed down the sales dashboard.",
+        "vi": "Một truy vấn viết chưa tốt đã làm chậm bảng điều khiển bán hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "database query",
+        "vi": "truy vấn cơ sở dữ liệu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 12350,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "databases",
+      "analytics"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "cache",
+    "lemma": "cache",
+    "pos": "n",
+    "ipa": "/ˈkæʃ/",
+    "ipa_us": "/ˈkæʃ/",
+    "ipa_uk": "/kˈæʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06501-07000.json",
+        "batch_sha256": "84bdeb7e22118ad64093e1b7d2f746d80ba767be874883409dc235674f6542ff"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "bộ nhớ đệm lưu dữ liệu để truy cập nhanh",
+    "definition_en": "temporary storage that makes frequently used data quicker to access",
+    "examples": [
+      {
+        "en": "The cache stores recent search results to reduce database traffic.",
+        "vi": "Bộ nhớ đệm lưu kết quả tìm kiếm gần đây để giảm lưu lượng truy cập cơ sở dữ liệu.",
+        "source": "original"
+      },
+      {
+        "en": "After changing the menu, we cleared the cache to show the new prices.",
+        "vi": "Sau khi sửa thực đơn, chúng tôi xóa bộ nhớ đệm để hiển thị giá mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cache invalidation",
+        "vi": "việc làm mất hiệu lực bộ nhớ đệm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 12425,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "performance",
+      "web"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "validation",
+    "lemma": "validation",
+    "pos": "n",
+    "ipa": "/ˌvæɫəˈdeɪʃən/",
+    "ipa_us": "/ˌvæɫəˈdeɪʃən/",
+    "ipa_uk": "/vˌælɪdˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06501-07000.json",
+        "batch_sha256": "84bdeb7e22118ad64093e1b7d2f746d80ba767be874883409dc235674f6542ff"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06001-06500.json",
+        "batch_sha256": "1174433b9bec237d84b5952849767e346a23dfba3f6f7e3401c8baf774ba34bc"
+      }
+    },
+    "meaning_vi": "việc kiểm tra tính hợp lệ của dữ liệu hoặc kết quả",
+    "definition_en": "the process of checking that information meets specified rules or requirements",
+    "examples": [
+      {
+        "en": "Validation rejected the form because the phone number was incomplete.",
+        "vi": "Bước kiểm tra tính hợp lệ đã từ chối biểu mẫu vì số điện thoại chưa đầy đủ.",
+        "source": "original"
+      },
+      {
+        "en": "The finance team added validation before importing payroll data.",
+        "vi": "Nhóm tài chính đã bổ sung bước kiểm tra tính hợp lệ trước khi nhập dữ liệu lương.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "input validation",
+        "vi": "kiểm tra tính hợp lệ của dữ liệu đầu vào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 11675,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "data-quality",
+      "software-testing"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "monitoring",
+    "lemma": "monitoring",
+    "pos": "n",
+    "ipa": "/ˈmɑnətɝɪŋ/",
+    "ipa_us": "/ˈmɑnətɝɪŋ/",
+    "ipa_uk": "/mˈɒnɪtəɹɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "việc theo dõi liên tục trạng thái hệ thống",
+    "definition_en": "continuous observation of a system to detect changes or problems",
+    "examples": [
+      {
+        "en": "Monitoring revealed a sudden increase in failed payments.",
+        "vi": "Hoạt động giám sát phát hiện số giao dịch thanh toán thất bại tăng đột ngột.",
+        "source": "original"
+      },
+      {
+        "en": "The operations team improved monitoring before the holiday sale.",
+        "vi": "Nhóm vận hành đã cải thiện hệ thống giám sát trước đợt giảm giá dịp lễ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "system monitoring",
+        "vi": "giám sát hệ thống"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4052,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "operations",
+      "reliability"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "reliability",
+    "lemma": "reliability",
+    "pos": "n",
+    "ipa": "/ɹiˌɫaɪəˈbɪɫəti/",
+    "ipa_us": "/ɹiˌɫaɪəˈbɪɫəti/",
+    "ipa_uk": "/ɹɪlˌaɪəbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "độ tin cậy; khả năng hoạt động ổn định",
+    "definition_en": "the ability to perform consistently and correctly over time",
+    "examples": [
+      {
+        "en": "Reliability matters when hospitals depend on digital appointment systems.",
+        "vi": "Độ tin cậy rất quan trọng khi bệnh viện phụ thuộc vào hệ thống đặt lịch điện tử.",
+        "source": "original"
+      },
+      {
+        "en": "We measured the service's reliability during a month of heavy traffic.",
+        "vi": "Chúng tôi đo độ tin cậy của dịch vụ trong một tháng có lưu lượng truy cập cao.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "service reliability",
+        "vi": "độ tin cậy của dịch vụ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8116,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "operations",
+      "quality"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "vulnerability",
+    "lemma": "vulnerability",
+    "pos": "n",
+    "ipa": "/ˌvəɫnɝəˈbɪɫɪti/",
+    "ipa_us": "/ˌvəɫnɝəˈbɪɫɪti/",
+    "ipa_uk": "/vˌʌlnəɹəbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-06001-06500.json",
+        "batch_sha256": "127f17a8cfda9d4b119e9cbff9c32893518e69bb449d6dba898196ccf7e92ab4"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06001-06500.json",
+        "batch_sha256": "1174433b9bec237d84b5952849767e346a23dfba3f6f7e3401c8baf774ba34bc"
+      }
+    },
+    "meaning_vi": "lỗ hổng bảo mật; điểm yếu có thể bị khai thác",
+    "definition_en": "a weakness in a system that could be exploited or cause harm",
+    "examples": [
+      {
+        "en": "The audit uncovered a vulnerability in the login process.",
+        "vi": "Đợt kiểm toán đã phát hiện một lỗ hổng trong quy trình đăng nhập.",
+        "source": "original"
+      },
+      {
+        "en": "Engineers patched the vulnerability before releasing the mobile app.",
+        "vi": "Các kỹ sư đã vá lỗ hổng trước khi phát hành ứng dụng di động.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "security vulnerability",
+        "vi": "lỗ hổng bảo mật"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 11364,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "security",
+      "software-testing"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "permission",
+    "lemma": "permission",
+    "pos": "n",
+    "ipa": "/pɝˈmɪʃən/",
+    "ipa_us": "/pɝˈmɪʃən/",
+    "ipa_uk": "/pəmˈɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "quyền cho phép thực hiện một thao tác",
+    "definition_en": "authorization to perform an action or access a resource",
+    "examples": [
+      {
+        "en": "The intern lacked permission to delete customer accounts.",
+        "vi": "Thực tập sinh không có quyền xóa tài khoản khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "The dashboard checks permission before displaying confidential reports.",
+        "vi": "Bảng điều khiển kiểm tra quyền truy cập trước khi hiển thị báo cáo mật.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "access permission",
+        "vi": "quyền truy cập"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3030,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "security",
+      "workplace"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "notification",
+    "lemma": "notification",
+    "pos": "n",
+    "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+    "ipa_us": "/ˌnoʊtəfəˈkeɪʃən/",
+    "ipa_uk": "/nˌəʊtɪfɪkˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04501-05000.json",
+        "batch_sha256": "1992b95589d7d572e39b9198fb14d97ea9a4c18e5043979e98fdb314c26b951e"
+      }
+    },
+    "meaning_vi": "thông báo được gửi đến người dùng",
+    "definition_en": "a message that informs someone about an event or change",
+    "examples": [
+      {
+        "en": "A notification appeared when the shipment reached the warehouse.",
+        "vi": "Một thông báo xuất hiện khi lô hàng đến kho.",
+        "source": "original"
+      },
+      {
+        "en": "Customers can disable each notification in their account settings.",
+        "vi": "Khách hàng có thể tắt từng loại thông báo trong phần cài đặt tài khoản.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "push notification",
+        "vi": "thông báo đẩy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 8103,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "product-design",
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "transaction",
+    "lemma": "transaction",
+    "pos": "n",
+    "ipa": "/tɹænˈzækʃən/",
+    "ipa_us": "/tɹænˈzækʃən/",
+    "ipa_uk": "/tɹænsˈækʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "giao dịch; thao tác được xử lý như một đơn vị",
+    "definition_en": "an exchange or operation recorded and handled as one unit",
+    "examples": [
+      {
+        "en": "The transaction failed because the card had expired.",
+        "vi": "Giao dịch thất bại vì thẻ đã hết hạn.",
+        "source": "original"
+      },
+      {
+        "en": "Every transaction receives a unique reference number for reconciliation.",
+        "vi": "Mỗi giao dịch được cấp một mã tham chiếu riêng để đối soát.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "payment transaction",
+        "vi": "giao dịch thanh toán"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5116,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "payments",
+      "databases"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "logging",
+    "lemma": "logging",
+    "pos": "n",
+    "ipa": "/ˈɫɔɡɪŋ/",
+    "ipa_us": "/ˈɫɔɡɪŋ/",
+    "ipa_uk": "/lˈɒɡɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "việc ghi nhật ký sự kiện của phần mềm",
+    "definition_en": "the recording of events and actions for later analysis",
+    "examples": [
+      {
+        "en": "Logging helped engineers identify when the checkout service stopped responding.",
+        "vi": "Việc ghi nhật ký đã giúp các kỹ sư xác định lúc dịch vụ thanh toán ngừng phản hồi.",
+        "source": "original"
+      },
+      {
+        "en": "We disabled sensitive data logging to protect customer privacy.",
+        "vi": "Chúng tôi đã tắt ghi nhật ký dữ liệu nhạy cảm để bảo vệ quyền riêng tư của khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "error logging",
+        "vi": "ghi nhật ký lỗi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 10270,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "observability",
+      "security"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "parameter",
+    "lemma": "parameter",
+    "pos": "n",
+    "ipa": "/pɝˈæmətɝ/",
+    "ipa_us": "/pɝˈæmətɝ/",
+    "ipa_uk": "/pəɹˈæmɪtɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "tham số đầu vào của một hàm hoặc thao tác",
+    "definition_en": "a value or variable that controls how a function or operation behaves",
+    "examples": [
+      {
+        "en": "The function accepts a parameter that specifies the maximum file size.",
+        "vi": "Hàm nhận một tham số để xác định kích thước tệp tối đa.",
+        "source": "original"
+      },
+      {
+        "en": "Change this parameter carefully because it affects every branch's inventory.",
+        "vi": "Hãy thay đổi tham số này cẩn thận vì nó ảnh hưởng đến tồn kho của mọi chi nhánh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "optional parameter",
+        "vi": "tham số tùy chọn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 13627,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "programming",
+      "configuration"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "interpreter",
+    "lemma": "interpreter",
+    "pos": "n",
+    "ipa": "/ˌɪnˈtɝpɹətɝ/",
+    "ipa_us": "/ˌɪnˈtɝpɹətɝ/",
+    "ipa_uk": "/ɪntˈɜːpɹɪtɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "trình thông dịch mã lệnh",
+    "definition_en": "a program that executes instructions written in a programming language",
+    "examples": [
+      {
+        "en": "The interpreter stopped when it encountered an undefined variable.",
+        "vi": "Trình thông dịch dừng lại khi gặp một biến chưa được định nghĩa.",
+        "source": "original"
+      },
+      {
+        "en": "The Python interpreter runs the script without creating a separate executable.",
+        "vi": "Trình thông dịch Python chạy tập lệnh mà không tạo tệp thực thi riêng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "Python interpreter",
+        "vi": "trình thông dịch Python"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 14195,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "programming",
+      "tooling"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "syntax",
+    "lemma": "syntax",
+    "pos": "n",
+    "ipa": "/ˈsɪnˌtæks/",
+    "ipa_us": "/ˈsɪnˌtæks/",
+    "ipa_uk": "/sˈɪntæks/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "cú pháp; quy tắc viết câu lệnh trong ngôn ngữ lập trình",
+    "definition_en": "rules governing how instructions are written in a programming language",
+    "examples": [
+      {
+        "en": "The editor highlighted the incorrect syntax in red.",
+        "vi": "Trình soạn thảo tô đỏ phần cú pháp sai.",
+        "source": "original"
+      },
+      {
+        "en": "New hires studied the query language's syntax before accessing reports.",
+        "vi": "Nhân viên mới đã học cú pháp ngôn ngữ truy vấn trước khi truy cập báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "syntax error",
+        "vi": "lỗi cú pháp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 14482,
+    "lists": [
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "programming",
+      "databases"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "packet",
+    "lemma": "packet",
+    "pos": "n",
+    "ipa": "/ˈpækət/",
+    "ipa_us": "/ˈpækət/",
+    "ipa_uk": "/pˈækɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05501-06000.json",
+        "batch_sha256": "a0b596b60e47a43534557e8d1006cc176bc738fcdeafcad7b855c020022ff260"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05501-06000.json",
+        "batch_sha256": "e57a834f151ef9b36463a71f19c55c750d2b804a911e6664bccaaeb529b5e9fd"
+      }
+    },
+    "meaning_vi": "gói dữ liệu được truyền trên mạng",
+    "definition_en": "a small unit of information sent across a computer network",
+    "examples": [
+      {
+        "en": "Each packet carries part of the video stream to the viewer.",
+        "vi": "Mỗi gói dữ liệu mang một phần luồng video đến người xem.",
+        "source": "original"
+      },
+      {
+        "en": "The router discarded a damaged packet during the transfer.",
+        "vi": "Bộ định tuyến đã loại bỏ một gói dữ liệu bị hỏng trong quá trình truyền.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "data packet",
+        "vi": "gói dữ liệu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 10139,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "networking",
+      "infrastructure"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "domain",
+    "lemma": "domain",
+    "pos": "n",
+    "ipa": "/doʊˈmeɪn/",
+    "ipa_us": "/doʊˈmeɪn/",
+    "ipa_uk": "/dəmˈeɪn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "tên miền; địa chỉ nhận dạng một website trên Internet",
+    "definition_en": "a human-readable name used to identify a website or online service",
+    "examples": [
+      {
+        "en": "The company registered a new domain for its online store.",
+        "vi": "Công ty đã đăng ký tên miền mới cho cửa hàng trực tuyến.",
+        "source": "original"
+      },
+      {
+        "en": "Our domain expires next month unless we renew it.",
+        "vi": "Tên miền của chúng tôi sẽ hết hạn vào tháng sau nếu không được gia hạn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "domain name",
+        "vi": "tên miền"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4249,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "web",
+      "networking"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "regression",
+    "lemma": "regression",
+    "pos": "n",
+    "ipa": "/ɹəˈɡɹɛʃən/",
+    "ipa_us": "/ɹəˈɡɹɛʃən/",
+    "ipa_uk": "/ɹɪɡɹˈɛʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07501-08000.json",
+        "batch_sha256": "3245af848a89893f69a921c3a35d4f3e788a4b83b4f9affaf26ab9e4f0d09ae1"
+      }
+    },
+    "meaning_vi": "lỗi hồi quy do thay đổi phần mềm làm hỏng chức năng từng hoạt động tốt",
+    "definition_en": "a defect in previously working software caused by a later change",
+    "examples": [
+      {
+        "en": "A regression prevented returning customers from viewing their saved orders.",
+        "vi": "Một lỗi phát sinh sau cập nhật khiến khách hàng cũ không xem được đơn hàng đã lưu.",
+        "source": "original"
+      },
+      {
+        "en": "The team added a test to prevent the regression from returning.",
+        "vi": "Nhóm đã thêm bài kiểm thử để ngăn lỗi đó tái diễn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "regression test",
+        "vi": "bài kiểm thử hồi quy"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 15099,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-testing",
+      "quality"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "compatibility",
+    "lemma": "compatibility",
+    "pos": "n",
+    "ipa": "/kəmˌpætəˈbɪɫəˌti/",
+    "ipa_us": "/kəmˌpætəˈbɪɫəˌti/",
+    "ipa_uk": "/kəmpˌætɪbˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07001-07500.json",
+        "batch_sha256": "2a00805cd5a922e1d691457543e7d30e39a780a14439547507933b8814060355"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-06501-07000.json",
+        "batch_sha256": "4a43f6029e302138f032049ba1843439a0cd31eeafdbfd0d0a71fae404f9c90a"
+      }
+    },
+    "meaning_vi": "tính tương thích; khả năng hoạt động cùng nhau",
+    "definition_en": "the ability of products or systems to work together correctly",
+    "examples": [
+      {
+        "en": "Compatibility with older phones was a requirement for the new app.",
+        "vi": "Khả năng tương thích với điện thoại đời cũ là một yêu cầu của ứng dụng mới.",
+        "source": "original"
+      },
+      {
+        "en": "We checked compatibility before installing the accounting software across every branch.",
+        "vi": "Chúng tôi kiểm tra tính tương thích trước khi cài phần mềm kế toán tại tất cả chi nhánh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "backward compatibility",
+        "vi": "khả năng tương thích ngược"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 13165,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-testing",
+      "integration"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "component",
+    "lemma": "component",
+    "pos": "n",
+    "ipa": "/kəmˈpoʊnənt/",
+    "ipa_us": "/kəmˈpoʊnənt/",
+    "ipa_uk": "/kəmpˈəʊnənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "thành phần cấu thành một hệ thống hoặc giao diện",
+    "definition_en": "a distinct part that works with other parts of a system",
+    "examples": [
+      {
+        "en": "The search component displays matching products as customers type.",
+        "vi": "Thành phần tìm kiếm hiển thị sản phẩm phù hợp khi khách hàng nhập chữ.",
+        "source": "original"
+      },
+      {
+        "en": "Each component has its own tests and maintenance schedule.",
+        "vi": "Mỗi thành phần có bộ kiểm thử và lịch bảo trì riêng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "user interface component",
+        "vi": "thành phần giao diện người dùng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4165,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "architecture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "architecture",
+    "lemma": "architecture",
+    "pos": "n",
+    "ipa": "/ˈɑɹkəˌtɛktʃɝ/",
+    "ipa_us": "/ˈɑɹkəˌtɛktʃɝ/",
+    "ipa_uk": "/ˈɑːkɪtˌɛktʃɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "kiến trúc hệ thống; cách tổ chức các thành phần phần mềm",
+    "definition_en": "the overall design and organization of a software system",
+    "examples": [
+      {
+        "en": "The new architecture separates the payment service from the customer portal.",
+        "vi": "Kiến trúc mới tách dịch vụ thanh toán khỏi cổng khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "Before hiring developers, the startup documented its system architecture.",
+        "vi": "Trước khi tuyển lập trình viên, công ty khởi nghiệp đã ghi lại kiến trúc hệ thống.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "software architecture",
+        "vi": "kiến trúc phần mềm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3485,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "system-design"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "implementation",
+    "lemma": "implementation",
+    "pos": "n",
+    "ipa": "/ˌɪmpɫəmɛnˈteɪʃən/",
+    "ipa_us": "/ˌɪmpɫəmɛnˈteɪʃən/",
+    "ipa_uk": "/ˌɪmplɪməntˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "việc hiện thực hóa thiết kế thành phần mềm hoạt động",
+    "definition_en": "the process of turning a plan or design into working software",
+    "examples": [
+      {
+        "en": "Implementation of the search feature took longer than expected.",
+        "vi": "Việc triển khai tính năng tìm kiếm mất nhiều thời gian hơn dự kiến.",
+        "source": "original"
+      },
+      {
+        "en": "The implementation passed testing before the marketing team announced the launch.",
+        "vi": "Phần triển khai đã vượt qua kiểm thử trước khi nhóm tiếp thị công bố ra mắt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feature implementation",
+        "vi": "việc triển khai tính năng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4260,
+    "lists": [
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "software-development",
+      "project-management"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "developer",
+    "lemma": "developer",
+    "pos": "n",
+    "ipa": "/dɪˈvɛɫəpɝ/",
+    "ipa_us": "/dɪˈvɛɫəpɝ/",
+    "ipa_uk": "/dɪvˈɛləpɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "lập trình viên; người phát triển phần mềm",
+    "definition_en": "a person who designs, builds, or maintains software",
+    "examples": [
+      {
+        "en": "The developer corrected a pricing bug before customers noticed it.",
+        "vi": "Lập trình viên đã sửa lỗi định giá trước khi khách hàng nhận thấy.",
+        "source": "original"
+      },
+      {
+        "en": "Every developer joined the planning meeting for the new booking feature.",
+        "vi": "Mọi lập trình viên đều tham gia cuộc họp lên kế hoạch cho tính năng đặt lịch mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "software developer",
+        "vi": "lập trình viên phần mềm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5144,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "careers",
+      "software-development"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "version",
+    "lemma": "version",
+    "pos": "n",
+    "ipa": "/ˈvɝʒən/",
+    "ipa_us": "/ˈvɝʒən/",
+    "ipa_uk": "/vˈɜːʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00501-01000.json",
+        "batch_sha256": "e20aaaca01f26cfbeac87efa10fef09d29deeb53638c8e0aacda881516bf3a8d"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00501-01000.json",
+        "batch_sha256": "02bb223e4195345055ea8d2de44c657023790359cd9b4e14a6ebdd0b375c2cf1"
+      }
+    },
+    "meaning_vi": "phiên bản của phần mềm hoặc tài liệu",
+    "definition_en": "a particular form of a product released or revised at a given time",
+    "examples": [
+      {
+        "en": "The latest version fixes a problem with invoice downloads.",
+        "vi": "Phiên bản mới nhất sửa lỗi tải hóa đơn.",
+        "source": "original"
+      },
+      {
+        "en": "Our support team still maintains a version used by older tablets.",
+        "vi": "Nhóm hỗ trợ vẫn bảo trì một phiên bản dành cho máy tính bảng đời cũ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "software version",
+        "vi": "phiên bản phần mềm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 928,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "releases",
+      "software-development"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "production",
+    "lemma": "production",
+    "pos": "n",
+    "ipa": "/pɝˈdəkʃən/",
+    "ipa_us": "/pɝˈdəkʃən/",
+    "ipa_uk": "/pɹədˈʌkʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00501-01000.json",
+        "batch_sha256": "e20aaaca01f26cfbeac87efa10fef09d29deeb53638c8e0aacda881516bf3a8d"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00501-01000.json",
+        "batch_sha256": "02bb223e4195345055ea8d2de44c657023790359cd9b4e14a6ebdd0b375c2cf1"
+      }
+    },
+    "meaning_vi": "môi trường phần mềm chính thức đang phục vụ người dùng thực tế",
+    "definition_en": "the live environment where software is available to real users",
+    "examples": [
+      {
+        "en": "Production remained stable while the team investigated errors in staging.",
+        "vi": "Môi trường vận hành chính thức vẫn ổn định khi nhóm điều tra lỗi ở môi trường thử nghiệm.",
+        "source": "original"
+      },
+      {
+        "en": "The team tested the fix before deploying it to production.",
+        "vi": "Nhóm kiểm thử bản sửa lỗi trước khi triển khai lên môi trường vận hành chính thức.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "production environment",
+        "vi": "môi trường vận hành chính thức"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 761,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "deployment",
+      "operations"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "exception",
+    "lemma": "exception",
+    "pos": "n",
+    "ipa": "/ɪkˈsɛpʃən/",
+    "ipa_us": "/ɪkˈsɛpʃən/",
+    "ipa_uk": "/ɛksˈɛpʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "ngoại lệ; tình huống lỗi bất thường khi chương trình chạy",
+    "definition_en": "an unexpected event or error that interrupts a program's normal execution",
+    "examples": [
+      {
+        "en": "An exception occurred when the program tried to open a missing file.",
+        "vi": "Một ngoại lệ xảy ra khi chương trình cố mở tệp không tồn tại.",
+        "source": "original"
+      },
+      {
+        "en": "The developer handled the exception and displayed a helpful message.",
+        "vi": "Lập trình viên đã xử lý ngoại lệ và hiển thị thông báo hữu ích.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "unhandled exception",
+        "vi": "ngoại lệ chưa được xử lý"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3961,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "programming",
+      "debugging"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "prediction",
+    "lemma": "prediction",
+    "pos": "n",
+    "ipa": "/pɹiˈdɪkʃən/",
+    "ipa_us": "/pɹiˈdɪkʃən/",
+    "ipa_uk": "/pɹɪdˈɪkʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "dự đoán về kết quả hoặc sự kiện tương lai",
+    "definition_en": "a statement or estimate about what is likely to happen",
+    "examples": [
+      {
+        "en": "The prediction showed higher electricity demand during the heatwave.",
+        "vi": "Dự đoán cho thấy nhu cầu điện tăng trong đợt nắng nóng.",
+        "source": "original"
+      },
+      {
+        "en": "Managers compared the model's prediction with actual monthly sales.",
+        "vi": "Các nhà quản lý so sánh dự đoán của mô hình với doanh số thực tế hằng tháng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sales prediction",
+        "vi": "dự đoán doanh số"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 7628,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "artificial-intelligence",
+      "analytics"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "classification",
+    "lemma": "classification",
+    "pos": "n",
+    "ipa": "/ˌkɫæsəfəˈkeɪʃən/",
+    "ipa_us": "/ˌkɫæsəfəˈkeɪʃən/",
+    "ipa_uk": "/klˌæsɪfɪkˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "việc phân loại dữ liệu thành các nhóm",
+    "definition_en": "the process of placing items into categories according to shared features",
+    "examples": [
+      {
+        "en": "Classification helps the support system route messages to the right department.",
+        "vi": "Việc phân loại giúp hệ thống hỗ trợ chuyển tin nhắn đến đúng bộ phận.",
+        "source": "original"
+      },
+      {
+        "en": "The team checked the model's classification of customer feedback against human labels.",
+        "vi": "Nhóm đối chiếu việc phân loại phản hồi khách hàng của mô hình với nhãn do con người gán.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "text classification",
+        "vi": "phân loại văn bản"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5330,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  }
+]

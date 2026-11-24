@@ -1,0 +1,5223 @@
+[
+  {
+    "lemma": "thought",
+    "pos": "n",
+    "meaning_vi": "ý nghĩ",
+    "definition_en": "an idea or opinion produced by thinking",
+    "examples": [
+      {
+        "en": "The team discussed the thought during the weekly review.",
+        "vi": "Nhóm đã thảo luận về ý nghĩ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the thought with a practical example.",
+        "vi": "Báo cáo giải thích ý nghĩ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "country",
+    "pos": "n",
+    "meaning_vi": "quốc gia",
+    "definition_en": "a nation with its own government and territory",
+    "examples": [
+      {
+        "en": "The team discussed the country during the weekly review.",
+        "vi": "Nhóm đã thảo luận về quốc gia trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the country with a practical example.",
+        "vi": "Báo cáo giải thích quốc gia bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "major",
+    "pos": "adj",
+    "meaning_vi": "quan trọng",
+    "definition_en": "important in size degree or effect",
+    "examples": [
+      {
+        "en": "The report describes the situation as major.",
+        "vi": "Báo cáo mô tả tình huống là quan trọng."
+      },
+      {
+        "en": "The team discussed why this detail is major.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính quan trọng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "political",
+    "pos": "adj",
+    "meaning_vi": "thuộc chính trị",
+    "definition_en": "relating to government public policy or political activity",
+    "examples": [
+      {
+        "en": "The report describes the situation as political.",
+        "vi": "Báo cáo mô tả tình huống là thuộc chính trị."
+      },
+      {
+        "en": "The team discussed why this detail is political.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc chính trị."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "final",
+    "pos": "adj",
+    "meaning_vi": "cuối cùng",
+    "definition_en": "coming at the end of a process or series",
+    "examples": [
+      {
+        "en": "The report describes the situation as final.",
+        "vi": "Báo cáo mô tả tình huống là cuối cùng."
+      },
+      {
+        "en": "The team discussed why this detail is final.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính cuối cùng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "clear",
+    "pos": "adj",
+    "meaning_vi": "rõ ràng",
+    "definition_en": "easy to understand see or recognize",
+    "examples": [
+      {
+        "en": "The report describes the situation as clear.",
+        "vi": "Báo cáo mô tả tình huống là rõ ràng."
+      },
+      {
+        "en": "The team discussed why this detail is clear.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính rõ ràng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "common",
+    "pos": "adj",
+    "meaning_vi": "phổ biến",
+    "definition_en": "occurring often or shared by many people",
+    "examples": [
+      {
+        "en": "The report describes the situation as common.",
+        "vi": "Báo cáo mô tả tình huống là phổ biến."
+      },
+      {
+        "en": "The team discussed why this detail is common.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính phổ biến."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "member",
+    "pos": "n",
+    "meaning_vi": "thành viên",
+    "definition_en": "a person belonging to a group or organization",
+    "examples": [
+      {
+        "en": "The team discussed the member during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thành viên trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the member with a practical example.",
+        "vi": "Báo cáo giải thích thành viên bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "federal",
+    "pos": "adj",
+    "meaning_vi": "thuộc liên bang",
+    "definition_en": "relating to a national system of shared government",
+    "examples": [
+      {
+        "en": "The report describes the situation as federal.",
+        "vi": "Báo cáo mô tả tình huống là thuộc liên bang."
+      },
+      {
+        "en": "The team discussed why this detail is federal.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc liên bang."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "trust",
+    "pos": "n",
+    "meaning_vi": "sự tin cậy",
+    "definition_en": "belief that someone or something is reliable",
+    "examples": [
+      {
+        "en": "The team discussed the trust during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự tin cậy trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the trust with a practical example.",
+        "vi": "Báo cáo giải thích sự tin cậy bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "style",
+    "pos": "n",
+    "meaning_vi": "phong cách",
+    "definition_en": "a characteristic way of doing presenting or expressing something",
+    "examples": [
+      {
+        "en": "The team discussed the style during the weekly review.",
+        "vi": "Nhóm đã thảo luận về phong cách trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the style with a practical example.",
+        "vi": "Báo cáo giải thích phong cách bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "title",
+    "pos": "n",
+    "meaning_vi": "tiêu đề",
+    "definition_en": "the name given to a document work or position",
+    "examples": [
+      {
+        "en": "The team discussed the title during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tiêu đề trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the title with a practical example.",
+        "vi": "Báo cáo giải thích tiêu đề bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "popular",
+    "pos": "adj",
+    "meaning_vi": "phổ biến",
+    "definition_en": "liked used or supported by many people",
+    "examples": [
+      {
+        "en": "The report describes the situation as popular.",
+        "vi": "Báo cáo mô tả tình huống là phổ biến."
+      },
+      {
+        "en": "The team discussed why this detail is popular.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính phổ biến."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "safe",
+    "pos": "adj",
+    "meaning_vi": "an toàn",
+    "definition_en": "protected from likely harm damage or danger",
+    "examples": [
+      {
+        "en": "The report describes the situation as safe.",
+        "vi": "Báo cáo mô tả tình huống là an toàn."
+      },
+      {
+        "en": "The team discussed why this detail is safe.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính an toàn."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "individual",
+    "pos": "n",
+    "meaning_vi": "cá nhân",
+    "definition_en": "a single person considered separately from a group",
+    "examples": [
+      {
+        "en": "The team discussed the individual during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cá nhân trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the individual with a practical example.",
+        "vi": "Báo cáo giải thích cá nhân bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "particular",
+    "pos": "adj",
+    "meaning_vi": "cụ thể",
+    "definition_en": "relating to one specific person thing or case",
+    "examples": [
+      {
+        "en": "The report describes the situation as particular.",
+        "vi": "Báo cáo mô tả tình huống là cụ thể."
+      },
+      {
+        "en": "The team discussed why this detail is particular.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính cụ thể."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "nature",
+    "pos": "n",
+    "meaning_vi": "bản chất",
+    "definition_en": "the basic qualities or character of something",
+    "examples": [
+      {
+        "en": "The team discussed the nature during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bản chất trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the nature with a practical example.",
+        "vi": "Báo cáo giải thích bản chất bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "planning",
+    "pos": "n",
+    "meaning_vi": "việc lập kế hoạch",
+    "definition_en": "the process of deciding actions before they are carried out",
+    "examples": [
+      {
+        "en": "The team discussed the planning during the weekly review.",
+        "vi": "Nhóm đã thảo luận về việc lập kế hoạch trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the planning with a practical example.",
+        "vi": "Báo cáo giải thích việc lập kế hoạch bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "reality",
+    "pos": "n",
+    "meaning_vi": "thực tế",
+    "definition_en": "the actual state of things as they exist",
+    "examples": [
+      {
+        "en": "The team discussed the reality during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thực tế trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the reality with a practical example.",
+        "vi": "Báo cáo giải thích thực tế bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "primary",
+    "pos": "adj",
+    "meaning_vi": "chính",
+    "definition_en": "most important or first in order of importance",
+    "examples": [
+      {
+        "en": "The report describes the situation as primary.",
+        "vi": "Báo cáo mô tả tình huống là chính."
+      },
+      {
+        "en": "The team discussed why this detail is primary.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chính."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "agency",
+    "pos": "n",
+    "meaning_vi": "cơ quan",
+    "definition_en": "an organization providing a service or carrying out a function",
+    "examples": [
+      {
+        "en": "The team discussed the agency during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cơ quan trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the agency with a practical example.",
+        "vi": "Báo cáo giải thích cơ quan bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "mission",
+    "pos": "n",
+    "meaning_vi": "sứ mệnh",
+    "definition_en": "an important purpose or task assigned to a person or organization",
+    "examples": [
+      {
+        "en": "The team discussed the mission during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sứ mệnh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the mission with a practical example.",
+        "vi": "Báo cáo giải thích sứ mệnh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "status",
+    "pos": "n",
+    "meaning_vi": "trạng thái",
+    "definition_en": "the current condition position or stage of something",
+    "examples": [
+      {
+        "en": "The team discussed the status during the weekly review.",
+        "vi": "Nhóm đã thảo luận về trạng thái trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the status with a practical example.",
+        "vi": "Báo cáo giải thích trạng thái bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "location",
+    "pos": "n",
+    "meaning_vi": "vị trí",
+    "definition_en": "a particular place or position",
+    "examples": [
+      {
+        "en": "The team discussed the location during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vị trí trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the location with a practical example.",
+        "vi": "Báo cáo giải thích vị trí bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "actual",
+    "pos": "adj",
+    "meaning_vi": "thực tế",
+    "definition_en": "existing in fact rather than being expected or imagined",
+    "examples": [
+      {
+        "en": "The report describes the situation as actual.",
+        "vi": "Báo cáo mô tả tình huống là thực tế."
+      },
+      {
+        "en": "The team discussed why this detail is actual.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "attempt",
+    "pos": "n",
+    "meaning_vi": "nỗ lực",
+    "definition_en": "an effort made to achieve or complete something",
+    "examples": [
+      {
+        "en": "The team discussed the attempt during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nỗ lực trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the attempt with a practical example.",
+        "vi": "Báo cáo giải thích nỗ lực bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "channel",
+    "pos": "n",
+    "meaning_vi": "kênh",
+    "definition_en": "a route or medium for communication distribution or transmission",
+    "examples": [
+      {
+        "en": "The team discussed the channel during the weekly review.",
+        "vi": "Nhóm đã thảo luận về kênh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the channel with a practical example.",
+        "vi": "Báo cáo giải thích kênh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "distance",
+    "pos": "n",
+    "meaning_vi": "khoảng cách",
+    "definition_en": "the amount of space between two points",
+    "examples": [
+      {
+        "en": "The team discussed the distance during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khoảng cách trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the distance with a practical example.",
+        "vi": "Báo cáo giải thích khoảng cách bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "protection",
+    "pos": "n",
+    "meaning_vi": "sự bảo vệ",
+    "definition_en": "action taken to prevent harm damage or loss",
+    "examples": [
+      {
+        "en": "The team discussed the protection during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự bảo vệ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the protection with a practical example.",
+        "vi": "Báo cáo giải thích sự bảo vệ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "traditional",
+    "pos": "adj",
+    "meaning_vi": "truyền thống",
+    "definition_en": "based on long-established customs methods or beliefs",
+    "examples": [
+      {
+        "en": "The report describes the situation as traditional.",
+        "vi": "Báo cáo mô tả tình huống là truyền thống."
+      },
+      {
+        "en": "The team discussed why this detail is traditional.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính truyền thống."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "critical",
+    "pos": "adj",
+    "meaning_vi": "quan trọng",
+    "definition_en": "extremely important to the success or outcome of something",
+    "examples": [
+      {
+        "en": "The report describes the situation as critical.",
+        "vi": "Báo cáo mô tả tình huống là quan trọng."
+      },
+      {
+        "en": "The team discussed why this detail is critical.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính quan trọng."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "mental",
+    "pos": "adj",
+    "meaning_vi": "thuộc tinh thần",
+    "definition_en": "relating to the mind thinking or emotional processes",
+    "examples": [
+      {
+        "en": "The report describes the situation as mental.",
+        "vi": "Báo cáo mô tả tình huống là thuộc tinh thần."
+      },
+      {
+        "en": "The team discussed why this detail is mental.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc tinh thần."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "scale",
+    "pos": "n",
+    "meaning_vi": "quy mô",
+    "definition_en": "the size level or extent of something",
+    "examples": [
+      {
+        "en": "The team discussed the scale during the weekly review.",
+        "vi": "Nhóm đã thảo luận về quy mô trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the scale with a practical example.",
+        "vi": "Báo cáo giải thích quy mô bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "surface",
+    "pos": "n",
+    "meaning_vi": "bề mặt",
+    "definition_en": "the outer or upper boundary of an object or material",
+    "examples": [
+      {
+        "en": "The team discussed the surface during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bề mặt trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the surface with a practical example.",
+        "vi": "Báo cáo giải thích bề mặt bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "generation",
+    "pos": "n",
+    "meaning_vi": "thế hệ",
+    "definition_en": "a group from the same period or a stage of technology development",
+    "examples": [
+      {
+        "en": "The team discussed the generation during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thế hệ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the generation with a practical example.",
+        "vi": "Báo cáo giải thích thế hệ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "metal",
+    "pos": "n",
+    "meaning_vi": "kim loại",
+    "definition_en": "a material typically strong conductive and formed from metallic elements",
+    "examples": [
+      {
+        "en": "The team discussed the metal during the weekly review.",
+        "vi": "Nhóm đã thảo luận về kim loại trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the metal with a practical example.",
+        "vi": "Báo cáo giải thích kim loại bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "profile",
+    "pos": "n",
+    "meaning_vi": "hồ sơ",
+    "definition_en": "a summary of characteristics information or activity about a person or entity",
+    "examples": [
+      {
+        "en": "The team discussed the profile during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hồ sơ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the profile with a practical example.",
+        "vi": "Báo cáo giải thích hồ sơ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "rare",
+    "pos": "adj",
+    "meaning_vi": "hiếm",
+    "definition_en": "not common and occurring only occasionally",
+    "examples": [
+      {
+        "en": "The report describes the situation as rare.",
+        "vi": "Báo cáo mô tả tình huống là hiếm."
+      },
+      {
+        "en": "The team discussed why this detail is rare.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính hiếm."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "permanent",
+    "pos": "adj",
+    "meaning_vi": "lâu dài",
+    "definition_en": "intended to continue without a fixed end",
+    "examples": [
+      {
+        "en": "The report describes the situation as permanent.",
+        "vi": "Báo cáo mô tả tình huống là lâu dài."
+      },
+      {
+        "en": "The team discussed why this detail is permanent.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính lâu dài."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "representative",
+    "pos": "n",
+    "meaning_vi": "đại diện",
+    "definition_en": "a person chosen to act or speak for others",
+    "examples": [
+      {
+        "en": "The team discussed the representative during the weekly review.",
+        "vi": "Nhóm đã thảo luận về đại diện trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the representative with a practical example.",
+        "vi": "Báo cáo giải thích đại diện bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "scheme",
+    "pos": "n",
+    "meaning_vi": "kế hoạch",
+    "definition_en": "an organized plan or system for achieving a purpose",
+    "examples": [
+      {
+        "en": "The team discussed the scheme during the weekly review.",
+        "vi": "Nhóm đã thảo luận về kế hoạch trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the scheme with a practical example.",
+        "vi": "Báo cáo giải thích kế hoạch bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "transportation",
+    "pos": "n",
+    "meaning_vi": "vận tải",
+    "definition_en": "the movement of people or goods between places",
+    "examples": [
+      {
+        "en": "The team discussed the transportation during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vận tải trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the transportation with a practical example.",
+        "vi": "Báo cáo giải thích vận tải bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "creation",
+    "pos": "n",
+    "meaning_vi": "sự tạo ra",
+    "definition_en": "the act or process of making something new",
+    "examples": [
+      {
+        "en": "The team discussed the creation during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự tạo ra trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the creation with a practical example.",
+        "vi": "Báo cáo giải thích sự tạo ra bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "employment",
+    "pos": "n",
+    "meaning_vi": "việc làm",
+    "definition_en": "paid work or the state of having a job",
+    "examples": [
+      {
+        "en": "The team discussed the employment during the weekly review.",
+        "vi": "Nhóm đã thảo luận về việc làm trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the employment with a practical example.",
+        "vi": "Báo cáo giải thích việc làm bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "expert",
+    "pos": "n",
+    "meaning_vi": "chuyên gia",
+    "definition_en": "a person with deep knowledge or skill in a field",
+    "examples": [
+      {
+        "en": "The team discussed the expert during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chuyên gia trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the expert with a practical example.",
+        "vi": "Báo cáo giải thích chuyên gia bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "importance",
+    "pos": "n",
+    "meaning_vi": "tầm quan trọng",
+    "definition_en": "the quality of having significant value or influence",
+    "examples": [
+      {
+        "en": "The team discussed the importance during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tầm quan trọng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the importance with a practical example.",
+        "vi": "Báo cáo giải thích tầm quan trọng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "manufacturing",
+    "pos": "n",
+    "meaning_vi": "sản xuất công nghiệp",
+    "definition_en": "the large-scale production of goods using processes and machinery",
+    "examples": [
+      {
+        "en": "The team discussed the manufacturing during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sản xuất công nghiệp trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the manufacturing with a practical example.",
+        "vi": "Báo cáo giải thích sản xuất công nghiệp bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "severe",
+    "pos": "adj",
+    "meaning_vi": "nghiêm trọng",
+    "definition_en": "very serious intense or damaging",
+    "examples": [
+      {
+        "en": "The report describes the situation as severe.",
+        "vi": "Báo cáo mô tả tình huống là nghiêm trọng."
+      },
+      {
+        "en": "The team discussed why this detail is severe.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính nghiêm trọng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "carbon",
+    "pos": "n",
+    "meaning_vi": "cacbon",
+    "definition_en": "a chemical element central to organic matter and many technologies",
+    "examples": [
+      {
+        "en": "The team discussed the carbon during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cacbon trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the carbon with a practical example.",
+        "vi": "Báo cáo giải thích cacbon bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "depth",
+    "pos": "n",
+    "meaning_vi": "độ sâu",
+    "definition_en": "the distance from a surface downward or the level of detail",
+    "examples": [
+      {
+        "en": "The team discussed the depth during the weekly review.",
+        "vi": "Nhóm đã thảo luận về độ sâu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the depth with a practical example.",
+        "vi": "Báo cáo giải thích độ sâu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "electronic",
+    "pos": "adj",
+    "meaning_vi": "điện tử",
+    "definition_en": "using components that control electrical signals or digital information",
+    "examples": [
+      {
+        "en": "The report describes the situation as electronic.",
+        "vi": "Báo cáo mô tả tình huống là điện tử."
+      },
+      {
+        "en": "The team discussed why this detail is electronic.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính điện tử."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "existence",
+    "pos": "n",
+    "meaning_vi": "sự tồn tại",
+    "definition_en": "the state of being real or present",
+    "examples": [
+      {
+        "en": "The team discussed the existence during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự tồn tại trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the existence with a practical example.",
+        "vi": "Báo cáo giải thích sự tồn tại bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "expression",
+    "pos": "n",
+    "meaning_vi": "biểu đạt",
+    "definition_en": "a word phrase form or act used to communicate meaning",
+    "examples": [
+      {
+        "en": "The team discussed the expression during the weekly review.",
+        "vi": "Nhóm đã thảo luận về biểu đạt trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the expression with a practical example.",
+        "vi": "Báo cáo giải thích biểu đạt bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "legislation",
+    "pos": "n",
+    "meaning_vi": "pháp luật",
+    "definition_en": "laws considered collectively or the process of making them",
+    "examples": [
+      {
+        "en": "The team discussed the legislation during the weekly review.",
+        "vi": "Nhóm đã thảo luận về pháp luật trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the legislation with a practical example.",
+        "vi": "Báo cáo giải thích pháp luật bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "origin",
+    "pos": "n",
+    "meaning_vi": "nguồn gốc",
+    "definition_en": "the point place or cause where something begins",
+    "examples": [
+      {
+        "en": "The team discussed the origin during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nguồn gốc trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the origin with a practical example.",
+        "vi": "Báo cáo giải thích nguồn gốc bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "advertising",
+    "pos": "n",
+    "meaning_vi": "quảng cáo",
+    "definition_en": "the activity of promoting products services or ideas to an audience",
+    "examples": [
+      {
+        "en": "The team discussed the advertising during the weekly review.",
+        "vi": "Nhóm đã thảo luận về quảng cáo trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the advertising with a practical example.",
+        "vi": "Báo cáo giải thích quảng cáo bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "broad",
+    "pos": "adj",
+    "meaning_vi": "rộng",
+    "definition_en": "covering a wide range area or set of subjects",
+    "examples": [
+      {
+        "en": "The report describes the situation as broad.",
+        "vi": "Báo cáo mô tả tình huống là rộng."
+      },
+      {
+        "en": "The team discussed why this detail is broad.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính rộng."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "height",
+    "pos": "n",
+    "meaning_vi": "chiều cao",
+    "definition_en": "the vertical distance from bottom to top",
+    "examples": [
+      {
+        "en": "The team discussed the height during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chiều cao trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the height with a practical example.",
+        "vi": "Báo cáo giải thích chiều cao bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "marine",
+    "pos": "adj",
+    "meaning_vi": "thuộc biển",
+    "definition_en": "relating to the sea or organisms and activities in it",
+    "examples": [
+      {
+        "en": "The report describes the situation as marine.",
+        "vi": "Báo cáo mô tả tình huống là thuộc biển."
+      },
+      {
+        "en": "The team discussed why this detail is marine.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc biển."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "motor",
+    "pos": "n",
+    "meaning_vi": "động cơ",
+    "definition_en": "a machine that converts energy into mechanical movement",
+    "examples": [
+      {
+        "en": "The team discussed the motor during the weekly review.",
+        "vi": "Nhóm đã thảo luận về động cơ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the motor with a practical example.",
+        "vi": "Báo cáo giải thích động cơ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "peak",
+    "pos": "n",
+    "meaning_vi": "mức đỉnh",
+    "definition_en": "the highest level point or period of activity",
+    "examples": [
+      {
+        "en": "The team discussed the peak during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mức đỉnh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the peak with a practical example.",
+        "vi": "Báo cáo giải thích mức đỉnh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "protein",
+    "pos": "n",
+    "meaning_vi": "protein",
+    "definition_en": "a nutrient and biological molecule made from amino acids",
+    "examples": [
+      {
+        "en": "The team discussed the protein during the weekly review.",
+        "vi": "Nhóm đã thảo luận về protein trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the protein with a practical example.",
+        "vi": "Báo cáo giải thích protein bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "raw",
+    "pos": "adj",
+    "meaning_vi": "thô",
+    "definition_en": "not yet processed refined or fully analyzed",
+    "examples": [
+      {
+        "en": "The report describes the situation as raw.",
+        "vi": "Báo cáo mô tả tình huống là thô."
+      },
+      {
+        "en": "The team discussed why this detail is raw.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thô."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "reform",
+    "pos": "n",
+    "meaning_vi": "cải cách",
+    "definition_en": "a change intended to improve a system or institution",
+    "examples": [
+      {
+        "en": "The team discussed the reform during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cải cách trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the reform with a practical example.",
+        "vi": "Báo cáo giải thích cải cách bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "secondary",
+    "pos": "adj",
+    "meaning_vi": "thứ yếu",
+    "definition_en": "less important than the main or primary part",
+    "examples": [
+      {
+        "en": "The report describes the situation as secondary.",
+        "vi": "Báo cáo mô tả tình huống là thứ yếu."
+      },
+      {
+        "en": "The team discussed why this detail is secondary.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thứ yếu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "solar",
+    "pos": "adj",
+    "meaning_vi": "thuộc năng lượng mặt trời",
+    "definition_en": "relating to the sun or energy obtained from sunlight",
+    "examples": [
+      {
+        "en": "The report describes the situation as solar.",
+        "vi": "Báo cáo mô tả tình huống là thuộc năng lượng mặt trời."
+      },
+      {
+        "en": "The team discussed why this detail is solar.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc năng lượng mặt trời."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "brief",
+    "pos": "adj",
+    "meaning_vi": "ngắn gọn",
+    "definition_en": "short in time length or detail",
+    "examples": [
+      {
+        "en": "The report describes the situation as brief.",
+        "vi": "Báo cáo mô tả tình huống là ngắn gọn."
+      },
+      {
+        "en": "The team discussed why this detail is brief.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính ngắn gọn."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "conduct",
+    "pos": "n",
+    "meaning_vi": "cách hành xử",
+    "definition_en": "the way a person behaves especially in professional situations",
+    "examples": [
+      {
+        "en": "The team discussed the conduct during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cách hành xử trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the conduct with a practical example.",
+        "vi": "Báo cáo giải thích cách hành xử bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "decade",
+    "pos": "n",
+    "meaning_vi": "thập kỷ",
+    "definition_en": "a period of ten years",
+    "examples": [
+      {
+        "en": "The team discussed the decade during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thập kỷ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the decade with a practical example.",
+        "vi": "Báo cáo giải thích thập kỷ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "immediate",
+    "pos": "adj",
+    "meaning_vi": "ngay lập tức",
+    "definition_en": "occurring at once or very close in time or place",
+    "examples": [
+      {
+        "en": "The report describes the situation as immediate.",
+        "vi": "Báo cáo mô tả tình huống là ngay lập tức."
+      },
+      {
+        "en": "The team discussed why this detail is immediate.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính ngay lập tức."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "introduction",
+    "pos": "n",
+    "meaning_vi": "phần giới thiệu",
+    "definition_en": "the opening part that presents a subject or person",
+    "examples": [
+      {
+        "en": "The team discussed the introduction during the weekly review.",
+        "vi": "Nhóm đã thảo luận về phần giới thiệu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the introduction with a practical example.",
+        "vi": "Báo cáo giải thích phần giới thiệu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "principal",
+    "pos": "adj",
+    "meaning_vi": "chủ yếu",
+    "definition_en": "most important or main",
+    "examples": [
+      {
+        "en": "The report describes the situation as principal.",
+        "vi": "Báo cáo mô tả tình huống là chủ yếu."
+      },
+      {
+        "en": "The team discussed why this detail is principal.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chủ yếu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "shipping",
+    "pos": "n",
+    "meaning_vi": "vận chuyển hàng",
+    "definition_en": "the process of sending goods from one place to another",
+    "examples": [
+      {
+        "en": "The team discussed the shipping during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vận chuyển hàng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the shipping with a practical example.",
+        "vi": "Báo cáo giải thích vận chuyển hàng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "clinical",
+    "pos": "adj",
+    "meaning_vi": "thuộc lâm sàng",
+    "definition_en": "relating to medical treatment observation or patient care",
+    "examples": [
+      {
+        "en": "The report describes the situation as clinical.",
+        "vi": "Báo cáo mô tả tình huống là thuộc lâm sàng."
+      },
+      {
+        "en": "The team discussed why this detail is clinical.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc lâm sàng."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "detailed",
+    "pos": "adj",
+    "meaning_vi": "chi tiết",
+    "definition_en": "including many specific facts features or parts",
+    "examples": [
+      {
+        "en": "The report describes the situation as detailed.",
+        "vi": "Báo cáo mô tả tình huống là chi tiết."
+      },
+      {
+        "en": "The team discussed why this detail is detailed.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chi tiết."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "exact",
+    "pos": "adj",
+    "meaning_vi": "chính xác",
+    "definition_en": "completely correct precise or matching a requirement",
+    "examples": [
+      {
+        "en": "The report describes the situation as exact.",
+        "vi": "Báo cáo mô tả tình huống là chính xác."
+      },
+      {
+        "en": "The team discussed why this detail is exact.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chính xác."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "plastic",
+    "pos": "n",
+    "meaning_vi": "nhựa",
+    "definition_en": "a moldable synthetic material used in many products",
+    "examples": [
+      {
+        "en": "The team discussed the plastic during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nhựa trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the plastic with a practical example.",
+        "vi": "Báo cáo giải thích nhựa bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "valuable",
+    "pos": "adj",
+    "meaning_vi": "có giá trị",
+    "definition_en": "worth a great deal or especially useful",
+    "examples": [
+      {
+        "en": "The report describes the situation as valuable.",
+        "vi": "Báo cáo mô tả tình huống là có giá trị."
+      },
+      {
+        "en": "The team discussed why this detail is valuable.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính có giá trị."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "wealth",
+    "pos": "n",
+    "meaning_vi": "tài sản",
+    "definition_en": "a large amount of money property or valuable resources",
+    "examples": [
+      {
+        "en": "The team discussed the wealth during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tài sản trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the wealth with a practical example.",
+        "vi": "Báo cáo giải thích tài sản bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "convention",
+    "pos": "n",
+    "meaning_vi": "quy ước",
+    "definition_en": "an accepted practice rule or formal meeting",
+    "examples": [
+      {
+        "en": "The team discussed the convention during the weekly review.",
+        "vi": "Nhóm đã thảo luận về quy ước trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the convention with a practical example.",
+        "vi": "Báo cáo giải thích quy ước bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "equivalent",
+    "pos": "adj",
+    "meaning_vi": "tương đương",
+    "definition_en": "equal in value meaning function or effect",
+    "examples": [
+      {
+        "en": "The report describes the situation as equivalent.",
+        "vi": "Báo cáo mô tả tình huống là tương đương."
+      },
+      {
+        "en": "The team discussed why this detail is equivalent.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tương đương."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "graduate",
+    "pos": "n",
+    "meaning_vi": "người tốt nghiệp",
+    "definition_en": "a person who has completed a course or degree",
+    "examples": [
+      {
+        "en": "The team discussed the graduate during the weekly review.",
+        "vi": "Nhóm đã thảo luận về người tốt nghiệp trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the graduate with a practical example.",
+        "vi": "Báo cáo giải thích người tốt nghiệp bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "inner",
+    "pos": "adj",
+    "meaning_vi": "bên trong",
+    "definition_en": "located inside or closer to the center",
+    "examples": [
+      {
+        "en": "The report describes the situation as inner.",
+        "vi": "Báo cáo mô tả tình huống là bên trong."
+      },
+      {
+        "en": "The team discussed why this detail is inner.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính bên trong."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "monthly",
+    "pos": "adj",
+    "meaning_vi": "hằng tháng",
+    "definition_en": "occurring produced or calculated once each month",
+    "examples": [
+      {
+        "en": "The report describes the situation as monthly.",
+        "vi": "Báo cáo mô tả tình huống là hằng tháng."
+      },
+      {
+        "en": "The team discussed why this detail is monthly.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính hằng tháng."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "visual",
+    "pos": "adj",
+    "meaning_vi": "thuộc thị giác",
+    "definition_en": "relating to seeing images or visual presentation",
+    "examples": [
+      {
+        "en": "The report describes the situation as visual.",
+        "vi": "Báo cáo mô tả tình huống là thuộc thị giác."
+      },
+      {
+        "en": "The team discussed why this detail is visual.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc thị giác."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "cabinet",
+    "pos": "n",
+    "meaning_vi": "nội các",
+    "definition_en": "a group of senior government ministers or advisers",
+    "examples": [
+      {
+        "en": "The team discussed the cabinet during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nội các trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the cabinet with a practical example.",
+        "vi": "Báo cáo giải thích nội các bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "contemporary",
+    "pos": "adj",
+    "meaning_vi": "đương đại",
+    "definition_en": "belonging to the present period or the same time",
+    "examples": [
+      {
+        "en": "The report describes the situation as contemporary.",
+        "vi": "Báo cáo mô tả tình huống là đương đại."
+      },
+      {
+        "en": "The team discussed why this detail is contemporary.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính đương đại."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "criticism",
+    "pos": "n",
+    "meaning_vi": "sự phê bình",
+    "definition_en": "analysis or judgment that identifies faults or evaluates quality",
+    "examples": [
+      {
+        "en": "The team discussed the criticism during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự phê bình trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the criticism with a practical example.",
+        "vi": "Báo cáo giải thích sự phê bình bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "extensive",
+    "pos": "adj",
+    "meaning_vi": "rộng lớn",
+    "definition_en": "covering a large area amount range or degree",
+    "examples": [
+      {
+        "en": "The report describes the situation as extensive.",
+        "vi": "Báo cáo mô tả tình huống là rộng lớn."
+      },
+      {
+        "en": "The team discussed why this detail is extensive.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính rộng lớn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "formation",
+    "pos": "n",
+    "meaning_vi": "sự hình thành",
+    "definition_en": "the process by which something develops or takes shape",
+    "examples": [
+      {
+        "en": "The team discussed the formation during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự hình thành trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the formation with a practical example.",
+        "vi": "Báo cáo giải thích sự hình thành bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "philosophy",
+    "pos": "n",
+    "meaning_vi": "triết lý",
+    "definition_en": "a system of ideas about knowledge values or guiding principles",
+    "examples": [
+      {
+        "en": "The team discussed the philosophy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về triết lý trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the philosophy with a practical example.",
+        "vi": "Báo cáo giải thích triết lý bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "universal",
+    "pos": "adj",
+    "meaning_vi": "phổ quát",
+    "definition_en": "applying to all people things or cases of a type",
+    "examples": [
+      {
+        "en": "The report describes the situation as universal.",
+        "vi": "Báo cáo mô tả tình huống là phổ quát."
+      },
+      {
+        "en": "The team discussed why this detail is universal.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính phổ quát."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "vast",
+    "pos": "adj",
+    "meaning_vi": "rất rộng lớn",
+    "definition_en": "extremely large in area amount or extent",
+    "examples": [
+      {
+        "en": "The report describes the situation as vast.",
+        "vi": "Báo cáo mô tả tình huống là rất rộng lớn."
+      },
+      {
+        "en": "The team discussed why this detail is vast.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính rất rộng lớn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "relative",
+    "pos": "adj",
+    "meaning_vi": "tương đối",
+    "definition_en": "considered in relation to something else rather than absolutely",
+    "examples": [
+      {
+        "en": "The report describes the situation as relative.",
+        "vi": "Báo cáo mô tả tình huống là tương đối."
+      },
+      {
+        "en": "The team discussed why this detail is relative.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tương đối."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "temporary",
+    "pos": "adj",
+    "meaning_vi": "tạm thời",
+    "definition_en": "lasting only for a limited period",
+    "examples": [
+      {
+        "en": "The report describes the situation as temporary.",
+        "vi": "Báo cáo mô tả tình huống là tạm thời."
+      },
+      {
+        "en": "The team discussed why this detail is temporary.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tạm thời."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "chart",
+    "pos": "n",
+    "meaning_vi": "biểu đồ",
+    "definition_en": "a visual display of data relationships or categories",
+    "examples": [
+      {
+        "en": "The team discussed the chart during the weekly review.",
+        "vi": "Nhóm đã thảo luận về biểu đồ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chart with a practical example.",
+        "vi": "Báo cáo giải thích biểu đồ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "complicated",
+    "pos": "adj",
+    "meaning_vi": "phức tạp",
+    "definition_en": "containing many connected parts and difficult to understand",
+    "examples": [
+      {
+        "en": "The report describes the situation as complicated.",
+        "vi": "Báo cáo mô tả tình huống là phức tạp."
+      },
+      {
+        "en": "The team discussed why this detail is complicated.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính phức tạp."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "extent",
+    "pos": "n",
+    "meaning_vi": "mức độ",
+    "definition_en": "the amount degree or range to which something exists",
+    "examples": [
+      {
+        "en": "The team discussed the extent during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mức độ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the extent with a practical example.",
+        "vi": "Báo cáo giải thích mức độ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "gap",
+    "pos": "n",
+    "meaning_vi": "khoảng cách",
+    "definition_en": "a difference or missing space between two states groups or values",
+    "examples": [
+      {
+        "en": "The team discussed the gap during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khoảng cách trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the gap with a practical example.",
+        "vi": "Báo cáo giải thích khoảng cách bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "household",
+    "pos": "n",
+    "meaning_vi": "hộ gia đình",
+    "definition_en": "people living together and sharing domestic resources",
+    "examples": [
+      {
+        "en": "The team discussed the household during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hộ gia đình trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the household with a practical example.",
+        "vi": "Báo cáo giải thích hộ gia đình bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "impressive",
+    "pos": "adj",
+    "meaning_vi": "ấn tượng",
+    "definition_en": "causing admiration because of quality skill or scale",
+    "examples": [
+      {
+        "en": "The report describes the situation as impressive.",
+        "vi": "Báo cáo mô tả tình huống là ấn tượng."
+      },
+      {
+        "en": "The team discussed why this detail is impressive.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính ấn tượng."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "membership",
+    "pos": "n",
+    "meaning_vi": "tư cách thành viên",
+    "definition_en": "the state or status of belonging to a group",
+    "examples": [
+      {
+        "en": "The team discussed the membership during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tư cách thành viên trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the membership with a practical example.",
+        "vi": "Báo cáo giải thích tư cách thành viên bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "technique",
+    "pos": "n",
+    "meaning_vi": "kỹ thuật",
+    "definition_en": "a specific practical method for performing a task",
+    "examples": [
+      {
+        "en": "The team discussed the technique during the weekly review.",
+        "vi": "Nhóm đã thảo luận về kỹ thuật trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the technique with a practical example.",
+        "vi": "Báo cáo giải thích kỹ thuật bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "atmosphere",
+    "pos": "n",
+    "meaning_vi": "bầu không khí",
+    "definition_en": "the surrounding mood conditions or layer of gases around a planet",
+    "examples": [
+      {
+        "en": "The team discussed the atmosphere during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bầu không khí trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the atmosphere with a practical example.",
+        "vi": "Báo cáo giải thích bầu không khí bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "belief",
+    "pos": "n",
+    "meaning_vi": "niềm tin",
+    "definition_en": "an idea accepted as true or strongly held",
+    "examples": [
+      {
+        "en": "The team discussed the belief during the weekly review.",
+        "vi": "Nhóm đã thảo luận về niềm tin trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the belief with a practical example.",
+        "vi": "Báo cáo giải thích niềm tin bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "element",
+    "pos": "n",
+    "meaning_vi": "yếu tố",
+    "definition_en": "a basic part or component of a larger whole",
+    "examples": [
+      {
+        "en": "The team discussed the element during the weekly review.",
+        "vi": "Nhóm đã thảo luận về yếu tố trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the element with a practical example.",
+        "vi": "Báo cáo giải thích yếu tố bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "poverty",
+    "pos": "n",
+    "meaning_vi": "nghèo đói",
+    "definition_en": "the state of having very limited money and resources",
+    "examples": [
+      {
+        "en": "The team discussed the poverty during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nghèo đói trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the poverty with a practical example.",
+        "vi": "Báo cáo giải thích nghèo đói bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "sensitive",
+    "pos": "adj",
+    "meaning_vi": "nhạy cảm",
+    "definition_en": "easily affected or requiring careful handling",
+    "examples": [
+      {
+        "en": "The report describes the situation as sensitive.",
+        "vi": "Báo cáo mô tả tình huống là nhạy cảm."
+      },
+      {
+        "en": "The team discussed why this detail is sensitive.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính nhạy cảm."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "transition",
+    "pos": "n",
+    "meaning_vi": "sự chuyển đổi",
+    "definition_en": "the process of changing from one state system or stage to another",
+    "examples": [
+      {
+        "en": "The team discussed the transition during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự chuyển đổi trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the transition with a practical example.",
+        "vi": "Báo cáo giải thích sự chuyển đổi bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "anxiety",
+    "pos": "n",
+    "meaning_vi": "sự lo âu",
+    "definition_en": "a feeling of worry tension or unease",
+    "examples": [
+      {
+        "en": "The team discussed the anxiety during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự lo âu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the anxiety with a practical example.",
+        "vi": "Báo cáo giải thích sự lo âu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "charity",
+    "pos": "n",
+    "meaning_vi": "tổ chức từ thiện",
+    "definition_en": "an organization or activity providing help to people in need",
+    "examples": [
+      {
+        "en": "The team discussed the charity during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tổ chức từ thiện trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the charity with a practical example.",
+        "vi": "Báo cáo giải thích tổ chức từ thiện bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "curious",
+    "pos": "adj",
+    "meaning_vi": "tò mò",
+    "definition_en": "wanting to know or learn more about something",
+    "examples": [
+      {
+        "en": "The report describes the situation as curious.",
+        "vi": "Báo cáo mô tả tình huống là tò mò."
+      },
+      {
+        "en": "The team discussed why this detail is curious.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tò mò."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "discovery",
+    "pos": "n",
+    "meaning_vi": "sự khám phá",
+    "definition_en": "the act of finding or learning something previously unknown",
+    "examples": [
+      {
+        "en": "The team discussed the discovery during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự khám phá trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the discovery with a practical example.",
+        "vi": "Báo cáo giải thích sự khám phá bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "enforcement",
+    "pos": "n",
+    "meaning_vi": "sự thực thi",
+    "definition_en": "the act of making sure rules or laws are obeyed",
+    "examples": [
+      {
+        "en": "The team discussed the enforcement during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự thực thi trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the enforcement with a practical example.",
+        "vi": "Báo cáo giải thích sự thực thi bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "sequence",
+    "pos": "n",
+    "meaning_vi": "trình tự",
+    "definition_en": "a set of events or items arranged in a particular order",
+    "examples": [
+      {
+        "en": "The team discussed the sequence during the weekly review.",
+        "vi": "Nhóm đã thảo luận về trình tự trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the sequence with a practical example.",
+        "vi": "Báo cáo giải thích trình tự bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "industrial",
+    "pos": "adj",
+    "meaning_vi": "thuộc công nghiệp",
+    "definition_en": "relating to industry manufacturing or large-scale production",
+    "examples": [
+      {
+        "en": "The report describes the situation as industrial.",
+        "vi": "Báo cáo mô tả tình huống là thuộc công nghiệp."
+      },
+      {
+        "en": "The team discussed why this detail is industrial.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc công nghiệp."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "joint",
+    "pos": "adj",
+    "meaning_vi": "chung",
+    "definition_en": "shared or carried out by two or more parties",
+    "examples": [
+      {
+        "en": "The report describes the situation as joint.",
+        "vi": "Báo cáo mô tả tình huống là chung."
+      },
+      {
+        "en": "The team discussed why this detail is joint.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chung."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "museum",
+    "pos": "n",
+    "meaning_vi": "bảo tàng",
+    "definition_en": "a place that collects preserves and displays important objects",
+    "examples": [
+      {
+        "en": "The team discussed the museum during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bảo tàng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the museum with a practical example.",
+        "vi": "Báo cáo giải thích bảo tàng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "promise",
+    "pos": "n",
+    "meaning_vi": "lời hứa",
+    "definition_en": "a commitment that something will be done or happen",
+    "examples": [
+      {
+        "en": "The team discussed the promise during the weekly review.",
+        "vi": "Nhóm đã thảo luận về lời hứa trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the promise with a practical example.",
+        "vi": "Báo cáo giải thích lời hứa bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "steel",
+    "pos": "n",
+    "meaning_vi": "thép",
+    "definition_en": "a strong metal alloy mainly made from iron and carbon",
+    "examples": [
+      {
+        "en": "The team discussed the steel during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thép trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the steel with a practical example.",
+        "vi": "Báo cáo giải thích thép bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "border",
+    "pos": "n",
+    "meaning_vi": "biên giới",
+    "definition_en": "a line separating countries regions or defined areas",
+    "examples": [
+      {
+        "en": "The team discussed the border during the weekly review.",
+        "vi": "Nhóm đã thảo luận về biên giới trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the border with a practical example.",
+        "vi": "Báo cáo giải thích biên giới bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "crew",
+    "pos": "n",
+    "meaning_vi": "đội ngũ",
+    "definition_en": "a group of people working together on a vehicle or task",
+    "examples": [
+      {
+        "en": "The team discussed the crew during the weekly review.",
+        "vi": "Nhóm đã thảo luận về đội ngũ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the crew with a practical example.",
+        "vi": "Báo cáo giải thích đội ngũ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "crowd",
+    "pos": "n",
+    "meaning_vi": "đám đông",
+    "definition_en": "a large group of people gathered in one place",
+    "examples": [
+      {
+        "en": "The team discussed the crowd during the weekly review.",
+        "vi": "Nhóm đã thảo luận về đám đông trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the crowd with a practical example.",
+        "vi": "Báo cáo giải thích đám đông bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "environmental",
+    "pos": "adj",
+    "meaning_vi": "thuộc môi trường",
+    "definition_en": "relating to the natural world and human effects on it",
+    "examples": [
+      {
+        "en": "The report describes the situation as environmental.",
+        "vi": "Báo cáo mô tả tình huống là thuộc môi trường."
+      },
+      {
+        "en": "The team discussed why this detail is environmental.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc môi trường."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "fixed",
+    "pos": "adj",
+    "meaning_vi": "cố định",
+    "definition_en": "set in place or arranged so it does not change",
+    "examples": [
+      {
+        "en": "The report describes the situation as fixed.",
+        "vi": "Báo cáo mô tả tình huống là cố định."
+      },
+      {
+        "en": "The team discussed why this detail is fixed.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính cố định."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "forest",
+    "pos": "n",
+    "meaning_vi": "rừng",
+    "definition_en": "a large area covered mainly with trees and other vegetation",
+    "examples": [
+      {
+        "en": "The team discussed the forest during the weekly review.",
+        "vi": "Nhóm đã thảo luận về rừng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the forest with a practical example.",
+        "vi": "Báo cáo giải thích rừng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "intelligence",
+    "pos": "n",
+    "meaning_vi": "trí tuệ",
+    "definition_en": "the ability to learn understand reason and solve problems",
+    "examples": [
+      {
+        "en": "The team discussed the intelligence during the weekly review.",
+        "vi": "Nhóm đã thảo luận về trí tuệ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the intelligence with a practical example.",
+        "vi": "Báo cáo giải thích trí tuệ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "limit",
+    "pos": "n",
+    "meaning_vi": "giới hạn",
+    "definition_en": "a boundary or maximum amount that should not be exceeded",
+    "examples": [
+      {
+        "en": "The team discussed the limit during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giới hạn trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the limit with a practical example.",
+        "vi": "Báo cáo giải thích giới hạn bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "ocean",
+    "pos": "n",
+    "meaning_vi": "đại dương",
+    "definition_en": "a very large body of salt water covering much of Earth",
+    "examples": [
+      {
+        "en": "The team discussed the ocean during the weekly review.",
+        "vi": "Nhóm đã thảo luận về đại dương trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the ocean with a practical example.",
+        "vi": "Báo cáo giải thích đại dương bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "proof",
+    "pos": "n",
+    "meaning_vi": "bằng chứng xác thực",
+    "definition_en": "evidence that demonstrates a statement or conclusion is true",
+    "examples": [
+      {
+        "en": "The team discussed the proof during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bằng chứng xác thực trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the proof with a practical example.",
+        "vi": "Báo cáo giải thích bằng chứng xác thực bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "appearance",
+    "pos": "n",
+    "meaning_vi": "vẻ ngoài",
+    "definition_en": "the way someone or something looks or seems",
+    "examples": [
+      {
+        "en": "The team discussed the appearance during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vẻ ngoài trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the appearance with a practical example.",
+        "vi": "Báo cáo giải thích vẻ ngoài bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "behavior",
+    "pos": "n",
+    "meaning_vi": "hành vi",
+    "definition_en": "the way a person system or organism acts",
+    "examples": [
+      {
+        "en": "The team discussed the behavior during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hành vi trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the behavior with a practical example.",
+        "vi": "Báo cáo giải thích hành vi bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "domestic",
+    "pos": "adj",
+    "meaning_vi": "trong nước",
+    "definition_en": "relating to activities within one country or home",
+    "examples": [
+      {
+        "en": "The report describes the situation as domestic.",
+        "vi": "Báo cáo mô tả tình huống là trong nước."
+      },
+      {
+        "en": "The team discussed why this detail is domestic.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính trong nước."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "historical",
+    "pos": "adj",
+    "meaning_vi": "thuộc lịch sử",
+    "definition_en": "relating to past events people or periods",
+    "examples": [
+      {
+        "en": "The report describes the situation as historical.",
+        "vi": "Báo cáo mô tả tình huống là thuộc lịch sử."
+      },
+      {
+        "en": "The team discussed why this detail is historical.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc lịch sử."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "native",
+    "pos": "adj",
+    "meaning_vi": "bản địa",
+    "definition_en": "originating naturally in a particular place or environment",
+    "examples": [
+      {
+        "en": "The report describes the situation as native.",
+        "vi": "Báo cáo mô tả tình huống là bản địa."
+      },
+      {
+        "en": "The team discussed why this detail is native.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính bản địa."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "ray",
+    "pos": "n",
+    "meaning_vi": "tia",
+    "definition_en": "a narrow beam of light heat or other radiation",
+    "examples": [
+      {
+        "en": "The team discussed the ray during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tia trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the ray with a practical example.",
+        "vi": "Báo cáo giải thích tia bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "supreme",
+    "pos": "adj",
+    "meaning_vi": "cao nhất",
+    "definition_en": "highest in rank authority quality or importance",
+    "examples": [
+      {
+        "en": "The report describes the situation as supreme.",
+        "vi": "Báo cáo mô tả tình huống là cao nhất."
+      },
+      {
+        "en": "The team discussed why this detail is supreme.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính cao nhất."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "flow",
+    "pos": "n",
+    "meaning_vi": "dòng chảy",
+    "definition_en": "continuous movement of a substance information or activity",
+    "examples": [
+      {
+        "en": "The team discussed the flow during the weekly review.",
+        "vi": "Nhóm đã thảo luận về dòng chảy trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the flow with a practical example.",
+        "vi": "Báo cáo giải thích dòng chảy bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "illegal",
+    "pos": "adj",
+    "meaning_vi": "bất hợp pháp",
+    "definition_en": "forbidden by law or official rules",
+    "examples": [
+      {
+        "en": "The report describes the situation as illegal.",
+        "vi": "Báo cáo mô tả tình huống là bất hợp pháp."
+      },
+      {
+        "en": "The team discussed why this detail is illegal.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính bất hợp pháp."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "planet",
+    "pos": "n",
+    "meaning_vi": "hành tinh",
+    "definition_en": "a large body that orbits a star",
+    "examples": [
+      {
+        "en": "The team discussed the planet during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hành tinh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the planet with a practical example.",
+        "vi": "Báo cáo giải thích hành tinh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "soft",
+    "pos": "adj",
+    "meaning_vi": "mềm",
+    "definition_en": "not hard firm loud or severe",
+    "examples": [
+      {
+        "en": "The report describes the situation as soft.",
+        "vi": "Báo cáo mô tả tình huống là mềm."
+      },
+      {
+        "en": "The team discussed why this detail is soft.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính mềm."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "transport",
+    "pos": "n",
+    "meaning_vi": "vận tải",
+    "definition_en": "the system or means used to move people or goods",
+    "examples": [
+      {
+        "en": "The team discussed the transport during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vận tải trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the transport with a practical example.",
+        "vi": "Báo cáo giải thích vận tải bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "appropriate",
+    "pos": "adj",
+    "meaning_vi": "phù hợp",
+    "definition_en": "suitable or correct for a particular purpose or situation",
+    "examples": [
+      {
+        "en": "The report describes the situation as appropriate.",
+        "vi": "Báo cáo mô tả tình huống là phù hợp."
+      },
+      {
+        "en": "The team discussed why this detail is appropriate.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính phù hợp."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "entry",
+    "pos": "n",
+    "meaning_vi": "mục nhập",
+    "definition_en": "an item recorded in a list system account or competition",
+    "examples": [
+      {
+        "en": "The team discussed the entry during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mục nhập trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the entry with a practical example.",
+        "vi": "Báo cáo giải thích mục nhập bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "era",
+    "pos": "n",
+    "meaning_vi": "thời đại",
+    "definition_en": "a long and distinct period of history or development",
+    "examples": [
+      {
+        "en": "The team discussed the era during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thời đại trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the era with a practical example.",
+        "vi": "Báo cáo giải thích thời đại bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "lawyer",
+    "pos": "n",
+    "meaning_vi": "luật sư",
+    "definition_en": "a professional qualified to advise and represent people in law",
+    "examples": [
+      {
+        "en": "The team discussed the lawyer during the weekly review.",
+        "vi": "Nhóm đã thảo luận về luật sư trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the lawyer with a practical example.",
+        "vi": "Báo cáo giải thích luật sư bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "mistake",
+    "pos": "n",
+    "meaning_vi": "sai lầm",
+    "definition_en": "an action judgment or result that is incorrect",
+    "examples": [
+      {
+        "en": "The team discussed the mistake during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sai lầm trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the mistake with a practical example.",
+        "vi": "Báo cáo giải thích sai lầm bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "scientific",
+    "pos": "adj",
+    "meaning_vi": "thuộc khoa học",
+    "definition_en": "based on systematic observation testing and evidence",
+    "examples": [
+      {
+        "en": "The report describes the situation as scientific.",
+        "vi": "Báo cáo mô tả tình huống là thuộc khoa học."
+      },
+      {
+        "en": "The team discussed why this detail is scientific.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc khoa học."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "abuse",
+    "pos": "n",
+    "meaning_vi": "sự lạm dụng",
+    "definition_en": "improper harmful or excessive use of something",
+    "examples": [
+      {
+        "en": "The team discussed the abuse during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự lạm dụng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the abuse with a practical example.",
+        "vi": "Báo cáo giải thích sự lạm dụng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "developing",
+    "pos": "adj",
+    "meaning_vi": "đang phát triển",
+    "definition_en": "growing changing or becoming more advanced",
+    "examples": [
+      {
+        "en": "The report describes the situation as developing.",
+        "vi": "Báo cáo mô tả tình huống là đang phát triển."
+      },
+      {
+        "en": "The team discussed why this detail is developing.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính đang phát triển."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "emotional",
+    "pos": "adj",
+    "meaning_vi": "thuộc cảm xúc",
+    "definition_en": "relating to feelings and emotional responses",
+    "examples": [
+      {
+        "en": "The report describes the situation as emotional.",
+        "vi": "Báo cáo mô tả tình huống là thuộc cảm xúc."
+      },
+      {
+        "en": "The team discussed why this detail is emotional.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc cảm xúc."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "chain",
+    "pos": "n",
+    "meaning_vi": "chuỗi",
+    "definition_en": "a connected series of people events objects or links",
+    "examples": [
+      {
+        "en": "The team discussed the chain during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chuỗi trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chain with a practical example.",
+        "vi": "Báo cáo giải thích chuỗi bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "chapter",
+    "pos": "n",
+    "meaning_vi": "chương",
+    "definition_en": "a main division of a book report or organized text",
+    "examples": [
+      {
+        "en": "The team discussed the chapter during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chương trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chapter with a practical example.",
+        "vi": "Báo cáo giải thích chương bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "confidence",
+    "pos": "n",
+    "meaning_vi": "sự tự tin",
+    "definition_en": "belief in one's ability judgment or reliability",
+    "examples": [
+      {
+        "en": "The team discussed the confidence during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự tự tin trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the confidence with a practical example.",
+        "vi": "Báo cáo giải thích sự tự tin bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "equal",
+    "pos": "adj",
+    "meaning_vi": "bằng nhau",
+    "definition_en": "the same in amount value status or degree",
+    "examples": [
+      {
+        "en": "The report describes the situation as equal.",
+        "vi": "Báo cáo mô tả tình huống là bằng nhau."
+      },
+      {
+        "en": "The team discussed why this detail is equal.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính bằng nhau."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "focused",
+    "pos": "adj",
+    "meaning_vi": "tập trung",
+    "definition_en": "directing attention or effort toward a specific goal",
+    "examples": [
+      {
+        "en": "The report describes the situation as focused.",
+        "vi": "Báo cáo mô tả tình huống là tập trung."
+      },
+      {
+        "en": "The team discussed why this detail is focused.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tập trung."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "numerous",
+    "pos": "adj",
+    "meaning_vi": "nhiều",
+    "definition_en": "existing in large numbers",
+    "examples": [
+      {
+        "en": "The report describes the situation as numerous.",
+        "vi": "Báo cáo mô tả tình huống là nhiều."
+      },
+      {
+        "en": "The team discussed why this detail is numerous.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính nhiều."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "urban",
+    "pos": "adj",
+    "meaning_vi": "thuộc đô thị",
+    "definition_en": "relating to cities and densely populated areas",
+    "examples": [
+      {
+        "en": "The report describes the situation as urban.",
+        "vi": "Báo cáo mô tả tình huống là thuộc đô thị."
+      },
+      {
+        "en": "The team discussed why this detail is urban.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc đô thị."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "argument",
+    "pos": "n",
+    "meaning_vi": "lập luận",
+    "definition_en": "a set of reasons offered to support a conclusion",
+    "examples": [
+      {
+        "en": "The team discussed the argument during the weekly review.",
+        "vi": "Nhóm đã thảo luận về lập luận trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the argument with a practical example.",
+        "vi": "Báo cáo giải thích lập luận bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "debate",
+    "pos": "n",
+    "meaning_vi": "tranh luận",
+    "definition_en": "formal or organized discussion of opposing views",
+    "examples": [
+      {
+        "en": "The team discussed the debate during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tranh luận trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the debate with a practical example.",
+        "vi": "Báo cáo giải thích tranh luận bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "determined",
+    "pos": "adj",
+    "meaning_vi": "quyết tâm",
+    "definition_en": "strongly motivated and unwilling to give up",
+    "examples": [
+      {
+        "en": "The report describes the situation as determined.",
+        "vi": "Báo cáo mô tả tình huống là quyết tâm."
+      },
+      {
+        "en": "The team discussed why this detail is determined.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính quyết tâm."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "fault",
+    "pos": "n",
+    "meaning_vi": "lỗi",
+    "definition_en": "a defect mistake or responsibility for a problem",
+    "examples": [
+      {
+        "en": "The team discussed the fault during the weekly review.",
+        "vi": "Nhóm đã thảo luận về lỗi trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the fault with a practical example.",
+        "vi": "Báo cáo giải thích lỗi bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "mixed",
+    "pos": "adj",
+    "meaning_vi": "hỗn hợp",
+    "definition_en": "containing different types qualities or elements together",
+    "examples": [
+      {
+        "en": "The report describes the situation as mixed.",
+        "vi": "Báo cáo mô tả tình huống là hỗn hợp."
+      },
+      {
+        "en": "The team discussed why this detail is mixed.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính hỗn hợp."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "phase",
+    "pos": "n",
+    "meaning_vi": "giai đoạn",
+    "definition_en": "a distinct stage in a process or development",
+    "examples": [
+      {
+        "en": "The team discussed the phase during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giai đoạn trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the phase with a practical example.",
+        "vi": "Báo cáo giải thích giai đoạn bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "pure",
+    "pos": "adj",
+    "meaning_vi": "tinh khiết",
+    "definition_en": "not mixed with unwanted substances or influences",
+    "examples": [
+      {
+        "en": "The report describes the situation as pure.",
+        "vi": "Báo cáo mô tả tình huống là tinh khiết."
+      },
+      {
+        "en": "The team discussed why this detail is pure.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tinh khiết."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "talent",
+    "pos": "n",
+    "meaning_vi": "tài năng",
+    "definition_en": "natural ability or skill in a particular activity",
+    "examples": [
+      {
+        "en": "The team discussed the talent during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tài năng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the talent with a practical example.",
+        "vi": "Báo cáo giải thích tài năng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "temperature",
+    "pos": "n",
+    "meaning_vi": "nhiệt độ",
+    "definition_en": "a measure of how hot or cold something is",
+    "examples": [
+      {
+        "en": "The team discussed the temperature during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nhiệt độ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the temperature with a practical example.",
+        "vi": "Báo cáo giải thích nhiệt độ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "incredible",
+    "pos": "adj",
+    "meaning_vi": "đáng kinh ngạc",
+    "definition_en": "extremely impressive unusual or difficult to believe",
+    "examples": [
+      {
+        "en": "The report describes the situation as incredible.",
+        "vi": "Báo cáo mô tả tình huống là đáng kinh ngạc."
+      },
+      {
+        "en": "The team discussed why this detail is incredible.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính đáng kinh ngạc."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "inspired",
+    "pos": "adj",
+    "meaning_vi": "được truyền cảm hứng",
+    "definition_en": "filled with motivation or creative ideas",
+    "examples": [
+      {
+        "en": "The report describes the situation as inspired.",
+        "vi": "Báo cáo mô tả tình huống là được truyền cảm hứng."
+      },
+      {
+        "en": "The team discussed why this detail is inspired.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính được truyền cảm hứng."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "ministry",
+    "pos": "n",
+    "meaning_vi": "bộ",
+    "definition_en": "a government department responsible for a major public area",
+    "examples": [
+      {
+        "en": "The team discussed the ministry during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bộ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the ministry with a practical example.",
+        "vi": "Báo cáo giải thích bộ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "mode",
+    "pos": "n",
+    "meaning_vi": "chế độ",
+    "definition_en": "a particular operating state method or form",
+    "examples": [
+      {
+        "en": "The team discussed the mode during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chế độ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the mode with a practical example.",
+        "vi": "Báo cáo giải thích chế độ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "novel",
+    "pos": "n",
+    "meaning_vi": "tiểu thuyết",
+    "definition_en": "a long fictional work written in prose",
+    "examples": [
+      {
+        "en": "The team discussed the novel during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tiểu thuyết trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the novel with a practical example.",
+        "vi": "Báo cáo giải thích tiểu thuyết bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "vision",
+    "pos": "n",
+    "meaning_vi": "tầm nhìn",
+    "definition_en": "an idea of a desired future or the ability to see",
+    "examples": [
+      {
+        "en": "The team discussed the vision during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tầm nhìn trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the vision with a practical example.",
+        "vi": "Báo cáo giải thích tầm nhìn bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "zero",
+    "pos": "n",
+    "meaning_vi": "số không",
+    "definition_en": "the number representing no quantity",
+    "examples": [
+      {
+        "en": "The team discussed the zero during the weekly review.",
+        "vi": "Nhóm đã thảo luận về số không trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the zero with a practical example.",
+        "vi": "Báo cáo giải thích số không bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "crisis",
+    "pos": "n",
+    "meaning_vi": "khủng hoảng",
+    "definition_en": "a period of serious difficulty danger or instability",
+    "examples": [
+      {
+        "en": "The team discussed the crisis during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khủng hoảng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the crisis with a practical example.",
+        "vi": "Báo cáo giải thích khủng hoảng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "minor",
+    "pos": "adj",
+    "meaning_vi": "nhỏ",
+    "definition_en": "less important serious or large than others",
+    "examples": [
+      {
+        "en": "The report describes the situation as minor.",
+        "vi": "Báo cáo mô tả tình huống là nhỏ."
+      },
+      {
+        "en": "The team discussed why this detail is minor.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính nhỏ."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "opposite",
+    "pos": "adj",
+    "meaning_vi": "đối lập",
+    "definition_en": "completely different in position direction or meaning",
+    "examples": [
+      {
+        "en": "The report describes the situation as opposite.",
+        "vi": "Báo cáo mô tả tình huống là đối lập."
+      },
+      {
+        "en": "The team discussed why this detail is opposite.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính đối lập."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "stream",
+    "pos": "n",
+    "meaning_vi": "luồng",
+    "definition_en": "a continuous flow of data water media or activity",
+    "examples": [
+      {
+        "en": "The team discussed the stream during the weekly review.",
+        "vi": "Nhóm đã thảo luận về luồng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the stream with a practical example.",
+        "vi": "Báo cáo giải thích luồng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "struggle",
+    "pos": "n",
+    "meaning_vi": "sự đấu tranh",
+    "definition_en": "a difficult effort to achieve something or overcome a problem",
+    "examples": [
+      {
+        "en": "The team discussed the struggle during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự đấu tranh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the struggle with a practical example.",
+        "vi": "Báo cáo giải thích sự đấu tranh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "theme",
+    "pos": "n",
+    "meaning_vi": "chủ đề",
+    "definition_en": "a central idea repeated or developed in a work or discussion",
+    "examples": [
+      {
+        "en": "The team discussed the theme during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chủ đề trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the theme with a practical example.",
+        "vi": "Báo cáo giải thích chủ đề bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "tiny",
+    "pos": "adj",
+    "meaning_vi": "rất nhỏ",
+    "definition_en": "extremely small in size or amount",
+    "examples": [
+      {
+        "en": "The report describes the situation as tiny.",
+        "vi": "Báo cáo mô tả tình huống là rất nhỏ."
+      },
+      {
+        "en": "The team discussed why this detail is tiny.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính rất nhỏ."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "usual",
+    "pos": "adj",
+    "meaning_vi": "thông thường",
+    "definition_en": "normal or expected because it happens often",
+    "examples": [
+      {
+        "en": "The report describes the situation as usual.",
+        "vi": "Báo cáo mô tả tình huống là thông thường."
+      },
+      {
+        "en": "The team discussed why this detail is usual.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thông thường."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "wave",
+    "pos": "n",
+    "meaning_vi": "sóng",
+    "definition_en": "a moving disturbance through water air or another medium",
+    "examples": [
+      {
+        "en": "The team discussed the wave during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sóng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the wave with a practical example.",
+        "vi": "Báo cáo giải thích sóng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "combination",
+    "pos": "n",
+    "meaning_vi": "sự kết hợp",
+    "definition_en": "a result formed by joining two or more things",
+    "examples": [
+      {
+        "en": "The team discussed the combination during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự kết hợp trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the combination with a practical example.",
+        "vi": "Báo cáo giải thích sự kết hợp bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "desire",
+    "pos": "n",
+    "meaning_vi": "mong muốn",
+    "definition_en": "a strong wish to have or achieve something",
+    "examples": [
+      {
+        "en": "The team discussed the desire during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mong muốn trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the desire with a practical example.",
+        "vi": "Báo cáo giải thích mong muốn bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "familiar",
+    "pos": "adj",
+    "meaning_vi": "quen thuộc",
+    "definition_en": "well known from previous experience or repeated contact",
+    "examples": [
+      {
+        "en": "The report describes the situation as familiar.",
+        "vi": "Báo cáo mô tả tình huống là quen thuộc."
+      },
+      {
+        "en": "The team discussed why this detail is familiar.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính quen thuộc."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "medium",
+    "pos": "n",
+    "meaning_vi": "phương tiện",
+    "definition_en": "a method material or channel used to communicate or transmit",
+    "examples": [
+      {
+        "en": "The team discussed the medium during the weekly review.",
+        "vi": "Nhóm đã thảo luận về phương tiện trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the medium with a practical example.",
+        "vi": "Báo cáo giải thích phương tiện bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "unable",
+    "pos": "adj",
+    "meaning_vi": "không thể",
+    "definition_en": "not having the ability opportunity or means to do something",
+    "examples": [
+      {
+        "en": "The report describes the situation as unable.",
+        "vi": "Báo cáo mô tả tình huống là không thể."
+      },
+      {
+        "en": "The team discussed why this detail is unable.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính không thể."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "wing",
+    "pos": "n",
+    "meaning_vi": "cánh",
+    "definition_en": "a structure used for flight or a side section of a building",
+    "examples": [
+      {
+        "en": "The team discussed the wing during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cánh trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the wing with a practical example.",
+        "vi": "Báo cáo giải thích cánh bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "creative",
+    "pos": "adj",
+    "meaning_vi": "sáng tạo",
+    "definition_en": "able to produce original and useful ideas",
+    "examples": [
+      {
+        "en": "The report describes the situation as creative.",
+        "vi": "Báo cáo mô tả tình huống là sáng tạo."
+      },
+      {
+        "en": "The team discussed why this detail is creative.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính sáng tạo."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "cycle",
+    "pos": "n",
+    "meaning_vi": "chu kỳ",
+    "definition_en": "a series of stages that repeats in a regular pattern",
+    "examples": [
+      {
+        "en": "The team discussed the cycle during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chu kỳ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the cycle with a practical example.",
+        "vi": "Báo cáo giải thích chu kỳ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "educational",
+    "pos": "adj",
+    "meaning_vi": "mang tính giáo dục",
+    "definition_en": "relating to teaching learning or the development of knowledge",
+    "examples": [
+      {
+        "en": "The report describes the situation as educational.",
+        "vi": "Báo cáo mô tả tình huống là mang tính giáo dục."
+      },
+      {
+        "en": "The team discussed why this detail is educational.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính mang tính giáo dục."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "entertainment",
+    "pos": "n",
+    "meaning_vi": "giải trí",
+    "definition_en": "activities or media intended to interest and amuse people",
+    "examples": [
+      {
+        "en": "The team discussed the entertainment during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giải trí trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the entertainment with a practical example.",
+        "vi": "Báo cáo giải thích giải trí bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "extreme",
+    "pos": "adj",
+    "meaning_vi": "cực độ",
+    "definition_en": "very great in degree or far from a normal level",
+    "examples": [
+      {
+        "en": "The report describes the situation as extreme.",
+        "vi": "Báo cáo mô tả tình huống là cực độ."
+      },
+      {
+        "en": "The team discussed why this detail is extreme.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính cực độ."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "maximum",
+    "pos": "n",
+    "meaning_vi": "mức tối đa",
+    "definition_en": "the greatest possible or allowed amount level or value",
+    "examples": [
+      {
+        "en": "The team discussed the maximum during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mức tối đa trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the maximum with a practical example.",
+        "vi": "Báo cáo giải thích mức tối đa bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "territory",
+    "pos": "n",
+    "meaning_vi": "lãnh thổ",
+    "definition_en": "an area of land controlled or defined by authority",
+    "examples": [
+      {
+        "en": "The team discussed the territory during the weekly review.",
+        "vi": "Nhóm đã thảo luận về lãnh thổ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the territory with a practical example.",
+        "vi": "Báo cáo giải thích lãnh thổ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "threat",
+    "pos": "n",
+    "meaning_vi": "mối đe dọa",
+    "definition_en": "a possible source of harm danger or loss",
+    "examples": [
+      {
+        "en": "The team discussed the threat during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mối đe dọa trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the threat with a practical example.",
+        "vi": "Báo cáo giải thích mối đe dọa bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "assistance",
+    "pos": "n",
+    "meaning_vi": "sự hỗ trợ",
+    "definition_en": "help provided to make a task or situation easier",
+    "examples": [
+      {
+        "en": "The team discussed the assistance during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự hỗ trợ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the assistance with a practical example.",
+        "vi": "Báo cáo giải thích sự hỗ trợ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "danger",
+    "pos": "n",
+    "meaning_vi": "nguy hiểm",
+    "definition_en": "the possibility of harm injury or loss",
+    "examples": [
+      {
+        "en": "The team discussed the danger during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nguy hiểm trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the danger with a practical example.",
+        "vi": "Báo cáo giải thích nguy hiểm bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "delivery",
+    "pos": "n",
+    "meaning_vi": "giao hàng",
+    "definition_en": "the process of bringing goods messages or services to a destination",
+    "examples": [
+      {
+        "en": "The team discussed the delivery during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giao hàng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the delivery with a practical example.",
+        "vi": "Báo cáo giải thích giao hàng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "empty",
+    "pos": "adj",
+    "meaning_vi": "trống",
+    "definition_en": "containing nothing or lacking expected content",
+    "examples": [
+      {
+        "en": "The report describes the situation as empty.",
+        "vi": "Báo cáo mô tả tình huống là trống."
+      },
+      {
+        "en": "The team discussed why this detail is empty.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính trống."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "gender",
+    "pos": "n",
+    "meaning_vi": "giới",
+    "definition_en": "a social or personal category related to sex and identity",
+    "examples": [
+      {
+        "en": "The team discussed the gender during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giới trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the gender with a practical example.",
+        "vi": "Báo cáo giải thích giới bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "prize",
+    "pos": "n",
+    "meaning_vi": "giải thưởng",
+    "definition_en": "a reward given for achievement or success",
+    "examples": [
+      {
+        "en": "The team discussed the prize during the weekly review.",
+        "vi": "Nhóm đã thảo luận về giải thưởng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the prize with a practical example.",
+        "vi": "Báo cáo giải thích giải thưởng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "rural",
+    "pos": "adj",
+    "meaning_vi": "thuộc nông thôn",
+    "definition_en": "relating to countryside areas outside towns and cities",
+    "examples": [
+      {
+        "en": "The report describes the situation as rural.",
+        "vi": "Báo cáo mô tả tình huống là thuộc nông thôn."
+      },
+      {
+        "en": "The team discussed why this detail is rural.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính thuộc nông thôn."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "saving",
+    "pos": "n",
+    "meaning_vi": "khoản tiết kiệm",
+    "definition_en": "money resources or costs preserved instead of spent",
+    "examples": [
+      {
+        "en": "The team discussed the saving during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khoản tiết kiệm trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the saving with a practical example.",
+        "vi": "Báo cáo giải thích khoản tiết kiệm bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "typical",
+    "pos": "adj",
+    "meaning_vi": "điển hình",
+    "definition_en": "showing the usual features of a type or group",
+    "examples": [
+      {
+        "en": "The report describes the situation as typical.",
+        "vi": "Báo cáo mô tả tình huống là điển hình."
+      },
+      {
+        "en": "The team discussed why this detail is typical.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính điển hình."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "universe",
+    "pos": "n",
+    "meaning_vi": "vũ trụ",
+    "definition_en": "all existing matter space energy and physical phenomena",
+    "examples": [
+      {
+        "en": "The team discussed the universe during the weekly review.",
+        "vi": "Nhóm đã thảo luận về vũ trụ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the universe with a practical example.",
+        "vi": "Báo cáo giải thích vũ trụ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "warning",
+    "pos": "n",
+    "meaning_vi": "cảnh báo",
+    "definition_en": "a notice of possible danger problem or unwanted result",
+    "examples": [
+      {
+        "en": "The team discussed the warning during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cảnh báo trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the warning with a practical example.",
+        "vi": "Báo cáo giải thích cảnh báo bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "dedicated",
+    "pos": "adj",
+    "meaning_vi": "tận tâm",
+    "definition_en": "strongly committed to a task purpose or group",
+    "examples": [
+      {
+        "en": "The report describes the situation as dedicated.",
+        "vi": "Báo cáo mô tả tình huống là tận tâm."
+      },
+      {
+        "en": "The team discussed why this detail is dedicated.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tận tâm."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "drawing",
+    "pos": "n",
+    "meaning_vi": "bản vẽ",
+    "definition_en": "an image or technical representation made with lines",
+    "examples": [
+      {
+        "en": "The team discussed the drawing during the weekly review.",
+        "vi": "Nhóm đã thảo luận về bản vẽ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the drawing with a practical example.",
+        "vi": "Báo cáo giải thích bản vẽ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "frame",
+    "pos": "n",
+    "meaning_vi": "khung",
+    "definition_en": "a supporting structure or one image in a sequence",
+    "examples": [
+      {
+        "en": "The team discussed the frame during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khung trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the frame with a practical example.",
+        "vi": "Báo cáo giải thích khung bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "independence",
+    "pos": "n",
+    "meaning_vi": "sự độc lập",
+    "definition_en": "freedom from control support or influence by others",
+    "examples": [
+      {
+        "en": "The team discussed the independence during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự độc lập trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the independence with a practical example.",
+        "vi": "Báo cáo giải thích sự độc lập bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "plot",
+    "pos": "n",
+    "meaning_vi": "biểu đồ",
+    "definition_en": "a graphical representation of values or relationships",
+    "examples": [
+      {
+        "en": "The team discussed the plot during the weekly review.",
+        "vi": "Nhóm đã thảo luận về biểu đồ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the plot with a practical example.",
+        "vi": "Báo cáo giải thích biểu đồ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "possibility",
+    "pos": "n",
+    "meaning_vi": "khả năng",
+    "definition_en": "a chance that something may happen or be true",
+    "examples": [
+      {
+        "en": "The team discussed the possibility during the weekly review.",
+        "vi": "Nhóm đã thảo luận về khả năng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the possibility with a practical example.",
+        "vi": "Báo cáo giải thích khả năng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "random",
+    "pos": "adj",
+    "meaning_vi": "ngẫu nhiên",
+    "definition_en": "selected or occurring without a predictable pattern",
+    "examples": [
+      {
+        "en": "The report describes the situation as random.",
+        "vi": "Báo cáo mô tả tình huống là ngẫu nhiên."
+      },
+      {
+        "en": "The team discussed why this detail is random.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính ngẫu nhiên."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "academy",
+    "pos": "n",
+    "meaning_vi": "học viện",
+    "definition_en": "an institution for education training or specialized study",
+    "examples": [
+      {
+        "en": "The team discussed the academy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về học viện trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the academy with a practical example.",
+        "vi": "Báo cáo giải thích học viện bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "chat",
+    "pos": "n",
+    "meaning_vi": "cuộc trò chuyện",
+    "definition_en": "an informal conversation especially online or in person",
+    "examples": [
+      {
+        "en": "The team discussed the chat during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cuộc trò chuyện trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chat with a practical example.",
+        "vi": "Báo cáo giải thích cuộc trò chuyện bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "chemical",
+    "pos": "n",
+    "meaning_vi": "hóa chất",
+    "definition_en": "a substance with a defined chemical composition",
+    "examples": [
+      {
+        "en": "The team discussed the chemical during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hóa chất trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chemical with a practical example.",
+        "vi": "Báo cáo giải thích hóa chất bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "diet",
+    "pos": "n",
+    "meaning_vi": "chế độ ăn",
+    "definition_en": "the food and drink regularly consumed by a person or group",
+    "examples": [
+      {
+        "en": "The team discussed the diet during the weekly review.",
+        "vi": "Nhóm đã thảo luận về chế độ ăn trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the diet with a practical example.",
+        "vi": "Báo cáo giải thích chế độ ăn bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "lane",
+    "pos": "n",
+    "meaning_vi": "làn đường",
+    "definition_en": "a marked section of a road or route for movement",
+    "examples": [
+      {
+        "en": "The team discussed the lane during the weekly review.",
+        "vi": "Nhóm đã thảo luận về làn đường trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the lane with a practical example.",
+        "vi": "Báo cáo giải thích làn đường bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "opposition",
+    "pos": "n",
+    "meaning_vi": "sự phản đối",
+    "definition_en": "resistance disagreement or a group opposing something",
+    "examples": [
+      {
+        "en": "The team discussed the opposition during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự phản đối trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the opposition with a practical example.",
+        "vi": "Báo cáo giải thích sự phản đối bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "weekly",
+    "pos": "adj",
+    "meaning_vi": "hằng tuần",
+    "definition_en": "occurring or produced once every week",
+    "examples": [
+      {
+        "en": "The report describes the situation as weekly.",
+        "vi": "Báo cáo mô tả tình huống là hằng tuần."
+      },
+      {
+        "en": "The team discussed why this detail is weekly.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính hằng tuần."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "constitution",
+    "pos": "n",
+    "meaning_vi": "hiến pháp",
+    "definition_en": "the fundamental laws and principles governing a state or organization",
+    "examples": [
+      {
+        "en": "The team discussed the constitution during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hiến pháp trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the constitution with a practical example.",
+        "vi": "Báo cáo giải thích hiến pháp bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "counter",
+    "pos": "n",
+    "meaning_vi": "quầy",
+    "definition_en": "a surface where customers are served or transactions occur",
+    "examples": [
+      {
+        "en": "The team discussed the counter during the weekly review.",
+        "vi": "Nhóm đã thảo luận về quầy trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the counter with a practical example.",
+        "vi": "Báo cáo giải thích quầy bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "depression",
+    "pos": "n",
+    "meaning_vi": "sự suy thoái",
+    "definition_en": "a serious economic decline or a state of deep sadness",
+    "examples": [
+      {
+        "en": "The team discussed the depression during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự suy thoái trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the depression with a practical example.",
+        "vi": "Báo cáo giải thích sự suy thoái bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "revolution",
+    "pos": "n",
+    "meaning_vi": "cuộc cách mạng",
+    "definition_en": "a major and often rapid change in society technology or organization",
+    "examples": [
+      {
+        "en": "The team discussed the revolution during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cuộc cách mạng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the revolution with a practical example.",
+        "vi": "Báo cáo giải thích cuộc cách mạng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "victim",
+    "pos": "n",
+    "meaning_vi": "nạn nhân",
+    "definition_en": "a person harmed by an event crime or action",
+    "examples": [
+      {
+        "en": "The team discussed the victim during the weekly review.",
+        "vi": "Nhóm đã thảo luận về nạn nhân trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the victim with a practical example.",
+        "vi": "Báo cáo giải thích nạn nhân bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "brilliant",
+    "pos": "adj",
+    "meaning_vi": "xuất sắc",
+    "definition_en": "extremely clever successful bright or impressive",
+    "examples": [
+      {
+        "en": "The report describes the situation as brilliant.",
+        "vi": "Báo cáo mô tả tình huống là xuất sắc."
+      },
+      {
+        "en": "The team discussed why this detail is brilliant.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính xuất sắc."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "deputy",
+    "pos": "n",
+    "meaning_vi": "phó",
+    "definition_en": "a person appointed to act for a more senior official",
+    "examples": [
+      {
+        "en": "The team discussed the deputy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về phó trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the deputy with a practical example.",
+        "vi": "Báo cáo giải thích phó bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "joy",
+    "pos": "n",
+    "meaning_vi": "niềm vui",
+    "definition_en": "a feeling of great happiness or pleasure",
+    "examples": [
+      {
+        "en": "The team discussed the joy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về niềm vui trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the joy with a practical example.",
+        "vi": "Báo cáo giải thích niềm vui bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "manner",
+    "pos": "n",
+    "meaning_vi": "cách thức",
+    "definition_en": "the way in which something is done or happens",
+    "examples": [
+      {
+        "en": "The team discussed the manner during the weekly review.",
+        "vi": "Nhóm đã thảo luận về cách thức trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the manner with a practical example.",
+        "vi": "Báo cáo giải thích cách thức bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "personality",
+    "pos": "n",
+    "meaning_vi": "tính cách",
+    "definition_en": "the characteristic patterns of behavior thought and feeling of a person",
+    "examples": [
+      {
+        "en": "The team discussed the personality during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tính cách trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the personality with a practical example.",
+        "vi": "Báo cáo giải thích tính cách bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "relief",
+    "pos": "n",
+    "meaning_vi": "sự giảm nhẹ",
+    "definition_en": "a reduction of pain pressure worry or difficulty",
+    "examples": [
+      {
+        "en": "The team discussed the relief during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự giảm nhẹ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the relief with a practical example.",
+        "vi": "Báo cáo giải thích sự giảm nhẹ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "resistance",
+    "pos": "n",
+    "meaning_vi": "sự kháng cự",
+    "definition_en": "opposition to change force current or influence",
+    "examples": [
+      {
+        "en": "The team discussed the resistance during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự kháng cự trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the resistance with a practical example.",
+        "vi": "Báo cáo giải thích sự kháng cự bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "roof",
+    "pos": "n",
+    "meaning_vi": "mái nhà",
+    "definition_en": "the top covering of a building or structure",
+    "examples": [
+      {
+        "en": "The team discussed the roof during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mái nhà trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the roof with a practical example.",
+        "vi": "Báo cáo giải thích mái nhà bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "absolute",
+    "pos": "adj",
+    "meaning_vi": "tuyệt đối",
+    "definition_en": "complete total or not limited by comparison",
+    "examples": [
+      {
+        "en": "The report describes the situation as absolute.",
+        "vi": "Báo cáo mô tả tình huống là tuyệt đối."
+      },
+      {
+        "en": "The team discussed why this detail is absolute.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính tuyệt đối."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "calm",
+    "pos": "adj",
+    "meaning_vi": "bình tĩnh",
+    "definition_en": "peaceful and free from strong emotion or disturbance",
+    "examples": [
+      {
+        "en": "The report describes the situation as calm.",
+        "vi": "Báo cáo mô tả tình huống là bình tĩnh."
+      },
+      {
+        "en": "The team discussed why this detail is calm.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính bình tĩnh."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "attractive",
+    "pos": "adj",
+    "meaning_vi": "hấp dẫn",
+    "definition_en": "pleasant interesting or likely to draw attention",
+    "examples": [
+      {
+        "en": "The report describes the situation as attractive.",
+        "vi": "Báo cáo mô tả tình huống là hấp dẫn."
+      },
+      {
+        "en": "The team discussed why this detail is attractive.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính hấp dẫn."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "retirement",
+    "pos": "n",
+    "meaning_vi": "sự nghỉ hưu",
+    "definition_en": "the period after permanently leaving regular employment",
+    "examples": [
+      {
+        "en": "The team discussed the retirement during the weekly review.",
+        "vi": "Nhóm đã thảo luận về sự nghỉ hưu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the retirement with a practical example.",
+        "vi": "Báo cáo giải thích sự nghỉ hưu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "unknown",
+    "pos": "adj",
+    "meaning_vi": "chưa biết",
+    "definition_en": "not known identified or understood",
+    "examples": [
+      {
+        "en": "The report describes the situation as unknown.",
+        "vi": "Báo cáo mô tả tình huống là chưa biết."
+      },
+      {
+        "en": "The team discussed why this detail is unknown.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính chưa biết."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "breath",
+    "pos": "n",
+    "meaning_vi": "hơi thở",
+    "definition_en": "air taken into or released from the lungs",
+    "examples": [
+      {
+        "en": "The team discussed the breath during the weekly review.",
+        "vi": "Nhóm đã thảo luận về hơi thở trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the breath with a practical example.",
+        "vi": "Báo cáo giải thích hơi thở bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "chest",
+    "pos": "n",
+    "meaning_vi": "ngực",
+    "definition_en": "the front upper part of the body containing heart and lungs",
+    "examples": [
+      {
+        "en": "The team discussed the chest during the weekly review.",
+        "vi": "Nhóm đã thảo luận về ngực trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the chest with a practical example.",
+        "vi": "Báo cáo giải thích ngực bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "engaged",
+    "pos": "adj",
+    "meaning_vi": "đang tham gia",
+    "definition_en": "actively involved in an activity discussion or task",
+    "examples": [
+      {
+        "en": "The report describes the situation as engaged.",
+        "vi": "Báo cáo mô tả tình huống là đang tham gia."
+      },
+      {
+        "en": "The team discussed why this detail is engaged.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính đang tham gia."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "fantasy",
+    "pos": "n",
+    "meaning_vi": "tưởng tượng",
+    "definition_en": "an imagined situation or a genre involving unreal elements",
+    "examples": [
+      {
+        "en": "The team discussed the fantasy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về tưởng tượng trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the fantasy with a practical example.",
+        "vi": "Báo cáo giải thích tưởng tượng bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "aim",
+    "pos": "n",
+    "meaning_vi": "mục tiêu",
+    "definition_en": "a purpose or result that someone intends to achieve",
+    "examples": [
+      {
+        "en": "The team discussed the aim during the weekly review.",
+        "vi": "Nhóm đã thảo luận về mục tiêu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the aim with a practical example.",
+        "vi": "Báo cáo giải thích mục tiêu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "childhood",
+    "pos": "n",
+    "meaning_vi": "thời thơ ấu",
+    "definition_en": "the period of life when a person is a child",
+    "examples": [
+      {
+        "en": "The team discussed the childhood during the weekly review.",
+        "vi": "Nhóm đã thảo luận về thời thơ ấu trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the childhood with a practical example.",
+        "vi": "Báo cáo giải thích thời thơ ấu bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "democracy",
+    "pos": "n",
+    "meaning_vi": "dân chủ",
+    "definition_en": "a system of government in which people choose their representatives",
+    "examples": [
+      {
+        "en": "The team discussed the democracy during the weekly review.",
+        "vi": "Nhóm đã thảo luận về dân chủ trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the democracy with a practical example.",
+        "vi": "Báo cáo giải thích dân chủ bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "organized",
+    "pos": "adj",
+    "meaning_vi": "có tổ chức",
+    "definition_en": "arranged systematically and managed effectively",
+    "examples": [
+      {
+        "en": "The report describes the situation as organized.",
+        "vi": "Báo cáo mô tả tình huống là có tổ chức."
+      },
+      {
+        "en": "The team discussed why this detail is organized.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính có tổ chức."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "wise",
+    "pos": "adj",
+    "meaning_vi": "khôn ngoan",
+    "definition_en": "showing good judgment based on knowledge and experience",
+    "examples": [
+      {
+        "en": "The report describes the situation as wise.",
+        "vi": "Báo cáo mô tả tình huống là khôn ngoan."
+      },
+      {
+        "en": "The team discussed why this detail is wise.",
+        "vi": "Nhóm thảo luận vì sao chi tiết này mang tính khôn ngoan."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "tradition",
+    "pos": "n",
+    "meaning_vi": "truyền thống",
+    "definition_en": "a custom belief or practice passed through generations",
+    "examples": [
+      {
+        "en": "The team discussed the tradition during the weekly review.",
+        "vi": "Nhóm đã thảo luận về truyền thống trong buổi đánh giá hằng tuần."
+      },
+      {
+        "en": "The report explains the tradition with a practical example.",
+        "vi": "Báo cáo giải thích truyền thống bằng một ví dụ thực tế."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  }
+]

@@ -1,0 +1,1913 @@
+{
+  "slug": "qe-thpt-001",
+  "title": "THPT English Practice 01 – Community, Science and Culture",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "B1-B2",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "language-use",
+    "reading"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Language Use and Communication",
+      "parts": [
+        1,
+        2
+      ],
+      "count": 25,
+      "minutes": 25
+    },
+    {
+      "key": "reading",
+      "title": "Reading Comprehension",
+      "parts": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "count": 25,
+      "minutes": 35
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete the sentence or exchange.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The town built a raised walkway ------- children could cross the marsh without disturbing the birds.",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "as if"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So that diễn tả mục đích xây lối đi, giúp trẻ băng qua đầm lầy mà không làm phiền chim.",
+          "translation": "Thị trấn xây lối đi trên cao để trẻ có thể băng qua đầm lầy mà không quấy rầy các loài chim.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Despite ------- tired after the hike, Lina stayed to help clean the campsite.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to feel"
+            },
+            {
+              "key": "B",
+              "text": "feeling"
+            },
+            {
+              "key": "C",
+              "text": "feel"
+            },
+            {
+              "key": "D",
+              "text": "felt"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Despite là giới từ nên theo sau bởi danh động từ feeling. Các dạng còn lại không phù hợp vị trí này.",
+          "translation": "Dù cảm thấy mệt sau chuyến đi bộ đường dài, Lina vẫn ở lại giúp dọn khu cắm trại.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The more carefully the laboratory team prepared the samples, ------- errors appeared in the results.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the least"
+            },
+            {
+              "key": "B",
+              "text": "the less"
+            },
+            {
+              "key": "C",
+              "text": "the fewer"
+            },
+            {
+              "key": "D",
+              "text": "fewer"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "So sánh kép diễn tả quan hệ giữa hai mức độ: the more carefully ... the fewer errors. Errors là danh từ đếm được số nhiều nên dùng fewer; chuẩn bị mẫu cẩn thận hơn giúp giảm lỗi.",
+          "translation": "Nhóm phòng thí nghiệm chuẩn bị mẫu càng cẩn thận thì càng ít lỗi xuất hiện trong kết quả.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The teacher asked the class whether they ------- their projects by the previous Friday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have submitted"
+            },
+            {
+              "key": "B",
+              "text": "submit"
+            },
+            {
+              "key": "C",
+              "text": "will submit"
+            },
+            {
+              "key": "D",
+              "text": "had submitted"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Trong lời tường thuật quá khứ, hành động hoàn tất trước mốc the previous Friday dùng had submitted.",
+          "translation": "Giáo viên hỏi cả lớp xem họ đã nộp dự án trước thứ Sáu tuần trước hay chưa.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The graduate is looking forward to ------- her first science workshop next month.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attended"
+            },
+            {
+              "key": "B",
+              "text": "be attended"
+            },
+            {
+              "key": "C",
+              "text": "attending"
+            },
+            {
+              "key": "D",
+              "text": "attend"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau look forward to phải dùng danh động từ attending vì to là giới từ.",
+          "translation": "Người vừa tốt nghiệp mong được tham dự hội thảo khoa học đầu tiên vào tháng tới.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The community center ------- free evening classes since it opened three years ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is offering"
+            },
+            {
+              "key": "B",
+              "text": "has offered"
+            },
+            {
+              "key": "C",
+              "text": "offers"
+            },
+            {
+              "key": "D",
+              "text": "had offered"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Since it opened three years ago cho biết hoạt động kéo dài đến hiện tại nên dùng hiện tại hoàn thành has offered.",
+          "translation": "Trung tâm cộng đồng đã tổ chức các lớp học buổi tối miễn phí kể từ khi mở cửa ba năm trước.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "All visitors are required ------- their bags at the entrance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "checked"
+            },
+            {
+              "key": "B",
+              "text": "to check"
+            },
+            {
+              "key": "C",
+              "text": "checking"
+            },
+            {
+              "key": "D",
+              "text": "check"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Require someone to do something ở bị động là be required to + động từ nguyên mẫu.",
+          "translation": "Tất cả khách tham quan được yêu cầu gửi hoặc kiểm tra túi tại lối vào.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The river would be cleaner if more households ------- reusable containers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will use"
+            },
+            {
+              "key": "B",
+              "text": "had used"
+            },
+            {
+              "key": "C",
+              "text": "used"
+            },
+            {
+              "key": "D",
+              "text": "use"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Điều kiện loại hai giả định hiện tại dùng if + quá khứ đơn used, mệnh đề chính would be.",
+          "translation": "Con sông sẽ sạch hơn nếu nhiều hộ gia đình dùng đồ đựng có thể tái sử dụng.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The students organized a ------- to raise money for the village reading room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "detour"
+            },
+            {
+              "key": "B",
+              "text": "shortage"
+            },
+            {
+              "key": "C",
+              "text": "fundraiser"
+            },
+            {
+              "key": "D",
+              "text": "forecast"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Fundraiser là hoạt động gây quỹ, phù hợp mục đích quyên tiền cho phòng đọc.",
+          "translation": "Học sinh tổ chức một hoạt động gây quỹ để quyên tiền cho phòng đọc của làng.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Clear signs were placed at each ------- of the hiking trail so walkers would not get lost.",
+          "options": [
+            {
+              "key": "A",
+              "text": "junction"
+            },
+            {
+              "key": "B",
+              "text": "conclusion"
+            },
+            {
+              "key": "C",
+              "text": "solution"
+            },
+            {
+              "key": "D",
+              "text": "permission"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Junction là nơi các lối đi gặp nhau, cần có biển chỉ đường để tránh lạc.",
+          "translation": "Biển chỉ dẫn rõ ràng được đặt tại mỗi ngã rẽ của đường mòn để người đi bộ không lạc.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The museum curator checked the ------- of the old photograph before adding it to the exhibition.",
+          "options": [
+            {
+              "key": "A",
+              "text": "authenticity"
+            },
+            {
+              "key": "B",
+              "text": "popularity"
+            },
+            {
+              "key": "C",
+              "text": "humidity"
+            },
+            {
+              "key": "D",
+              "text": "flexibility"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Authenticity nghĩa là tính xác thực, rất quan trọng khi đưa ảnh cũ vào trưng bày.",
+          "translation": "Người phụ trách bảo tàng kiểm tra tính xác thực của bức ảnh cũ trước khi đưa vào triển lãm.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The new bicycle lanes aim to ------- traffic congestion near the school gate.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ease"
+            },
+            {
+              "key": "B",
+              "text": "invite"
+            },
+            {
+              "key": "C",
+              "text": "delay"
+            },
+            {
+              "key": "D",
+              "text": "export"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Ease congestion nghĩa là giảm ùn tắc giao thông, phù hợp mục tiêu mở làn xe đạp.",
+          "translation": "Các làn xe đạp mới nhằm giảm ùn tắc giao thông gần cổng trường.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The scholarship committee will consider every ------- application received before the deadline.",
+          "options": [
+            {
+              "key": "A",
+              "text": "distant"
+            },
+            {
+              "key": "B",
+              "text": "eligible"
+            },
+            {
+              "key": "C",
+              "text": "fragile"
+            },
+            {
+              "key": "D",
+              "text": "random"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Eligible application đáp ứng điều kiện xét tuyển; câu nói về việc ủy ban xem xét hồ sơ trước hạn.",
+          "translation": "Hội đồng học bổng sẽ xem xét mọi hồ sơ đủ điều kiện nhận được trước hạn chót.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The principal insisted that every volunteer ------- an identification badge throughout the event.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to wear"
+            },
+            {
+              "key": "B",
+              "text": "wear"
+            },
+            {
+              "key": "C",
+              "text": "wears"
+            },
+            {
+              "key": "D",
+              "text": "wore"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Sau insisted that diễn tả yêu cầu, dùng dạng giả định nguyên mẫu wear cho mọi chủ ngữ.",
+          "translation": "Hiệu trưởng yêu cầu mỗi tình nguyện viên đeo thẻ nhận dạng trong suốt sự kiện.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The poet's new collection, ------- won a local award, will be discussed at the book club.",
+          "options": [
+            {
+              "key": "A",
+              "text": "where"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Mệnh đề quan hệ không xác định sau dấu phẩy thay cho vật dùng which, không dùng that.",
+          "translation": "Tập thơ mới của nhà thơ, tác phẩm đã đoạt giải địa phương, sẽ được thảo luận tại câu lạc bộ sách.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "By the time the rescue team reached the island, the storm ------- .",
+          "options": [
+            {
+              "key": "A",
+              "text": "has passed"
+            },
+            {
+              "key": "B",
+              "text": "passes"
+            },
+            {
+              "key": "C",
+              "text": "will pass"
+            },
+            {
+              "key": "D",
+              "text": "had passed"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Khi đội cứu hộ tới đảo là một mốc quá khứ; cơn bão đã qua trước thời điểm đó nên dùng had passed.",
+          "translation": "Khi đội cứu hộ đến đảo, cơn bão đã đi qua.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The school installed ramps to make the library more ------- to students using wheelchairs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "decorative"
+            },
+            {
+              "key": "B",
+              "text": "temporary"
+            },
+            {
+              "key": "C",
+              "text": "accessible"
+            },
+            {
+              "key": "D",
+              "text": "competitive"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Accessible nghĩa là dễ tiếp cận, hợp với mục đích lắp đường dốc cho người dùng xe lăn.",
+          "translation": "Trường lắp đường dốc để thư viện dễ tiếp cận hơn với học sinh dùng xe lăn.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There is ------- information on the poster about the exact meeting time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "few"
+            },
+            {
+              "key": "B",
+              "text": "many"
+            },
+            {
+              "key": "C",
+              "text": "several"
+            },
+            {
+              "key": "D",
+              "text": "little"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Information không đếm được, nên little là lượng từ phù hợp để nói có ít thông tin.",
+          "translation": "Có rất ít thông tin trên áp phích về thời gian họp chính xác.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The wildlife volunteers were praised for their ------- during the long rescue operation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dedication"
+            },
+            {
+              "key": "B",
+              "text": "confusion"
+            },
+            {
+              "key": "C",
+              "text": "shortage"
+            },
+            {
+              "key": "D",
+              "text": "location"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Dedication là sự tận tụy, giải thích lý do tình nguyện viên được khen sau cuộc cứu hộ dài.",
+          "translation": "Các tình nguyện viên bảo vệ động vật hoang dã được khen vì sự tận tụy trong đợt cứu hộ kéo dài.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "I can't remember where ------- the keys after the rehearsal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did I leave"
+            },
+            {
+              "key": "B",
+              "text": "I leaving"
+            },
+            {
+              "key": "C",
+              "text": "have I leave"
+            },
+            {
+              "key": "D",
+              "text": "I left"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Trong câu hỏi gián tiếp sau where dùng trật tự chủ ngữ + động từ: I left, không đảo trợ động từ.",
+          "translation": "Tôi không nhớ mình đã để chìa khóa ở đâu sau buổi diễn tập.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "grammar-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the best answer to complete the sentence or exchange.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Student: 'Could you tell me where the astronomy club meets?' Volunteer: '-------'",
+          "options": [
+            {
+              "key": "A",
+              "text": "The stars are very bright tonight."
+            },
+            {
+              "key": "B",
+              "text": "In room 204, every Thursday afternoon."
+            },
+            {
+              "key": "C",
+              "text": "I prefer biology to astronomy."
+            },
+            {
+              "key": "D",
+              "text": "I bought my telescope last winter."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Câu hỏi hỏi địa điểm và thời gian gặp mặt; đáp án đúng cung cấp ngay thông tin cần thiết.",
+          "translation": "Học sinh hỏi câu lạc bộ thiên văn họp ở đâu. Tình nguyện viên đáp: Ở phòng 204, mỗi chiều thứ Năm.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "communication"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A: 'I apologize for attaching the wrong document.' B: '-------'",
+          "options": [
+            {
+              "key": "A",
+              "text": "The printer is next to the window."
+            },
+            {
+              "key": "B",
+              "text": "I visited the archive yesterday."
+            },
+            {
+              "key": "C",
+              "text": "You must bring an umbrella."
+            },
+            {
+              "key": "D",
+              "text": "No problem. Please send the corrected version."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Người đối thoại vừa xin lỗi vì gửi nhầm tài liệu; câu đáp phù hợp chấp nhận lời xin lỗi và đề nghị gửi lại.",
+          "translation": "A xin lỗi vì đính kèm nhầm tài liệu. B đáp: Không sao, vui lòng gửi bản đã sửa.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "communication"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A: 'May I use your charger for five minutes?' B: '-------'",
+          "options": [
+            {
+              "key": "A",
+              "text": "I charged my phone yesterday."
+            },
+            {
+              "key": "B",
+              "text": "The charger is made of plastic."
+            },
+            {
+              "key": "C",
+              "text": "Of course. Here you are."
+            },
+            {
+              "key": "D",
+              "text": "The meeting lasted five minutes."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lời hỏi xin mượn bộ sạc cần câu đồng ý hoặc từ chối phù hợp; Of course. Here you are thể hiện đồng ý.",
+          "translation": "A hỏi có thể dùng nhờ bộ sạc năm phút không. B đáp: Tất nhiên, của bạn đây.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "communication"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A: 'Would you like me to carry that heavy box?' B: '-------'",
+          "options": [
+            {
+              "key": "A",
+              "text": "Yes, thank you. That would help a lot."
+            },
+            {
+              "key": "B",
+              "text": "The box was delivered last week."
+            },
+            {
+              "key": "C",
+              "text": "I prefer the blue box."
+            },
+            {
+              "key": "D",
+              "text": "The corridor is three meters wide."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Lời đề nghị giúp đỡ cần phản hồi chấp nhận có cảm ơn; ba đáp án kia chỉ nêu thông tin khác.",
+          "translation": "A đề nghị mang giúp thùng nặng. B đáp: Có, cảm ơn bạn, như vậy sẽ giúp tôi nhiều lắm.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "communication"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "A: 'Be careful. The stone steps are slippery after the rain.' B: '-------'",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is raining in another town."
+            },
+            {
+              "key": "B",
+              "text": "Thanks for the warning. I'll hold the rail."
+            },
+            {
+              "key": "C",
+              "text": "The stone steps were built in spring."
+            },
+            {
+              "key": "D",
+              "text": "I have already read the brochure."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cảnh báo an toàn cần câu ghi nhận và đáp lại bằng hành động cẩn thận.",
+          "translation": "A cảnh báo bậc đá trơn sau mưa. B đáp: Cảm ơn đã nhắc, tôi sẽ bám tay vịn.",
+          "difficulty": 3,
+          "tags": [
+            "use-of-english"
+          ],
+          "skill_tags": [
+            "communication"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "reading",
+      "instructions": "Read the passage and select the best answer.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Why did teachers establish the Brookfield mobile library?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The retirement home requested a bus."
+            },
+            {
+              "key": "B",
+              "text": "The village's only bookshop had shut down."
+            },
+            {
+              "key": "C",
+              "text": "The market was scheduled to move."
+            },
+            {
+              "key": "D",
+              "text": "The school lost all its tablets."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Dự án khởi đầu sau khi hiệu sách duy nhất của làng đóng cửa; các nguyên nhân khác không được nêu.",
+          "translation": "Vì sao các giáo viên thành lập thư viện lưu động Brookfield? Vì hiệu sách duy nhất của làng đã đóng cửa.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "How frequently does the library bus now visit the old market?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every day."
+            },
+            {
+              "key": "B",
+              "text": "Every two weeks."
+            },
+            {
+              "key": "C",
+              "text": "Once each month."
+            },
+            {
+              "key": "D",
+              "text": "Every week."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn văn nêu rõ nhóm chuyển từ mỗi tháng một lần sang ghé chợ hằng tuần.",
+          "translation": "Xe thư viện hiện đến khu chợ cũ bao lâu một lần? Mỗi tuần.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "How long may adults borrow printed books from the bus?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Three weeks."
+            },
+            {
+              "key": "B",
+              "text": "One week."
+            },
+            {
+              "key": "C",
+              "text": "Two weeks."
+            },
+            {
+              "key": "D",
+              "text": "Four weeks."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người lớn được giữ sách trong ba tuần; trẻ em là hai tuần.",
+          "translation": "Người lớn được mượn sách giấy từ xe bao lâu? Ba tuần.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which activity do volunteers offer older residents?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lessons on downloading free e-books."
+            },
+            {
+              "key": "B",
+              "text": "Repairs for personal computers."
+            },
+            {
+              "key": "C",
+              "text": "Delivery of new mobile phones."
+            },
+            {
+              "key": "D",
+              "text": "Training in driving the bus."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Tình nguyện viên hướng dẫn cách tải sách điện tử miễn phí cho cư dân lớn tuổi.",
+          "translation": "Tình nguyện viên cung cấp hoạt động gì cho cư dân cao tuổi? Hướng dẫn tải sách điện tử miễn phí.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "What is true about the proposed second library bus?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has already been purchased."
+            },
+            {
+              "key": "B",
+              "text": "It runs on Friday mornings."
+            },
+            {
+              "key": "C",
+              "text": "It will replace the first bus."
+            },
+            {
+              "key": "D",
+              "text": "It depends on future donations."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Ban tổ chức chỉ hy vọng quyên đủ tiền để thêm xe, chưa mua chiếc thứ hai.",
+          "translation": "Điều gì đúng về chiếc xe thư viện thứ hai dự kiến? Việc mua xe phụ thuộc vào các khoản quyên góp sắp tới.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ],
+      "passage": "Every Wednesday, a small blue bus parks outside the old market in Brookfield. Inside are shelves of books, two tablet computers, and a foldable reading table. The bus belongs to a mobile library project started by local teachers after the village's only bookshop closed. At first, it visited the market once a month, but demand was so high that the team switched to weekly visits. Children can borrow books for two weeks, while adults may keep them for three. Volunteers also show older residents how to download free electronic books. The tablets are used only during the visit because the library does not lend electronic devices. Last month, the project began stopping at a retirement home on Friday mornings. Next year, the organizers hope to collect enough donations to add a second bus, but they have not purchased one yet.",
+      "passage_vi": "Mỗi thứ Tư, một chiếc xe buýt nhỏ màu xanh đỗ bên ngoài khu chợ cũ ở Brookfield. Bên trong có giá sách, hai máy tính bảng và một bàn đọc có thể gấp lại. Xe thuộc dự án thư viện lưu động do giáo viên địa phương khởi xướng sau khi hiệu sách duy nhất của làng đóng cửa. Ban đầu xe đến chợ mỗi tháng một lần, nhưng nhu cầu cao khiến nhóm chuyển sang mỗi tuần một lần. Trẻ em được mượn sách hai tuần, người lớn được mượn ba tuần. Tình nguyện viên còn hướng dẫn người cao tuổi tải sách điện tử miễn phí. Máy tính bảng chỉ được sử dụng trong lúc xe ghé vì thư viện không cho mượn thiết bị điện tử. Tháng trước, dự án bắt đầu dừng ở viện dưỡng lão vào sáng thứ Sáu. Năm tới, ban tổ chức hy vọng nhận đủ quyên góp để có thêm xe thứ hai, nhưng vẫn chưa mua xe."
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "instructions": "Read the passage and select the best answer.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What caused water to collect around the Pineford playground?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Runoff from a steep road."
+            },
+            {
+              "key": "B",
+              "text": "A leak in an underground pipe."
+            },
+            {
+              "key": "C",
+              "text": "A broken drinking-water fountain."
+            },
+            {
+              "key": "D",
+              "text": "Water from a nearby lake."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Nước chảy từ con đường dốc xuống sân chơi khi mưa lớn gây ngập.",
+          "translation": "Điều gì khiến nước đọng quanh sân chơi Pineford? Dòng nước chảy xuống từ con đường dốc.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Why were native grasses chosen for the rain gardens?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their roots help stabilize the soil."
+            },
+            {
+              "key": "B",
+              "text": "They require no sunlight at all."
+            },
+            {
+              "key": "C",
+              "text": "They stop every possible flood."
+            },
+            {
+              "key": "D",
+              "text": "They grow only in concrete."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Rễ cỏ và cây bản địa giữ mặt đất ổn định; bài không nêu các thuộc tính cực đoan ở phương án khác.",
+          "translation": "Vì sao chọn cỏ bản địa cho các vườn thấm nước? Vì rễ của chúng giúp giữ đất ổn định.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What did volunteers observe after the gardens were built?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Playground puddles lasted roughly half as long."
+            },
+            {
+              "key": "B",
+              "text": "All flooding ended immediately."
+            },
+            {
+              "key": "C",
+              "text": "The road became much steeper."
+            },
+            {
+              "key": "D",
+              "text": "The swings were removed permanently."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Kết quả đo cho thấy vũng nước còn đọng khoảng một nửa thời gian trước đó.",
+          "translation": "Tình nguyện viên quan sát thấy gì sau khi xây vườn? Vũng nước trên sân chơi tồn tại khoảng một nửa thời gian so với trước.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Where will the council fund another rain garden?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Inside the school library."
+            },
+            {
+              "key": "B",
+              "text": "Across the river."
+            },
+            {
+              "key": "C",
+              "text": "At the village bookshop."
+            },
+            {
+              "key": "D",
+              "text": "Near the bus stop."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Hội đồng đồng ý tài trợ vườn thứ tư gần trạm xe buýt.",
+          "translation": "Hội đồng sẽ tài trợ thêm vườn thấm nước ở đâu? Gần trạm xe buýt.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What is the main purpose of Pineford's rain gardens?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To provide fish for residents."
+            },
+            {
+              "key": "B",
+              "text": "To replace every playground feature."
+            },
+            {
+              "key": "C",
+              "text": "To slow and absorb stormwater."
+            },
+            {
+              "key": "D",
+              "text": "To increase car parking spaces."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Vườn mưa giữ nước tạm thời và cho nước ngấm vào đất nhằm giảm ngập.",
+          "translation": "Mục đích chính của những vườn mưa Pineford là gì? Làm chậm và hấp thụ nước mưa.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ],
+      "passage": "A neighborhood in Pineford used to experience minor flooding whenever heavy rain fell for more than an hour. Water flowed from a steep road into the playground, often leaving the swings surrounded by mud. Instead of building a high concrete wall, residents worked with an engineer to create three rain gardens beside the road. These shallow planted areas collect water temporarily and allow it to soak into the soil. Native grasses and flowering plants were chosen because their roots help keep the ground stable. During the first rainy season, volunteers measured water levels after each storm. They reported that puddles on the playground remained for about half as long as before. The project did not eliminate every flood, but the council agreed to fund a fourth garden near the bus stop. Residents now help maintain the gardens by removing litter without disturbing the plants.",
+      "passage_vi": "Một khu dân cư ở Pineford từng bị ngập nhẹ mỗi khi mưa lớn kéo dài hơn một giờ. Nước chảy từ đường dốc xuống sân chơi, thường khiến xích đu bị bùn bao quanh. Thay vì xây tường bê tông cao, cư dân cùng một kỹ sư tạo ba vườn thấm nước mưa cạnh đường. Những khu trồng cây nông này tạm giữ nước và cho nước thấm xuống đất. Họ chọn cỏ và cây hoa bản địa vì rễ của chúng giúp đất ổn định. Trong mùa mưa đầu tiên, tình nguyện viên đo mực nước sau mỗi trận mưa. Họ báo rằng các vũng nước trên sân chơi tồn tại trong khoảng một nửa thời gian so với trước. Dự án không loại bỏ mọi trận ngập nhưng hội đồng đồng ý tài trợ khu vườn thứ tư gần trạm xe buýt. Cư dân nay giúp duy trì vườn bằng cách nhặt rác mà không làm hại cây."
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the passage and select the best answer.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 36,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What first inspired the Eastbank repair workshop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Many desk lamps were being discarded at school."
+            },
+            {
+              "key": "B",
+              "text": "A bicycle shop offered large discounts."
+            },
+            {
+              "key": "C",
+              "text": "The hall needed a new heating system."
+            },
+            {
+              "key": "D",
+              "text": "A backpack factory requested volunteers."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Một giáo viên thấy nhiều đèn bàn hỏng bị bỏ vào cuối năm học nên nảy ý tưởng mở xưởng.",
+          "translation": "Điều gì đầu tiên tạo cảm hứng cho xưởng sửa đồ Eastbank? Nhiều đèn bàn bị bỏ ở trường.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which object would the Eastbank volunteers refuse to repair?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A backpack with a torn strap."
+            },
+            {
+              "key": "B",
+              "text": "A lamp with a broken switch."
+            },
+            {
+              "key": "C",
+              "text": "A device with a damaged rechargeable battery."
+            },
+            {
+              "key": "D",
+              "text": "A bicycle with a loose chain."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Quy định an toàn loại trừ đồ có pin sạc bị hỏng; các vật khác nằm trong nhóm nhận sửa.",
+          "translation": "Tình nguyện viên Eastbank từ chối sửa vật nào? Thiết bị có pin sạc bị hỏng.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which items were repaired most often last month?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lamps with cracked shades."
+            },
+            {
+              "key": "B",
+              "text": "Kitchen chairs with loose legs."
+            },
+            {
+              "key": "C",
+              "text": "Backpacks with torn straps."
+            },
+            {
+              "key": "D",
+              "text": "Bicycles with bent wheels."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn văn nêu ba lô bị rách quai là món được sửa nhiều nhất tháng trước.",
+          "translation": "Những vật dụng nào được sửa nhiều nhất tháng trước? Ba lô rách quai.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What does 'salvage' most nearly mean in the workshop passage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Replace a faulty battery with a new one."
+            },
+            {
+              "key": "B",
+              "text": "Move an item to a different location."
+            },
+            {
+              "key": "C",
+              "text": "Save useful parts from something damaged."
+            },
+            {
+              "key": "D",
+              "text": "Charge visitors for their repairs."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Salvage chỉ việc giữ lại linh kiện còn sử dụng được từ món đồ không sửa được.",
+          "translation": "Từ salvage trong bài có nghĩa gần nhất là gì? Tận dụng bộ phận còn dùng được từ vật hỏng.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "How do Eastbank organizers evaluate the workshop's success?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By how many volunteers own bicycles."
+            },
+            {
+              "key": "B",
+              "text": "By the number of items kept out of the trash."
+            },
+            {
+              "key": "C",
+              "text": "By the total donations collected."
+            },
+            {
+              "key": "D",
+              "text": "By the sale of new electronics."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ban tổ chức dùng số lượng món đồ không bị vứt bỏ làm thước đo thành công.",
+          "translation": "Ban tổ chức Eastbank đánh giá thành công của xưởng như thế nào? Qua số món đồ được cứu khỏi việc vứt bỏ.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ],
+      "passage": "On the first Saturday of each month, the Eastbank community hall becomes a repair workshop. Residents bring small items such as lamps, backpacks, and bicycles that they would otherwise throw away. The workshop began when a science teacher noticed how many broken desk lamps were discarded at the end of the school year. Local volunteers now share skills in sewing, basic electronics, and bicycle maintenance. For safety reasons, they refuse to repair gas appliances or anything with a damaged rechargeable battery. Visitors are invited to watch each repair and learn how to maintain their belongings. The most commonly repaired items last month were backpacks with torn straps. If a repair fails, volunteers sometimes salvage usable buttons or screws for future projects. Participants may donate money, but there is no required fee. Organizers measure success by the number of items saved from disposal, not by the amount donated.",
+      "passage_vi": "Vào thứ Bảy đầu tiên mỗi tháng, hội trường cộng đồng Eastbank trở thành xưởng sửa đồ. Cư dân mang các vật dụng nhỏ như đèn, ba lô và xe đạp mà họ có thể sẽ vứt đi. Xưởng bắt đầu khi một giáo viên khoa học nhận thấy nhiều đèn bàn hỏng bị bỏ vào cuối năm học. Tình nguyện viên địa phương chia sẻ kỹ năng may vá, điện tử cơ bản và bảo dưỡng xe đạp. Vì an toàn, họ từ chối sửa thiết bị dùng khí đốt hoặc đồ có pin sạc bị hư. Khách được mời xem từng lần sửa và học bảo quản đồ dùng. Những món được sửa nhiều nhất tháng trước là ba lô rách quai. Nếu không sửa được, tình nguyện viên đôi khi tận dụng nút áo hoặc đinh vít còn dùng được cho dự án sau. Người tham gia có thể quyên tiền nhưng không bắt buộc trả phí. Ban tổ chức đo thành công bằng số đồ tránh bị vứt bỏ, không phải số tiền nhận được."
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the passage and select the best answer.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 41,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why does the astronomy club visit a field outside town?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The school library is being repaired."
+            },
+            {
+              "key": "B",
+              "text": "Their teacher keeps telescopes there permanently."
+            },
+            {
+              "key": "C",
+              "text": "The planets can only be seen from that field."
+            },
+            {
+              "key": "D",
+              "text": "There is less interference from streetlights."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bài nói cánh đồng xa ánh sáng đèn đường hơn, giúp dễ quan sát bầu trời.",
+          "translation": "Vì sao câu lạc bộ thiên văn tới cánh đồng ngoài thị trấn? Vì ít bị ánh đèn đường cản trở.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 42,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "How many telescopes did the teacher offer to lend?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two."
+            },
+            {
+              "key": "B",
+              "text": "One."
+            },
+            {
+              "key": "C",
+              "text": "Four."
+            },
+            {
+              "key": "D",
+              "text": "Six."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Giáo viên cho các em mượn hai kính thiên văn nhỏ.",
+          "translation": "Giáo viên đề nghị cho mượn bao nhiêu kính thiên văn? Hai.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What did the club members see on their first observation evening?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A solar eclipse at midday."
+            },
+            {
+              "key": "B",
+              "text": "A spacecraft landing in the field."
+            },
+            {
+              "key": "C",
+              "text": "Four bright planets at different times."
+            },
+            {
+              "key": "D",
+              "text": "Every constellation in the western sky."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Các em quan sát được bốn hành tinh sáng vào những thời điểm khác nhau trong tối đầu tiên.",
+          "translation": "Các thành viên thấy gì trong buổi quan sát đầu tiên? Bốn hành tinh sáng ở những thời điểm khác nhau.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why was the second field visit postponed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Strong winds made the location unsafe."
+            },
+            {
+              "key": "B",
+              "text": "All journals had been lost."
+            },
+            {
+              "key": "C",
+              "text": "The teacher sold the telescopes."
+            },
+            {
+              "key": "D",
+              "text": "The club had no members that week."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Gió mạnh gây nguy hiểm tại cánh đồng nên buổi đi thứ hai bị hoãn.",
+          "translation": "Vì sao buổi ra cánh đồng thứ hai bị hoãn? Vì gió mạnh khiến địa điểm không an toàn.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What do the students record in their sky journal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Library borrowing records."
+            },
+            {
+              "key": "B",
+              "text": "Dates, weather, and observed objects."
+            },
+            {
+              "key": "C",
+              "text": "Only the cost of their equipment."
+            },
+            {
+              "key": "D",
+              "text": "Names of every street in town."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Nhật ký ghi ngày, thời tiết và những vật thể quan sát được để chia sẻ thông tin.",
+          "translation": "Học sinh ghi gì trong nhật ký bầu trời? Ngày tháng, thời tiết và các vật thể đã quan sát.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ],
+      "passage": "Students at North Hill School formed an astronomy club after an evening science lesson sparked questions about the night sky. Their teacher offered to lend two small telescopes, but the club members also learned to identify stars without special equipment. Once a month, they take a supervised walk to an open field outside town, where streetlights are less distracting. During the first observation evening, students spotted four bright planets at different times, although the cloudy western sky hid some constellations. The second walk was postponed because strong winds made the field unsafe. Members then created a simple sky journal in which they record the date, weather, and objects they observe. The journal is displayed in the school library so younger pupils can learn from it. Next term, club members plan to invite families to an early-evening event, provided the weather is suitable.",
+      "passage_vi": "Học sinh trường North Hill lập câu lạc bộ thiên văn sau khi một buổi học khoa học buổi tối khơi gợi nhiều câu hỏi về bầu trời đêm. Giáo viên cho mượn hai kính thiên văn nhỏ, nhưng các thành viên cũng học cách nhận diện sao mà không cần thiết bị đặc biệt. Mỗi tháng một lần, các em đi bộ có giám sát tới cánh đồng thoáng ngoài thị trấn, nơi đèn đường ít gây chói. Trong buổi quan sát đầu tiên, học sinh nhìn thấy bốn hành tinh sáng vào các thời điểm khác nhau, dù mây phía tây che một số chòm sao. Buổi đi thứ hai bị hoãn vì gió mạnh khiến cánh đồng không an toàn. Sau đó các thành viên lập nhật ký bầu trời ghi ngày, thời tiết và vật thể quan sát được. Nhật ký được trưng bày tại thư viện trường để học sinh nhỏ tuổi học hỏi. Học kỳ tới, câu lạc bộ dự định mời các gia đình tới sự kiện đầu buổi tối nếu thời tiết phù hợp."
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and select the best answer.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 46,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What event prompted the Seabrook oral-history project?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A ban on ferry travel."
+            },
+            {
+              "key": "B",
+              "text": "The demolition of the old wooden ticket office."
+            },
+            {
+              "key": "C",
+              "text": "The arrival of a new fishing company."
+            },
+            {
+              "key": "D",
+              "text": "The construction of a second public library."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Dự án được khởi xướng sau khi phòng vé gỗ bị phá dỡ, khiến cư dân lo mất chuyện xưa.",
+          "translation": "Sự kiện nào dẫn tới dự án lịch sử truyền miệng Seabrook? Việc phá dỡ phòng vé gỗ cũ.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 47,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where do volunteers conduct the interviews?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On crowded fishing boats."
+            },
+            {
+              "key": "B",
+              "text": "At the town's main bus station."
+            },
+            {
+              "key": "C",
+              "text": "In quiet rooms at the public library."
+            },
+            {
+              "key": "D",
+              "text": "Inside the operating ferry terminal."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn văn xác định các phòng yên tĩnh ở thư viện công cộng là nơi phỏng vấn.",
+          "translation": "Tình nguyện viên thực hiện phỏng vấn ở đâu? Trong các phòng yên tĩnh tại thư viện công cộng.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 48,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What happens before a participant is recorded?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They must buy a ticket to the harbor."
+            },
+            {
+              "key": "B",
+              "text": "They receive a new mobile phone."
+            },
+            {
+              "key": "C",
+              "text": "They promise to publish their home address."
+            },
+            {
+              "key": "D",
+              "text": "They sign a form explaining how the recording may be used."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Người tham gia ký mẫu đơn nêu rõ cách sử dụng bản ghi trước khi phỏng vấn.",
+          "translation": "Điều gì xảy ra trước khi người tham gia được ghi âm? Họ ký giấy giải thích cách bản ghi được sử dụng.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 49,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How many interviews have the group completed so far?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sixty."
+            },
+            {
+              "key": "B",
+              "text": "Twenty-four."
+            },
+            {
+              "key": "C",
+              "text": "Twelve."
+            },
+            {
+              "key": "D",
+              "text": "Forty-two."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Bài viết nêu nhóm đã hoàn thành twenty-four interviews.",
+          "translation": "Nhóm đã hoàn thành bao nhiêu cuộc phỏng vấn? Hai mươi bốn.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 50,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How will students use the Seabrook recordings?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To design a new ticket office."
+            },
+            {
+              "key": "B",
+              "text": "To train as professional fish sellers."
+            },
+            {
+              "key": "C",
+              "text": "To publish a list of private addresses."
+            },
+            {
+              "key": "D",
+              "text": "To prepare an exhibition about changing harbor jobs."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bản ghi giúp học sinh làm triển lãm về sự thay đổi nghề ở cảng theo thời gian.",
+          "translation": "Học sinh sẽ dùng các bản ghi Seabrook như thế nào? Chuẩn bị triển lãm về những nghề ở cảng đã thay đổi.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ],
+      "passage": "A local history group in Seabrook is collecting memories from people who worked at the old harbor. The project began after the wooden ticket office was demolished, and several residents worried that stories about the harbor would disappear. Volunteers interview former boat builders, fish sellers, and ferry workers in quiet rooms at the public library. Before each interview, the participant signs a form explaining how the recording may be used. Some speakers permit their full names to appear online, while others ask to remain anonymous. The group makes short audio clips available through a free website and stores complete recordings in the town archive. So far, the volunteers have completed twenty-four interviews, and they plan to visit an older residents' center in spring. The recordings will also help students prepare an exhibition about how jobs at the harbor changed over time.",
+      "passage_vi": "Một nhóm lịch sử địa phương ở Seabrook đang thu thập ký ức của những người từng làm việc tại bến cảng cũ. Dự án bắt đầu sau khi phòng vé gỗ bị phá dỡ và một số cư dân lo rằng chuyện về cảng sẽ biến mất. Tình nguyện viên phỏng vấn người đóng tàu, người bán cá và nhân viên phà đã nghỉ việc trong các phòng yên tĩnh ở thư viện công cộng. Trước mỗi cuộc phỏng vấn, người tham gia ký mẫu đơn giải thích cách bản ghi âm có thể được sử dụng. Có người đồng ý công khai tên đầy đủ trên mạng, người khác muốn ẩn danh. Nhóm đăng các đoạn âm thanh ngắn trên website miễn phí và lưu toàn bộ bản ghi trong kho lưu trữ thị trấn. Đến nay, tình nguyện viên đã hoàn thành hai mươi bốn cuộc phỏng vấn và dự kiến tới trung tâm người cao tuổi vào mùa xuân. Các bản ghi cũng giúp học sinh chuẩn bị triển lãm về sự thay đổi nghề nghiệp ở bến cảng theo thời gian."
+    }
+  ]
+}

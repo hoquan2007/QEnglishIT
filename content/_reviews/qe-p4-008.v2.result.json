@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p4-008",
+  "revision": "3e3e210aa769472c01738785615ca8d5fa647d24ea02e80e5334f99d2a74d008",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Transcript-only independent blind review. All 30 items have a supported best choice. Q29 registration location and panel time both unchanged, but only panel time offered, so B unique. Many questions are direct detail retrieval; add varied inference/paraphrase. No audio evaluated.",
+  "admin_sample": [
+    19,
+    26
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

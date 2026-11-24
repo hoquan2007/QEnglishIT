@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p7-008",
+  "revision": "5f3b977ca42c2fa5ce7233f14f7fd7c33b411fabb23e94707b243b46957d5e9f",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q6 and Q8 both test the same cabinet request; replace one with a question on check-in or booth identification. Q9 and Q12 both draw on the suite-number request, though they test distinct aspects. Q29 and Q30 substantially overlap on the meeting relocation; consider an inference about urgent response timing instead. Some distractors remain easy to eliminate because they are unrelated to the documents. All selected answers are supported by the fresh blind pack. Independently answered using only the current blind pack; no source test or previous answer file was consulted before submission.",
+  "admin_sample": [
+    5,
+    30
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

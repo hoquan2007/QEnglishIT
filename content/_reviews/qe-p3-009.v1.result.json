@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p3-009",
+  "revision": "8b5c26231bd338461fc465c7312b742d21b544556a677f2e2b725b41349c8c36",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 39,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q17: A is directly supported; C is less specific, with no comparison to expected costs stated. Q33: A is the best inference, but the speaker explicitly promises to export affected records before noon; delivery to Accounting by noon is not explicitly promised. Revise A to 'Affected payroll records will be exported before noon.' Independently solved using only the blind transcript, questions, and options. Major assessment-quality concern: every answer position follows the same repeating A-B-C-D cycle, and generic off-topic distractors recur across groups and all six sets. The repeated broad purpose/detail/next-action stems also make answers easy to predict; shuffle positions and replace distractors with plausible passage-specific alternatives before publication.",
+  "admin_sample": [
+    15,
+    32
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

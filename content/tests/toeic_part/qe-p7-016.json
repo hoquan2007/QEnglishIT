@@ -1,0 +1,1205 @@
+{
+  "slug": "qe-p7-016",
+  "title": "TOEIC Part 7 Practice 16 – Service Recovery, Archives, and Market Operations",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 29,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part7",
+    "reading",
+    "business-english"
+  ],
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 29
+    }
+  ],
+  "groups": [
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Response to Jo Tan — Ordel Shoe Repair**\nYour boots are ready, but the sole shown on the receipt could not be fitted without widening the heel. We used a narrower sole from the same manufacturer, at no additional cost. It has the same tread pattern. The person who fitted it will be at the counter from 11 to 2 tomorrow if you want to compare both types. The store is open until six, and we'll hold the boots until next Friday.",
+      "passage_vi": "**Phản hồi cho Jo Tan — Ordel Shoe Repair**\nĐôi ủng đã sửa xong, nhưng không thể lắp đế ghi trên biên nhận nếu không làm rộng gót. Chúng tôi dùng đế hẹp hơn của cùng hãng và không tính thêm phí. Hai loại có cùng kiểu rãnh. Thợ lắp đế sẽ ở quầy từ 11 đến 14 giờ ngày mai nếu quý khách muốn so sánh. Cửa hàng mở đến 18 giờ và sẽ giữ ủng đến thứ Sáu tuần sau.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why did the shop contact Jo Tan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To report a delay in obtaining boots"
+            },
+            {
+              "key": "B",
+              "text": "To announce a store closure"
+            },
+            {
+              "key": "C",
+              "text": "To explain a substitution in a completed repair"
+            },
+            {
+              "key": "D",
+              "text": "To ask for permission to widen the heel"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Thư báo đã sửa xong và giải thích vì sao dùng đế khác loại ghi trên biên nhận.",
+          "translation": "Vì sao cửa hàng liên hệ Jo Tan?",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the same about the two kinds of sole?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The product number"
+            },
+            {
+              "key": "B",
+              "text": "The material thickness"
+            },
+            {
+              "key": "C",
+              "text": "The width of the heel"
+            },
+            {
+              "key": "D",
+              "text": "The tread pattern"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thư xác nhận hai loại có cùng kiểu rãnh.",
+          "translation": "Điểm gì giống nhau giữa hai loại đế?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What can Jo do by visiting tomorrow at noon?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Help the shop widen the replacement heel."
+            },
+            {
+              "key": "B",
+              "text": "Watch a demonstration from the sole manufacturer."
+            },
+            {
+              "key": "C",
+              "text": "Receive a pair of new boots at no cost."
+            },
+            {
+              "key": "D",
+              "text": "Compare the two soles with the person who did the repair."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thợ lắp đế có mặt từ 11 đến 14 giờ nếu khách muốn so sánh.",
+          "translation": "Jo có thể làm gì nếu đến lúc 12 giờ ngày mai?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How long will the shop hold the boots?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Until next Friday"
+            },
+            {
+              "key": "B",
+              "text": "Until two tomorrow"
+            },
+            {
+              "key": "C",
+              "text": "Until six tomorrow"
+            },
+            {
+              "key": "D",
+              "text": "Until the end of the month"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hạn giữ ủng là thứ Sáu tuần sau.",
+          "translation": "Cửa hàng sẽ giữ ủng đến khi nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Archive digitization notes — Box G19**\nThe ledger pages are numbered in pencil. Do not use the faint ink numbers in the corners. They were added when entries were grouped by customer rather than by date. Scan the folded receipts separately and name each image with the pencil page number followed by R. If there are two receipts on a page, add R1 and R2 in the order they appear. The envelope marked LOOSE contains documents already scanned by the city archive.",
+      "passage_vi": "**Ghi chú số hóa lưu trữ — Hộp G19**\nCác trang sổ được đánh số bằng bút chì. Không dùng số viết mực đã mờ ở góc. Chúng được thêm khi các mục ghi được nhóm theo khách hàng thay vì ngày. Quét riêng biên nhận gấp lại và đặt tên ảnh bằng số trang bút chì theo sau là R. Nếu một trang có hai biên nhận, thêm R1 và R2 theo thứ tự xuất hiện. Phong bì ghi LOOSE chứa tài liệu kho lưu trữ thành phố đã quét.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "The word “faint” is closest in meaning to what?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unusually large"
+            },
+            {
+              "key": "B",
+              "text": "Recently written"
+            },
+            {
+              "key": "C",
+              "text": "Easy to erase"
+            },
+            {
+              "key": "D",
+              "text": "Hard to see"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Số viết mực đã mờ nên khó nhìn.",
+          "translation": "Từ “faint” gần nghĩa nhất với cụm nào?",
+          "difficulty": 3,
+          "tags": [
+            "vocabulary"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What did the ink numbers reflect?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Records sorted by date"
+            },
+            {
+              "key": "B",
+              "text": "Images listed by scanner"
+            },
+            {
+              "key": "C",
+              "text": "Records grouped by customer"
+            },
+            {
+              "key": "D",
+              "text": "Receipts filed by page color"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Số bằng mực được thêm khi các mục được sắp theo khách.",
+          "translation": "Số viết mực thể hiện cách sắp xếp nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What filename follows the instructions for the second receipt on pencil page 18?",
+          "options": [
+            {
+              "key": "A",
+              "text": "18R"
+            },
+            {
+              "key": "B",
+              "text": "18R1"
+            },
+            {
+              "key": "C",
+              "text": "R218"
+            },
+            {
+              "key": "D",
+              "text": "18R2"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Số trang đứng trước, theo sau là R2 cho biên nhận thứ hai.",
+          "translation": "Tên nào đúng hướng dẫn cho biên nhận thứ hai ở trang có số bút chì 18?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which items have already been digitized?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pages numbered only in ink"
+            },
+            {
+              "key": "B",
+              "text": "The first eighteen pages"
+            },
+            {
+              "key": "C",
+              "text": "The contents of the LOOSE envelope"
+            },
+            {
+              "key": "D",
+              "text": "All of the folded receipts"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Kho lưu trữ thành phố đã quét tài liệu trong phong bì LOOSE.",
+          "translation": "Những mục nào đã được số hóa?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Bramble Convention Bureau — Volunteer news**\nWalking guides used to collect only a printed route and a vest. Starting in June they will also carry a small rainproof tally card. Last season several tours attracted more visitors than expected, making it difficult to judge how many guides were needed. Record every departure on the card, even if nobody joins. Do not write visitor names. Turn in the card with the vest at the end of the shift; the bureau compiles numbers each Wednesday.",
+      "passage_vi": "**Bản tin tình nguyện viên — Văn phòng hội nghị Bramble**\nTrước đây hướng dẫn viên đi bộ chỉ nhận bản in lộ trình và áo nhận diện. Từ tháng 6, họ sẽ mang thêm phiếu đếm nhỏ chống mưa. Mùa trước, một số chuyến thu hút nhiều khách hơn dự kiến khiến việc xác định cần bao nhiêu hướng dẫn viên trở nên khó khăn. Hãy ghi mỗi lượt khởi hành kể cả khi không có khách. Không ghi tên khách. Cuối ca nộp phiếu cùng áo, văn phòng tổng hợp số liệu mỗi thứ Tư.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How will the bureau likely use the recorded counts?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Plan how many guides to assign."
+            },
+            {
+              "key": "B",
+              "text": "Create name badges for visitors."
+            },
+            {
+              "key": "C",
+              "text": "Choose materials for vests."
+            },
+            {
+              "key": "D",
+              "text": "Decide whether rainproof cards work."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Khó khăn về số hướng dẫn viên là lý do bắt đầu đếm lượt khách.",
+          "translation": "Văn phòng có thể dùng số liệu đã ghi để làm gì?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should a guide record if no visitors join?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The weather only"
+            },
+            {
+              "key": "B",
+              "text": "The vest number only"
+            },
+            {
+              "key": "C",
+              "text": "The departure with zero visitors"
+            },
+            {
+              "key": "D",
+              "text": "The names of absent visitors"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bản tin yêu cầu ghi cả lượt không có khách.",
+          "translation": "Nếu không có khách, hướng dẫn viên nên ghi gì?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which information are guides told to leave off the card?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Departures with no visitors"
+            },
+            {
+              "key": "B",
+              "text": "A visitor count"
+            },
+            {
+              "key": "C",
+              "text": "The fact that a tour left"
+            },
+            {
+              "key": "D",
+              "text": "Visitors' names"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bản tin yêu cầu không ghi tên khách.",
+          "translation": "Hướng dẫn viên được dặn không ghi thông tin nào trên phiếu?",
+          "difficulty": 3,
+          "tags": [
+            "negative_detail"
+          ],
+          "skill_tags": [
+            "negative_detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When are the cards returned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the end of the shift"
+            },
+            {
+              "key": "B",
+              "text": "At the start of each tour"
+            },
+            {
+              "key": "C",
+              "text": "At noon on Wednesday"
+            },
+            {
+              "key": "D",
+              "text": "After the season ends"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cuối ca, hướng dẫn viên nộp phiếu cùng áo.",
+          "translation": "Phiếu được nộp lại khi nào?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Gorse Market — Stall assignments for August 16**\nB1: Wild Kite Florist / electricity\nB2: Flax & Field bakery / water\nB3: Underleaf Tea / electricity and water\nB4: Unassigned / electricity only\nExtension cords must be collected from the service tent before 8:45. Drinking water dispensers are available near the entrance.\n---\n**Message from Céline, site manager**\nUnderleaf Tea can bring bottled water for its tastings, but the florist needs a tap to fill its tall buckets. Please swap those two vendors. Check that both receive the change before loading begins at eight.",
+      "passage_vi": "**Chợ Gorse — Phân quầy ngày 16/8**\nB1: Tiệm hoa Wild Kite / điện\nB2: Tiệm bánh Flax & Field / nước\nB3: Trà Underleaf / điện và nước\nB4: Chưa giao / chỉ có điện\nLấy dây nối điện tại lều dịch vụ trước 8:45. Có bình nước uống gần lối vào.\n---\n**Tin nhắn của Céline, quản lý địa điểm**\nTrà Underleaf có thể mang nước đóng chai cho buổi thử trà, nhưng tiệm hoa cần vòi để đổ đầy xô cao. Hãy đổi chỗ hai quầy. Kiểm tra cả hai bên đã nhận thông báo trước khi bắt đầu đưa hàng vào lúc 8 giờ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where should Wild Kite set up after the change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "B4"
+            },
+            {
+              "key": "B",
+              "text": "B3"
+            },
+            {
+              "key": "C",
+              "text": "B2"
+            },
+            {
+              "key": "D",
+              "text": "B1"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đổi với Underleaf ở B3 cho tiệm hoa quầy có vòi nước.",
+          "translation": "Sau khi đổi, Wild Kite nên bày hàng ở đâu?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why does Wild Kite need a tap?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To serve tea samples"
+            },
+            {
+              "key": "B",
+              "text": "To fill tall buckets"
+            },
+            {
+              "key": "C",
+              "text": "To refill a public dispenser"
+            },
+            {
+              "key": "D",
+              "text": "To wash baking trays"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Céline nói tiệm hoa cần vòi để đổ đầy xô cao.",
+          "translation": "Vì sao Wild Kite cần vòi nước?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What utility does Underleaf lose by changing stalls?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A water supply at the stall"
+            },
+            {
+              "key": "B",
+              "text": "An electricity supply at the stall"
+            },
+            {
+              "key": "C",
+              "text": "Access to the entrance"
+            },
+            {
+              "key": "D",
+              "text": "Access to the service tent"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "B3 có điện và nước còn B1 chỉ có điện.",
+          "translation": "Đổi quầy khiến Underleaf mất tiện ích nào?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should happen first, based on the two documents?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Finish collecting extension cords at 8:45."
+            },
+            {
+              "key": "B",
+              "text": "Inform the vendors of the swap."
+            },
+            {
+              "key": "C",
+              "text": "Set up a tea tasting at the new stall."
+            },
+            {
+              "key": "D",
+              "text": "Begin loading at eight."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Hai quầy cần nhận thông báo trước giờ đưa hàng vào lúc 8 giờ.",
+          "translation": "Theo hai văn bản, việc nào phải diễn ra trước?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Linden Cycle Courier — Incident report**\nThe insulated bag was fastened correctly, but a crosswind caught the lid of the empty bag while I waited at Rook Bridge. The hinge bent and now the lid cannot close. It happened after the lunch order was handed over, so the customer's food was unaffected. I brought the bag back empty and used the spare on my two afternoon stops. There are no more spare bags in the depot. I labeled the broken bag with my name and set it on the repair shelf.",
+      "passage_vi": "**Linden Cycle Courier — Báo cáo sự cố**\nTúi cách nhiệt đã được cố định đúng, nhưng gió ngang hất nắp chiếc túi rỗng khi tôi chờ ở cầu Rook. Bản lề cong nên nắp không đóng được nữa. Việc xảy ra sau khi đã giao đơn bữa trưa nên đồ ăn của khách không bị ảnh hưởng. Tôi mang túi trống về rồi dùng túi dự phòng cho hai điểm giao buổi chiều. Kho không còn túi dự phòng. Tôi ghi tên mình lên túi hỏng và đặt trên kệ sửa chữa.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why was the report most likely written?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To request changes to the afternoon route"
+            },
+            {
+              "key": "B",
+              "text": "To dispute a customer's lunch order"
+            },
+            {
+              "key": "C",
+              "text": "To report a missing bicycle"
+            },
+            {
+              "key": "D",
+              "text": "To document damage to a delivery bag"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Người viết ghi lại nguyên nhân hỏng, tình trạng và vị trí túi.",
+          "translation": "Báo cáo có khả năng được viết vì lý do gì?",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What prevented the lid from closing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An oversized order"
+            },
+            {
+              "key": "B",
+              "text": "A jammed repair shelf"
+            },
+            {
+              "key": "C",
+              "text": "A missing fastener"
+            },
+            {
+              "key": "D",
+              "text": "A bent hinge"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Gió làm cong bản lề nên nắp không đóng được.",
+          "translation": "Điều gì khiến nắp không đóng được?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why was the food unaffected?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The bag was replaced before pickup."
+            },
+            {
+              "key": "B",
+              "text": "The lid stayed closed despite the damage."
+            },
+            {
+              "key": "C",
+              "text": "It had already been delivered."
+            },
+            {
+              "key": "D",
+              "text": "It was wrapped in an extra bag."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sự cố xảy ra sau khi đã bàn giao đơn bữa trưa.",
+          "translation": "Vì sao đồ ăn không bị ảnh hưởng?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where can the damaged bag be found?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On the repair shelf"
+            },
+            {
+              "key": "B",
+              "text": "At Rook Bridge"
+            },
+            {
+              "key": "C",
+              "text": "On an afternoon delivery bicycle"
+            },
+            {
+              "key": "D",
+              "text": "Beside the lunch counter"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người giao đặt túi đã dán tên lên kệ sửa chữa.",
+          "translation": "Có thể tìm túi hỏng ở đâu?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Tallis Studio — Proofing instructions**\nOrders received by 3 P.M. enter production that day if the customer has signed the proof. A change of paper stock requires a fresh proof. A change in pickup time does not. Normal pickup is at the counter until 6 P.M. at no charge. Collection from a locker after closing costs $8.\n---\n**Job ticket TS-84 — February 12, 1:10 P.M.**\nClient: Dove Music School\nJob: 120 recital programs on cream paper\nProof: signed at 1:05 P.M.\nPickup: February 13 at 5 P.M., counter\n---\n**Email from Ada, Dove Music School — February 12, 2:40 P.M.**\nWe need a locker pickup at 7 tomorrow instead. Please also use the white paper from our last order. We're happy to approve a new sample right away if you can send it before three.",
+      "passage_vi": "**Tallis Studio — Hướng dẫn duyệt bản in thử**\nĐơn nhận trước hoặc đúng 15 giờ được đưa vào sản xuất trong ngày nếu khách đã ký duyệt bản thử. Đổi loại giấy cần bản thử mới. Đổi giờ lấy không cần. Nhận tại quầy đến 18 giờ không mất phí. Lấy từ tủ sau giờ đóng cửa mất 8 đô la.\n---\n**Phiếu việc TS-84 — 12/2, 13:10**\nKhách: Trường nhạc Dove\nViệc: In 120 tờ chương trình biểu diễn trên giấy kem\nBản thử: ký duyệt lúc 13:05\nNhận: 13/2 lúc 17 giờ, tại quầy\n---\n**Email của Ada, Trường nhạc Dove — 12/2, 14:40**\nThay vào đó chúng tôi cần lấy từ tủ lúc 19 giờ ngày mai. Xin dùng giấy trắng như đơn lần trước. Chúng tôi có thể duyệt ngay mẫu mới nếu quý vị gửi trước 15 giờ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 21,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which requested change requires a new proof?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Retaining the quantity"
+            },
+            {
+              "key": "B",
+              "text": "Using white paper"
+            },
+            {
+              "key": "C",
+              "text": "Using a locker"
+            },
+            {
+              "key": "D",
+              "text": "Moving pickup to 7 P.M."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đổi từ giấy kem sang giấy trắng là đổi loại giấy, nên phải duyệt lại.",
+          "translation": "Thay đổi nào theo yêu cầu cần bản in thử mới?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What extra charge will the revised pickup incur?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$0"
+            },
+            {
+              "key": "B",
+              "text": "$8"
+            },
+            {
+              "key": "C",
+              "text": "$18"
+            },
+            {
+              "key": "D",
+              "text": "$12"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Nhận từ tủ sau giờ đóng cửa có phí 8 đô.",
+          "translation": "Cách nhận mới phát sinh phí bao nhiêu?",
+          "difficulty": 4,
+          "tags": [
+            "cross_reference"
+          ],
+          "skill_tags": [
+            "cross_reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is being produced under TS-84?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Recital programs"
+            },
+            {
+              "key": "B",
+              "text": "Music lesson books"
+            },
+            {
+              "key": "C",
+              "text": "Enrollment forms"
+            },
+            {
+              "key": "D",
+              "text": "Admission tickets"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Phiếu ghi in 120 tờ chương trình biểu diễn.",
+          "translation": "Phiếu TS-84 đặt sản xuất gì?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What must happen for the revised order to enter production on February 12?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The school must collect the programs that afternoon."
+            },
+            {
+              "key": "B",
+              "text": "The client must approve a new proof by 3 P.M."
+            },
+            {
+              "key": "C",
+              "text": "The locker fee must be waived before closing."
+            },
+            {
+              "key": "D",
+              "text": "The original proof must be emailed again at 5 P.M."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đổi giấy cần bản thử mới và phải ký duyệt trước hạn 15 giờ để sản xuất trong ngày.",
+          "translation": "Cần làm gì để đơn sửa được đưa vào sản xuất ngày 12/2?",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where did the original ticket specify pickup?",
+          "options": [
+            {
+              "key": "A",
+              "text": "From a locker"
+            },
+            {
+              "key": "B",
+              "text": "From the paper supplier"
+            },
+            {
+              "key": "C",
+              "text": "At the counter"
+            },
+            {
+              "key": "D",
+              "text": "At the school office"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Phiếu ban đầu ghi nhận tại quầy lúc 17 giờ.",
+          "translation": "Phiếu ban đầu ghi nhận ở đâu?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage or related documents and choose the best answer for each question.",
+      "passage": "**Rook Industrial Park — Bus shelter notice**\nThe temporary shelter beside Lot F will be removed on Thursday. [1] Contractors will then pour the base for a permanent shelter in the same spot. [2] During construction, both the employee shuttle and Route 19 will use the marked stop beside Gate Two. [3] The shuttle's timetable will stay the same. [4] Route 19 riders should allow five extra minutes for the walk from the main entrance. A map is posted in the staff cafeteria.",
+      "passage_vi": "**Khu công nghiệp Rook — Thông báo nhà chờ xe**\nNhà chờ tạm cạnh Bãi F sẽ bị tháo vào thứ Năm. [1] Sau đó nhà thầu sẽ đổ nền cho nhà chờ cố định tại cùng chỗ. [2] Trong thời gian xây, cả xe đưa đón nhân viên và tuyến 19 dùng điểm đã đánh dấu cạnh Cổng Hai. [3] Lịch xe đưa đón giữ nguyên. [4] Khách tuyến 19 nên dự phòng thêm năm phút đi bộ từ lối vào chính. Sơ đồ được dán trong nhà ăn nhân viên.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 26,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the main reason for the notice?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To introduce a new public bus route"
+            },
+            {
+              "key": "B",
+              "text": "To tell riders about a temporary stop relocation"
+            },
+            {
+              "key": "C",
+              "text": "To change the shuttle timetable"
+            },
+            {
+              "key": "D",
+              "text": "To announce a park entrance closure"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Thi công nhà chờ khiến cả hai tuyến chuyển tạm điểm đón.",
+          "translation": "Thông báo được đưa ra chủ yếu vì lý do gì?",
+          "difficulty": 2,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where will the permanent shelter be built?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Outside the cafeteria"
+            },
+            {
+              "key": "B",
+              "text": "Beside Gate Two"
+            },
+            {
+              "key": "C",
+              "text": "Beside Lot F"
+            },
+            {
+              "key": "D",
+              "text": "At the main entrance"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Nhà chờ cố định xây ở vị trí cũ của nhà chờ tạm, cạnh Bãi F.",
+          "translation": "Nhà chờ cố định sẽ được xây ở đâu?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where does “Until that work is finished, passengers will need to board elsewhere.” fit best?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[4]"
+            },
+            {
+              "key": "C",
+              "text": "[2]"
+            },
+            {
+              "key": "D",
+              "text": "[3]"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Ở [2], “that work” chỉ việc thi công nhà chờ và “elsewhere” dẫn vào điểm đón tạm.",
+          "translation": "Câu “Cho đến khi hoàn thành công việc đó, hành khách sẽ phải lên xe ở chỗ khác” phù hợp nhất ở đâu?",
+          "difficulty": 4,
+          "tags": [
+            "insertion"
+          ],
+          "skill_tags": [
+            "insertion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will remain the same during construction?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The employee shuttle timetable"
+            },
+            {
+              "key": "B",
+              "text": "The site of the boarding point"
+            },
+            {
+              "key": "C",
+              "text": "The location of the temporary shelter"
+            },
+            {
+              "key": "D",
+              "text": "The walk from the main entrance"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thông báo ghi lịch xe đưa đón không đổi.",
+          "translation": "Điều gì giữ nguyên trong lúc thi công?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where can employees see a map?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the cafeteria"
+            },
+            {
+              "key": "B",
+              "text": "At the Route 19 ticket desk"
+            },
+            {
+              "key": "C",
+              "text": "In a contractor's van"
+            },
+            {
+              "key": "D",
+              "text": "In the temporary shelter"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sơ đồ được dán tại nhà ăn nhân viên.",
+          "translation": "Nhân viên có thể xem sơ đồ ở đâu?",
+          "difficulty": 2,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

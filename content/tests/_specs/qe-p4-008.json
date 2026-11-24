@@ -1,0 +1,126 @@
+{
+  "slug": "qe-p4-008",
+  "content_path": "content/tests/toeic_part/qe-p4-008.json",
+  "title": "QEnglish TOEIC Part 4 Draft Test 008",
+  "exam_type": "toeic_part",
+  "level": "B1-B2",
+  "difficulty": 4,
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "office relocation notice",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "training webinar reminder",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "warehouse safety announcement",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "hotel shuttle route update",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "retail loyalty promotion",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "clinic renovation notice",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "museum member evening",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "software maintenance announcement",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "community bank branch hours",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "conference room relocation",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

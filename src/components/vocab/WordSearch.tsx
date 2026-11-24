@@ -1,11 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Search, Volume2 } from "lucide-react";
+import { Search } from "lucide-react";
 import { supabaseBrowser } from "@/lib/supabase/client";
-import { speak } from "@/lib/tts";
 import type { VocabWord } from "@/lib/types";
 import { CartButton } from "./CartButton";
+import { WordPronunciation } from "./WordPronunciation";
 
 export function WordSearch() {
   const [q, setQ] = useState("");
@@ -34,9 +34,9 @@ export function WordSearch() {
         <div className="card absolute inset-x-0 top-full z-20 mt-2 max-h-96 divide-y divide-slate-100 overflow-y-auto shadow-xl">
           {res.map((w) => (
             <div key={w.id} className="flex items-start gap-3 p-3">
-              <button onClick={() => speak(w.word)} className="mt-0.5 rounded-full bg-brand-50 p-2 text-brand-600" aria-label="Phát âm"><Volume2 className="h-4 w-4" /></button>
               <div className="flex-1">
-                <div><b>{w.word}</b> <span className="text-sm text-slate-400">{w.ipa} · {w.pos}</span></div>
+                <div><b>{w.word}</b> <span className="text-sm text-slate-500">{w.pos}</span></div>
+                <WordPronunciation word={w} />
                 <div className="text-sm text-slate-700">{w.meaning_vi}</div>
                 {w.example_en && <div className="text-xs italic text-slate-500">{w.example_en}</div>}
               </div>

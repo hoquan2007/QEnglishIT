@@ -1,0 +1,160 @@
+{
+  "slug": "qe-thpt-007",
+  "content_path": "content/tests/thpt/qe-thpt-007.json",
+  "title": "Đề luyện thi tiếng Anh THPT 07 – Sân khấu, Nguồn nước và Truyền thông",
+  "exam_type": "thpt",
+  "level": "A2-B2",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        4,
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "context": "Grammar, vocabulary, exchange and dialogue ordering",
+      "first_question": 1,
+      "last_question": 20,
+      "skill_distribution": {
+        "agreement": 1,
+        "causative": 1,
+        "determiner": 1,
+        "lexical-choice": 2,
+        "reduced-clause": 1,
+        "phrasal-verb": 1,
+        "word-form": 1,
+        "concession": 1,
+        "conditional": 1,
+        "collocation": 1,
+        "dialogue": 1,
+        "tense": 1,
+        "modality": 1,
+        "paraphrase": 1,
+        "sentence-order": 1,
+        "preposition": 1,
+        "verb-pattern": 1,
+        "comparison": 1,
+        "vocabulary": 1
+      }
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "context": "Call for backstage volunteers",
+      "first_question": 21,
+      "last_question": 25,
+      "skill_distribution": {
+        "preposition": 1,
+        "conjunction": 1,
+        "lexical-choice": 1,
+        "determiner": 1,
+        "cohesion": 1
+      }
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "context": "School newsletter on rainwater for courtyard plants",
+      "first_question": 26,
+      "last_question": 30,
+      "skill_distribution": {
+        "clauses": 1,
+        "phrasal-verb": 1,
+        "quantifier": 1,
+        "conjunction": 1,
+        "word-form": 1
+      }
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "context": "Captioning a school play",
+      "first_question": 31,
+      "last_question": 36,
+      "skill_distribution": {
+        "detail": 1,
+        "vocab-in-context": 1,
+        "author-purpose": 1,
+        "inference": 1,
+        "reference": 1,
+        "main-idea": 1
+      }
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "context": "Checking records for a student newspaper article",
+      "first_question": 37,
+      "last_question": 43,
+      "skill_distribution": {
+        "detail": 2,
+        "argument": 1,
+        "vocab-in-context": 1,
+        "inference": 1,
+        "evaluation": 1,
+        "main-idea": 1
+      }
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "context": "Usage patterns at school refill stations",
+      "first_question": 44,
+      "last_question": 50,
+      "skill_distribution": {
+        "detail": 2,
+        "contrast": 1,
+        "vocab-in-context": 1,
+        "evaluation": 1,
+        "inference": 1,
+        "synthesis": 1
+      }
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 12,
+      "B": 13,
+      "C": 13,
+      "D": 12
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 3
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 3,
+    "blind_review_instruction_vi": "Giải độc lập từ câu hỏi, bài đọc và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

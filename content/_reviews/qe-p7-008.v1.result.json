@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p7-008",
+  "revision": "c9b4d442d2f3f935e6802163b993207be77912a499dec55b7a3e7a903423a0cd",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Independent blind review of all seven passage groups. Q10: position [3] directly follows the deadline. Q14: Room C is available 9–10 and leaves the required 30-minute reset before its 10:30 class. Q21: Model M40 satisfies both speed and monthly volume. Q30: A follows from the urgent leak and meeting relocation. Q1–24 exhibit a repeated B/C/D/A pattern across six groups; Q25–30 are B/B/C/D/A/A. All selections were independently derived from the passages; the predictable pattern is an editorial concern.",
+  "admin_sample": [
+    6,
+    13
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

@@ -1,0 +1,1219 @@
+{
+  "slug": "qe-p7-003",
+  "title": "TOEIC Part 7 Practice 03 – Workplace and Research",
+  "collection": "QEnglishIT Original TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "750",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 27,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part7",
+    "reading",
+    "workplace",
+    "research"
+  ],
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 27
+    }
+  ],
+  "groups": [
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Harbor City Archive — Maps Digitization Project\n\nThe archive is digitizing twelve boxes of historic harbor maps during November. Nine boxes are suitable for automatic scanning, but three contain fragile sheets that must be photographed individually. Volunteers will label images on Tuesdays, while a conservator handles the fragile originals on Wednesdays. The public research room will be closed on 14 November for electrical maintenance. Researchers needing a map during the closure may submit a request form at least two working days beforehand. The team expects a searchable online catalogue by 2 December, although high-resolution downloads will be added later. Original maps will remain in climate-controlled storage after scanning.",
+      "passage_vi": "Lưu trữ Thành phố Harbor — Dự án số hóa bản đồ\n\nKho lưu trữ số hóa mười hai hộp bản đồ cảng lịch sử trong tháng 11. Chín hộp có thể quét tự động, nhưng ba hộp gồm giấy dễ hỏng cần được chụp ảnh riêng từng tờ. Tình nguyện viên đặt nhãn hình ảnh vào các thứ Ba, còn chuyên viên bảo tồn xử lý bản gốc mong manh vào thứ Tư. Phòng nghiên cứu công cộng đóng cửa ngày 14 tháng 11 để bảo trì điện. Nhà nghiên cứu cần bản đồ trong ngày đóng cửa có thể gửi phiếu yêu cầu trước ít nhất hai ngày làm việc. Nhóm dự kiến có danh mục tra cứu trực tuyến vào ngày 2 tháng 12, còn tệp tải về độ phân giải cao sẽ được bổ sung sau. Bản đồ gốc tiếp tục được giữ trong kho kiểm soát khí hậu sau khi quét.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why must some maps be photographed individually?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their paper is too fragile for automatic scanning"
+            },
+            {
+              "key": "B",
+              "text": "They were donated after the project began"
+            },
+            {
+              "key": "C",
+              "text": "They are displayed in the research room"
+            },
+            {
+              "key": "D",
+              "text": "They must be mailed to another archive"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Ba hộp chứa những tờ giấy mỏng manh nên phải chụp ảnh từng tờ thay vì quét máy tự động.",
+          "translation": "Vì sao một số bản đồ phải được chụp ảnh riêng từng tờ? Các lựa chọn: (A) Giấy quá dễ hỏng để quét tự động; (B) Chúng được tặng sau khi dự án bắt đầu; (C) Chúng được trưng bày ở phòng nghiên cứu; (D) Chúng phải được gửi bưu điện sang kho khác.",
+          "difficulty": 4,
+          "tags": [
+            "cause"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will volunteers do on Tuesdays?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Repair the research room's electricity"
+            },
+            {
+              "key": "B",
+              "text": "Add labels to digital images"
+            },
+            {
+              "key": "C",
+              "text": "Handle the most fragile original maps"
+            },
+            {
+              "key": "D",
+              "text": "Prepare high-resolution download licenses"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Kế hoạch phân công việc gắn nhãn hình ảnh vào các thứ Ba cho tình nguyện viên.",
+          "translation": "Tình nguyện viên làm công việc gì vào các thứ Ba? Các lựa chọn: (A) Sửa điện cho phòng nghiên cứu; (B) Gắn nhãn cho hình ảnh kỹ thuật số; (C) Xử lý các bản đồ gốc dễ hỏng nhất; (D) Chuẩn bị giấy phép tải ảnh độ phân giải cao.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should a researcher do to request a map during the closure?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visit the archive without an appointment"
+            },
+            {
+              "key": "B",
+              "text": "Wait until 2 December to submit a form"
+            },
+            {
+              "key": "C",
+              "text": "Submit a request at least two working days ahead"
+            },
+            {
+              "key": "D",
+              "text": "Ask a volunteer to reopen the public room"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Thông báo yêu cầu gửi phiếu trước ít nhất hai ngày làm việc nếu cần bản đồ trong ngày đóng cửa.",
+          "translation": "Nhà nghiên cứu cần làm gì nếu muốn xem bản đồ trong ngày phòng đóng cửa? Các lựa chọn: (A) Đến kho lưu trữ mà không cần hẹn; (B) Đợi đến ngày 2 tháng 12 mới nộp phiếu; (C) Nộp phiếu yêu cầu trước ít nhất hai ngày làm việc; (D) Nhờ tình nguyện viên mở lại phòng công cộng.",
+          "difficulty": 4,
+          "tags": [
+            "procedure"
+          ],
+          "skill_tags": [
+            "procedure"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which resource is expected to be available on 2 December?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The original maps for home borrowing"
+            },
+            {
+              "key": "B",
+              "text": "High-resolution downloads of every map"
+            },
+            {
+              "key": "C",
+              "text": "A reopened electrical service counter"
+            },
+            {
+              "key": "D",
+              "text": "A searchable online catalogue"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Dự kiến có danh mục tra cứu ngày 2 tháng 12, còn bản tải chất lượng cao sẽ có sau.",
+          "translation": "Dự kiến tài nguyên nào sẽ sẵn sàng vào ngày 2 tháng 12? Các lựa chọn: (A) Các bản đồ gốc cho mượn về nhà; (B) Tệp tải độ phân giải cao của mọi bản đồ; (C) Quầy dịch vụ điện mở lại; (D) Danh mục trực tuyến có thể tìm kiếm.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Larchwood Offices — Lighting and Energy Update\n\nFacilities staff will replace the old ceiling lights with LEDs on floors two through four between 6 and 10 May. Each floor will be closed to visitors for one afternoon during installation, but staff members may use the shared desks on the ground floor. Motion sensors in meeting rooms will switch the lights off ten minutes after the room becomes empty. Employees should report any flickering light through the maintenance portal, giving the floor and room number. A meter reading at the end of June will be compared with the same period last year to assess energy savings. The new lights in the ground-floor reception will be installed in July, after the spring reception schedule ends.",
+      "passage_vi": "Văn phòng Larchwood — Cập nhật hệ thống chiếu sáng và năng lượng\n\nNhân viên cơ sở vật chất sẽ thay đèn trần cũ bằng đèn LED tại tầng hai đến tầng bốn trong thời gian 6–10 tháng 5. Mỗi tầng đóng cửa với khách một buổi chiều trong lúc lắp đặt, nhưng nhân viên có thể dùng bàn làm việc chung ở tầng trệt. Cảm biến chuyển động trong phòng họp sẽ tắt đèn sau mười phút phòng không có người. Nhân viên cần báo đèn nhấp nháy qua cổng bảo trì và ghi số tầng, số phòng. Chỉ số công tơ cuối tháng 6 sẽ được so với cùng kỳ năm ngoái để đánh giá lượng điện tiết kiệm. Đèn mới tại quầy lễ tân tầng trệt sẽ được lắp vào tháng 7 sau khi kết thúc lịch tiếp khách mùa xuân.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which floors will receive LED lights in May?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Floors two, three, and four"
+            },
+            {
+              "key": "B",
+              "text": "Only the ground-floor reception"
+            },
+            {
+              "key": "C",
+              "text": "The basement and ground floor"
+            },
+            {
+              "key": "D",
+              "text": "Every floor of the building in July"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đợt lắp đặt 6–10 tháng 5 dành cho tầng hai, ba và bốn.",
+          "translation": "Những tầng nào được thay đèn LED trong tháng 5? Các lựa chọn: (A) Tầng hai, ba và bốn; (B) Chỉ khu lễ tân tầng trệt; (C) Tầng hầm và tầng trệt; (D) Mọi tầng trong tòa nhà vào tháng 7.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where can employees work while their floor is being fitted?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In the visitor area of the closed floor"
+            },
+            {
+              "key": "B",
+              "text": "At shared desks on the ground floor"
+            },
+            {
+              "key": "C",
+              "text": "In the maintenance storeroom"
+            },
+            {
+              "key": "D",
+              "text": "At the reception desk in July"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Thông báo cho phép nhân viên sử dụng bàn chung tầng trệt trong khi lắp đèn.",
+          "translation": "Nhân viên có thể làm việc ở đâu khi tầng của mình đang lắp đèn? Các lựa chọn: (A) Tại khu khách của tầng đang đóng; (B) Tại bàn làm việc chung ở tầng trệt; (C) Trong kho bảo trì; (D) Tại quầy lễ tân vào tháng 7.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What information should accompany a flickering-light report?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The employee's annual energy bill"
+            },
+            {
+              "key": "B",
+              "text": "The name of the last visitor"
+            },
+            {
+              "key": "C",
+              "text": "The floor and room number"
+            },
+            {
+              "key": "D",
+              "text": "A replacement LED light bulb"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cổng bảo trì yêu cầu mô tả vị trí bằng tầng và số phòng.",
+          "translation": "Khi báo đèn nhấp nháy cần ghi thông tin gì? Các lựa chọn: (A) Hóa đơn điện hằng năm của nhân viên; (B) Tên vị khách gần nhất; (C) Số tầng và số phòng; (D) Một bóng đèn LED dự phòng.",
+          "difficulty": 4,
+          "tags": [
+            "procedure"
+          ],
+          "skill_tags": [
+            "procedure"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why will staff compare meter readings in June?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To decide which employees use shared desks"
+            },
+            {
+              "key": "B",
+              "text": "To schedule visitor tours in July"
+            },
+            {
+              "key": "C",
+              "text": "To calculate the number of meeting rooms"
+            },
+            {
+              "key": "D",
+              "text": "To measure changes in energy consumption"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So sánh với cùng kỳ năm trước nhằm đánh giá lượng điện tiết kiệm được.",
+          "translation": "Vì sao nhân viên so sánh chỉ số công tơ vào tháng 6? Các lựa chọn: (A) Để quyết định ai dùng bàn chung; (B) Để xếp lịch tham quan tháng 7; (C) Để đếm số phòng họp; (D) Để đo thay đổi trong mức dùng điện.",
+          "difficulty": 4,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Skyline Hotel — Seminar Arrangement Confirmation\n\nTo: Training Coordinator, Belmore Solutions\nSubject: Leadership Seminar, 16 August\n\nWe have reserved the Garden Conference Room for forty-five delegates from 9:30 a.m. to 4:30 p.m. Your team may enter at 8:00 a.m. to arrange the registration desk. The booking includes a projector, two wireless microphones, and refreshments during the 10:45 a.m. and 2:30 p.m. breaks. Lunch is charged separately and must be ordered by 5:00 p.m. on Friday, 9 August. Please send the final number of vegetarian meals and any food-allergy details by that deadline. We can add up to five delegates without changing rooms, provided you notify us by Monday, 12 August. Our audiovisual technician will demonstrate the equipment at 8:45 a.m.\n\nRegards,\nEvent Services, Skyline Hotel",
+      "passage_vi": "Khách sạn Skyline — Xác nhận sắp xếp hội thảo\n\nGửi: Điều phối viên đào tạo, Belmore Solutions\nChủ đề: Hội thảo lãnh đạo, ngày 16 tháng 8\n\nChúng tôi đã giữ Phòng Hội nghị Garden cho bốn mươi lăm đại biểu từ 9 giờ 30 đến 16 giờ 30. Nhóm bạn có thể vào từ 8 giờ để sắp xếp bàn đăng ký. Gói đặt phòng có máy chiếu, hai micro không dây và đồ uống nhẹ trong giờ giải lao 10 giờ 45 và 14 giờ 30. Bữa trưa tính phí riêng và phải đặt trước 17 giờ thứ Sáu ngày 9 tháng 8. Vui lòng gửi số suất ăn chay cuối cùng cùng thông tin dị ứng thực phẩm trước hạn này. Có thể thêm tối đa năm đại biểu mà không cần đổi phòng nếu báo trước thứ Hai ngày 12 tháng 8. Kỹ thuật viên nghe nhìn sẽ hướng dẫn sử dụng thiết bị lúc 8 giờ 45.\n\nTrân trọng,\nBộ phận Sự kiện, Khách sạn Skyline",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What time can the organizer begin setting up the registration desk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8:00 a.m."
+            },
+            {
+              "key": "B",
+              "text": "8:45 a.m."
+            },
+            {
+              "key": "C",
+              "text": "9:30 a.m."
+            },
+            {
+              "key": "D",
+              "text": "10:45 a.m."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Nhóm tổ chức được phép vào phòng từ 8 giờ để chuẩn bị bàn đăng ký.",
+          "translation": "Ban tổ chức có thể bắt đầu bố trí bàn đăng ký lúc mấy giờ? Các lựa chọn: (A) 8 giờ sáng; (B) 8 giờ 45; (C) 9 giờ 30; (D) 10 giờ 45.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which service requires an additional charge?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Use of the projector"
+            },
+            {
+              "key": "B",
+              "text": "Lunch for delegates"
+            },
+            {
+              "key": "C",
+              "text": "Use of two wireless microphones"
+            },
+            {
+              "key": "D",
+              "text": "Refreshments during breaks"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Phần xác nhận ghi bữa trưa tính phí riêng, còn thiết bị và đồ uống giải lao thuộc gói đặt phòng.",
+          "translation": "Dịch vụ nào phải trả thêm phí? Các lựa chọn: (A) Sử dụng máy chiếu; (B) Bữa trưa cho đại biểu; (C) Sử dụng hai micro không dây; (D) Đồ uống nhẹ trong giờ giải lao.",
+          "difficulty": 4,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "By when must food-allergy details be provided?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8:45 a.m. on 16 August"
+            },
+            {
+              "key": "B",
+              "text": "5:00 p.m. on 12 August"
+            },
+            {
+              "key": "C",
+              "text": "5:00 p.m. on 9 August"
+            },
+            {
+              "key": "D",
+              "text": "2:30 p.m. on 16 August"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Hạn gửi số suất ăn và thông tin dị ứng là 17 giờ thứ Sáu ngày 9 tháng 8.",
+          "translation": "Phải gửi thông tin dị ứng thực phẩm chậm nhất lúc nào? Các lựa chọn: (A) 8 giờ 45 ngày 16 tháng 8; (B) 17 giờ ngày 12 tháng 8; (C) 17 giờ ngày 9 tháng 8; (D) 14 giờ 30 ngày 16 tháng 8.",
+          "difficulty": 4,
+          "tags": [
+            "deadline"
+          ],
+          "skill_tags": [
+            "deadline"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the maximum number of delegates the reserved room can accommodate without a change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Forty-five delegates"
+            },
+            {
+              "key": "B",
+              "text": "Forty delegates"
+            },
+            {
+              "key": "C",
+              "text": "Fifty-five delegates"
+            },
+            {
+              "key": "D",
+              "text": "Fifty delegates"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đã giữ chỗ cho 45 người và có thể thêm tối đa 5 người, tức 50.",
+          "translation": "Số đại biểu tối đa phòng đã đặt có thể nhận mà không phải đổi phòng là bao nhiêu? Các lựa chọn: (A) Bốn mươi lăm đại biểu; (B) Bốn mươi đại biểu; (C) Năm mươi lăm đại biểu; (D) Năm mươi đại biểu.",
+          "difficulty": 4,
+          "tags": [
+            "calculation"
+          ],
+          "skill_tags": [
+            "calculation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Willow University — Stream Monitoring Project Report\n\nThe Environmental Studies Department started a three-month stream-monitoring trial in March with a community research grant. Volunteers collect water samples from four streams on the second Wednesday of each month. At the March collection, thirty-six of forty sample bottles were correctly labeled; the other four could not be used because the collection locations were unclear. Before the April sampling day, the department will hold a 30-minute labeling refresher at 8:30 a.m. at the field office. Laboratory results will be checked by two staff researchers before a public summary is released in June. The project leader has asked volunteers not to publish individual readings online before the review, because one unusual reading may reflect a handling error.",
+      "passage_vi": "Đại học Willow — Báo cáo dự án theo dõi chất lượng suối\n\nKhoa Nghiên cứu Môi trường khởi động thử nghiệm giám sát suối trong ba tháng từ tháng 3 bằng kinh phí nghiên cứu cộng đồng. Tình nguyện viên lấy mẫu nước từ bốn con suối vào thứ Tư thứ hai của mỗi tháng. Trong lần lấy mẫu tháng 3, 36 trong 40 chai được dán nhãn đúng; bốn chai còn lại không sử dụng được vì vị trí lấy mẫu không rõ ràng. Trước ngày lấy mẫu tháng 4, khoa tổ chức buổi ôn lại cách dán nhãn dài 30 phút lúc 8 giờ 30 tại văn phòng hiện trường. Hai nhà nghiên cứu sẽ kiểm tra kết quả phòng thí nghiệm trước khi bản tóm tắt công khai được công bố trong tháng 6. Trưởng dự án yêu cầu tình nguyện viên không đăng riêng các chỉ số trước khi kiểm tra vì một kết quả bất thường có thể do thao tác sai.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why were four sample bottles rejected in March?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their collection locations were not clearly labeled"
+            },
+            {
+              "key": "B",
+              "text": "They arrived after the June report deadline"
+            },
+            {
+              "key": "C",
+              "text": "They contained water from a fifth stream"
+            },
+            {
+              "key": "D",
+              "text": "They were taken on a Friday instead of Wednesday"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bốn chai không dùng được vì nhãn không xác định rõ vị trí lấy mẫu.",
+          "translation": "Vì sao bốn chai mẫu tháng 3 bị loại? Các lựa chọn: (A) Nhãn không ghi rõ địa điểm lấy mẫu; (B) Chúng đến sau hạn báo cáo tháng 6; (C) Chúng chứa nước từ con suối thứ năm; (D) Chúng được lấy vào thứ Sáu thay vì thứ Tư.",
+          "difficulty": 4,
+          "tags": [
+            "cause"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What will take place before the April collection?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Publication of the final public summary"
+            },
+            {
+              "key": "B",
+              "text": "A refresher session on labeling bottles"
+            },
+            {
+              "key": "C",
+              "text": "A tour of all four streams for tourists"
+            },
+            {
+              "key": "D",
+              "text": "Replacement of the field office building"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Khoa sẽ tổ chức buổi hướng dẫn lại 30 phút về dán nhãn trước đợt tháng 4.",
+          "translation": "Hoạt động nào diễn ra trước đợt lấy mẫu tháng 4? Các lựa chọn: (A) Công bố bản báo cáo công khai cuối cùng; (B) Buổi ôn lại cách dán nhãn chai mẫu; (C) Chuyến tham quan bốn con suối dành cho du khách; (D) Thay mới tòa nhà văn phòng hiện trường.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why are volunteers asked to delay posting individual results?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The internet connection will be shut down in June"
+            },
+            {
+              "key": "B",
+              "text": "The grant prohibits any public summary"
+            },
+            {
+              "key": "C",
+              "text": "Unusual readings need expert review for possible handling errors"
+            },
+            {
+              "key": "D",
+              "text": "The samples belong to another university"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Một giá trị bất thường có thể phát sinh từ lỗi thao tác nên phải được hai nhà nghiên cứu kiểm chứng trước khi công bố.",
+          "translation": "Vì sao tình nguyện viên phải hoãn đăng các kết quả riêng lẻ? Các lựa chọn: (A) Kết nối mạng sẽ bị ngắt vào tháng 6; (B) Khoản tài trợ cấm mọi báo cáo công khai; (C) Kết quả bất thường cần được chuyên gia kiểm tra vì có thể thao tác sai; (D) Các mẫu thuộc về trường đại học khác.",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When is the public summary scheduled for release?",
+          "options": [
+            {
+              "key": "A",
+              "text": "March"
+            },
+            {
+              "key": "B",
+              "text": "April"
+            },
+            {
+              "key": "C",
+              "text": "August"
+            },
+            {
+              "key": "D",
+              "text": "June"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bài viết ghi rõ bản tóm tắt công khai sẽ được phát hành trong tháng 6 sau khi kiểm tra.",
+          "translation": "Dự kiến báo cáo tóm tắt công khai được công bố vào tháng nào? Các lựa chọn: (A) Tháng 3; (B) Tháng 4; (C) Tháng 8; (D) Tháng 6.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Fernwell Nursery — Seedling Delivery Note\n\nOrder FN-205 contains sixty trays of herb seedlings and forty trays of flowering seedlings for the city parks department. The nursery will deliver the herbs on Monday, 3 June, and the flowers on Tuesday, 4 June. Both deliveries are scheduled between 9:00 and 11:00 a.m. The receiving team should place the trays in the shaded greenhouse immediately because several varieties are sensitive to direct afternoon sunlight. A packing list will accompany each delivery, and the parks department should report missing or damaged trays before 5:00 p.m. on the day they arrive. The invoice will be issued after the second delivery.",
+      "passage_vi": "Vườn ươm Fernwell — Thông báo giao cây giống\n\nĐơn FN-205 gồm sáu mươi khay cây gia vị và bốn mươi khay cây có hoa cho phòng công viên thành phố. Vườn ươm giao cây gia vị vào thứ Hai ngày 3 tháng 6 và cây có hoa vào thứ Ba ngày 4 tháng 6. Cả hai chuyến đều giao trong khoảng 9–11 giờ. Đội nhận hàng phải chuyển ngay các khay vào nhà kính có bóng râm vì vài giống nhạy cảm với ánh nắng trực tiếp buổi chiều. Mỗi chuyến có phiếu đóng gói, và phòng công viên cần báo khay thiếu hoặc hỏng trước 17 giờ của ngày nhận. Hóa đơn được lập sau chuyến giao thứ hai.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which shipment is scheduled for Tuesday, 4 June?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Forty trays of flowering seedlings"
+            },
+            {
+              "key": "B",
+              "text": "Sixty trays of herb seedlings"
+            },
+            {
+              "key": "C",
+              "text": "All one hundred trays together"
+            },
+            {
+              "key": "D",
+              "text": "Only the final invoice"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Vườn ươm tách đơn thành cây gia vị giao thứ Hai và 40 khay cây hoa giao thứ Ba.",
+          "translation": "Lô hàng nào dự kiến giao vào thứ Ba ngày 4 tháng 6? Các lựa chọn: (A) Bốn mươi khay cây có hoa; (B) Sáu mươi khay cây gia vị; (C) Cả một trăm khay cùng lúc; (D) Chỉ riêng hóa đơn cuối cùng.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why should the trays be placed in the shaded greenhouse?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The greenhouse is the only place with packing lists"
+            },
+            {
+              "key": "B",
+              "text": "The invoice must be signed in the greenhouse"
+            },
+            {
+              "key": "C",
+              "text": "Some plants are sensitive to direct afternoon sunlight"
+            },
+            {
+              "key": "D",
+              "text": "The nursery requested overnight storage before delivery"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Một số giống dễ bị ảnh hưởng bởi nắng chiều, nên cần đặt khay ở nơi có bóng râm.",
+          "translation": "Vì sao cần đặt các khay cây trong nhà kính có bóng râm? Các lựa chọn: (A) Nhà kính là nơi duy nhất có phiếu đóng gói; (B) Hóa đơn phải ký trong nhà kính; (C) Một số cây nhạy cảm với ánh nắng trực tiếp buổi chiều; (D) Vườn ươm yêu cầu lưu qua đêm trước khi giao.",
+          "difficulty": 4,
+          "tags": [
+            "cause"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When must the receiving team report any damaged trays?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only after the invoice is issued"
+            },
+            {
+              "key": "B",
+              "text": "By the end of the following week"
+            },
+            {
+              "key": "C",
+              "text": "Before 9:00 a.m. on 3 June"
+            },
+            {
+              "key": "D",
+              "text": "Before 5:00 p.m. on the delivery day"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Thông báo yêu cầu phản hồi trước 17 giờ vào chính ngày hàng đến.",
+          "translation": "Đội nhận hàng phải báo khay bị hỏng khi nào? Các lựa chọn: (A) Chỉ sau khi phát hành hóa đơn; (B) Trước cuối tuần kế tiếp; (C) Trước 9 giờ ngày 3 tháng 6; (D) Trước 17 giờ ngay ngày giao hàng.",
+          "difficulty": 4,
+          "tags": [
+            "deadline"
+          ],
+          "skill_tags": [
+            "deadline"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Folio Co-working Center — Meeting-Room Change\n\nTo: Marketing Team Lead\nSubject: Your reservation for Thursday, 11 July\n\nA ceiling inspection means Harbor Room will be unavailable on Thursday. Your reservation for nine people was originally booked there from 11:00 a.m. to 1:00 p.m. Laurel Room is free at that time but seats only eight. Instead, we can reserve Oak Room, which seats twelve, from 2:00 to 4:00 p.m. Oak Room has the same video-conference screen and speakerphone as Harbor Room. Please confirm the new time by 4:00 p.m. tomorrow so we can release your earlier reservation. Our staff can update the room sign, but your team will need to tell invited clients about any time change.\n\nFolio Reservations",
+      "passage_vi": "Trung tâm làm việc chung Folio — Thay đổi phòng họp\n\nGửi: Trưởng nhóm Tiếp thị\nChủ đề: Đặt phòng thứ Năm ngày 11 tháng 7\n\nVì kiểm tra trần nhà, Phòng Harbor không sử dụng được vào thứ Năm. Nhóm chín người của bạn trước đó đặt phòng từ 11 đến 13 giờ. Phòng Laurel trống đúng giờ này nhưng chỉ có tám ghế. Chúng tôi có thể thay bằng Phòng Oak mười hai ghế từ 14 đến 16 giờ. Phòng Oak có màn hình họp trực tuyến và loa thoại giống Phòng Harbor. Vui lòng xác nhận giờ mới trước 16 giờ ngày mai để chúng tôi hủy khung giờ cũ. Nhân viên có thể cập nhật bảng chỉ dẫn phòng, nhưng nhóm bạn phải báo khách được mời về mọi thay đổi giờ giấc.\n\nBộ phận Đặt phòng Folio",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 20,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why is Laurel Room an unsuitable replacement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has fewer seats than the group needs"
+            },
+            {
+              "key": "B",
+              "text": "It lacks a video-conference screen"
+            },
+            {
+              "key": "C",
+              "text": "It is unavailable between 11:00 and 1:00"
+            },
+            {
+              "key": "D",
+              "text": "It is being inspected for ceiling damage"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Nhóm có 9 người nhưng Laurel chỉ có 8 ghế.",
+          "translation": "Vì sao Phòng Laurel không phù hợp để thay thế? Các lựa chọn: (A) Phòng có ít ghế hơn số người trong nhóm; (B) Phòng không có màn hình họp trực tuyến; (C) Phòng không trống từ 11 đến 13 giờ; (D) Phòng đang được kiểm tra hư hỏng trần.",
+          "difficulty": 4,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which alternative reservation can accommodate all nine attendees?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laurel Room from 11:00 a.m. to 1:00 p.m."
+            },
+            {
+              "key": "B",
+              "text": "Harbor Room from 11:00 a.m. to 1:00 p.m."
+            },
+            {
+              "key": "C",
+              "text": "Oak Room from 2:00 to 4:00 p.m."
+            },
+            {
+              "key": "D",
+              "text": "Laurel Room from 2:00 to 4:00 p.m."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Oak có 12 ghế và còn trống từ 14 đến 16 giờ, đáp ứng nhóm 9 người.",
+          "translation": "Lịch đặt thay thế nào đủ chỗ cho cả chín người? Các lựa chọn: (A) Phòng Laurel từ 11 đến 13 giờ; (B) Phòng Harbor từ 11 đến 13 giờ; (C) Phòng Oak từ 14 đến 16 giờ; (D) Phòng Laurel từ 14 đến 16 giờ.",
+          "difficulty": 4,
+          "tags": [
+            "cross-reference"
+          ],
+          "skill_tags": [
+            "cross-reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Who is responsible for informing invited clients of a time change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The ceiling inspection contractor"
+            },
+            {
+              "key": "B",
+              "text": "The staff updating the room sign"
+            },
+            {
+              "key": "C",
+              "text": "The building's security team"
+            },
+            {
+              "key": "D",
+              "text": "The marketing team"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Email nêu nhân viên Folio đổi biển chỉ dẫn, còn nhóm tiếp thị phải báo khách về giờ họp.",
+          "translation": "Ai chịu trách nhiệm báo khách được mời về việc đổi giờ? Các lựa chọn: (A) Đơn vị kiểm tra trần nhà; (B) Nhân viên cập nhật biển phòng; (C) Nhóm an ninh tòa nhà; (D) Nhóm tiếp thị.",
+          "difficulty": 4,
+          "tags": [
+            "responsibility"
+          ],
+          "skill_tags": [
+            "responsibility"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the information and choose the best answer to each question.",
+      "passage": "Procurement Summary — Training Center Seating\n\nPrepared for the operations director, 12 March\n\nThe center requires 120 stackable chairs for a training program beginning Friday, 4 April. The chairs must arrive by Thursday, 3 April, so staff can arrange the rooms. The purchase budget is $5,500 including handling and delivery. Three vendors submitted the following final quotes.\n\nVendor | Price per chair | Handling and delivery | Arrival date\n\nStonepath | $42 | $380 | 2 April\n\nBaypoint | $40 | $650 | 6 April\n\nEastgrove | $44 | $150 | 3 April\n\nAll three vendors can supply the full quantity. The quoted arrival dates are guaranteed if an order is placed by 17 March.\n\nNote from the director: Please select the least expensive offer that meets both the arrival deadline and the total budget, then request written confirmation of the quantity and delivery date.",
+      "passage_vi": "Tổng hợp thu mua — Ghế cho Trung tâm Đào tạo\n\nChuẩn bị cho giám đốc vận hành, ngày 12 tháng 3\n\nTrung tâm cần 120 ghế xếp chồng cho chương trình đào tạo bắt đầu thứ Sáu ngày 4 tháng 4. Ghế phải đến muộn nhất thứ Năm ngày 3 tháng 4 để nhân viên xếp phòng. Ngân sách mua là 5.500 đô la gồm vận chuyển và xử lý. Ba nhà cung cấp đưa ra báo giá cuối như sau.\n\nNhà cung cấp | Giá mỗi ghế | Phí xử lý và giao | Ngày hàng đến\n\nStonepath | 42 đô | 380 đô | 2 tháng 4\n\nBaypoint | 40 đô | 650 đô | 6 tháng 4\n\nEastgrove | 44 đô | 150 đô | 3 tháng 4\n\nCả ba nhà cung cấp đều có đủ số lượng. Các ngày giao được cam kết nếu đặt trước 17 tháng 3.\n\nGhi chú giám đốc: Hãy chọn báo giá rẻ nhất đáp ứng cả hạn giao và ngân sách, sau đó yêu cầu xác nhận bằng văn bản số lượng và ngày giao.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 23,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which vendor should procurement select under the director’s instructions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Baypoint"
+            },
+            {
+              "key": "B",
+              "text": "Stonepath"
+            },
+            {
+              "key": "C",
+              "text": "Eastgrove"
+            },
+            {
+              "key": "D",
+              "text": "None of the three vendors"
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Theo chỉ đạo của giám đốc, bộ phận thu mua nên chọn nhà cung cấp nào? Các lựa chọn: (A) Baypoint; (B) Stonepath; (C) Eastgrove; (D) Không nhà cung cấp nào.",
+          "explanation": "Stonepath tổng 120 × 42 + 380 = 5.420 đô, giao ngày 2 tháng 4. Eastgrove là 5.430 đô, giao ngày 3 tháng 4. Stonepath rẻ hơn trong các báo giá đạt hạn giao.",
+          "difficulty": 4,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why is Baypoint unsuitable despite its lower unit price?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its arrival date is after the required deadline."
+            },
+            {
+              "key": "B",
+              "text": "It cannot supply 120 chairs."
+            },
+            {
+              "key": "C",
+              "text": "Its total price exceeds $5,500."
+            },
+            {
+              "key": "D",
+              "text": "It has not included handling fees."
+            }
+          ],
+          "correct_answer": "A",
+          "translation": "Vì sao Baypoint không phù hợp dù có giá mỗi ghế thấp hơn? Các lựa chọn: (A) Ngày giao đến sau hạn yêu cầu; (B) Không thể cung cấp 120 ghế; (C) Tổng giá vượt 5.500 đô; (D) Chưa tính phí xử lý.",
+          "explanation": "Baypoint giao ngày 6 tháng 4, chậm hơn hạn 3 tháng 4. Tổng giá vẫn trong ngân sách nên lý do loại là thời hạn.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is Eastgrove’s total quoted cost for 120 chairs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$5,280"
+            },
+            {
+              "key": "B",
+              "text": "$5,430"
+            },
+            {
+              "key": "C",
+              "text": "$5,550"
+            },
+            {
+              "key": "D",
+              "text": "$5,830"
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Tổng báo giá của Eastgrove cho 120 ghế là bao nhiêu? Các lựa chọn: (A) 5.280 đô; (B) 5.430 đô; (C) 5.550 đô; (D) 5.830 đô.",
+          "explanation": "120 × 44 + 150 = 5.430 đô đã bao gồm xử lý và giao hàng.",
+          "difficulty": 4,
+          "tags": [
+            "calculation"
+          ],
+          "skill_tags": [
+            "calculation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should procurement request after choosing a vendor?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A demonstration for every trainee."
+            },
+            {
+              "key": "B",
+              "text": "An extension of the training program."
+            },
+            {
+              "key": "C",
+              "text": "Written confirmation of the quantity and delivery date."
+            },
+            {
+              "key": "D",
+              "text": "A new quotation from all vendors."
+            }
+          ],
+          "correct_answer": "C",
+          "translation": "Sau khi chọn nhà cung cấp, bộ phận thu mua phải yêu cầu điều gì? Các lựa chọn: (A) Buổi trình diễn cho mọi học viên; (B) Gia hạn chương trình đào tạo; (C) Xác nhận bằng văn bản về số lượng và ngày giao; (D) Báo giá mới từ cả ba nhà cung cấp.",
+          "explanation": "Ghi chú giám đốc yêu cầu xác nhận bằng văn bản số lượng và ngày giao.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the information and choose the best answer to each question.",
+      "passage": "Open House Program — Harbor Research Center, Friday 19 July\n9:00 a.m. — Visitor check-in, main atrium\n9:30–9:55 a.m. — Laboratory tour, Group A\n10:20–10:45 a.m. — Laboratory tour, Group B\n11:00–11:40 a.m. — Public lecture, auditorium\nNoon — Light lunch, courtyard\n\n---\nVisitor message — Wednesday 17 July\nHello, I registered for the open house but my train will not arrive until 10:05 a.m. I would still like to see the laboratory and attend the public lecture. I use a hearing-assistance receiver for presentations. Please let me know what arrangements are possible.\nMarcus Chen\n\n---\nReply from Visitor Services — Thursday 18 July\nHello Marcus, we have reserved one of the remaining Group B spaces for you. The reservation is held until 10:15 a.m., so please report to the main atrium by then. Group B finishes at 10:45, giving you time to reach the auditorium. The auditorium has a hearing-assistance system; please collect a receiver at the information desk before 10:50 a.m. and return it after the lecture. Lunch is included for registered visitors.\nVisitor Services",
+      "passage_vi": "Chương trình Ngày mở cửa — Trung tâm Nghiên cứu Harbor, thứ Sáu ngày 19 tháng 7\n9 giờ — Đăng ký, sảnh chính\n9 giờ 30–9 giờ 55 — Tham quan phòng thí nghiệm, Nhóm A\n10 giờ 20–10 giờ 45 — Tham quan phòng thí nghiệm, Nhóm B\n11 giờ–11 giờ 40 — Bài nói chuyện công cộng, hội trường\n12 giờ — Bữa trưa nhẹ, sân trong\n\n---\nTin nhắn khách tham quan — Thứ Tư ngày 17 tháng 7\nXin chào, tôi đã đăng ký ngày mở cửa nhưng tàu của tôi mãi 10 giờ 05 mới đến. Tôi vẫn muốn thăm phòng thí nghiệm và dự bài nói chuyện. Tôi dùng thiết bị hỗ trợ nghe khi nghe thuyết trình. Xin cho biết cách sắp xếp có thể.\nMarcus Chen\n\n---\nTrả lời từ Dịch vụ khách tham quan — Thứ Năm ngày 18 tháng 7\nChào Marcus, chúng tôi đã giữ cho bạn một trong những chỗ còn lại của Nhóm B. Chỗ được giữ đến 10 giờ 15, nên xin đến sảnh chính trước giờ đó. Nhóm B kết thúc lúc 10 giờ 45, đủ thời gian đến hội trường. Hội trường có hệ thống hỗ trợ nghe; hãy nhận máy thu tại quầy thông tin trước 10 giờ 50 và trả lại sau bài nói. Bữa trưa đã bao gồm cho khách đăng ký.\nBộ phận Dịch vụ khách tham quan",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 27,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which laboratory tour has been reserved for Marcus?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Group B at 10:20 a.m."
+            },
+            {
+              "key": "B",
+              "text": "Group A at 9:30 a.m."
+            },
+            {
+              "key": "C",
+              "text": "A private tour at 10:05 a.m."
+            },
+            {
+              "key": "D",
+              "text": "An afternoon tour after lunch."
+            }
+          ],
+          "correct_answer": "A",
+          "translation": "Marcus đã được giữ chỗ tham quan phòng thí nghiệm nào? Các lựa chọn: (A) Nhóm B lúc 10 giờ 20; (B) Nhóm A lúc 9 giờ 30; (C) Tham quan riêng lúc 10 giờ 05; (D) Tham quan buổi chiều sau bữa trưa.",
+          "explanation": "Thư trả lời giữ chỗ ở Nhóm B, lịch chương trình ghi Nhóm B bắt đầu 10 giờ 20.",
+          "difficulty": 4,
+          "tags": [
+            "cross-reference"
+          ],
+          "skill_tags": [
+            "cross-reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where must Marcus obtain the hearing-assistance receiver?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On the train."
+            },
+            {
+              "key": "B",
+              "text": "At the laboratory entrance."
+            },
+            {
+              "key": "C",
+              "text": "At the courtyard lunch counter."
+            },
+            {
+              "key": "D",
+              "text": "At the information desk."
+            }
+          ],
+          "correct_answer": "D",
+          "translation": "Marcus phải nhận thiết bị hỗ trợ nghe ở đâu? Các lựa chọn: (A) Trên tàu; (B) Tại cửa phòng thí nghiệm; (C) Tại quầy ăn ở sân trong; (D) Tại quầy thông tin.",
+          "explanation": "Bộ phận khách tham quan dặn collect a receiver at the information desk before 10:50.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What time does the public lecture begin?",
+          "options": [
+            {
+              "key": "A",
+              "text": "10:15 a.m."
+            },
+            {
+              "key": "B",
+              "text": "10:45 a.m."
+            },
+            {
+              "key": "C",
+              "text": "11:00 a.m."
+            },
+            {
+              "key": "D",
+              "text": "Noon"
+            }
+          ],
+          "correct_answer": "C",
+          "translation": "Bài nói chuyện công cộng bắt đầu lúc mấy giờ? Các lựa chọn: (A) 10 giờ 15; (B) 10 giờ 45; (C) 11 giờ; (D) 12 giờ.",
+          "explanation": "Chương trình ghi rõ bài nói bắt đầu 11 giờ, sau khi Nhóm B hoàn tất lúc 10 giờ 45.",
+          "difficulty": 4,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which condition allows Marcus to attend both activities as planned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He joins Group A despite arriving after it ends."
+            },
+            {
+              "key": "B",
+              "text": "He checks in by 10:15 a.m. and picks up the receiver before 10:50 a.m."
+            },
+            {
+              "key": "C",
+              "text": "He collects a receiver only after the lecture."
+            },
+            {
+              "key": "D",
+              "text": "He skips the laboratory tour to attend lunch."
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Điều kiện nào giúp Marcus dự cả hai hoạt động như kế hoạch? Các lựa chọn: (A) Anh tham gia Nhóm A dù đã đến sau giờ kết thúc; (B) Anh làm thủ tục trước 10 giờ 15 và nhận máy thu trước 10 giờ 50; (C) Anh chỉ nhận máy thu sau bài nói; (D) Anh bỏ buổi thăm phòng thí nghiệm để dự bữa trưa.",
+          "explanation": "Chỗ Nhóm B giữ đến 10 giờ 15, kết thúc 10 giờ 45; thiết bị phải nhận trước 10 giờ 50 để kịp bài nói 11 giờ.",
+          "difficulty": 4,
+          "tags": [
+            "cross-reference"
+          ],
+          "skill_tags": [
+            "cross-reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

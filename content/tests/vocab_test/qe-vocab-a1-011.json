@@ -1,0 +1,1782 @@
+{
+  "slug": "qe-vocab-a1-011",
+  "title": "Kiểm tra từ vựng A1 – 011",
+  "exam_type": "vocab_test",
+  "level": "A1",
+  "cefr": "A1",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 20,
+  "total_questions": 50,
+  "difficulty": 1,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 50,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "I write my name at the top of the ___.",
+          "explanation": "“Page” là trang giấy, nơi người viết ghi tên ở phía trên.",
+          "translation": "Tôi viết tên mình ở đầu trang giấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "door"
+            },
+            {
+              "key": "B",
+              "text": "page"
+            },
+            {
+              "key": "C",
+              "text": "chair"
+            },
+            {
+              "key": "D",
+              "text": "desk"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "26542889292179823dcaf0231cf4d4c5c1c20c16"
+        },
+        {
+          "question_text": "The shop closes at nine. We can still go in at eight because it is ___.",
+          "explanation": "“Open” chỉ cửa hàng đang mở cửa đón khách.",
+          "translation": "Cửa hàng đóng cửa lúc chín giờ. Lúc tám giờ ta vẫn vào được vì cửa hàng còn mở.",
+          "options": [
+            {
+              "key": "A",
+              "text": "empty"
+            },
+            {
+              "key": "B",
+              "text": "open"
+            },
+            {
+              "key": "C",
+              "text": "new"
+            },
+            {
+              "key": "D",
+              "text": "closed"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-a1-core-003.json",
+          "independent_review": "pending",
+          "fingerprint": "d789bc1921924e9f97abf9b5fb08a6ee769b565b"
+        },
+        {
+          "question_text": "‘I need another ___ for my tea. This one has a crack.’",
+          "explanation": "“Cup” là tách dùng để uống trà.",
+          "translation": "Tôi cần một cái tách khác để uống trà. Cái này bị nứt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fork"
+            },
+            {
+              "key": "B",
+              "text": "bowl"
+            },
+            {
+              "key": "C",
+              "text": "cup"
+            },
+            {
+              "key": "D",
+              "text": "plate"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "76e12208e2c7a086c55704e5c9b490af11891a44"
+        },
+        {
+          "question_text": "Which word fits the sign on a door to the street?",
+          "explanation": "“Exit” báo lối ra khỏi tòa nhà.",
+          "translation": "Từ nào hợp với biển trên cửa dẫn ra đường?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lunch"
+            },
+            {
+              "key": "B",
+              "text": "Exit"
+            },
+            {
+              "key": "C",
+              "text": "Menu"
+            },
+            {
+              "key": "D",
+              "text": "Lesson"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a6eca1045e7a95f5aec804baa4c8f4b8a1036153"
+        },
+        {
+          "question_text": "Our dog doesn't like the rain. He stays ___ the house on wet days.",
+          "explanation": "“Inside the house” nghĩa là ở bên trong nhà, nơi nó tránh được mưa.",
+          "translation": "Chó nhà tôi không thích mưa. Ngày mưa, nó ở trong nhà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "inside"
+            },
+            {
+              "key": "B",
+              "text": "behind"
+            },
+            {
+              "key": "C",
+              "text": "near"
+            },
+            {
+              "key": "D",
+              "text": "outside"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a0dc4be9f3d7c16dfaac6bd774591279199b5c3f"
+        },
+        {
+          "question_text": "I can't read this in the dark. Please turn on the ___.",
+          "explanation": "“Turn on the light” là bật đèn để có ánh sáng.",
+          "translation": "Tôi không đọc được trong bóng tối. Làm ơn bật đèn lên.",
+          "options": [
+            {
+              "key": "A",
+              "text": "light"
+            },
+            {
+              "key": "B",
+              "text": "phone"
+            },
+            {
+              "key": "C",
+              "text": "radio"
+            },
+            {
+              "key": "D",
+              "text": "fan"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "519686c6b06355cbb3747fadef424de73dc41d97"
+        },
+        {
+          "question_text": "Nina has no brothers or sisters. She is an ___ child.",
+          "explanation": "“An only child” là người con duy nhất trong gia đình.",
+          "translation": "Nina không có anh chị em. Cô bé là con một.",
+          "options": [
+            {
+              "key": "A",
+              "text": "older"
+            },
+            {
+              "key": "B",
+              "text": "only"
+            },
+            {
+              "key": "C",
+              "text": "younger"
+            },
+            {
+              "key": "D",
+              "text": "early"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "fcad2d467d470f4763a239180dd19e74845c71bb"
+        },
+        {
+          "question_text": "‘A “single” room, please. It's just for me.’ What does “single” mean here?",
+          "explanation": "“Single room” là phòng dành cho một người.",
+          "translation": "Cho tôi một phòng đơn. Chỉ có mình tôi ở thôi. Từ được hỏi có nghĩa gì ở đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "for one person"
+            },
+            {
+              "key": "B",
+              "text": "with a kitchen"
+            },
+            {
+              "key": "C",
+              "text": "for one night"
+            },
+            {
+              "key": "D",
+              "text": "on the first floor"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-a1-core-003.json",
+          "independent_review": "pending",
+          "fingerprint": "8bbaa52b55a08ea55dbe0ada05a0c70ba129f92e"
+        },
+        {
+          "question_text": "I put my socks on first and then my ___.",
+          "explanation": "“Shoes” là giày, được mang ở chân bên ngoài tất.",
+          "translation": "Tôi đi tất trước rồi đi giày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shoes"
+            },
+            {
+              "key": "B",
+              "text": "gloves"
+            },
+            {
+              "key": "C",
+              "text": "jeans"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7bce846f3c9f288f36e500176382eabcf2b1cab5"
+        },
+        {
+          "question_text": "My aunt's daughter is my ___.",
+          "explanation": "“Cousin” là anh, chị hoặc em họ.",
+          "translation": "Con gái của cô tôi là chị em họ của tôi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cousin"
+            },
+            {
+              "key": "B",
+              "text": "mother"
+            },
+            {
+              "key": "C",
+              "text": "grandmother"
+            },
+            {
+              "key": "D",
+              "text": "sister"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "aeb2025f3b0ac2bd39300bd6fe4b7691a094b53e"
+        },
+        {
+          "question_text": "‘The soup is too “hot” to eat. Wait a minute.’ What does “hot” tell us?",
+          "explanation": "“Hot” ở đây nói về nhiệt độ cao, vì vậy cần đợi súp nguội bớt.",
+          "translation": "Súp nóng quá, chưa ăn được. Chờ một lát. Từ được hỏi cho ta biết gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The soup has gone cold."
+            },
+            {
+              "key": "B",
+              "text": "The soup needs more salt."
+            },
+            {
+              "key": "C",
+              "text": "The soup is ready to serve."
+            },
+            {
+              "key": "D",
+              "text": "The soup needs time to cool."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "85b3053001c9e3e2a00cd854e643ef7cad50fe9c"
+        },
+        {
+          "question_text": "We can sit on the ___ and watch the ducks. It seats three people.",
+          "explanation": "“Bench” là ghế dài có thể ngồi nhiều người.",
+          "translation": "Ta có thể ngồi trên ghế băng xem vịt. Ghế đủ chỗ cho ba người.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bench"
+            },
+            {
+              "key": "B",
+              "text": "gate"
+            },
+            {
+              "key": "C",
+              "text": "path"
+            },
+            {
+              "key": "D",
+              "text": "bridge"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c392c2021f73382de2ad2209f5048d7519da82c0"
+        },
+        {
+          "question_text": "Please ___ your wet hands on this towel.",
+          "explanation": "“Dry” là làm khô, ở đây bằng cách lau tay vào khăn.",
+          "translation": "Hãy lau tay ướt bằng chiếc khăn này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wash"
+            },
+            {
+              "key": "B",
+              "text": "dry"
+            },
+            {
+              "key": "C",
+              "text": "warm"
+            },
+            {
+              "key": "D",
+              "text": "cover"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "2768e8fa1b6f9fb76fef5e46acff19b10b9e0ec6"
+        },
+        {
+          "question_text": "Eva's birthday is on the day after Monday. Which day is it?",
+          "explanation": "“Tuesday” là thứ Ba, ngay sau thứ Hai.",
+          "translation": "Sinh nhật Eva là ngày ngay sau thứ Hai. Đó là thứ mấy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sunday"
+            },
+            {
+              "key": "B",
+              "text": "Thursday"
+            },
+            {
+              "key": "C",
+              "text": "Wednesday"
+            },
+            {
+              "key": "D",
+              "text": "Tuesday"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "2697f9e59da952582e83903508ac5597693c852a"
+        },
+        {
+          "question_text": "My bike is red, but its two ___ are black and go round when I ride.",
+          "explanation": "“Wheels” là bánh xe, các bộ phận lăn trên mặt đường.",
+          "translation": "Xe đạp của tôi màu đỏ, nhưng hai bánh xe màu đen quay tròn khi tôi đạp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "seats"
+            },
+            {
+              "key": "B",
+              "text": "pedals"
+            },
+            {
+              "key": "C",
+              "text": "lights"
+            },
+            {
+              "key": "D",
+              "text": "wheels"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7907d6394f51068da12528a1a3acf07e21d92dcb"
+        },
+        {
+          "question_text": "The baby hasn't woken up yet. She's still ___.",
+          "explanation": "“Asleep” là đang ngủ, đối lập với “awake”.",
+          "translation": "Em bé chưa thức dậy. Bé vẫn đang ngủ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "afraid"
+            },
+            {
+              "key": "B",
+              "text": "angry"
+            },
+            {
+              "key": "C",
+              "text": "asleep"
+            },
+            {
+              "key": "D",
+              "text": "awake"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d0e71f966d1c7cede8eba8c3498a1f36b6eb7896"
+        },
+        {
+          "question_text": "‘Can I “sit” here?’ Which reply fits the request?",
+          "explanation": "“Sit here” là ngồi ở đây, nên chỗ còn trống là câu trả lời phù hợp.",
+          "translation": "Tôi có thể ngồi ở đây không? Câu nào đáp lại lời hỏi này?",
+          "options": [
+            {
+              "key": "A",
+              "text": "No, I don't know his name."
+            },
+            {
+              "key": "B",
+              "text": "Yes, this seat is free."
+            },
+            {
+              "key": "C",
+              "text": "No, I don't have a pen."
+            },
+            {
+              "key": "D",
+              "text": "Yes, the shop sells hats."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "971aee02a0c499bfe7e644809c6ef27ec2f35c09"
+        },
+        {
+          "question_text": "Don't walk so ___! I can't keep up with you.",
+          "explanation": "“Fast” nói đến tốc độ cao khiến người nói khó theo kịp.",
+          "translation": "Đừng đi nhanh thế! Tôi không theo kịp bạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "far"
+            },
+            {
+              "key": "B",
+              "text": "fast"
+            },
+            {
+              "key": "C",
+              "text": "low"
+            },
+            {
+              "key": "D",
+              "text": "late"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ec7bd5e983ba95197a0b3633a49b88c37217c0c2"
+        },
+        {
+          "question_text": "Tom eats his morning meal at home. He calls it ___.",
+          "explanation": "“Breakfast” là bữa sáng.",
+          "translation": "Tom ăn bữa đầu ngày ở nhà. Cậu gọi đó là bữa sáng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dinner"
+            },
+            {
+              "key": "B",
+              "text": "lunch"
+            },
+            {
+              "key": "C",
+              "text": "breakfast"
+            },
+            {
+              "key": "D",
+              "text": "dessert"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "a5713d063fe294a6a16d8da2ae036dfcc84afe0c"
+        },
+        {
+          "question_text": "There are no clean spoons. Could you ___ these dirty ones?",
+          "explanation": "“Wash” nghĩa là rửa để thìa sạch trở lại.",
+          "translation": "Không có thìa sạch. Bạn rửa mấy cái thìa bẩn này được không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "wash"
+            },
+            {
+              "key": "B",
+              "text": "drop"
+            },
+            {
+              "key": "C",
+              "text": "hide"
+            },
+            {
+              "key": "D",
+              "text": "count"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "73fd5de207889d8981ec08e09bd842072069c9f5"
+        },
+        {
+          "question_text": "‘It's “half past” six.’ Which time is this?",
+          "explanation": "“Half past six” là ba mươi phút sau sáu giờ, tức 6:30.",
+          "translation": "Hoàn cảnh này là sáu giờ rưỡi. Đồng hồ chỉ mấy giờ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "6:30"
+            },
+            {
+              "key": "B",
+              "text": "7:00"
+            },
+            {
+              "key": "C",
+              "text": "6:15"
+            },
+            {
+              "key": "D",
+              "text": "5:30"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "3e3609a0a647cd3ddeb01b518fdc48c1448b9597"
+        },
+        {
+          "question_text": "The water in the lake is cold, but the sun feels ___ on my face.",
+          "explanation": "“Warm” là ấm, diễn tả cảm giác khi ánh nắng chiếu lên mặt.",
+          "translation": "Nước hồ lạnh nhưng ánh nắng trên mặt tôi thật ấm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wet"
+            },
+            {
+              "key": "B",
+              "text": "warm"
+            },
+            {
+              "key": "C",
+              "text": "heavy"
+            },
+            {
+              "key": "D",
+              "text": "dirty"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "3a39b933cbc85b4556a08d9500c799d7581a6661"
+        },
+        {
+          "question_text": "This ___ has my name and the hotel's name on it. I use it to open my room.",
+          "explanation": "“Key card” là thẻ dùng như chìa khóa, thường gặp ở khách sạn.",
+          "translation": "Chiếc thẻ có tên tôi và tên khách sạn trên đó. Tôi dùng nó mở cửa phòng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "food menu"
+            },
+            {
+              "key": "B",
+              "text": "bus ticket"
+            },
+            {
+              "key": "C",
+              "text": "city map"
+            },
+            {
+              "key": "D",
+              "text": "key card"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8f3e5ffa3dd58c76ded47aa534d53395a73d0d7b"
+        },
+        {
+          "question_text": "Which reply tells you a price? ‘How much is this blue bag?’",
+          "explanation": "“How much” ở đây hỏi giá, và “ten euros” là số tiền.",
+          "translation": "Câu nào cho biết giá? Chiếc túi màu xanh dương này giá bao nhiêu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It's a small bag."
+            },
+            {
+              "key": "B",
+              "text": "It's by the door."
+            },
+            {
+              "key": "C",
+              "text": "It's for my son."
+            },
+            {
+              "key": "D",
+              "text": "It's ten euros."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "866308ced319a1f9a0253625b7060611a2c92a3d"
+        },
+        {
+          "question_text": "Put the milk back in the ___ to keep it cold.",
+          "explanation": "“Fridge” là tủ lạnh, nơi giữ sữa ở nhiệt độ thấp.",
+          "translation": "Cho sữa lại vào tủ lạnh để giữ lạnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cupboard"
+            },
+            {
+              "key": "B",
+              "text": "oven"
+            },
+            {
+              "key": "C",
+              "text": "fridge"
+            },
+            {
+              "key": "D",
+              "text": "drawer"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "309c7d5c04ed3145d0309292ec584c9c226f7da1"
+        },
+        {
+          "question_text": "The children made a face in the snow. A carrot was its ___.",
+          "explanation": "“Nose” là mũi, phần nhô ra được tạo bằng củ cà rốt.",
+          "translation": "Các em nhỏ tạo một khuôn mặt trên tuyết. Một củ cà rốt làm mũi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "eye"
+            },
+            {
+              "key": "B",
+              "text": "mouth"
+            },
+            {
+              "key": "C",
+              "text": "nose"
+            },
+            {
+              "key": "D",
+              "text": "ear"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "b776dc071d06afc34a51993c906c3331c341a07a"
+        },
+        {
+          "question_text": "‘I don't want this coffee. I'd “like” a glass of water.’ What is the person doing?",
+          "explanation": "“I'd like” là cách lịch sự để gọi món hoặc xin thứ gì đó.",
+          "translation": "Tôi không muốn cà phê này. Tôi muốn một ly nước. Người nói đang làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "looking at water"
+            },
+            {
+              "key": "B",
+              "text": "bringing water"
+            },
+            {
+              "key": "C",
+              "text": "asking for water"
+            },
+            {
+              "key": "D",
+              "text": "paying for water"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "b5bea9c443f421423c1ed5ea99eecc90585f9c1b"
+        },
+        {
+          "question_text": "It's getting dark. Let's go ___ and have dinner in our own kitchen.",
+          "explanation": "“Go home” là về nhà. Người nói nhắc tới bếp nhà mình.",
+          "translation": "Trời sắp tối. Ta về nhà ăn tối trong bếp nhà mình nhé.",
+          "options": [
+            {
+              "key": "A",
+              "text": "upstairs"
+            },
+            {
+              "key": "B",
+              "text": "home"
+            },
+            {
+              "key": "C",
+              "text": "outside"
+            },
+            {
+              "key": "D",
+              "text": "back to the shop"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "3108f39796314c3cb9f99250f68f054ef1bbad4d"
+        },
+        {
+          "question_text": "There are two dogs. The big one is black and the ___ one is white and fits in a bag.",
+          "explanation": "“Small” chỉ kích thước nhỏ, được gợi ý bằng việc con chó nằm vừa trong túi.",
+          "translation": "Có hai con chó. Con to màu đen, còn con nhỏ màu trắng và vừa trong túi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "small"
+            },
+            {
+              "key": "B",
+              "text": "long"
+            },
+            {
+              "key": "C",
+              "text": "old"
+            },
+            {
+              "key": "D",
+              "text": "slow"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "81b83bc3a430bf934810d5b45c1f96598975e87f"
+        },
+        {
+          "question_text": "The meat is too big for a sandwich. Can you ___ it into thin pieces?",
+          "explanation": "“Cut into thin pieces” là cắt thành những miếng mỏng.",
+          "translation": "Miếng thịt to quá để kẹp bánh mì. Bạn cắt thành lát mỏng được không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "boil"
+            },
+            {
+              "key": "B",
+              "text": "cut"
+            },
+            {
+              "key": "C",
+              "text": "cook"
+            },
+            {
+              "key": "D",
+              "text": "mix"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "89496b3e3e29434cea9533151dc9ce1a5e17e956"
+        },
+        {
+          "question_text": "‘The chairs are “free”. Please take one.’ How much do you have to pay for one?",
+          "explanation": "“Free” ở đây nghĩa là miễn phí, nên không phải trả tiền.",
+          "translation": "Ghế được tặng miễn phí. Hãy lấy một chiếc. Bạn phải trả bao nhiêu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "one dollar"
+            },
+            {
+              "key": "B",
+              "text": "the full price"
+            },
+            {
+              "key": "C",
+              "text": "half the price"
+            },
+            {
+              "key": "D",
+              "text": "nothing"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "bac751e9f75601dcdb20549e586827eaf721042e"
+        },
+        {
+          "question_text": "I put my head on the soft ___ when I go to bed.",
+          "explanation": "“Pillow” là gối dùng để kê đầu.",
+          "translation": "Tôi đặt đầu lên chiếc gối mềm khi đi ngủ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sheet"
+            },
+            {
+              "key": "B",
+              "text": "mattress"
+            },
+            {
+              "key": "C",
+              "text": "blanket"
+            },
+            {
+              "key": "D",
+              "text": "pillow"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "7e9be85e00dc0adfb6a8b597fd8decdea051bffc"
+        },
+        {
+          "question_text": "Dad says the rice is ready. Put it on the table with the other ___.",
+          "explanation": "“Food” là đồ ăn. Cơm thuộc nhóm này.",
+          "translation": "Bố bảo cơm chín rồi. Hãy đặt cơm lên bàn cùng các món ăn khác.",
+          "options": [
+            {
+              "key": "A",
+              "text": "food"
+            },
+            {
+              "key": "B",
+              "text": "books"
+            },
+            {
+              "key": "C",
+              "text": "toys"
+            },
+            {
+              "key": "D",
+              "text": "clothes"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "c606a4680b573ce1889f8d1094ac861780cf3ba1"
+        },
+        {
+          "question_text": "‘My bag is “full”. Can you carry this book?’ Why does the speaker need help?",
+          "explanation": "“Full” cho biết trong túi đã hết chỗ.",
+          "translation": "Túi của tôi đầy rồi. Bạn cầm giúp quyển sách này được không? Vì sao người nói cần giúp?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The book is in the bag."
+            },
+            {
+              "key": "B",
+              "text": "There is no room in the bag."
+            },
+            {
+              "key": "C",
+              "text": "The book is for a teacher."
+            },
+            {
+              "key": "D",
+              "text": "The bag is under a chair."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-a1-core-003.json",
+          "independent_review": "pending",
+          "fingerprint": "33653a6f36d4e17772a38a0ec8a44a561525dc9e"
+        },
+        {
+          "question_text": "Ben can't find his glasses. He needs them to ___ the small words.",
+          "explanation": "“See” là nhìn thấy. Kính hỗ trợ việc nhìn chữ.",
+          "translation": "Ben không tìm thấy kính. Cậu cần kính để nhìn rõ các chữ nhỏ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "learn"
+            },
+            {
+              "key": "B",
+              "text": "see"
+            },
+            {
+              "key": "C",
+              "text": "say"
+            },
+            {
+              "key": "D",
+              "text": "hear"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "4d6d422d1f3b5802ee0d22581cbe27e4b06b7d18"
+        },
+        {
+          "question_text": "The teacher is writing the new word on the ___ at the front of the classroom.",
+          "explanation": "“Board” là bảng để giáo viên viết cho cả lớp nhìn.",
+          "translation": "Giáo viên đang viết từ mới lên bảng ở đầu lớp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shelf"
+            },
+            {
+              "key": "B",
+              "text": "floor"
+            },
+            {
+              "key": "C",
+              "text": "clock"
+            },
+            {
+              "key": "D",
+              "text": "board"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "19689681527281d788426eb42165033deabc8d60"
+        },
+        {
+          "question_text": "‘Take your “coat”. It's cold outside.’ Where do you usually wear a coat?",
+          "explanation": "“Coat” là áo khoác mặc bên ngoài quần áo để giữ ấm.",
+          "translation": "Mang áo khoác theo nhé. Ngoài trời lạnh. Bạn thường mặc áo khoác ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "under your shoes"
+            },
+            {
+              "key": "B",
+              "text": "around your wrist"
+            },
+            {
+              "key": "C",
+              "text": "on your head"
+            },
+            {
+              "key": "D",
+              "text": "over your clothes"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "be240f4e615a92208edc46136d26737e7b831c17"
+        },
+        {
+          "question_text": "Don't push the door. To open it, ___ it towards you.",
+          "explanation": "“Pull” là kéo về phía mình, trái với “push”.",
+          "translation": "Đừng đẩy cửa. Muốn mở, hãy kéo cửa về phía bạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "kick"
+            },
+            {
+              "key": "B",
+              "text": "hold"
+            },
+            {
+              "key": "C",
+              "text": "pull"
+            },
+            {
+              "key": "D",
+              "text": "close"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "8218f1387692ff216a44605481977de0b9eccc66"
+        },
+        {
+          "question_text": "My sister wants to swim, so we are going to the ___.",
+          "explanation": "“Pool” là hồ bơi, địa điểm phù hợp với hoạt động “swim”.",
+          "translation": "Chị tôi muốn bơi nên chúng tôi sẽ tới hồ bơi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "pool"
+            },
+            {
+              "key": "B",
+              "text": "library"
+            },
+            {
+              "key": "C",
+              "text": "cinema"
+            },
+            {
+              "key": "D",
+              "text": "bank"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "47ceddc795f2eb464a37cec91259df2d394ce6ae"
+        },
+        {
+          "question_text": "The bus is here now. ‘Quick, let's get ___.’",
+          "explanation": "“Get on” là lên xe buýt khi xe đến đón.",
+          "translation": "Xe buýt đến rồi. Nhanh lên, lên xe thôi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "off"
+            },
+            {
+              "key": "B",
+              "text": "back"
+            },
+            {
+              "key": "C",
+              "text": "out"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "5ce3725f8c0d48c2f553b9ecd3c44cdfc4317baa"
+        },
+        {
+          "question_text": "‘That's my “address” on the letter.’ Which of these could it be?",
+          "explanation": "Địa chỉ “address” có thể gồm số nhà và tên đường.",
+          "translation": "Đó là địa chỉ của tôi trên lá thư. Mục nào có thể là địa chỉ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "3:15 in the afternoon"
+            },
+            {
+              "key": "B",
+              "text": "blue and white"
+            },
+            {
+              "key": "C",
+              "text": "24 King Street"
+            },
+            {
+              "key": "D",
+              "text": "five euros each"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 41,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "bb73b056c351752021e164265577b8322ae63ac9"
+        },
+        {
+          "question_text": "The window is high. I need to stand on a ___ to reach it.",
+          "explanation": "“Chair” là ghế, có thể giúp người nói đứng cao hơn.",
+          "translation": "Cửa sổ ở cao. Tôi cần đứng lên ghế để với tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rug"
+            },
+            {
+              "key": "B",
+              "text": "pillow"
+            },
+            {
+              "key": "C",
+              "text": "chair"
+            },
+            {
+              "key": "D",
+              "text": "bag"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 42,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": "content/vocab/words/words-a1-core-003.json",
+          "independent_review": "pending",
+          "fingerprint": "9bdca824700c9a54a5da071209ce4bf9e40ba28c"
+        },
+        {
+          "question_text": "Mia has a ___ in her garden. Its apples are green.",
+          "explanation": "“Tree” là cây thân gỗ. Táo ở đây là quả mọc trên cây.",
+          "translation": "Mia có một cây trong vườn. Táo trên cây có màu xanh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wall"
+            },
+            {
+              "key": "B",
+              "text": "flower"
+            },
+            {
+              "key": "C",
+              "text": "fence"
+            },
+            {
+              "key": "D",
+              "text": "tree"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 43,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "b2d2cf4e8fd10f1871756d0ed295c3ab43278229"
+        },
+        {
+          "question_text": "It's noisy in here. Can we find a ___ place to talk?",
+          "explanation": "“Quiet” nghĩa là yên tĩnh, phù hợp khi người nói muốn tránh tiếng ồn.",
+          "translation": "Ở đây ồn quá. Ta tìm chỗ yên tĩnh để nói chuyện được không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "quiet"
+            },
+            {
+              "key": "B",
+              "text": "busy"
+            },
+            {
+              "key": "C",
+              "text": "noisy"
+            },
+            {
+              "key": "D",
+              "text": "crowded"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 44,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "ef5581b4edca2534c7f8bf84d26e455cb85cf2b0"
+        },
+        {
+          "question_text": "‘Marco is my “neighbour”.’ Which fact explains this?",
+          "explanation": "“Neighbour” là hàng xóm. Sống ở nhà ngay bên cạnh là một ví dụ.",
+          "translation": "Marco là hàng xóm của tôi. Chi tiết nào cho thấy điều đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He comes from Italy."
+            },
+            {
+              "key": "B",
+              "text": "He lives next door."
+            },
+            {
+              "key": "C",
+              "text": "He knows my brother."
+            },
+            {
+              "key": "D",
+              "text": "He works at night."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 45,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "29bcfd2c81453b4332614007f62a6d6b2464f10c"
+        },
+        {
+          "question_text": "There are only three biscuits in the ___, so please close it and leave them for later.",
+          "explanation": "“Tin” là hộp đựng bằng kim loại, ở đây có nắp và dùng để đựng bánh quy.",
+          "translation": "Trong hộp thiếc chỉ có ba cái bánh quy, nên hãy đậy hộp lại để dành.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sink"
+            },
+            {
+              "key": "B",
+              "text": "kettle"
+            },
+            {
+              "key": "C",
+              "text": "tin"
+            },
+            {
+              "key": "D",
+              "text": "oven"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 46,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "36ef749c9126ad8640df756c46cc0c1a8fbc895c"
+        },
+        {
+          "question_text": "Before we eat, put a knife and a ___ beside each plate to pick up the salad.",
+          "explanation": "“Fork” là nĩa, dụng cụ dùng để xiên hoặc lấy rau trộn.",
+          "translation": "Trước khi ăn, hãy đặt dao và nĩa bên mỗi đĩa để lấy rau trộn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "napkin"
+            },
+            {
+              "key": "B",
+              "text": "cup"
+            },
+            {
+              "key": "C",
+              "text": "glass"
+            },
+            {
+              "key": "D",
+              "text": "fork"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 47,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "d6908e894a3c801eed5c00a971812ab3f9633748"
+        },
+        {
+          "question_text": "‘My shoes are “under” the bed.’ Where should you look?",
+          "explanation": "“Under the bed” là ở phía dưới giường, ngay khoảng trống sát sàn.",
+          "translation": "Giày của tôi ở dưới giường. Bạn nên tìm ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "on top of the bed"
+            },
+            {
+              "key": "B",
+              "text": "behind the bedroom door"
+            },
+            {
+              "key": "C",
+              "text": "on the floor below the bed"
+            },
+            {
+              "key": "D",
+              "text": "on a shelf above the bed"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 48,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "28b83eefc0c26298b5734fa6f4091ab8a40c2997"
+        },
+        {
+          "question_text": "The shop assistant says, ‘You gave me ten euros. Here is your ___.’ She hands back two euros.",
+          "explanation": "“Change” là số tiền trả lại sau khi trừ giá món hàng.",
+          "translation": "Nhân viên nói bạn đưa mười euro và đây là tiền thối. Cô ấy trả lại hai euro.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bill"
+            },
+            {
+              "key": "B",
+              "text": "ticket"
+            },
+            {
+              "key": "C",
+              "text": "change"
+            },
+            {
+              "key": "D",
+              "text": "card"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 49,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "968c64bf391b8fd4d7b4c20bd053120d13b8b61f"
+        },
+        {
+          "question_text": "Leo wants to draw a line and then rub it out. He needs a ___.",
+          "explanation": "“Pencil” là bút chì, nét viết thường tẩy được.",
+          "translation": "Leo muốn vẽ một đường rồi tẩy đi. Cậu cần một cây bút chì.",
+          "options": [
+            {
+              "key": "A",
+              "text": "pencil"
+            },
+            {
+              "key": "B",
+              "text": "pen"
+            },
+            {
+              "key": "C",
+              "text": "brush"
+            },
+            {
+              "key": "D",
+              "text": "ruler"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 50,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "vocab_test"
+          ],
+          "bank_ref": null,
+          "independent_review": "pending",
+          "fingerprint": "2c28dc756035a9615b8077b7cd26af7aca83f2cc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-450-005",
+  "title": "Kiểm tra ngữ pháp 450 – 17",
+  "exam_type": "grammar_test",
+  "level": "450",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 1,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The committee requested an ------- review of the budget.",
+          "explanation": "Trước danh từ review cần tính từ independent.",
+          "translation": "Ủy ban yêu cầu một cuộc rà soát ngân sách độc lập.",
+          "options": [
+            {
+              "key": "A",
+              "text": "independent"
+            },
+            {
+              "key": "B",
+              "text": "independence"
+            },
+            {
+              "key": "C",
+              "text": "independently"
+            },
+            {
+              "key": "D",
+              "text": "depend"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#parts-of-speech-overview/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b3201f4983a86fb9bb8cd3399bc728c21f80dc39"
+        },
+        {
+          "question_text": "Do you know Trang? I work with ------- brother.",
+          "explanation": "Brother là danh từ nên cần her trước nó.",
+          "translation": "Bạn có biết Trang không? Tôi làm việc cùng anh hoặc em trai của cô ấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hers"
+            },
+            {
+              "key": "B",
+              "text": "her"
+            },
+            {
+              "key": "C",
+              "text": "she"
+            },
+            {
+              "key": "D",
+              "text": "she's"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#possessive-forms-everyday/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b36be68b2d2787ed12ebd8a28da0860ea1d0cc2d"
+        },
+        {
+          "question_text": "------- lovely these flowers are!",
+          "explanation": "Có tính từ lovely và mệnh đề these flowers are nên dùng How.",
+          "translation": "Những bông hoa này đáng yêu quá!",
+          "options": [
+            {
+              "key": "A",
+              "text": "What"
+            },
+            {
+              "key": "B",
+              "text": "What a"
+            },
+            {
+              "key": "C",
+              "text": "How"
+            },
+            {
+              "key": "D",
+              "text": "How a"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#exclamations-with-what-and-how/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b5093cd94308bfd698f61980f4b09f5cf59b9087"
+        },
+        {
+          "question_text": "What is ------- object on the shelf over there?",
+          "explanation": "Object số ít, trên kệ ở xa: that object.",
+          "translation": "Vật ở trên chiếc kệ đằng kia là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "these"
+            },
+            {
+              "key": "B",
+              "text": "those"
+            },
+            {
+              "key": "C",
+              "text": "they"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b56da15e9c90e2a0a6944e7e0664dd68ac993c5f"
+        },
+        {
+          "question_text": "The clock shows 3:15. It is a quarter ------- three.",
+          "explanation": "3:15 là hơn ba giờ mười lăm phút nên dùng past.",
+          "translation": "Đồng hồ chỉ 3:15, tức là ba giờ mười lăm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "past"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#telling-the-time-in-english/exercises",
+          "independent_review": "pending",
+          "fingerprint": "b5d401e01d9ca82dc9a3f94572c6b9d37648e6a9"
+        },
+        {
+          "question_text": "How many notebooks ------- there on your desk?",
+          "explanation": "How many notebooks đòi hỏi danh từ số nhiều và động từ are.",
+          "translation": "Có bao nhiêu quyển vở trên bàn của bạn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "does"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#there-is-there-are/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b5e8c449f1c3ebd259f760d1f97abfc6e7c64e94"
+        },
+        {
+          "question_text": "The designer's ------- made the brochure easier to read.",
+          "explanation": "Sau sở hữu cách designer's cần danh từ creativity làm chủ ngữ của made.",
+          "translation": "Sự sáng tạo của nhà thiết kế giúp tờ giới thiệu dễ đọc hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "creative"
+            },
+            {
+              "key": "B",
+              "text": "creativity"
+            },
+            {
+              "key": "C",
+              "text": "creatively"
+            },
+            {
+              "key": "D",
+              "text": "create"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#parts-of-speech-overview/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b66a82b59c740b366d3cdb1771113988530f3e06"
+        },
+        {
+          "question_text": "Do you like ------- painting here beside me?",
+          "explanation": "Painting số ít và ở cạnh người nói, nên dùng this.",
+          "translation": "Bạn có thích bức tranh ở ngay đây cạnh tôi không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "those"
+            },
+            {
+              "key": "B",
+              "text": "these"
+            },
+            {
+              "key": "C",
+              "text": "this"
+            },
+            {
+              "key": "D",
+              "text": "them"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b72de4b0f4564310d46ccb71747229029ae48354"
+        },
+        {
+          "question_text": "The new intern ------- use the printer after the technician explains it.",
+          "explanation": "Sau can dùng nguyên mẫu use, không thêm -s hay to.",
+          "translation": "Thực tập sinh mới có thể dùng máy in sau khi kỹ thuật viên hướng dẫn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cans"
+            },
+            {
+              "key": "B",
+              "text": "can to"
+            },
+            {
+              "key": "C",
+              "text": "can"
+            },
+            {
+              "key": "D",
+              "text": "can uses"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#can-could-ability-permission/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b993d107cb3e164e9e75093f06ae6db474b4c20b"
+        },
+        {
+          "question_text": "Look at the trees. ------- one right here is shorter than that one across the road.",
+          "explanation": "This chỉ một cây ở gần người nói; one thay thế danh từ tree ở số ít, còn that chỉ cây ở xa.",
+          "translation": "Hãy nhìn những cái cây. Cây ngay đây thấp hơn cây bên kia đường.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This"
+            },
+            {
+              "key": "B",
+              "text": "These"
+            },
+            {
+              "key": "C",
+              "text": "Those"
+            },
+            {
+              "key": "D",
+              "text": "Them"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/quiz",
+          "independent_review": "pending",
+          "fingerprint": "b99f8ecf9585124b75dc2c427d0fae68a7429a28"
+        },
+        {
+          "question_text": "The gardener ------- every morning.",
+          "explanation": "Chủ ngữ The gardener cần động từ waters rồi đến tân ngữ the flowers.",
+          "translation": "Người làm vườn tưới hoa mỗi sáng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the flowers waters"
+            },
+            {
+              "key": "B",
+              "text": "waters every the flowers"
+            },
+            {
+              "key": "C",
+              "text": "the waters flowers"
+            },
+            {
+              "key": "D",
+              "text": "waters the flowers"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "ba2fcedb0ef3a172a2005de843db65d246338dd2"
+        },
+        {
+          "question_text": "The alarm rings ------- midnight every New Year's Eve.",
+          "explanation": "Midnight là mốc thời điểm, dùng at midnight.",
+          "translation": "Chuông reo lúc nửa đêm vào mỗi đêm giao thừa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "past"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#telling-the-time-in-english/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bc3ab985e260d0a68941377e82eaf24d2f588f46"
+        },
+        {
+          "question_text": "The children ------- after dinner.",
+          "explanation": "Sau chủ ngữ là động từ played rồi mới đến cụm nơi chốn.",
+          "translation": "Bọn trẻ chơi trong sân sau bữa tối.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in the yard played"
+            },
+            {
+              "key": "B",
+              "text": "played the yard in"
+            },
+            {
+              "key": "C",
+              "text": "the yard in played"
+            },
+            {
+              "key": "D",
+              "text": "played in the yard"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bc5c554dfde30f59633cb2ea757708c2098cbdc2"
+        },
+        {
+          "question_text": "My aunt ------- a little bakery near the station.",
+          "explanation": "My aunt là ngôi thứ ba số ít, câu sở hữu dùng has.",
+          "translation": "Dì tôi có một tiệm bánh nhỏ gần nhà ga.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "having"
+            },
+            {
+              "key": "C",
+              "text": "is have"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#have-and-have-got-possession/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bcb2f05499ae8c2c40d2552f7db1e7d6f1e5b266"
+        },
+        {
+          "question_text": "The warehouse ------- its security cameras in March 2022.",
+          "explanation": "In March 2022 là mốc quá khứ đã kết thúc nên dùng replaced.",
+          "translation": "Nhà kho đã thay các camera an ninh vào tháng Ba năm 2022.",
+          "options": [
+            {
+              "key": "A",
+              "text": "replaces"
+            },
+            {
+              "key": "B",
+              "text": "replaced"
+            },
+            {
+              "key": "C",
+              "text": "replacing"
+            },
+            {
+              "key": "D",
+              "text": "has replaced"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bcbe1da8f676b3f5e001a9d1ee296ccfa1a2a0b0"
+        },
+        {
+          "question_text": "I ------- got your email address saved on my phone.",
+          "explanation": "Cấu trúc I have got chỉ sở hữu thông tin liên hệ.",
+          "translation": "Tôi đã lưu địa chỉ email của bạn trong điện thoại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#have-and-have-got-possession/quiz",
+          "independent_review": "pending",
+          "fingerprint": "bf417cd8c361b64632b4e9cc0cb1210a8fd5c7fe"
+        },
+        {
+          "question_text": "Mila can ------- very quickly on a keyboard.",
+          "explanation": "Can đi với động từ type không chia và không có to.",
+          "translation": "Mila có thể gõ bàn phím rất nhanh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "type"
+            },
+            {
+              "key": "B",
+              "text": "types"
+            },
+            {
+              "key": "C",
+              "text": "typing"
+            },
+            {
+              "key": "D",
+              "text": "to type"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#can-could-ability-permission/exercises",
+          "independent_review": "pending",
+          "fingerprint": "bf564cc536fedd46bf340222e2e1b6ce5678172e"
+        },
+        {
+          "question_text": "I am holding a key. ------- key opens the back door.",
+          "explanation": "Người nói đang cầm một chiếc chìa khóa nên dùng This cho vật gần, số ít.",
+          "translation": "Tôi đang cầm một chiếc chìa khóa. Chiếc chìa khóa này mở được cửa sau.",
+          "options": [
+            {
+              "key": "A",
+              "text": "These"
+            },
+            {
+              "key": "B",
+              "text": "Those"
+            },
+            {
+              "key": "C",
+              "text": "Them"
+            },
+            {
+              "key": "D",
+              "text": "This"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c03edac32164a8e0e993896e9eec0ff8874707b2"
+        },
+        {
+          "question_text": "My desk is beside your desk. In other words, it is next to -------.",
+          "explanation": "Yours thay cho your desk nên không cần lặp từ desk.",
+          "translation": "Bàn của tôi ở cạnh bàn của bạn. Nói cách khác, nó nằm ngay bên cạnh bàn của bạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "your"
+            },
+            {
+              "key": "B",
+              "text": "you"
+            },
+            {
+              "key": "C",
+              "text": "you're"
+            },
+            {
+              "key": "D",
+              "text": "yours"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#possessive-forms-everyday/quiz",
+          "independent_review": "pending",
+          "fingerprint": "c402157c5ef02b0bfb66a694e096a58029c59765"
+        },
+        {
+          "question_text": "Please write ------- name at the top of the form.",
+          "explanation": "Name theo sau chỗ trống, vì vậy phải dùng your.",
+          "translation": "Vui lòng viết tên của bạn ở đầu biểu mẫu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "yours"
+            },
+            {
+              "key": "B",
+              "text": "you"
+            },
+            {
+              "key": "C",
+              "text": "your"
+            },
+            {
+              "key": "D",
+              "text": "you're"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#possessive-forms-everyday/quiz",
+          "independent_review": "pending",
+          "fingerprint": "c61c8e59eb0ac0b30943a6c6b071aec0b95aa3a7"
+        },
+        {
+          "question_text": "There ------- a glass of water by the sink.",
+          "explanation": "A glass là một vật đếm được số ít nên dùng there is.",
+          "translation": "Có một cốc nước cạnh bồn rửa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#there-is-there-are/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c62186345f03b96b20495014951e08a9be3d95e1"
+        },
+        {
+          "question_text": "------- noisy the street is tonight!",
+          "explanation": "Mẫu How + tính từ noisy + S + V diễn tả cảm thán.",
+          "translation": "Tối nay con phố ồn quá!",
+          "options": [
+            {
+              "key": "A",
+              "text": "How"
+            },
+            {
+              "key": "B",
+              "text": "What"
+            },
+            {
+              "key": "C",
+              "text": "What a"
+            },
+            {
+              "key": "D",
+              "text": "How a"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#exclamations-with-what-and-how/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c70669f2ec514ad018508e7fbe0a8aee9772ed7c"
+        },
+        {
+          "question_text": "These lessons ------- free for beginners.",
+          "explanation": "These lessons chỉ nhiều bài học, vì vậy cần are.",
+          "translation": "Những bài học này miễn phí cho người mới bắt đầu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "am"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#be-statements-and-questions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c7ac2249d8b801fccb63623f122c1f28820b40e3"
+        },
+        {
+          "question_text": "I ------- a new student in the evening class.",
+          "explanation": "Chủ ngữ I ở hiện tại luôn đi với am.",
+          "translation": "Tôi là một học viên mới trong lớp học buổi tối.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "am"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#be-statements-and-questions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c83af2bc15241cc0efaf774771ddc01282e18889"
+        },
+        {
+          "question_text": "The guide checked ------- passports before departure.",
+          "explanation": "Cần số lượng hộ chiếu nên dùng eleven.",
+          "translation": "Hướng dẫn viên kiểm tra mười một hộ chiếu trước khi khởi hành.",
+          "options": [
+            {
+              "key": "A",
+              "text": "eleventh"
+            },
+            {
+              "key": "B",
+              "text": "elevenths"
+            },
+            {
+              "key": "C",
+              "text": "elevenfold"
+            },
+            {
+              "key": "D",
+              "text": "eleven"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "c8af2a7831089b87bd76172886cf5c762fba6514"
+        },
+        {
+          "question_text": "The school ordered ------- new tablets.",
+          "explanation": "Số lượng máy tính bảng cần twenty.",
+          "translation": "Trường đặt mua hai mươi máy tính bảng mới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "twentieth"
+            },
+            {
+              "key": "B",
+              "text": "twenty"
+            },
+            {
+              "key": "C",
+              "text": "twentyth"
+            },
+            {
+              "key": "D",
+              "text": "twenties"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "c95452d378e05acbaf89bfb456a9b9db0abe2afc"
+        },
+        {
+          "question_text": "I ------- solve simple puzzles when I was five.",
+          "explanation": "When I was five là thời quá khứ, could diễn tả khả năng chung.",
+          "translation": "Hồi năm tuổi tôi đã biết giải những câu đố đơn giản.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could"
+            },
+            {
+              "key": "B",
+              "text": "can today"
+            },
+            {
+              "key": "C",
+              "text": "could to"
+            },
+            {
+              "key": "D",
+              "text": "canned"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#can-could-ability-permission/exercises",
+          "independent_review": "pending",
+          "fingerprint": "cbbfbc5bb2b1a8f07375d2906231eae130fcfd5b"
+        },
+        {
+          "question_text": "The brown shoes are too big; try the gray -------.",
+          "explanation": "Shoes là danh từ số nhiều, nên dùng ones để thay thế.",
+          "translation": "Đôi giày nâu rộng quá; hãy thử đôi màu xám.",
+          "options": [
+            {
+              "key": "A",
+              "text": "one"
+            },
+            {
+              "key": "B",
+              "text": "ones"
+            },
+            {
+              "key": "C",
+              "text": "it"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/exercises",
+          "independent_review": "pending",
+          "fingerprint": "cbdc6a75e2f201fcabd278120a769b55cb918b73"
+        },
+        {
+          "question_text": "------- quickly your son has grown!",
+          "explanation": "How nhấn mạnh trạng từ quickly trước chủ ngữ your son.",
+          "translation": "Con trai bạn lớn nhanh quá!",
+          "options": [
+            {
+              "key": "A",
+              "text": "What"
+            },
+            {
+              "key": "B",
+              "text": "How"
+            },
+            {
+              "key": "C",
+              "text": "What a"
+            },
+            {
+              "key": "D",
+              "text": "How a"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#exclamations-with-what-and-how/exercises",
+          "independent_review": "pending",
+          "fingerprint": "cc1fb0d4b891e80a5afe2f3951da7631a9673f2f"
+        },
+        {
+          "question_text": "At age ten, Priya ------- solve these maths problems in her head.",
+          "explanation": "At age ten mô tả khả năng chung vào thời điểm quá khứ.",
+          "translation": "Lúc mười tuổi, Priya đã có thể nhẩm giải những bài toán này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "can to"
+            },
+            {
+              "key": "B",
+              "text": "coulds"
+            },
+            {
+              "key": "C",
+              "text": "could"
+            },
+            {
+              "key": "D",
+              "text": "is can"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#can-could-ability-permission/quiz",
+          "independent_review": "pending",
+          "fingerprint": "cd7dbfaebdd3f195d900cddd688573a8737d3498"
+        },
+        {
+          "question_text": "The hotel staff handled the cancellation with great -------.",
+          "explanation": "Sau with great cần danh từ chỉ phẩm chất, professionalism nghĩa là tính chuyên nghiệp.",
+          "translation": "Nhân viên khách sạn xử lý việc hủy đặt chỗ với sự chuyên nghiệp cao.",
+          "options": [
+            {
+              "key": "A",
+              "text": "professional"
+            },
+            {
+              "key": "B",
+              "text": "professionally"
+            },
+            {
+              "key": "C",
+              "text": "professionalize"
+            },
+            {
+              "key": "D",
+              "text": "professionalism"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#parts-of-speech-overview/exercises",
+          "independent_review": "pending",
+          "fingerprint": "cdbe563df4d102f1dd8a92bf1f539ba071b140e5"
+        },
+        {
+          "question_text": "The orchestra ------- in the auditorium last night.",
+          "explanation": "Trạng từ beautifully mô tả cách biểu diễn, sau động từ performed.",
+          "translation": "Dàn nhạc biểu diễn rất hay trong hội trường tối qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "beautifully performed"
+            },
+            {
+              "key": "B",
+              "text": "performed beautiful"
+            },
+            {
+              "key": "C",
+              "text": "performed beautifully"
+            },
+            {
+              "key": "D",
+              "text": "beautiful performed"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "cf486985000e55c4a243a00a24b2aadd70f212b0"
+        },
+        {
+          "question_text": "It ------- not a difficult puzzle.",
+          "explanation": "It đi với is; not đứng sau be.",
+          "translation": "Đó không phải là một câu đố khó.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#be-statements-and-questions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d03f1cf5ae3065a235a8d415a8a4e1fa56ea8bae"
+        },
+        {
+          "question_text": "That bicycle belongs to my father. It is -------.",
+          "explanation": "His là đại từ sở hữu có thể đứng độc lập sau is.",
+          "translation": "Chiếc xe đạp đó thuộc về bố tôi. Nó là của ông ấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "his"
+            },
+            {
+              "key": "B",
+              "text": "he"
+            },
+            {
+              "key": "C",
+              "text": "him"
+            },
+            {
+              "key": "D",
+              "text": "he's"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#possessive-forms-everyday/exercises",
+          "independent_review": "pending",
+          "fingerprint": "d0665c2252cef9f6cf29f420b1bdaa44a5db5971"
+        },
+        {
+          "question_text": "Look at the birds on that distant roof. ------- birds are resting.",
+          "explanation": "Birds là số nhiều và ở xa, nên dùng Those.",
+          "translation": "Hãy nhìn những con chim trên mái nhà ở đằng xa kia. Những con chim ấy đang nghỉ ngơi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "This"
+            },
+            {
+              "key": "C",
+              "text": "Those"
+            },
+            {
+              "key": "D",
+              "text": "It"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#demonstratives-this-that-these-those/exercises",
+          "independent_review": "pending",
+          "fingerprint": "d0b649bef29b275f63b50b262c786ab78f2891df"
+        },
+        {
+          "question_text": "The library opens on the ------- of January.",
+          "explanation": "Số thứ tự của twelve là twelfth.",
+          "translation": "Thư viện mở cửa vào ngày 12 tháng Một.",
+          "options": [
+            {
+              "key": "A",
+              "text": "twelfth"
+            },
+            {
+              "key": "B",
+              "text": "twelve"
+            },
+            {
+              "key": "C",
+              "text": "twelveth"
+            },
+            {
+              "key": "D",
+              "text": "twenties"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d10ef35cd7f4230c09d6b673e9eeda45ff6c78f4"
+        },
+        {
+          "question_text": "Why ------- the assistant waiting outside the interview room?",
+          "explanation": "Câu hỏi hiện tại tiếp diễn có chủ ngữ số ít the assistant cần trợ động từ is trước waiting.",
+          "translation": "Tại sao người trợ lý đang đợi bên ngoài phòng phỏng vấn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "d5c747f58c5b69c3beba33e5a85b7930d411479f"
+        },
+        {
+          "question_text": "Amina lives on the ------- floor of this building.",
+          "explanation": "Vị trí tầng 20 cần twentieth.",
+          "translation": "Amina sống ở tầng hai mươi của tòa nhà này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "twenty"
+            },
+            {
+              "key": "B",
+              "text": "twentyth"
+            },
+            {
+              "key": "C",
+              "text": "twentieth"
+            },
+            {
+              "key": "D",
+              "text": "twenty-one"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d64376aa577929e0dcd21c161b698fd4f1087610"
+        },
+        {
+          "question_text": "My parents ------- a quiet apartment near the river.",
+          "explanation": "Chủ ngữ My parents số nhiều, chỉ sở hữu dùng have.",
+          "translation": "Bố mẹ tôi có một căn hộ yên tĩnh gần sông.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "having"
+            },
+            {
+              "key": "D",
+              "text": "is having"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#have-and-have-got-possession/quiz",
+          "independent_review": "pending",
+          "fingerprint": "d7ce892d966440bd1d5f86febff128701bb25644"
+        },
+        {
+          "question_text": "------- wonderful music they played!",
+          "explanation": "Music là danh từ không đếm được, dùng What + tính từ + danh từ.",
+          "translation": "Bản nhạc họ chơi tuyệt vời quá!",
+          "options": [
+            {
+              "key": "A",
+              "text": "What a"
+            },
+            {
+              "key": "B",
+              "text": "What"
+            },
+            {
+              "key": "C",
+              "text": "How a"
+            },
+            {
+              "key": "D",
+              "text": "What an"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#exclamations-with-what-and-how/quiz",
+          "independent_review": "pending",
+          "fingerprint": "da8f0631c3d8461625d08d1bad1c56cdc7296130"
+        }
+      ]
+    }
+  ]
+}

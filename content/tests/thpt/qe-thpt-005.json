@@ -1,0 +1,1955 @@
+{
+  "slug": "qe-thpt-005",
+  "title": "Đề luyện thi tiếng Anh THPT 05 – Thí nghiệm, Giấc ngủ và Bảo tồn",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "A2-B2",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "status": "draft",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "grammar",
+    "vocabulary",
+    "cloze",
+    "reading"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best word or phrase to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "No sooner had the last train left the platform ------- the station lights went out.",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "then"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc 'No sooner had ... than ...' chỉ hai hành động xảy ra sát nhau.",
+          "translation": "Ngay khi chuyến tàu cuối rời ga, đèn nhà ga tắt.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ddeb924132c219f5aa4cb066e30a7ba7935276d4"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The blueprints, together with the engineer's notes, ------- in the top drawer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "being"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Chủ ngữ chính 'blueprints' là số nhiều; 'together with' không đổi sự hòa hợp chủ–vị.",
+          "translation": "Các bản vẽ, cùng ghi chú kỹ sư, nằm trong ngăn kéo trên cùng.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "subject-verb-agreement"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "26ead008b1a05c9ff4a78e457b6dc65cb90fe772"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "If the curator ------- the label last week, visitors would have understood the exhibit sooner.",
+          "options": [
+            {
+              "key": "A",
+              "text": "translated"
+            },
+            {
+              "key": "B",
+              "text": "had translated"
+            },
+            {
+              "key": "C",
+              "text": "has translated"
+            },
+            {
+              "key": "D",
+              "text": "would translate"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Điều kiện loại ba dùng 'had + V3' trong mệnh đề if.",
+          "translation": "Nếu người quản lý đã dịch nhãn tuần trước thì khách đã hiểu hiện vật sớm hơn.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "third-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "a467d17b403fce4a9c6fb5f5cb6cf3419cddece8"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The instructor reminded us ------- our helmets before entering the tunnel.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fasten"
+            },
+            {
+              "key": "B",
+              "text": "to fasten"
+            },
+            {
+              "key": "C",
+              "text": "fastening"
+            },
+            {
+              "key": "D",
+              "text": "fastened"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Remind somebody to do something' có nghĩa nhắc ai làm việc gì.",
+          "translation": "Người hướng dẫn nhắc chúng tôi cài mũ bảo hộ trước khi vào hầm.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "verb-pattern"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "2b15081f6509aae8b01b0137952976144b1c48a4"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The atlas ------- cover shows a red compass belongs to my grandfather.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whose"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Whose' là đại từ quan hệ sở hữu, bổ nghĩa cho 'atlas'.",
+          "translation": "Cuốn tập bản đồ có bìa in la bàn đỏ thuộc về ông tôi.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ba36f3a07ba190e46fac1a78a1b02dcda6022bef"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Only after the rehearsal ended ------- the technician discover the faulty cable.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did"
+            },
+            {
+              "key": "B",
+              "text": "had"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Trạng ngữ 'Only after' đầu câu đòi đảo trợ động từ 'did' trước chủ ngữ.",
+          "translation": "Chỉ sau buổi tập, kỹ thuật viên mới phát hiện dây cáp lỗi.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "1039de7ba5f48ddd8b1e432cf6bfa7e8713662a7"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There is very ------- information about the glacier in this short brochure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "few"
+            },
+            {
+              "key": "B",
+              "text": "many"
+            },
+            {
+              "key": "C",
+              "text": "several"
+            },
+            {
+              "key": "D",
+              "text": "little"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Information' không đếm được nên lượng nhỏ dùng 'little'.",
+          "translation": "Tờ giới thiệu ngắn có rất ít thông tin về sông băng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "quantifiers"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "cffa949a941e05e919a576300a3ca15e3ce18d68"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The new suspension bridge is expected ------- by the end of next summer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to be completed"
+            },
+            {
+              "key": "B",
+              "text": "having completed"
+            },
+            {
+              "key": "C",
+              "text": "to complete"
+            },
+            {
+              "key": "D",
+              "text": "completing"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Công trình 'được hoàn thành' cần 'is expected to be + V3'.",
+          "translation": "Cầu treo mới dự kiến được hoàn thành trước cuối hè tới.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "passive-infinitive"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "8b021e89415a048db0e731bd45e5d451a0345c69"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The architect was particularly interested ------- how daylight changed the room's appearance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Cụm cố định là 'be interested in'.",
+          "translation": "Kiến trúc sư đặc biệt quan tâm cách ánh sáng ban ngày đổi diện mạo phòng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "23d51cb1b96d8e3b122eedc972a6f1e7115e37bf"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Unless the fog clears, the supply boat ------- the harbour before dark.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reaches"
+            },
+            {
+              "key": "B",
+              "text": "will not reach"
+            },
+            {
+              "key": "C",
+              "text": "had reached"
+            },
+            {
+              "key": "D",
+              "text": "has reached"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Unless' nghĩa là nếu không; mệnh đề chính nêu kết quả tương lai 'will not reach'.",
+          "translation": "Nếu sương mù không tan, tàu tiếp tế sẽ không tới cảng trước tối.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "first-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "1877bd22753bf46ce83ca3c1be6ba5eac92c608a"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Mai explains complex ideas much ------- than she did a year ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "most confidently"
+            },
+            {
+              "key": "B",
+              "text": "confidence"
+            },
+            {
+              "key": "C",
+              "text": "confident"
+            },
+            {
+              "key": "D",
+              "text": "more confidently"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "So sánh hơn của trạng từ dài 'confidently' là 'more confidently'.",
+          "translation": "Mai giải thích các ý tưởng phức tạp tự tin hơn nhiều so với năm trước.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "comparatives"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ad13b5ded64f145465a905cc0725f5a7b7d1e04a"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Neither of the two suggested routes ------- within our current travel budget.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fitting"
+            },
+            {
+              "key": "B",
+              "text": "fits"
+            },
+            {
+              "key": "C",
+              "text": "fit"
+            },
+            {
+              "key": "D",
+              "text": "have fit"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Trong văn phong thi cử, 'neither of' nhận động từ số ít 'fits'.",
+          "translation": "Không tuyến nào trong hai tuyến gợi ý phù hợp ngân sách đi lại.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "subject-verb-agreement"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "2d8a0b4a4a30f7a5d40b29389ba9f7c4517275f4"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the most suitable word or response for each context.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "To make their laboratory findings -------, the students repeated the experiment on three separate days.",
+          "options": [
+            {
+              "key": "A",
+              "text": "optional"
+            },
+            {
+              "key": "B",
+              "text": "temporary"
+            },
+            {
+              "key": "C",
+              "text": "reliable"
+            },
+            {
+              "key": "D",
+              "text": "casual"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Reliable findings' là kết quả đáng tin cậy, phù hợp với việc lặp lại thí nghiệm.",
+          "translation": "Học sinh lặp lại thí nghiệm ba ngày khác nhau để kết quả đáng tin.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "academic-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "69a78c250b095e98b42dd8a6e4b06a9f36f2f8ab"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Before uploading event photographs, the organiser removed ------- details such as phone numbers from the captions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "chemical"
+            },
+            {
+              "key": "B",
+              "text": "mechanical"
+            },
+            {
+              "key": "C",
+              "text": "personal"
+            },
+            {
+              "key": "D",
+              "text": "seasonal"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Personal details' là thông tin riêng tư như số điện thoại.",
+          "translation": "Trước khi đăng ảnh, người tổ chức xóa chi tiết cá nhân khỏi chú thích.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ac49a58bd0a8e60fc39fc68336f653ae54a17b85"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The designer used a ------- measuring tape to follow the curved edge of the model.",
+          "options": [
+            {
+              "key": "A",
+              "text": "flexible"
+            },
+            {
+              "key": "B",
+              "text": "fragile"
+            },
+            {
+              "key": "C",
+              "text": "silent"
+            },
+            {
+              "key": "D",
+              "text": "distant"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Flexible' mô tả thước dây mềm dẻo, đo được đường cong.",
+          "translation": "Nhà thiết kế dùng thước dây mềm dẻo để đo mép cong.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "e6a4365e69787cfc2645697830c3f2b2b5d79355"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "We need to ------- the programme because the guest speaker's arrival has been delayed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "forbid"
+            },
+            {
+              "key": "B",
+              "text": "revise"
+            },
+            {
+              "key": "C",
+              "text": "preserve"
+            },
+            {
+              "key": "D",
+              "text": "admire"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Revise' nghĩa là điều chỉnh chương trình trước lịch đến bị thay đổi.",
+          "translation": "Chúng ta cần điều chỉnh chương trình vì diễn giả khách mời đến trễ.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "577897fddb6aa8583f00d3db1a1f320ca7b4e9e2"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Visitor: 'I think I've lost my admission ticket.' Clerk: '------- I can look up your booking.'",
+          "options": [
+            {
+              "key": "A",
+              "text": "That's your fault."
+            },
+            {
+              "key": "B",
+              "text": "You must leave now."
+            },
+            {
+              "key": "C",
+              "text": "Don't worry."
+            },
+            {
+              "key": "D",
+              "text": "I have no idea what a booking is."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lời đáp trấn an 'Don't worry' phù hợp với đề nghị tra cứu vé.",
+          "translation": "Khách: 'Tôi nghĩ đã mất vé.' Nhân viên: 'Đừng lo, tôi tra đặt chỗ cho.'",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "functional-language"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "2be607acf00b326e0e71bf7cd518aae723bbb3d3"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The interviewer asked a ------- question that encouraged the musician to explain her unusual choice.",
+          "options": [
+            {
+              "key": "A",
+              "text": "irrelevant"
+            },
+            {
+              "key": "B",
+              "text": "careless"
+            },
+            {
+              "key": "C",
+              "text": "thoughtful"
+            },
+            {
+              "key": "D",
+              "text": "repetitive"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Câu hỏi 'thoughtful' là thấu đáo, khiến người được hỏi giải thích sâu hơn.",
+          "translation": "Người phỏng vấn đặt câu hỏi sâu sắc khiến nhạc sĩ giải thích quyết định khác thường.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "f64258a8c906c281d6196ef39adfd892302754a7"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "After the training session, each volunteer agreed to ------- responsibility for checking the equipment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "make"
+            },
+            {
+              "key": "C",
+              "text": "hold"
+            },
+            {
+              "key": "D",
+              "text": "put"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Kết hợp từ đúng là 'take responsibility for + V-ing'.",
+          "translation": "Sau tập huấn, mỗi tình nguyện viên đồng ý nhận trách nhiệm kiểm tra thiết bị.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "f45f196ee0086f0d2d10f3d00f1f2999a8c0c965"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Although the instructions were brief, the coloured arrows made the route easy to -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "follow"
+            },
+            {
+              "key": "B",
+              "text": "interrupt"
+            },
+            {
+              "key": "C",
+              "text": "borrow"
+            },
+            {
+              "key": "D",
+              "text": "manufacture"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Follow a route' nghĩa là đi theo tuyến đường; các mũi tên giúp định hướng.",
+          "translation": "Dù hướng dẫn ngắn, các mũi tên màu giúp dễ đi theo tuyến đường.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "975032397b00f68685bba818a1cbe180bccd3a55"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the text about a school wind-tunnel experiment and complete each blank.",
+      "source": "original",
+      "passage": "At Westhaven Technical Club, students wanted to learn why tall structures can move slightly in strong winds. They built a small wind tunnel from a clear box and a fan. To keep their test fair, each paper tower was placed at the same (21) ------- from the fan. The students changed only one feature at a time, such as the width of the base.\nThey measured how far the top of each tower moved and (22) ------- the results in a notebook. The first design was narrow and fell over. A wider base made the next model more (23) -------, even when the fan ran at the same speed.\nA heavier tower did not always perform better, because extra weight used more material. The club therefore considered both stability (24) ------- the amount of paper needed. Their teacher reminded them that paper models cannot predict exactly how full-sized buildings behave. The final display presented the experiment as a simple (25) ------- of engineering ideas, rather than a building safety test.",
+      "passage_vi": "Tại Câu lạc bộ Kỹ thuật Westhaven, học sinh muốn tìm hiểu vì sao các công trình cao có thể hơi dao động khi gió mạnh. Các em tạo một đường hầm gió nhỏ bằng hộp trong suốt và quạt. Để thử nghiệm công bằng, mỗi tháp giấy được đặt cách quạt cùng một khoảng cách (21). Các em chỉ thay đổi một đặc điểm mỗi lần, chẳng hạn chiều rộng của chân tháp.\nCác em đo độ dịch chuyển ở đỉnh từng tháp rồi ghi lại (22) kết quả vào sổ. Thiết kế đầu tiên hẹp và bị đổ. Chân tháp rộng hơn làm mô hình tiếp theo ổn định hơn (23), dù quạt chạy cùng tốc độ.\nTháp nặng hơn không phải lúc nào cũng tốt hơn, vì trọng lượng tăng đồng nghĩa dùng nhiều vật liệu. Vì vậy, câu lạc bộ xem xét cả độ ổn định và (24) lượng giấy cần thiết. Giáo viên nhắc rằng mô hình giấy không thể dự đoán chính xác hoạt động của các tòa nhà thật. Phần trưng bày cuối cùng giới thiệu thí nghiệm như một minh họa (25) đơn giản cho ý tưởng kỹ thuật, thay vì bài kiểm tra an toàn công trình.",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which word best completes blank (21) in the wind-tunnel text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "duration"
+            },
+            {
+              "key": "B",
+              "text": "distance"
+            },
+            {
+              "key": "C",
+              "text": "direction"
+            },
+            {
+              "key": "D",
+              "text": "pressure"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'At the same distance from the fan' nghĩa là ở cùng khoảng cách, giúp phép so sánh công bằng.",
+          "translation": "Từ điền vào (21) là khoảng cách giữa mỗi tháp và quạt.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "d4a1458b2f2b4efb3b763cf12cfb6206eda35a0c"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which word best completes blank (22) in the wind-tunnel text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "imagined"
+            },
+            {
+              "key": "B",
+              "text": "borrowed"
+            },
+            {
+              "key": "C",
+              "text": "prevented"
+            },
+            {
+              "key": "D",
+              "text": "recorded"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sau 'measured' cần động từ quá khứ song song 'recorded', tức ghi lại kết quả vào sổ.",
+          "translation": "Từ điền vào (22) là ghi lại kết quả thử nghiệm.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-verb"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "06de33ecf20401d1489a6c7a311dab379c948cc8"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which adjective best completes blank (23) in the wind-tunnel text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "stable"
+            },
+            {
+              "key": "B",
+              "text": "distant"
+            },
+            {
+              "key": "C",
+              "text": "temporary"
+            },
+            {
+              "key": "D",
+              "text": "delicate"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Chân tháp rộng khiến tháp vững hơn nên cần tính từ 'stable'.",
+          "translation": "Từ điền vào (23) là ổn định, vững chắc hơn trước gió.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ea786d2e8221da93727175e4c8a7626466bd31df"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which linking word best completes blank (24) in the wind-tunnel text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "but"
+            },
+            {
+              "key": "D",
+              "text": "unless"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc 'both X and Y' liên kết hai yếu tố cần xem xét.",
+          "translation": "Từ điền vào (24) là và, nối độ ổn định với lượng giấy cần dùng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-cohesion"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "3a9abc0c548519f10b4ca73157355aec7588ce53"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Which noun best completes blank (25) in the wind-tunnel text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "exception"
+            },
+            {
+              "key": "B",
+              "text": "demonstration"
+            },
+            {
+              "key": "C",
+              "text": "permission"
+            },
+            {
+              "key": "D",
+              "text": "prediction"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'A demonstration of engineering ideas' là phần minh họa ý tưởng kỹ thuật; mô hình chưa đủ để kiểm định an toàn.",
+          "translation": "Từ điền vào (25) là phần minh họa các ý tưởng kỹ thuật.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "0a3a541fe6f1dfe9686a7879b2d940b5a4b0b56c"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Read the text about a traditional textile-dyeing workshop and complete each blank.",
+      "source": "original",
+      "passage": "When an old textile workshop in Bellmere opened for a weekend event, visitors expected to see bright fabrics. Instead, the guide began with a jar of pale onion skins. Boiling the skins released a yellow dye, (26) ------- could be used to colour small pieces of cotton.\nThe dye was faint on untreated cloth, so participants first prepared their fabric with a safe mineral solution. This step helped the colour (27) ------- to the fibres. The guide explained that natural shades can vary according to the water, the plants and the length of time the cloth is soaked.\nParticipants (28) ------- to write down each measurement instead of relying on memory. One visitor suggested using twice as many onion skins to save time, but the guide explained that this would not (29) ------- improve the result. At the end, everyone took home a labelled sample and clear instructions so they could (30) ------- the method carefully at home.",
+      "passage_vi": "Khi một xưởng dệt cũ ở Bellmere mở cửa cho sự kiện cuối tuần, khách tham quan mong được nhìn thấy vải nhiều màu rực rỡ. Nhưng người hướng dẫn lại bắt đầu bằng một lọ vỏ hành nhạt màu. Đun vỏ hành tạo ra thuốc nhuộm vàng, thứ có thể (26) được dùng để nhuộm những mảnh vải cotton nhỏ.\nMàu lên khá nhạt trên vải chưa xử lý, nên người tham gia trước tiên chuẩn bị vải bằng một dung dịch khoáng an toàn. Bước này giúp màu bám (27) vào sợi vải. Người hướng dẫn giải thích rằng sắc màu tự nhiên thay đổi theo nước, nguyên liệu thực vật và thời gian ngâm vải.\nNgười tham gia được khuyến khích (28) ghi lại từng phép đo thay vì chỉ nhớ. Một khách đề xuất dùng gấp đôi lượng vỏ hành để tiết kiệm thời gian, nhưng hướng dẫn viên giải thích cách này chưa chắc (29) cải thiện kết quả. Cuối buổi, mọi người mang về mẫu có nhãn và hướng dẫn rõ ràng để tự làm lại (30) quy trình ở nhà.",
+      "questions": [
+        {
+          "number": 26,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which relative pronoun best completes blank (26) in the textile text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Mệnh đề quan hệ không xác định sau dấu phẩy bổ nghĩa cho 'a yellow dye', nên dùng 'which'.",
+          "translation": "Từ điền vào (26) là đại từ chỉ thuốc nhuộm vàng, thứ có thể dùng nhuộm vải.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "6761078dfa9db47933736ca7ba354c87ecf871c6"
+        },
+        {
+          "number": 27,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which verb best completes blank (27) in the textile text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "float"
+            },
+            {
+              "key": "B",
+              "text": "escape"
+            },
+            {
+              "key": "C",
+              "text": "slide"
+            },
+            {
+              "key": "D",
+              "text": "bind"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Help the colour bind to the fibres' nghĩa là giúp màu liên kết, bám vào sợi vải.",
+          "translation": "Từ điền vào (27) là bám vào sợi vải.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "fcaf3fa0d2487095f54b1dcc43c23390f3fa67f1"
+        },
+        {
+          "number": 28,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which phrase best completes blank (28) in the textile text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have encouraging"
+            },
+            {
+              "key": "B",
+              "text": "encouraged"
+            },
+            {
+              "key": "C",
+              "text": "were encouraged"
+            },
+            {
+              "key": "D",
+              "text": "are encouraging"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Người tham gia nhận lời khuyên trong quá khứ, nên dùng bị động 'were encouraged'.",
+          "translation": "Cụm điền vào (28) là được khuyến khích ghi lại các phép đo.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-passive"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "1764b9fee2dbc87452f5e95814c42282f14699bc"
+        },
+        {
+          "number": 29,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which adverb best completes blank (29) in the textile text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "necessarily"
+            },
+            {
+              "key": "B",
+              "text": "yesterday"
+            },
+            {
+              "key": "C",
+              "text": "outside"
+            },
+            {
+              "key": "D",
+              "text": "quietly"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Would not necessarily improve' diễn tả dùng thêm nguyên liệu chưa chắc cải thiện kết quả.",
+          "translation": "Từ điền vào (29) là nhất thiết, trong câu phủ định mang nghĩa chưa chắc.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-adverb"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "aa997bc23b44c06dde59f238d7e1aeff546bb4e3"
+        },
+        {
+          "number": 30,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which verb best completes blank (30) in the textile text?",
+          "options": [
+            {
+              "key": "A",
+              "text": "repeat"
+            },
+            {
+              "key": "B",
+              "text": "cancel"
+            },
+            {
+              "key": "C",
+              "text": "forget"
+            },
+            {
+              "key": "D",
+              "text": "replace"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Mẫu và hướng dẫn được đưa về để người tham gia có thể làm lại quy trình ở nhà.",
+          "translation": "Từ điền vào (30) là thực hiện lại quy trình.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "8bb6ce3d9389b5d46dd6d0674d20565b427c434c"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the account of a later school-start trial and answer the questions.",
+      "source": "original",
+      "passage": "At Northbridge Secondary School, the first lesson began at 7:30 a.m. Several students said they were often tired when the school day started. The head teacher agreed to test a later start rather than immediately changing the timetable for everyone. For six weeks, two Year 11 classes began at 8:15 a.m. on Tuesdays and Thursdays. The same lessons were taught for the same number of minutes, so activities on those afternoons ended forty-five minutes later.\nTeachers kept records of late arrivals and asked students to rate their alertness at the beginning of each lesson. They also invited families to describe practical difficulties. During the first two weeks, the public bus from nearby villages still arrived before seven. Some pupils waited in the library for more than an hour. In the third week, the school arranged a later minibus for students on that route. Other families struggled because they needed older children to collect younger siblings after school.\nAt the end of six weeks, the classes had fewer late arrivals on trial mornings and students generally reported feeling more awake. However, the head teacher was careful when presenting these preliminary results. The survey relied on students' own impressions, and fewer major tests happened during the trial than during the earlier period used for comparison. It was therefore impossible to say that the timetable change alone caused the improvement. Students who worked part-time in the late afternoon also reported increased pressure on trial days.\nThe school council decided to conduct a longer study involving more classes and a clearer comparison before making a permanent decision. It planned to consult bus operators and families before the next trial. The head teacher said that a useful school timetable should support learning while also taking transport and responsibilities outside the classroom into account.",
+      "passage_vi": "Tại Trường Trung học Northbridge, tiết đầu tiên bắt đầu lúc 7 giờ 30. Nhiều học sinh nói rằng các em thường mệt mỏi khi ngày học bắt đầu. Hiệu trưởng đồng ý thử giờ học muộn hơn thay vì thay đổi ngay thời khóa biểu cho mọi người. Trong sáu tuần, hai lớp 11 bắt đầu lúc 8 giờ 15 vào thứ Ba và thứ Năm. Nội dung và thời lượng tiết học được giữ nguyên, vì thế hoạt động những buổi chiều đó kết thúc muộn hơn bốn mươi lăm phút.\nGiáo viên theo dõi số học sinh đến muộn và yêu cầu học sinh tự đánh giá mức độ tỉnh táo lúc bắt đầu mỗi tiết. Gia đình cũng được mời nêu khó khăn thực tế. Trong hai tuần đầu, xe buýt công cộng từ các làng lân cận vẫn đến trước bảy giờ. Một số học sinh phải chờ trong thư viện hơn một giờ. Sang tuần thứ ba, trường bố trí xe buýt nhỏ chạy muộn hơn cho tuyến này. Những gia đình khác gặp khó vì anh chị lớn cần đón em nhỏ sau giờ học.\nSau sáu tuần, các lớp có ít lượt đến muộn hơn vào những buổi sáng thử nghiệm và học sinh nhìn chung tự báo cáo tỉnh táo hơn. Tuy nhiên, hiệu trưởng thận trọng khi trình bày các kết quả sơ bộ. Khảo sát phụ thuộc vào cảm nhận chủ quan, và giai đoạn thử nghiệm có ít bài kiểm tra lớn hơn thời kỳ trước được dùng đối chiếu. Do đó, không thể khẳng định chỉ việc đổi giờ học gây ra cải thiện. Học sinh đi làm thêm cuối buổi chiều cũng thấy áp lực tăng vào ngày thử nghiệm.\nHội đồng trường quyết định nghiên cứu lâu hơn, với nhiều lớp và nhóm so sánh rõ ràng hơn, trước khi đưa ra quyết định lâu dài. Trường dự định hỏi ý kiến nhà xe và gia đình trước lần thử tiếp. Hiệu trưởng cho rằng thời khóa biểu tốt cần hỗ trợ việc học đồng thời tính đến giao thông và trách nhiệm ngoài lớp.",
+      "questions": [
+        {
+          "number": 31,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What is the central purpose of the Northbridge trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To replace teachers with online materials."
+            },
+            {
+              "key": "B",
+              "text": "To shorten every lesson by forty-five minutes."
+            },
+            {
+              "key": "C",
+              "text": "To examine the effects of starting some lessons later."
+            },
+            {
+              "key": "D",
+              "text": "To move all school activities to weekends."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn đầu nói nhà trường thử giờ bắt đầu 8:15 cho hai lớp để đánh giá ảnh hưởng trước khi đổi toàn trường.",
+          "translation": "Mục đích chính của đợt thử nghiệm Northbridge là gì? Kiểm tra tác động của giờ bắt đầu muộn.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "0b4f320057189de72af103148f3eb0a3195faf23"
+        },
+        {
+          "number": 32,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "On which days did the two classes start at 8:15 a.m.?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every school day."
+            },
+            {
+              "key": "B",
+              "text": "Mondays and Wednesdays."
+            },
+            {
+              "key": "C",
+              "text": "Wednesdays and Fridays."
+            },
+            {
+              "key": "D",
+              "text": "Tuesdays and Thursdays."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn một ghi rõ lịch 8:15 diễn ra vào thứ Ba và thứ Năm.",
+          "translation": "Hai lớp bắt đầu lúc 8:15 vào những ngày nào? Thứ Ba và thứ Năm.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "99f8f3c7be08698fb40e36f1fbebe9da21a585ce"
+        },
+        {
+          "number": 33,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why did afternoon activities finish later on trial days?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The school added an extra examination."
+            },
+            {
+              "key": "B",
+              "text": "The pupils requested longer lunch breaks."
+            },
+            {
+              "key": "C",
+              "text": "The school kept the same amount of lesson time."
+            },
+            {
+              "key": "D",
+              "text": "The buses stopped running in the afternoon."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Giờ bắt đầu muộn nhưng thời lượng học không giảm, nên kết thúc muộn hơn 45 phút.",
+          "translation": "Vì sao hoạt động chiều kết thúc muộn? Vì trường giữ nguyên thời lượng dạy học.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-cause"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "27eb394a0a201c5c02bd2904e3e5a6ebc6acf261"
+        },
+        {
+          "number": 34,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which two types of information did teachers collect?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Exam scores and parents' salaries."
+            },
+            {
+              "key": "B",
+              "text": "Bus ticket prices and lunch sales."
+            },
+            {
+              "key": "C",
+              "text": "Weather maps and library borrowing data."
+            },
+            {
+              "key": "D",
+              "text": "Late-arrival records and students' alertness ratings."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn hai nói giáo viên ghi số lượt đến muộn và hỏi học sinh đánh giá mức độ tỉnh táo.",
+          "translation": "Giáo viên thu thập hai loại thông tin nào? Số lần đến muộn và đánh giá độ tỉnh táo.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "394893ec42240084d760c3cbf101752575c066c9"
+        },
+        {
+          "number": 35,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What difficulty affected some pupils from nearby villages at first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The public bus no longer entered the villages."
+            },
+            {
+              "key": "B",
+              "text": "Their bus arrived much earlier than the new lesson time."
+            },
+            {
+              "key": "C",
+              "text": "They had to walk home during lunch."
+            },
+            {
+              "key": "D",
+              "text": "Their classrooms had no chairs."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Xe buýt cũ đến trước bảy giờ khiến học sinh phải chờ hơn một giờ khi tiết bắt đầu lúc 8:15.",
+          "translation": "Ban đầu học sinh làng lân cận gặp khó khăn gì? Xe buýt đến sớm hơn nhiều so với giờ học mới.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "24f6f44f0d8a1a74edada573ef62f4fc122ce439"
+        },
+        {
+          "number": 36,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What changed in the third week of the trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All village pupils began studying online."
+            },
+            {
+              "key": "B",
+              "text": "The school cancelled the Tuesday trial."
+            },
+            {
+              "key": "C",
+              "text": "The library closed during the mornings."
+            },
+            {
+              "key": "D",
+              "text": "The school arranged a later minibus on one route."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Tuần thứ ba trường bổ sung xe buýt nhỏ chạy muộn trên tuyến liên quan.",
+          "translation": "Điều gì thay đổi vào tuần ba? Trường bố trí xe buýt nhỏ chạy muộn trên một tuyến.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "ad4aa60125ae35a8dd2c2a1ec1206bf05c621841"
+        },
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "In paragraph three, what does 'preliminary' suggest about the results?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are final results that cannot change."
+            },
+            {
+              "key": "B",
+              "text": "They were invented after the school term."
+            },
+            {
+              "key": "C",
+              "text": "They are early findings that need further checking."
+            },
+            {
+              "key": "D",
+              "text": "They were collected by a national agency."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Kết quả 'preliminary' là kết quả sơ bộ chưa đủ để đưa ra kết luận chắc chắn.",
+          "translation": "'Preliminary' có nghĩa gì? Kết quả ban đầu cần kiểm chứng thêm.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "b50109fb5ba72a967ea2234d9150824982333f8e"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why could the school not attribute better alertness only to the later start?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The teachers taught entirely different subjects."
+            },
+            {
+              "key": "B",
+              "text": "No pupils attended classes during the trial."
+            },
+            {
+              "key": "C",
+              "text": "Students were never asked about alertness."
+            },
+            {
+              "key": "D",
+              "text": "The trial period differed in other ways, including fewer major tests."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Các giai đoạn so sánh không tương đương vì số bài kiểm tra lớn khác nhau và có khảo sát chủ quan.",
+          "translation": "Vì sao không thể quy việc tỉnh táo hơn chỉ cho giờ học mới? Vì còn yếu tố khác như số bài kiểm tra.",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "9f191bcb2be74a5464e63251070cdb77aa685418"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which group faced a problem when afternoon activities ended later?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pupils who enjoyed reading in the library."
+            },
+            {
+              "key": "B",
+              "text": "Visitors attending weekend exhibitions."
+            },
+            {
+              "key": "C",
+              "text": "Students with part-time jobs in the late afternoon."
+            },
+            {
+              "key": "D",
+              "text": "Teachers who owned bicycles."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bài viết nêu học sinh làm thêm cuối buổi chiều chịu thêm áp lực khi tan học muộn.",
+          "translation": "Nhóm nào gặp bất tiện khi tan học muộn? Học sinh có việc làm thêm cuối chiều.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "56f583303cf990d4dca3b84f3db590c96a14b31f"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What will the school council do before deciding on a permanent timetable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Require all pupils to take the earliest bus."
+            },
+            {
+              "key": "B",
+              "text": "Replace classroom lessons with evening shifts."
+            },
+            {
+              "key": "C",
+              "text": "Stop asking families about transport."
+            },
+            {
+              "key": "D",
+              "text": "Conduct a longer study with more classes and better comparisons."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn cuối nêu kế hoạch nghiên cứu dài hơn với thêm lớp và so sánh rõ hơn.",
+          "translation": "Hội đồng trường sẽ làm gì trước khi quyết định lâu dài? Nghiên cứu lâu hơn trên nhiều lớp.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "2c6f4c088f18e7914079c1f530ece5454475a279"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the account of restoring a historical harbour clock and answer the questions.",
+      "source": "original",
+      "passage": "For decades, a heavy wooden clock stood above the entrance to the Old Quay Museum. Its upper dial showed the ordinary time, while a smaller dial displayed the predicted time of the next high tide. When the instrument was used at the harbour in the 1930s, a clerk checked the printed tide tables every morning and adjusted the smaller dial by hand. The display helped dock workers plan routine tasks, although boat captains still used official instructions for navigation.\nWhen the clock stopped, the museum stored it in a dry room. Years later, conservator Lina Doran examined the mechanism and found that one brass gear had several worn teeth. She photographed the parts before removing anything. A student engineering group made a temporary plastic gear so the team could test how the clock moved. Once they understood the problem, a specialist produced a brass replacement. The original damaged gear was kept and labelled rather than discarded.\nCleaning raised another question. Some visitors wanted the clock face repainted in its original bright colours. Lina found faint pencil marks beside the numbers, probably left by workers who had serviced it. Painting over them would erase traces of the clock's history. The museum chose gentle cleaning and left the faded colours visible. A short display explained which parts were original and which had been repaired.\nDuring the eight-week project, volunteers copied relevant pages from the old maintenance notebook into a searchable catalogue. One entry described how salt carried by sea air had affected the gears, reminding the team that the harbour environment was hard on metal. The restored clock now moves during a supervised demonstration each afternoon. Its tide dial remains a historical exhibit, and a nearby sign directs visitors to current official tide forecasts. Lina hopes the project will encourage people to see repair work as a way of learning from an object's past, rather than simply making it look new.",
+      "passage_vi": "Trong nhiều thập kỷ, chiếc đồng hồ gỗ lớn đứng phía trên cửa Bảo tàng Old Quay. Mặt số trên chỉ giờ thông thường, còn mặt số nhỏ hiển thị thời gian dự kiến của đợt triều cao tiếp theo. Khi thiết bị được dùng tại cảng vào thập niên 1930, nhân viên kiểm tra bảng thủy triều in giấy mỗi sáng và chỉnh mặt số nhỏ bằng tay. Bảng hiển thị giúp công nhân bến cảng lên kế hoạch thường ngày, dù thuyền trưởng vẫn dùng chỉ dẫn chính thức để điều hướng.\nKhi đồng hồ ngừng chạy, bảo tàng cất nó trong phòng khô ráo. Nhiều năm sau, chuyên gia bảo tồn Lina Doran kiểm tra cơ cấu và thấy một bánh răng đồng bị mòn vài răng. Cô chụp ảnh bộ phận trước khi tháo. Nhóm sinh viên kỹ thuật tạo bánh răng nhựa tạm để thử chuyển động. Khi đã hiểu sự cố, chuyên gia làm bánh răng đồng thay thế. Bánh răng cũ hư hỏng được giữ lại và dán nhãn.\nViệc vệ sinh lại gây tranh luận. Một số khách muốn sơn lại mặt đồng hồ bằng màu rực rỡ ban đầu. Lina tìm thấy dấu bút chì nhạt cạnh các con số, có lẽ do người sửa chữa trước đây để lại. Sơn đè lên sẽ xóa dấu vết lịch sử. Bảo tàng chọn vệ sinh nhẹ nhàng, giữ màu bạc phai và trưng bày lời giải thích phần nguyên gốc với phần đã sửa.\nTrong tám tuần, tình nguyện viên chép các trang liên quan từ sổ bảo dưỡng cũ sang danh mục có thể tìm kiếm. Một ghi chép nói muối trong không khí biển ảnh hưởng đến bánh răng, cho thấy môi trường cảng khắc nghiệt với kim loại. Đồng hồ phục hồi nay chạy trong buổi minh họa có giám sát mỗi chiều. Mặt thủy triều vẫn là hiện vật lịch sử; bảng gần đó chỉ dẫn khách tra dự báo thủy triều chính thức mới nhất. Lina mong dự án giúp người xem hiểu rằng sửa chữa là cách học về quá khứ của đồ vật, không đơn thuần làm nó trông mới.",
+      "questions": [
+        {
+          "number": 41,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What did the smaller dial of the Old Quay clock show?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The temperature inside the museum."
+            },
+            {
+              "key": "B",
+              "text": "The total number of ships in the harbour."
+            },
+            {
+              "key": "C",
+              "text": "The predicted time of the next high tide."
+            },
+            {
+              "key": "D",
+              "text": "The time of the next museum tour."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn đầu nói mặt số nhỏ hiển thị thời gian dự kiến của đợt triều cao tiếp theo.",
+          "translation": "Mặt số nhỏ hiển thị gì? Giờ dự kiến của lần triều cao tiếp theo.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "7898b9cb7903112e348ff163412b20092d314649"
+        },
+        {
+          "number": 42,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "How was the tide dial kept up to date in the 1930s?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It received messages from orbiting satellites."
+            },
+            {
+              "key": "B",
+              "text": "It measured the water depth automatically."
+            },
+            {
+              "key": "C",
+              "text": "Visitors changed it whenever they arrived."
+            },
+            {
+              "key": "D",
+              "text": "A clerk adjusted it using printed tide tables."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nhân viên tra bảng thủy triều in sẵn hằng sáng rồi chỉnh mặt số bằng tay.",
+          "translation": "Mặt số thủy triều được cập nhật ra sao vào thập niên 1930? Nhân viên dùng bảng thủy triều giấy.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "3ffd1b2749466f0156363d77551354dc10233b11"
+        },
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What problem did Lina discover inside the mechanism?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A broken glass window in the gallery."
+            },
+            {
+              "key": "B",
+              "text": "An empty battery compartment."
+            },
+            {
+              "key": "C",
+              "text": "Several worn teeth on a brass gear."
+            },
+            {
+              "key": "D",
+              "text": "A missing wooden door handle."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bài nêu rõ một bánh răng bằng đồng bị mòn nhiều răng.",
+          "translation": "Lina phát hiện hỏng hóc nào? Một số răng của bánh răng đồng bị mòn.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "8ba159fa22463618e88198abd0e557ddd27e644a"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did the students make a temporary plastic gear?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To calculate the cost of harbour taxes."
+            },
+            {
+              "key": "B",
+              "text": "To test the clock's movement before a permanent part was made."
+            },
+            {
+              "key": "C",
+              "text": "To decorate the museum entrance."
+            },
+            {
+              "key": "D",
+              "text": "To replace every original component forever."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Nhóm làm bánh răng nhựa để thử cách đồng hồ vận hành rồi mới chế tạo phần thay thế bằng đồng.",
+          "translation": "Vì sao sinh viên làm bánh răng nhựa tạm? Để thử chuyển động trước khi thay bằng bộ phận lâu dài.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "4a0ce80a2d6d21c746cab0f6d21a183e1394a257"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What happened to the damaged original gear?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It was thrown into the sea."
+            },
+            {
+              "key": "B",
+              "text": "It was melted down for new jewellery."
+            },
+            {
+              "key": "C",
+              "text": "It was preserved with a label."
+            },
+            {
+              "key": "D",
+              "text": "It was sold to a private collector."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bánh răng cũ được giữ lại và dán nhãn để lưu dấu tích lịch sử.",
+          "translation": "Bánh răng cũ hư hỏng được xử lý thế nào? Được giữ lại kèm nhãn.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "f59030c2878eeb74a77752f28aa3ab28e44448f7"
+        },
+        {
+          "number": 46,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did Lina oppose repainting the clock face?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The museum had banned all cleaning."
+            },
+            {
+              "key": "B",
+              "text": "Repainting would hide marks left by earlier maintenance work."
+            },
+            {
+              "key": "C",
+              "text": "The clock originally had no numbers."
+            },
+            {
+              "key": "D",
+              "text": "Bright colours would stop the gears turning."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Những vết bút chì cũ là dấu tích lịch sử và sẽ bị sơn đè mất.",
+          "translation": "Vì sao Lina phản đối sơn lại mặt đồng hồ? Sơn sẽ che mất dấu tích bảo dưỡng.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "952e1996b15c7111588f8c264d517ab9dcb493b9"
+        },
+        {
+          "number": 47,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which material in the harbour environment had affected the gears?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sand used for road construction."
+            },
+            {
+              "key": "B",
+              "text": "Ice brought from the mountains."
+            },
+            {
+              "key": "C",
+              "text": "Dust from desert storms."
+            },
+            {
+              "key": "D",
+              "text": "Salt carried in sea air."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Sổ bảo dưỡng ghi muối trong gió biển tác động xấu đến bánh răng.",
+          "translation": "Yếu tố môi trường nào ảnh hưởng bánh răng? Muối trong không khí biển.",
+          "difficulty": 2,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "f3f0137e992cc9ecc73162a0df7e7b5a5f697673"
+        },
+        {
+          "number": 48,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "In paragraph four, what is the purpose of the 'searchable catalogue'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To replace the museum's visitor entrance."
+            },
+            {
+              "key": "B",
+              "text": "To make records from the old maintenance notebook easier to find."
+            },
+            {
+              "key": "C",
+              "text": "To publish boat tickets for next year."
+            },
+            {
+              "key": "D",
+              "text": "To track the location of modern fishing boats."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Chuyển bản ghi sổ cũ sang danh mục tra cứu giúp tìm thông tin bảo dưỡng thuận tiện.",
+          "translation": "Danh mục có thể tìm kiếm nhằm mục đích gì? Giúp tra cứu nội dung sổ bảo dưỡng dễ hơn.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "22a1aa2e6c9bec6a14901d5443dea86656c85e8f"
+        },
+        {
+          "number": 49,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What does the sign near the restored clock tell visitors?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How to reset the museum clock themselves."
+            },
+            {
+              "key": "B",
+              "text": "Which antique gears are for sale."
+            },
+            {
+              "key": "C",
+              "text": "Where to obtain current official tide forecasts."
+            },
+            {
+              "key": "D",
+              "text": "When the harbour will stop operating permanently."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Bảng chỉ nguồn dự báo thủy triều chính thức mới nhất vì mặt số cũ chỉ để trưng bày.",
+          "translation": "Bảng cạnh đồng hồ hướng dẫn gì? Nơi xem dự báo thủy triều chính thức hiện hành.",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "04eaa59d7705230e3b73cc0499eb4efa9d415cfd"
+        },
+        {
+          "number": 50,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which statement best expresses Lina's view of restoration?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Repair can reveal an object's history while preserving evidence of its use."
+            },
+            {
+              "key": "B",
+              "text": "Visitors should never be allowed to watch repairs."
+            },
+            {
+              "key": "C",
+              "text": "Old objects should always be made to look brand new."
+            },
+            {
+              "key": "D",
+              "text": "Every restored instrument is suitable for modern navigation."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Lina muốn người xem coi việc sửa chữa là học về quá khứ và giữ lại dấu vết sử dụng.",
+          "translation": "Quan điểm của Lina là gì? Sửa chữa giúp hiểu lịch sử và gìn giữ dấu tích sử dụng.",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reading-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending",
+          "fingerprint": "5e9b04dcc3d06bbbe97d7473eb7799d51bedbcc3"
+        }
+      ]
+    }
+  ]
+}

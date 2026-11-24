@@ -1,0 +1,15 @@
+{
+  "slug": "qe-p6-002",
+  "revision": "c2c397600d4521ac3c4aee415886829b9591d54685eec5506405da9229e2fd5a",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 16,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Genuine ambiguities: None found. Weaker distractors: Q2 B is plausible office information, but only D introduces the list that the next sentence checks against the labels. Q7 C mentions security staff, but places them in the closed bay and leaves “that entrance” without the immediate west-entrance link supplied by B. Q15 D could occur in a training email, but only C explains why there are different group results for the tutor to review.",
+  "admin_sample": [
+    13
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

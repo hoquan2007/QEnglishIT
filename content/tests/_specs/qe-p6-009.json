@@ -1,0 +1,202 @@
+{
+  "slug": "qe-p6-009",
+  "content_path": "content/tests/toeic_part/qe-p6-009.json",
+  "title": "TOEIC Part 6 – Text Completion 09 (Finance, Manufacturing, and Sustainable Delivery)",
+  "collection": "QEnglishIT Original TOEIC Practice",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "cefr": "B2",
+  "difficulty": 4,
+  "duration_minutes": 10,
+  "total_questions": 16,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part6",
+      "title": "Part 6 – Text Completion",
+      "parts": [
+        6
+      ],
+      "count": 16,
+      "minutes": 10
+    }
+  ],
+  "authoring_scope": "Four original texts, four blanks per text, one sentence insertion per text; questions numbered 1–16.",
+  "difficulty_rationale_vi": "Bộ đề dùng các tình huống tài chính, sản xuất, giao nhận và dịch vụ thành viên với nhiều quan hệ điều kiện và tham chiếu. Câu hỏi chủ yếu ở B2, xen kẽ các câu chèn có độ khó cao hơn.",
+  "topic_distribution": {
+    "word-form": 3,
+    "sentence-insertion": 4,
+    "connector": 2,
+    "verb-form": 1,
+    "preposition": 3,
+    "comparison": 1,
+    "indirect-question": 1,
+    "collocation": 1
+  },
+  "topic_matrix": [
+    {
+      "number": 1,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "memo: expense reporting",
+      "difficulty": 3
+    },
+    {
+      "number": 2,
+      "group_order": 1,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "memo: expense reporting",
+      "difficulty": 5
+    },
+    {
+      "number": 3,
+      "group_order": 1,
+      "part": 6,
+      "category": "connector",
+      "context": "memo: expense reporting",
+      "difficulty": 4
+    },
+    {
+      "number": 4,
+      "group_order": 1,
+      "part": 6,
+      "category": "word-form",
+      "context": "memo: expense reporting",
+      "difficulty": 3
+    },
+    {
+      "number": 5,
+      "group_order": 2,
+      "part": 6,
+      "category": "connector",
+      "context": "notice: manufacturing shift change",
+      "difficulty": 3
+    },
+    {
+      "number": 6,
+      "group_order": 2,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "notice: manufacturing shift change",
+      "difficulty": 4
+    },
+    {
+      "number": 7,
+      "group_order": 2,
+      "part": 6,
+      "category": "verb-form",
+      "context": "notice: manufacturing shift change",
+      "difficulty": 3
+    },
+    {
+      "number": 8,
+      "group_order": 2,
+      "part": 6,
+      "category": "preposition",
+      "context": "notice: manufacturing shift change",
+      "difficulty": 3
+    },
+    {
+      "number": 9,
+      "group_order": 3,
+      "part": 6,
+      "category": "comparison",
+      "context": "article: electric cargo delivery",
+      "difficulty": 4
+    },
+    {
+      "number": 10,
+      "group_order": 3,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "article: electric cargo delivery",
+      "difficulty": 5
+    },
+    {
+      "number": 11,
+      "group_order": 3,
+      "part": 6,
+      "category": "word-form",
+      "context": "article: electric cargo delivery",
+      "difficulty": 4
+    },
+    {
+      "number": 12,
+      "group_order": 3,
+      "part": 6,
+      "category": "indirect-question",
+      "context": "article: electric cargo delivery",
+      "difficulty": 4
+    },
+    {
+      "number": 13,
+      "group_order": 4,
+      "part": 6,
+      "category": "preposition",
+      "context": "letter: museum household membership",
+      "difficulty": 3
+    },
+    {
+      "number": 14,
+      "group_order": 4,
+      "part": 6,
+      "category": "sentence-insertion",
+      "context": "letter: museum household membership",
+      "difficulty": 4
+    },
+    {
+      "number": 15,
+      "group_order": 4,
+      "part": 6,
+      "category": "collocation",
+      "context": "letter: museum household membership",
+      "difficulty": 3
+    },
+    {
+      "number": 16,
+      "group_order": 4,
+      "part": 6,
+      "category": "preposition",
+      "context": "letter: museum household membership",
+      "difficulty": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 4,
+      "B": 4,
+      "C": 4,
+      "D": 4
+    },
+    "sequence": [
+      "C",
+      "D",
+      "A",
+      "B",
+      "D",
+      "A",
+      "B",
+      "C",
+      "A",
+      "B",
+      "C",
+      "D",
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Chỉ cung cấp câu dẫn, đoạn văn tiếng Anh và các phương án cho người giải độc lập. Giữ riêng đáp án, giải thích, bản dịch và file đặc tả."
+  }
+}

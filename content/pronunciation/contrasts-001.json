@@ -1,0 +1,1373 @@
+[
+  {
+    "slug": "contrast-p-b",
+    "symbol": "p ~ b",
+    "kind": "consonant",
+    "title": "Đối chiếu /p/ và /b/",
+    "description_md": "Cả hai âm đều được tạo bằng hai môi. /p/ không rung dây thanh, còn /b/ có rung dây thanh. Tập trung giữ nguyên nguyên âm và âm cuối khi đổi phụ âm đầu.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "pan",
+        "ipa": "/pæn/",
+        "source": "original"
+      },
+      {
+        "word": "ban",
+        "ipa": "/bæn/",
+        "source": "original"
+      },
+      {
+        "word": "pack",
+        "ipa": "/pæk/",
+        "source": "original"
+      },
+      {
+        "word": "back",
+        "ipa": "/bæk/",
+        "source": "original"
+      },
+      {
+        "word": "peak",
+        "ipa": "/piːk/",
+        "source": "original"
+      },
+      {
+        "word": "beak",
+        "ipa": "/biːk/",
+        "source": "original"
+      },
+      {
+        "word": "peach",
+        "ipa": "/piːtʃ/",
+        "source": "original"
+      },
+      {
+        "word": "beach",
+        "ipa": "/biːtʃ/",
+        "source": "original"
+      },
+      {
+        "word": "park",
+        "ipa": "/pɑːk/",
+        "source": "original"
+      },
+      {
+        "word": "bark",
+        "ipa": "/bɑːk/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "pan",
+        "b": "ban",
+        "ipa_a": "/pæn/",
+        "ipa_b": "/bæn/",
+        "source": "original"
+      },
+      {
+        "a": "pack",
+        "b": "back",
+        "ipa_a": "/pæk/",
+        "ipa_b": "/bæk/",
+        "source": "original"
+      },
+      {
+        "a": "peak",
+        "b": "beak",
+        "ipa_a": "/piːk/",
+        "ipa_b": "/biːk/",
+        "source": "original"
+      },
+      {
+        "a": "peach",
+        "b": "beach",
+        "ipa_a": "/piːtʃ/",
+        "ipa_b": "/biːtʃ/",
+        "source": "original"
+      },
+      {
+        "a": "park",
+        "b": "bark",
+        "ipa_a": "/pɑːk/",
+        "ipa_b": "/bɑːk/",
+        "source": "original"
+      },
+      {
+        "a": "pit",
+        "b": "bit",
+        "ipa_a": "/pɪt/",
+        "ipa_b": "/bɪt/",
+        "source": "original"
+      },
+      {
+        "a": "pie",
+        "b": "buy",
+        "ipa_a": "/paɪ/",
+        "ipa_b": "/baɪ/",
+        "source": "original"
+      },
+      {
+        "a": "pain",
+        "b": "bane",
+        "ipa_a": "/peɪn/",
+        "ipa_b": "/beɪn/",
+        "source": "original"
+      },
+      {
+        "a": "pace",
+        "b": "base",
+        "ipa_a": "/peɪs/",
+        "ipa_b": "/beɪs/",
+        "source": "original"
+      },
+      {
+        "a": "pole",
+        "b": "bowl",
+        "ipa_a": "/pəʊl/",
+        "ipa_b": "/bəʊl/",
+        "source": "original"
+      },
+      {
+        "a": "peg",
+        "b": "beg",
+        "ipa_a": "/peɡ/",
+        "ipa_b": "/beɡ/",
+        "source": "original"
+      },
+      {
+        "a": "pull",
+        "b": "bull",
+        "ipa_a": "/pʊl/",
+        "ipa_b": "/bʊl/",
+        "source": "original"
+      },
+      {
+        "a": "pail",
+        "b": "bale",
+        "ipa_a": "/peɪl/",
+        "ipa_b": "/beɪl/",
+        "source": "original"
+      },
+      {
+        "a": "puck",
+        "b": "buck",
+        "ipa_a": "/pʌk/",
+        "ipa_b": "/bʌk/",
+        "source": "original"
+      },
+      {
+        "a": "port",
+        "b": "bought",
+        "ipa_a": "/pɔːt/",
+        "ipa_b": "/bɔːt/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "Please put the pan back on the stove.",
+        "vi": "Hãy đặt chiếc chảo trở lại bếp.",
+        "source": "original"
+      },
+      {
+        "en": "We sat on the beach near the peach stand.",
+        "vi": "Chúng tôi ngồi trên bãi biển gần quầy bán đào.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 201,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-t-d",
+    "symbol": "t ~ d",
+    "kind": "consonant",
+    "title": "Đối chiếu /t/ và /d/",
+    "description_md": "Đầu lưỡi chạm lợi trên khi tạo /t/ và /d/. /t/ vô thanh, /d/ hữu thanh. Khi luyện, giữ nguyên phần còn lại của từ để nghe rõ sự khác biệt.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "tip",
+        "ipa": "/tɪp/",
+        "source": "original"
+      },
+      {
+        "word": "dip",
+        "ipa": "/dɪp/",
+        "source": "original"
+      },
+      {
+        "word": "team",
+        "ipa": "/tiːm/",
+        "source": "original"
+      },
+      {
+        "word": "deem",
+        "ipa": "/diːm/",
+        "source": "original"
+      },
+      {
+        "word": "tame",
+        "ipa": "/teɪm/",
+        "source": "original"
+      },
+      {
+        "word": "dame",
+        "ipa": "/deɪm/",
+        "source": "original"
+      },
+      {
+        "word": "tuck",
+        "ipa": "/tʌk/",
+        "source": "original"
+      },
+      {
+        "word": "duck",
+        "ipa": "/dʌk/",
+        "source": "original"
+      },
+      {
+        "word": "tank",
+        "ipa": "/tæŋk/",
+        "source": "original"
+      },
+      {
+        "word": "dank",
+        "ipa": "/dæŋk/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "tip",
+        "b": "dip",
+        "ipa_a": "/tɪp/",
+        "ipa_b": "/dɪp/",
+        "source": "original"
+      },
+      {
+        "a": "team",
+        "b": "deem",
+        "ipa_a": "/tiːm/",
+        "ipa_b": "/diːm/",
+        "source": "original"
+      },
+      {
+        "a": "tame",
+        "b": "dame",
+        "ipa_a": "/teɪm/",
+        "ipa_b": "/deɪm/",
+        "source": "original"
+      },
+      {
+        "a": "tuck",
+        "b": "duck",
+        "ipa_a": "/tʌk/",
+        "ipa_b": "/dʌk/",
+        "source": "original"
+      },
+      {
+        "a": "tank",
+        "b": "dank",
+        "ipa_a": "/tæŋk/",
+        "ipa_b": "/dæŋk/",
+        "source": "original"
+      },
+      {
+        "a": "tear",
+        "b": "dear",
+        "ipa_a": "/tɪə/",
+        "ipa_b": "/dɪə/",
+        "source": "original"
+      },
+      {
+        "a": "try",
+        "b": "dry",
+        "ipa_a": "/traɪ/",
+        "ipa_b": "/draɪ/",
+        "source": "original"
+      },
+      {
+        "a": "trunk",
+        "b": "drunk",
+        "ipa_a": "/trʌŋk/",
+        "ipa_b": "/drʌŋk/",
+        "source": "original"
+      },
+      {
+        "a": "tub",
+        "b": "dub",
+        "ipa_a": "/tʌb/",
+        "ipa_b": "/dʌb/",
+        "source": "original"
+      },
+      {
+        "a": "teen",
+        "b": "dean",
+        "ipa_a": "/tiːn/",
+        "ipa_b": "/diːn/",
+        "source": "original"
+      },
+      {
+        "a": "tune",
+        "b": "dune",
+        "ipa_a": "/tjuːn/",
+        "ipa_b": "/djuːn/",
+        "source": "original"
+      },
+      {
+        "a": "time",
+        "b": "dime",
+        "ipa_a": "/taɪm/",
+        "ipa_b": "/daɪm/",
+        "source": "original"
+      },
+      {
+        "a": "toe",
+        "b": "doe",
+        "ipa_a": "/təʊ/",
+        "ipa_b": "/dəʊ/",
+        "source": "original"
+      },
+      {
+        "a": "tangle",
+        "b": "dangle",
+        "ipa_a": "/ˈtæŋɡəl/",
+        "ipa_b": "/ˈdæŋɡəl/",
+        "source": "original"
+      },
+      {
+        "a": "tock",
+        "b": "dock",
+        "ipa_a": "/tɒk/",
+        "ipa_b": "/dɒk/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "The team tried to keep the documents dry.",
+        "vi": "Cả nhóm cố giữ tài liệu khô ráo.",
+        "source": "original"
+      },
+      {
+        "en": "A duck stood beside the empty tub.",
+        "vi": "Một con vịt đứng cạnh chiếc chậu trống.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 202,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-k-g",
+    "symbol": "k ~ ɡ",
+    "kind": "consonant",
+    "title": "Đối chiếu /k/ và /ɡ/",
+    "description_md": "Nâng phần sau của lưỡi chạm ngạc mềm. /k/ vô thanh và /ɡ/ hữu thanh. Chú ý không thêm âm đệm vào trước hoặc sau phụ âm.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "kill",
+        "ipa": "/kɪl/",
+        "source": "original"
+      },
+      {
+        "word": "gill",
+        "ipa": "/ɡɪl/",
+        "source": "original"
+      },
+      {
+        "word": "cap",
+        "ipa": "/kæp/",
+        "source": "original"
+      },
+      {
+        "word": "gap",
+        "ipa": "/ɡæp/",
+        "source": "original"
+      },
+      {
+        "word": "cash",
+        "ipa": "/kæʃ/",
+        "source": "original"
+      },
+      {
+        "word": "gash",
+        "ipa": "/ɡæʃ/",
+        "source": "original"
+      },
+      {
+        "word": "kit",
+        "ipa": "/kɪt/",
+        "source": "original"
+      },
+      {
+        "word": "git",
+        "ipa": "/ɡɪt/",
+        "source": "original"
+      },
+      {
+        "word": "cot",
+        "ipa": "/kɒt/",
+        "source": "original"
+      },
+      {
+        "word": "got",
+        "ipa": "/ɡɒt/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "kill",
+        "b": "gill",
+        "ipa_a": "/kɪl/",
+        "ipa_b": "/ɡɪl/",
+        "source": "original"
+      },
+      {
+        "a": "cap",
+        "b": "gap",
+        "ipa_a": "/kæp/",
+        "ipa_b": "/ɡæp/",
+        "source": "original"
+      },
+      {
+        "a": "cash",
+        "b": "gash",
+        "ipa_a": "/kæʃ/",
+        "ipa_b": "/ɡæʃ/",
+        "source": "original"
+      },
+      {
+        "a": "kit",
+        "b": "git",
+        "ipa_a": "/kɪt/",
+        "ipa_b": "/ɡɪt/",
+        "source": "original"
+      },
+      {
+        "a": "cot",
+        "b": "got",
+        "ipa_a": "/kɒt/",
+        "ipa_b": "/ɡɒt/",
+        "source": "original"
+      },
+      {
+        "a": "card",
+        "b": "guard",
+        "ipa_a": "/kɑːd/",
+        "ipa_b": "/ɡɑːd/",
+        "source": "original"
+      },
+      {
+        "a": "class",
+        "b": "glass",
+        "ipa_a": "/klɑːs/",
+        "ipa_b": "/ɡlɑːs/",
+        "source": "original"
+      },
+      {
+        "a": "clue",
+        "b": "glue",
+        "ipa_a": "/kluː/",
+        "ipa_b": "/ɡluː/",
+        "source": "original"
+      },
+      {
+        "a": "crane",
+        "b": "grain",
+        "ipa_a": "/kreɪn/",
+        "ipa_b": "/ɡreɪn/",
+        "source": "original"
+      },
+      {
+        "a": "creek",
+        "b": "Greek",
+        "ipa_a": "/kriːk/",
+        "ipa_b": "/ɡriːk/",
+        "source": "original"
+      },
+      {
+        "a": "call",
+        "b": "gall",
+        "ipa_a": "/kɔːl/",
+        "ipa_b": "/ɡɔːl/",
+        "source": "original"
+      },
+      {
+        "a": "cage",
+        "b": "gauge",
+        "ipa_a": "/keɪdʒ/",
+        "ipa_b": "/ɡeɪdʒ/",
+        "source": "original"
+      },
+      {
+        "a": "crab",
+        "b": "grab",
+        "ipa_a": "/kræb/",
+        "ipa_b": "/ɡræb/",
+        "source": "original"
+      },
+      {
+        "a": "cool",
+        "b": "ghoul",
+        "ipa_a": "/kuːl/",
+        "ipa_b": "/ɡuːl/",
+        "source": "original"
+      },
+      {
+        "a": "coal",
+        "b": "goal",
+        "ipa_a": "/kəʊl/",
+        "ipa_b": "/ɡəʊl/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "Keep the glass away from the edge.",
+        "vi": "Hãy để chiếc cốc thủy tinh xa mép bàn.",
+        "source": "original"
+      },
+      {
+        "en": "The guard found a clue near the gate.",
+        "vi": "Người bảo vệ tìm được một manh mối gần cổng.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 203,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-f-v",
+    "symbol": "f ~ v",
+    "kind": "consonant",
+    "title": "Đối chiếu /f/ và /v/",
+    "description_md": "Răng trên chạm nhẹ môi dưới ở cả hai âm. /f/ thổi hơi không rung dây thanh, còn /v/ có rung. Đối chiếu âm ở đầu từ, giữ nguyên âm sau.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "fat",
+        "ipa": "/fæt/",
+        "source": "original"
+      },
+      {
+        "word": "vat",
+        "ipa": "/væt/",
+        "source": "original"
+      },
+      {
+        "word": "fast",
+        "ipa": "/fɑːst/",
+        "source": "original"
+      },
+      {
+        "word": "vast",
+        "ipa": "/vɑːst/",
+        "source": "original"
+      },
+      {
+        "word": "file",
+        "ipa": "/faɪl/",
+        "source": "original"
+      },
+      {
+        "word": "vile",
+        "ipa": "/vaɪl/",
+        "source": "original"
+      },
+      {
+        "word": "feel",
+        "ipa": "/fiːl/",
+        "source": "original"
+      },
+      {
+        "word": "veal",
+        "ipa": "/viːl/",
+        "source": "original"
+      },
+      {
+        "word": "fear",
+        "ipa": "/fɪə/",
+        "source": "original"
+      },
+      {
+        "word": "veer",
+        "ipa": "/vɪə/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "fat",
+        "b": "vat",
+        "ipa_a": "/fæt/",
+        "ipa_b": "/væt/",
+        "source": "original"
+      },
+      {
+        "a": "fast",
+        "b": "vast",
+        "ipa_a": "/fɑːst/",
+        "ipa_b": "/vɑːst/",
+        "source": "original"
+      },
+      {
+        "a": "file",
+        "b": "vile",
+        "ipa_a": "/faɪl/",
+        "ipa_b": "/vaɪl/",
+        "source": "original"
+      },
+      {
+        "a": "feel",
+        "b": "veal",
+        "ipa_a": "/fiːl/",
+        "ipa_b": "/viːl/",
+        "source": "original"
+      },
+      {
+        "a": "fear",
+        "b": "veer",
+        "ipa_a": "/fɪə/",
+        "ipa_b": "/vɪə/",
+        "source": "original"
+      },
+      {
+        "a": "fail",
+        "b": "veil",
+        "ipa_a": "/feɪl/",
+        "ipa_b": "/veɪl/",
+        "source": "original"
+      },
+      {
+        "a": "few",
+        "b": "view",
+        "ipa_a": "/fjuː/",
+        "ipa_b": "/vjuː/",
+        "source": "original"
+      },
+      {
+        "a": "fault",
+        "b": "vault",
+        "ipa_a": "/fɔːlt/",
+        "ipa_b": "/vɔːlt/",
+        "source": "original"
+      },
+      {
+        "a": "foal",
+        "b": "vole",
+        "ipa_a": "/fəʊl/",
+        "ipa_b": "/vəʊl/",
+        "source": "original"
+      },
+      {
+        "a": "fetch",
+        "b": "vetch",
+        "ipa_a": "/fetʃ/",
+        "ipa_b": "/vetʃ/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "The file contains a view of the valley.",
+        "vi": "Tệp có một bức ảnh toàn cảnh thung lũng.",
+        "source": "original"
+      },
+      {
+        "en": "A few volunteers found the fault.",
+        "vi": "Một vài tình nguyện viên đã phát hiện lỗi.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 204,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-s-z",
+    "symbol": "s ~ z",
+    "kind": "consonant",
+    "title": "Đối chiếu /s/ và /z/",
+    "description_md": "Hai âm xát ở lợi có vị trí lưỡi gần giống nhau. /s/ không rung dây thanh và /z/ có rung. Lắng nghe khác biệt cả ở đầu và cuối từ.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "sue",
+        "ipa": "/suː/",
+        "source": "original"
+      },
+      {
+        "word": "zoo",
+        "ipa": "/zuː/",
+        "source": "original"
+      },
+      {
+        "word": "sink",
+        "ipa": "/sɪŋk/",
+        "source": "original"
+      },
+      {
+        "word": "zinc",
+        "ipa": "/zɪŋk/",
+        "source": "original"
+      },
+      {
+        "word": "said",
+        "ipa": "/sed/",
+        "source": "original"
+      },
+      {
+        "word": "zed",
+        "ipa": "/zed/",
+        "source": "original"
+      },
+      {
+        "word": "face",
+        "ipa": "/feɪs/",
+        "source": "original"
+      },
+      {
+        "word": "phase",
+        "ipa": "/feɪz/",
+        "source": "original"
+      },
+      {
+        "word": "loose",
+        "ipa": "/luːs/",
+        "source": "original"
+      },
+      {
+        "word": "lose",
+        "ipa": "/luːz/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "sue",
+        "b": "zoo",
+        "ipa_a": "/suː/",
+        "ipa_b": "/zuː/",
+        "source": "original"
+      },
+      {
+        "a": "sink",
+        "b": "zinc",
+        "ipa_a": "/sɪŋk/",
+        "ipa_b": "/zɪŋk/",
+        "source": "original"
+      },
+      {
+        "a": "said",
+        "b": "zed",
+        "ipa_a": "/sed/",
+        "ipa_b": "/zed/",
+        "source": "original"
+      },
+      {
+        "a": "face",
+        "b": "phase",
+        "ipa_a": "/feɪs/",
+        "ipa_b": "/feɪz/",
+        "source": "original"
+      },
+      {
+        "a": "loose",
+        "b": "lose",
+        "ipa_a": "/luːs/",
+        "ipa_b": "/luːz/",
+        "source": "original"
+      },
+      {
+        "a": "place",
+        "b": "plays",
+        "ipa_a": "/pleɪs/",
+        "ipa_b": "/pleɪz/",
+        "source": "original"
+      },
+      {
+        "a": "race",
+        "b": "raise",
+        "ipa_a": "/reɪs/",
+        "ipa_b": "/reɪz/",
+        "source": "original"
+      },
+      {
+        "a": "ice",
+        "b": "eyes",
+        "ipa_a": "/aɪs/",
+        "ipa_b": "/aɪz/",
+        "source": "original"
+      },
+      {
+        "a": "pace",
+        "b": "pays",
+        "ipa_a": "/peɪs/",
+        "ipa_b": "/peɪz/",
+        "source": "original"
+      },
+      {
+        "a": "dose",
+        "b": "doze",
+        "ipa_a": "/dəʊs/",
+        "ipa_b": "/dəʊz/",
+        "source": "original"
+      },
+      {
+        "a": "peace",
+        "b": "peas",
+        "ipa_a": "/piːs/",
+        "ipa_b": "/piːz/",
+        "source": "original"
+      },
+      {
+        "a": "course",
+        "b": "cause",
+        "ipa_a": "/kɔːs/",
+        "ipa_b": "/kɔːz/",
+        "source": "original"
+      },
+      {
+        "a": "fuss",
+        "b": "fuzz",
+        "ipa_a": "/fʌs/",
+        "ipa_b": "/fʌz/",
+        "source": "original"
+      },
+      {
+        "a": "sauce",
+        "b": "saws",
+        "ipa_a": "/sɔːs/",
+        "ipa_b": "/sɔːz/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "Please raise the vase before I clean this place.",
+        "vi": "Hãy nhấc bình lên trước khi tôi lau chỗ này.",
+        "source": "original"
+      },
+      {
+        "en": "The peas are cooling beside the ice.",
+        "vi": "Đậu Hà Lan đang nguội dần bên cạnh đá lạnh.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 205,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-sh-ch",
+    "symbol": "ʃ ~ tʃ",
+    "kind": "consonant",
+    "title": "Đối chiếu /ʃ/ và /tʃ/",
+    "description_md": "/ʃ/ là âm xát kéo dài được, còn /tʃ/ bắt đầu bằng một khoảng chặn rồi bật ra thành âm xát. Hai âm có thể đổi nghĩa của từ ngay cả khi nguyên âm và âm cuối giống nhau.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "ship",
+        "ipa": "/ʃɪp/",
+        "source": "original"
+      },
+      {
+        "word": "chip",
+        "ipa": "/tʃɪp/",
+        "source": "original"
+      },
+      {
+        "word": "shore",
+        "ipa": "/ʃɔː/",
+        "source": "original"
+      },
+      {
+        "word": "chore",
+        "ipa": "/tʃɔː/",
+        "source": "original"
+      },
+      {
+        "word": "shin",
+        "ipa": "/ʃɪn/",
+        "source": "original"
+      },
+      {
+        "word": "chin",
+        "ipa": "/tʃɪn/",
+        "source": "original"
+      },
+      {
+        "word": "shill",
+        "ipa": "/ʃɪl/",
+        "source": "original"
+      },
+      {
+        "word": "chill",
+        "ipa": "/tʃɪl/",
+        "source": "original"
+      },
+      {
+        "word": "sheer",
+        "ipa": "/ʃɪə/",
+        "source": "original"
+      },
+      {
+        "word": "cheer",
+        "ipa": "/tʃɪə/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "ship",
+        "b": "chip",
+        "ipa_a": "/ʃɪp/",
+        "ipa_b": "/tʃɪp/",
+        "source": "original"
+      },
+      {
+        "a": "shore",
+        "b": "chore",
+        "ipa_a": "/ʃɔː/",
+        "ipa_b": "/tʃɔː/",
+        "source": "original"
+      },
+      {
+        "a": "shin",
+        "b": "chin",
+        "ipa_a": "/ʃɪn/",
+        "ipa_b": "/tʃɪn/",
+        "source": "original"
+      },
+      {
+        "a": "shill",
+        "b": "chill",
+        "ipa_a": "/ʃɪl/",
+        "ipa_b": "/tʃɪl/",
+        "source": "original"
+      },
+      {
+        "a": "sheer",
+        "b": "cheer",
+        "ipa_a": "/ʃɪə/",
+        "ipa_b": "/tʃɪə/",
+        "source": "original"
+      },
+      {
+        "a": "share",
+        "b": "chair",
+        "ipa_a": "/ʃeə/",
+        "ipa_b": "/tʃeə/",
+        "source": "original"
+      },
+      {
+        "a": "shoes",
+        "b": "choose",
+        "ipa_a": "/ʃuːz/",
+        "ipa_b": "/tʃuːz/",
+        "source": "original"
+      },
+      {
+        "a": "mash",
+        "b": "match",
+        "ipa_a": "/mæʃ/",
+        "ipa_b": "/mætʃ/",
+        "source": "original"
+      },
+      {
+        "a": "cash",
+        "b": "catch",
+        "ipa_a": "/kæʃ/",
+        "ipa_b": "/kætʃ/",
+        "source": "original"
+      },
+      {
+        "a": "wish",
+        "b": "witch",
+        "ipa_a": "/wɪʃ/",
+        "ipa_b": "/wɪtʃ/",
+        "source": "original"
+      },
+      {
+        "a": "bash",
+        "b": "batch",
+        "ipa_a": "/bæʃ/",
+        "ipa_b": "/bætʃ/",
+        "source": "original"
+      },
+      {
+        "a": "dish",
+        "b": "ditch",
+        "ipa_a": "/dɪʃ/",
+        "ipa_b": "/dɪtʃ/",
+        "source": "original"
+      },
+      {
+        "a": "leash",
+        "b": "leech",
+        "ipa_a": "/liːʃ/",
+        "ipa_b": "/liːtʃ/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "Choose a chair before the show begins.",
+        "vi": "Hãy chọn một chiếc ghế trước khi buổi diễn bắt đầu.",
+        "source": "original"
+      },
+      {
+        "en": "The ship carried a large batch of rice.",
+        "vi": "Con tàu chở một lô gạo lớn.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 206,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-m-n",
+    "symbol": "m ~ n",
+    "kind": "consonant",
+    "title": "Đối chiếu /m/ và /n/",
+    "description_md": "Cả /m/ và /n/ đều là âm mũi. /m/ dùng hai môi, /n/ dùng đầu lưỡi chạm lợi trên. Tập cặp từ bằng cách giữ nguyên âm và phần cuối.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "mat",
+        "ipa": "/mæt/",
+        "source": "original"
+      },
+      {
+        "word": "gnat",
+        "ipa": "/næt/",
+        "source": "original"
+      },
+      {
+        "word": "map",
+        "ipa": "/mæp/",
+        "source": "original"
+      },
+      {
+        "word": "nap",
+        "ipa": "/næp/",
+        "source": "original"
+      },
+      {
+        "word": "mail",
+        "ipa": "/meɪl/",
+        "source": "original"
+      },
+      {
+        "word": "nail",
+        "ipa": "/neɪl/",
+        "source": "original"
+      },
+      {
+        "word": "might",
+        "ipa": "/maɪt/",
+        "source": "original"
+      },
+      {
+        "word": "night",
+        "ipa": "/naɪt/",
+        "source": "original"
+      },
+      {
+        "word": "mill",
+        "ipa": "/mɪl/",
+        "source": "original"
+      },
+      {
+        "word": "nil",
+        "ipa": "/nɪl/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "mat",
+        "b": "gnat",
+        "ipa_a": "/mæt/",
+        "ipa_b": "/næt/",
+        "source": "original"
+      },
+      {
+        "a": "map",
+        "b": "nap",
+        "ipa_a": "/mæp/",
+        "ipa_b": "/næp/",
+        "source": "original"
+      },
+      {
+        "a": "mail",
+        "b": "nail",
+        "ipa_a": "/meɪl/",
+        "ipa_b": "/neɪl/",
+        "source": "original"
+      },
+      {
+        "a": "might",
+        "b": "night",
+        "ipa_a": "/maɪt/",
+        "ipa_b": "/naɪt/",
+        "source": "original"
+      },
+      {
+        "a": "mill",
+        "b": "nil",
+        "ipa_a": "/mɪl/",
+        "ipa_b": "/nɪl/",
+        "source": "original"
+      },
+      {
+        "a": "mole",
+        "b": "knoll",
+        "ipa_a": "/məʊl/",
+        "ipa_b": "/nəʊl/",
+        "source": "original"
+      },
+      {
+        "a": "moon",
+        "b": "noon",
+        "ipa_a": "/muːn/",
+        "ipa_b": "/nuːn/",
+        "source": "original"
+      },
+      {
+        "a": "mine",
+        "b": "nine",
+        "ipa_a": "/maɪn/",
+        "ipa_b": "/naɪn/",
+        "source": "original"
+      },
+      {
+        "a": "more",
+        "b": "gnaw",
+        "ipa_a": "/mɔː/",
+        "ipa_b": "/nɔː/",
+        "source": "original"
+      },
+      {
+        "a": "met",
+        "b": "net",
+        "ipa_a": "/met/",
+        "ipa_b": "/net/",
+        "source": "original"
+      },
+      {
+        "a": "meat",
+        "b": "neat",
+        "ipa_a": "/miːt/",
+        "ipa_b": "/niːt/",
+        "source": "original"
+      },
+      {
+        "a": "mice",
+        "b": "nice",
+        "ipa_a": "/maɪs/",
+        "ipa_b": "/naɪs/",
+        "source": "original"
+      },
+      {
+        "a": "moan",
+        "b": "known",
+        "ipa_a": "/məʊn/",
+        "ipa_b": "/nəʊn/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "The moon was bright at nine.",
+        "vi": "Trăng sáng vào lúc chín giờ.",
+        "source": "original"
+      },
+      {
+        "en": "I found a map beside the fishing net.",
+        "vi": "Tôi tìm thấy một tấm bản đồ bên cạnh lưới đánh cá.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 207,
+    "source": "original"
+  },
+  {
+    "slug": "contrast-l-r",
+    "symbol": "l ~ r",
+    "kind": "consonant",
+    "title": "Đối chiếu /l/ và /r/",
+    "description_md": "Với /l/, đầu lưỡi chạm lợi trên và luồng hơi đi dọc hai bên lưỡi. Với /r/ Anh-Anh, đầu lưỡi không chạm lợi; môi có thể hơi tròn. Tập trung vào âm đầu.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "lane",
+        "ipa": "/leɪn/",
+        "source": "original"
+      },
+      {
+        "word": "rain",
+        "ipa": "/reɪn/",
+        "source": "original"
+      },
+      {
+        "word": "lice",
+        "ipa": "/laɪs/",
+        "source": "original"
+      },
+      {
+        "word": "rice",
+        "ipa": "/raɪs/",
+        "source": "original"
+      },
+      {
+        "word": "lake",
+        "ipa": "/leɪk/",
+        "source": "original"
+      },
+      {
+        "word": "rake",
+        "ipa": "/reɪk/",
+        "source": "original"
+      },
+      {
+        "word": "load",
+        "ipa": "/ləʊd/",
+        "source": "original"
+      },
+      {
+        "word": "road",
+        "ipa": "/rəʊd/",
+        "source": "original"
+      },
+      {
+        "word": "low",
+        "ipa": "/ləʊ/",
+        "source": "original"
+      },
+      {
+        "word": "row",
+        "ipa": "/rəʊ/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [
+      {
+        "a": "lane",
+        "b": "rain",
+        "ipa_a": "/leɪn/",
+        "ipa_b": "/reɪn/",
+        "source": "original"
+      },
+      {
+        "a": "lice",
+        "b": "rice",
+        "ipa_a": "/laɪs/",
+        "ipa_b": "/raɪs/",
+        "source": "original"
+      },
+      {
+        "a": "lake",
+        "b": "rake",
+        "ipa_a": "/leɪk/",
+        "ipa_b": "/reɪk/",
+        "source": "original"
+      },
+      {
+        "a": "load",
+        "b": "road",
+        "ipa_a": "/ləʊd/",
+        "ipa_b": "/rəʊd/",
+        "source": "original"
+      },
+      {
+        "a": "low",
+        "b": "row",
+        "ipa_a": "/ləʊ/",
+        "ipa_b": "/rəʊ/",
+        "source": "original"
+      },
+      {
+        "a": "lace",
+        "b": "race",
+        "ipa_a": "/leɪs/",
+        "ipa_b": "/reɪs/",
+        "source": "original"
+      },
+      {
+        "a": "lend",
+        "b": "rend",
+        "ipa_a": "/lend/",
+        "ipa_b": "/rend/",
+        "source": "original"
+      },
+      {
+        "a": "lip",
+        "b": "rip",
+        "ipa_a": "/lɪp/",
+        "ipa_b": "/rɪp/",
+        "source": "original"
+      },
+      {
+        "a": "lash",
+        "b": "rash",
+        "ipa_a": "/læʃ/",
+        "ipa_b": "/ræʃ/",
+        "source": "original"
+      },
+      {
+        "a": "lamp",
+        "b": "ramp",
+        "ipa_a": "/læmp/",
+        "ipa_b": "/ræmp/",
+        "source": "original"
+      },
+      {
+        "a": "lime",
+        "b": "rhyme",
+        "ipa_a": "/laɪm/",
+        "ipa_b": "/raɪm/",
+        "source": "original"
+      },
+      {
+        "a": "late",
+        "b": "rate",
+        "ipa_a": "/leɪt/",
+        "ipa_b": "/reɪt/",
+        "source": "original"
+      },
+      {
+        "a": "lead",
+        "b": "read",
+        "ipa_a": "/liːd/",
+        "ipa_b": "/riːd/",
+        "source": "original"
+      },
+      {
+        "a": "loom",
+        "b": "room",
+        "ipa_a": "/luːm/",
+        "ipa_b": "/ruːm/",
+        "source": "original"
+      }
+    ],
+    "practice_sentences": [
+      {
+        "en": "The lamp stands at the end of the ramp.",
+        "vi": "Chiếc đèn nằm ở cuối đường dốc.",
+        "source": "original"
+      },
+      {
+        "en": "We drove along the road beside the lake.",
+        "vi": "Chúng tôi lái xe dọc con đường cạnh hồ.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 208,
+    "source": "original"
+  }
+]

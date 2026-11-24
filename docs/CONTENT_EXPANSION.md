@@ -42,7 +42,11 @@ npm run content:validate -- content/tests
 npm run seed -- --dry-run
 npm run seed -- sources
 npm run seed -- tests --only qe-p5-001
+npm run seed -- reading --strict --file content/reading/passages-009.json
 npm run content:qa
+npm run content:qa -- --db
 ```
 
 Các báo cáo validator nằm trong `content/_reports/`. Xem `docs/PROGRESS.md` để biết phần nào đã được kiểm chứng và phần nào còn thiếu.
+
+`--file` có thể lặp lại để chỉ nhập các tệp đã kiểm định. Khi chọn một tệp của đề được tách thành nhiều phần, seed sẽ nạp đầy đủ các phần của đề. Danh mục nguồn có thể chia thành nhiều tệp JSON trong `content/sources/`. Khi ghi kết quả giải độc lập vào Supabase, dùng `scripts/qa/sync-reviews.mjs --only <slug>` cho từng đề đã nạp.

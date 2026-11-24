@@ -1,0 +1,108 @@
+[
+  {
+    "slug": "listen-a2-bookstore-order-pickup",
+    "kind": "bilingual",
+    "title": "Picking Up a Book Order",
+    "level": "A2",
+    "topic": "Shopping",
+    "source": "original",
+    "sort_order": 158,
+    "audio_url": "https://xsfapzzjzndehmqnrmef.supabase.co/storage/v1/object/public/media/listening/listen-a2-bookstore-order-pickup.mp3",
+    "segments": [
+      {
+        "speaker": "W",
+        "en": "Hello. I need some help at the bookstore counter.",
+        "vi": "Chào anh. Tôi cần một chút giúp đỡ ở quầy hiệu sách."
+      },
+      {
+        "speaker": "M",
+        "en": "Of course. What can I help you with?",
+        "vi": "Tất nhiên. Tôi có thể giúp chị việc gì?"
+      },
+      {
+        "speaker": "W",
+        "en": "I am here to collect a book I ordered online.",
+        "vi": "Tôi đến lấy cuốn sách đã đặt trực tuyến."
+      },
+      {
+        "speaker": "M",
+        "en": "The order is ready under your phone number.",
+        "vi": "Đơn hàng đã sẵn sàng theo số điện thoại của bạn."
+      },
+      {
+        "speaker": "W",
+        "en": "My only problem is that I did not bring the confirmation email.",
+        "vi": "Vấn đề duy nhất của tôi là tôi không mang theo email xác nhận."
+      },
+      {
+        "speaker": "M",
+        "en": "Your phone number and photo ID are enough to collect it.",
+        "vi": "Số điện thoại và giấy tờ có ảnh là đủ để nhận sách."
+      },
+      {
+        "speaker": "W",
+        "en": "That solves it. Thank you for your help.",
+        "vi": "Như vậy là giải quyết được rồi. Cảm ơn anh đã giúp."
+      },
+      {
+        "speaker": "M",
+        "en": "You're welcome. Have a good day.",
+        "vi": "Không có gì. Chúc chị một ngày tốt lành."
+      }
+    ],
+    "audio_duration_seconds": 26
+  },
+  {
+    "slug": "listen-c1-digital-archive-authenticity",
+    "kind": "bilingual",
+    "title": "Preserving Authenticity in a Digital Archive",
+    "level": "C1",
+    "topic": "Archives",
+    "source": "original",
+    "sort_order": 225,
+    "audio_url": "https://xsfapzzjzndehmqnrmef.supabase.co/storage/v1/object/public/media/listening/listen-c1-digital-archive-authenticity.mp3",
+    "segments": [
+      {
+        "speaker": "W",
+        "en": "I'd like to examine a difficult choice involving the digital preservation committee.",
+        "vi": "Tôi muốn xem xét một lựa chọn khó liên quan đến ủy ban bảo tồn số."
+      },
+      {
+        "speaker": "M",
+        "en": "Let's start with the outcome we are trying to protect.",
+        "vi": "Hãy bắt đầu với kết quả mà chúng ta muốn bảo vệ."
+      },
+      {
+        "speaker": "W",
+        "en": "We need a policy for preserving born-digital records whose appearance depends on obsolete software and interactive features.",
+        "vi": "Chúng ta cần chính sách bảo tồn hồ sơ sinh ra ở dạng số có hình thức phụ thuộc vào phần mềm lỗi thời và tính năng tương tác."
+      },
+      {
+        "speaker": "M",
+        "en": "Migrating files preserves access, while emulation can retain behavior but is harder to maintain over time.",
+        "vi": "Chuyển đổi tệp giữ được khả năng truy cập, còn mô phỏng có thể giữ hành vi nhưng khó duy trì lâu dài hơn."
+      },
+      {
+        "speaker": "W",
+        "en": "The complication is that a single preservation method may protect one dimension of authenticity while sacrificing another.",
+        "vi": "Điểm phức tạp là một phương pháp bảo tồn duy nhất có thể bảo vệ một khía cạnh của tính xác thực nhưng hy sinh khía cạnh khác."
+      },
+      {
+        "speaker": "M",
+        "en": "Use layered preservation with original files, documented migrations, and emulation for records where interaction is historically significant.",
+        "vi": "Hãy dùng bảo tồn nhiều lớp gồm tệp gốc, chuyển đổi có tài liệu và mô phỏng cho hồ sơ mà tính tương tác có ý nghĩa lịch sử."
+      },
+      {
+        "speaker": "W",
+        "en": "That makes the trade-offs explicit. We should also record what evidence would justify revisiting the choice.",
+        "vi": "Như vậy các đánh đổi đã rõ. Chúng ta cũng nên ghi lại bằng chứng nào sẽ khiến quyết định cần được xem xét lại."
+      },
+      {
+        "speaker": "M",
+        "en": "Agreed. A defensible decision needs both a reasoned basis and a clear path for revision.",
+        "vi": "Đồng ý. Một quyết định có thể bảo vệ được cần cả cơ sở lập luận và con đường điều chỉnh rõ ràng."
+      }
+    ],
+    "audio_duration_seconds": 56
+  }
+]

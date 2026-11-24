@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p4-008",
+  "revision": "6ae2b641aa50de95308597d94416729adf54226ac60186e543430c99992c3640",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q15: C is the only supported option, but 'Remember' is an awkward response to a next-action question; ask which purchases do not qualify instead. Q18: B is the best answer, but its wording sounds like a staff task; 'Check in at first-floor reception' would better suit patients. Q24 and Q27 apply to the specific managers/customers described in the talk. Independently solved using only the blind transcript, questions, and options. Major assessment-quality concern: every answer position follows the same repeating A-B-C-D cycle, and generic off-topic distractors recur across groups and all six sets. The repeated broad purpose/detail/next-action stems also make answers easy to predict; shuffle positions and replace distractors with plausible passage-specific alternatives before publication.",
+  "admin_sample": [
+    10,
+    20
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

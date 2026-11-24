@@ -1,0 +1,1219 @@
+{
+  "slug": "qe-p7-002",
+  "title": "TOEIC Part 7 Practice 02 – Local Services and Logistics",
+  "collection": "QEnglishIT Original TOEIC Part Practice",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 25,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part7",
+    "reading",
+    "logistics",
+    "local-services"
+  ],
+  "sections": [
+    {
+      "key": "part7",
+      "title": "Part 7 – Reading Comprehension",
+      "parts": [
+        7
+      ],
+      "count": 30,
+      "minutes": 25
+    }
+  ],
+  "groups": [
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "West Quay Shuttle — Temporary Service Notice (28 October)\n\nBridge Lane will be closed for drainage repairs from 4 through 15 November. During this period, West Quay shuttles will travel along Hill Street instead, adding about twelve minutes to each journey. Shuttles leave the depot every thirty minutes from 7:00 a.m. until the final departure at 5:30 p.m. The stop outside West Quay Library will move to the north side of Market Square, a five-minute walk from the library. The stop at the medical clinic will remain in use. Passengers connecting to regional buses at Station Road should allow extra transfer time. Previously purchased weekly passes will be accepted on the temporary route. Normal service is expected to resume on 18 November.",
+      "passage_vi": "Xe buýt trung chuyển West Quay — Thông báo dịch vụ tạm thời (28 tháng 10)\n\nĐường Bridge Lane đóng để sửa hệ thống thoát nước từ ngày 4 đến hết ngày 15 tháng 11. Trong thời gian này, xe sẽ đi qua phố Hill Street, khiến mỗi chuyến kéo dài thêm khoảng mười hai phút. Xe khởi hành từ bến cứ ba mươi phút một lần, từ 7 giờ sáng đến chuyến cuối lúc 17 giờ 30. Điểm dừng ngoài thư viện West Quay được chuyển sang phía bắc quảng trường Market Square, cách thư viện năm phút đi bộ. Điểm dừng tại phòng khám vẫn hoạt động. Hành khách chuyển sang xe buýt liên vùng ở Station Road nên dự trù thêm thời gian. Vé tuần đã mua vẫn dùng được trên tuyến tạm thời. Dự kiến tuyến bình thường trở lại ngày 18 tháng 11.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the reason for the temporary shuttle route?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Drainage repairs on Bridge Lane"
+            },
+            {
+              "key": "B",
+              "text": "The opening of a new medical clinic"
+            },
+            {
+              "key": "C",
+              "text": "A shortage of shuttle drivers"
+            },
+            {
+              "key": "D",
+              "text": "A festival on Hill Street"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thông báo nêu Bridge Lane đóng để sửa hệ thống thoát nước, nên xe phải đi đường khác.",
+          "translation": "Vì sao xe buýt trung chuyển phải đổi tuyến tạm thời? Các lựa chọn: (A) Việc sửa hệ thống thoát nước ở Bridge Lane; (B) Một phòng khám mới khai trương; (C) Thiếu tài xế xe trung chuyển; (D) Một lễ hội trên phố Hill Street.",
+          "difficulty": 3,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Where should passengers now wait for the library stop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the clinic entrance"
+            },
+            {
+              "key": "B",
+              "text": "On the north side of Market Square"
+            },
+            {
+              "key": "C",
+              "text": "Inside the library lobby"
+            },
+            {
+              "key": "D",
+              "text": "At the depot on Hill Street"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Điểm dừng ngoài thư viện được chuyển sang phía bắc Market Square.",
+          "translation": "Giờ hành khách cần đợi ở đâu để lên xe tại điểm dừng thư viện? Các lựa chọn: (A) Ở cửa phòng khám; (B) Ở phía bắc quảng trường Market Square; (C) Trong sảnh thư viện; (D) Ở bến xe trên phố Hill Street.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which location will continue to be served at its usual stop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "West Quay Library"
+            },
+            {
+              "key": "B",
+              "text": "The north side of Market Square"
+            },
+            {
+              "key": "C",
+              "text": "The medical clinic"
+            },
+            {
+              "key": "D",
+              "text": "Station Road regional bus terminal"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Văn bản nói điểm dừng phòng khám vẫn hoạt động, trong khi điểm dừng thư viện được chuyển.",
+          "translation": "Địa điểm nào vẫn được phục vụ tại điểm dừng như cũ? Các lựa chọn: (A) Thư viện West Quay; (B) Phía bắc quảng trường Market Square; (C) Phòng khám; (D) Bến xe liên vùng Station Road.",
+          "difficulty": 3,
+          "tags": [
+            "comparison"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What advice is given to passengers transferring at Station Road?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Purchase a second weekly pass"
+            },
+            {
+              "key": "B",
+              "text": "Wait outside West Quay Library"
+            },
+            {
+              "key": "C",
+              "text": "Travel only after 5:30 p.m."
+            },
+            {
+              "key": "D",
+              "text": "Leave additional time between services"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đường vòng làm hành trình dài thêm khoảng mười hai phút, nên người nối chuyến cần dư thời gian.",
+          "translation": "Hành khách đổi xe ở Station Road được khuyên điều gì? Các lựa chọn: (A) Mua thêm một vé tuần; (B) Đợi ngoài thư viện West Quay; (C) Chỉ đi sau 17 giờ 30; (D) Dự phòng thêm thời gian giữa các chuyến.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Greenwood Museum — Printmaking Workshop Registration\n\nSaturday, 23 November, 10:00 a.m.–1:00 p.m., Education Studio 2. Local artist Reena Moss will demonstrate how to make a two-color print using reusable carving blocks. The $28 registration fee includes paper, ink, and protective aprons. Participants should bring a pencil and one simple sketch, but no cutting tools. The museum can accommodate sixteen participants, aged fourteen or older. Registration closes at 5:00 p.m. on 18 November or when the class is full. A full refund is available for cancellations received by 15 November. After that date, fees are nonrefundable unless the museum cancels the class. Participants will collect their finished prints from the studio the following Wednesday, once the ink is dry.",
+      "passage_vi": "Bảo tàng Greenwood — Đăng ký lớp in tranh\n\nThứ Bảy, ngày 23 tháng 11, từ 10 giờ đến 13 giờ, Phòng học 2. Họa sĩ địa phương Reena Moss sẽ hướng dẫn tạo bản in hai màu bằng khối khắc tái sử dụng. Phí đăng ký 28 đô la gồm giấy, mực và tạp dề bảo hộ. Người học cần mang bút chì cùng một bản phác thảo đơn giản, nhưng không mang dụng cụ cắt. Bảo tàng nhận tối đa mười sáu học viên từ mười bốn tuổi trở lên. Đăng ký đóng lúc 17 giờ ngày 18 tháng 11 hoặc khi đủ chỗ. Người hủy trước hoặc trong ngày 15 tháng 11 sẽ được hoàn tiền đầy đủ. Sau đó không hoàn phí, trừ khi bảo tàng hủy lớp. Học viên nhận bản in vào thứ Tư tiếp theo khi mực đã khô.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 5,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is included in the registration fee?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paper, ink, and protective aprons"
+            },
+            {
+              "key": "B",
+              "text": "A framed copy of each print"
+            },
+            {
+              "key": "C",
+              "text": "A pencil and a sketchbook"
+            },
+            {
+              "key": "D",
+              "text": "The artist's cutting tools to take home"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thông báo liệt kê giấy, mực và tạp dề trong phí 28 đô la.",
+          "translation": "Phí đăng ký đã bao gồm những gì? Các lựa chọn: (A) Giấy, mực và tạp dề bảo hộ; (B) Khung cho mỗi bản in; (C) Bút chì và sổ phác họa; (D) Dụng cụ cắt của họa sĩ để mang về.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should participants bring to the workshop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their own ink and printing paper"
+            },
+            {
+              "key": "B",
+              "text": "A pencil and a simple sketch"
+            },
+            {
+              "key": "C",
+              "text": "A set of sharp carving tools"
+            },
+            {
+              "key": "D",
+              "text": "A framed work for an exhibition"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Phần hướng dẫn yêu cầu bút chì và bản vẽ đơn giản, đồng thời dặn không mang dụng cụ cắt.",
+          "translation": "Học viên cần mang gì đến lớp? Các lựa chọn: (A) Mực và giấy in của riêng mình; (B) Bút chì và bản phác thảo đơn giản; (C) Một bộ dụng cụ khắc sắc; (D) Một tác phẩm đã đóng khung để triển lãm.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When can someone who cancels receive a full refund?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Any time before the workshop starts"
+            },
+            {
+              "key": "B",
+              "text": "Only on 18 November"
+            },
+            {
+              "key": "C",
+              "text": "No later than 15 November"
+            },
+            {
+              "key": "D",
+              "text": "After collecting the completed print"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Quy định hoàn tiền áp dụng với thông báo hủy nhận được muộn nhất ngày 15 tháng 11.",
+          "translation": "Hủy đăng ký vào thời điểm nào thì được hoàn toàn bộ tiền? Các lựa chọn: (A) Bất kỳ lúc nào trước khi lớp bắt đầu; (B) Chỉ trong ngày 18 tháng 11; (C) Không muộn hơn ngày 15 tháng 11; (D) Sau khi nhận bản in hoàn chỉnh.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why are finished prints collected on Wednesday instead of Saturday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The artist will travel on Saturday"
+            },
+            {
+              "key": "B",
+              "text": "The studio is closed until Wednesday"
+            },
+            {
+              "key": "C",
+              "text": "The museum must obtain new paper"
+            },
+            {
+              "key": "D",
+              "text": "The ink needs time to dry"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cuối thông báo cho biết bản in được giữ lại đến thứ Tư vì cần đợi mực khô.",
+          "translation": "Vì sao bản in được nhận vào thứ Tư thay vì thứ Bảy? Các lựa chọn: (A) Họa sĩ sẽ đi công tác vào thứ Bảy; (B) Phòng học đóng cửa đến thứ Tư; (C) Bảo tàng phải nhập giấy mới; (D) Mực cần thời gian khô.",
+          "difficulty": 3,
+          "tags": [
+            "cause"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Northpoint Coffee Equipment — Warranty Service Information\n\nCommercial espresso machines purchased directly from Northpoint are covered for twelve months against manufacturing defects. Customers requesting service must submit the machine's serial number, purchase receipt, and a short description of the fault through the service form. Northpoint will arrange free collection if its technician confirms that the problem is a covered defect. Problems caused by poor cleaning or incorrect water filters are excluded. Cafés with an active maintenance plan may request a temporary replacement machine, subject to availability. A café manager who reported an irregular steam-valve noise on 7 January has received a case number, NP-418, but a technician has not yet inspected the unit. The manager should keep the machine switched off until that inspection.",
+      "passage_vi": "Thiết bị cà phê Northpoint — Thông tin bảo hành\n\nMáy pha espresso thương mại mua trực tiếp từ Northpoint được bảo hành mười hai tháng đối với lỗi sản xuất. Người yêu cầu sửa chữa phải gửi số sê-ri, hóa đơn mua hàng và mô tả ngắn về lỗi qua biểu mẫu dịch vụ. Northpoint sẽ thu máy miễn phí nếu kỹ thuật viên xác nhận lỗi thuộc phạm vi bảo hành. Các vấn đề do vệ sinh kém hoặc bộ lọc nước không đúng loại bị loại trừ. Quán có gói bảo trì còn hiệu lực có thể xin máy thay thế tạm thời nếu còn hàng. Người quản lý một quán báo tiếng ồn bất thường ở van hơi ngày 7 tháng 1 đã được cấp mã NP-418, nhưng kỹ thuật viên chưa kiểm tra máy. Người quản lý cần tắt máy đến khi được kiểm tra.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 9,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which problem is explicitly excluded from warranty coverage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Damage caused by an incorrect water filter"
+            },
+            {
+              "key": "B",
+              "text": "A verified factory defect in the steam valve"
+            },
+            {
+              "key": "C",
+              "text": "A faulty part found during the first month"
+            },
+            {
+              "key": "D",
+              "text": "A covered defect on a directly purchased unit"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Văn bản loại trừ lỗi do bộ lọc nước không đúng loại và vệ sinh kém.",
+          "translation": "Sự cố nào được nêu rõ là không thuộc bảo hành? Các lựa chọn: (A) Hỏng hóc do dùng bộ lọc nước sai loại; (B) Lỗi sản xuất đã được xác nhận ở van hơi; (C) Linh kiện lỗi được phát hiện tháng đầu; (D) Lỗi được bảo hành trên máy mua trực tiếp.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What must a customer include in a service request?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A list of all beverages sold last month"
+            },
+            {
+              "key": "B",
+              "text": "The serial number, receipt, and fault description"
+            },
+            {
+              "key": "C",
+              "text": "The names of every café employee"
+            },
+            {
+              "key": "D",
+              "text": "A photograph of the café's entrance"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Biểu mẫu yêu cầu đủ số sê-ri, chứng từ mua và mô tả sự cố.",
+          "translation": "Khách hàng phải gửi những gì khi yêu cầu dịch vụ? Các lựa chọn: (A) Danh sách đồ uống bán tháng trước; (B) Số sê-ri, hóa đơn và mô tả lỗi; (C) Tên của tất cả nhân viên quán; (D) Ảnh chụp lối vào quán.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Under what condition is collection of the machine free?",
+          "options": [
+            {
+              "key": "A",
+              "text": "As soon as a case number is issued"
+            },
+            {
+              "key": "B",
+              "text": "Only when the café purchases another machine"
+            },
+            {
+              "key": "C",
+              "text": "After a technician confirms a covered defect"
+            },
+            {
+              "key": "D",
+              "text": "Whenever the café changes its water filter"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Northpoint chỉ sắp xếp thu máy miễn phí sau khi kỹ thuật viên xác nhận lỗi được bảo hành.",
+          "translation": "Khi nào việc thu máy được miễn phí? Các lựa chọn: (A) Ngay khi cấp mã hồ sơ; (B) Chỉ khi quán mua máy mới; (C) Sau khi kỹ thuật viên xác nhận lỗi thuộc bảo hành; (D) Bất cứ khi nào quán thay bộ lọc nước.",
+          "difficulty": 3,
+          "tags": [
+            "condition"
+          ],
+          "skill_tags": [
+            "condition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What should the café manager do while waiting for inspection?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Replace the steam valve without approval"
+            },
+            {
+              "key": "B",
+              "text": "Continue using the machine for quiet drinks"
+            },
+            {
+              "key": "C",
+              "text": "Return the machine without a receipt"
+            },
+            {
+              "key": "D",
+              "text": "Keep the machine turned off"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu cuối yêu cầu tắt máy đến khi kỹ thuật viên kiểm tra.",
+          "translation": "Người quản lý quán cần làm gì trong lúc đợi kiểm tra? Các lựa chọn: (A) Tự thay van hơi trước khi được duyệt; (B) Tiếp tục dùng máy pha các loại đồ uống ít ồn; (C) Gửi trả máy mà không có hóa đơn; (D) Tiếp tục để máy ở trạng thái tắt.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Creekside Community Cleanup — Volunteer Instructions\n\nThank you for registering for the Creekside cleanup on Saturday, 12 April. The morning shift runs from 8:30 to 11:30 and the afternoon shift from 1:00 to 4:00. All participants must check in at the pavilion ten minutes before their shift. Organizers will provide gloves, collection bags, and drinking water; please wear sturdy waterproof shoes. Volunteers under sixteen must be accompanied by an adult. Teams will collect litter from assigned sections and separate recyclable bottles from other waste at the pavilion. If heavy rain is forecast, the event organizer will send cancellation messages by 6:00 p.m. on Friday. Volunteers who can no longer attend should cancel through the registration portal so a waiting-list participant can take their place.",
+      "passage_vi": "Dọn vệ sinh cộng đồng Creekside — Hướng dẫn tình nguyện viên\n\nCảm ơn bạn đã đăng ký buổi dọn vệ sinh Creekside vào thứ Bảy ngày 12 tháng 4. Ca sáng từ 8 giờ 30 đến 11 giờ 30, ca chiều từ 13 giờ đến 16 giờ. Mọi người phải có mặt làm thủ tục tại nhà chòi trước ca mười phút. Ban tổ chức phát găng tay, túi thu gom và nước uống; hãy đi giày chắc chắn chống nước. Người dưới mười sáu tuổi cần có người lớn đi cùng. Các nhóm sẽ nhặt rác tại khu vực được phân công và phân loại chai tái chế tại nhà chòi. Nếu dự báo mưa lớn, ban tổ chức sẽ gửi tin hủy trước 18 giờ thứ Sáu. Người không thể tham dự cần hủy qua cổng đăng ký để nhường chỗ cho người trong danh sách chờ.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When must volunteers on the morning shift check in?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By 8:20 a.m."
+            },
+            {
+              "key": "B",
+              "text": "At 8:30 a.m."
+            },
+            {
+              "key": "C",
+              "text": "At 11:20 a.m."
+            },
+            {
+              "key": "D",
+              "text": "By 1:00 p.m."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Ca sáng bắt đầu 8 giờ 30, người tham gia phải có mặt trước mười phút tức 8 giờ 20.",
+          "translation": "Tình nguyện viên ca sáng phải làm thủ tục lúc nào? Các lựa chọn: (A) Trước hoặc đúng 8 giờ 20; (B) Đúng 8 giờ 30; (C) Lúc 11 giờ 20; (D) Trước hoặc đúng 13 giờ.",
+          "difficulty": 3,
+          "tags": [
+            "calculation"
+          ],
+          "skill_tags": [
+            "calculation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which item should volunteers supply themselves?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Collection bags"
+            },
+            {
+              "key": "B",
+              "text": "Waterproof shoes"
+            },
+            {
+              "key": "C",
+              "text": "Drinking water"
+            },
+            {
+              "key": "D",
+              "text": "Protective gloves"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ban tổ chức cấp túi, nước, găng, còn người tham gia được yêu cầu mang giày chống nước.",
+          "translation": "Tình nguyện viên cần tự chuẩn bị vật dụng nào? Các lựa chọn: (A) Túi thu gom; (B) Giày chống nước; (C) Nước uống; (D) Găng tay bảo hộ.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What happens if heavy rain is expected?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The cleanup automatically moves to Sunday"
+            },
+            {
+              "key": "B",
+              "text": "Only the afternoon shift is canceled"
+            },
+            {
+              "key": "C",
+              "text": "Cancellation messages are sent by Friday evening"
+            },
+            {
+              "key": "D",
+              "text": "Volunteers must bring their own rain shelters"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Văn bản quy định tin nhắn hủy được gửi trước 18 giờ ngày thứ Sáu khi dự báo mưa lớn.",
+          "translation": "Điều gì xảy ra nếu dự báo có mưa lớn? Các lựa chọn: (A) Buổi dọn vệ sinh tự chuyển sang Chủ nhật; (B) Chỉ ca chiều bị hủy; (C) Thông báo hủy được gửi trước tối thứ Sáu; (D) Tình nguyện viên phải tự mang mái che.",
+          "difficulty": 3,
+          "tags": [
+            "conditional-detail"
+          ],
+          "skill_tags": [
+            "conditional-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why should volunteers cancel through the portal if they cannot attend?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To receive a refund for the gloves"
+            },
+            {
+              "key": "B",
+              "text": "To reserve a pavilion for next month"
+            },
+            {
+              "key": "C",
+              "text": "To avoid having to sort recyclable bottles"
+            },
+            {
+              "key": "D",
+              "text": "To free a place for someone on the waiting list"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Việc hủy qua cổng đăng ký tạo suất cho người đang đợi được tham gia.",
+          "translation": "Vì sao người không thể dự cần hủy qua cổng đăng ký? Các lựa chọn: (A) Để nhận lại tiền găng tay; (B) Để đặt nhà chòi tháng sau; (C) Để khỏi phải phân loại chai tái chế; (D) Để nhường chỗ cho người trong danh sách chờ.",
+          "difficulty": 3,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Mobile Health Clinic — Appointment Notice\n\nThe Riverside mobile clinic will park outside the North Community Center on Tuesday, 21 May. Routine blood-pressure checks are available without an appointment from 9:00 to 11:00 a.m. Vaccination appointments are scheduled from noon to 3:00 p.m. and must be booked by telephone no later than Monday at 2:00 p.m. Patients attending a vaccination appointment should bring their appointment confirmation and any relevant vaccination record. The clinic cannot store personal belongings during visits. Those who need wheelchair access should tell the receptionist when booking, so staff can prepare the portable ramp.",
+      "passage_vi": "Phòng khám lưu động Riverside — Thông báo lịch hẹn\n\nPhòng khám lưu động Riverside đỗ bên ngoài Trung tâm Cộng đồng North vào thứ Ba ngày 21 tháng 5. Đo huyết áp thông thường không cần hẹn từ 9 đến 11 giờ. Các cuộc hẹn tiêm chủng diễn ra từ 12 đến 15 giờ và phải đặt qua điện thoại chậm nhất 14 giờ thứ Hai. Người đến tiêm cần mang giấy xác nhận hẹn và hồ sơ tiêm chủng liên quan. Phòng khám không giữ đồ cá nhân. Người cần lối đi cho xe lăn nên báo nhân viên lễ tân khi đặt hẹn để chuẩn bị đường dốc di động.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 17,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which service can visitors use without booking in advance?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Routine blood-pressure checks"
+            },
+            {
+              "key": "B",
+              "text": "Vaccination appointments"
+            },
+            {
+              "key": "C",
+              "text": "Storage of personal items"
+            },
+            {
+              "key": "D",
+              "text": "A reserved wheelchair service"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Thông báo nêu đo huyết áp từ 9 đến 11 giờ không cần hẹn.",
+          "translation": "Dịch vụ nào khách có thể sử dụng mà không cần đặt trước? Các lựa chọn: (A) Đo huyết áp thông thường; (B) Lịch hẹn tiêm chủng; (C) Gửi giữ đồ dùng cá nhân; (D) Dịch vụ xe lăn đặt riêng.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the deadline for booking a vaccination appointment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "9:00 a.m. on Tuesday"
+            },
+            {
+              "key": "B",
+              "text": "Noon on Tuesday"
+            },
+            {
+              "key": "C",
+              "text": "2:00 p.m. on Monday"
+            },
+            {
+              "key": "D",
+              "text": "3:00 p.m. on Tuesday"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lịch tiêm phải đăng ký qua điện thoại chậm nhất 14 giờ thứ Hai.",
+          "translation": "Hạn cuối đặt lịch tiêm chủng là lúc nào? Các lựa chọn: (A) 9 giờ thứ Ba; (B) 12 giờ thứ Ba; (C) 14 giờ thứ Hai; (D) 15 giờ thứ Ba.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why should a patient mention wheelchair access while booking?",
+          "options": [
+            {
+              "key": "A",
+              "text": "So extra belongings can be stored"
+            },
+            {
+              "key": "B",
+              "text": "So blood-pressure checks can be skipped"
+            },
+            {
+              "key": "C",
+              "text": "So the clinic can change its parking location"
+            },
+            {
+              "key": "D",
+              "text": "So a portable ramp can be prepared"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nhân viên cần được báo trước để chuẩn bị đường dốc di động.",
+          "translation": "Vì sao bệnh nhân cần báo nhu cầu dùng xe lăn khi đặt lịch? Các lựa chọn: (A) Để có thêm chỗ gửi đồ; (B) Để bỏ qua bước đo huyết áp; (C) Để phòng khám đổi vị trí đỗ xe; (D) Để nhân viên chuẩn bị đường dốc di động.",
+          "difficulty": 3,
+          "tags": [
+            "purpose"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the passage and choose the best answer.",
+      "passage": "Brookfield Bakery — Flour Delivery Update\n\nPurchase order BF-62 covers twenty 25-kilogram bags of bread flour for the town-center bakery and twelve bags for its lakeside branch. The supplier has confirmed that twenty-eight bags will arrive on Thursday morning, with the remaining four bags available on Friday after 2:00 p.m. The town-center bakery needs all twenty bags for Friday's early production, so its allocation will be delivered first on Thursday. The lakeside branch will receive eight bags on Thursday and four on Friday. Both deliveries will use the same invoice number. The supplier asks managers to report any damaged bags within twenty-four hours of receipt so replacements can be arranged.",
+      "passage_vi": "Tiệm bánh Brookfield — Cập nhật giao bột mì\n\nĐơn BF-62 gồm hai mươi bao bột bánh mì loại 25 kg cho tiệm trung tâm và mười hai bao cho chi nhánh bên hồ. Nhà cung cấp xác nhận hai mươi tám bao đến sáng thứ Năm, còn bốn bao đến sau 14 giờ thứ Sáu. Tiệm trung tâm cần đủ hai mươi bao cho ca sản xuất sớm ngày thứ Sáu nên sẽ được ưu tiên giao đủ trong ngày thứ Năm. Chi nhánh bên hồ nhận tám bao thứ Năm và bốn bao thứ Sáu. Cả hai lần giao dùng chung số hóa đơn. Nhà cung cấp yêu cầu quản lý báo bao bị hỏng trong vòng hai mươi bốn giờ sau khi nhận để sắp xếp đổi hàng.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 20,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "How many bags will the lakeside branch receive on Thursday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eight bags"
+            },
+            {
+              "key": "B",
+              "text": "Four bags"
+            },
+            {
+              "key": "C",
+              "text": "Twelve bags"
+            },
+            {
+              "key": "D",
+              "text": "Twenty bags"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hai mươi tám bao giao thứ Năm, trong đó hai mươi cho tiệm trung tâm và tám cho chi nhánh bên hồ.",
+          "translation": "Chi nhánh bên hồ nhận bao nhiêu bao bột vào thứ Năm? Các lựa chọn: (A) Tám bao; (B) Bốn bao; (C) Mười hai bao; (D) Hai mươi bao.",
+          "difficulty": 3,
+          "tags": [
+            "calculation"
+          ],
+          "skill_tags": [
+            "calculation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why does the town-center bakery receive its full allocation first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It placed the order a month earlier"
+            },
+            {
+              "key": "B",
+              "text": "Its flour bags have already been damaged"
+            },
+            {
+              "key": "C",
+              "text": "It needs the flour for early production on Friday"
+            },
+            {
+              "key": "D",
+              "text": "The lakeside branch is closed on Thursday"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Lịch ưu tiên dựa vào nhu cầu làm bánh sớm sáng thứ Sáu của tiệm trung tâm.",
+          "translation": "Vì sao tiệm trung tâm được giao đủ phần bột trước? Các lựa chọn: (A) Tiệm đặt hàng sớm hơn một tháng; (B) Các bao bột của tiệm đã hỏng; (C) Tiệm cần bột để sản xuất sớm ngày thứ Sáu; (D) Chi nhánh bên hồ đóng cửa thứ Năm.",
+          "difficulty": 3,
+          "tags": [
+            "cause"
+          ],
+          "skill_tags": [
+            "cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What must managers do if a bag arrives damaged?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wait until every bag has been used"
+            },
+            {
+              "key": "B",
+              "text": "Send a separate invoice for each branch"
+            },
+            {
+              "key": "C",
+              "text": "Reject the entire purchase order automatically"
+            },
+            {
+              "key": "D",
+              "text": "Report it within twenty-four hours of receipt"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Nhà cung cấp yêu cầu báo hư hỏng trong vòng hai mươi bốn giờ để sắp xếp đổi bao.",
+          "translation": "Nếu nhận bao bột bị hỏng, quản lý phải làm gì? Các lựa chọn: (A) Đợi đến khi dùng hết tất cả các bao; (B) Gửi hóa đơn riêng cho từng chi nhánh; (C) Tự động từ chối toàn bộ đơn hàng; (D) Báo trong vòng hai mươi bốn giờ sau khi nhận.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the information and choose the best answer to each question.",
+      "passage": "Library Bulletin — Winter Equipment Lending\n\nThe Westfield Public Library will begin lending portable lamps and small reading stands on 2 December. The service is intended for residents who need better lighting at home during the shorter winter days. Members may borrow one lamp or one stand for up to 14 days at no charge. Reservations open on 27 November through the library service desk.\n\nBecause the number of devices is limited, a member cannot borrow both items at the same time. If an item is returned late, the member will not be able to reserve another piece of equipment until the overdue item is checked in. All lamps will be tested by library staff between loans. Please return equipment in its protective case.\n\nA demonstration will take place in the main reading room at 4 p.m. on 30 November. Visitors can try the equipment and ask staff how the adjustable stands work. The event is open to everyone, including residents without library membership.",
+      "passage_vi": "Bản tin thư viện — Cho mượn thiết bị mùa đông\n\nThư viện công cộng Westfield sẽ bắt đầu cho mượn đèn di động và giá đỡ sách nhỏ vào ngày 2 tháng 12. Dịch vụ dành cho cư dân cần ánh sáng tốt hơn tại nhà vào những ngày đông ngắn. Hội viên được mượn một đèn hoặc một giá đỡ tối đa 14 ngày và miễn phí. Có thể đặt từ ngày 27 tháng 11 tại quầy dịch vụ thư viện.\n\nVì số thiết bị có hạn, hội viên không thể mượn cả hai món cùng lúc. Nếu trả muộn, hội viên sẽ không thể đặt thiết bị khác cho đến khi món quá hạn được nhận lại. Nhân viên sẽ kiểm tra mọi chiếc đèn giữa các lượt mượn. Vui lòng trả thiết bị trong hộp bảo vệ.\n\nBuổi trình diễn sẽ diễn ra trong phòng đọc chính lúc 4 giờ chiều ngày 30 tháng 11. Khách có thể dùng thử thiết bị và hỏi nhân viên cách hoạt động của giá đỡ điều chỉnh được. Sự kiện mở cho mọi người, kể cả cư dân chưa là hội viên thư viện.",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 23,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "When will members first be able to take borrowed equipment home?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 December"
+            },
+            {
+              "key": "B",
+              "text": "27 November"
+            },
+            {
+              "key": "C",
+              "text": "30 November"
+            },
+            {
+              "key": "D",
+              "text": "14 December"
+            }
+          ],
+          "correct_answer": "A",
+          "translation": "Khi nào hội viên bắt đầu có thể mang thiết bị mượn về nhà? Các lựa chọn: (A) Ngày 2 tháng 12; (B) Ngày 27 tháng 11; (C) Ngày 30 tháng 11; (D) Ngày 14 tháng 12.",
+          "explanation": "Dịch vụ cho mượn bắt đầu ngày 2 tháng 12; ngày 27 tháng 11 chỉ bắt đầu nhận đặt trước.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What happens if a member returns a lamp late?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The member must buy the lamp."
+            },
+            {
+              "key": "B",
+              "text": "The library cancels all demonstrations."
+            },
+            {
+              "key": "C",
+              "text": "The member must pay for a new protective case."
+            },
+            {
+              "key": "D",
+              "text": "The member temporarily loses the ability to reserve other equipment."
+            }
+          ],
+          "correct_answer": "D",
+          "translation": "Điều gì xảy ra nếu hội viên trả đèn trễ? Các lựa chọn: (A) Hội viên phải mua đèn; (B) Thư viện hủy tất cả buổi trình diễn; (C) Hội viên phải trả tiền mua hộp bảo vệ mới; (D) Hội viên tạm thời không thể đặt thiết bị khác.",
+          "explanation": "Thông báo nêu rằng hội viên bị chặn đặt thiết bị khác cho tới khi món trả muộn được ghi nhận đã trả.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Who may attend the equipment demonstration?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only members with an active lamp loan."
+            },
+            {
+              "key": "B",
+              "text": "Any resident, even without a library membership."
+            },
+            {
+              "key": "C",
+              "text": "Only library employees."
+            },
+            {
+              "key": "D",
+              "text": "Residents who have reserved a reading stand."
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Ai có thể dự buổi trình diễn thiết bị? Các lựa chọn: (A) Chỉ hội viên đang mượn đèn; (B) Mọi cư dân, kể cả người chưa có thẻ thư viện; (C) Chỉ nhân viên thư viện; (D) Chỉ cư dân đã đặt giá đỡ sách.",
+          "explanation": "Đoạn cuối nêu rõ sự kiện mở cho tất cả, kể cả người không có tư cách hội viên.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the purpose of the protective case requirement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To charge an extra loan fee."
+            },
+            {
+              "key": "B",
+              "text": "To identify employees at the service desk."
+            },
+            {
+              "key": "C",
+              "text": "To help keep returned equipment safe."
+            },
+            {
+              "key": "D",
+              "text": "To limit the demonstration to one room."
+            }
+          ],
+          "correct_answer": "C",
+          "translation": "Mục đích của quy định trả thiết bị trong hộp bảo vệ là gì? Các lựa chọn: (A) Để thu thêm phí mượn; (B) Để nhận diện nhân viên tại quầy; (C) Để giúp bảo vệ thiết bị khi được trả lại; (D) Để giới hạn buổi trình diễn trong một phòng.",
+          "explanation": "Thiết bị phải được trả trong protective case, hàm ý bảo vệ thiết bị khi vận chuyển và lưu trữ.",
+          "difficulty": 3,
+          "tags": [
+            "inference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the information and choose the best answer to each question.",
+      "passage": "Delivery Log — Parcel M47\nTuesday, 8 October, 10:15 a.m. — First delivery attempt at 18 Willow Lane. No one answered the door. A collection slip was left.\nTuesday, 8 October, 4:40 p.m. — Recipient requested delivery to the neighborhood service counter instead of a second home attempt.\nWednesday, 9 October, 8:20 a.m. — Parcel arrived at the service counter. Collection available from 9 a.m. to 6 p.m. on weekdays.\n\n---\nEmail from Parcel Services — Wednesday, 9 October\nHello Mr. Reyes,\nYour parcel M47 is ready for collection at the neighborhood service counter. Please bring a photo ID and the collection slip left at your address. Our counter is closed on Saturday and Sunday. Parcels not collected by the end of Tuesday, 15 October, will be returned to the sender. If someone else needs to collect it for you, contact us in advance to arrange authorization.\nParcel Services Team",
+      "passage_vi": "Nhật ký giao hàng — Bưu kiện M47\nThứ Ba ngày 8 tháng 10, 10 giờ 15 — Giao lần đầu đến số 18 đường Willow. Không ai trả lời cửa. Đã để lại phiếu nhận hàng.\nThứ Ba ngày 8 tháng 10, 16 giờ 40 — Người nhận yêu cầu chuyển đến quầy dịch vụ khu phố thay vì giao lại tại nhà.\nThứ Tư ngày 9 tháng 10, 8 giờ 20 — Bưu kiện đến quầy dịch vụ. Có thể nhận từ 9 đến 18 giờ các ngày trong tuần.\n\n---\nThư từ Dịch vụ bưu kiện — Thứ Tư ngày 9 tháng 10\nChào ông Reyes,\nBưu kiện M47 của ông đã sẵn sàng để nhận tại quầy dịch vụ khu phố. Vui lòng mang giấy tờ tùy thân có ảnh và phiếu nhận hàng được để lại tại địa chỉ. Quầy đóng cửa thứ Bảy và Chủ nhật. Bưu kiện không được nhận trước khi kết thúc thứ Ba ngày 15 tháng 10 sẽ được gửi trả người gửi. Nếu người khác đến nhận giúp, xin liên hệ trước để sắp xếp ủy quyền.\nNhóm Dịch vụ bưu kiện",
+      "transcript": null,
+      "transcript_vi": null,
+      "image_description": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 27,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Why was parcel M47 taken to the service counter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The recipient requested that location."
+            },
+            {
+              "key": "B",
+              "text": "The sender had entered the wrong address."
+            },
+            {
+              "key": "C",
+              "text": "The delivery vehicle broke down."
+            },
+            {
+              "key": "D",
+              "text": "The service counter was closer to the warehouse."
+            }
+          ],
+          "correct_answer": "A",
+          "translation": "Vì sao bưu kiện M47 được đưa đến quầy dịch vụ? Các lựa chọn: (A) Người nhận đã yêu cầu địa điểm đó; (B) Người gửi ghi sai địa chỉ; (C) Xe giao hàng bị hỏng; (D) Quầy gần nhà kho hơn.",
+          "explanation": "Nhật ký ngày 8 tháng 10 lúc 16 giờ 40 ghi yêu cầu của người nhận chuyển đến quầy.",
+          "difficulty": 3,
+          "tags": [
+            "cross-reference"
+          ],
+          "skill_tags": [
+            "cross-reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What two items should Mr. Reyes show when collecting the parcel?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A passport and a bank card."
+            },
+            {
+              "key": "B",
+              "text": "A packing list and a receipt."
+            },
+            {
+              "key": "C",
+              "text": "A photo ID and the collection slip."
+            },
+            {
+              "key": "D",
+              "text": "A delivery invoice and a work badge."
+            }
+          ],
+          "correct_answer": "C",
+          "translation": "Ông Reyes cần xuất trình hai thứ gì khi nhận hàng? Các lựa chọn: (A) Hộ chiếu và thẻ ngân hàng; (B) Phiếu đóng gói và biên nhận; (C) Giấy tờ có ảnh và phiếu nhận hàng; (D) Hóa đơn giao hàng và thẻ công tác.",
+          "explanation": "Email yêu cầu photo ID và collection slip đã để lại ở nhà người nhận.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "What is the latest date to collect the parcel before it is returned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8 October"
+            },
+            {
+              "key": "B",
+              "text": "15 October"
+            },
+            {
+              "key": "C",
+              "text": "9 October"
+            },
+            {
+              "key": "D",
+              "text": "12 October"
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Ngày cuối cùng có thể nhận bưu kiện trước khi bị trả về là ngày nào? Các lựa chọn: (A) Ngày 8 tháng 10; (B) Ngày 15 tháng 10; (C) Ngày 9 tháng 10; (D) Ngày 12 tháng 10.",
+          "explanation": "Email nói bưu kiện không được lấy trước khi hết ngày thứ Ba 15 tháng 10 sẽ bị gửi trả.",
+          "difficulty": 3,
+          "tags": [
+            "detail"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 7,
+          "question_type": "mcq",
+          "question_text": "Which statement about collecting parcel M47 is supported by both documents?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It can be collected on Sunday mornings."
+            },
+            {
+              "key": "B",
+              "text": "It can be collected on weekday afternoons."
+            },
+            {
+              "key": "C",
+              "text": "It must be collected at the original home address."
+            },
+            {
+              "key": "D",
+              "text": "It requires a new delivery fee."
+            }
+          ],
+          "correct_answer": "B",
+          "translation": "Thông tin nào về việc nhận bưu kiện được cả hai văn bản ủng hộ? Các lựa chọn: (A) Có thể nhận sáng Chủ nhật; (B) Có thể nhận vào buổi chiều ngày làm việc; (C) Phải nhận tại nhà ban đầu; (D) Phải trả thêm phí giao lại.",
+          "explanation": "Nhật ký cho giờ nhận 9–18 giờ ngày thường, email xác nhận đóng cửa cuối tuần và nhận tại quầy.",
+          "difficulty": 3,
+          "tags": [
+            "cross-reference"
+          ],
+          "skill_tags": [
+            "cross-reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

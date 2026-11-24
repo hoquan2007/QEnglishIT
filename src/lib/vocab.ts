@@ -7,6 +7,7 @@ export const FAMILIES: Record<string, { route: string; title: string; highlight:
   ielts: { route: "/tu-vung-ielts", title: "Từ vựng", highlight: "IELTS", desc: "Từ vựng học thuật theo các chủ đề Writing & Speaking thường gặp.", badge: "IELTS" },
   vstep: { route: "/tu-vung-vstep", title: "Từ vựng", highlight: "VSTEP", desc: "Từ vựng theo bậc năng lực VSTEP 3 – 5.", badge: "VSTEP" },
   "giao-tiep": { route: "/tu-vung-tieng-anh-giao-tiep", title: "Tiếng Anh", highlight: "giao tiếp", desc: "Cụm từ và mẫu câu theo tình huống thực tế.", badge: "Giao tiếp" },
+  it: { route: "/tu-vung-tieng-anh-cntt", title: "Tiếng Anh", highlight: "CNTT", desc: "Từ vựng theo chủ đề lập trình, hạ tầng, bảo mật và dữ liệu.", badge: "Công nghệ thông tin" },
 };
 
 export async function getFamily(family: string) {

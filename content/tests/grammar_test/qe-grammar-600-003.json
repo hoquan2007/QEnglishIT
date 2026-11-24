@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-600-003",
+  "title": "Kiểm tra ngữ pháp 600 – 10",
+  "exam_type": "grammar_test",
+  "level": "600",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 2,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "------- touch the wet paint.",
+          "explanation": "Câu cấm đoán dùng Don't + động từ nguyên mẫu touch.",
+          "translation": "Đừng chạm vào lớp sơn còn ướt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Don't"
+            },
+            {
+              "key": "B",
+              "text": "Doesn't"
+            },
+            {
+              "key": "C",
+              "text": "Not"
+            },
+            {
+              "key": "D",
+              "text": "Isn't"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/exercises",
+          "independent_review": "pending",
+          "fingerprint": "22553952a96870d4f9f5d905a4495c93c7115ba5"
+        },
+        {
+          "question_text": "My uncle wears ------- at formal events.",
+          "explanation": "Stylish là đánh giá và black là màu; đánh giá đứng trước màu.",
+          "translation": "Chú tôi mặc một bộ vest đen lịch lãm trong các sự kiện trang trọng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a stylish black suit"
+            },
+            {
+              "key": "B",
+              "text": "a black stylish suit"
+            },
+            {
+              "key": "C",
+              "text": "a suit stylish black"
+            },
+            {
+              "key": "D",
+              "text": "stylish a black suit"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/exercises",
+          "independent_review": "pending",
+          "fingerprint": "22bf387e885024d542f8a296e164728d50555ece"
+        },
+        {
+          "question_text": "We must ------- our online presence this year.",
+          "explanation": "Sau must là V nguyên mẫu: strengthen.",
+          "translation": "Chúng ta phải ------- sự hiện diện trực tuyến trong năm nay. A. sức mạnh; B. củng cố; C. mạnh; D. một cách mạnh mẽ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "strength"
+            },
+            {
+              "key": "B",
+              "text": "strong"
+            },
+            {
+              "key": "C",
+              "text": "strongly"
+            },
+            {
+              "key": "D",
+              "text": "strengthen"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#word-form-strategy/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2467452039422f4c0305922d316b04a26960f8b4"
+        },
+        {
+          "question_text": "The carpenter repaired ------- in the hall.",
+          "explanation": "Old chỉ tuổi đứng trước wooden chỉ chất liệu.",
+          "translation": "Người thợ mộc sửa một chiếc ghế gỗ cũ trong hành lang.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a wooden old chair"
+            },
+            {
+              "key": "B",
+              "text": "an old wooden chair"
+            },
+            {
+              "key": "C",
+              "text": "an chair old wooden"
+            },
+            {
+              "key": "D",
+              "text": "wooden an old chair"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/exercises",
+          "independent_review": "pending",
+          "fingerprint": "250d28afc822dec44dbdaf08f6ba1617153ca4c7"
+        },
+        {
+          "question_text": "We'd prefer ------- the meeting online tomorrow.",
+          "explanation": "Would prefer đi với to-infinitive, nên chọn to hold.",
+          "translation": "Chúng tôi muốn tổ chức cuộc họp trực tuyến vào ngày mai hơn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to hold"
+            },
+            {
+              "key": "B",
+              "text": "hold"
+            },
+            {
+              "key": "C",
+              "text": "holding"
+            },
+            {
+              "key": "D",
+              "text": "held"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#prefer-and-would-rather/quiz",
+          "independent_review": "pending",
+          "fingerprint": "26319b38b6f6ef53d33e8bc17f63933648193b78"
+        },
+        {
+          "question_text": "Follow the signs and go ------- the second floor.",
+          "explanation": "Lên đến tầng hai dùng up to, có cả hướng và điểm đích.",
+          "translation": "Hãy đi theo biển chỉ dẫn và lên đến tầng hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "over"
+            },
+            {
+              "key": "C",
+              "text": "through"
+            },
+            {
+              "key": "D",
+              "text": "up to"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "268000e07a7fb483fb1ff0be3d31ab3bcdbac7c2"
+        },
+        {
+          "question_text": "The ------- laboratory equipment was removed from service immediately.",
+          "explanation": "Damaged mô tả thiết bị chịu tác động bị hỏng. Dịch: Thiết bị phòng thí nghiệm bị hư đã được ngừng sử dụng ngay lập tức.",
+          "translation": "Thiết bị phòng thí nghiệm ------- đã bị ngừng sử dụng ngay lập tức. A. bị hư hỏng; B. gây hư hỏng; C. sự hư hỏng; D. những thiệt hại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "damaging"
+            },
+            {
+              "key": "B",
+              "text": "damage"
+            },
+            {
+              "key": "C",
+              "text": "damaged"
+            },
+            {
+              "key": "D",
+              "text": "damages"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/exercises",
+          "independent_review": "pending",
+          "fingerprint": "289c5ac6e54321ada36447b5fbba943b7e0d14c2"
+        },
+        {
+          "question_text": "------- the medicine with cold water.",
+          "explanation": "Lời hướng dẫn sử dụng thuốc dùng Take ở nguyên mẫu.",
+          "translation": "Hãy uống thuốc với nước lạnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Taking"
+            },
+            {
+              "key": "B",
+              "text": "To take"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Took"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2a917f955ffd6b6e22500d743697e3694167cae1"
+        },
+        {
+          "question_text": "Did your father ------- you after the concert?",
+          "explanation": "Sau Did, động từ call ở dạng nguyên mẫu.",
+          "translation": "Bố bạn có gọi điện cho bạn sau buổi hòa nhạc không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "called"
+            },
+            {
+              "key": "B",
+              "text": "calls"
+            },
+            {
+              "key": "C",
+              "text": "call"
+            },
+            {
+              "key": "D",
+              "text": "calling"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2b025a075b1d4dd5336c763e092a84c0a2f52450"
+        },
+        {
+          "question_text": "Aron is used to ------- early for work now.",
+          "explanation": "Be used to yêu cầu V-ing, nên dùng getting up.",
+          "translation": "Giờ Aron đã quen với việc dậy sớm để đi làm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "get up"
+            },
+            {
+              "key": "B",
+              "text": "getting up"
+            },
+            {
+              "key": "C",
+              "text": "got up"
+            },
+            {
+              "key": "D",
+              "text": "to get up"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2b943898fce5d3fe22c6978a2a4b606fbbc38969"
+        },
+        {
+          "question_text": "I am used to ------- the subway at rush hour.",
+          "explanation": "Am used to + taking diễn tả đã quen đi tàu giờ cao điểm.",
+          "translation": "Tôi đã quen với việc đi tàu điện ngầm vào giờ cao điểm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "taking"
+            },
+            {
+              "key": "B",
+              "text": "take"
+            },
+            {
+              "key": "C",
+              "text": "took"
+            },
+            {
+              "key": "D",
+              "text": "to take"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2c914be39fa1dc85aa029c863361f622d6fd1136"
+        },
+        {
+          "question_text": "------- the children play outside after school?",
+          "explanation": "Children là số nhiều; after school nói về thói quen nên dùng Do.",
+          "translation": "Bọn trẻ có chơi ngoài trời sau giờ học không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Does"
+            },
+            {
+              "key": "B",
+              "text": "Did"
+            },
+            {
+              "key": "C",
+              "text": "Do"
+            },
+            {
+              "key": "D",
+              "text": "Are"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2dd5eaf16885958c06287d432c70bd7e26684c48"
+        },
+        {
+          "question_text": "Do the shops open on Sundays? Yes, they -------.",
+          "explanation": "Do hỏi hiện tại đơn số nhiều, đáp Yes, they do.",
+          "translation": "Các cửa hàng có mở cửa Chủ nhật không? Có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#short-answers-with-auxiliaries/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2e807864c82eca39bee3eda5c27d8c96a8e82716"
+        },
+        {
+          "question_text": "I'd rather ------- by bicycle than drive.",
+          "explanation": "Would rather + V than V, động từ nguyên mẫu travel.",
+          "translation": "Tôi thà đi xe đạp còn hơn lái ô tô.",
+          "options": [
+            {
+              "key": "A",
+              "text": "travel"
+            },
+            {
+              "key": "B",
+              "text": "to travel"
+            },
+            {
+              "key": "C",
+              "text": "travelling"
+            },
+            {
+              "key": "D",
+              "text": "travelled"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#prefer-and-would-rather/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2e826c1c94a51cfdc5b37112e74cfc0bbc9125ef"
+        },
+        {
+          "question_text": "The ------- customers filed a formal complaint.",
+          "explanation": "Customers là người cảm nhận sự bực bội: frustrated.",
+          "translation": "Những khách hàng ------- đã nộp khiếu nại chính thức. A. cảm thấy bực bội; B. gây bực bội; C. làm bực bội (động từ); D. sự bực bội.",
+          "options": [
+            {
+              "key": "A",
+              "text": "frustrating"
+            },
+            {
+              "key": "B",
+              "text": "frustrate"
+            },
+            {
+              "key": "C",
+              "text": "frustration"
+            },
+            {
+              "key": "D",
+              "text": "frustrated"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/quiz",
+          "independent_review": "pending",
+          "fingerprint": "32c4b2c1c55881f0070af2bf4e8fdc9386c8cff8"
+        },
+        {
+          "question_text": "The classroom ------- be a workshop before the school opened.",
+          "explanation": "Một căn phòng từng có chức năng khác là trạng thái quá khứ, dùng used to.",
+          "translation": "Trước khi trường học mở cửa, phòng học này từng là một xưởng làm việc.",
+          "options": [
+            {
+              "key": "A",
+              "text": "used to"
+            },
+            {
+              "key": "B",
+              "text": "would"
+            },
+            {
+              "key": "C",
+              "text": "is used to"
+            },
+            {
+              "key": "D",
+              "text": "use to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/quiz",
+          "independent_review": "pending",
+          "fingerprint": "34dcbe30d88edd3ae03578d171f3074aba3a74eb"
+        },
+        {
+          "question_text": "What time ------- the office open on Saturdays?",
+          "explanation": "Hỏi lịch mở cửa cố định với chủ ngữ office số ít nên dùng does + open.",
+          "translation": "Vào thứ Bảy, văn phòng mở cửa lúc mấy giờ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "did"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#wh-questions-in-conversation/quiz",
+          "independent_review": "pending",
+          "fingerprint": "358e1443875e90a97b740be21e7c1415cdfd3400"
+        },
+        {
+          "question_text": "Did the students ------- the exhibition in May?",
+          "explanation": "Did yêu cầu động từ attend nguyên mẫu.",
+          "translation": "Các sinh viên có tham dự triển lãm vào tháng Năm không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "attended"
+            },
+            {
+              "key": "B",
+              "text": "attend"
+            },
+            {
+              "key": "C",
+              "text": "attends"
+            },
+            {
+              "key": "D",
+              "text": "attending"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#yes-no-questions-do-does-did/quiz",
+          "independent_review": "pending",
+          "fingerprint": "35907c66ad43d6a9fd12794408cb35884cd15540"
+        },
+        {
+          "question_text": "The ball rolled ------- the table and fell onto the floor.",
+          "explanation": "Bóng rời khỏi mặt bàn nên dùng off.",
+          "translation": "Quả bóng lăn khỏi mặt bàn và rơi xuống sàn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "into"
+            },
+            {
+              "key": "B",
+              "text": "off"
+            },
+            {
+              "key": "C",
+              "text": "through"
+            },
+            {
+              "key": "D",
+              "text": "along"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3812f1b8861490054d7ba0f2d0020d2c11d534c2"
+        },
+        {
+          "question_text": "Did the village ------- have a post office?",
+          "explanation": "Did đã đánh dấu quá khứ nên dùng use to.",
+          "translation": "Trước đây ngôi làng có bưu điện không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "used to"
+            },
+            {
+              "key": "B",
+              "text": "using to"
+            },
+            {
+              "key": "C",
+              "text": "use to"
+            },
+            {
+              "key": "D",
+              "text": "would"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#used-to-and-past-habits/quiz",
+          "independent_review": "pending",
+          "fingerprint": "38fd253e594d559abc19fecc9af98411bef558ee"
+        },
+        {
+          "question_text": "We have ------- this route in bad weather.",
+          "explanation": "Have + often + V3 used là vị trí tự nhiên trong hiện tại hoàn thành.",
+          "translation": "Chúng tôi đã nhiều lần sử dụng tuyến đường này khi thời tiết xấu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "used often to"
+            },
+            {
+              "key": "B",
+              "text": "often used"
+            },
+            {
+              "key": "C",
+              "text": "often using"
+            },
+            {
+              "key": "D",
+              "text": "often use"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#frequency-adverbs-position/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3cb8085dd6c34dab9ad7a3c30e866d80458ee874"
+        },
+        {
+          "question_text": "They painted ------- for the school play.",
+          "explanation": "Huge chỉ kích thước và cardboard chỉ chất liệu.",
+          "translation": "Họ sơn một lâu đài bằng bìa cứng rất lớn cho vở kịch ở trường.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a cardboard huge castle"
+            },
+            {
+              "key": "B",
+              "text": "a castle huge cardboard"
+            },
+            {
+              "key": "C",
+              "text": "huge a cardboard castle"
+            },
+            {
+              "key": "D",
+              "text": "a huge cardboard castle"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3e2f1d05aeb687e50a3c8f8088b4c0ccc30bcd73"
+        },
+        {
+          "question_text": "Would you mind ------- the music down?",
+          "explanation": "Would you mind cần V-ing, nên chọn turning.",
+          "translation": "Bạn có phiền vặn nhỏ nhạc xuống không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "turn"
+            },
+            {
+              "key": "B",
+              "text": "turning"
+            },
+            {
+              "key": "C",
+              "text": "to turn"
+            },
+            {
+              "key": "D",
+              "text": "turned"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3ff8e0d4edcd107d00fdc19911dd696c6f6b06dd"
+        },
+        {
+          "question_text": "She ------- her emails during lunch.",
+          "explanation": "Rarely đứng trước động từ thường checks với she số ít.",
+          "translation": "Cô ấy hiếm khi kiểm tra email trong giờ nghỉ trưa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "checks rarely to"
+            },
+            {
+              "key": "B",
+              "text": "rarely checks"
+            },
+            {
+              "key": "C",
+              "text": "rarely check"
+            },
+            {
+              "key": "D",
+              "text": "rare checks"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#frequency-adverbs-position/exercises",
+          "independent_review": "pending",
+          "fingerprint": "403b6015c9cf18dedc7069c7d77514ef881a34ae"
+        },
+        {
+          "question_text": "I'd rather cook dinner ------- order takeaway.",
+          "explanation": "Would rather V than V so sánh hai hành động.",
+          "translation": "Tôi thà nấu bữa tối còn hơn gọi đồ ăn mang về.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "from"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#prefer-and-would-rather/exercises",
+          "independent_review": "pending",
+          "fingerprint": "40d4826e0953fd39280b45f0f05226351c65c057"
+        },
+        {
+          "question_text": "A: The children were excited. B: -------.",
+          "explanation": "Câu đầu be quá khứ số nhiều, đồng tình với teachers dùng So were.",
+          "translation": "Bọn trẻ rất hào hứng. Các giáo viên cũng vậy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "So did the teachers"
+            },
+            {
+              "key": "B",
+              "text": "Neither were the teachers"
+            },
+            {
+              "key": "C",
+              "text": "So were the teachers"
+            },
+            {
+              "key": "D",
+              "text": "So the teachers were"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#agreement-with-so-and-neither/quiz",
+          "independent_review": "pending",
+          "fingerprint": "41c607a4b2387ced3493a7e6b95a1d5c2d7a6a2d"
+        },
+        {
+          "question_text": "Please ------- the sign before entering.",
+          "explanation": "Please + read là cách nhắc lịch sự.",
+          "translation": "Vui lòng đọc biển báo trước khi đi vào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reading"
+            },
+            {
+              "key": "B",
+              "text": "read"
+            },
+            {
+              "key": "C",
+              "text": "reads"
+            },
+            {
+              "key": "D",
+              "text": "to read"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#imperatives-and-polite-requests/quiz",
+          "independent_review": "pending",
+          "fingerprint": "420a835ee4e0089a040831a3501526de9076a34d"
+        },
+        {
+          "question_text": "This box is ------- for one person to carry safely.",
+          "explanation": "Một người không thể mang an toàn vì hộp quá nặng; too heavy diễn tả vượt mức.",
+          "translation": "Chiếc hộp này quá nặng để một người có thể mang một cách an toàn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "heavy enough"
+            },
+            {
+              "key": "B",
+              "text": "too heavy"
+            },
+            {
+              "key": "C",
+              "text": "enough heavy"
+            },
+            {
+              "key": "D",
+              "text": "too enough heavy"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-d.json#too-and-enough/exercises",
+          "independent_review": "pending",
+          "fingerprint": "43087c43610681b0056de18c42c36dd7e839e43f"
+        },
+        {
+          "question_text": "We got ------- the taxi outside the hotel.",
+          "explanation": "Với taxi, diễn tả lên xe là get into.",
+          "translation": "Chúng tôi lên chiếc taxi bên ngoài khách sạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "off"
+            },
+            {
+              "key": "B",
+              "text": "through"
+            },
+            {
+              "key": "C",
+              "text": "across"
+            },
+            {
+              "key": "D",
+              "text": "into"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4395b33b1729f01460d85f057a53859fee73b1ca"
+        },
+        {
+          "question_text": "The trainer gave a ------- demonstration of emergency procedures.",
+          "explanation": "Reassuring mô tả màn trình diễn mang lại cảm giác yên tâm. Dịch: Người hướng dẫn thực hiện phần minh họa quy trình khẩn cấp rất trấn an.",
+          "translation": "Người hướng dẫn đã trình diễn các quy trình khẩn cấp một cách ------- . A. cảm thấy yên tâm; B. trấn an (động từ); C. sự yên tâm; D. khiến mọi người yên tâm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reassured"
+            },
+            {
+              "key": "B",
+              "text": "reassure"
+            },
+            {
+              "key": "C",
+              "text": "reassurance"
+            },
+            {
+              "key": "D",
+              "text": "reassuring"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4461eb7bbe987f1cc780d6b2a17ebbab8789b732"
+        },
+        {
+          "question_text": "The brochures on the reception desk ------- free to take.",
+          "explanation": "Chủ ngữ chính brochures ở số nhiều nên dùng are.",
+          "translation": "Các tờ giới thiệu trên quầy lễ tân được phát miễn phí.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#subject-verb-agreement/exercises",
+          "independent_review": "pending",
+          "fingerprint": "46875485e4d1c296f4f8a1fca1099dcdc7ba5d60"
+        },
+        {
+          "question_text": "I saw the director while she ------- to the press.",
+          "explanation": "While she diễn tả hành động đang diễn ra vào lúc tôi nhìn thấy, nên dùng was speaking.",
+          "translation": "Tôi nhìn thấy giám đốc khi bà ấy đang phát biểu trước báo chí.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was speaking"
+            },
+            {
+              "key": "B",
+              "text": "has spoken"
+            },
+            {
+              "key": "C",
+              "text": "speaks"
+            },
+            {
+              "key": "D",
+              "text": "spoke"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "46d0aea97b1637cb2fdea573e61c339c008bd803"
+        },
+        {
+          "question_text": "The child found ------- under the sofa.",
+          "explanation": "Tiny chỉ kích thước, silver chỉ chất liệu, nên tiny đứng trước.",
+          "translation": "Đứa trẻ tìm thấy một đồng xu bạc bé xíu dưới ghế sofa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a silver tiny coin"
+            },
+            {
+              "key": "B",
+              "text": "a coin silver tiny"
+            },
+            {
+              "key": "C",
+              "text": "tiny a silver coin"
+            },
+            {
+              "key": "D",
+              "text": "a tiny silver coin"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4702e48bc781c8acbb58d365ce33083223e5e5be"
+        },
+        {
+          "question_text": "A: We visited the gallery yesterday. B: -------.",
+          "explanation": "Visited là quá khứ đơn, đồng tình khẳng định dùng So did we.",
+          "translation": "Hôm qua chúng tôi đã đến phòng tranh. Chúng tôi cũng vậy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "So did we"
+            },
+            {
+              "key": "B",
+              "text": "So do we"
+            },
+            {
+              "key": "C",
+              "text": "Neither did we"
+            },
+            {
+              "key": "D",
+              "text": "So we did"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#agreement-with-so-and-neither/exercises",
+          "independent_review": "pending",
+          "fingerprint": "47d85d92d18aeb34a3b05ba0db917ca8fa8a1bf5"
+        },
+        {
+          "question_text": "The samples will remain refrigerated ------- the weekend.",
+          "explanation": "Throughout the weekend diễn tả trạng thái duy trì suốt khoảng thời gian cuối tuần.",
+          "translation": "Các mẫu sẽ được giữ lạnh suốt cuối tuần.",
+          "options": [
+            {
+              "key": "A",
+              "text": "between"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "throughout"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#prepositions-time-place/exercises",
+          "independent_review": "pending",
+          "fingerprint": "47f5e3809fde4ebbcf4ec6060bf5c462d12e6f37"
+        },
+        {
+          "question_text": "Please put the trays ------- the top shelf.",
+          "explanation": "Onto nhấn mạnh việc đưa khay lên bề mặt kệ.",
+          "translation": "Vui lòng đặt các khay lên kệ trên cùng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "into"
+            },
+            {
+              "key": "B",
+              "text": "through"
+            },
+            {
+              "key": "C",
+              "text": "onto"
+            },
+            {
+              "key": "D",
+              "text": "across"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-c.json#movement-and-direction-prepositions/exercises",
+          "independent_review": "pending",
+          "fingerprint": "49342d0d1c5d6a17499ea68de65a79c260cbf929"
+        },
+        {
+          "question_text": "We found ------- in the storage room.",
+          "explanation": "Long chỉ kích thước, wooden chỉ chất liệu; long đứng trước.",
+          "translation": "Chúng tôi tìm thấy một chiếc thang gỗ dài trong phòng kho.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a wooden long ladder"
+            },
+            {
+              "key": "B",
+              "text": "a long wooden ladder"
+            },
+            {
+              "key": "C",
+              "text": "a ladder long wooden"
+            },
+            {
+              "key": "D",
+              "text": "long a wooden ladder"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/quiz",
+          "independent_review": "pending",
+          "fingerprint": "494f0edf6a3bca2c595c7345d56f7b1bfc5c6336"
+        },
+        {
+          "question_text": "The ------- schedule will be sent to all staff.",
+          "explanation": "Schedule bị chỉnh sửa: revised.",
+          "translation": "Lịch trình ------- sẽ được gửi cho toàn thể nhân viên. A. đã được chỉnh sửa; B. đang chỉnh sửa; C. chỉnh sửa (động từ); D. sự chỉnh sửa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "revised"
+            },
+            {
+              "key": "B",
+              "text": "revising"
+            },
+            {
+              "key": "C",
+              "text": "revise"
+            },
+            {
+              "key": "D",
+              "text": "revision"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#participles-as-adjectives/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4a72a57684ac888fbcb1ce73aa8e56ac66211c01"
+        },
+        {
+          "question_text": "The registrar asked us to provide ------- copies of the certificate.",
+          "explanation": "Copies là danh từ đếm được số nhiều, số đếm two kết hợp đúng với nó.",
+          "translation": "Nhân viên đăng ký yêu cầu chúng tôi cung cấp hai bản sao chứng chỉ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "much"
+            },
+            {
+              "key": "B",
+              "text": "a little"
+            },
+            {
+              "key": "C",
+              "text": "every"
+            },
+            {
+              "key": "D",
+              "text": "two"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#determiners-quantifiers/quiz",
+          "independent_review": "pending",
+          "fingerprint": "4ad3dde661ce432cf338e97c4c80c0dc31971740"
+        },
+        {
+          "question_text": "He chose ------- for the interview.",
+          "explanation": "Neat là đánh giá đứng trước grey chỉ màu.",
+          "translation": "Anh ấy chọn một chiếc áo khoác xám gọn gàng để phỏng vấn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a grey neat jacket"
+            },
+            {
+              "key": "B",
+              "text": "a jacket neat grey"
+            },
+            {
+              "key": "C",
+              "text": "a neat grey jacket"
+            },
+            {
+              "key": "D",
+              "text": "neat a grey jacket"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 2,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-f.json#adjective-order-before-nouns/exercises",
+          "independent_review": "pending",
+          "fingerprint": "4b0be2dd7936cf06d7c0700f26487a4b05f9b8d2"
+        }
+      ]
+    }
+  ]
+}

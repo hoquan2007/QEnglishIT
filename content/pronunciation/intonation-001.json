@@ -1,0 +1,337 @@
+[
+  {
+    "slug": "intonation-statements",
+    "symbol": "↘",
+    "kind": "intonation",
+    "title": "Giọng xuống trong câu kể",
+    "description_md": "**Cách đọc.** Với câu kể trung tính, cao độ thường hạ từ âm tiết nổi bật nhất trong cụm nói. Ký hiệu ↘ chỉ hướng giọng. Trong *The room is ready*, bắt đầu hạ ở âm đầu của *ready* và giữ phần còn lại thấp.\n\n**Tự kiểm.** Đọc ba câu với điểm hạ lần lượt ở *REA-dy*, *NOON*, *QUI-et*. Thu âm rồi nghe xem giọng có đi xuống mà tiếng cuối vẫn rõ không.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "ready",
+        "ipa": "/ˈredi/",
+        "source": "original"
+      },
+      {
+        "word": "noon",
+        "ipa": "/nuːn/",
+        "source": "original"
+      },
+      {
+        "word": "quiet",
+        "ipa": "/ˈkwaɪət/",
+        "source": "original"
+      },
+      {
+        "word": "closed",
+        "ipa": "/kləʊzd/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "The room is ready.",
+        "vi": "Phòng đã sẵn sàng.",
+        "source": "original"
+      },
+      {
+        "en": "The parcel arrived at noon.",
+        "vi": "Bưu kiện đến vào buổi trưa.",
+        "source": "original"
+      },
+      {
+        "en": "The office is quiet.",
+        "vi": "Văn phòng rất yên tĩnh.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 55,
+    "source": "original"
+  },
+  {
+    "slug": "intonation-yes-no-questions",
+    "symbol": "↗",
+    "kind": "intonation",
+    "title": "Giọng lên khi hỏi có hoặc không",
+    "description_md": "**Cách đọc.** Khi thật sự cần người nghe xác nhận có hoặc không, người nói thường lên giọng ở phần cuối (↗). Nếu từ cuối có hai âm tiết như *open*, bắt đầu chuyển giọng ở âm /əʊ/ được nhấn rồi để giọng tiếp tục lên qua phần còn lại. Câu hỏi có thể dùng đường giọng khác tùy thái độ và tình huống.\n\n**Tự kiểm.** Nhờ bạn tập trả lời *yes* hoặc *no*. Lần lượt bắt đầu lên giọng ở *FREE*, *O-pen*, *NOON*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "free",
+        "ipa": "/friː/",
+        "source": "original"
+      },
+      {
+        "word": "open",
+        "ipa": "/ˈəʊpən/",
+        "source": "original"
+      },
+      {
+        "word": "noon",
+        "ipa": "/nuːn/",
+        "source": "original"
+      },
+      {
+        "word": "sure",
+        "ipa": "/ʃɔː/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "Are you free?",
+        "vi": "Bạn có rảnh không?",
+        "source": "original"
+      },
+      {
+        "en": "Is the café open?",
+        "vi": "Quán cà phê mở cửa chưa?",
+        "source": "original"
+      },
+      {
+        "en": "Can we meet at noon?",
+        "vi": "Chúng ta gặp nhau vào buổi trưa được không?",
+        "source": "original"
+      }
+    ],
+    "sort_order": 56,
+    "source": "original"
+  },
+  {
+    "slug": "intonation-wh-questions",
+    "symbol": "↘",
+    "kind": "intonation",
+    "title": "Giọng xuống trong câu hỏi có từ để hỏi",
+    "description_md": "**Cách đọc.** Khi hỏi thông tin mới, câu hỏi với *where*, *when* hoặc *which* thường có giọng xuống. Trọng tâm có thể rơi vào một từ ở gần cuối câu. Khi nhắc lại để nghe cho rõ, người nói có thể dùng giọng lên.\n\n**Tự kiểm.** Hạ giọng ở *KEYS*, *START*, *TAKE* trong ba câu. Sau đó giả vờ nghe chưa rõ và nhắc lại câu đầu với giọng lên ở *keys*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "where",
+        "ipa": "/weə/",
+        "source": "original"
+      },
+      {
+        "word": "when",
+        "ipa": "/wen/",
+        "source": "original"
+      },
+      {
+        "word": "which",
+        "ipa": "/wɪtʃ/",
+        "source": "original"
+      },
+      {
+        "word": "keys",
+        "ipa": "/kiːz/",
+        "source": "original"
+      },
+      {
+        "word": "start",
+        "ipa": "/stɑːt/",
+        "source": "original"
+      },
+      {
+        "word": "take",
+        "ipa": "/teɪk/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "Where are my keys?",
+        "vi": "Chìa khóa của tôi ở đâu?",
+        "source": "original"
+      },
+      {
+        "en": "When does the film start?",
+        "vi": "Phim bắt đầu lúc mấy giờ?",
+        "source": "original"
+      },
+      {
+        "en": "Which bus should we take?",
+        "vi": "Chúng ta nên đi xe buýt tuyến nào?",
+        "source": "original"
+      }
+    ],
+    "sort_order": 57,
+    "source": "original"
+  },
+  {
+    "slug": "intonation-lists-and-choices",
+    "symbol": "↗ … ↘",
+    "kind": "intonation",
+    "title": "Lên và xuống giọng khi liệt kê hoặc đưa ra lựa chọn",
+    "description_md": "**Cách đọc.** Khi đọc từng mục của một danh sách đã định, có thể lên nhẹ ở mỗi mục còn tiếp và hạ ở mục chốt. Trong câu hỏi buộc chọn một trong hai phương án, thử lên giọng ở phương án đầu rồi hạ ở phương án cuối.\n\n**Tự kiểm.** Đọc lần lượt *pens* ↗, *folders* ↗, *labels* ↘. Với hai câu hỏi sau, tập đường giọng *tea* ↗ / *coffee* ↘ và *train* ↗ / *bus* ↘.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "pens",
+        "ipa": "/penz/",
+        "source": "original"
+      },
+      {
+        "word": "folders",
+        "ipa": "/ˈfəʊldəz/",
+        "source": "original"
+      },
+      {
+        "word": "labels",
+        "ipa": "/ˈleɪbəlz/",
+        "source": "original"
+      },
+      {
+        "word": "tea",
+        "ipa": "/tiː/",
+        "source": "original"
+      },
+      {
+        "word": "coffee",
+        "ipa": "/ˈkɒfi/",
+        "source": "original"
+      },
+      {
+        "word": "train",
+        "ipa": "/treɪn/",
+        "source": "original"
+      },
+      {
+        "word": "bus",
+        "ipa": "/bʌs/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "We need pens, folders and labels.",
+        "vi": "Chúng ta cần bút, bìa hồ sơ và nhãn.",
+        "source": "original"
+      },
+      {
+        "en": "Would you like tea or coffee?",
+        "vi": "Bạn muốn uống trà hay cà phê?",
+        "source": "original"
+      },
+      {
+        "en": "Shall we go by train or by bus?",
+        "vi": "Chúng ta đi tàu hay đi xe buýt?",
+        "source": "original"
+      }
+    ],
+    "sort_order": 58,
+    "source": "original"
+  },
+  {
+    "slug": "intonation-fall-rise",
+    "symbol": "↘↗",
+    "kind": "intonation",
+    "title": "Giọng xuống rồi lên để ngỏ ý",
+    "description_md": "**Cách đọc.** Giọng xuống rồi lên có thể báo hiệu ý còn bỏ ngỏ, dè dặt hoặc chỉ đúng một phần. Chẳng hạn, nói *It’s cheap* với đường giọng ↘↗ ở *cheap* có thể gợi ý rằng giá tốt nhưng người nói còn băn khoăn điều khác. Hàm ý cụ thể phụ thuộc vào ngữ cảnh.\n\n**Tự kiểm.** Đọc ba câu như khi sắp góp ý. Tập xuống rồi lên ở *CHEAP* và *LIKED*. Với *possibly*, hãy bắt đầu hạ ở âm đầu /pɒ/ và để giọng nhích lên ở phần sau. Trong câu hai, đọc *the idea* nhẹ sau *liked*.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "cheap",
+        "ipa": "/tʃiːp/",
+        "source": "original"
+      },
+      {
+        "word": "liked",
+        "ipa": "/laɪkt/",
+        "source": "original"
+      },
+      {
+        "word": "possibly",
+        "ipa": "/ˈpɒsəbli/",
+        "source": "original"
+      },
+      {
+        "word": "idea",
+        "ipa": "/aɪˈdɪə/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "It’s cheap.",
+        "vi": "Món này rẻ.",
+        "source": "original"
+      },
+      {
+        "en": "I liked the idea.",
+        "vi": "Tôi thích ý tưởng đó.",
+        "source": "original"
+      },
+      {
+        "en": "Possibly.",
+        "vi": "Cũng có thể.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 59,
+    "source": "original"
+  },
+  {
+    "slug": "intonation-contrastive-focus",
+    "symbol": "↘ + từ trọng tâm",
+    "kind": "intonation",
+    "title": "Đổi điểm nhấn để sửa thông tin",
+    "description_md": "**Cách đọc.** Một đường giọng xuống có thể bắt đầu sớm hơn khi người nói muốn sửa một chi tiết. Trong *I sent the draft on Monday*, làm nổi bật *draft* nếu cần sửa loại tài liệu, hoặc *Monday* nếu cần sửa ngày. Sau từ mang điểm nhấn chính, đọc phần còn lại nhẹ hơn.\n\n**Tự kiểm.** Với ba câu, lần lượt chỉ sửa loại tài liệu, màu và người nhận. Sau đó giữ nguyên câu nhưng chuyển điểm nhấn sang *Monday*, *small* và *notebook*. Nghe xem chi tiết được sửa đã đổi chưa.",
+    "accent": "British English (non-rhotic; traditional RP transcription)",
+    "example_words": [
+      {
+        "word": "draft",
+        "ipa": "/drɑːft/",
+        "source": "original"
+      },
+      {
+        "word": "Monday",
+        "ipa": "/ˈmʌndeɪ/",
+        "source": "original"
+      },
+      {
+        "word": "blue",
+        "ipa": "/bluː/",
+        "source": "original"
+      },
+      {
+        "word": "small",
+        "ipa": "/smɔːl/",
+        "source": "original"
+      },
+      {
+        "word": "Mia",
+        "ipa": "/ˈmiːə/",
+        "source": "original"
+      },
+      {
+        "word": "notebook",
+        "ipa": "/ˈnəʊtbʊk/",
+        "source": "original"
+      }
+    ],
+    "minimal_pairs": [],
+    "practice_sentences": [
+      {
+        "en": "I sent the draft on Monday.",
+        "vi": "Tôi đã gửi bản nháp vào thứ Hai.",
+        "source": "original"
+      },
+      {
+        "en": "I ordered the small blue bag.",
+        "vi": "Tôi đã đặt chiếc túi nhỏ màu xanh dương.",
+        "source": "original"
+      },
+      {
+        "en": "I gave Mia the notebook.",
+        "vi": "Tôi đưa quyển sổ cho Mia.",
+        "source": "original"
+      }
+    ],
+    "sort_order": 60,
+    "source": "original"
+  }
+]

@@ -252,6 +252,14 @@
     ]
   },
   {
+    "key": "kokoro-82m-tts",
+    "title": "Kokoro-82M v1.0",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "license": "Apache-2.0",
+    "attribution": "Hexgrad, Kokoro-82M.",
+    "notes": "Mô hình và giọng dùng để tổng hợp audio cho transcript và mục từ QEnglishIT. Bản INT8 ONNX v1.0, giọng af_heart, bf_emma, am_michael và bm_george. Văn bản học liệu giữ nguồn riêng."
+  },
+  {
     "key": "wordfreq",
     "title": "wordfreq English frequency data",
     "url": "https://github.com/rspeer/wordfreq",

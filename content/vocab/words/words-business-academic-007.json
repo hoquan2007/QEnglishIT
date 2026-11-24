@@ -1,0 +1,5577 @@
+[
+  {
+    "word": "finance",
+    "lemma": "finance",
+    "pos": "n",
+    "ipa": "/ˈfaɪˌnæns/",
+    "ipa_us": "/ˈfaɪˌnæns/",
+    "ipa_uk": "/fˈaɪnæns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "tài chính và việc quản lý tiền, vốn hoặc nguồn quỹ",
+    "definition_en": "the management of money, capital, and funding for organizations or activities",
+    "examples": [
+      {
+        "en": "Finance reviews the project cost before the board approves new spending.",
+        "vi": "Bộ phận tài chính xem xét chi phí dự án trước khi hội đồng phê duyệt khoản chi mới.",
+        "source": "original"
+      },
+      {
+        "en": "Strong finance controls help the company plan cash needs more accurately.",
+        "vi": "Kiểm soát tài chính tốt giúp công ty dự báo nhu cầu tiền mặt chính xác hơn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2266,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "accounting",
+    "lemma": "accounting",
+    "pos": "n",
+    "ipa": "/əˈkaʊnɪŋ/",
+    "ipa_us": "/əˈkaʊnɪŋ/",
+    "ipa_uk": "/ɐkˈaʊntɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "kế toán, quá trình ghi nhận và báo cáo các giao dịch tài chính",
+    "definition_en": "the process of recording, organizing, and reporting financial transactions",
+    "examples": [
+      {
+        "en": "Accounting records each supplier payment in the correct reporting period.",
+        "vi": "Kế toán ghi nhận từng khoản thanh toán cho nhà cung cấp vào đúng kỳ báo cáo.",
+        "source": "original"
+      },
+      {
+        "en": "The accounting team reconciles bank balances at the end of every month.",
+        "vi": "Nhóm kế toán đối chiếu số dư ngân hàng vào cuối mỗi tháng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4365,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "strategic",
+    "lemma": "strategic",
+    "pos": "adj",
+    "ipa": "/stɹəˈtidʒɪk/",
+    "ipa_us": "/stɹəˈtidʒɪk/",
+    "ipa_uk": "/stɹətˈiːdʒɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "mang tính chiến lược, phục vụ mục tiêu dài hạn",
+    "definition_en": "designed to support important long-term goals and decisions",
+    "examples": [
+      {
+        "en": "The strategic plan focuses investment on products with stable demand.",
+        "vi": "Kế hoạch chiến lược tập trung đầu tư vào các sản phẩm có nhu cầu ổn định.",
+        "source": "original"
+      },
+      {
+        "en": "A strategic partnership can open access to a new regional market.",
+        "vi": "Một quan hệ đối tác chiến lược có thể mở lối vào một thị trường khu vực mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3473,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "corporation",
+    "lemma": "corporation",
+    "pos": "n",
+    "ipa": "/ˌkɔɹpɝˈeɪʃən/",
+    "ipa_us": "/ˌkɔɹpɝˈeɪʃən/",
+    "ipa_uk": "/kˌɔːpəɹˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "tập đoàn hoặc công ty được tổ chức như một pháp nhân",
+    "definition_en": "a large company or legal business entity recognized separately from its owners",
+    "examples": [
+      {
+        "en": "The corporation publishes an annual report for investors and regulators.",
+        "vi": "Tập đoàn công bố báo cáo thường niên cho nhà đầu tư và cơ quan quản lý.",
+        "source": "original"
+      },
+      {
+        "en": "A multinational corporation may operate offices in several tax jurisdictions.",
+        "vi": "Một tập đoàn đa quốc gia có thể vận hành văn phòng tại nhiều khu vực thuế khác nhau.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2538,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "distribution",
+    "lemma": "distribution",
+    "pos": "n",
+    "ipa": "/ˌdɪstɹəbˈjuʃən/",
+    "ipa_us": "/ˌdɪstɹəbˈjuʃən/",
+    "ipa_uk": "/dˌɪstɹɪbjˈuːʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "việc phân phối hàng hóa, dữ liệu hoặc nguồn lực đến các nơi cần thiết",
+    "definition_en": "the process of delivering goods, data, or resources to intended destinations",
+    "examples": [
+      {
+        "en": "Distribution costs rose after the company added two remote warehouses.",
+        "vi": "Chi phí phân phối tăng sau khi công ty bổ sung hai kho ở xa.",
+        "source": "original"
+      },
+      {
+        "en": "The report maps the distribution of customer demand across five regions.",
+        "vi": "Báo cáo thể hiện sự phân bố nhu cầu khách hàng trên năm khu vực.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2304,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "franchise",
+    "lemma": "franchise",
+    "pos": "n",
+    "ipa": "/ˈfɹænˌtʃaɪz/",
+    "ipa_us": "/ˈfɹænˌtʃaɪz/",
+    "ipa_uk": "/fɹˈɑːntʃaɪz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "quyền kinh doanh theo thương hiệu và mô hình của một công ty khác",
+    "definition_en": "a business operated under another company’s brand, system, and permission",
+    "examples": [
+      {
+        "en": "The franchise follows the parent company’s service and pricing standards.",
+        "vi": "Cửa hàng nhượng quyền tuân theo tiêu chuẩn dịch vụ và giá của công ty mẹ.",
+        "source": "original"
+      },
+      {
+        "en": "A new franchise opened near the transport hub last quarter.",
+        "vi": "Một cơ sở nhượng quyền mới mở gần đầu mối giao thông trong quý trước.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4399,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "startup",
+    "lemma": "startup",
+    "pos": "n",
+    "ipa": "/ˈstɑɹˌtəp/",
+    "ipa_us": "/ˈstɑɹˌtəp/",
+    "ipa_uk": "/stˈɑːtʌp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "doanh nghiệp khởi nghiệp đang phát triển sản phẩm hoặc mô hình mới",
+    "definition_en": "a young company developing a new product, service, or business model",
+    "examples": [
+      {
+        "en": "The startup tested its payment service with a small group of retailers.",
+        "vi": "Doanh nghiệp khởi nghiệp thử nghiệm dịch vụ thanh toán với một nhóm nhỏ nhà bán lẻ.",
+        "source": "original"
+      },
+      {
+        "en": "A startup often changes its plan after receiving early customer feedback.",
+        "vi": "Một startup thường thay đổi kế hoạch sau khi nhận phản hồi ban đầu từ khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9292,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "analyze",
+    "lemma": "analyze",
+    "pos": "v",
+    "ipa": "/ˈænəˌɫaɪz/",
+    "ipa_us": "/ˈænəˌɫaɪz/",
+    "ipa_uk": "/ˈænɐlˌaɪz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-05001-05500.json",
+        "batch_sha256": "6008232de076039495e9e2a92a1b2b0a9db4fc92018edefa9c93d24490904053"
+      }
+    },
+    "meaning_vi": "phân tích bằng cách xem xét dữ liệu hoặc thông tin có hệ thống",
+    "definition_en": "to examine information systematically in order to understand patterns or relationships",
+    "examples": [
+      {
+        "en": "Researchers analyze survey responses before drawing conclusions about user behavior.",
+        "vi": "Các nhà nghiên cứu phân tích câu trả lời khảo sát trước khi kết luận về hành vi người dùng.",
+        "source": "original"
+      },
+      {
+        "en": "Managers analyze monthly costs to identify areas for improvement.",
+        "vi": "Các quản lý phân tích chi phí hằng tháng để xác định các lĩnh vực cần cải thiện.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 9048,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "interpretation",
+    "lemma": "interpretation",
+    "pos": "n",
+    "ipa": "/ˌɪnˌtɝpɹɪˈteɪʃən/",
+    "ipa_us": "/ˌɪnˌtɝpɹɪˈteɪʃən/",
+    "ipa_uk": "/ɪntˌɜːpɹɪtˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự diễn giải hoặc cách hiểu ý nghĩa của dữ liệu, bằng chứng hay văn bản",
+    "definition_en": "an explanation of the meaning or significance of information, evidence, or text",
+    "examples": [
+      {
+        "en": "The interpretation of the results depends on how the sample was selected.",
+        "vi": "Việc diễn giải kết quả phụ thuộc vào cách mẫu được lựa chọn.",
+        "source": "original"
+      },
+      {
+        "en": "Her interpretation connects the survey findings with earlier research.",
+        "vi": "Cách diễn giải của cô ấy liên kết kết quả khảo sát với nghiên cứu trước đó.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4981,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "significance",
+    "lemma": "significance",
+    "pos": "n",
+    "ipa": "/səɡˈnɪfɪkəns/",
+    "ipa_us": "/səɡˈnɪfɪkəns/",
+    "ipa_uk": "/sɪɡnˈɪfɪkəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ý nghĩa, tầm quan trọng hoặc mức độ đáng chú ý của một kết quả",
+    "definition_en": "the importance, meaning, or notable effect of a result or event",
+    "examples": [
+      {
+        "en": "The study explains the significance of the change for small businesses.",
+        "vi": "Nghiên cứu giải thích ý nghĩa của thay đổi đối với doanh nghiệp nhỏ.",
+        "source": "original"
+      },
+      {
+        "en": "Statistical significance alone does not show whether an effect is practically important.",
+        "vi": "Chỉ riêng ý nghĩa thống kê không cho biết một tác động có quan trọng trong thực tế hay không.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5388,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "proportion",
+    "lemma": "proportion",
+    "pos": "n",
+    "ipa": "/pɹəˈpɔɹʃən/",
+    "ipa_us": "/pɹəˈpɔɹʃən/",
+    "ipa_uk": "/pɹəpˈɔːʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "tỷ lệ của một phần so với toàn bộ",
+    "definition_en": "a part or share considered in relation to a whole",
+    "examples": [
+      {
+        "en": "A large proportion of respondents preferred digital invoices over paper copies.",
+        "vi": "Một tỷ lệ lớn người trả lời thích hóa đơn số hơn bản giấy.",
+        "source": "original"
+      },
+      {
+        "en": "The proportion of late deliveries fell after the route was redesigned.",
+        "vi": "Tỷ lệ giao hàng trễ giảm sau khi tuyến đường được thiết kế lại.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6029,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "derive",
+    "lemma": "derive",
+    "pos": "v",
+    "ipa": "/dɝˈaɪv/",
+    "ipa_us": "/dɝˈaɪv/",
+    "ipa_uk": "/dɪɹˈaɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-07501-08000.json",
+        "batch_sha256": "0108edabe910b6e4d64f9d06f6906bc30201a0b2bbac976218886c0f8671d761"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-07001-07500.json",
+        "batch_sha256": "347e1f0369510a9306a84b092bf3318c873d12870451c9cb07e602b753b4890b"
+      }
+    },
+    "meaning_vi": "suy ra hoặc thu được từ dữ liệu, nguồn hay nguyên tắc khác",
+    "definition_en": "to obtain or develop something from a source, set of data, or principle",
+    "examples": [
+      {
+        "en": "Researchers derive the index from three measures of customer activity.",
+        "vi": "Các nhà nghiên cứu suy ra chỉ số từ ba thước đo hoạt động khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "Analysts derive future estimates from historical demand and seasonal patterns.",
+        "vi": "Các nhà phân tích suy ra ước tính tương lai từ nhu cầu lịch sử và mẫu theo mùa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 14791,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "contrast",
+    "lemma": "contrast",
+    "pos": "n",
+    "ipa": "/ˈkɑntɹæst/",
+    "ipa_us": "/ˈkɑntɹæst/",
+    "ipa_uk": "/ˈkɒntrɑːst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "sự tương phản hoặc khác biệt rõ rệt giữa hai đối tượng",
+    "definition_en": "a clear difference between two things being compared",
+    "examples": [
+      {
+        "en": "The contrast between the two pricing models is clear in the final table.",
+        "vi": "Sự tương phản giữa hai mô hình giá thể hiện rõ trong bảng cuối.",
+        "source": "original"
+      },
+      {
+        "en": "The paper highlights a contrast between short-term growth and long-term stability.",
+        "vi": "Bài nghiên cứu nhấn mạnh sự tương phản giữa tăng trưởng ngắn hạn và ổn định dài hạn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3238,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "literature",
+    "lemma": "literature",
+    "pos": "n",
+    "ipa": "/ˈɫɪtɝətʃɝ/",
+    "ipa_us": "/ˈɫɪtɝətʃɝ/",
+    "ipa_uk": "/lˈɪtɹɪtʃɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "tập hợp các công trình đã xuất bản về một chủ đề nghiên cứu",
+    "definition_en": "published research and scholarly writing about a particular subject",
+    "examples": [
+      {
+        "en": "The literature describes several methods for measuring service quality.",
+        "vi": "Tài liệu nghiên cứu mô tả nhiều phương pháp đo lường chất lượng dịch vụ.",
+        "source": "original"
+      },
+      {
+        "en": "Recent literature gives more attention to remote work and employee retention.",
+        "vi": "Các công trình gần đây chú ý nhiều hơn đến làm việc từ xa và giữ chân nhân viên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2409,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "abstract",
+    "lemma": "abstract",
+    "pos": "n",
+    "ipa": "/ˈæbˌstɹækt/",
+    "ipa_us": "/ˈæbˌstɹækt/",
+    "ipa_uk": "/ˈæbˌstrækt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "bản tóm tắt ngắn về mục tiêu, phương pháp và kết quả của nghiên cứu",
+    "definition_en": "a short summary of a study’s purpose, methods, and findings",
+    "examples": [
+      {
+        "en": "The abstract summarizes the research question and the main result.",
+        "vi": "Phần tóm tắt nêu câu hỏi nghiên cứu và kết quả chính.",
+        "source": "original"
+      },
+      {
+        "en": "Readers use the abstract to decide whether the full paper is relevant.",
+        "vi": "Người đọc dùng phần tóm tắt để quyết định bài đầy đủ có liên quan hay không.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5681,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "conclusion",
+    "lemma": "conclusion",
+    "pos": "n",
+    "ipa": "/kənˈkɫuʒən/",
+    "ipa_us": "/kənˈkɫuʒən/",
+    "ipa_uk": "/kənklˈuːʒən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "kết luận được rút ra từ bằng chứng hoặc phân tích",
+    "definition_en": "a judgment or final statement reached from evidence or analysis",
+    "examples": [
+      {
+        "en": "The conclusion reflects the evidence presented in the previous sections.",
+        "vi": "Kết luận phản ánh bằng chứng được trình bày trong các phần trước.",
+        "source": "original"
+      },
+      {
+        "en": "A cautious conclusion avoids claims that the data cannot support.",
+        "vi": "Một kết luận thận trọng tránh các khẳng định mà dữ liệu không thể hỗ trợ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3626,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "theory",
+    "lemma": "theory",
+    "pos": "n",
+    "ipa": "/ˈθiɝi/",
+    "ipa_us": "/ˈθiɝi/",
+    "ipa_uk": "/θˈiəɹi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "lý thuyết giải thích hiện tượng bằng các nguyên tắc có liên hệ",
+    "definition_en": "a set of connected ideas intended to explain how or why something happens",
+    "examples": [
+      {
+        "en": "The theory predicts how price changes may influence consumer demand.",
+        "vi": "Lý thuyết dự đoán cách thay đổi giá có thể ảnh hưởng đến nhu cầu người tiêu dùng.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers tested the theory using data from three industries.",
+        "vi": "Các nhà nghiên cứu kiểm tra lý thuyết bằng dữ liệu từ ba ngành.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1424,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "remote",
+    "lemma": "remote",
+    "pos": "adj",
+    "ipa": "/ɹiˈmoʊt/",
+    "ipa_us": "/ɹiˈmoʊt/",
+    "ipa_uk": "/ɹɪmˈəʊt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "từ xa, được thực hiện mà không cần có mặt tại địa điểm chính",
+    "definition_en": "performed or accessed from a different location rather than on site",
+    "examples": [
+      {
+        "en": "Remote access lets staff review reports while traveling between offices.",
+        "vi": "Truy cập từ xa cho phép nhân viên xem báo cáo khi di chuyển giữa các văn phòng.",
+        "source": "original"
+      },
+      {
+        "en": "The remote team meets online twice each week to coordinate priorities.",
+        "vi": "Nhóm làm việc từ xa họp trực tuyến hai lần mỗi tuần để phối hợp ưu tiên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3599,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "matrix",
+    "lemma": "matrix",
+    "pos": "n",
+    "ipa": "/ˈmeɪtɹɪks/",
+    "ipa_us": "/ˈmeɪtɹɪks/",
+    "ipa_uk": "/mˈeɪtɹɪks/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04001-04500.json",
+        "batch_sha256": "c19dd00982e504bf298c3c6c3fe9f174c04d2c7576195e4008f27f2290983962"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "ma trận hoặc bảng sắp xếp dữ liệu theo hàng và cột",
+    "definition_en": "a rectangular arrangement of values or items in rows and columns",
+    "examples": [
+      {
+        "en": "The risk matrix ranks issues by likelihood and business impact.",
+        "vi": "Ma trận rủi ro xếp hạng vấn đề theo khả năng xảy ra và tác động kinh doanh.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers stored the measurements in a matrix for statistical analysis.",
+        "vi": "Các nhà nghiên cứu lưu các phép đo trong ma trận để phân tích thống kê.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6403,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "secure",
+    "lemma": "secure",
+    "pos": "adj",
+    "ipa": "/sɪkˈjʊɹ/",
+    "ipa_us": "/sɪkˈjʊɹ/",
+    "ipa_uk": "/sɪkjˈɔː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "an toàn và được bảo vệ khỏi truy cập hoặc thay đổi trái phép",
+    "definition_en": "protected against unauthorized access, loss, or unwanted change",
+    "examples": [
+      {
+        "en": "The secure portal encrypts every file before storage.",
+        "vi": "Cổng an toàn mã hóa mọi tệp trước khi lưu trữ.",
+        "source": "original"
+      },
+      {
+        "en": "Employees use a secure connection when working outside the office.",
+        "vi": "Nhân viên dùng kết nối an toàn khi làm việc ngoài văn phòng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2329,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "coordinate",
+    "lemma": "coordinate",
+    "pos": "v",
+    "ipa": "/koʊˈɔɹdəˌneɪt/",
+    "ipa_us": "/koʊˈɔɹdəˌneɪt/",
+    "ipa_uk": "/kəʊˈɔːdɪnɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-05001-05500.json",
+        "batch_sha256": "315d6ea044365eeddbc2e7b82a2cb877105870a67913fc87b7f058597472f28c"
+      },
+      "uk": {
+        "source": "kaikki-simple",
+        "license": "CC-BY-SA and GFDL (versions not stated on Kaikki license page)",
+        "batch_file": "scripts/vocab/ipa/kaikki-simple/uk-00001-00230.json",
+        "batch_sha256": "c4e9a188e3d8d0b7a00f909bd45ad7c96244cf08a01fe345f03c9090f65b1843"
+      }
+    },
+    "meaning_vi": "phối hợp người hoặc hoạt động để cùng đạt một mục tiêu",
+    "definition_en": "to organize people or activities so they work together effectively",
+    "examples": [
+      {
+        "en": "Team leads coordinate release tasks across engineering and customer support.",
+        "vi": "Trưởng nhóm phối hợp các nhiệm vụ phát hành giữa kỹ thuật và hỗ trợ khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "Managers coordinate training schedules with each department before launch.",
+        "vi": "Các quản lý phối hợp lịch đào tạo với từng bộ phận trước khi triển khai.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 9347,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "issue",
+    "lemma": "issue",
+    "pos": "n",
+    "ipa": "/ˈɪʃu/",
+    "ipa_us": "/ˈɪʃu/",
+    "ipa_uk": "/ˈɪʃuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-00001-00500.json",
+        "batch_sha256": "beb9a44575acb9f48153cda7aa6388d3add6c2f75dabf4c26dbbd709ac65ed7e"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-00001-00500.json",
+        "batch_sha256": "4c1ac6d38ce53b3b733e38cfae58a922c438d2c28cb6a0d67c72e1d33bccccd7"
+      }
+    },
+    "meaning_vi": "vấn đề cần được xử lý hoặc giải quyết",
+    "definition_en": "a problem or matter that requires attention or resolution",
+    "examples": [
+      {
+        "en": "The support team logged the issue after three customers reported the same error.",
+        "vi": "Nhóm hỗ trợ ghi nhận vấn đề sau khi ba khách hàng báo cùng một lỗi.",
+        "source": "original"
+      },
+      {
+        "en": "Management discussed the issue during the weekly operations meeting.",
+        "vi": "Ban quản lý thảo luận vấn đề trong cuộc họp vận hành hằng tuần.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 598,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "approval",
+    "lemma": "approval",
+    "pos": "n",
+    "ipa": "/əˈpɹuvəɫ/",
+    "ipa_us": "/əˈpɹuvəɫ/",
+    "ipa_uk": "/ɐpɹˈuːvəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "sự chấp thuận chính thức cho một quyết định hoặc hành động",
+    "definition_en": "formal permission or agreement for a proposed action or decision",
+    "examples": [
+      {
+        "en": "Budget approval is required before the team orders new equipment.",
+        "vi": "Cần phê duyệt ngân sách trước khi nhóm đặt mua thiết bị mới.",
+        "source": "original"
+      },
+      {
+        "en": "The contract received approval from both legal and finance teams.",
+        "vi": "Hợp đồng nhận được sự phê duyệt từ cả nhóm pháp lý và tài chính.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2993,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "documentation",
+    "lemma": "documentation",
+    "pos": "n",
+    "ipa": "/ˌdɑkjəmɛnˈteɪʃən/",
+    "ipa_us": "/ˌdɑkjəmɛnˈteɪʃən/",
+    "ipa_uk": "/dˌɒkjuːməntˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-04501-05000.json",
+        "batch_sha256": "9c5ed8d3a4889b00eb1f62bf17d701298f70aef7c4f24a77b9e6a17bbd2aac41"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-04001-04500.json",
+        "batch_sha256": "891aea11d3ec63b48288d08db74c9b822bdb0a8a8d3b8bd52f438c882b32c870"
+      }
+    },
+    "meaning_vi": "tài liệu mô tả cách sử dụng, vận hành hoặc hiểu một hệ thống",
+    "definition_en": "written material that explains how to use, operate, or understand something",
+    "examples": [
+      {
+        "en": "Clear documentation helps new employees complete setup without extra support.",
+        "vi": "Tài liệu rõ ràng giúp nhân viên mới hoàn tất thiết lập mà không cần hỗ trợ thêm.",
+        "source": "original"
+      },
+      {
+        "en": "The documentation lists every required field in the reporting form.",
+        "vi": "Tài liệu liệt kê mọi trường bắt buộc trong biểu mẫu báo cáo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "C1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 7709,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "authority",
+    "lemma": "authority",
+    "pos": "n",
+    "ipa": "/əˈθɔɹəti/",
+    "ipa_us": "/əˈθɔɹəti/",
+    "ipa_uk": "/ɐθˈɒɹɪtˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "thẩm quyền hoặc quyền chính thức để ra quyết định",
+    "definition_en": "official power or responsibility to make decisions and enforce rules",
+    "examples": [
+      {
+        "en": "The regional manager has authority to approve routine supplier changes.",
+        "vi": "Quản lý khu vực có thẩm quyền phê duyệt các thay đổi nhà cung cấp thông thường.",
+        "source": "original"
+      },
+      {
+        "en": "Only the finance director has authority to release the reserved funds.",
+        "vi": "Chỉ giám đốc tài chính có thẩm quyền giải ngân khoản tiền dự phòng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1639,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "institute",
+    "lemma": "institute",
+    "pos": "n",
+    "ipa": "/ˈɪnstəˌtut/",
+    "ipa_us": "/ˈɪnstəˌtut/",
+    "ipa_uk": "/ˈɪnstɪtjˌuːt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01001-01500.json",
+        "batch_sha256": "46b8eb070e9269ca787ee2049f52084b8c3d0f319f121fcfc97fbb4bded1e9da"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01001-01500.json",
+        "batch_sha256": "e1cb0d2e8a7c0ef0817c03a8b2364d8a84caafaca0fec34236a6d0130e2b3009"
+      }
+    },
+    "meaning_vi": "viện hoặc tổ chức chuyên về nghiên cứu, giáo dục hay hoạt động chuyên môn",
+    "definition_en": "an organization created for research, education, or professional work",
+    "examples": [
+      {
+        "en": "The institute publishes an annual survey of workplace technology use.",
+        "vi": "Viện công bố khảo sát hằng năm về việc sử dụng công nghệ tại nơi làm việc.",
+        "source": "original"
+      },
+      {
+        "en": "A research institute partnered with local firms to study energy efficiency.",
+        "vi": "Một viện nghiên cứu hợp tác với doanh nghiệp địa phương để nghiên cứu hiệu quả năng lượng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 1677,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "goods",
+    "lemma": "goods",
+    "pos": "n",
+    "ipa": "/ˈɡʊdz/",
+    "ipa_us": "/ˈɡʊdz/",
+    "ipa_uk": "/ɡˈʊdz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "hàng hóa hữu hình được sản xuất, mua hoặc bán",
+    "definition_en": "physical products that are made, bought, transported, or sold",
+    "examples": [
+      {
+        "en": "The warehouse checks incoming goods before recording them in inventory.",
+        "vi": "Kho kiểm tra hàng hóa nhập vào trước khi ghi nhận vào tồn kho.",
+        "source": "original"
+      },
+      {
+        "en": "Damaged goods are separated from items ready for shipment.",
+        "vi": "Hàng hóa hư hỏng được tách khỏi các mặt hàng sẵn sàng giao đi.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2500,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "exclusive",
+    "lemma": "exclusive",
+    "pos": "adj",
+    "ipa": "/ɪkˈskɫusɪv/",
+    "ipa_us": "/ɪkˈskɫusɪv/",
+    "ipa_uk": "/ɛksklˈuːsɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-01501-02000.json",
+        "batch_sha256": "bd76df05463a8ce3f3d0ed3024be690a6fc5f765229bf3afae4311b482343b56"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "độc quyền hoặc chỉ dành cho một nhóm, nơi hay mục đích cụ thể",
+    "definition_en": "limited to one person, group, place, or particular arrangement",
+    "examples": [
+      {
+        "en": "The supplier signed an exclusive agreement for the regional market.",
+        "vi": "Nhà cung cấp ký thỏa thuận độc quyền cho thị trường khu vực.",
+        "source": "original"
+      },
+      {
+        "en": "Members receive exclusive access to the new research database.",
+        "vi": "Thành viên nhận quyền truy cập độc quyền vào cơ sở dữ liệu nghiên cứu mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2690,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "worldwide",
+    "lemma": "worldwide",
+    "pos": "adj",
+    "ipa": "/ˈwɝɫdˈwaɪd/",
+    "ipa_us": "/ˈwɝɫdˈwaɪd/",
+    "ipa_uk": "/wˈɜːldwaɪd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "trên toàn thế giới hoặc liên quan đến nhiều quốc gia",
+    "definition_en": "extending across or involving countries throughout the world",
+    "examples": [
+      {
+        "en": "Worldwide demand increased after the product entered several new markets.",
+        "vi": "Nhu cầu toàn cầu tăng sau khi sản phẩm vào một số thị trường mới.",
+        "source": "original"
+      },
+      {
+        "en": "The worldwide network supports customers in more than thirty countries.",
+        "vi": "Mạng lưới toàn cầu hỗ trợ khách hàng tại hơn ba mươi quốc gia.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2830,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "officially",
+    "lemma": "officially",
+    "pos": "adv",
+    "ipa": "/əˈfɪʃəɫi/",
+    "ipa_us": "/əˈfɪʃəɫi/",
+    "ipa_uk": "/əfˈɪʃəlˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "một cách chính thức, theo quyết định hoặc thông báo có thẩm quyền",
+    "definition_en": "in a formal or authorized manner",
+    "examples": [
+      {
+        "en": "The company officially opened its new distribution center in April.",
+        "vi": "Công ty chính thức mở trung tâm phân phối mới vào tháng Tư.",
+        "source": "original"
+      },
+      {
+        "en": "The policy officially takes effect after executive approval.",
+        "vi": "Chính sách chính thức có hiệu lực sau khi được ban điều hành phê duyệt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2860,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "ultimate",
+    "lemma": "ultimate",
+    "pos": "adj",
+    "ipa": "/ˈəɫtəmət/",
+    "ipa_us": "/ˈəɫtəmət/",
+    "ipa_uk": "/ˈʌltɪmət/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "cuối cùng hoặc quan trọng nhất trong một quá trình",
+    "definition_en": "final or most important in a process or series of decisions",
+    "examples": [
+      {
+        "en": "Customer trust is the ultimate goal of the service improvement program.",
+        "vi": "Niềm tin của khách hàng là mục tiêu cuối cùng của chương trình cải thiện dịch vụ.",
+        "source": "original"
+      },
+      {
+        "en": "The ultimate decision remains with the investment committee.",
+        "vi": "Quyết định cuối cùng vẫn thuộc về ủy ban đầu tư.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2884,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "campus",
+    "lemma": "campus",
+    "pos": "n",
+    "ipa": "/ˈkæmpəs/",
+    "ipa_us": "/ˈkæmpəs/",
+    "ipa_uk": "/kˈæmpəs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "khuôn viên gồm các tòa nhà của trường hoặc tổ chức giáo dục",
+    "definition_en": "the grounds and buildings belonging to a university, college, or educational institution",
+    "examples": [
+      {
+        "en": "The campus library provides access to several academic databases.",
+        "vi": "Thư viện trong khuôn viên cung cấp quyền truy cập vào nhiều cơ sở dữ liệu học thuật.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers presented the prototype at a campus technology forum.",
+        "vi": "Các nhà nghiên cứu giới thiệu nguyên mẫu tại diễn đàn công nghệ trong khuôn viên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 2943,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "outstanding",
+    "lemma": "outstanding",
+    "pos": "adj",
+    "ipa": "/ˌaʊtˈstændɪŋ/",
+    "ipa_us": "/ˌaʊtˈstændɪŋ/",
+    "ipa_uk": "/aʊtstˈændɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-01501-02000.json",
+        "batch_sha256": "42533e79c914ca65f877ab1a122218545fc444d930b3bee61bd3248a8697d992"
+      }
+    },
+    "meaning_vi": "nổi bật hoặc rất tốt so với mức thông thường",
+    "definition_en": "exceptionally good or clearly better than the usual standard",
+    "examples": [
+      {
+        "en": "The analyst received an award for outstanding research on consumer behavior.",
+        "vi": "Nhà phân tích nhận giải thưởng cho nghiên cứu nổi bật về hành vi người tiêu dùng.",
+        "source": "original"
+      },
+      {
+        "en": "Outstanding service scores helped the branch retain several major clients.",
+        "vi": "Điểm dịch vụ xuất sắc giúp chi nhánh giữ được nhiều khách hàng lớn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3029,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "founder",
+    "lemma": "founder",
+    "pos": "n",
+    "ipa": "/ˈfaʊndɝ/",
+    "ipa_us": "/ˈfaʊndɝ/",
+    "ipa_uk": "/fˈaʊndɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "người sáng lập một tổ chức, công ty hoặc dự án",
+    "definition_en": "a person who establishes an organization, company, or project",
+    "examples": [
+      {
+        "en": "The founder explained how the company identified its first market opportunity.",
+        "vi": "Người sáng lập giải thích cách công ty xác định cơ hội thị trường đầu tiên.",
+        "source": "original"
+      },
+      {
+        "en": "A founder often shapes the early culture of a startup.",
+        "vi": "Người sáng lập thường định hình văn hóa ban đầu của một startup.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 3249,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "superior",
+    "lemma": "superior",
+    "pos": "adj",
+    "ipa": "/suˈpɪɹiɝ/",
+    "ipa_us": "/suˈpɪɹiɝ/",
+    "ipa_uk": "/suːpˈiəɹɪɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "tốt hơn hoặc có chất lượng cao hơn so với đối tượng khác",
+    "definition_en": "better in quality, performance, or effectiveness than another option",
+    "examples": [
+      {
+        "en": "The new material showed superior durability during laboratory testing.",
+        "vi": "Vật liệu mới cho thấy độ bền vượt trội trong thử nghiệm phòng thí nghiệm.",
+        "source": "original"
+      },
+      {
+        "en": "Superior service can justify a higher price in competitive markets.",
+        "vi": "Dịch vụ vượt trội có thể biện minh cho mức giá cao hơn trong thị trường cạnh tranh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3279,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "essentially",
+    "lemma": "essentially",
+    "pos": "adv",
+    "ipa": "/ɛˈsɛnʃəɫi/",
+    "ipa_us": "/ɛˈsɛnʃəɫi/",
+    "ipa_uk": "/ɪsˈɛnʃəlˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "về cơ bản hoặc xét theo bản chất chính",
+    "definition_en": "when considering the most important or basic nature of something",
+    "examples": [
+      {
+        "en": "The two proposals are essentially similar in cost and expected benefit.",
+        "vi": "Hai đề xuất về cơ bản tương tự nhau về chi phí và lợi ích dự kiến.",
+        "source": "original"
+      },
+      {
+        "en": "The method is essentially a comparison of results before and after training.",
+        "vi": "Phương pháp về cơ bản là so sánh kết quả trước và sau đào tạo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3507,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "aspect",
+    "lemma": "aspect",
+    "pos": "n",
+    "ipa": "/ˈæsˌpɛkt/",
+    "ipa_us": "/ˈæsˌpɛkt/",
+    "ipa_uk": "/ˈæspɛkt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "khía cạnh hoặc phần cụ thể của một chủ đề hay vấn đề",
+    "definition_en": "a particular part or feature of a subject, situation, or problem",
+    "examples": [
+      {
+        "en": "The report examines the financial aspect of the expansion plan.",
+        "vi": "Báo cáo xem xét khía cạnh tài chính của kế hoạch mở rộng.",
+        "source": "original"
+      },
+      {
+        "en": "Security is one important aspect of remote system access.",
+        "vi": "Bảo mật là một khía cạnh quan trọng của việc truy cập hệ thống từ xa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3561,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "alliance",
+    "lemma": "alliance",
+    "pos": "n",
+    "ipa": "/əˈɫaɪəns/",
+    "ipa_us": "/əˈɫaɪəns/",
+    "ipa_uk": "/ɐlˈaɪəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "liên minh hoặc quan hệ hợp tác giữa các tổ chức có lợi ích chung",
+    "definition_en": "a partnership between organizations that cooperate toward shared interests or goals",
+    "examples": [
+      {
+        "en": "The alliance helps smaller firms share research and distribution resources.",
+        "vi": "Liên minh giúp các doanh nghiệp nhỏ chia sẻ nguồn lực nghiên cứu và phân phối.",
+        "source": "original"
+      },
+      {
+        "en": "A regional alliance launched a joint training program for suppliers.",
+        "vi": "Một liên minh khu vực triển khai chương trình đào tạo chung cho nhà cung cấp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3616,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "obtain",
+    "lemma": "obtain",
+    "pos": "v",
+    "ipa": "/əbˈteɪn/",
+    "ipa_us": "/əbˈteɪn/",
+    "ipa_uk": "/ɒbtˈeɪn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02001-02500.json",
+        "batch_sha256": "a933bb34ce2945a58ba0d55b05dee8a8685330ca08f99d8d0a32c366cd20bd26"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "đạt được hoặc nhận được thứ cần thiết",
+    "definition_en": "to get or acquire something that is needed or wanted",
+    "examples": [
+      {
+        "en": "Researchers obtain consent before collecting personal survey data.",
+        "vi": "Các nhà nghiên cứu xin sự đồng ý trước khi thu thập dữ liệu khảo sát cá nhân.",
+        "source": "original"
+      },
+      {
+        "en": "The company must obtain approval before changing the payment process.",
+        "vi": "Công ty phải nhận phê duyệt trước khi thay đổi quy trình thanh toán.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3659,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "lifetime",
+    "lemma": "lifetime",
+    "pos": "n",
+    "ipa": "/ˈɫaɪfˌtaɪm/",
+    "ipa_us": "/ˈɫaɪfˌtaɪm/",
+    "ipa_uk": "/lˈaɪftaɪm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "toàn bộ thời gian tồn tại hoặc hoạt động của một người, sản phẩm hay hệ thống",
+    "definition_en": "the entire period during which a person, product, or system exists or operates",
+    "examples": [
+      {
+        "en": "The model estimates maintenance cost over the product lifetime.",
+        "vi": "Mô hình ước tính chi phí bảo trì trong suốt vòng đời sản phẩm.",
+        "source": "original"
+      },
+      {
+        "en": "A longer device lifetime can reduce replacement spending.",
+        "vi": "Vòng đời thiết bị dài hơn có thể giảm chi phí thay thế.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3719,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "translation",
+    "lemma": "translation",
+    "pos": "n",
+    "ipa": "/tɹænˈsɫeɪʃən/",
+    "ipa_us": "/tɹænˈsɫeɪʃən/",
+    "ipa_uk": "/tɹænslˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "bản dịch hoặc quá trình chuyển nội dung sang ngôn ngữ khác",
+    "definition_en": "the process or result of expressing content in another language",
+    "examples": [
+      {
+        "en": "The translation preserves the technical meaning of each instruction.",
+        "vi": "Bản dịch giữ nguyên ý nghĩa kỹ thuật của từng hướng dẫn.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers checked the translation before distributing the bilingual questionnaire.",
+        "vi": "Các nhà nghiên cứu kiểm tra bản dịch trước khi phát bảng câu hỏi song ngữ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3749,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "commonly",
+    "lemma": "commonly",
+    "pos": "adv",
+    "ipa": "/ˈkɑmənɫi/",
+    "ipa_us": "/ˈkɑmənɫi/",
+    "ipa_uk": "/kˈɒmənli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "một cách phổ biến hoặc thường xuyên",
+    "definition_en": "in a way that occurs or is used frequently",
+    "examples": [
+      {
+        "en": "This metric is commonly used to compare service efficiency across branches.",
+        "vi": "Chỉ số này thường được dùng để so sánh hiệu quả dịch vụ giữa các chi nhánh.",
+        "source": "original"
+      },
+      {
+        "en": "Remote interviews are commonly used when participants live in different regions.",
+        "vi": "Phỏng vấn từ xa thường được dùng khi người tham gia sống ở các vùng khác nhau.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3763,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "commerce",
+    "lemma": "commerce",
+    "pos": "n",
+    "ipa": "/ˈkɑmɝs/",
+    "ipa_us": "/ˈkɑmɝs/",
+    "ipa_uk": "/kˈɒmɜːs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "hoạt động mua bán hàng hóa và dịch vụ",
+    "definition_en": "the activity of buying and selling goods and services",
+    "examples": [
+      {
+        "en": "Digital commerce allows small firms to reach customers outside their home region.",
+        "vi": "Thương mại số cho phép doanh nghiệp nhỏ tiếp cận khách hàng ngoài khu vực địa phương.",
+        "source": "original"
+      },
+      {
+        "en": "Cross-border commerce depends on reliable payment and delivery systems.",
+        "vi": "Thương mại xuyên biên giới phụ thuộc vào hệ thống thanh toán và giao hàng đáng tin cậy.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3821,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "legacy",
+    "lemma": "legacy",
+    "pos": "n",
+    "ipa": "/ˈɫɛɡəsi/",
+    "ipa_us": "/ˈɫɛɡəsi/",
+    "ipa_uk": "/lˈɛɡəsi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "hệ thống hoặc tài sản cũ vẫn còn ảnh hưởng đến hoạt động hiện tại",
+    "definition_en": "an older system, asset, or practice that still affects current operations",
+    "examples": [
+      {
+        "en": "The legacy database stores records created before the new platform launched.",
+        "vi": "Cơ sở dữ liệu cũ lưu các hồ sơ được tạo trước khi nền tảng mới ra mắt.",
+        "source": "original"
+      },
+      {
+        "en": "Maintaining the legacy system requires specialized technical knowledge.",
+        "vi": "Việc duy trì hệ thống cũ đòi hỏi kiến thức kỹ thuật chuyên biệt.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 3843,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "consumption",
+    "lemma": "consumption",
+    "pos": "n",
+    "ipa": "/kənˈsəmpʃən/",
+    "ipa_us": "/kənˈsəmpʃən/",
+    "ipa_uk": "/kənsˈʌmpʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "mức hoặc quá trình sử dụng tài nguyên, hàng hóa hay dịch vụ",
+    "definition_en": "the amount or process of using resources, goods, or services",
+    "examples": [
+      {
+        "en": "Energy consumption fell after the factory upgraded its cooling equipment.",
+        "vi": "Mức tiêu thụ năng lượng giảm sau khi nhà máy nâng cấp thiết bị làm mát.",
+        "source": "original"
+      },
+      {
+        "en": "The study tracks media consumption among different age groups.",
+        "vi": "Nghiên cứu theo dõi mức tiêu thụ truyền thông giữa các nhóm tuổi khác nhau.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3952,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "automatic",
+    "lemma": "automatic",
+    "pos": "adj",
+    "ipa": "/ˌɔtəˈmætɪk/",
+    "ipa_us": "/ˌɔtəˈmætɪk/",
+    "ipa_uk": "/ˌɔːtəmˈætɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02001-02500.json",
+        "batch_sha256": "e387e1a0fd5a2490c6cfb0bf79a83f41a106602c8c162b57346e18e38d7daefb"
+      }
+    },
+    "meaning_vi": "tự động, hoạt động với ít hoặc không cần thao tác trực tiếp",
+    "definition_en": "operating by itself with little or no direct human control",
+    "examples": [
+      {
+        "en": "The automatic report runs every morning before the finance meeting.",
+        "vi": "Báo cáo tự động chạy mỗi sáng trước cuộc họp tài chính.",
+        "source": "original"
+      },
+      {
+        "en": "An automatic alert warns staff when storage usage becomes unusually high.",
+        "vi": "Cảnh báo tự động báo cho nhân viên khi mức sử dụng lưu trữ tăng bất thường.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 3880,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "guidance",
+    "lemma": "guidance",
+    "pos": "n",
+    "ipa": "/ˈɡaɪdəns/",
+    "ipa_us": "/ˈɡaɪdəns/",
+    "ipa_uk": "/ɡˈaɪdəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "hướng dẫn hoặc lời khuyên giúp đưa ra quyết định đúng",
+    "definition_en": "advice or information that helps someone make decisions or complete a task",
+    "examples": [
+      {
+        "en": "The policy provides guidance on handling confidential customer records.",
+        "vi": "Chính sách đưa ra hướng dẫn về cách xử lý hồ sơ khách hàng bí mật.",
+        "source": "original"
+      },
+      {
+        "en": "New researchers receive guidance on ethical data collection.",
+        "vi": "Các nhà nghiên cứu mới nhận hướng dẫn về thu thập dữ liệu có đạo đức.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4110,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "prominent",
+    "lemma": "prominent",
+    "pos": "adj",
+    "ipa": "/ˈpɹɑmənənt/",
+    "ipa_us": "/ˈpɹɑmənənt/",
+    "ipa_uk": "/pɹˈɒmɪnənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "nổi bật, quan trọng hoặc dễ được chú ý",
+    "definition_en": "important, well known, or easily noticed within a field or situation",
+    "examples": [
+      {
+        "en": "A prominent researcher presented the findings at the annual conference.",
+        "vi": "Một nhà nghiên cứu nổi bật trình bày kết quả tại hội nghị thường niên.",
+        "source": "original"
+      },
+      {
+        "en": "The report gives prominent attention to cybersecurity costs.",
+        "vi": "Báo cáo dành sự chú ý nổi bật cho chi phí an ninh mạng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4129,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "faculty",
+    "lemma": "faculty",
+    "pos": "n",
+    "ipa": "/ˈfækəɫti/",
+    "ipa_us": "/ˈfækəɫti/",
+    "ipa_uk": "/fˈækəltˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "đội ngũ giảng viên hoặc một đơn vị học thuật trong trường",
+    "definition_en": "the teaching staff or an academic division of a university or college",
+    "examples": [
+      {
+        "en": "The faculty approved a new course in business analytics.",
+        "vi": "Khoa phê duyệt một khóa học mới về phân tích kinh doanh.",
+        "source": "original"
+      },
+      {
+        "en": "Several faculty members joined the research ethics committee.",
+        "vi": "Một số giảng viên tham gia ủy ban đạo đức nghiên cứu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4175,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "ongoing",
+    "lemma": "ongoing",
+    "pos": "adj",
+    "ipa": "/ˈɑnˌɡoʊɪŋ/",
+    "ipa_us": "/ˈɑnˌɡoʊɪŋ/",
+    "ipa_uk": "/ˈɒŋɡəʊɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "đang tiếp diễn và chưa kết thúc",
+    "definition_en": "continuing at the present time and not yet finished",
+    "examples": [
+      {
+        "en": "The ongoing review examines how suppliers meet environmental standards.",
+        "vi": "Cuộc rà soát đang diễn ra xem xét cách nhà cung cấp đáp ứng tiêu chuẩn môi trường.",
+        "source": "original"
+      },
+      {
+        "en": "Ongoing maintenance keeps the reporting platform stable during busy periods.",
+        "vi": "Bảo trì liên tục giúp nền tảng báo cáo ổn định trong giai đoạn bận rộn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4196,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "dynamic",
+    "lemma": "dynamic",
+    "pos": "adj",
+    "ipa": "/daɪˈnæmɪk/",
+    "ipa_us": "/daɪˈnæmɪk/",
+    "ipa_uk": "/daɪnˈæmɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "linh hoạt và thay đổi theo điều kiện hoặc thời gian",
+    "definition_en": "changing actively in response to conditions, information, or time",
+    "examples": [
+      {
+        "en": "The dashboard uses dynamic filters to update results immediately.",
+        "vi": "Bảng điều khiển dùng bộ lọc động để cập nhật kết quả ngay lập tức.",
+        "source": "original"
+      },
+      {
+        "en": "A dynamic market requires frequent review of customer demand.",
+        "vi": "Một thị trường năng động đòi hỏi xem xét nhu cầu khách hàng thường xuyên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4250,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "collective",
+    "lemma": "collective",
+    "pos": "adj",
+    "ipa": "/kəˈɫɛktɪv/",
+    "ipa_us": "/kəˈɫɛktɪv/",
+    "ipa_uk": "/kəlˈɛktɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-02501-03000.json",
+        "batch_sha256": "9bd5b03bd1a276159868a52a3989161e053a72df9adffb60fc77710ec3a1f667"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "thuộc về hoặc được thực hiện bởi một nhóm cùng nhau",
+    "definition_en": "shared or carried out by a group acting together",
+    "examples": [
+      {
+        "en": "The committee reached a collective decision after reviewing all proposals.",
+        "vi": "Ủy ban đạt quyết định tập thể sau khi xem xét mọi đề xuất.",
+        "source": "original"
+      },
+      {
+        "en": "Collective knowledge helps the team solve unfamiliar technical problems.",
+        "vi": "Kiến thức tập thể giúp nhóm giải quyết các vấn đề kỹ thuật chưa quen.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4309,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "utility",
+    "lemma": "utility",
+    "pos": "n",
+    "ipa": "/juˈtɪɫəti/",
+    "ipa_us": "/juˈtɪɫəti/",
+    "ipa_uk": "/juːtˈɪlɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "công cụ hoặc dịch vụ phục vụ một chức năng thực tế cụ thể",
+    "definition_en": "a tool or service that provides a practical function",
+    "examples": [
+      {
+        "en": "The utility checks files for formatting errors before upload.",
+        "vi": "Tiện ích kiểm tra lỗi định dạng của tệp trước khi tải lên.",
+        "source": "original"
+      },
+      {
+        "en": "A small utility converts the raw data into a standard table.",
+        "vi": "Một tiện ích nhỏ chuyển dữ liệu thô thành bảng chuẩn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4584,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "controversy",
+    "lemma": "controversy",
+    "pos": "n",
+    "ipa": "/ˈkɑntɹəˌvɝsi/",
+    "ipa_us": "/ˈkɑntɹəˌvɝsi/",
+    "ipa_uk": "/kˈɒntɹəvˌɜːsi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "tranh luận công khai kéo dài về một vấn đề gây bất đồng",
+    "definition_en": "extended public disagreement or debate about an issue",
+    "examples": [
+      {
+        "en": "The policy change created controversy among employees and industry groups.",
+        "vi": "Thay đổi chính sách gây tranh luận giữa nhân viên và các nhóm trong ngành.",
+        "source": "original"
+      },
+      {
+        "en": "The paper discusses the controversy surrounding automated hiring tools.",
+        "vi": "Bài nghiên cứu thảo luận tranh cãi xoay quanh các công cụ tuyển dụng tự động.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4612,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "mainstream",
+    "lemma": "mainstream",
+    "pos": "adj",
+    "ipa": "/ˈmeɪnˌstɹim/",
+    "ipa_us": "/ˈmeɪnˌstɹim/",
+    "ipa_uk": "/mˈeɪnstɹiːm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "phổ biến và được chấp nhận rộng rãi",
+    "definition_en": "widely accepted, used, or recognized by most people in a field",
+    "examples": [
+      {
+        "en": "Cloud accounting has become mainstream among many small businesses.",
+        "vi": "Kế toán đám mây đã trở nên phổ biến trong nhiều doanh nghiệp nhỏ.",
+        "source": "original"
+      },
+      {
+        "en": "The technique moved from experimental research into mainstream commercial use.",
+        "vi": "Kỹ thuật này chuyển từ nghiên cứu thử nghiệm sang ứng dụng thương mại phổ biến.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4633,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "spectrum",
+    "lemma": "spectrum",
+    "pos": "n",
+    "ipa": "/ˈspɛktɹəm/",
+    "ipa_us": "/ˈspɛktɹəm/",
+    "ipa_uk": "/spˈɛktɹəm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "phạm vi rộng các mức độ, loại hoặc khả năng",
+    "definition_en": "a broad range of levels, types, or possibilities",
+    "examples": [
+      {
+        "en": "The survey covers a spectrum of businesses from startups to large corporations.",
+        "vi": "Khảo sát bao quát một phổ doanh nghiệp từ startup đến tập đoàn lớn.",
+        "source": "original"
+      },
+      {
+        "en": "The framework supports a spectrum of risk levels and control requirements.",
+        "vi": "Khung hỗ trợ nhiều mức rủi ro và yêu cầu kiểm soát khác nhau.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4655,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "artificial",
+    "lemma": "artificial",
+    "pos": "adj",
+    "ipa": "/ˌɑɹtəˈfɪʃəɫ/",
+    "ipa_us": "/ˌɑɹtəˈfɪʃəɫ/",
+    "ipa_uk": "/ˌɑːtɪfˈɪʃəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "nhân tạo, được tạo bởi con người thay vì xuất hiện tự nhiên",
+    "definition_en": "made or produced by people rather than occurring naturally",
+    "examples": [
+      {
+        "en": "The experiment used artificial data to test the analysis pipeline.",
+        "vi": "Thí nghiệm dùng dữ liệu nhân tạo để kiểm tra quy trình phân tích.",
+        "source": "original"
+      },
+      {
+        "en": "Artificial lighting reduced variation between image samples.",
+        "vi": "Ánh sáng nhân tạo làm giảm biến thiên giữa các mẫu ảnh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4760,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "consistently",
+    "lemma": "consistently",
+    "pos": "adv",
+    "ipa": "/kənˈsɪstəntɫi/",
+    "ipa_us": "/kənˈsɪstəntɫi/",
+    "ipa_uk": "/kənsˈɪstəntli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "một cách ổn định và lặp lại theo cùng tiêu chuẩn",
+    "definition_en": "in a stable or repeated way that follows the same standard",
+    "examples": [
+      {
+        "en": "The service consistently meets its response-time target during normal traffic.",
+        "vi": "Dịch vụ luôn đáp ứng mục tiêu thời gian phản hồi trong lưu lượng bình thường.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers consistently applied the same scoring rule to every sample.",
+        "vi": "Các nhà nghiên cứu áp dụng nhất quán cùng quy tắc chấm điểm cho mọi mẫu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 4768,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "diverse",
+    "lemma": "diverse",
+    "pos": "adj",
+    "ipa": "/daɪˈvɝs/",
+    "ipa_us": "/daɪˈvɝs/",
+    "ipa_uk": "/daɪvˈɜːs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "đa dạng, gồm nhiều loại hoặc đặc điểm khác nhau",
+    "definition_en": "including many different types, characteristics, or backgrounds",
+    "examples": [
+      {
+        "en": "The study includes a diverse group of firms from several industries.",
+        "vi": "Nghiên cứu bao gồm nhóm doanh nghiệp đa dạng từ nhiều ngành.",
+        "source": "original"
+      },
+      {
+        "en": "A diverse dataset can reveal patterns that smaller samples miss.",
+        "vi": "Một tập dữ liệu đa dạng có thể cho thấy các mẫu mà mẫu nhỏ bỏ sót.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4776,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "formerly",
+    "lemma": "formerly",
+    "pos": "adv",
+    "ipa": "/ˈfɔɹmɝɫi/",
+    "ipa_us": "/ˈfɔɹmɝɫi/",
+    "ipa_uk": "/fˈɔːməli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "trước đây hoặc trong một giai đoạn trước",
+    "definition_en": "in the past or during an earlier period",
+    "examples": [
+      {
+        "en": "The building formerly served as the company’s main distribution center.",
+        "vi": "Tòa nhà trước đây là trung tâm phân phối chính của công ty.",
+        "source": "original"
+      },
+      {
+        "en": "The method was formerly used only in large research laboratories.",
+        "vi": "Phương pháp trước đây chỉ được dùng trong các phòng thí nghiệm nghiên cứu lớn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4783,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "neutral",
+    "lemma": "neutral",
+    "pos": "adj",
+    "ipa": "/ˈnutɹəɫ/",
+    "ipa_us": "/ˈnutɹəɫ/",
+    "ipa_uk": "/njˈuːtɹəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-02501-03000.json",
+        "batch_sha256": "2ded3888fb495011b186a4edf251a633fd20174da8c01666193790bf387642cd"
+      }
+    },
+    "meaning_vi": "trung lập, không thiên về một bên hoặc kết quả cụ thể",
+    "definition_en": "not favoring any side, position, or particular outcome",
+    "examples": [
+      {
+        "en": "The moderator used neutral language during the employee interviews.",
+        "vi": "Người điều phối dùng ngôn ngữ trung lập trong các cuộc phỏng vấn nhân viên.",
+        "source": "original"
+      },
+      {
+        "en": "A neutral benchmark helps teams compare competing products fairly.",
+        "vi": "Một chuẩn đối chiếu trung lập giúp các nhóm so sánh sản phẩm cạnh tranh công bằng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4805,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "productive",
+    "lemma": "productive",
+    "pos": "adj",
+    "ipa": "/pɝˈdəktɪv/",
+    "ipa_us": "/pɝˈdəktɪv/",
+    "ipa_uk": "/pɹədˈʌktɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "hiệu quả, tạo ra nhiều kết quả hữu ích",
+    "definition_en": "producing useful results efficiently or in substantial quantity",
+    "examples": [
+      {
+        "en": "The workshop was productive because every team left with clear actions.",
+        "vi": "Buổi làm việc hiệu quả vì mỗi nhóm đều rời đi với hành động rõ ràng.",
+        "source": "original"
+      },
+      {
+        "en": "A productive meeting should end with assigned owners and deadlines.",
+        "vi": "Một cuộc họp hiệu quả nên kết thúc với người phụ trách và thời hạn cụ thể.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4999,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "transformation",
+    "lemma": "transformation",
+    "pos": "n",
+    "ipa": "/ˌtɹænsfɝˈmeɪʃən/",
+    "ipa_us": "/ˌtɹænsfɝˈmeɪʃən/",
+    "ipa_uk": "/tɹænsfɔːmˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự chuyển đổi lớn về hình thức, cấu trúc hoặc cách hoạt động",
+    "definition_en": "a major change in form, structure, or way of operating",
+    "examples": [
+      {
+        "en": "Digital transformation changed how the company serves remote customers.",
+        "vi": "Chuyển đổi số thay đổi cách công ty phục vụ khách hàng từ xa.",
+        "source": "original"
+      },
+      {
+        "en": "The transformation required new skills across finance and operations teams.",
+        "vi": "Quá trình chuyển đổi đòi hỏi kỹ năng mới trong các nhóm tài chính và vận hành.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5117,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "usage",
+    "lemma": "usage",
+    "pos": "n",
+    "ipa": "/ˈjusədʒ/",
+    "ipa_us": "/ˈjusədʒ/",
+    "ipa_uk": "/jˈuːsɪdʒ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cách hoặc mức độ một hệ thống, tài nguyên hay từ ngữ được sử dụng",
+    "definition_en": "the way or amount in which something is used",
+    "examples": [
+      {
+        "en": "Storage usage increases during the monthly reporting cycle.",
+        "vi": "Mức sử dụng lưu trữ tăng trong chu kỳ báo cáo hằng tháng.",
+        "source": "original"
+      },
+      {
+        "en": "The study compares mobile usage across three customer groups.",
+        "vi": "Nghiên cứu so sánh mức sử dụng di động giữa ba nhóm khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4931,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "completion",
+    "lemma": "completion",
+    "pos": "n",
+    "ipa": "/kəmˈpɫiʃən/",
+    "ipa_us": "/kəmˈpɫiʃən/",
+    "ipa_uk": "/kəmplˈiːʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự hoàn thành một nhiệm vụ, quy trình hoặc giai đoạn",
+    "definition_en": "the act or point of finishing a task, process, or stage",
+    "examples": [
+      {
+        "en": "Payment is released after completion of the required inspection.",
+        "vi": "Thanh toán được giải ngân sau khi hoàn thành kiểm tra bắt buộc.",
+        "source": "original"
+      },
+      {
+        "en": "Course completion increased after the company shortened each training module.",
+        "vi": "Tỷ lệ hoàn thành khóa học tăng sau khi công ty rút ngắn từng mô-đun đào tạo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 4956,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "scenario",
+    "lemma": "scenario",
+    "pos": "n",
+    "ipa": "/sɪˈnɛɹioʊ/",
+    "ipa_us": "/sɪˈnɛɹioʊ/",
+    "ipa_uk": "/sənˈɑːɹiˌəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "kịch bản giả định mô tả một tình huống có thể xảy ra",
+    "definition_en": "a possible or imagined situation used for planning or analysis",
+    "examples": [
+      {
+        "en": "The team tested a scenario where demand doubled within one month.",
+        "vi": "Nhóm kiểm tra kịch bản trong đó nhu cầu tăng gấp đôi trong một tháng.",
+        "source": "original"
+      },
+      {
+        "en": "Each scenario includes different assumptions about cost and growth.",
+        "vi": "Mỗi kịch bản bao gồm các giả định khác nhau về chi phí và tăng trưởng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5287,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "accessible",
+    "lemma": "accessible",
+    "pos": "adj",
+    "ipa": "/ækˈsɛsəbəɫ/",
+    "ipa_us": "/ækˈsɛsəbəɫ/",
+    "ipa_uk": "/ɐksˈɛsəbəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "dễ tiếp cận, sử dụng hoặc hiểu đối với người cần đến",
+    "definition_en": "easy to reach, use, understand, or obtain",
+    "examples": [
+      {
+        "en": "The report is accessible through the company portal on mobile devices.",
+        "vi": "Báo cáo có thể truy cập qua cổng công ty trên thiết bị di động.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers made the summary accessible to readers without technical training.",
+        "vi": "Các nhà nghiên cứu làm phần tóm tắt dễ tiếp cận với người đọc không có đào tạo kỹ thuật.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5311,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "advisory",
+    "lemma": "advisory",
+    "pos": "adj",
+    "ipa": "/ædˈvaɪzɝi/",
+    "ipa_us": "/ædˈvaɪzɝi/",
+    "ipa_uk": "/ɐdvˈaɪzəɹˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "mang tính tư vấn, đưa ra khuyến nghị hoặc hướng dẫn",
+    "definition_en": "providing professional advice, recommendations, or guidance",
+    "examples": [
+      {
+        "en": "An advisory group reviewed the project’s environmental impact.",
+        "vi": "Một nhóm tư vấn xem xét tác động môi trường của dự án.",
+        "source": "original"
+      },
+      {
+        "en": "The advisory report recommends stronger controls for supplier data.",
+        "vi": "Báo cáo tư vấn khuyến nghị kiểm soát chặt hơn đối với dữ liệu nhà cung cấp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5314,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "respective",
+    "lemma": "respective",
+    "pos": "adj",
+    "ipa": "/ɹiˈspɛktɪv/",
+    "ipa_us": "/ɹiˈspɛktɪv/",
+    "ipa_uk": "/ɹɪspˈɛktɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tương ứng với từng người hoặc từng đối tượng đã nêu",
+    "definition_en": "belonging or relating separately to each person or thing already mentioned",
+    "examples": [
+      {
+        "en": "The teams returned to their respective departments after the joint workshop.",
+        "vi": "Các nhóm trở về các bộ phận tương ứng sau buổi làm việc chung.",
+        "source": "original"
+      },
+      {
+        "en": "Each manager reviewed the respective costs for their assigned region.",
+        "vi": "Mỗi quản lý xem xét chi phí tương ứng cho khu vực được giao.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5282,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "realistic",
+    "lemma": "realistic",
+    "pos": "adj",
+    "ipa": "/ˌɹiəˈɫɪstɪk/",
+    "ipa_us": "/ˌɹiəˈɫɪstɪk/",
+    "ipa_uk": "/ɹiəlˈɪstɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thực tế và phù hợp với điều kiện có thể xảy ra",
+    "definition_en": "reasonable and based on conditions that are likely or possible",
+    "examples": [
+      {
+        "en": "The budget uses realistic assumptions about hiring and supplier costs.",
+        "vi": "Ngân sách sử dụng các giả định thực tế về tuyển dụng và chi phí nhà cung cấp.",
+        "source": "original"
+      },
+      {
+        "en": "A realistic schedule includes time for testing and revision.",
+        "vi": "Một lịch trình thực tế bao gồm thời gian cho kiểm thử và chỉnh sửa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5566,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "acceptance",
+    "lemma": "acceptance",
+    "pos": "n",
+    "ipa": "/ækˈsɛptəns/",
+    "ipa_us": "/ækˈsɛptəns/",
+    "ipa_uk": "/ɐksˈɛptəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự chấp nhận một ý tưởng, điều kiện, sản phẩm hoặc kết quả",
+    "definition_en": "the act of agreeing to, approving, or receiving something as satisfactory",
+    "examples": [
+      {
+        "en": "User acceptance increased after the interface was simplified.",
+        "vi": "Mức chấp nhận của người dùng tăng sau khi giao diện được đơn giản hóa.",
+        "source": "original"
+      },
+      {
+        "en": "Final acceptance requires evidence that every requirement was tested.",
+        "vi": "Nghiệm thu cuối cùng cần bằng chứng rằng mọi yêu cầu đã được kiểm thử.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5496,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "annually",
+    "lemma": "annually",
+    "pos": "adv",
+    "ipa": "/ˈænjuəɫi/",
+    "ipa_us": "/ˈænjuəɫi/",
+    "ipa_uk": "/ˈænjuːəli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "hằng năm, một lần trong mỗi năm",
+    "definition_en": "once every year",
+    "examples": [
+      {
+        "en": "The company reviews supplier contracts annually before renewal.",
+        "vi": "Công ty rà soát hợp đồng nhà cung cấp hằng năm trước khi gia hạn.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers update the reference dataset annually with new survey results.",
+        "vi": "Các nhà nghiên cứu cập nhật tập dữ liệu tham chiếu hằng năm bằng kết quả khảo sát mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5499,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "strictly",
+    "lemma": "strictly",
+    "pos": "adv",
+    "ipa": "/ˈstɹɪktɫi/",
+    "ipa_us": "/ˈstɹɪktɫi/",
+    "ipa_uk": "/stɹˈɪktli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "một cách nghiêm ngặt, tuân theo quy tắc không linh động",
+    "definition_en": "in a way that follows rules or limits very closely",
+    "examples": [
+      {
+        "en": "Access to payroll records is strictly limited to authorized staff.",
+        "vi": "Quyền truy cập hồ sơ lương được giới hạn nghiêm ngặt cho nhân viên được ủy quyền.",
+        "source": "original"
+      },
+      {
+        "en": "The experiment strictly followed the same procedure for each participant.",
+        "vi": "Thí nghiệm tuân thủ nghiêm ngặt cùng một quy trình cho từng người tham gia.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5582,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "admission",
+    "lemma": "admission",
+    "pos": "n",
+    "ipa": "/ædˈmɪʃən/",
+    "ipa_us": "/ædˈmɪʃən/",
+    "ipa_uk": "/ɐdmˈɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự chấp nhận cho vào một tổ chức, chương trình hoặc địa điểm",
+    "definition_en": "permission or acceptance to enter an institution, program, or place",
+    "examples": [
+      {
+        "en": "University admission depends on several academic and language requirements.",
+        "vi": "Việc tuyển sinh đại học phụ thuộc vào nhiều yêu cầu học thuật và ngôn ngữ.",
+        "source": "original"
+      },
+      {
+        "en": "The program publishes its admission criteria before applications open.",
+        "vi": "Chương trình công bố tiêu chí tuyển sinh trước khi mở đơn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5596,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "convenient",
+    "lemma": "convenient",
+    "pos": "adj",
+    "ipa": "/kənˈvinjənt/",
+    "ipa_us": "/kənˈvinjənt/",
+    "ipa_uk": "/kənvˈiːnɪənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thuận tiện, dễ sử dụng hoặc phù hợp với nhu cầu",
+    "definition_en": "easy to use, suitable, or helpful for a particular need",
+    "examples": [
+      {
+        "en": "The online form provides a convenient way to submit expense claims.",
+        "vi": "Biểu mẫu trực tuyến cung cấp cách thuận tiện để nộp yêu cầu hoàn chi phí.",
+        "source": "original"
+      },
+      {
+        "en": "A convenient dashboard combines sales and inventory data in one view.",
+        "vi": "Một bảng điều khiển thuận tiện kết hợp dữ liệu bán hàng và tồn kho trong một màn hình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5615,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "urgent",
+    "lemma": "urgent",
+    "pos": "adj",
+    "ipa": "/ˈɝdʒənt/",
+    "ipa_us": "/ˈɝdʒənt/",
+    "ipa_uk": "/ˈɜːdʒənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "khẩn cấp và cần được xử lý ngay",
+    "definition_en": "requiring immediate attention or action",
+    "examples": [
+      {
+        "en": "The support team escalated the urgent payment issue to engineering.",
+        "vi": "Nhóm hỗ trợ chuyển vấn đề thanh toán khẩn cấp cho bộ phận kỹ thuật.",
+        "source": "original"
+      },
+      {
+        "en": "An urgent supplier shortage forced the factory to revise its schedule.",
+        "vi": "Tình trạng thiếu nhà cung cấp khẩn cấp buộc nhà máy điều chỉnh lịch.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5671,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "duration",
+    "lemma": "duration",
+    "pos": "n",
+    "ipa": "/ˈdʊˈɹeɪʃən/",
+    "ipa_us": "/ˈdʊˈɹeɪʃən/",
+    "ipa_uk": "/djɔːɹˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "khoảng thời gian một hoạt động hoặc sự kiện kéo dài",
+    "definition_en": "the length of time that an activity or event continues",
+    "examples": [
+      {
+        "en": "The survey records the duration of each customer support call.",
+        "vi": "Khảo sát ghi lại thời lượng của từng cuộc gọi hỗ trợ khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "Training duration was reduced without changing the learning objectives.",
+        "vi": "Thời lượng đào tạo được giảm mà không thay đổi mục tiêu học tập.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5703,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "logical",
+    "lemma": "logical",
+    "pos": "adj",
+    "ipa": "/ˈɫɑdʒɪkəɫ/",
+    "ipa_us": "/ˈɫɑdʒɪkəɫ/",
+    "ipa_uk": "/lˈɒdʒɪkəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "hợp lý và dựa trên mối liên hệ rõ ràng giữa các ý",
+    "definition_en": "based on clear reasoning and consistent relationships between ideas",
+    "examples": [
+      {
+        "en": "The report follows a logical sequence from evidence to recommendation.",
+        "vi": "Báo cáo đi theo trình tự hợp lý từ bằng chứng đến khuyến nghị.",
+        "source": "original"
+      },
+      {
+        "en": "A logical data model reduces ambiguity between related records.",
+        "vi": "Một mô hình dữ liệu hợp lý làm giảm sự mơ hồ giữa các bản ghi liên quan.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5735,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "meaningful",
+    "lemma": "meaningful",
+    "pos": "adj",
+    "ipa": "/ˈminɪŋfəɫ/",
+    "ipa_us": "/ˈminɪŋfəɫ/",
+    "ipa_uk": "/mˈiːnɪŋfəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "có ý nghĩa và đủ giá trị để giúp hiểu hoặc quyết định",
+    "definition_en": "useful and significant enough to support understanding or decisions",
+    "examples": [
+      {
+        "en": "The dashboard turns raw figures into meaningful performance indicators.",
+        "vi": "Bảng điều khiển biến số liệu thô thành các chỉ số hiệu suất có ý nghĩa.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers need meaningful differences before recommending a policy change.",
+        "vi": "Các nhà nghiên cứu cần khác biệt có ý nghĩa trước khi khuyến nghị thay đổi chính sách.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5737,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "accordance",
+    "lemma": "accordance",
+    "pos": "n",
+    "ipa": "/əˈkɔɹdəns/",
+    "ipa_us": "/əˈkɔɹdəns/",
+    "ipa_uk": "/ɐkˈɔːdəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sự phù hợp hoặc tuân thủ một quy tắc, tiêu chuẩn hay thỏa thuận",
+    "definition_en": "agreement or conformity with a rule, standard, or requirement",
+    "examples": [
+      {
+        "en": "Payments are processed in accordance with the approved contract terms.",
+        "vi": "Các khoản thanh toán được xử lý phù hợp với điều khoản hợp đồng đã phê duyệt.",
+        "source": "original"
+      },
+      {
+        "en": "Data is retained in accordance with the organization’s privacy policy.",
+        "vi": "Dữ liệu được lưu giữ phù hợp với chính sách quyền riêng tư của tổ chức.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5778,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "appreciation",
+    "lemma": "appreciation",
+    "pos": "n",
+    "ipa": "/əˌpɹiʃiˈeɪʃən/",
+    "ipa_us": "/əˌpɹiʃiˈeɪʃən/",
+    "ipa_uk": "/ɐpɹˌiːʃɪˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "sự hiểu rõ giá trị hoặc mức độ quan trọng của điều gì",
+    "definition_en": "recognition and understanding of the value or importance of something",
+    "examples": [
+      {
+        "en": "The course builds appreciation for careful research design.",
+        "vi": "Khóa học xây dựng sự trân trọng đối với thiết kế nghiên cứu cẩn thận.",
+        "source": "original"
+      },
+      {
+        "en": "Managers gained appreciation for the complexity of warehouse operations.",
+        "vi": "Các quản lý hiểu rõ hơn giá trị và độ phức tạp của hoạt động kho.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5880,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "entity",
+    "lemma": "entity",
+    "pos": "n",
+    "ipa": "/ˈɛntəti/",
+    "ipa_us": "/ˈɛntəti/",
+    "ipa_uk": "/ˈɛntɪti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "thực thể riêng biệt có thể được xác định trong hệ thống hoặc tổ chức",
+    "definition_en": "a distinct thing, organization, or unit that can be identified separately",
+    "examples": [
+      {
+        "en": "Each legal entity files its own annual financial statement.",
+        "vi": "Mỗi pháp nhân nộp báo cáo tài chính thường niên riêng.",
+        "source": "original"
+      },
+      {
+        "en": "The database assigns a unique identifier to every customer entity.",
+        "vi": "Cơ sở dữ liệu gán mã định danh duy nhất cho mỗi thực thể khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5907,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "excessive",
+    "lemma": "excessive",
+    "pos": "adj",
+    "ipa": "/ɪkˈsɛsɪv/",
+    "ipa_us": "/ɪkˈsɛsɪv/",
+    "ipa_uk": "/ɛksˈɛsɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "quá mức cần thiết hoặc hợp lý",
+    "definition_en": "greater than what is necessary, reasonable, or acceptable",
+    "examples": [
+      {
+        "en": "Excessive inventory can tie up cash and increase storage costs.",
+        "vi": "Tồn kho quá mức có thể làm kẹt vốn và tăng chi phí lưu trữ.",
+        "source": "original"
+      },
+      {
+        "en": "Excessive logging can make important system events harder to find.",
+        "vi": "Ghi nhật ký quá mức có thể khiến sự kiện hệ thống quan trọng khó tìm hơn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5908,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "linear",
+    "lemma": "linear",
+    "pos": "adj",
+    "ipa": "/ˈɫɪniɝ/",
+    "ipa_us": "/ˈɫɪniɝ/",
+    "ipa_uk": "/lˈɪniə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "tuyến tính, thay đổi theo một đường hoặc quan hệ tỷ lệ đơn giản",
+    "definition_en": "following a straight sequence or a simple proportional relationship",
+    "examples": [
+      {
+        "en": "The researchers tested a linear relationship between price and demand.",
+        "vi": "Các nhà nghiên cứu kiểm tra mối quan hệ tuyến tính giữa giá và nhu cầu.",
+        "source": "original"
+      },
+      {
+        "en": "A linear workflow moves each request through the same ordered steps.",
+        "vi": "Một quy trình tuyến tính đưa mỗi yêu cầu qua cùng các bước theo thứ tự.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5921,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "minimal",
+    "lemma": "minimal",
+    "pos": "adj",
+    "ipa": "/ˈmɪnəməɫ/",
+    "ipa_us": "/ˈmɪnəməɫ/",
+    "ipa_uk": "/mˈɪnɪməl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "tối thiểu, ở mức nhỏ nhất cần thiết",
+    "definition_en": "very small in amount or limited to what is necessary",
+    "examples": [
+      {
+        "en": "The update caused minimal disruption to customer service.",
+        "vi": "Bản cập nhật gây gián đoạn tối thiểu cho dịch vụ khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers collected the minimal data needed to answer the study question.",
+        "vi": "Các nhà nghiên cứu thu thập lượng dữ liệu tối thiểu cần để trả lời câu hỏi nghiên cứu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6010,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "overview",
+    "lemma": "overview",
+    "pos": "n",
+    "ipa": "/ˈoʊvɝvˌju/",
+    "ipa_us": "/ˈoʊvɝvˌju/",
+    "ipa_uk": "/ˈəʊvəvjˌuː/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "phần tổng quan trình bày những điểm chính của một chủ đề",
+    "definition_en": "a general summary of the main points of a subject or situation",
+    "examples": [
+      {
+        "en": "The first section gives an overview of the company’s cost structure.",
+        "vi": "Phần đầu cung cấp tổng quan về cơ cấu chi phí của công ty.",
+        "source": "original"
+      },
+      {
+        "en": "The lecture provides an overview of common research methods.",
+        "vi": "Bài giảng cung cấp tổng quan về các phương pháp nghiên cứu phổ biến.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6018,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "breakdown",
+    "lemma": "breakdown",
+    "pos": "n",
+    "ipa": "/ˈbɹeɪkˌdaʊn/",
+    "ipa_us": "/ˈbɹeɪkˌdaʊn/",
+    "ipa_uk": "/bɹˈeɪkdaʊn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "bảng hoặc mô tả chi tiết chia tổng thể thành các phần",
+    "definition_en": "a detailed division of a total into smaller parts or categories",
+    "examples": [
+      {
+        "en": "The report includes a breakdown of expenses by department.",
+        "vi": "Báo cáo bao gồm phân tích chi tiết chi phí theo bộ phận.",
+        "source": "original"
+      },
+      {
+        "en": "A regional breakdown reveals where demand is growing fastest.",
+        "vi": "Phân tích theo khu vực cho thấy nơi nhu cầu tăng nhanh nhất.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6055,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "declaration",
+    "lemma": "declaration",
+    "pos": "n",
+    "ipa": "/ˌdɛkɫɝˈeɪʃən/",
+    "ipa_us": "/ˌdɛkɫɝˈeɪʃən/",
+    "ipa_uk": "/dˌɛkləɹˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "tuyên bố chính thức về thông tin, ý định hoặc tình trạng",
+    "definition_en": "a formal statement announcing information, intentions, or a status",
+    "examples": [
+      {
+        "en": "The customs declaration lists the value and origin of imported goods.",
+        "vi": "Tờ khai hải quan liệt kê giá trị và xuất xứ hàng nhập khẩu.",
+        "source": "original"
+      },
+      {
+        "en": "A conflict declaration is required before joining the review panel.",
+        "vi": "Tuyên bố xung đột lợi ích là bắt buộc trước khi tham gia hội đồng đánh giá.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6068,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "monetary",
+    "lemma": "monetary",
+    "pos": "adj",
+    "ipa": "/ˈmɑnəˌtɛɹi/",
+    "ipa_us": "/ˈmɑnəˌtɛɹi/",
+    "ipa_uk": "/mˈʌnɪtəɹi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "liên quan đến tiền, tiền tệ hoặc giá trị tài chính",
+    "definition_en": "relating to money, currency, or financial value",
+    "examples": [
+      {
+        "en": "The study compares monetary benefits with environmental costs.",
+        "vi": "Nghiên cứu so sánh lợi ích tiền tệ với chi phí môi trường.",
+        "source": "original"
+      },
+      {
+        "en": "Monetary policy changes can affect borrowing costs for businesses.",
+        "vi": "Thay đổi chính sách tiền tệ có thể ảnh hưởng chi phí vay của doanh nghiệp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6100,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "publish",
+    "lemma": "publish",
+    "pos": "v",
+    "ipa": "/ˈpəbɫɪʃ/",
+    "ipa_us": "/ˈpəbɫɪʃ/",
+    "ipa_uk": "/pˈʌblɪʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "công bố hoặc phát hành nội dung cho người khác đọc hay sử dụng",
+    "definition_en": "to make information or content publicly available",
+    "examples": [
+      {
+        "en": "Researchers publish the dataset after removing personal identifiers.",
+        "vi": "Các nhà nghiên cứu công bố tập dữ liệu sau khi loại bỏ thông tin định danh cá nhân.",
+        "source": "original"
+      },
+      {
+        "en": "The company will publish its annual sustainability report next month.",
+        "vi": "Công ty sẽ công bố báo cáo phát triển bền vững thường niên vào tháng tới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6115,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "technically",
+    "lemma": "technically",
+    "pos": "adv",
+    "ipa": "/ˈtɛknɪkəɫi/",
+    "ipa_us": "/ˈtɛknɪkəɫi/",
+    "ipa_uk": "/tˈɛknɪkli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "xét về mặt kỹ thuật hoặc theo yêu cầu kỹ thuật",
+    "definition_en": "when considered from a technical perspective or by technical rules",
+    "examples": [
+      {
+        "en": "The system is technically capable of handling a larger data volume.",
+        "vi": "Hệ thống về mặt kỹ thuật có khả năng xử lý khối lượng dữ liệu lớn hơn.",
+        "source": "original"
+      },
+      {
+        "en": "The proposal is technically feasible but still requires budget approval.",
+        "vi": "Đề xuất khả thi về mặt kỹ thuật nhưng vẫn cần phê duyệt ngân sách.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6132,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "technical"
+  },
+  {
+    "word": "influential",
+    "lemma": "influential",
+    "pos": "adj",
+    "ipa": "/ˌɪnfɫuˈɛnʃəɫ/",
+    "ipa_us": "/ˌɪnfɫuˈɛnʃəɫ/",
+    "ipa_uk": "/ˌɪnfluːˈɛnʃəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "có ảnh hưởng đáng kể đến quyết định, ý kiến hoặc kết quả",
+    "definition_en": "having significant power to affect decisions, opinions, or outcomes",
+    "examples": [
+      {
+        "en": "An influential study changed how firms measure customer satisfaction.",
+        "vi": "Một nghiên cứu có ảnh hưởng đã thay đổi cách doanh nghiệp đo sự hài lòng khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "The analyst became influential through clear and reliable market research.",
+        "vi": "Nhà phân tích trở nên có ảnh hưởng nhờ nghiên cứu thị trường rõ ràng và đáng tin cậy.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6178,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "beneficial",
+    "lemma": "beneficial",
+    "pos": "adj",
+    "ipa": "/ˌbɛnəˈfɪʃəɫ/",
+    "ipa_us": "/ˌbɛnəˈfɪʃəɫ/",
+    "ipa_uk": "/bˌɛnɪfˈɪʃəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "có lợi hoặc tạo ra kết quả tích cực",
+    "definition_en": "producing a useful, positive, or advantageous result",
+    "examples": [
+      {
+        "en": "Flexible scheduling was beneficial for teams working across time zones.",
+        "vi": "Lịch làm việc linh hoạt có lợi cho các nhóm làm việc ở nhiều múi giờ.",
+        "source": "original"
+      },
+      {
+        "en": "The study found beneficial effects from shorter training sessions.",
+        "vi": "Nghiên cứu phát hiện tác động có lợi từ các buổi đào tạo ngắn hơn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6238,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "comparable",
+    "lemma": "comparable",
+    "pos": "adj",
+    "ipa": "/ˈkɑmpɝəbəɫ/",
+    "ipa_us": "/ˈkɑmpɝəbəɫ/",
+    "ipa_uk": "/kˈɒmpəɹəbəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "có thể so sánh hợp lý vì có đặc điểm tương tự",
+    "definition_en": "similar enough in important features to allow a fair comparison",
+    "examples": [
+      {
+        "en": "The two branches reported comparable sales despite different market sizes.",
+        "vi": "Hai chi nhánh báo cáo doanh số tương đương dù quy mô thị trường khác nhau.",
+        "source": "original"
+      },
+      {
+        "en": "Researchers used comparable samples to reduce bias between groups.",
+        "vi": "Các nhà nghiên cứu dùng các mẫu tương đương để giảm sai lệch giữa các nhóm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6252,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "confirmation",
+    "lemma": "confirmation",
+    "pos": "n",
+    "ipa": "/ˌkɑnfɝˈmeɪʃən/",
+    "ipa_us": "/ˌkɑnfɝˈmeɪʃən/",
+    "ipa_uk": "/kɒnfəmˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "sự xác nhận rằng thông tin, hành động hoặc sự kiện là đúng",
+    "definition_en": "evidence or notice that something is correct, complete, or accepted",
+    "examples": [
+      {
+        "en": "The customer receives confirmation after the payment is recorded.",
+        "vi": "Khách hàng nhận xác nhận sau khi khoản thanh toán được ghi nhận.",
+        "source": "original"
+      },
+      {
+        "en": "Written confirmation is required before the supplier changes delivery terms.",
+        "vi": "Cần xác nhận bằng văn bản trước khi nhà cung cấp thay đổi điều khoản giao hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6253,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "merchant",
+    "lemma": "merchant",
+    "pos": "n",
+    "ipa": "/ˈmɝtʃənt/",
+    "ipa_us": "/ˈmɝtʃənt/",
+    "ipa_uk": "/mˈɜːtʃənt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "người hoặc doanh nghiệp bán hàng hóa, đặc biệt trong thương mại",
+    "definition_en": "a person or business that sells goods, especially through commercial trade",
+    "examples": [
+      {
+        "en": "The merchant accepts digital payments through a secure terminal.",
+        "vi": "Nhà bán hàng chấp nhận thanh toán số qua thiết bị đầu cuối an toàn.",
+        "source": "original"
+      },
+      {
+        "en": "Each merchant receives a monthly statement of fees and transactions.",
+        "vi": "Mỗi nhà bán hàng nhận bảng kê phí và giao dịch hằng tháng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6293,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  },
+  {
+    "word": "merit",
+    "lemma": "merit",
+    "pos": "n",
+    "ipa": "/ˈmɛɹət/",
+    "ipa_us": "/ˈmɛɹət/",
+    "ipa_uk": "/mˈɛɹɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "giá trị hoặc ưu điểm khiến một ý tưởng đáng xem xét",
+    "definition_en": "a quality or advantage that makes something worthy of consideration",
+    "examples": [
+      {
+        "en": "The committee evaluated each proposal on its technical merit.",
+        "vi": "Ủy ban đánh giá từng đề xuất dựa trên giá trị kỹ thuật.",
+        "source": "original"
+      },
+      {
+        "en": "The method has merit because it is simple and reproducible.",
+        "vi": "Phương pháp có ưu điểm vì đơn giản và có thể tái lập.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6294,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "subtle",
+    "lemma": "subtle",
+    "pos": "adj",
+    "ipa": "/ˈsətəɫ/",
+    "ipa_us": "/ˈsətəɫ/",
+    "ipa_uk": "/sˈʌtəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "tinh tế hoặc khó nhận ra ngay",
+    "definition_en": "not obvious and requiring careful attention to notice or understand",
+    "examples": [
+      {
+        "en": "The analysis found a subtle difference between the two customer groups.",
+        "vi": "Phân tích phát hiện một khác biệt tinh tế giữa hai nhóm khách hàng.",
+        "source": "original"
+      },
+      {
+        "en": "A subtle wording change can influence survey responses.",
+        "vi": "Một thay đổi câu chữ tinh tế có thể ảnh hưởng câu trả lời khảo sát.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6328,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "ethical",
+    "lemma": "ethical",
+    "pos": "adj",
+    "ipa": "/ˈɛθɪkəɫ/",
+    "ipa_us": "/ˈɛθɪkəɫ/",
+    "ipa_uk": "/ˈɛθɪkəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "phù hợp với nguyên tắc đạo đức và cách hành xử đúng",
+    "definition_en": "consistent with accepted moral principles and responsible conduct",
+    "examples": [
+      {
+        "en": "Ethical research requires informed consent from participants.",
+        "vi": "Nghiên cứu có đạo đức đòi hỏi sự đồng thuận có hiểu biết từ người tham gia.",
+        "source": "original"
+      },
+      {
+        "en": "The company adopted ethical guidelines for automated decision systems.",
+        "vi": "Công ty áp dụng hướng dẫn đạo đức cho các hệ thống ra quyết định tự động.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 6382,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "academic"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "academic"
+  },
+  {
+    "word": "excellence",
+    "lemma": "excellence",
+    "pos": "n",
+    "ipa": "/ˈɛksəɫəns/",
+    "ipa_us": "/ˈɛksəɫəns/",
+    "ipa_uk": "/ˈɛksələns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03501-04000.json",
+        "batch_sha256": "efbeef008d5468280f183a5cc1f416cd3c580c3128aa343f6d38df16820ac9c9"
+      }
+    },
+    "meaning_vi": "mức chất lượng rất cao hoặc thành tích xuất sắc",
+    "definition_en": "an extremely high level of quality or achievement",
+    "examples": [
+      {
+        "en": "Service excellence depends on consistent training and clear standards.",
+        "vi": "Dịch vụ xuất sắc phụ thuộc vào đào tạo nhất quán và tiêu chuẩn rõ ràng.",
+        "source": "original"
+      },
+      {
+        "en": "The award recognizes excellence in applied business research.",
+        "vi": "Giải thưởng ghi nhận sự xuất sắc trong nghiên cứu kinh doanh ứng dụng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 6383,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "business"
+  }
+]

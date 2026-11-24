@@ -1,0 +1,5926 @@
+[
+  {
+    "word": "touching",
+    "lemma": "touching",
+    "pos": "adj",
+    "ipa": "/ˈtətʃɪŋ/",
+    "ipa_us": "/ˈtətʃɪŋ/",
+    "ipa_uk": "/tˈʌtʃɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cảm động",
+    "definition_en": "causing sympathy or affection",
+    "examples": [
+      {
+        "en": "Her touching letter made me smile.",
+        "vi": "Bức thư cảm động của cô khiến tôi mỉm cười.",
+        "source": "original"
+      },
+      {
+        "en": "The manager gave a touching farewell speech.",
+        "vi": "Quản lý có bài phát biểu chia tay đầy cảm động.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "touching speech",
+        "vi": "bài phát biểu cảm động"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5014,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "useless",
+    "lemma": "useless",
+    "pos": "adj",
+    "ipa": "/ˈjusɫəs/",
+    "ipa_us": "/ˈjusɫəs/",
+    "ipa_uk": "/jˈuːsləs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "vô dụng",
+    "definition_en": "providing no practical help",
+    "examples": [
+      {
+        "en": "This broken key is useless.",
+        "vi": "Chiếc chìa khóa hỏng này vô dụng.",
+        "source": "original"
+      },
+      {
+        "en": "An outdated price list is useless to the sales team.",
+        "vi": "Danh sách giá lỗi thời không có ích cho đội bán hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "completely useless",
+        "vi": "hoàn toàn vô dụng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5020,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "creator",
+    "lemma": "creator",
+    "pos": "n",
+    "ipa": "/kɹiˈeɪtɝ/",
+    "ipa_us": "/kɹiˈeɪtɝ/",
+    "ipa_uk": "/kɹiːˈeɪtɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "người sáng tạo",
+    "definition_en": "someone who makes something original",
+    "examples": [
+      {
+        "en": "The creator of this comic lives nearby.",
+        "vi": "Người sáng tạo bộ truyện này sống gần đây.",
+        "source": "original"
+      },
+      {
+        "en": "We invited the creator of the tutorial to our workshop.",
+        "vi": "Chúng tôi mời người tạo bài hướng dẫn đến hội thảo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "content creator",
+        "vi": "người sáng tạo nội dung"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5045,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "media"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "detective",
+    "lemma": "detective",
+    "pos": "n",
+    "ipa": "/dɪˈtɛktɪv/",
+    "ipa_us": "/dɪˈtɛktɪv/",
+    "ipa_uk": "/dɪtˈɛktɪv/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thám tử; điều tra viên",
+    "definition_en": "someone who investigates crimes or gathers evidence",
+    "examples": [
+      {
+        "en": "The detective examined the footprint.",
+        "vi": "Thám tử kiểm tra dấu chân.",
+        "source": "original"
+      },
+      {
+        "en": "A private detective interviewed the former employee.",
+        "vi": "Một thám tử tư phỏng vấn nhân viên cũ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "private detective",
+        "vi": "thám tử tư"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5049,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "disability",
+    "lemma": "disability",
+    "pos": "n",
+    "ipa": "/ˌdɪsəˈbɪɫɪti/",
+    "ipa_us": "/ˌdɪsəˈbɪɫɪti/",
+    "ipa_uk": "/dˌɪsɐbˈɪlətˌi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tình trạng khuyết tật",
+    "definition_en": "a physical or mental condition that may limit participation in activities",
+    "examples": [
+      {
+        "en": "The club welcomes children with a disability.",
+        "vi": "Câu lạc bộ chào đón trẻ em khuyết tật.",
+        "source": "original"
+      },
+      {
+        "en": "The company provides accommodations for employees with a disability.",
+        "vi": "Công ty cung cấp các điều chỉnh hỗ trợ nhân viên khuyết tật.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "physical disability",
+        "vi": "khuyết tật thể chất"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5051,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "duck",
+    "lemma": "duck",
+    "pos": "n",
+    "ipa": "/ˈdək/",
+    "ipa_us": "/ˈdək/",
+    "ipa_uk": "/dˈʌk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "con vịt",
+    "definition_en": "a water bird with a broad bill and webbed feet",
+    "examples": [
+      {
+        "en": "A duck swam under the bridge.",
+        "vi": "Một con vịt bơi dưới cầu.",
+        "source": "original"
+      },
+      {
+        "en": "The guide photographed a duck near the visitor center.",
+        "vi": "Hướng dẫn viên chụp ảnh một con vịt gần trung tâm đón khách.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wild duck",
+        "vi": "vịt hoang"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5055,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "farming",
+    "lemma": "farming",
+    "pos": "n",
+    "ipa": "/ˈfɑɹmɪŋ/",
+    "ipa_us": "/ˈfɑɹmɪŋ/",
+    "ipa_uk": "/fˈɑːmɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nghề nông; canh tác",
+    "definition_en": "the practice of growing crops or raising animals",
+    "examples": [
+      {
+        "en": "Farming supports many families here.",
+        "vi": "Nghề nông nuôi sống nhiều gia đình ở đây.",
+        "source": "original"
+      },
+      {
+        "en": "The cooperative invests in sustainable farming methods.",
+        "vi": "Hợp tác xã đầu tư vào phương pháp canh tác bền vững.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sustainable farming",
+        "vi": "canh tác bền vững"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5060,
+    "lists": [
+      "cefrj-1.6",
+      "wordfreq"
+    ],
+    "topics": [
+      "agriculture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "hood",
+    "lemma": "hood",
+    "pos": "n",
+    "ipa": "/ˈhʊd/",
+    "ipa_us": "/ˈhʊd/",
+    "ipa_uk": "/hˈʊd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "mũ trùm đầu gắn với áo",
+    "definition_en": "a part of a garment that covers the head",
+    "examples": [
+      {
+        "en": "I pulled my hood over my ears.",
+        "vi": "Tôi kéo mũ trùm che tai.",
+        "source": "original"
+      },
+      {
+        "en": "The supplier added a waterproof hood to each jacket.",
+        "vi": "Nhà cung cấp thêm mũ trùm chống nước cho mỗi áo khoác.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "waterproof hood",
+        "vi": "mũ trùm chống nước"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5075,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "clothing"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "nail",
+    "lemma": "nail",
+    "pos": "n",
+    "ipa": "/ˈneɪɫ/",
+    "ipa_us": "/ˈneɪɫ/",
+    "ipa_uk": "/nˈeɪl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đinh",
+    "definition_en": "a thin metal pin used to join materials",
+    "examples": [
+      {
+        "en": "A loose nail scratched the floor.",
+        "vi": "Một chiếc đinh lỏng làm xước sàn.",
+        "source": "original"
+      },
+      {
+        "en": "The carpenter removed each nail from the old panel.",
+        "vi": "Thợ mộc tháo từng chiếc đinh khỏi tấm ván cũ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "loose nail",
+        "vi": "đinh bị lỏng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5088,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "construction"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "nonsense",
+    "lemma": "nonsense",
+    "pos": "n",
+    "ipa": "/ˈnɑnsɛns/",
+    "ipa_us": "/ˈnɑnsɛns/",
+    "ipa_uk": "/nˈɒnsəns/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "điều vô nghĩa; lời nhảm nhí",
+    "definition_en": "words or ideas that make no sense",
+    "examples": [
+      {
+        "en": "The story about invisible homework was nonsense.",
+        "vi": "Câu chuyện về bài tập vô hình thật vô lý.",
+        "source": "original"
+      },
+      {
+        "en": "The manager dismissed the rumor as nonsense.",
+        "vi": "Quản lý bác bỏ tin đồn vì cho rằng nó vô căn cứ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "complete nonsense",
+        "vi": "điều hoàn toàn vô lý"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5091,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "swim",
+    "lemma": "swim",
+    "pos": "v",
+    "ipa": "/ˈswɪm/",
+    "ipa_us": "/ˈswɪm/",
+    "ipa_uk": "/swˈɪm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bơi",
+    "definition_en": "to move through water using your body",
+    "examples": [
+      {
+        "en": "I swim in the lake every summer.",
+        "vi": "Tôi bơi ở hồ mỗi mùa hè.",
+        "source": "original"
+      },
+      {
+        "en": "Hotel guests can swim before the morning conference.",
+        "vi": "Khách lưu trú có thể bơi trước hội nghị buổi sáng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "swim laps",
+        "vi": "bơi nhiều vòng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5113,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "sports"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "bored",
+    "lemma": "bored",
+    "pos": "adj",
+    "ipa": "/ˈbɔɹd/",
+    "ipa_us": "/ˈbɔɹd/",
+    "ipa_uk": "/bˈɔːd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "chán; buồn chán",
+    "definition_en": "feeling uninterested because there is little to do",
+    "examples": [
+      {
+        "en": "The children grew bored on the bus.",
+        "vi": "Bọn trẻ dần thấy chán trên xe buýt.",
+        "source": "original"
+      },
+      {
+        "en": "Staff felt bored during the repetitive training exercise.",
+        "vi": "Nhân viên thấy chán trong bài tập huấn luyện lặp đi lặp lại.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "get bored",
+        "vi": "cảm thấy chán"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5127,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "bronze",
+    "lemma": "bronze",
+    "pos": "n",
+    "ipa": "/ˈbɹɑnz/",
+    "ipa_us": "/ˈbɹɑnz/",
+    "ipa_uk": "/bɹˈɒnz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đồng thiếc",
+    "definition_en": "a metal made mainly from copper and tin",
+    "examples": [
+      {
+        "en": "The bell is made of bronze.",
+        "vi": "Chiếc chuông làm bằng đồng thiếc.",
+        "source": "original"
+      },
+      {
+        "en": "The workshop ordered bronze for decorative handles.",
+        "vi": "Xưởng đặt mua đồng thiếc để làm tay nắm trang trí.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cast bronze",
+        "vi": "đồng thiếc đúc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5128,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "materials"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "caring",
+    "lemma": "caring",
+    "pos": "adj",
+    "ipa": "/ˈkɛɹɪŋ/",
+    "ipa_us": "/ˈkɛɹɪŋ/",
+    "ipa_uk": "/kˈeəɹɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "chu đáo; biết quan tâm",
+    "definition_en": "showing kindness and concern for others",
+    "examples": [
+      {
+        "en": "Our neighbor is a caring person.",
+        "vi": "Hàng xóm của chúng tôi là người biết quan tâm.",
+        "source": "original"
+      },
+      {
+        "en": "A caring supervisor notices when employees need support.",
+        "vi": "Người giám sát chu đáo nhận ra khi nhân viên cần hỗ trợ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "caring attitude",
+        "vi": "thái độ quan tâm"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5130,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "distinguished",
+    "lemma": "distinguished",
+    "pos": "adj",
+    "ipa": "/dɪˈstɪŋɡwɪʃt/",
+    "ipa_us": "/dɪˈstɪŋɡwɪʃt/",
+    "ipa_uk": "/dɪstˈɪŋɡwɪʃt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "xuất sắc; đáng kính",
+    "definition_en": "widely respected for important achievements",
+    "examples": [
+      {
+        "en": "A distinguished scientist visited our school.",
+        "vi": "Một nhà khoa học đáng kính đến thăm trường.",
+        "source": "original"
+      },
+      {
+        "en": "The award honors a distinguished engineer.",
+        "vi": "Giải thưởng vinh danh một kỹ sư xuất sắc.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "distinguished career",
+        "vi": "sự nghiệp xuất sắc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5147,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "work"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "flesh",
+    "lemma": "flesh",
+    "pos": "n",
+    "ipa": "/ˈfɫɛʃ/",
+    "ipa_us": "/ˈfɫɛʃ/",
+    "ipa_uk": "/flˈɛʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thịt; phần thịt của quả",
+    "definition_en": "the soft part of a body or fruit",
+    "examples": [
+      {
+        "en": "The peach has sweet yellow flesh.",
+        "vi": "Quả đào có phần thịt vàng ngọt.",
+        "source": "original"
+      },
+      {
+        "en": "The cook removed the flesh from the avocado.",
+        "vi": "Đầu bếp lấy phần thịt ra khỏi quả bơ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fruit flesh",
+        "vi": "phần thịt quả"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5152,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "forty",
+    "lemma": "forty",
+    "pos": "num",
+    "ipa": "/ˈfɔɹti/",
+    "ipa_us": "/ˈfɔɹti/",
+    "ipa_uk": "/fˈɔːti/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bốn mươi",
+    "definition_en": "the number equal to four times ten",
+    "examples": [
+      {
+        "en": "My aunt planted forty tulips.",
+        "vi": "Dì tôi trồng bốn mươi cây tulip.",
+        "source": "original"
+      },
+      {
+        "en": "The seminar room holds forty participants.",
+        "vi": "Phòng hội thảo chứa được bốn mươi người.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "forty minutes",
+        "vi": "bốn mươi phút"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5154,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "mentally",
+    "lemma": "mentally",
+    "pos": "adv",
+    "ipa": "/ˈmɛnəɫi/",
+    "ipa_us": "/ˈmɛnəɫi/",
+    "ipa_uk": "/mˈɛntəli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "về mặt tinh thần; về trí óc",
+    "definition_en": "in a way that relates to the mind",
+    "examples": [
+      {
+        "en": "I felt mentally refreshed after a walk.",
+        "vi": "Tôi thấy tinh thần sảng khoái sau khi đi bộ.",
+        "source": "original"
+      },
+      {
+        "en": "The long shift left the technicians mentally tired.",
+        "vi": "Ca làm dài khiến các kỹ thuật viên mệt mỏi về tinh thần.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mentally prepared",
+        "vi": "chuẩn bị về tinh thần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5168,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "prisoner",
+    "lemma": "prisoner",
+    "pos": "n",
+    "ipa": "/ˈpɹɪzənɝ/",
+    "ipa_us": "/ˈpɹɪzənɝ/",
+    "ipa_uk": "/pɹˈɪzənɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tù nhân; người bị giam giữ",
+    "definition_en": "someone held in prison or captivity",
+    "examples": [
+      {
+        "en": "The prisoner received a letter from his sister.",
+        "vi": "Tù nhân nhận thư từ chị gái.",
+        "source": "original"
+      },
+      {
+        "en": "The legal team arranged a meeting with the prisoner.",
+        "vi": "Nhóm pháp lý sắp xếp cuộc gặp với tù nhân.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "release a prisoner",
+        "vi": "trả tự do cho tù nhân"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5179,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "striking",
+    "lemma": "striking",
+    "pos": "adj",
+    "ipa": "/ˈstɹaɪkɪŋ/",
+    "ipa_us": "/ˈstɹaɪkɪŋ/",
+    "ipa_uk": "/stɹˈaɪkɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nổi bật; ấn tượng",
+    "definition_en": "very noticeable or impressive",
+    "examples": [
+      {
+        "en": "The garden has a striking purple gate.",
+        "vi": "Khu vườn có cánh cổng tím nổi bật.",
+        "source": "original"
+      },
+      {
+        "en": "The report revealed a striking regional difference.",
+        "vi": "Báo cáo cho thấy sự khác biệt rõ rệt giữa các vùng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "striking difference",
+        "vi": "sự khác biệt rõ rệt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5190,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "villa",
+    "lemma": "villa",
+    "pos": "n",
+    "ipa": "/ˈvɪɫə/",
+    "ipa_us": "/ˈvɪɫə/",
+    "ipa_uk": "/vˈɪlɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "biệt thự",
+    "definition_en": "a large house often used for holidays",
+    "examples": [
+      {
+        "en": "We rented a villa beside the sea.",
+        "vi": "Chúng tôi thuê biệt thự cạnh biển.",
+        "source": "original"
+      },
+      {
+        "en": "The agency listed a villa for corporate retreats.",
+        "vi": "Đại lý đăng một biệt thự dành cho chuyến nghỉ dưỡng của doanh nghiệp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "holiday villa",
+        "vi": "biệt thự nghỉ dưỡng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5198,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "yoga",
+    "lemma": "yoga",
+    "pos": "n",
+    "ipa": "/ˈjoʊɡə/",
+    "ipa_us": "/ˈjoʊɡə/",
+    "ipa_uk": "/jˈəʊɡɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "yoga",
+    "definition_en": "a practice combining physical poses, breathing and mental focus",
+    "examples": [
+      {
+        "en": "My sister practices yoga before breakfast.",
+        "vi": "Chị tôi tập yoga trước bữa sáng.",
+        "source": "original"
+      },
+      {
+        "en": "The office introduced a weekly yoga class.",
+        "vi": "Văn phòng mở lớp yoga hằng tuần.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "yoga class",
+        "vi": "lớp yoga"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5205,
+    "lists": [
+      "cefrj-1.6",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "blade",
+    "lemma": "blade",
+    "pos": "n",
+    "ipa": "/ˈbɫeɪd/",
+    "ipa_us": "/ˈbɫeɪd/",
+    "ipa_uk": "/blˈeɪd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "lưỡi dao; lưỡi cắt",
+    "definition_en": "the flat cutting part of a tool",
+    "examples": [
+      {
+        "en": "The blade of this knife is blunt.",
+        "vi": "Lưỡi con dao này đã cùn.",
+        "source": "original"
+      },
+      {
+        "en": "The technician replaced the worn blade.",
+        "vi": "Kỹ thuật viên thay lưỡi cắt đã mòn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sharp blade",
+        "vi": "lưỡi dao sắc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5215,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "tools"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "corn",
+    "lemma": "corn",
+    "pos": "n",
+    "ipa": "/ˈkɔɹn/",
+    "ipa_us": "/ˈkɔɹn/",
+    "ipa_uk": "/kˈɔːn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ngô; bắp",
+    "definition_en": "a crop that produces edible kernels",
+    "examples": [
+      {
+        "en": "We boiled corn for dinner.",
+        "vi": "Chúng tôi luộc ngô cho bữa tối.",
+        "source": "original"
+      },
+      {
+        "en": "The factory buys corn from local growers.",
+        "vi": "Nhà máy mua ngô từ người trồng địa phương.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sweet corn",
+        "vi": "ngô ngọt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5230,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "dealer",
+    "lemma": "dealer",
+    "pos": "n",
+    "ipa": "/ˈdiɫɝ/",
+    "ipa_us": "/ˈdiɫɝ/",
+    "ipa_uk": "/dˈiːlɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "người buôn bán; đại lý",
+    "definition_en": "a person or business selling particular goods",
+    "examples": [
+      {
+        "en": "The car dealer showed us a used van.",
+        "vi": "Đại lý ô tô cho chúng tôi xem một xe tải nhỏ cũ.",
+        "source": "original"
+      },
+      {
+        "en": "Our dealer provides spare parts within two days.",
+        "vi": "Đại lý cung cấp phụ tùng trong vòng hai ngày.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "authorized dealer",
+        "vi": "đại lý được ủy quyền"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5233,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "destiny",
+    "lemma": "destiny",
+    "pos": "n",
+    "ipa": "/ˈdɛstəni/",
+    "ipa_us": "/ˈdɛstəni/",
+    "ipa_uk": "/dˈɛstɪni/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "số phận; vận mệnh",
+    "definition_en": "a future believed to be predetermined",
+    "examples": [
+      {
+        "en": "She wondered whether music was her destiny.",
+        "vi": "Cô tự hỏi liệu âm nhạc có phải định mệnh của mình.",
+        "source": "original"
+      },
+      {
+        "en": "The founder wanted to shape the company's destiny.",
+        "vi": "Người sáng lập muốn định hình vận mệnh công ty.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "shape your destiny",
+        "vi": "định hình vận mệnh của mình"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5235,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "filling",
+    "lemma": "filling",
+    "pos": "n",
+    "ipa": "/ˈfɪɫɪŋ/",
+    "ipa_us": "/ˈfɪɫɪŋ/",
+    "ipa_uk": "/fˈɪlɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhân bánh; phần đồ ăn nhồi",
+    "definition_en": "food placed inside another food such as a pie",
+    "examples": [
+      {
+        "en": "The pastry has a mango filling.",
+        "vi": "Chiếc bánh ngọt có nhân xoài.",
+        "source": "original"
+      },
+      {
+        "en": "The bakery changed its filling after customer feedback.",
+        "vi": "Tiệm bánh đổi phần nhân sau khi nhận phản hồi khách hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cream filling",
+        "vi": "nhân kem"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5245,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "nightmare",
+    "lemma": "nightmare",
+    "pos": "n",
+    "ipa": "/ˈnaɪtˌmɛɹ/",
+    "ipa_us": "/ˈnaɪtˌmɛɹ/",
+    "ipa_uk": "/nˈaɪtmeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ác mộng",
+    "definition_en": "a frightening or disturbing dream",
+    "examples": [
+      {
+        "en": "I woke after a vivid nightmare.",
+        "vi": "Tôi tỉnh giấc sau một cơn ác mộng sống động.",
+        "source": "original"
+      },
+      {
+        "en": "He had a nightmare about losing his work files.",
+        "vi": "Anh gặp ác mộng về việc mất các tệp công việc.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "recurring nightmare",
+        "vi": "ác mộng lặp lại"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5263,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "pie",
+    "lemma": "pie",
+    "pos": "n",
+    "ipa": "/ˈpaɪ/",
+    "ipa_us": "/ˈpaɪ/",
+    "ipa_uk": "/pˈaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bánh nướng có nhân",
+    "definition_en": "a baked dish with pastry and a sweet or savory filling",
+    "examples": [
+      {
+        "en": "We shared a warm apple pie.",
+        "vi": "Chúng tôi cùng ăn bánh táo nướng còn ấm.",
+        "source": "original"
+      },
+      {
+        "en": "The caterer prepared a vegetable pie for lunch.",
+        "vi": "Đơn vị cung cấp suất ăn chuẩn bị bánh nướng nhân rau củ cho bữa trưa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "apple pie",
+        "vi": "bánh táo nướng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5268,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "sandy",
+    "lemma": "sandy",
+    "pos": "adj",
+    "ipa": "/ˈsændi/",
+    "ipa_us": "/ˈsændi/",
+    "ipa_uk": "/sˈændi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "có nhiều cát; phủ cát",
+    "definition_en": "containing or covered with sand",
+    "examples": [
+      {
+        "en": "The children played on a sandy beach.",
+        "vi": "Bọn trẻ chơi trên bãi biển đầy cát.",
+        "source": "original"
+      },
+      {
+        "en": "Engineers tested the sandy soil before construction.",
+        "vi": "Các kỹ sư kiểm tra đất cát trước khi xây dựng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sandy soil",
+        "vi": "đất cát"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5286,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "sheep",
+    "lemma": "sheep",
+    "pos": "n",
+    "ipa": "/ˈʃip/",
+    "ipa_us": "/ˈʃip/",
+    "ipa_uk": "/ʃˈiːp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "con cừu",
+    "definition_en": "a farm animal raised for wool, meat or milk",
+    "examples": [
+      {
+        "en": "A sheep stood beside the fence.",
+        "vi": "Một con cừu đứng cạnh hàng rào.",
+        "source": "original"
+      },
+      {
+        "en": "The farm employs workers to care for the sheep.",
+        "vi": "Trang trại thuê công nhân chăm sóc đàn cừu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "flock of sheep",
+        "vi": "đàn cừu"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5288,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "bare",
+    "lemma": "bare",
+    "pos": "adj",
+    "ipa": "/ˈbɛɹ/",
+    "ipa_us": "/ˈbɛɹ/",
+    "ipa_uk": "/bˈeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "trần; không được che phủ",
+    "definition_en": "without a covering or usual protection",
+    "examples": [
+      {
+        "en": "He walked across the grass with bare feet.",
+        "vi": "Anh đi chân trần qua bãi cỏ.",
+        "source": "original"
+      },
+      {
+        "en": "The decorator painted the bare walls before installing shelves.",
+        "vi": "Thợ trang trí sơn tường trống trước khi lắp kệ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "bare hands",
+        "vi": "tay trần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5318,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "cherry",
+    "lemma": "cherry",
+    "pos": "n",
+    "ipa": "/ˈtʃɛɹi/",
+    "ipa_us": "/ˈtʃɛɹi/",
+    "ipa_uk": "/tʃˈɛɹi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "quả anh đào",
+    "definition_en": "a small round fruit with a stone inside",
+    "examples": [
+      {
+        "en": "A cherry rolled off my plate.",
+        "vi": "Một quả anh đào lăn khỏi đĩa.",
+        "source": "original"
+      },
+      {
+        "en": "The restaurant ordered cherry jam from a local producer.",
+        "vi": "Nhà hàng đặt mứt anh đào từ nhà sản xuất địa phương.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cherry jam",
+        "vi": "mứt anh đào"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5328,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "chill",
+    "lemma": "chill",
+    "pos": "n",
+    "ipa": "/ˈtʃɪɫ/",
+    "ipa_us": "/ˈtʃɪɫ/",
+    "ipa_uk": "/tʃˈɪl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cảm giác lạnh; cơn rét",
+    "definition_en": "a sudden feeling of cold",
+    "examples": [
+      {
+        "en": "A chill ran through me at dawn.",
+        "vi": "Tôi cảm thấy lạnh buốt lúc bình minh.",
+        "source": "original"
+      },
+      {
+        "en": "Workers felt a chill when the heating failed.",
+        "vi": "Công nhân cảm thấy lạnh khi hệ thống sưởi hỏng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feel a chill",
+        "vi": "cảm thấy lạnh"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5329,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "costume",
+    "lemma": "costume",
+    "pos": "n",
+    "ipa": "/ˈkɑstum/",
+    "ipa_us": "/ˈkɑstum/",
+    "ipa_uk": "/kˈɒstjuːm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "trang phục hóa trang; phục trang",
+    "definition_en": "clothes worn to represent a character or period",
+    "examples": [
+      {
+        "en": "My cousin made a dragon costume.",
+        "vi": "Em họ tôi làm bộ đồ hóa trang rồng.",
+        "source": "original"
+      },
+      {
+        "en": "The theater hired someone to repair each costume.",
+        "vi": "Nhà hát thuê người sửa từng bộ phục trang.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "traditional costume",
+        "vi": "trang phục truyền thống"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5340,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "arts"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "lap",
+    "lemma": "lap",
+    "pos": "n",
+    "ipa": "/ˈɫæp/",
+    "ipa_us": "/ˈɫæp/",
+    "ipa_uk": "/lˈæp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đùi khi ngồi",
+    "definition_en": "the area across a seated person's upper legs",
+    "examples": [
+      {
+        "en": "The kitten slept on my lap.",
+        "vi": "Chú mèo con ngủ trên đùi tôi.",
+        "source": "original"
+      },
+      {
+        "en": "She kept the visitor's folder on her lap.",
+        "vi": "Cô đặt tập hồ sơ của khách trên đùi.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sit on someone's lap",
+        "vi": "ngồi trên đùi ai"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5360,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "liver",
+    "lemma": "liver",
+    "pos": "n",
+    "ipa": "/ˈɫɪvɝ/",
+    "ipa_us": "/ˈɫɪvɝ/",
+    "ipa_uk": "/lˈɪvɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "gan",
+    "definition_en": "an organ that processes nutrients and removes harmful substances from blood",
+    "examples": [
+      {
+        "en": "The liver performs important functions.",
+        "vi": "Gan thực hiện các chức năng quan trọng.",
+        "source": "original"
+      },
+      {
+        "en": "The laboratory analyzed samples to assess liver function.",
+        "vi": "Phòng xét nghiệm phân tích mẫu để đánh giá chức năng gan.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "liver function",
+        "vi": "chức năng gan"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5362,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "metro",
+    "lemma": "metro",
+    "pos": "n",
+    "ipa": "/ˈmɛˌtɹoʊ/",
+    "ipa_us": "/ˈmɛˌtɹoʊ/",
+    "ipa_uk": "/mˈɛtɹəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "hệ thống tàu điện đô thị",
+    "definition_en": "an urban railway system often running underground",
+    "examples": [
+      {
+        "en": "We took the metro to the museum.",
+        "vi": "Chúng tôi đi tàu điện đến bảo tàng.",
+        "source": "original"
+      },
+      {
+        "en": "The new office is near a metro station.",
+        "vi": "Văn phòng mới gần ga tàu điện đô thị.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "metro station",
+        "vi": "ga tàu điện đô thị"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5363,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "oak",
+    "lemma": "oak",
+    "pos": "n",
+    "ipa": "/ˈoʊk/",
+    "ipa_us": "/ˈoʊk/",
+    "ipa_uk": "/ˈəʊk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cây sồi; gỗ sồi",
+    "definition_en": "a large tree with acorns or its hard wood",
+    "examples": [
+      {
+        "en": "An oak shades our garden.",
+        "vi": "Một cây sồi tỏa bóng mát cho vườn.",
+        "source": "original"
+      },
+      {
+        "en": "The furniture company uses oak for dining tables.",
+        "vi": "Công ty nội thất dùng gỗ sồi để làm bàn ăn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "oak tree",
+        "vi": "cây sồi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5368,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "runner",
+    "lemma": "runner",
+    "pos": "n",
+    "ipa": "/ˈɹənɝ/",
+    "ipa_us": "/ˈɹənɝ/",
+    "ipa_uk": "/ɹˈʌnɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "người chạy bộ",
+    "definition_en": "someone who runs for exercise or competition",
+    "examples": [
+      {
+        "en": "The runner stopped to drink water.",
+        "vi": "Người chạy bộ dừng lại uống nước.",
+        "source": "original"
+      },
+      {
+        "en": "Each runner received a badge at registration.",
+        "vi": "Mỗi vận động viên chạy nhận một thẻ khi đăng ký.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "marathon runner",
+        "vi": "vận động viên chạy marathon"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5382,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "sports"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "sadly",
+    "lemma": "sadly",
+    "pos": "adv",
+    "ipa": "/ˈsædɫi/",
+    "ipa_us": "/ˈsædɫi/",
+    "ipa_uk": "/sˈædli/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "buồn bã; đáng tiếc là",
+    "definition_en": "in a sad manner or expressing regret",
+    "examples": [
+      {
+        "en": "She smiled sadly at the photograph.",
+        "vi": "Cô buồn bã mỉm cười với bức ảnh.",
+        "source": "original"
+      },
+      {
+        "en": "Sadly, the supplier could not deliver on time.",
+        "vi": "Đáng tiếc là nhà cung cấp không thể giao đúng hạn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "smile sadly",
+        "vi": "mỉm cười buồn bã"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5383,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "soap",
+    "lemma": "soap",
+    "pos": "n",
+    "ipa": "/ˈsoʊp/",
+    "ipa_us": "/ˈsoʊp/",
+    "ipa_uk": "/sˈəʊp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "xà phòng",
+    "definition_en": "a substance used with water to wash things",
+    "examples": [
+      {
+        "en": "I washed my hands with soap.",
+        "vi": "Tôi rửa tay bằng xà phòng.",
+        "source": "original"
+      },
+      {
+        "en": "The hotel provides soap in each bathroom.",
+        "vi": "Khách sạn cung cấp xà phòng trong mỗi phòng tắm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "liquid soap",
+        "vi": "xà phòng dạng lỏng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5392,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "verse",
+    "lemma": "verse",
+    "pos": "n",
+    "ipa": "/ˈvɝs/",
+    "ipa_us": "/ˈvɝs/",
+    "ipa_uk": "/vˈɜːs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "khổ thơ; đoạn lời bài hát",
+    "definition_en": "a group of lines in a poem or song",
+    "examples": [
+      {
+        "en": "I memorized the final verse of the poem.",
+        "vi": "Tôi học thuộc khổ thơ cuối.",
+        "source": "original"
+      },
+      {
+        "en": "The editor suggested removing one verse from the song.",
+        "vi": "Biên tập viên đề nghị bỏ một đoạn lời bài hát.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "final verse",
+        "vi": "khổ thơ cuối"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5402,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "arts"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "vintage",
+    "lemma": "vintage",
+    "pos": "adj",
+    "ipa": "/ˈvɪntɪdʒ/",
+    "ipa_us": "/ˈvɪntɪdʒ/",
+    "ipa_uk": "/vˈɪntɪdʒ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cổ điển; thuộc thời kỳ trước và có giá trị",
+    "definition_en": "from an earlier period and valued for its style",
+    "examples": [
+      {
+        "en": "He bought a vintage camera.",
+        "vi": "Anh mua một chiếc máy ảnh cổ.",
+        "source": "original"
+      },
+      {
+        "en": "The shop displays vintage clothing in its window.",
+        "vi": "Cửa hàng trưng bày quần áo cổ điển ở cửa kính.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "vintage clothing",
+        "vi": "quần áo cổ điển"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5404,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "shopping"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "barrel",
+    "lemma": "barrel",
+    "pos": "n",
+    "ipa": "/ˈbæɹəɫ/",
+    "ipa_us": "/ˈbæɹəɫ/",
+    "ipa_uk": "/bˈæɹəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thùng hình trụ lớn",
+    "definition_en": "a large cylindrical container for storing materials",
+    "examples": [
+      {
+        "en": "Rainwater filled the wooden barrel.",
+        "vi": "Nước mưa làm đầy thùng gỗ.",
+        "source": "original"
+      },
+      {
+        "en": "The producer inspected each barrel before shipment.",
+        "vi": "Nhà sản xuất kiểm tra từng thùng trước khi giao hàng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wooden barrel",
+        "vi": "thùng gỗ hình trụ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5418,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "business"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "boxing",
+    "lemma": "boxing",
+    "pos": "n",
+    "ipa": "/ˈbɑksɪŋ/",
+    "ipa_us": "/ˈbɑksɪŋ/",
+    "ipa_uk": "/bˈɒksɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "môn quyền anh",
+    "definition_en": "a sport involving fighting with gloved fists under rules",
+    "examples": [
+      {
+        "en": "My brother watches boxing on weekends.",
+        "vi": "Anh tôi xem quyền anh vào cuối tuần.",
+        "source": "original"
+      },
+      {
+        "en": "The gym offers boxing lessons for beginners.",
+        "vi": "Phòng tập mở lớp quyền anh cho người mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "boxing gloves",
+        "vi": "găng tay quyền anh"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5422,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "sports"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "couch",
+    "lemma": "couch",
+    "pos": "n",
+    "ipa": "/ˈkaʊtʃ/",
+    "ipa_us": "/ˈkaʊtʃ/",
+    "ipa_uk": "/kˈaʊtʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ghế sofa",
+    "definition_en": "a long comfortable seat for several people",
+    "examples": [
+      {
+        "en": "I fell asleep on the couch.",
+        "vi": "Tôi ngủ quên trên ghế sofa.",
+        "source": "original"
+      },
+      {
+        "en": "The reception area needs a new couch.",
+        "vi": "Khu vực lễ tân cần ghế sofa mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "comfortable couch",
+        "vi": "ghế sofa thoải mái"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5434,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "crush",
+    "lemma": "crush",
+    "pos": "v",
+    "ipa": "/ˈkɹəʃ/",
+    "ipa_us": "/ˈkɹəʃ/",
+    "ipa_uk": "/kɹˈʌʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nghiền; ép nát",
+    "definition_en": "to break or flatten something by force",
+    "examples": [
+      {
+        "en": "Use a spoon to crush the garlic.",
+        "vi": "Dùng thìa nghiền tỏi.",
+        "source": "original"
+      },
+      {
+        "en": "The machine can crush empty cans for recycling.",
+        "vi": "Máy có thể ép nát lon rỗng để tái chế.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "crush garlic",
+        "vi": "nghiền tỏi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5436,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "dam",
+    "lemma": "dam",
+    "pos": "n",
+    "ipa": "/ˈdæm/",
+    "ipa_us": "/ˈdæm/",
+    "ipa_uk": "/dˈæm/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đập ngăn nước",
+    "definition_en": "a barrier across a river holding back water",
+    "examples": [
+      {
+        "en": "The dam formed a large lake.",
+        "vi": "Con đập tạo thành hồ lớn.",
+        "source": "original"
+      },
+      {
+        "en": "Engineers inspected the dam after heavy rainfall.",
+        "vi": "Các kỹ sư kiểm tra đập sau trận mưa lớn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "build a dam",
+        "vi": "xây đập"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5437,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "environment"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "diabetes",
+    "lemma": "diabetes",
+    "pos": "n",
+    "ipa": "/ˌdaɪəˈbitiz/",
+    "ipa_us": "/ˌdaɪəˈbitiz/",
+    "ipa_uk": "/daɪəbˈiːtiːz/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bệnh đái tháo đường",
+    "definition_en": "a condition involving difficulty controlling blood sugar levels",
+    "examples": [
+      {
+        "en": "My grandfather lives with diabetes.",
+        "vi": "Ông tôi mắc bệnh đái tháo đường.",
+        "source": "original"
+      },
+      {
+        "en": "The clinic offers workshops for patients with diabetes.",
+        "vi": "Phòng khám tổ chức hội thảo cho bệnh nhân đái tháo đường.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "type 2 diabetes",
+        "vi": "đái tháo đường loại 2"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5440,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "dressing",
+    "lemma": "dressing",
+    "pos": "n",
+    "ipa": "/ˈdɹɛsɪŋ/",
+    "ipa_us": "/ˈdɹɛsɪŋ/",
+    "ipa_uk": "/dɹˈɛsɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nước xốt trộn salad",
+    "definition_en": "a sauce added to a salad",
+    "examples": [
+      {
+        "en": "I made a lemon dressing for lunch.",
+        "vi": "Tôi làm nước xốt chanh cho bữa trưa.",
+        "source": "original"
+      },
+      {
+        "en": "The restaurant serves its dressing separately.",
+        "vi": "Nhà hàng phục vụ nước xốt riêng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "salad dressing",
+        "vi": "nước xốt salad"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5441,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "scandal",
+    "lemma": "scandal",
+    "pos": "n",
+    "ipa": "/ˈskændəɫ/",
+    "ipa_us": "/ˈskændəɫ/",
+    "ipa_uk": "/skˈændəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "vụ bê bối",
+    "definition_en": "an event involving behavior that causes public outrage",
+    "examples": [
+      {
+        "en": "The scandal dominated local news.",
+        "vi": "Vụ bê bối chiếm phần lớn bản tin địa phương.",
+        "source": "original"
+      },
+      {
+        "en": "The board investigated the financial scandal.",
+        "vi": "Hội đồng điều tra vụ bê bối tài chính.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "financial scandal",
+        "vi": "vụ bê bối tài chính"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5478,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "trophy",
+    "lemma": "trophy",
+    "pos": "n",
+    "ipa": "/ˈtɹoʊfi/",
+    "ipa_us": "/ˈtɹoʊfi/",
+    "ipa_uk": "/tɹˈəʊfi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cúp; vật lưu niệm chiến thắng",
+    "definition_en": "an object awarded for winning a competition",
+    "examples": [
+      {
+        "en": "The team lifted its trophy.",
+        "vi": "Đội nâng chiếc cúp vô địch.",
+        "source": "original"
+      },
+      {
+        "en": "The organizers ordered a trophy for the annual contest.",
+        "vi": "Ban tổ chức đặt mua cúp cho cuộc thi hằng năm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "win a trophy",
+        "vi": "giành cúp"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5488,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "sports"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "ash",
+    "lemma": "ash",
+    "pos": "n",
+    "ipa": "/ˈæʃ/",
+    "ipa_us": "/ˈæʃ/",
+    "ipa_uk": "/ˈæʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tro",
+    "definition_en": "the powder left after something burns",
+    "examples": [
+      {
+        "en": "Ash covered the fireplace floor.",
+        "vi": "Tro phủ kín đáy lò sưởi.",
+        "source": "original"
+      },
+      {
+        "en": "The maintenance crew removed ash from the furnace.",
+        "vi": "Đội bảo trì dọn tro khỏi lò nung.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wood ash",
+        "vi": "tro gỗ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5504,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "environment"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "aunt",
+    "lemma": "aunt",
+    "pos": "n",
+    "ipa": "/ˈænt/",
+    "ipa_us": "/ˈænt/",
+    "ipa_uk": "/ˈɑːnt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03001-03500.json",
+        "batch_sha256": "0c8123cb06ed335af4742d416a8c2ad44cb1664dd2a9aadb362a48eb51d070db"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cô; dì; bác gái; thím; mợ",
+    "definition_en": "a sister of a parent or the wife of a parent's sibling",
+    "examples": [
+      {
+        "en": "My aunt taught me to sew.",
+        "vi": "Dì tôi dạy tôi may vá.",
+        "source": "original"
+      },
+      {
+        "en": "His aunt manages a small accounting firm.",
+        "vi": "Cô của anh quản lý một công ty kế toán nhỏ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "visit an aunt",
+        "vi": "đến thăm cô hoặc dì"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5505,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "gentleman",
+    "lemma": "gentleman",
+    "pos": "n",
+    "ipa": "/ˈdʒɛnəɫmən/",
+    "ipa_us": "/ˈdʒɛnəɫmən/",
+    "ipa_uk": "/dʒˈɛntəlmən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "quý ông; người đàn ông lịch thiệp",
+    "definition_en": "a man addressed politely or regarded as courteous",
+    "examples": [
+      {
+        "en": "A gentleman held the door for us.",
+        "vi": "Một quý ông giữ cửa cho chúng tôi.",
+        "source": "original"
+      },
+      {
+        "en": "The receptionist directed the gentleman to the meeting room.",
+        "vi": "Nhân viên lễ tân chỉ đường cho vị khách nam đến phòng họp.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "elderly gentleman",
+        "vi": "quý ông lớn tuổi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5525,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "hammer",
+    "lemma": "hammer",
+    "pos": "n",
+    "ipa": "/ˈhæmɝ/",
+    "ipa_us": "/ˈhæmɝ/",
+    "ipa_uk": "/hˈæmɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cái búa",
+    "definition_en": "a tool with a heavy head used for hitting things",
+    "examples": [
+      {
+        "en": "I borrowed a hammer from my neighbor.",
+        "vi": "Tôi mượn búa của hàng xóm.",
+        "source": "original"
+      },
+      {
+        "en": "The apprentice returned the hammer to the cabinet.",
+        "vi": "Người học việc trả búa vào tủ.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rubber hammer",
+        "vi": "búa cao su"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5528,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "tools"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "parade",
+    "lemma": "parade",
+    "pos": "n",
+    "ipa": "/pɝˈeɪd/",
+    "ipa_us": "/pɝˈeɪd/",
+    "ipa_uk": "/pəɹˈeɪd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cuộc diễu hành",
+    "definition_en": "a public procession of people or vehicles",
+    "examples": [
+      {
+        "en": "The parade passed our school.",
+        "vi": "Cuộc diễu hành đi qua trường chúng tôi.",
+        "source": "original"
+      },
+      {
+        "en": "The city hired staff to manage the parade.",
+        "vi": "Thành phố thuê nhân viên điều phối cuộc diễu hành.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "street parade",
+        "vi": "cuộc diễu hành đường phố"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5555,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "paradise",
+    "lemma": "paradise",
+    "pos": "n",
+    "ipa": "/ˈpɛɹəˌdaɪs/",
+    "ipa_us": "/ˈpɛɹəˌdaɪs/",
+    "ipa_uk": "/pˈæɹədˌaɪs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thiên đường; nơi tuyệt đẹp và lý tưởng",
+    "definition_en": "a place or situation of great beauty or happiness",
+    "examples": [
+      {
+        "en": "The quiet island felt like paradise.",
+        "vi": "Hòn đảo yên tĩnh giống như thiên đường.",
+        "source": "original"
+      },
+      {
+        "en": "The brochure calls the resort a paradise for divers.",
+        "vi": "Tờ quảng cáo gọi khu nghỉ dưỡng là thiên đường cho người lặn biển.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "tropical paradise",
+        "vi": "thiên đường nhiệt đới"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5556,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "politician",
+    "lemma": "politician",
+    "pos": "n",
+    "ipa": "/ˌpɑɫəˈtɪʃən/",
+    "ipa_us": "/ˌpɑɫəˈtɪʃən/",
+    "ipa_uk": "/pˌɒlɪtˈɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "chính trị gia",
+    "definition_en": "a person who works in politics or holds political office",
+    "examples": [
+      {
+        "en": "A local politician visited the library.",
+        "vi": "Một chính trị gia địa phương đến thăm thư viện.",
+        "source": "original"
+      },
+      {
+        "en": "The journalist interviewed a politician about public transport.",
+        "vi": "Nhà báo phỏng vấn một chính trị gia về giao thông công cộng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "local politician",
+        "vi": "chính trị gia địa phương"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5560,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "premiere",
+    "lemma": "premiere",
+    "pos": "n",
+    "ipa": "/pɹɛˈmɪɹ/",
+    "ipa_us": "/pɹɛˈmɪɹ/",
+    "ipa_uk": "/pɹˌɛmiˈeə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "buổi công chiếu; buổi ra mắt đầu tiên",
+    "definition_en": "the first public showing or performance of a work",
+    "examples": [
+      {
+        "en": "We attended the premiere of a short film.",
+        "vi": "Chúng tôi dự buổi công chiếu một phim ngắn.",
+        "source": "original"
+      },
+      {
+        "en": "The studio invited reporters to the premiere.",
+        "vi": "Hãng phim mời phóng viên đến buổi công chiếu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "film premiere",
+        "vi": "buổi công chiếu phim"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5562,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "arts"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "rocky",
+    "lemma": "rocky",
+    "pos": "adj",
+    "ipa": "/ˈɹɑki/",
+    "ipa_us": "/ˈɹɑki/",
+    "ipa_uk": "/ɹˈɒki/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhiều đá; gồ ghề",
+    "definition_en": "covered with rocks or uneven stone surfaces",
+    "examples": [
+      {
+        "en": "We climbed a rocky path.",
+        "vi": "Chúng tôi leo lên lối đi đầy đá.",
+        "source": "original"
+      },
+      {
+        "en": "Surveyors mapped the rocky hillside before construction.",
+        "vi": "Nhân viên khảo sát lập bản đồ sườn đồi nhiều đá trước khi xây dựng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rocky terrain",
+        "vi": "địa hình nhiều đá"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5570,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "shy",
+    "lemma": "shy",
+    "pos": "adj",
+    "ipa": "/ˈʃaɪ/",
+    "ipa_us": "/ˈʃaɪ/",
+    "ipa_uk": "/ʃˈaɪ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhút nhát; e dè",
+    "definition_en": "nervous or uncomfortable around other people",
+    "examples": [
+      {
+        "en": "The shy child hid behind her father.",
+        "vi": "Cô bé nhút nhát nấp sau lưng bố.",
+        "source": "original"
+      },
+      {
+        "en": "A shy intern gradually started contributing ideas.",
+        "vi": "Một thực tập sinh e dè dần bắt đầu đóng góp ý kiến.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feel shy",
+        "vi": "cảm thấy e dè"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5578,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "bacon",
+    "lemma": "bacon",
+    "pos": "n",
+    "ipa": "/ˈbeɪkən/",
+    "ipa_us": "/ˈbeɪkən/",
+    "ipa_uk": "/bˈeɪkən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thịt lợn muối",
+    "definition_en": "cured pork often sold in thin strips",
+    "examples": [
+      {
+        "en": "The bacon smelled wonderful as it cooked.",
+        "vi": "Thịt lợn muối tỏa mùi thơm khi được nấu.",
+        "source": "original"
+      },
+      {
+        "en": "The cafe purchases bacon from a regional supplier.",
+        "vi": "Quán cà phê mua thịt lợn muối từ nhà cung cấp trong vùng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "crispy bacon",
+        "vi": "thịt lợn muối chiên giòn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5600,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "cattle",
+    "lemma": "cattle",
+    "pos": "n",
+    "ipa": "/ˈkætəɫ/",
+    "ipa_us": "/ˈkætəɫ/",
+    "ipa_uk": "/kˈætəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "gia súc họ bò; đàn bò",
+    "definition_en": "cows and bulls kept on farms",
+    "examples": [
+      {
+        "en": "The cattle grazed beside the river.",
+        "vi": "Đàn bò gặm cỏ cạnh sông.",
+        "source": "original"
+      },
+      {
+        "en": "The company supplies feed for dairy cattle.",
+        "vi": "Công ty cung cấp thức ăn cho bò sữa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "dairy cattle",
+        "vi": "bò sữa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5609,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "agriculture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "embarrassing",
+    "lemma": "embarrassing",
+    "pos": "adj",
+    "ipa": "/ɪmˈbɛɹəsɪŋ/",
+    "ipa_us": "/ɪmˈbɛɹəsɪŋ/",
+    "ipa_uk": "/ɛmbˈæɹəsɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "gây xấu hổ; khiến ngượng ngùng",
+    "definition_en": "making someone feel ashamed or awkward",
+    "examples": [
+      {
+        "en": "Forgetting her name was embarrassing.",
+        "vi": "Quên tên cô ấy thật ngượng ngùng.",
+        "source": "original"
+      },
+      {
+        "en": "The incorrect invoice created an embarrassing situation.",
+        "vi": "Hóa đơn sai tạo ra tình huống khó xử.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "embarrassing mistake",
+        "vi": "sai lầm đáng xấu hổ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5622,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "ion",
+    "lemma": "ion",
+    "pos": "n",
+    "ipa": "/ˈaɪˌɑn/",
+    "ipa_us": "/ˈaɪˌɑn/",
+    "ipa_uk": "/ˈaɪɒn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ion; nguyên tử hoặc phân tử mang điện",
+    "definition_en": "an atom or molecule with an electric charge",
+    "examples": [
+      {
+        "en": "An ion can carry a positive charge.",
+        "vi": "Một ion có thể mang điện tích dương.",
+        "source": "original"
+      },
+      {
+        "en": "The researchers measured ion movement through the membrane.",
+        "vi": "Các nhà nghiên cứu đo chuyển động của ion qua màng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "positive ion",
+        "vi": "ion dương"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5631,
+    "lists": [
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "science"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "medication",
+    "lemma": "medication",
+    "pos": "n",
+    "ipa": "/ˌmɛdəˈkeɪʃən/",
+    "ipa_us": "/ˌmɛdəˈkeɪʃən/",
+    "ipa_uk": "/mˌɛdɪkˈeɪʃən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thuốc điều trị",
+    "definition_en": "a substance taken to treat or prevent illness",
+    "examples": [
+      {
+        "en": "She keeps her medication in a labeled box.",
+        "vi": "Cô cất thuốc trong hộp có nhãn.",
+        "source": "original"
+      },
+      {
+        "en": "The pharmacist explained how to store the medication.",
+        "vi": "Dược sĩ giải thích cách bảo quản thuốc.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "prescribed medication",
+        "vi": "thuốc được kê đơn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5637,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "southeast",
+    "lemma": "southeast",
+    "pos": "n",
+    "ipa": "/ˌsaʊˈθist/",
+    "ipa_us": "/ˌsaʊˈθist/",
+    "ipa_uk": "/sˈaʊθiːst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "phía đông nam",
+    "definition_en": "the direction between south and east",
+    "examples": [
+      {
+        "en": "The storm moved toward the southeast.",
+        "vi": "Cơn bão di chuyển về phía đông nam.",
+        "source": "original"
+      },
+      {
+        "en": "Our distribution center serves the southeast of the country.",
+        "vi": "Trung tâm phân phối phục vụ vùng đông nam đất nước.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in the southeast",
+        "vi": "ở phía đông nam"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5657,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "geography"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "awake",
+    "lemma": "awake",
+    "pos": "adj",
+    "ipa": "/əˈweɪk/",
+    "ipa_us": "/əˈweɪk/",
+    "ipa_uk": "/ɐwˈeɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đang thức; tỉnh táo",
+    "definition_en": "not sleeping",
+    "examples": [
+      {
+        "en": "I was still awake at midnight.",
+        "vi": "Tôi vẫn thức lúc nửa đêm.",
+        "source": "original"
+      },
+      {
+        "en": "The nurse checked whether the patient was awake.",
+        "vi": "Điều dưỡng kiểm tra xem bệnh nhân đã tỉnh chưa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "stay awake",
+        "vi": "giữ mình tỉnh táo"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5685,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "cow",
+    "lemma": "cow",
+    "pos": "n",
+    "ipa": "/ˈkaʊ/",
+    "ipa_us": "/ˈkaʊ/",
+    "ipa_uk": "/kˈaʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "con bò cái",
+    "definition_en": "an adult female of domestic cattle",
+    "examples": [
+      {
+        "en": "A cow wandered into the field.",
+        "vi": "Một con bò cái đi vào cánh đồng.",
+        "source": "original"
+      },
+      {
+        "en": "The veterinarian examined the cow before milking.",
+        "vi": "Bác sĩ thú y khám cho con bò trước khi vắt sữa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "dairy cow",
+        "vi": "bò sữa"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5697,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "agriculture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "fifteen",
+    "lemma": "fifteen",
+    "pos": "num",
+    "ipa": "/ˈfɪfˈtin/",
+    "ipa_us": "/ˈfɪfˈtin/",
+    "ipa_uk": "/fɪftˈiːn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "mười lăm",
+    "definition_en": "the number after fourteen and before sixteen",
+    "examples": [
+      {
+        "en": "We collected fifteen shells.",
+        "vi": "Chúng tôi nhặt được mười lăm vỏ sò.",
+        "source": "original"
+      },
+      {
+        "en": "The delivery should arrive within fifteen minutes.",
+        "vi": "Đơn hàng dự kiến đến trong vòng mười lăm phút.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fifteen minutes",
+        "vi": "mười lăm phút"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5708,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "horn",
+    "lemma": "horn",
+    "pos": "n",
+    "ipa": "/ˈhɔɹn/",
+    "ipa_us": "/ˈhɔɹn/",
+    "ipa_uk": "/hˈɔːn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sừng",
+    "definition_en": "a hard pointed growth on the head of some animals",
+    "examples": [
+      {
+        "en": "The goat had a curved horn.",
+        "vi": "Con dê có một chiếc sừng cong.",
+        "source": "original"
+      },
+      {
+        "en": "The museum displayed a replica of a rhinoceros horn.",
+        "vi": "Bảo tàng trưng bày mô hình sừng tê giác.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "curved horn",
+        "vi": "sừng cong"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5716,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "northwest",
+    "lemma": "northwest",
+    "pos": "n",
+    "ipa": "/ˌnɔɹθˈwɛst/",
+    "ipa_us": "/ˌnɔɹθˈwɛst/",
+    "ipa_uk": "/nɔːθwˈɛst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "phía tây bắc",
+    "definition_en": "the direction between north and west",
+    "examples": [
+      {
+        "en": "Clouds gathered in the northwest.",
+        "vi": "Mây tụ lại ở phía tây bắc.",
+        "source": "original"
+      },
+      {
+        "en": "The agency opened an office in the northwest of the province.",
+        "vi": "Cơ quan mở văn phòng ở phía tây bắc tỉnh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in the northwest",
+        "vi": "ở phía tây bắc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5744,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "geography"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "pearl",
+    "lemma": "pearl",
+    "pos": "n",
+    "ipa": "/ˈpɝɫ/",
+    "ipa_us": "/ˈpɝɫ/",
+    "ipa_uk": "/pˈɜːl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ngọc trai",
+    "definition_en": "a smooth object formed inside certain shellfish and used in jewelry",
+    "examples": [
+      {
+        "en": "She found a pearl in her grandmother's necklace.",
+        "vi": "Cô thấy một viên ngọc trai trên vòng cổ của bà.",
+        "source": "original"
+      },
+      {
+        "en": "The jeweler examined each pearl under a bright light.",
+        "vi": "Thợ kim hoàn kiểm tra từng viên ngọc trai dưới ánh sáng mạnh.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "freshwater pearl",
+        "vi": "ngọc trai nước ngọt"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5748,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "shopping"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "pig",
+    "lemma": "pig",
+    "pos": "n",
+    "ipa": "/ˈpɪɡ/",
+    "ipa_us": "/ˈpɪɡ/",
+    "ipa_uk": "/pˈɪɡ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "con lợn; con heo",
+    "definition_en": "a farm animal with a short snout raised mainly for meat",
+    "examples": [
+      {
+        "en": "A pig rolled in the mud.",
+        "vi": "Một con lợn lăn trong bùn.",
+        "source": "original"
+      },
+      {
+        "en": "The farmer built a larger shelter for each pig.",
+        "vi": "Người nông dân xây chỗ trú rộng hơn cho từng con lợn.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pig farm",
+        "vi": "trang trại nuôi lợn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5751,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "agriculture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "rod",
+    "lemma": "rod",
+    "pos": "n",
+    "ipa": "/ˈɹɑd/",
+    "ipa_us": "/ˈɹɑd/",
+    "ipa_uk": "/ɹˈɒd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thanh; que dài",
+    "definition_en": "a long thin straight piece of solid material",
+    "examples": [
+      {
+        "en": "He used a metal rod to support the plant.",
+        "vi": "Anh dùng thanh kim loại để đỡ cây.",
+        "source": "original"
+      },
+      {
+        "en": "The technician measured the steel rod.",
+        "vi": "Kỹ thuật viên đo thanh thép.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "steel rod",
+        "vi": "thanh thép"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5758,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "tools"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "sweat",
+    "lemma": "sweat",
+    "pos": "n",
+    "ipa": "/ˈswɛt/",
+    "ipa_us": "/ˈswɛt/",
+    "ipa_uk": "/swˈɛt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "mồ hôi",
+    "definition_en": "liquid released through the skin to help cool the body",
+    "examples": [
+      {
+        "en": "Sweat ran down my forehead.",
+        "vi": "Mồ hôi chảy xuống trán tôi.",
+        "source": "original"
+      },
+      {
+        "en": "The manufacturer designed clothing that absorbs sweat during physical work.",
+        "vi": "Nhà sản xuất thiết kế quần áo thấm mồ hôi khi lao động chân tay.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "absorb sweat",
+        "vi": "thấm mồ hôi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5766,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "teenage",
+    "lemma": "teenage",
+    "pos": "adj",
+    "ipa": "/ˈtiˌneɪdʒ/",
+    "ipa_us": "/ˈtiˌneɪdʒ/",
+    "ipa_uk": "/tˈiːneɪdʒ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "thuộc tuổi thiếu niên từ 13 đến 19",
+    "definition_en": "relating to people aged thirteen to nineteen",
+    "examples": [
+      {
+        "en": "Her teenage son enjoys drawing.",
+        "vi": "Cậu con trai tuổi thiếu niên của cô thích vẽ.",
+        "source": "original"
+      },
+      {
+        "en": "The charity funds programs for teenage learners.",
+        "vi": "Tổ chức từ thiện tài trợ chương trình dành cho học viên tuổi thiếu niên.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "teenage years",
+        "vi": "những năm tuổi thiếu niên"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5770,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "thunder",
+    "lemma": "thunder",
+    "pos": "n",
+    "ipa": "/ˈθəndɝ/",
+    "ipa_us": "/ˈθəndɝ/",
+    "ipa_uk": "/θˈʌndɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tiếng sấm",
+    "definition_en": "the loud sound produced by lightning",
+    "examples": [
+      {
+        "en": "Thunder woke us during the night.",
+        "vi": "Tiếng sấm đánh thức chúng tôi trong đêm.",
+        "source": "original"
+      },
+      {
+        "en": "The crew suspended outdoor work after hearing thunder.",
+        "vi": "Đội công nhân tạm dừng công việc ngoài trời khi nghe tiếng sấm.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rumble of thunder",
+        "vi": "tiếng sấm rền"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5771,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "weather"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "tragedy",
+    "lemma": "tragedy",
+    "pos": "n",
+    "ipa": "/ˈtɹædʒədi/",
+    "ipa_us": "/ˈtɹædʒədi/",
+    "ipa_uk": "/tɹˈædʒədi/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bi kịch; thảm kịch",
+    "definition_en": "an event that causes great suffering or loss",
+    "examples": [
+      {
+        "en": "The novel ends in tragedy.",
+        "vi": "Cuốn tiểu thuyết kết thúc bằng bi kịch.",
+        "source": "original"
+      },
+      {
+        "en": "The organization established a relief fund after the tragedy.",
+        "vi": "Tổ chức thành lập quỹ cứu trợ sau thảm kịch.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "human tragedy",
+        "vi": "thảm kịch của con người"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5773,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "trauma",
+    "lemma": "trauma",
+    "pos": "n",
+    "ipa": "/ˈtɹɔmə/",
+    "ipa_us": "/ˈtɹɔmə/",
+    "ipa_uk": "/tɹˈɔːmɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "sang chấn tâm lý; chấn thương",
+    "definition_en": "serious physical injury or lasting emotional distress caused by an event",
+    "examples": [
+      {
+        "en": "The accident left him with emotional trauma.",
+        "vi": "Tai nạn khiến anh chịu sang chấn tâm lý.",
+        "source": "original"
+      },
+      {
+        "en": "The hospital provides specialized care for patients with trauma.",
+        "vi": "Bệnh viện cung cấp dịch vụ chăm sóc chuyên biệt cho bệnh nhân bị chấn thương.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "emotional trauma",
+        "vi": "sang chấn tâm lý"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5774,
+    "lists": [
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "wrestling",
+    "lemma": "wrestling",
+    "pos": "n",
+    "ipa": "/ˈɹɛsəɫɪŋ/",
+    "ipa_us": "/ˈɹɛsəɫɪŋ/",
+    "ipa_uk": "/ɹˈɛslɪŋ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "môn đấu vật",
+    "definition_en": "a sport involving gripping and trying to control an opponent",
+    "examples": [
+      {
+        "en": "We watched wrestling at the festival.",
+        "vi": "Chúng tôi xem đấu vật tại lễ hội.",
+        "source": "original"
+      },
+      {
+        "en": "The school purchased mats for its wrestling club.",
+        "vi": "Trường mua thảm cho câu lạc bộ đấu vật.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wrestling match",
+        "vi": "trận đấu vật"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5776,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "sports"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "activist",
+    "lemma": "activist",
+    "pos": "n",
+    "ipa": "/ˈæktəvəst/",
+    "ipa_us": "/ˈæktəvəst/",
+    "ipa_uk": "/ˈæktɪvˌɪst/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nhà hoạt động xã hội",
+    "definition_en": "someone who takes action to promote social or political change",
+    "examples": [
+      {
+        "en": "An activist spoke about cleaner rivers.",
+        "vi": "Một nhà hoạt động phát biểu về việc làm sạch các dòng sông.",
+        "source": "original"
+      },
+      {
+        "en": "The conference invited an activist to discuss accessibility.",
+        "vi": "Hội nghị mời một nhà hoạt động thảo luận về khả năng tiếp cận.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "environmental activist",
+        "vi": "nhà hoạt động môi trường"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5780,
+    "lists": [
+      "bsl-1.20",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "society"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "cage",
+    "lemma": "cage",
+    "pos": "n",
+    "ipa": "/ˈkeɪdʒ/",
+    "ipa_us": "/ˈkeɪdʒ/",
+    "ipa_uk": "/kˈeɪdʒ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cái lồng; chuồng có song chắn",
+    "definition_en": "an enclosure with bars or wire for containing animals",
+    "examples": [
+      {
+        "en": "The bird returned to its cage.",
+        "vi": "Con chim trở về lồng.",
+        "source": "original"
+      },
+      {
+        "en": "The animal shelter disinfects each cage daily.",
+        "vi": "Trạm cứu hộ động vật khử trùng từng chiếc lồng hằng ngày.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "bird cage",
+        "vi": "lồng chim"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5793,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "closet",
+    "lemma": "closet",
+    "pos": "n",
+    "ipa": "/ˈkɫɑzət/",
+    "ipa_us": "/ˈkɫɑzət/",
+    "ipa_uk": "/klˈɒzɪt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "tủ âm tường; tủ chứa đồ",
+    "definition_en": "a small enclosed space for storing clothes or other items",
+    "examples": [
+      {
+        "en": "My winter coat is in the closet.",
+        "vi": "Áo khoác mùa đông của tôi ở trong tủ.",
+        "source": "original"
+      },
+      {
+        "en": "The cleaner stored towels in the supply closet.",
+        "vi": "Nhân viên vệ sinh cất khăn trong tủ vật tư.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "storage closet",
+        "vi": "tủ chứa đồ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5797,
+    "lists": [
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "daily-life"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "eagle",
+    "lemma": "eagle",
+    "pos": "n",
+    "ipa": "/ˈiɡəɫ/",
+    "ipa_us": "/ˈiɡəɫ/",
+    "ipa_uk": "/ˈiːɡəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "đại bàng",
+    "definition_en": "a large bird of prey with strong wings and sharp claws",
+    "examples": [
+      {
+        "en": "An eagle circled above the valley.",
+        "vi": "Một con đại bàng lượn vòng phía trên thung lũng.",
+        "source": "original"
+      },
+      {
+        "en": "The guide spotted an eagle near the observation deck.",
+        "vi": "Hướng dẫn viên nhìn thấy đại bàng gần đài quan sát.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "golden eagle",
+        "vi": "đại bàng vàng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5812,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "goodness",
+    "lemma": "goodness",
+    "pos": "n",
+    "ipa": "/ˈɡʊdnəs/",
+    "ipa_us": "/ˈɡʊdnəs/",
+    "ipa_uk": "/ɡˈʊdnəs/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "lòng tốt; phẩm chất tốt đẹp",
+    "definition_en": "the quality of being kind, honest or morally good",
+    "examples": [
+      {
+        "en": "I admired the goodness of our neighbor.",
+        "vi": "Tôi ngưỡng mộ lòng tốt của hàng xóm.",
+        "source": "original"
+      },
+      {
+        "en": "The award celebrates goodness shown through community service.",
+        "vi": "Giải thưởng tôn vinh lòng tốt thể hiện qua hoạt động phục vụ cộng đồng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "human goodness",
+        "vi": "lòng tốt của con người"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5822,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "nawl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "guilt",
+    "lemma": "guilt",
+    "pos": "n",
+    "ipa": "/ˈɡɪɫt/",
+    "ipa_us": "/ˈɡɪɫt/",
+    "ipa_uk": "/ɡˈɪlt/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "cảm giác tội lỗi; sự có tội",
+    "definition_en": "regret for doing wrong or responsibility for an offense",
+    "examples": [
+      {
+        "en": "He felt guilt after breaking his promise.",
+        "vi": "Anh cảm thấy tội lỗi sau khi thất hứa.",
+        "source": "original"
+      },
+      {
+        "en": "The evidence helped establish the suspect's guilt.",
+        "vi": "Bằng chứng giúp xác định nghi phạm có tội.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feel guilt",
+        "vi": "cảm thấy tội lỗi"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5823,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "haven",
+    "lemma": "haven",
+    "pos": "n",
+    "ipa": "/ˈheɪvən/",
+    "ipa_us": "/ˈheɪvən/",
+    "ipa_uk": "/hˈeɪvən/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nơi trú ẩn; nơi bình yên",
+    "definition_en": "a place where someone feels safe or protected",
+    "examples": [
+      {
+        "en": "The garden became a haven for butterflies.",
+        "vi": "Khu vườn trở thành nơi trú ẩn của bướm.",
+        "source": "original"
+      },
+      {
+        "en": "The organization created a safe haven for displaced families.",
+        "vi": "Tổ chức tạo nơi trú ẩn an toàn cho các gia đình phải rời bỏ nhà cửa.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "safe haven",
+        "vi": "nơi trú ẩn an toàn"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5824,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "helicopter",
+    "lemma": "helicopter",
+    "pos": "n",
+    "ipa": "/ˈhɛɫɪˌkɑptɝ/",
+    "ipa_us": "/ˈhɛɫɪˌkɑptɝ/",
+    "ipa_uk": "/hˈɛlɪkˌɒptɐ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "trực thăng",
+    "definition_en": "an aircraft lifted by large rotating blades",
+    "examples": [
+      {
+        "en": "A helicopter flew over the stadium.",
+        "vi": "Một chiếc trực thăng bay qua sân vận động.",
+        "source": "original"
+      },
+      {
+        "en": "The rescue team transported supplies by helicopter.",
+        "vi": "Đội cứu hộ vận chuyển hàng tiếp tế bằng trực thăng.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rescue helicopter",
+        "vi": "trực thăng cứu hộ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5825,
+    "lists": [
+      "bsl-1.20",
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "iconic",
+    "lemma": "iconic",
+    "pos": "adj",
+    "ipa": "/ˌaɪˈkɑnɪk/",
+    "ipa_us": "/ˌaɪˈkɑnɪk/",
+    "ipa_uk": "/aɪkˈɒnɪk/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "mang tính biểu tượng",
+    "definition_en": "widely recognized as representing a culture, place or idea",
+    "examples": [
+      {
+        "en": "The iconic tower appears on many postcards.",
+        "vi": "Tòa tháp mang tính biểu tượng xuất hiện trên nhiều bưu thiếp.",
+        "source": "original"
+      },
+      {
+        "en": "The designer updated the company's iconic logo.",
+        "vi": "Nhà thiết kế làm mới logo mang tính biểu tượng của công ty.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "iconic landmark",
+        "vi": "địa danh mang tính biểu tượng"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5829,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "keen",
+    "lemma": "keen",
+    "pos": "adj",
+    "ipa": "/ˈkin/",
+    "ipa_us": "/ˈkin/",
+    "ipa_uk": "/kˈiːn/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "ham thích; háo hức",
+    "definition_en": "very interested in or eager to do something",
+    "examples": [
+      {
+        "en": "My nephew is keen to learn chess.",
+        "vi": "Cháu trai tôi rất háo hức học cờ vua.",
+        "source": "original"
+      },
+      {
+        "en": "The applicants were keen to discuss training opportunities.",
+        "vi": "Ứng viên rất mong muốn thảo luận về cơ hội đào tạo.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "keen interest",
+        "vi": "sự quan tâm sâu sắc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5831,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "education"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "lip",
+    "lemma": "lip",
+    "pos": "n",
+    "ipa": "/ˈɫɪp/",
+    "ipa_us": "/ˈɫɪp/",
+    "ipa_uk": "/lˈɪp/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "môi",
+    "definition_en": "one of the two soft edges surrounding the mouth",
+    "examples": [
+      {
+        "en": "She accidentally bit her lower lip.",
+        "vi": "Cô vô tình cắn môi dưới.",
+        "source": "original"
+      },
+      {
+        "en": "The dentist noticed a cut on the patient's lip.",
+        "vi": "Nha sĩ nhận thấy vết cắt trên môi bệnh nhân.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "lower lip",
+        "vi": "môi dưới"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A2",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5835,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "health"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "mere",
+    "lemma": "mere",
+    "pos": "adj",
+    "ipa": "/ˈmɪɹ/",
+    "ipa_us": "/ˈmɪɹ/",
+    "ipa_uk": "/mˈiə/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "chỉ là; vỏn vẹn",
+    "definition_en": "used to emphasize that something is small or unimportant",
+    "examples": [
+      {
+        "en": "The cabin was a mere five steps away.",
+        "vi": "Căn nhà gỗ chỉ cách vỏn vẹn năm bước.",
+        "source": "original"
+      },
+      {
+        "en": "A mere delay of one hour disrupted the schedule.",
+        "vi": "Chỉ một giờ chậm trễ đã làm xáo trộn lịch trình.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mere possibility",
+        "vi": "khả năng đơn thuần"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5839,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "miracle",
+    "lemma": "miracle",
+    "pos": "n",
+    "ipa": "/ˈmɪɹəkəɫ/",
+    "ipa_us": "/ˈmɪɹəkəɫ/",
+    "ipa_uk": "/mˈɪɹəkəl/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "điều kỳ diệu; phép màu",
+    "definition_en": "an extraordinary event that seems impossible to explain",
+    "examples": [
+      {
+        "en": "Finding the lost ring felt like a miracle.",
+        "vi": "Tìm lại chiếc nhẫn bị mất giống như một phép màu.",
+        "source": "original"
+      },
+      {
+        "en": "The team called the unexpected recovery a miracle.",
+        "vi": "Cả nhóm gọi sự phục hồi bất ngờ là điều kỳ diệu.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "small miracle",
+        "vi": "điều kỳ diệu nhỏ"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5840,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "emotions"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "mud",
+    "lemma": "mud",
+    "pos": "n",
+    "ipa": "/ˈməd/",
+    "ipa_us": "/ˈməd/",
+    "ipa_uk": "/mˈʌd/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bùn",
+    "definition_en": "soft wet earth",
+    "examples": [
+      {
+        "en": "My boots were covered in mud.",
+        "vi": "Ủng của tôi phủ đầy bùn.",
+        "source": "original"
+      },
+      {
+        "en": "The workers cleared mud from the entrance after the storm.",
+        "vi": "Công nhân dọn bùn khỏi lối vào sau cơn bão.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "thick mud",
+        "vi": "bùn đặc"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5842,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "nature"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "owe",
+    "lemma": "owe",
+    "pos": "v",
+    "ipa": "/ˈoʊ/",
+    "ipa_us": "/ˈoʊ/",
+    "ipa_uk": "/ˈəʊ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "nợ; có nghĩa vụ trả",
+    "definition_en": "to need to pay money or return something to someone",
+    "examples": [
+      {
+        "en": "I owe my brother ten dollars.",
+        "vi": "Tôi nợ anh trai mười đô la.",
+        "source": "original"
+      },
+      {
+        "en": "We still owe the supplier for last month's materials.",
+        "vi": "Chúng tôi vẫn nợ nhà cung cấp tiền nguyên liệu tháng trước.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "owe money",
+        "vi": "nợ tiền"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5847,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "ngsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "finance"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  },
+  {
+    "word": "rookie",
+    "lemma": "rookie",
+    "pos": "n",
+    "ipa": "/ˈɹʊki/",
+    "ipa_us": "/ˈɹʊki/",
+    "ipa_uk": "/ɹˈʊki/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "người mới; tân binh",
+    "definition_en": "someone who has recently started a job, sport or activity",
+    "examples": [
+      {
+        "en": "The rookie scored his first goal.",
+        "vi": "Tân binh ghi bàn thắng đầu tiên.",
+        "source": "original"
+      },
+      {
+        "en": "An experienced technician trained the rookie during her first shift.",
+        "vi": "Kỹ thuật viên giàu kinh nghiệm đào tạo nhân viên mới trong ca đầu tiên của cô.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rookie player",
+        "vi": "cầu thủ tân binh"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "B2",
+    "cefr_basis": "rank-estimate",
+    "frequency_rank": 5861,
+    "lists": [
+      "kaikki-simple",
+      "wordfreq"
+    ],
+    "topics": [
+      "work"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "informal"
+  },
+  {
+    "word": "sandwich",
+    "lemma": "sandwich",
+    "pos": "n",
+    "ipa": "/ˈsæmwɪtʃ/",
+    "ipa_us": "/ˈsæmwɪtʃ/",
+    "ipa_uk": "/sˈændwɪtʃ/",
+    "ipa_provenance": {
+      "us": {
+        "source": "ipa-dict-us",
+        "license": "MIT; CMUdict BSD-style notice retained",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-us/us-03501-04000.json",
+        "batch_sha256": "0585334f44099d2fa6952667458c9b892ef555d8ba97551266578872934660e1"
+      },
+      "uk": {
+        "source": "ipa-dict-uk",
+        "license": "GPL-3.0 (ipacards-derived data)",
+        "batch_file": "scripts/vocab/ipa/ipa-dict-uk/uk-03001-03500.json",
+        "batch_sha256": "0de904e453b847166582dba7d3f20483f28261f220c64fdd917fc0e76aefa720"
+      }
+    },
+    "meaning_vi": "bánh mì kẹp",
+    "definition_en": "food placed between two slices of bread",
+    "examples": [
+      {
+        "en": "I packed a cheese sandwich for the trip.",
+        "vi": "Tôi chuẩn bị bánh mì kẹp phô mai cho chuyến đi.",
+        "source": "original"
+      },
+      {
+        "en": "The cafeteria introduced a new vegetarian sandwich.",
+        "vi": "Căng tin giới thiệu món bánh mì kẹp chay mới.",
+        "source": "original"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cheese sandwich",
+        "vi": "bánh mì kẹp phô mai"
+      }
+    ],
+    "word_family": [],
+    "synonyms": [],
+    "antonyms": [],
+    "cefr": "A1",
+    "cefr_basis": "cefrj-1.6",
+    "frequency_rank": 5862,
+    "lists": [
+      "cefrj-1.6",
+      "kaikki-simple",
+      "tsl-1.2",
+      "wordfreq"
+    ],
+    "topics": [
+      "food"
+    ],
+    "source": "original",
+    "reviewed": false,
+    "register": "general"
+  }
+]

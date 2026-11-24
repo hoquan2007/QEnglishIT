@@ -1,0 +1,142 @@
+{
+  "slug": "qe-p1-003",
+  "content_path": "content/tests/toeic_part/qe-p1-003.json",
+  "title": "TOEIC Part 1 – Mô tả tranh 03 (Mục tiêu 600)",
+  "exam_type": "toeic_part",
+  "level": "600",
+  "difficulty": 2,
+  "duration_minutes": 8,
+  "total_questions": 12,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part1",
+      "title": "Part 1 – Photographs",
+      "parts": [
+        1
+      ],
+      "count": 12,
+      "minutes": 8
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Bakery worker arranging bread display",
+      "first_question": 1,
+      "last_question": 1,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Office technician connecting monitors",
+      "first_question": 2,
+      "last_question": 2,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Train platform passenger reading timetable",
+      "first_question": 3,
+      "last_question": 3,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Grocery employee stocking refrigerator",
+      "first_question": 4,
+      "last_question": 4,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Park gardener trimming hedge",
+      "first_question": 5,
+      "last_question": 5,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Clinic receptionist handing form",
+      "first_question": 6,
+      "last_question": 6,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Library patron returning books",
+      "first_question": 7,
+      "last_question": 7,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Construction worker checking level",
+      "first_question": 8,
+      "last_question": 8,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Hotel employee polishing lobby table",
+      "first_question": 9,
+      "last_question": 9,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Bicycle shop mechanic adjusting wheel",
+      "first_question": 10,
+      "last_question": 10,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Cafeteria worker filling beverage station",
+      "first_question": 11,
+      "last_question": 11,
+      "question_count": 1
+    },
+    {
+      "part": 1,
+      "section": "listening",
+      "context": "Museum staff hanging directional sign",
+      "first_question": 12,
+      "last_question": 12,
+      "question_count": 1
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 3,
+      "B": 3,
+      "C": 3,
+      "D": 3
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 1,
+    "blind_review_instruction_vi": "Giải độc lập từ mô tả hình và bốn câu tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

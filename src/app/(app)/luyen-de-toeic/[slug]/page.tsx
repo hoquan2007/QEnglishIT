@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { getTestBySlug, getTestGroups } from "@/lib/queries";
 import { TestRunner } from "@/components/tests/TestRunner";
+import { getToeicParts } from "@/lib/toeic";
 
 export const metadata = { title: "Làm đề TOEIC – Thi thử và luyện tập" };
 
@@ -15,10 +16,10 @@ export default async function Page({
   const sp = await searchParams;
   const test = await getTestBySlug(slug);
   if (!test) notFound();
-  const parts = sp.parts
-    ? sp.parts.split(",").map(Number).filter((n) => n >= 1 && n <= 7)
-    : [1, 2, 3, 4, 5, 6, 7];
-  const groups = await getTestGroups(test.id, parts);
+  const availableParts = getToeicParts(test);
+  const requestedParts = sp.parts?.split(",").map(Number).filter((part) => part >= 1 && part <= 7);
+  const groups = await getTestGroups(test.id, availableParts.length && requestedParts?.length ? requestedParts : availableParts);
+  const parts = [...new Set(groups.map((group) => group.part))];
   const mode = sp.mode === "practice" ? "practice" : "exam";
   const time = sp.time ? Number(sp.time) : 0;
   return (

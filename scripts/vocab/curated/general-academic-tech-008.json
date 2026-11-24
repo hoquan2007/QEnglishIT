@@ -1,0 +1,3129 @@
+[
+  {
+    "lemma": "principle",
+    "pos": "n",
+    "meaning_vi": "nguyên tắc cơ bản dùng để định hướng suy nghĩ hoặc hành động",
+    "definition_en": "a basic rule or belief that guides decisions or behavior",
+    "examples": [
+      {
+        "en": "The principle guides how researchers report uncertain findings.",
+        "vi": "Nguyên tắc này định hướng cách các nhà nghiên cứu báo cáo những kết quả chưa chắc chắn."
+      },
+      {
+        "en": "Our pricing principle is to show every fee before checkout.",
+        "vi": "Nguyên tắc định giá của chúng tôi là hiển thị mọi khoản phí trước khi thanh toán."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "context",
+    "pos": "n",
+    "meaning_vi": "bối cảnh giúp giải thích ý nghĩa hoặc tình huống của một sự việc",
+    "definition_en": "the circumstances that help explain the meaning of something",
+    "examples": [
+      {
+        "en": "The context explains why the survey result changed this year.",
+        "vi": "Bối cảnh giải thích vì sao kết quả khảo sát thay đổi trong năm nay."
+      },
+      {
+        "en": "Always read the context before interpreting a short quotation.",
+        "vi": "Luôn đọc bối cảnh trước khi diễn giải một trích dẫn ngắn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "structure",
+    "pos": "n",
+    "meaning_vi": "cấu trúc hoặc cách các phần được sắp xếp thành một tổng thể",
+    "definition_en": "the way parts are arranged to form a complete system",
+    "examples": [
+      {
+        "en": "The report structure makes each argument easy to follow.",
+        "vi": "Cấu trúc báo cáo giúp từng lập luận dễ theo dõi."
+      },
+      {
+        "en": "A clear folder structure reduces confusion during team projects.",
+        "vi": "Cấu trúc thư mục rõ ràng giúp giảm nhầm lẫn trong các dự án nhóm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "option",
+    "pos": "n",
+    "meaning_vi": "lựa chọn có thể được cân nhắc hoặc thực hiện",
+    "definition_en": "one possible choice among several alternatives",
+    "examples": [
+      {
+        "en": "The cheaper option includes email support only.",
+        "vi": "Lựa chọn rẻ hơn chỉ bao gồm hỗ trợ qua email."
+      },
+      {
+        "en": "Students may choose an online option for the final presentation.",
+        "vi": "Sinh viên có thể chọn một lựa chọn trực tuyến cho bài thuyết trình cuối kỳ."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "solution",
+    "pos": "n",
+    "meaning_vi": "giải pháp dùng để xử lý một vấn đề hoặc khó khăn",
+    "definition_en": "a method or answer that resolves a problem",
+    "examples": [
+      {
+        "en": "The team tested a simple solution before changing the whole system.",
+        "vi": "Nhóm đã thử một giải pháp đơn giản trước khi thay đổi toàn bộ hệ thống."
+      },
+      {
+        "en": "This solution reduces duplicate work across departments.",
+        "vi": "Giải pháp này giảm công việc trùng lặp giữa các phòng ban."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "experiment",
+    "pos": "n",
+    "meaning_vi": "thí nghiệm hoặc phép thử có kiểm soát để kiểm tra một giả thuyết",
+    "definition_en": "a controlled test used to investigate a question or hypothesis",
+    "examples": [
+      {
+        "en": "The experiment compares two methods under the same conditions.",
+        "vi": "Thí nghiệm so sánh hai phương pháp trong cùng điều kiện."
+      },
+      {
+        "en": "Researchers repeated the experiment to confirm the original result.",
+        "vi": "Các nhà nghiên cứu lặp lại thí nghiệm để xác nhận kết quả ban đầu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "practice",
+    "pos": "n",
+    "meaning_vi": "cách làm thường xuyên hoặc hoạt động rèn luyện một kỹ năng",
+    "definition_en": "a usual method or repeated activity used to improve skill",
+    "examples": [
+      {
+        "en": "Regular practice improves accuracy when students summarize data.",
+        "vi": "Việc luyện tập thường xuyên cải thiện độ chính xác khi sinh viên tóm tắt dữ liệu."
+      },
+      {
+        "en": "The company changed its billing practice after customer feedback.",
+        "vi": "Công ty đã thay đổi cách làm về lập hóa đơn sau phản hồi của khách hàng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "measure",
+    "pos": "n",
+    "meaning_vi": "biện pháp hoặc đại lượng dùng để đánh giá hay kiểm soát điều gì đó",
+    "definition_en": "an action or value used to assess or control something",
+    "examples": [
+      {
+        "en": "Customer retention is one useful measure of service quality.",
+        "vi": "Tỷ lệ giữ chân khách hàng là một thước đo hữu ích về chất lượng dịch vụ."
+      },
+      {
+        "en": "The new security measure blocks repeated login attempts.",
+        "vi": "Biện pháp bảo mật mới chặn các lần đăng nhập lặp lại."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "study",
+    "pos": "n",
+    "meaning_vi": "nghiên cứu có hệ thống nhằm tìm hiểu một câu hỏi hoặc hiện tượng",
+    "definition_en": "a systematic investigation of a question or subject",
+    "examples": [
+      {
+        "en": "The study compares learning outcomes across three course formats.",
+        "vi": "Nghiên cứu so sánh kết quả học tập giữa ba hình thức khóa học."
+      },
+      {
+        "en": "A later study confirmed the same pattern in smaller companies.",
+        "vi": "Một nghiên cứu sau đó xác nhận cùng một mô hình ở các công ty nhỏ hơn."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "result",
+    "pos": "n",
+    "meaning_vi": "kết quả thu được từ một hành động, phép tính hoặc nghiên cứu",
+    "definition_en": "an outcome produced by an action, calculation, or investigation",
+    "examples": [
+      {
+        "en": "The result supports the original research question.",
+        "vi": "Kết quả ủng hộ câu hỏi nghiên cứu ban đầu."
+      },
+      {
+        "en": "Each test result is stored with the software version.",
+        "vi": "Mỗi kết quả kiểm thử được lưu cùng phiên bản phần mềm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "effect",
+    "pos": "n",
+    "meaning_vi": "ảnh hưởng hoặc thay đổi do một nguyên nhân tạo ra",
+    "definition_en": "a change or influence produced by a cause",
+    "examples": [
+      {
+        "en": "The policy had a measurable effect on delivery times.",
+        "vi": "Chính sách có ảnh hưởng đo lường được đến thời gian giao hàng."
+      },
+      {
+        "en": "Researchers observed the effect after controlling other variables.",
+        "vi": "Các nhà nghiên cứu quan sát ảnh hưởng sau khi kiểm soát các biến khác."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "cause",
+    "pos": "n",
+    "meaning_vi": "nguyên nhân tạo ra một sự kiện hoặc kết quả",
+    "definition_en": "something that produces an event or result",
+    "examples": [
+      {
+        "en": "The audit identified the main cause of repeated payment errors.",
+        "vi": "Cuộc kiểm toán xác định nguyên nhân chính của các lỗi thanh toán lặp lại."
+      },
+      {
+        "en": "Researchers separated each possible cause before drawing conclusions.",
+        "vi": "Các nhà nghiên cứu tách từng nguyên nhân có thể trước khi đưa ra kết luận."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "pattern",
+    "pos": "n",
+    "meaning_vi": "mẫu hoặc xu hướng lặp lại có thể quan sát trong dữ liệu hay hành vi",
+    "definition_en": "a repeated arrangement or trend that can be observed",
+    "examples": [
+      {
+        "en": "The data pattern appears across all three customer groups.",
+        "vi": "Mẫu dữ liệu xuất hiện ở cả ba nhóm khách hàng."
+      },
+      {
+        "en": "A strange traffic pattern can indicate automated abuse.",
+        "vi": "Một mẫu lưu lượng bất thường có thể cho thấy hành vi lạm dụng tự động."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "category",
+    "pos": "n",
+    "meaning_vi": "nhóm dùng để phân loại các đối tượng có đặc điểm chung",
+    "definition_en": "a group used to classify things with shared features",
+    "examples": [
+      {
+        "en": "Each expense belongs to one reporting category.",
+        "vi": "Mỗi khoản chi thuộc một nhóm báo cáo."
+      },
+      {
+        "en": "The researcher created a new category for mixed responses.",
+        "vi": "Nhà nghiên cứu tạo một nhóm mới cho các câu trả lời hỗn hợp."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "section",
+    "pos": "n",
+    "meaning_vi": "phần riêng biệt của tài liệu, hệ thống hoặc không gian",
+    "definition_en": "a distinct part of a document, system, or place",
+    "examples": [
+      {
+        "en": "The methods section explains how participants were selected.",
+        "vi": "Phần phương pháp giải thích cách người tham gia được chọn."
+      },
+      {
+        "en": "Add the warning to the security section of the guide.",
+        "vi": "Hãy thêm cảnh báo vào phần bảo mật của hướng dẫn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "item",
+    "pos": "n",
+    "meaning_vi": "mục hoặc đối tượng riêng lẻ trong một danh sách hay tập hợp",
+    "definition_en": "one separate thing in a list or collection",
+    "examples": [
+      {
+        "en": "Each budget item needs an owner and due date.",
+        "vi": "Mỗi mục ngân sách cần có người phụ trách và hạn chót."
+      },
+      {
+        "en": "The final item asks users to rate overall satisfaction.",
+        "vi": "Mục cuối cùng yêu cầu người dùng đánh giá mức độ hài lòng chung."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "summary",
+    "pos": "n",
+    "meaning_vi": "bản tóm tắt trình bày những điểm chính một cách ngắn gọn",
+    "definition_en": "a short statement of the main points",
+    "examples": [
+      {
+        "en": "The summary highlights the most important survey findings.",
+        "vi": "Bản tóm tắt nêu bật những kết quả khảo sát quan trọng nhất."
+      },
+      {
+        "en": "Managers receive a weekly summary of unresolved incidents.",
+        "vi": "Các quản lý nhận bản tóm tắt hằng tuần về các sự cố chưa được xử lý."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "focus",
+    "pos": "n",
+    "meaning_vi": "trọng tâm hoặc điểm được chú ý nhiều nhất",
+    "definition_en": "the main subject or area receiving attention",
+    "examples": [
+      {
+        "en": "The main focus of the workshop is practical communication.",
+        "vi": "Trọng tâm chính của hội thảo là giao tiếp thực tế."
+      },
+      {
+        "en": "Security remains a major focus during the product launch.",
+        "vi": "Bảo mật vẫn là trọng tâm lớn trong quá trình ra mắt sản phẩm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "role",
+    "pos": "n",
+    "meaning_vi": "vai trò hoặc chức năng của một người hay thành phần",
+    "definition_en": "the function or responsibility of a person or component",
+    "examples": [
+      {
+        "en": "Her role includes reviewing supplier contracts each month.",
+        "vi": "Vai trò của cô ấy bao gồm xem xét hợp đồng nhà cung cấp mỗi tháng."
+      },
+      {
+        "en": "The database plays a central role in the reporting service.",
+        "vi": "Cơ sở dữ liệu đóng vai trò trung tâm trong dịch vụ báo cáo."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "decline",
+    "pos": "n",
+    "meaning_vi": "sự suy giảm về số lượng, chất lượng hoặc mức độ",
+    "definition_en": "a reduction in amount, quality, or level",
+    "examples": [
+      {
+        "en": "The report links the decline to weaker regional demand.",
+        "vi": "Báo cáo liên hệ sự suy giảm với nhu cầu khu vực yếu hơn."
+      },
+      {
+        "en": "A sudden decline in traffic triggered an investigation.",
+        "vi": "Sự sụt giảm đột ngột về lưu lượng đã kích hoạt một cuộc điều tra."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "relevance",
+    "pos": "n",
+    "meaning_vi": "mức độ liên quan hoặc hữu ích đối với một vấn đề cụ thể",
+    "definition_en": "the degree to which something is related or useful",
+    "examples": [
+      {
+        "en": "The reviewer questioned the relevance of one older source.",
+        "vi": "Người phản biện đặt câu hỏi về mức độ liên quan của một nguồn cũ."
+      },
+      {
+        "en": "Search relevance improved after the team changed ranking signals.",
+        "vi": "Mức độ liên quan của kết quả tìm kiếm cải thiện sau khi nhóm thay đổi tín hiệu xếp hạng."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "stable",
+    "pos": "adj",
+    "meaning_vi": "ổn định và ít thay đổi ngoài dự kiến",
+    "definition_en": "remaining steady without unexpected change",
+    "examples": [
+      {
+        "en": "The service stayed stable during the traffic increase.",
+        "vi": "Dịch vụ vẫn ổn định trong lúc lưu lượng tăng."
+      },
+      {
+        "en": "A stable budget helps the team plan long projects.",
+        "vi": "Ngân sách ổn định giúp nhóm lập kế hoạch cho các dự án dài hạn."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "industry",
+    "pos": "n",
+    "meaning_vi": "ngành kinh tế hoặc lĩnh vực sản xuất và dịch vụ cụ thể",
+    "definition_en": "a field of business producing related goods or services",
+    "examples": [
+      {
+        "en": "The software industry changes quickly when new standards emerge.",
+        "vi": "Ngành phần mềm thay đổi nhanh khi các tiêu chuẩn mới xuất hiện."
+      },
+      {
+        "en": "Industry reports show stronger demand for cloud skills.",
+        "vi": "Các báo cáo ngành cho thấy nhu cầu cao hơn đối với kỹ năng đám mây."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "organization",
+    "pos": "n",
+    "meaning_vi": "tổ chức có người và nguồn lực cùng làm việc cho mục tiêu chung",
+    "definition_en": "a group of people working together toward shared goals",
+    "examples": [
+      {
+        "en": "The organization publishes its annual goals each January.",
+        "vi": "Tổ chức công bố các mục tiêu hằng năm vào mỗi tháng Một."
+      },
+      {
+        "en": "Every organization needs clear rules for handling personal data.",
+        "vi": "Mọi tổ chức đều cần quy tắc rõ ràng để xử lý dữ liệu cá nhân."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "partner",
+    "pos": "n",
+    "meaning_vi": "đối tác cùng hợp tác trong công việc hoặc kinh doanh",
+    "definition_en": "a person or organization working jointly with another",
+    "examples": [
+      {
+        "en": "The partner provides payment services in two regional markets.",
+        "vi": "Đối tác cung cấp dịch vụ thanh toán tại hai thị trường khu vực."
+      },
+      {
+        "en": "Choose a partner that can document its security controls.",
+        "vi": "Hãy chọn đối tác có thể ghi lại các biện pháp kiểm soát bảo mật của mình."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "indicator",
+    "pos": "n",
+    "meaning_vi": "chỉ báo dùng để cho thấy trạng thái, xu hướng hoặc mức độ của một vấn đề",
+    "definition_en": "a measure or sign showing a condition, trend, or level",
+    "examples": [
+      {
+        "en": "Customer retention is one indicator of long-term service quality.",
+        "vi": "Tỷ lệ giữ chân khách hàng là một chỉ báo về chất lượng dịch vụ dài hạn."
+      },
+      {
+        "en": "The dashboard shows each indicator beside its monthly target.",
+        "vi": "Bảng điều khiển hiển thị từng chỉ báo bên cạnh mục tiêu hằng tháng."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "knowledge",
+    "pos": "n",
+    "meaning_vi": "kiến thức và hiểu biết có được qua học tập hoặc kinh nghiệm",
+    "definition_en": "information and understanding gained through learning or experience",
+    "examples": [
+      {
+        "en": "Domain knowledge helps analysts interpret unusual results.",
+        "vi": "Kiến thức chuyên môn giúp các nhà phân tích diễn giải những kết quả bất thường."
+      },
+      {
+        "en": "The team shares knowledge through short weekly demonstrations.",
+        "vi": "Nhóm chia sẻ kiến thức qua các buổi trình diễn ngắn hằng tuần."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "communication",
+    "pos": "n",
+    "meaning_vi": "quá trình trao đổi thông tin, ý tưởng hoặc cảm xúc",
+    "definition_en": "the process of exchanging information or ideas",
+    "examples": [
+      {
+        "en": "Clear communication reduces delays between technical and sales teams.",
+        "vi": "Giao tiếp rõ ràng giúp giảm chậm trễ giữa nhóm kỹ thuật và nhóm bán hàng."
+      },
+      {
+        "en": "The course emphasizes communication during difficult customer conversations.",
+        "vi": "Khóa học nhấn mạnh giao tiếp trong các cuộc trao đổi khó với khách hàng."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "record",
+    "pos": "n",
+    "meaning_vi": "bản ghi lưu giữ thông tin về một sự kiện hoặc hoạt động",
+    "definition_en": "stored information about an event or activity",
+    "examples": [
+      {
+        "en": "Every transaction record includes a timestamp and reference number.",
+        "vi": "Mỗi bản ghi giao dịch gồm dấu thời gian và số tham chiếu."
+      },
+      {
+        "en": "The audit record shows who approved the change.",
+        "vi": "Bản ghi kiểm toán cho biết ai đã phê duyệt thay đổi."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "technical",
+    "pos": "adj",
+    "meaning_vi": "thuộc về công nghệ, kỹ thuật hoặc kiến thức chuyên môn",
+    "definition_en": "related to technology, engineering, or specialized methods",
+    "examples": [
+      {
+        "en": "The technical guide explains how to configure secure access.",
+        "vi": "Hướng dẫn kỹ thuật giải thích cách cấu hình quyền truy cập an toàn."
+      },
+      {
+        "en": "A technical interview may include a short debugging task.",
+        "vi": "Một cuộc phỏng vấn kỹ thuật có thể bao gồm một bài gỡ lỗi ngắn."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "deploy",
+    "pos": "v",
+    "meaning_vi": "triển khai phần mềm hoặc dịch vụ để có thể sử dụng",
+    "definition_en": "to release software or a service for use",
+    "examples": [
+      {
+        "en": "Engineers deploy the update after automated checks pass.",
+        "vi": "Các kỹ sư triển khai bản cập nhật sau khi các kiểm tra tự động đạt yêu cầu."
+      },
+      {
+        "en": "We deploy small changes to reduce operational risk.",
+        "vi": "Chúng tôi triển khai các thay đổi nhỏ để giảm rủi ro vận hành."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "connect",
+    "pos": "v",
+    "meaning_vi": "kết nối hai hoặc nhiều thiết bị, hệ thống hay người dùng",
+    "definition_en": "to join two or more things so they can communicate",
+    "examples": [
+      {
+        "en": "The application can connect to the reporting database securely.",
+        "vi": "Ứng dụng có thể kết nối an toàn với cơ sở dữ liệu báo cáo."
+      },
+      {
+        "en": "Use this cable to connect the monitor to the laptop.",
+        "vi": "Dùng dây cáp này để kết nối màn hình với máy tính xách tay."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "transmit",
+    "pos": "v",
+    "meaning_vi": "truyền dữ liệu, tín hiệu hoặc thông tin từ nơi này đến nơi khác",
+    "definition_en": "to send data, signals, or information from one place to another",
+    "examples": [
+      {
+        "en": "The sensor can transmit readings every thirty seconds.",
+        "vi": "Cảm biến có thể truyền số liệu đọc mỗi ba mươi giây."
+      },
+      {
+        "en": "Encrypted channels transmit customer data between services.",
+        "vi": "Các kênh mã hóa truyền dữ liệu khách hàng giữa các dịch vụ."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "filter",
+    "pos": "n",
+    "meaning_vi": "bộ lọc dùng để loại bỏ hoặc chỉ giữ các dữ liệu phù hợp",
+    "definition_en": "a rule or tool that selects desired information from a set",
+    "examples": [
+      {
+        "en": "The search filter hides records outside the selected date range.",
+        "vi": "Bộ lọc tìm kiếm ẩn các bản ghi ngoài khoảng ngày đã chọn."
+      },
+      {
+        "en": "Add a filter to show only unresolved support requests.",
+        "vi": "Hãy thêm bộ lọc để chỉ hiển thị các yêu cầu hỗ trợ chưa xử lý."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "sort",
+    "pos": "v",
+    "meaning_vi": "sắp xếp các mục theo một thứ tự xác định",
+    "definition_en": "to arrange items according to a chosen order",
+    "examples": [
+      {
+        "en": "Users can sort the table by date or priority.",
+        "vi": "Người dùng có thể sắp xếp bảng theo ngày hoặc mức ưu tiên."
+      },
+      {
+        "en": "Please sort the survey responses before analysis.",
+        "vi": "Hãy sắp xếp các câu trả lời khảo sát trước khi phân tích."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "logic",
+    "pos": "n",
+    "meaning_vi": "lô-gic hoặc hệ thống lý luận dùng để đưa ra kết quả",
+    "definition_en": "a system of reasoning used to reach conclusions",
+    "examples": [
+      {
+        "en": "The validation logic rejects incomplete account records.",
+        "vi": "Lô-gic xác thực từ chối các bản ghi tài khoản chưa đầy đủ."
+      },
+      {
+        "en": "Explain the logic behind each classification rule.",
+        "vi": "Hãy giải thích lô-gic đằng sau từng quy tắc phân loại."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "failure",
+    "pos": "n",
+    "meaning_vi": "sự thất bại hoặc trạng thái không hoạt động như mong đợi",
+    "definition_en": "an unsuccessful result or loss of expected operation",
+    "examples": [
+      {
+        "en": "The failure occurred after the service lost network access.",
+        "vi": "Sự cố xảy ra sau khi dịch vụ mất quyền truy cập mạng."
+      },
+      {
+        "en": "Each failure report includes a cause and recovery action.",
+        "vi": "Mỗi báo cáo lỗi bao gồm nguyên nhân và hành động khôi phục."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "recovery",
+    "pos": "n",
+    "meaning_vi": "quá trình khôi phục hoạt động hoặc dữ liệu sau sự cố",
+    "definition_en": "the process of returning to normal operation after a problem",
+    "examples": [
+      {
+        "en": "The recovery plan includes backups and communication steps.",
+        "vi": "Kế hoạch khôi phục bao gồm sao lưu và các bước truyền thông."
+      },
+      {
+        "en": "Fast recovery reduced the impact of the outage.",
+        "vi": "Việc khôi phục nhanh đã giảm ảnh hưởng của sự cố ngừng dịch vụ."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "identity",
+    "pos": "n",
+    "meaning_vi": "danh tính hoặc tập thông tin xác định một người hay thực thể",
+    "definition_en": "information that identifies a person or entity",
+    "examples": [
+      {
+        "en": "The system verifies identity before granting account access.",
+        "vi": "Hệ thống xác minh danh tính trước khi cấp quyền truy cập tài khoản."
+      },
+      {
+        "en": "Digital identity services must protect sensitive personal information.",
+        "vi": "Các dịch vụ danh tính số phải bảo vệ thông tin cá nhân nhạy cảm."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "log",
+    "pos": "n",
+    "meaning_vi": "nhật ký ghi lại sự kiện hoặc hoạt động của hệ thống",
+    "definition_en": "a chronological record of system events or activities",
+    "examples": [
+      {
+        "en": "The error log contains the request time and status code.",
+        "vi": "Nhật ký lỗi chứa thời gian yêu cầu và mã trạng thái."
+      },
+      {
+        "en": "Engineers review the log before changing production settings.",
+        "vi": "Các kỹ sư xem nhật ký trước khi thay đổi cài đặt môi trường sản xuất."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "select",
+    "pos": "v",
+    "meaning_vi": "chọn một mục hoặc phương án từ nhiều lựa chọn",
+    "definition_en": "to choose one thing from several possibilities",
+    "examples": [
+      {
+        "en": "Select the correct region before creating the resource.",
+        "vi": "Hãy chọn đúng khu vực trước khi tạo tài nguyên."
+      },
+      {
+        "en": "Researchers select participants using the published criteria.",
+        "vi": "Các nhà nghiên cứu chọn người tham gia theo tiêu chí đã công bố."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "selection",
+    "pos": "n",
+    "meaning_vi": "sự lựa chọn hoặc tập hợp các mục được chọn",
+    "definition_en": "the act of choosing or a group of chosen items",
+    "examples": [
+      {
+        "en": "The selection process uses transparent scoring criteria.",
+        "vi": "Quy trình lựa chọn sử dụng tiêu chí chấm điểm minh bạch."
+      },
+      {
+        "en": "Our catalog offers a broad selection of training courses.",
+        "vi": "Danh mục của chúng tôi cung cấp nhiều lựa chọn khóa đào tạo."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "define",
+    "pos": "v",
+    "meaning_vi": "định nghĩa hoặc mô tả rõ ý nghĩa, phạm vi hay yêu cầu",
+    "definition_en": "to state clearly the meaning, scope, or requirements of something",
+    "examples": [
+      {
+        "en": "Define the research question before collecting data.",
+        "vi": "Hãy xác định câu hỏi nghiên cứu trước khi thu thập dữ liệu."
+      },
+      {
+        "en": "Teams define ownership before starting complex projects.",
+        "vi": "Các nhóm xác định trách nhiệm trước khi bắt đầu dự án phức tạp."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "definition",
+    "pos": "n",
+    "meaning_vi": "định nghĩa giải thích chính xác ý nghĩa của một thuật ngữ",
+    "definition_en": "a statement explaining the exact meaning of a term",
+    "examples": [
+      {
+        "en": "The definition distinguishes accuracy from precision.",
+        "vi": "Định nghĩa phân biệt độ chính xác với độ chụm."
+      },
+      {
+        "en": "Use one consistent definition throughout the report.",
+        "vi": "Hãy dùng một định nghĩa nhất quán trong toàn bộ báo cáo."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "explanation",
+    "pos": "n",
+    "meaning_vi": "lời giải thích làm rõ lý do, ý nghĩa hoặc cách hoạt động",
+    "definition_en": "a statement that makes a reason or process clear",
+    "examples": [
+      {
+        "en": "The explanation links the observed trend to seasonal demand.",
+        "vi": "Lời giải thích liên hệ xu hướng quan sát được với nhu cầu theo mùa."
+      },
+      {
+        "en": "Add an explanation when a validation rule fails.",
+        "vi": "Hãy thêm lời giải thích khi một quy tắc xác thực không đạt."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "calculate",
+    "pos": "v",
+    "meaning_vi": "tính toán một giá trị bằng số liệu hoặc công thức",
+    "definition_en": "to determine a value using numbers or a formula",
+    "examples": [
+      {
+        "en": "Analysts calculate the average cost for each region.",
+        "vi": "Các nhà phân tích tính chi phí trung bình cho từng khu vực."
+      },
+      {
+        "en": "The application can calculate tax before checkout.",
+        "vi": "Ứng dụng có thể tính thuế trước khi thanh toán."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "calculation",
+    "pos": "n",
+    "meaning_vi": "phép tính hoặc quá trình tìm ra một giá trị số",
+    "definition_en": "the process or result of working out a numerical value",
+    "examples": [
+      {
+        "en": "The calculation uses the latest exchange rate.",
+        "vi": "Phép tính sử dụng tỷ giá mới nhất."
+      },
+      {
+        "en": "Check each calculation before publishing the financial table.",
+        "vi": "Hãy kiểm tra từng phép tính trước khi công bố bảng tài chính."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "classify",
+    "pos": "v",
+    "meaning_vi": "phân loại các đối tượng vào nhóm theo tiêu chí",
+    "definition_en": "to place things into groups according to shared criteria",
+    "examples": [
+      {
+        "en": "Researchers classify responses by topic and sentiment.",
+        "vi": "Các nhà nghiên cứu phân loại câu trả lời theo chủ đề và cảm xúc."
+      },
+      {
+        "en": "The model can classify messages into support categories.",
+        "vi": "Mô hình có thể phân loại tin nhắn vào các nhóm hỗ trợ."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "economic",
+    "pos": "adj",
+    "meaning_vi": "thuộc về kinh tế, sản xuất, thương mại hoặc tài chính",
+    "definition_en": "related to the economy, production, trade, or finance",
+    "examples": [
+      {
+        "en": "Economic conditions affected hiring across the region.",
+        "vi": "Điều kiện kinh tế ảnh hưởng đến tuyển dụng trên toàn khu vực."
+      },
+      {
+        "en": "The report compares economic growth in five markets.",
+        "vi": "Báo cáo so sánh tăng trưởng kinh tế ở năm thị trường."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "economy",
+    "pos": "n",
+    "meaning_vi": "nền kinh tế và hệ thống sản xuất, thương mại, tiêu dùng",
+    "definition_en": "the system of production, trade, and consumption in a region",
+    "examples": [
+      {
+        "en": "The local economy depends on tourism and small manufacturing firms.",
+        "vi": "Nền kinh tế địa phương phụ thuộc vào du lịch và các doanh nghiệp sản xuất nhỏ."
+      },
+      {
+        "en": "A stronger economy can increase demand for skilled workers.",
+        "vi": "Nền kinh tế mạnh hơn có thể làm tăng nhu cầu lao động có kỹ năng."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "commercial",
+    "pos": "adj",
+    "meaning_vi": "thuộc hoạt động kinh doanh nhằm tạo doanh thu hoặc lợi nhuận",
+    "definition_en": "related to business activity intended to generate revenue",
+    "examples": [
+      {
+        "en": "The commercial team reviewed pricing before the launch.",
+        "vi": "Nhóm kinh doanh xem xét giá trước khi ra mắt."
+      },
+      {
+        "en": "This license permits commercial use under stated conditions.",
+        "vi": "Giấy phép này cho phép sử dụng thương mại theo các điều kiện đã nêu."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "corporate",
+    "pos": "adj",
+    "meaning_vi": "thuộc về công ty hoặc tổ chức kinh doanh lớn",
+    "definition_en": "related to a company or business organization",
+    "examples": [
+      {
+        "en": "Corporate policy requires annual security training.",
+        "vi": "Chính sách công ty yêu cầu đào tạo bảo mật hằng năm."
+      },
+      {
+        "en": "The corporate website lists current investor information.",
+        "vi": "Trang web doanh nghiệp liệt kê thông tin hiện tại dành cho nhà đầu tư."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "professional",
+    "pos": "adj",
+    "meaning_vi": "chuyên nghiệp, phù hợp tiêu chuẩn của công việc hoặc nghề nghiệp",
+    "definition_en": "meeting the standards expected in a skilled occupation",
+    "examples": [
+      {
+        "en": "A professional report uses clear evidence and consistent formatting.",
+        "vi": "Một báo cáo chuyên nghiệp sử dụng bằng chứng rõ ràng và định dạng nhất quán."
+      },
+      {
+        "en": "Keep a professional tone when responding to complaints.",
+        "vi": "Hãy giữ giọng điệu chuyên nghiệp khi trả lời khiếu nại."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "general",
+    "pos": "adj",
+    "meaning_vi": "chung, không giới hạn vào một trường hợp cụ thể",
+    "definition_en": "applying broadly rather than to one specific case",
+    "examples": [
+      {
+        "en": "The general guideline applies to every project team.",
+        "vi": "Hướng dẫn chung áp dụng cho mọi nhóm dự án."
+      },
+      {
+        "en": "Start with a general overview before discussing details.",
+        "vi": "Hãy bắt đầu bằng phần tổng quan chung trước khi thảo luận chi tiết."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "complex",
+    "pos": "adj",
+    "meaning_vi": "phức tạp, gồm nhiều phần hoặc mối quan hệ khó xử lý",
+    "definition_en": "consisting of many connected parts that are difficult to handle",
+    "examples": [
+      {
+        "en": "A complex system needs clear monitoring and ownership.",
+        "vi": "Một hệ thống phức tạp cần giám sát và trách nhiệm rõ ràng."
+      },
+      {
+        "en": "The study examines a complex relationship between income and education.",
+        "vi": "Nghiên cứu xem xét mối quan hệ phức tạp giữa thu nhập và giáo dục."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "simple",
+    "pos": "adj",
+    "meaning_vi": "đơn giản, dễ hiểu hoặc có ít thành phần",
+    "definition_en": "easy to understand or containing few parts",
+    "examples": [
+      {
+        "en": "A simple dashboard can be more useful than many separate reports.",
+        "vi": "Một bảng điều khiển đơn giản có thể hữu ích hơn nhiều báo cáo riêng lẻ."
+      },
+      {
+        "en": "Use a simple example to explain the formula.",
+        "vi": "Hãy dùng một ví dụ đơn giản để giải thích công thức."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "practical",
+    "pos": "adj",
+    "meaning_vi": "thực tế và hữu ích trong tình huống thật",
+    "definition_en": "useful and suitable for real situations",
+    "examples": [
+      {
+        "en": "The course gives practical advice for workplace communication.",
+        "vi": "Khóa học đưa ra lời khuyên thực tế cho giao tiếp nơi làm việc."
+      },
+      {
+        "en": "A practical backup plan should be easy to test.",
+        "vi": "Một kế hoạch sao lưu thực tế phải dễ kiểm thử."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "theoretical",
+    "pos": "adj",
+    "meaning_vi": "mang tính lý thuyết, dựa trên ý tưởng hơn là ứng dụng trực tiếp",
+    "definition_en": "based on ideas and principles rather than direct application",
+    "examples": [
+      {
+        "en": "The theoretical model predicts how demand changes with price.",
+        "vi": "Mô hình lý thuyết dự đoán nhu cầu thay đổi theo giá như thế nào."
+      },
+      {
+        "en": "Students compare theoretical assumptions with observed data.",
+        "vi": "Sinh viên so sánh các giả định lý thuyết với dữ liệu quan sát được."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "internal",
+    "pos": "adj",
+    "meaning_vi": "nội bộ, nằm bên trong một tổ chức hoặc hệ thống",
+    "definition_en": "existing or occurring within an organization or system",
+    "examples": [
+      {
+        "en": "The internal report is available only to authorized staff.",
+        "vi": "Báo cáo nội bộ chỉ dành cho nhân viên được ủy quyền."
+      },
+      {
+        "en": "An internal service handles communication between applications.",
+        "vi": "Một dịch vụ nội bộ xử lý giao tiếp giữa các ứng dụng."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "global",
+    "pos": "adj",
+    "meaning_vi": "toàn cầu, liên quan đến nhiều quốc gia hoặc toàn thế giới",
+    "definition_en": "relating to the whole world or many countries",
+    "examples": [
+      {
+        "en": "Global demand increased for cloud infrastructure skills.",
+        "vi": "Nhu cầu toàn cầu tăng đối với kỹ năng hạ tầng đám mây."
+      },
+      {
+        "en": "The study compares global trends in digital payments.",
+        "vi": "Nghiên cứu so sánh các xu hướng toàn cầu về thanh toán số."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "regional",
+    "pos": "adj",
+    "meaning_vi": "thuộc một khu vực địa lý cụ thể",
+    "definition_en": "relating to a particular geographic region",
+    "examples": [
+      {
+        "en": "Regional offices follow the same reporting standard.",
+        "vi": "Các văn phòng khu vực tuân theo cùng một tiêu chuẩn báo cáo."
+      },
+      {
+        "en": "The survey reveals regional differences in internet access.",
+        "vi": "Khảo sát cho thấy khác biệt khu vực về khả năng truy cập Internet."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "private",
+    "pos": "adj",
+    "meaning_vi": "riêng tư hoặc chỉ dành cho người được phép",
+    "definition_en": "restricted to particular people rather than open to everyone",
+    "examples": [
+      {
+        "en": "Customer records remain private unless sharing is authorized.",
+        "vi": "Hồ sơ khách hàng vẫn riêng tư trừ khi việc chia sẻ được cho phép."
+      },
+      {
+        "en": "The team uses a private repository for confidential code.",
+        "vi": "Nhóm sử dụng kho mã riêng cho mã nguồn bảo mật."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "legal",
+    "pos": "adj",
+    "meaning_vi": "hợp pháp hoặc liên quan đến luật và quy định",
+    "definition_en": "permitted by law or related to legal rules",
+    "examples": [
+      {
+        "en": "The legal team reviewed the contract before signature.",
+        "vi": "Nhóm pháp lý xem xét hợp đồng trước khi ký."
+      },
+      {
+        "en": "Companies must understand legal duties when storing personal data.",
+        "vi": "Các công ty phải hiểu nghĩa vụ pháp lý khi lưu trữ dữ liệu cá nhân."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "development",
+    "pos": "n",
+    "meaning_vi": "quá trình phát triển, cải tiến hoặc tạo ra sản phẩm hay năng lực",
+    "definition_en": "the process of creating, improving, or growing something",
+    "examples": [
+      {
+        "en": "Product development starts with a clearly defined customer problem.",
+        "vi": "Phát triển sản phẩm bắt đầu từ một vấn đề khách hàng được xác định rõ."
+      },
+      {
+        "en": "Staff development includes mentoring and structured training.",
+        "vi": "Phát triển nhân viên bao gồm cố vấn và đào tạo có cấu trúc."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "manage",
+    "pos": "v",
+    "meaning_vi": "quản lý, tổ chức và kiểm soát công việc hoặc nguồn lực",
+    "definition_en": "to organize and control work, people, or resources",
+    "examples": [
+      {
+        "en": "Managers manage budgets differently across project stages.",
+        "vi": "Các quản lý quản lý ngân sách khác nhau theo từng giai đoạn dự án."
+      },
+      {
+        "en": "Use tags to manage a large collection of documents.",
+        "vi": "Hãy dùng thẻ để quản lý một tập tài liệu lớn."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "reduction",
+    "pos": "n",
+    "meaning_vi": "sự giảm bớt về số lượng, chi phí hoặc mức độ",
+    "definition_en": "a decrease in amount, cost, or level",
+    "examples": [
+      {
+        "en": "The change produced a reduction in average response time.",
+        "vi": "Thay đổi tạo ra sự giảm thời gian phản hồi trung bình."
+      },
+      {
+        "en": "Energy reduction targets are reviewed every quarter.",
+        "vi": "Các mục tiêu giảm năng lượng được xem xét mỗi quý."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "expansion",
+    "pos": "n",
+    "meaning_vi": "sự mở rộng về quy mô, phạm vi hoặc năng lực",
+    "definition_en": "an increase in size, scope, or capacity",
+    "examples": [
+      {
+        "en": "The expansion adds two new regional support centers.",
+        "vi": "Việc mở rộng bổ sung hai trung tâm hỗ trợ khu vực mới."
+      },
+      {
+        "en": "Network expansion requires careful capacity planning.",
+        "vi": "Việc mở rộng mạng lưới cần lập kế hoạch năng lực cẩn thận."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "enable",
+    "pos": "v",
+    "meaning_vi": "cho phép hoặc tạo điều kiện để một việc có thể xảy ra",
+    "definition_en": "to make something possible or allow it to happen",
+    "examples": [
+      {
+        "en": "Single sign-on can enable faster access to approved tools.",
+        "vi": "Đăng nhập một lần có thể cho phép truy cập nhanh hơn vào các công cụ được duyệt."
+      },
+      {
+        "en": "Clear documentation will enable new staff to work independently.",
+        "vi": "Tài liệu rõ ràng sẽ giúp nhân viên mới có thể làm việc độc lập."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "capability",
+    "pos": "n",
+    "meaning_vi": "khả năng thực hiện một chức năng hoặc nhiệm vụ",
+    "definition_en": "the ability to perform a function or task",
+    "examples": [
+      {
+        "en": "The new search capability supports filters and saved queries.",
+        "vi": "Khả năng tìm kiếm mới hỗ trợ bộ lọc và truy vấn đã lưu."
+      },
+      {
+        "en": "Training improves the team capability to handle incidents.",
+        "vi": "Đào tạo cải thiện khả năng của nhóm trong việc xử lý sự cố."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "recommendation",
+    "pos": "n",
+    "meaning_vi": "khuyến nghị về hành động hoặc lựa chọn nên thực hiện",
+    "definition_en": "advice about what action or choice should be taken",
+    "examples": [
+      {
+        "en": "The audit recommendation prioritizes access control improvements.",
+        "vi": "Khuyến nghị kiểm toán ưu tiên cải thiện kiểm soát truy cập."
+      },
+      {
+        "en": "Each recommendation includes evidence and an expected benefit.",
+        "vi": "Mỗi khuyến nghị bao gồm bằng chứng và lợi ích dự kiến."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "media",
+    "pos": "n",
+    "meaning_vi": "các phương tiện truyền thông dùng để truyền tải thông tin tới công chúng",
+    "definition_en": "channels used to communicate information to large audiences",
+    "examples": [
+      {
+        "en": "Social media can spread product updates quickly.",
+        "vi": "Mạng xã hội có thể lan truyền cập nhật sản phẩm nhanh chóng."
+      },
+      {
+        "en": "The media report included comments from independent researchers.",
+        "vi": "Bản tin truyền thông bao gồm ý kiến từ các nhà nghiên cứu độc lập."
+      }
+    ],
+    "topics": [
+      "general",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "healthcare",
+    "pos": "n",
+    "meaning_vi": "dịch vụ chăm sóc sức khỏe và điều trị y tế",
+    "definition_en": "services for maintaining or improving people's health",
+    "examples": [
+      {
+        "en": "Digital healthcare tools can support remote consultations.",
+        "vi": "Các công cụ chăm sóc sức khỏe số có thể hỗ trợ tư vấn từ xa."
+      },
+      {
+        "en": "Healthcare organizations must protect confidential patient records.",
+        "vi": "Các tổ chức chăm sóc sức khỏe phải bảo vệ hồ sơ bệnh nhân bí mật."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "electrical",
+    "pos": "adj",
+    "meaning_vi": "thuộc điện hoặc hoạt động bằng điện",
+    "definition_en": "related to electricity or powered by electricity",
+    "examples": [
+      {
+        "en": "An electrical fault stopped the laboratory equipment.",
+        "vi": "Một lỗi điện đã làm thiết bị phòng thí nghiệm ngừng hoạt động."
+      },
+      {
+        "en": "Technicians inspected every electrical connection before testing.",
+        "vi": "Kỹ thuật viên kiểm tra mọi kết nối điện trước khi thử nghiệm."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "lab",
+    "pos": "n",
+    "meaning_vi": "phòng thí nghiệm dùng để nghiên cứu, thử nghiệm hoặc đo lường",
+    "definition_en": "a room equipped for experiments, research, or testing",
+    "examples": [
+      {
+        "en": "The lab stores samples under controlled temperatures.",
+        "vi": "Phòng thí nghiệm lưu mẫu ở nhiệt độ được kiểm soát."
+      },
+      {
+        "en": "Students tested the sensor in a university lab.",
+        "vi": "Sinh viên thử cảm biến trong một phòng thí nghiệm của trường đại học."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "physics",
+    "pos": "n",
+    "meaning_vi": "vật lý học, ngành nghiên cứu vật chất, năng lượng và lực",
+    "definition_en": "the science of matter, energy, motion, and forces",
+    "examples": [
+      {
+        "en": "Physics explains how the sensor measures acceleration.",
+        "vi": "Vật lý giải thích cách cảm biến đo gia tốc."
+      },
+      {
+        "en": "The course connects physics concepts with engineering examples.",
+        "vi": "Khóa học kết nối các khái niệm vật lý với ví dụ kỹ thuật."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "agriculture",
+    "pos": "n",
+    "meaning_vi": "nông nghiệp, hoạt động trồng trọt và chăn nuôi để sản xuất thực phẩm",
+    "definition_en": "the practice of growing crops and raising animals for food",
+    "examples": [
+      {
+        "en": "Modern agriculture increasingly uses sensors to monitor soil conditions.",
+        "vi": "Nông nghiệp hiện đại ngày càng dùng cảm biến để theo dõi điều kiện đất."
+      },
+      {
+        "en": "The report examines agriculture employment across rural regions.",
+        "vi": "Báo cáo xem xét việc làm nông nghiệp ở các vùng nông thôn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "chemistry",
+    "pos": "n",
+    "meaning_vi": "hóa học, ngành nghiên cứu chất và cách chúng biến đổi",
+    "definition_en": "the science of substances and how they change",
+    "examples": [
+      {
+        "en": "Chemistry helps engineers choose materials for battery design.",
+        "vi": "Hóa học giúp kỹ sư chọn vật liệu cho thiết kế pin."
+      },
+      {
+        "en": "The lab requires basic chemistry knowledge for safe handling.",
+        "vi": "Phòng thí nghiệm yêu cầu kiến thức hóa học cơ bản để thao tác an toàn."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "exit",
+    "pos": "n",
+    "meaning_vi": "lối ra hoặc cách rời khỏi một nơi, chương trình hay trạng thái",
+    "definition_en": "a way or point for leaving a place or process",
+    "examples": [
+      {
+        "en": "The emergency exit must remain clear during working hours.",
+        "vi": "Lối thoát hiểm phải luôn thông thoáng trong giờ làm việc."
+      },
+      {
+        "en": "The application provides an exit button on every setup screen.",
+        "vi": "Ứng dụng cung cấp nút thoát trên mọi màn hình thiết lập."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "prevention",
+    "pos": "n",
+    "meaning_vi": "sự phòng ngừa nhằm ngăn một vấn đề xảy ra",
+    "definition_en": "action taken to stop a problem before it happens",
+    "examples": [
+      {
+        "en": "Fraud prevention depends on monitoring unusual account activity.",
+        "vi": "Phòng ngừa gian lận phụ thuộc vào việc giám sát hoạt động tài khoản bất thường."
+      },
+      {
+        "en": "Accident prevention starts with clear safety procedures.",
+        "vi": "Phòng ngừa tai nạn bắt đầu bằng các quy trình an toàn rõ ràng."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "radiation",
+    "pos": "n",
+    "meaning_vi": "bức xạ, năng lượng truyền đi dưới dạng sóng hoặc hạt",
+    "definition_en": "energy transmitted as waves or particles",
+    "examples": [
+      {
+        "en": "The device measures radiation levels near the sample.",
+        "vi": "Thiết bị đo mức bức xạ gần mẫu."
+      },
+      {
+        "en": "Researchers recorded radiation exposure during the experiment.",
+        "vi": "Các nhà nghiên cứu ghi lại mức phơi nhiễm bức xạ trong thí nghiệm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "oral",
+    "pos": "adj",
+    "meaning_vi": "bằng lời nói hoặc liên quan đến miệng",
+    "definition_en": "spoken rather than written or related to the mouth",
+    "examples": [
+      {
+        "en": "The final assessment includes an oral presentation.",
+        "vi": "Bài đánh giá cuối kỳ bao gồm một phần thuyết trình bằng lời."
+      },
+      {
+        "en": "Oral instructions should also appear in written form.",
+        "vi": "Hướng dẫn bằng lời cũng nên xuất hiện dưới dạng văn bản."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "oxygen",
+    "pos": "n",
+    "meaning_vi": "ôxy, khí cần cho hô hấp và nhiều phản ứng hóa học",
+    "definition_en": "a gas needed for respiration and many chemical reactions",
+    "examples": [
+      {
+        "en": "The sensor tracks oxygen levels inside the chamber.",
+        "vi": "Cảm biến theo dõi mức ôxy bên trong buồng."
+      },
+      {
+        "en": "Low oxygen can affect both people and equipment performance.",
+        "vi": "Mức ôxy thấp có thể ảnh hưởng cả con người lẫn hiệu suất thiết bị."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "robot",
+    "pos": "n",
+    "meaning_vi": "rô-bốt, máy có thể thực hiện nhiệm vụ tự động",
+    "definition_en": "a programmable machine that can perform tasks automatically",
+    "examples": [
+      {
+        "en": "The robot moves components between two assembly stations.",
+        "vi": "Rô-bốt di chuyển linh kiện giữa hai trạm lắp ráp."
+      },
+      {
+        "en": "Engineers tested the robot under different lighting conditions.",
+        "vi": "Các kỹ sư thử rô-bốt dưới các điều kiện ánh sáng khác nhau."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "toxic",
+    "pos": "adj",
+    "meaning_vi": "độc hại, có khả năng gây hại cho sinh vật hoặc môi trường",
+    "definition_en": "capable of causing serious harm to living things",
+    "examples": [
+      {
+        "en": "The lab stores toxic chemicals in a secured cabinet.",
+        "vi": "Phòng thí nghiệm lưu hóa chất độc hại trong tủ được khóa."
+      },
+      {
+        "en": "Workers receive training before handling toxic materials.",
+        "vi": "Người lao động được đào tạo trước khi xử lý vật liệu độc hại."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "treasury",
+    "pos": "n",
+    "meaning_vi": "bộ phận quản lý tiền mặt, nguồn vốn và rủi ro tài chính của tổ chức",
+    "definition_en": "a department that manages cash, funding, and financial risk",
+    "examples": [
+      {
+        "en": "The treasury team monitors daily cash balances.",
+        "vi": "Nhóm ngân quỹ theo dõi số dư tiền mặt hằng ngày."
+      },
+      {
+        "en": "Treasury forecasts help managers plan short-term funding needs.",
+        "vi": "Dự báo ngân quỹ giúp quản lý lập kế hoạch nhu cầu vốn ngắn hạn."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "charter",
+    "pos": "n",
+    "meaning_vi": "văn bản xác định mục đích, phạm vi và trách nhiệm của một nhóm",
+    "definition_en": "a document defining the purpose, scope, and responsibilities of a group",
+    "examples": [
+      {
+        "en": "The project charter names the sponsor and key objectives.",
+        "vi": "Điều lệ dự án nêu tên nhà tài trợ và các mục tiêu chính."
+      },
+      {
+        "en": "A team charter can clarify decision rights early.",
+        "vi": "Điều lệ nhóm có thể làm rõ quyền ra quyết định từ sớm."
+      }
+    ],
+    "topics": [
+      "business"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "dominant",
+    "pos": "adj",
+    "meaning_vi": "chiếm ưu thế hoặc có ảnh hưởng mạnh nhất",
+    "definition_en": "having the strongest influence or greatest importance",
+    "examples": [
+      {
+        "en": "One supplier became dominant in the regional market.",
+        "vi": "Một nhà cung cấp trở nên chiếm ưu thế trên thị trường khu vực."
+      },
+      {
+        "en": "The dominant pattern appears in most survey responses.",
+        "vi": "Mẫu chiếm ưu thế xuất hiện trong phần lớn câu trả lời khảo sát."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "serial",
+    "pos": "adj",
+    "meaning_vi": "nối tiếp theo chuỗi hoặc được xử lý lần lượt",
+    "definition_en": "occurring or processed in a sequence",
+    "examples": [
+      {
+        "en": "The device sends data through a serial connection.",
+        "vi": "Thiết bị gửi dữ liệu qua kết nối nối tiếp."
+      },
+      {
+        "en": "Serial processing can simplify some testing workflows.",
+        "vi": "Xử lý nối tiếp có thể đơn giản hóa một số quy trình kiểm thử."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "biology",
+    "pos": "n",
+    "meaning_vi": "sinh học, ngành nghiên cứu sinh vật và các quá trình sống",
+    "definition_en": "the science of living organisms and life processes",
+    "examples": [
+      {
+        "en": "Biology students used the database to compare species records.",
+        "vi": "Sinh viên sinh học dùng cơ sở dữ liệu để so sánh hồ sơ loài."
+      },
+      {
+        "en": "The project combines biology research with image analysis.",
+        "vi": "Dự án kết hợp nghiên cứu sinh học với phân tích hình ảnh."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "delete",
+    "pos": "v",
+    "meaning_vi": "xóa dữ liệu, tệp hoặc nội dung khỏi hệ thống",
+    "definition_en": "to remove data, files, or content from a system",
+    "examples": [
+      {
+        "en": "Users can delete a draft before publication.",
+        "vi": "Người dùng có thể xóa bản nháp trước khi công bố."
+      },
+      {
+        "en": "Administrators delete expired test accounts each month.",
+        "vi": "Quản trị viên xóa các tài khoản thử nghiệm hết hạn mỗi tháng."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "fluid",
+    "pos": "n",
+    "meaning_vi": "chất lỏng hoặc khí có thể chảy và thay đổi hình dạng",
+    "definition_en": "a substance such as a liquid or gas that can flow",
+    "examples": [
+      {
+        "en": "The pump moves fluid through the cooling system.",
+        "vi": "Máy bơm chuyển chất lưu qua hệ thống làm mát."
+      },
+      {
+        "en": "Researchers measured fluid pressure at three points.",
+        "vi": "Các nhà nghiên cứu đo áp suất chất lưu tại ba điểm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "safely",
+    "pos": "adv",
+    "meaning_vi": "một cách an toàn và hạn chế nguy cơ gây hại",
+    "definition_en": "in a way that avoids danger or harm",
+    "examples": [
+      {
+        "en": "Technicians safely disconnect power before replacing components.",
+        "vi": "Kỹ thuật viên ngắt nguồn an toàn trước khi thay linh kiện."
+      },
+      {
+        "en": "The system safely stores encrypted recovery keys.",
+        "vi": "Hệ thống lưu khóa khôi phục đã mã hóa một cách an toàn."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "beta",
+    "pos": "n",
+    "meaning_vi": "phiên bản thử nghiệm được phát hành để thu thập phản hồi trước bản chính thức",
+    "definition_en": "a test version released before the final product",
+    "examples": [
+      {
+        "en": "The beta includes the new search and export features.",
+        "vi": "Bản beta bao gồm các tính năng tìm kiếm và xuất dữ liệu mới."
+      },
+      {
+        "en": "Customers can join the beta through an invitation program.",
+        "vi": "Khách hàng có thể tham gia bản beta qua chương trình mời."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "bug",
+    "pos": "n",
+    "meaning_vi": "lỗi phần mềm gây ra hành vi không mong muốn",
+    "definition_en": "a software defect that causes unexpected behavior",
+    "examples": [
+      {
+        "en": "The bug prevented users from saving profile changes.",
+        "vi": "Lỗi phần mềm ngăn người dùng lưu thay đổi hồ sơ."
+      },
+      {
+        "en": "Engineers reproduced the bug before preparing a fix.",
+        "vi": "Các kỹ sư tái hiện lỗi phần mềm trước khi chuẩn bị bản sửa."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "laser",
+    "pos": "n",
+    "meaning_vi": "tia la-de tạo chùm ánh sáng tập trung và định hướng",
+    "definition_en": "a device producing a focused beam of light",
+    "examples": [
+      {
+        "en": "The laser measures distance with high precision.",
+        "vi": "Tia la-de đo khoảng cách với độ chính xác cao."
+      },
+      {
+        "en": "Researchers calibrated the laser before collecting measurements.",
+        "vi": "Các nhà nghiên cứu hiệu chỉnh tia la-de trước khi thu thập số đo."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "occupation",
+    "pos": "n",
+    "meaning_vi": "nghề nghiệp hoặc công việc chính của một người",
+    "definition_en": "a person's main job or profession",
+    "examples": [
+      {
+        "en": "The survey records occupation and education level separately.",
+        "vi": "Khảo sát ghi nghề nghiệp và trình độ học vấn riêng biệt."
+      },
+      {
+        "en": "Occupation data helps researchers compare employment patterns.",
+        "vi": "Dữ liệu nghề nghiệp giúp các nhà nghiên cứu so sánh mô hình việc làm."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "radar",
+    "pos": "n",
+    "meaning_vi": "ra-đa, hệ thống dùng sóng vô tuyến để phát hiện vị trí hoặc chuyển động",
+    "definition_en": "a system using radio waves to detect position or movement",
+    "examples": [
+      {
+        "en": "The radar tracks aircraft approaching the airport.",
+        "vi": "Ra-đa theo dõi máy bay đang tiếp cận sân bay."
+      },
+      {
+        "en": "Engineers tested radar performance during heavy rain.",
+        "vi": "Các kỹ sư kiểm tra hiệu suất ra-đa trong mưa lớn."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "transit",
+    "pos": "n",
+    "meaning_vi": "sự vận chuyển hoặc di chuyển qua một khu vực hay hệ thống",
+    "definition_en": "the movement of people or goods from one place to another",
+    "examples": [
+      {
+        "en": "Public transit data helps planners estimate peak demand.",
+        "vi": "Dữ liệu giao thông công cộng giúp nhà quy hoạch ước tính nhu cầu giờ cao điểm."
+      },
+      {
+        "en": "The package remained in transit for two days.",
+        "vi": "Gói hàng vẫn đang trong quá trình vận chuyển trong hai ngày."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "census",
+    "pos": "n",
+    "meaning_vi": "cuộc điều tra chính thức nhằm đếm và mô tả dân số",
+    "definition_en": "an official survey counting and describing a population",
+    "examples": [
+      {
+        "en": "The census provides detailed information about household size.",
+        "vi": "Điều tra dân số cung cấp thông tin chi tiết về quy mô hộ gia đình."
+      },
+      {
+        "en": "Researchers compare census data across multiple years.",
+        "vi": "Các nhà nghiên cứu so sánh dữ liệu điều tra dân số qua nhiều năm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "exploration",
+    "pos": "n",
+    "meaning_vi": "quá trình khám phá hoặc khảo sát một chủ đề, khu vực hay khả năng",
+    "definition_en": "the process of investigating a subject, place, or possibility",
+    "examples": [
+      {
+        "en": "Data exploration helps analysts notice unexpected relationships.",
+        "vi": "Khám phá dữ liệu giúp nhà phân tích nhận ra các mối quan hệ bất ngờ."
+      },
+      {
+        "en": "The workshop encourages exploration before choosing a final design.",
+        "vi": "Hội thảo khuyến khích khám phá trước khi chọn thiết kế cuối cùng."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "graphics",
+    "pos": "n",
+    "meaning_vi": "hình ảnh, biểu đồ hoặc nội dung trực quan được tạo bằng máy tính",
+    "definition_en": "visual images or designs produced or displayed digitally",
+    "examples": [
+      {
+        "en": "The dashboard uses simple graphics to explain monthly trends.",
+        "vi": "Bảng điều khiển dùng đồ họa đơn giản để giải thích xu hướng hằng tháng."
+      },
+      {
+        "en": "Better graphics can make technical training easier to follow.",
+        "vi": "Đồ họa tốt hơn có thể giúp đào tạo kỹ thuật dễ theo dõi hơn."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "partially",
+    "pos": "adv",
+    "meaning_vi": "một phần, chưa hoàn toàn",
+    "definition_en": "to some degree but not completely",
+    "examples": [
+      {
+        "en": "The result is partially explained by seasonal demand.",
+        "vi": "Kết quả được giải thích một phần bởi nhu cầu theo mùa."
+      },
+      {
+        "en": "The damaged file was partially recovered from backup.",
+        "vi": "Tệp bị hỏng đã được khôi phục một phần từ bản sao lưu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "consecutive",
+    "pos": "adj",
+    "meaning_vi": "liên tiếp, xảy ra ngay sau nhau không bị gián đoạn",
+    "definition_en": "following one after another without interruption",
+    "examples": [
+      {
+        "en": "Sales increased for three consecutive quarters.",
+        "vi": "Doanh số tăng trong ba quý liên tiếp."
+      },
+      {
+        "en": "The service failed two consecutive health checks.",
+        "vi": "Dịch vụ không đạt hai lần kiểm tra tình trạng liên tiếp."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "grid",
+    "pos": "n",
+    "meaning_vi": "lưới gồm các hàng, cột hoặc đường giao nhau",
+    "definition_en": "a network of crossing lines or arranged rows and columns",
+    "examples": [
+      {
+        "en": "The interface places dashboard cards on a flexible grid.",
+        "vi": "Giao diện đặt các thẻ bảng điều khiển trên một lưới linh hoạt."
+      },
+      {
+        "en": "The power grid must balance supply and demand continuously.",
+        "vi": "Lưới điện phải cân bằng cung và cầu liên tục."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "rotation",
+    "pos": "n",
+    "meaning_vi": "sự quay quanh trục hoặc luân phiên theo thứ tự",
+    "definition_en": "the act of turning around an axis or changing in sequence",
+    "examples": [
+      {
+        "en": "Staff rotation gives employees experience across departments.",
+        "vi": "Việc luân chuyển nhân sự giúp nhân viên có kinh nghiệm ở nhiều phòng ban."
+      },
+      {
+        "en": "The sensor records rotation speed every second.",
+        "vi": "Cảm biến ghi tốc độ quay mỗi giây."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "submission",
+    "pos": "n",
+    "meaning_vi": "tài liệu hoặc nội dung được gửi để xem xét hay đánh giá",
+    "definition_en": "something formally sent for review or assessment",
+    "examples": [
+      {
+        "en": "Each submission receives a unique reference number.",
+        "vi": "Mỗi bài nộp nhận một số tham chiếu riêng."
+      },
+      {
+        "en": "Late submission requires approval from the course coordinator.",
+        "vi": "Việc nộp muộn cần được điều phối viên khóa học phê duyệt."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "compact",
+    "pos": "adj",
+    "meaning_vi": "gọn, chiếm ít không gian nhưng vẫn đủ chức năng",
+    "definition_en": "small and efficiently arranged",
+    "examples": [
+      {
+        "en": "The compact device fits beside a standard monitor.",
+        "vi": "Thiết bị nhỏ gọn đặt vừa bên cạnh màn hình tiêu chuẩn."
+      },
+      {
+        "en": "A compact summary helps managers scan results quickly.",
+        "vi": "Bản tóm tắt ngắn gọn giúp quản lý xem nhanh kết quả."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "architect",
+    "pos": "n",
+    "meaning_vi": "kiến trúc sư hoặc người thiết kế cấu trúc tổng thể của hệ thống",
+    "definition_en": "a person who designs buildings or complex system structures",
+    "examples": [
+      {
+        "en": "The software architect reviewed service boundaries before development.",
+        "vi": "Kiến trúc sư phần mềm xem xét ranh giới dịch vụ trước khi phát triển."
+      },
+      {
+        "en": "An architect prepared the plans for the new office.",
+        "vi": "Một kiến trúc sư chuẩn bị bản vẽ cho văn phòng mới."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "diameter",
+    "pos": "n",
+    "meaning_vi": "đường kính, đoạn thẳng đi qua tâm của hình tròn",
+    "definition_en": "the distance across a circle through its center",
+    "examples": [
+      {
+        "en": "The engineer measured the pipe diameter before ordering parts.",
+        "vi": "Kỹ sư đo đường kính ống trước khi đặt linh kiện."
+      },
+      {
+        "en": "A larger diameter allows more fluid to pass through.",
+        "vi": "Đường kính lớn hơn cho phép nhiều chất lưu đi qua hơn."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "fabric",
+    "pos": "n",
+    "meaning_vi": "vải hoặc vật liệu dệt dùng để tạo sản phẩm",
+    "definition_en": "material made by weaving or joining fibers",
+    "examples": [
+      {
+        "en": "The manufacturer tests fabric strength before production.",
+        "vi": "Nhà sản xuất kiểm tra độ bền vải trước khi sản xuất."
+      },
+      {
+        "en": "This fabric contains recycled fibers from local suppliers.",
+        "vi": "Loại vải này chứa sợi tái chế từ các nhà cung cấp địa phương."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "hub",
+    "pos": "n",
+    "meaning_vi": "trung tâm kết nối nhiều hoạt động, dịch vụ hoặc tuyến liên lạc",
+    "definition_en": "a central point connecting activities, services, or routes",
+    "examples": [
+      {
+        "en": "The regional hub connects several logistics routes.",
+        "vi": "Trung tâm khu vực kết nối nhiều tuyến logistics."
+      },
+      {
+        "en": "Our data hub combines records from different services.",
+        "vi": "Trung tâm dữ liệu của chúng tôi kết hợp bản ghi từ các dịch vụ khác nhau."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "micro",
+    "pos": "adj",
+    "meaning_vi": "rất nhỏ hoặc ở quy mô nhỏ",
+    "definition_en": "very small or operating on a small scale",
+    "examples": [
+      {
+        "en": "The course introduces micro sensors used in wearable devices.",
+        "vi": "Khóa học giới thiệu các cảm biến vi mô dùng trong thiết bị đeo."
+      },
+      {
+        "en": "Micro businesses often need simple accounting tools.",
+        "vi": "Các doanh nghiệp siêu nhỏ thường cần công cụ kế toán đơn giản."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "momentum",
+    "pos": "n",
+    "meaning_vi": "đà phát triển hoặc lực giúp một quá trình tiếp tục tiến lên",
+    "definition_en": "the force or progress that keeps a process moving forward",
+    "examples": [
+      {
+        "en": "The project gained momentum after the pilot succeeded.",
+        "vi": "Dự án có thêm đà phát triển sau khi thử nghiệm thành công."
+      },
+      {
+        "en": "Strong early sales created momentum for regional expansion.",
+        "vi": "Doanh số ban đầu mạnh tạo đà cho việc mở rộng khu vực."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "notable",
+    "pos": "adj",
+    "meaning_vi": "đáng chú ý vì khác biệt hoặc quan trọng",
+    "definition_en": "worthy of attention because of importance or difference",
+    "examples": [
+      {
+        "en": "The report found a notable increase in mobile usage.",
+        "vi": "Báo cáo ghi nhận mức tăng đáng chú ý về sử dụng di động."
+      },
+      {
+        "en": "One notable difference appears in the youngest customer group.",
+        "vi": "Một khác biệt đáng chú ý xuất hiện ở nhóm khách hàng trẻ nhất."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "outlook",
+    "pos": "n",
+    "meaning_vi": "triển vọng hoặc quan điểm về điều có thể xảy ra trong tương lai",
+    "definition_en": "an expectation or view about future conditions",
+    "examples": [
+      {
+        "en": "The market outlook improved after demand stabilized.",
+        "vi": "Triển vọng thị trường được cải thiện sau khi nhu cầu ổn định."
+      },
+      {
+        "en": "The report presents a cautious outlook for next year.",
+        "vi": "Báo cáo đưa ra triển vọng thận trọng cho năm tới."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "span",
+    "pos": "n",
+    "meaning_vi": "khoảng thời gian hoặc khoảng cách từ đầu đến cuối",
+    "definition_en": "the full length of time or distance between two points",
+    "examples": [
+      {
+        "en": "The study covers a ten-year span of employment data.",
+        "vi": "Nghiên cứu bao quát khoảng thời gian mười năm của dữ liệu việc làm."
+      },
+      {
+        "en": "The bridge span was measured before maintenance began.",
+        "vi": "Nhịp cầu được đo trước khi công tác bảo trì bắt đầu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "generic",
+    "pos": "adj",
+    "meaning_vi": "chung chung, không gắn với thương hiệu hoặc trường hợp riêng",
+    "definition_en": "not specific to a particular brand or case",
+    "examples": [
+      {
+        "en": "The template uses generic labels that teams can customize.",
+        "vi": "Mẫu dùng các nhãn chung mà các nhóm có thể tùy chỉnh."
+      },
+      {
+        "en": "A generic error message gives users too little guidance.",
+        "vi": "Thông báo lỗi chung chung cung cấp quá ít hướng dẫn cho người dùng."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "molecular",
+    "pos": "adj",
+    "meaning_vi": "thuộc về phân tử hoặc cấu trúc ở cấp độ phân tử",
+    "definition_en": "related to molecules or structures at molecular scale",
+    "examples": [
+      {
+        "en": "Molecular analysis revealed a difference between the samples.",
+        "vi": "Phân tích phân tử cho thấy sự khác biệt giữa các mẫu."
+      },
+      {
+        "en": "The course introduces molecular structures through visual models.",
+        "vi": "Khóa học giới thiệu cấu trúc phân tử bằng các mô hình trực quan."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "openly",
+    "pos": "adv",
+    "meaning_vi": "một cách công khai và không che giấu",
+    "definition_en": "in a direct and public manner without hiding information",
+    "examples": [
+      {
+        "en": "Leaders should openly discuss major project risks.",
+        "vi": "Lãnh đạo nên công khai thảo luận các rủi ro lớn của dự án."
+      },
+      {
+        "en": "The company openly published its data retention policy.",
+        "vi": "Công ty công khai chính sách lưu giữ dữ liệu của mình."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "unlimited",
+    "pos": "adj",
+    "meaning_vi": "không giới hạn về số lượng, thời gian hoặc mức sử dụng",
+    "definition_en": "having no fixed limit in amount or use",
+    "examples": [
+      {
+        "en": "The plan advertises unlimited storage for archived documents.",
+        "vi": "Gói dịch vụ quảng cáo dung lượng lưu trữ không giới hạn cho tài liệu lưu trữ."
+      },
+      {
+        "en": "Unlimited retries can overload a failing service.",
+        "vi": "Số lần thử lại không giới hạn có thể làm quá tải một dịch vụ đang lỗi."
+      }
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "leak",
+    "pos": "n",
+    "meaning_vi": "sự rò rỉ chất lỏng, khí hoặc thông tin ngoài ý muốn",
+    "definition_en": "an unintended escape of liquid, gas, or information",
+    "examples": [
+      {
+        "en": "The monitoring system detected a water leak early.",
+        "vi": "Hệ thống giám sát phát hiện sớm một chỗ rò rỉ nước."
+      },
+      {
+        "en": "A data leak can expose confidential customer records.",
+        "vi": "Rò rỉ dữ liệu có thể làm lộ hồ sơ khách hàng bí mật."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "receiver",
+    "pos": "n",
+    "meaning_vi": "thiết bị hoặc người nhận tín hiệu, dữ liệu hay vật được gửi",
+    "definition_en": "a device or person that receives a signal or item",
+    "examples": [
+      {
+        "en": "The receiver converts the radio signal into usable data.",
+        "vi": "Bộ thu chuyển tín hiệu vô tuyến thành dữ liệu có thể sử dụng."
+      },
+      {
+        "en": "Engineers moved the receiver closer to the transmitter.",
+        "vi": "Các kỹ sư di chuyển bộ thu gần bộ phát hơn."
+      }
+    ],
+    "topics": [
+      "technology"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "slot",
+    "pos": "n",
+    "meaning_vi": "khe, vị trí hoặc khoảng thời gian được dành cho một mục đích",
+    "definition_en": "a position, opening, or reserved period for something",
+    "examples": [
+      {
+        "en": "Insert the card into the correct slot.",
+        "vi": "Hãy lắp thẻ vào đúng khe."
+      },
+      {
+        "en": "The scheduler reserves a slot for each training session.",
+        "vi": "Bộ lập lịch dành một khung giờ cho mỗi buổi đào tạo."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "thoroughly",
+    "pos": "adv",
+    "meaning_vi": "một cách kỹ lưỡng và đầy đủ",
+    "definition_en": "in a complete and careful way",
+    "examples": [
+      {
+        "en": "Review the contract thoroughly before approving payment terms.",
+        "vi": "Hãy xem xét hợp đồng kỹ lưỡng trước khi phê duyệt điều khoản thanh toán."
+      },
+      {
+        "en": "Engineers thoroughly tested the update in a staging environment.",
+        "vi": "Các kỹ sư kiểm thử kỹ lưỡng bản cập nhật trong môi trường thử nghiệm."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "vacuum",
+    "pos": "n",
+    "meaning_vi": "chân không hoặc không gian có rất ít vật chất",
+    "definition_en": "a space containing very little matter",
+    "examples": [
+      {
+        "en": "The chamber creates a vacuum for the materials experiment.",
+        "vi": "Buồng tạo chân không cho thí nghiệm vật liệu."
+      },
+      {
+        "en": "Sensors monitor pressure while the vacuum is maintained.",
+        "vi": "Các cảm biến theo dõi áp suất trong khi chân không được duy trì."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "permanently",
+    "pos": "adv",
+    "meaning_vi": "một cách vĩnh viễn và không dự kiến đảo ngược",
+    "definition_en": "in a lasting way that is not expected to change",
+    "examples": [
+      {
+        "en": "Deleted records are permanently removed after the retention period.",
+        "vi": "Các bản ghi đã xóa bị loại bỏ vĩnh viễn sau thời hạn lưu giữ."
+      },
+      {
+        "en": "The account was permanently closed after verification.",
+        "vi": "Tài khoản đã bị đóng vĩnh viễn sau khi xác minh."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "adjacent",
+    "pos": "adj",
+    "meaning_vi": "liền kề hoặc nằm ngay bên cạnh",
+    "definition_en": "next to or very near something else",
+    "examples": [
+      {
+        "en": "The laboratory occupies the room adjacent to the server area.",
+        "vi": "Phòng thí nghiệm nằm ở căn phòng liền kề khu vực máy chủ."
+      },
+      {
+        "en": "Adjacent columns show current and previous values.",
+        "vi": "Các cột liền kề hiển thị giá trị hiện tại và trước đó."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "intensity",
+    "pos": "n",
+    "meaning_vi": "cường độ hoặc mức mạnh yếu của một hiện tượng",
+    "definition_en": "the degree of strength or force of something",
+    "examples": [
+      {
+        "en": "The sensor records light intensity throughout the experiment.",
+        "vi": "Cảm biến ghi cường độ ánh sáng trong suốt thí nghiệm."
+      },
+      {
+        "en": "Workload intensity increased during the final project week.",
+        "vi": "Cường độ công việc tăng trong tuần cuối của dự án."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "plug",
+    "pos": "n",
+    "meaning_vi": "phích cắm hoặc đầu nối dùng để kết nối điện hay thiết bị",
+    "definition_en": "a connector used to join equipment to power or another device",
+    "examples": [
+      {
+        "en": "Check the plug before connecting the device to power.",
+        "vi": "Hãy kiểm tra phích cắm trước khi nối thiết bị với nguồn điện."
+      },
+      {
+        "en": "The cable plug fits only one port orientation.",
+        "vi": "Đầu cắm cáp chỉ khớp với một hướng của cổng."
+      }
+    ],
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "consciousness",
+    "pos": "n",
+    "meaning_vi": "ý thức, trạng thái nhận biết bản thân và môi trường xung quanh",
+    "definition_en": "the state of being aware of oneself and surroundings",
+    "examples": [
+      {
+        "en": "The study examines how sleep affects consciousness and attention.",
+        "vi": "Nghiên cứu xem xét giấc ngủ ảnh hưởng đến ý thức và sự chú ý như thế nào."
+      },
+      {
+        "en": "Researchers use several measures when studying consciousness.",
+        "vi": "Các nhà nghiên cứu dùng nhiều thước đo khi nghiên cứu ý thức."
+      }
+    ],
+    "topics": [
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "separation",
+    "pos": "n",
+    "meaning_vi": "sự tách rời giữa các phần, nhóm hoặc chức năng",
+    "definition_en": "the act or state of keeping things apart",
+    "examples": [
+      {
+        "en": "Clear separation of duties reduces financial control risk.",
+        "vi": "Sự phân tách nhiệm vụ rõ ràng giúp giảm rủi ro kiểm soát tài chính."
+      },
+      {
+        "en": "The experiment requires separation of the two sample groups.",
+        "vi": "Thí nghiệm yêu cầu tách riêng hai nhóm mẫu."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "valve",
+    "pos": "n",
+    "meaning_vi": "van dùng để kiểm soát dòng chất lỏng hoặc khí",
+    "definition_en": "a device that controls the flow of liquid or gas",
+    "examples": [
+      {
+        "en": "The valve controls water entering the cooling system.",
+        "vi": "Van kiểm soát nước đi vào hệ thống làm mát."
+      },
+      {
+        "en": "Technicians replaced the damaged valve during maintenance.",
+        "vi": "Kỹ thuật viên thay van bị hỏng trong quá trình bảo trì."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "engineering",
+    "pos": "n",
+    "meaning_vi": "kỹ thuật, lĩnh vực áp dụng khoa học và toán học để thiết kế giải pháp",
+    "definition_en": "the application of science and mathematics to design practical solutions",
+    "examples": [
+      {
+        "en": "Engineering teams tested the prototype before production.",
+        "vi": "Các nhóm kỹ thuật đã thử nguyên mẫu trước khi sản xuất."
+      },
+      {
+        "en": "The course connects engineering theory with practical design tasks.",
+        "vi": "Khóa học kết nối lý thuyết kỹ thuật với các nhiệm vụ thiết kế thực tế."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "journalism",
+    "pos": "n",
+    "meaning_vi": "nghề báo và hoạt động thu thập, kiểm chứng, công bố tin tức",
+    "definition_en": "the work of gathering, verifying, and publishing news",
+    "examples": [
+      {
+        "en": "Digital journalism requires careful source verification.",
+        "vi": "Báo chí số đòi hỏi việc xác minh nguồn cẩn thận."
+      },
+      {
+        "en": "The course examines how journalism uses public data.",
+        "vi": "Khóa học xem xét cách báo chí sử dụng dữ liệu công khai."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "editorial",
+    "pos": "n",
+    "meaning_vi": "bài xã luận thể hiện quan điểm của ban biên tập",
+    "definition_en": "an article expressing the opinion of an editor or publication",
+    "examples": [
+      {
+        "en": "The editorial argues for clearer public data standards.",
+        "vi": "Bài xã luận ủng hộ các tiêu chuẩn dữ liệu công khai rõ ràng hơn."
+      },
+      {
+        "en": "Students compared the editorial with the factual news report.",
+        "vi": "Sinh viên so sánh bài xã luận với bản tin thực tế."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "locally",
+    "pos": "adv",
+    "meaning_vi": "tại địa phương hoặc trên thiết bị, hệ thống gần người dùng",
+    "definition_en": "in a local area or on a nearby system",
+    "examples": [
+      {
+        "en": "The application stores temporary files locally for faster access.",
+        "vi": "Ứng dụng lưu tệp tạm thời cục bộ để truy cập nhanh hơn."
+      },
+      {
+        "en": "The company sources packaging locally when possible.",
+        "vi": "Công ty mua nguồn bao bì tại địa phương khi có thể."
+      }
+    ],
+    "topics": [
+      "technology",
+      "business"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "mild",
+    "pos": "adj",
+    "meaning_vi": "nhẹ, không nghiêm trọng hoặc không mạnh",
+    "definition_en": "not severe, intense, or extreme",
+    "examples": [
+      {
+        "en": "The experiment produced a mild temperature increase.",
+        "vi": "Thí nghiệm tạo ra mức tăng nhiệt độ nhẹ."
+      },
+      {
+        "en": "Customers reported mild delays during the maintenance window.",
+        "vi": "Khách hàng báo cáo chậm trễ nhẹ trong thời gian bảo trì."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "citizenship",
+    "pos": "n",
+    "meaning_vi": "quyền và tư cách pháp lý của một người thuộc về một quốc gia",
+    "definition_en": "legal membership and rights within a country",
+    "examples": [
+      {
+        "en": "The form asks applicants to state their citizenship.",
+        "vi": "Biểu mẫu yêu cầu người nộp đơn ghi quốc tịch của mình."
+      },
+      {
+        "en": "The course discusses citizenship rights and public responsibilities.",
+        "vi": "Khóa học thảo luận về quyền công dân và trách nhiệm công cộng."
+      }
+    ],
+    "topics": [
+      "general",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "foster",
+    "pos": "v",
+    "meaning_vi": "thúc đẩy và tạo điều kiện cho sự phát triển",
+    "definition_en": "to encourage the development of something positive",
+    "examples": [
+      {
+        "en": "Regular feedback can foster stronger teamwork.",
+        "vi": "Phản hồi thường xuyên có thể thúc đẩy tinh thần làm việc nhóm tốt hơn."
+      },
+      {
+        "en": "The program aims to foster research collaboration.",
+        "vi": "Chương trình nhằm thúc đẩy hợp tác nghiên cứu."
+      }
+    ],
+    "topics": [
+      "business",
+      "academic"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "mechanical",
+    "pos": "adj",
+    "meaning_vi": "thuộc về máy móc, cơ cấu hoặc chuyển động vật lý",
+    "definition_en": "related to machines, mechanisms, or physical movement",
+    "examples": [
+      {
+        "en": "The engineer investigated a mechanical failure in the pump.",
+        "vi": "Kỹ sư điều tra một lỗi cơ khí trong máy bơm."
+      },
+      {
+        "en": "Mechanical testing checks how materials respond to repeated force.",
+        "vi": "Thử nghiệm cơ học kiểm tra cách vật liệu phản ứng với lực lặp lại."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "satellite",
+    "pos": "n",
+    "meaning_vi": "vệ tinh tự nhiên hoặc nhân tạo quay quanh một thiên thể",
+    "definition_en": "an object that orbits a planet or other celestial body",
+    "examples": [
+      {
+        "en": "The satellite sends weather images to ground stations.",
+        "vi": "Vệ tinh gửi ảnh thời tiết đến các trạm mặt đất."
+      },
+      {
+        "en": "Satellite data helps researchers monitor large forest areas.",
+        "vi": "Dữ liệu vệ tinh giúp các nhà nghiên cứu theo dõi các khu rừng rộng lớn."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "forum",
+    "pos": "n",
+    "meaning_vi": "diễn đàn nơi mọi người trao đổi ý kiến hoặc thông tin",
+    "definition_en": "a place or platform for discussion and exchange of ideas",
+    "examples": [
+      {
+        "en": "The support forum contains solutions to common installation problems.",
+        "vi": "Diễn đàn hỗ trợ chứa giải pháp cho các vấn đề cài đặt phổ biến."
+      },
+      {
+        "en": "Students use the forum to discuss weekly readings.",
+        "vi": "Sinh viên dùng diễn đàn để thảo luận các bài đọc hằng tuần."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  },
+  {
+    "lemma": "elementary",
+    "pos": "adj",
+    "meaning_vi": "cơ bản, ở mức nhập môn hoặc đơn giản",
+    "definition_en": "basic or at an introductory level",
+    "examples": [
+      {
+        "en": "The guide explains elementary statistics for new analysts.",
+        "vi": "Hướng dẫn giải thích thống kê cơ bản cho các nhà phân tích mới."
+      },
+      {
+        "en": "Students begin with elementary programming concepts.",
+        "vi": "Sinh viên bắt đầu với các khái niệm lập trình cơ bản."
+      }
+    ],
+    "topics": [
+      "academic",
+      "general"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "behalf",
+    "pos": "n",
+    "meaning_vi": "sự đại diện hoặc lợi ích của một người hay tổ chức",
+    "definition_en": "representation of or action for another person or group",
+    "examples": [
+      {
+        "en": "She signed the agreement on behalf of the company.",
+        "vi": "Cô ấy ký thỏa thuận thay mặt công ty."
+      },
+      {
+        "en": "The manager spoke on behalf of the project team.",
+        "vi": "Người quản lý phát biểu thay mặt nhóm dự án."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "intent",
+    "pos": "n",
+    "meaning_vi": "ý định hoặc mục đích đứng sau một hành động",
+    "definition_en": "the purpose or intention behind an action",
+    "examples": [
+      {
+        "en": "The policy intent is to reduce unnecessary data collection.",
+        "vi": "Ý định của chính sách là giảm việc thu thập dữ liệu không cần thiết."
+      },
+      {
+        "en": "Researchers distinguish user intent from accidental behavior.",
+        "vi": "Các nhà nghiên cứu phân biệt ý định người dùng với hành vi vô tình."
+      }
+    ],
+    "topics": [
+      "academic",
+      "business"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "dual",
+    "pos": "adj",
+    "meaning_vi": "kép, gồm hai phần hoặc có hai chức năng",
+    "definition_en": "having two parts, purposes, or functions",
+    "examples": [
+      {
+        "en": "The device supports dual network connections for resilience.",
+        "vi": "Thiết bị hỗ trợ kết nối mạng kép để tăng khả năng phục hồi."
+      },
+      {
+        "en": "The course has a dual focus on theory and practice.",
+        "vi": "Khóa học có trọng tâm kép vào lý thuyết và thực hành."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "auction",
+    "pos": "n",
+    "meaning_vi": "cuộc đấu giá trong đó hàng hóa được bán cho người trả giá phù hợp",
+    "definition_en": "a sale where goods are offered through competitive bidding",
+    "examples": [
+      {
+        "en": "The online auction closes at noon on Friday.",
+        "vi": "Cuộc đấu giá trực tuyến kết thúc vào trưa thứ Sáu."
+      },
+      {
+        "en": "Each auction listing shows the current highest bid.",
+        "vi": "Mỗi danh sách đấu giá hiển thị mức trả giá cao nhất hiện tại."
+      }
+    ],
+    "topics": [
+      "business",
+      "general"
+    ],
+    "register": "business"
+  },
+  {
+    "lemma": "beam",
+    "pos": "n",
+    "meaning_vi": "chùm ánh sáng hoặc cấu kiện dài dùng để chịu lực",
+    "definition_en": "a narrow ray of light or a long structural support",
+    "examples": [
+      {
+        "en": "The sensor follows a laser beam across the surface.",
+        "vi": "Cảm biến theo dõi chùm la-de trên bề mặt."
+      },
+      {
+        "en": "Engineers inspected the steel beam for damage.",
+        "vi": "Các kỹ sư kiểm tra dầm thép để tìm hư hỏng."
+      }
+    ],
+    "topics": [
+      "technology",
+      "academic"
+    ],
+    "register": "technical"
+  },
+  {
+    "lemma": "vertical",
+    "pos": "adj",
+    "meaning_vi": "thẳng đứng hoặc theo hướng từ trên xuống dưới",
+    "definition_en": "upright or extending from top to bottom",
+    "examples": [
+      {
+        "en": "The chart uses a vertical axis for revenue.",
+        "vi": "Biểu đồ dùng trục dọc cho doanh thu."
+      },
+      {
+        "en": "A vertical layout works better on narrow screens.",
+        "vi": "Bố cục dọc hoạt động tốt hơn trên màn hình hẹp."
+      }
+    ],
+    "topics": [
+      "academic",
+      "technology"
+    ],
+    "register": "academic"
+  },
+  {
+    "lemma": "blank",
+    "pos": "adj",
+    "meaning_vi": "trống, chưa có nội dung hoặc dữ liệu",
+    "definition_en": "empty or containing no information",
+    "examples": [
+      {
+        "en": "Leave the field blank when no value is available.",
+        "vi": "Hãy để trường trống khi không có giá trị."
+      },
+      {
+        "en": "The application shows a blank page after the failed request.",
+        "vi": "Ứng dụng hiển thị trang trống sau yêu cầu bị lỗi."
+      }
+    ],
+    "topics": [
+      "general",
+      "technology"
+    ],
+    "register": "general"
+  }
+]

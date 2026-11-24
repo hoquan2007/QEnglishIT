@@ -1,0 +1,17 @@
+{
+  "slug": "qe-vocab-a2-004",
+  "revision": "538fd9141af289525bf4aef5a0b4dfb7c37e5590cbc3f0c41770f6ed7102383b",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Blind solved 50/50 before key inspection. Clarified production and directions context, repaired bill/manager meaning and unrelated technical distractors, refined phrase prompts and bilingual explanations. Refined during to cover both temporal senses.",
+  "admin_sample": [
+    10,
+    17,
+    31
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

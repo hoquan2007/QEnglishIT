@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-800-002",
+  "title": "Kiểm tra ngữ pháp 800 – 8",
+  "exam_type": "grammar_test",
+  "level": "800",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 4,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The firm opened a new branch ------- the holiday season.",
+          "explanation": "Sau chỗ trống là danh từ: during.",
+          "translation": "Công ty mở chi nhánh mới ------- mùa nghỉ lễ. A. trong khi (cần mệnh đề); B. bởi vì; C. mặc dù; D. trong suốt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "while"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "during"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "00f5de19a2716c2f063a21bbadf09bdd59ba3273"
+        },
+        {
+          "question_text": "Rarely ------- employees work on weekends.",
+          "explanation": "Rarely + do + employees (số nhiều).",
+          "translation": "Nhân viên hiếm khi ------- làm việc vào cuối tuần. A. đã (sai cấu trúc); B. có (trợ động từ số ít); C. có (trợ động từ số nhiều); D. phải.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did to"
+            },
+            {
+              "key": "B",
+              "text": "does"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "are to"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "013a3c575fdf7926209d834931257afa812525bb"
+        },
+        {
+          "question_text": "Little ------- the board know about the problem.",
+          "explanation": "Little + did + S + V: thực sự không biết.",
+          "translation": "Hội đồng quản trị hầu như không ------- biết về vấn đề. A. không (sai cấu trúc); B. đã (did, đảo ngữ); C. được; D. có.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does not"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "03455a86de3fe75c3310e04d0954b6ea0e51bf3a"
+        },
+        {
+          "question_text": "Not only ------- late, but he also forgot the documents.",
+          "explanation": "Not only + was he (be đảo trước S).",
+          "translation": "Anh ấy không chỉ ------- đến muộn mà còn quên tài liệu. A. anh ấy đã (không đảo); B. anh ấy đã (đảo ngữ đúng); C. anh ấy đã làm; D. anh ấy đã làm (không đảo).",
+          "options": [
+            {
+              "key": "A",
+              "text": "he was"
+            },
+            {
+              "key": "B",
+              "text": "was he"
+            },
+            {
+              "key": "C",
+              "text": "did he"
+            },
+            {
+              "key": "D",
+              "text": "he did"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "050e6fd907177e111c3afb0ec1d1f33b7ffbfa9f"
+        },
+        {
+          "question_text": "The software is easy to install. -------, it requires no technical training.",
+          "explanation": "Bổ sung ý ủng hộ: In addition.",
+          "translation": "Phần mềm dễ cài đặt. -------, nó không yêu cầu đào tạo kỹ thuật. A. Tuy nhiên; B. Ngoài ra; C. Nếu không; D. Ngược lại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "In addition"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Otherwise"
+            },
+            {
+              "key": "D",
+              "text": "In contrast"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#linking-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "05d158af79129403b4e2d7ddb12e760a252b2013"
+        },
+        {
+          "question_text": "We require that all payments ------- made in advance.",
+          "explanation": "Sau require that dùng động từ nguyên mẫu be trong câu bị động. Be made in advance nghĩa là tất cả khoản thanh toán phải được thực hiện trước.",
+          "translation": "Chúng tôi yêu cầu mọi khoản thanh toán ------- thực hiện trước. A. được (hiện tại số nhiều); B. được (giả định); C. được (hiện tại số ít); D. đã được.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/quiz",
+          "independent_review": "pending",
+          "fingerprint": "073714778a2ae1a3d9aae7b624cf2b17deea2b10"
+        },
+        {
+          "question_text": "It was yesterday ------- the permit was finally issued.",
+          "explanation": "Câu chẻ nhấn mạnh thời điểm dùng It was ... that. Dịch: Chính hôm qua giấy phép cuối cùng mới được cấp.",
+          "translation": "Chính hôm qua ------- giấy phép cuối cùng cũng được cấp. A. người mà; B. có...của; C. người mà (tân ngữ); D. mà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/quiz",
+          "independent_review": "pending",
+          "fingerprint": "091c75faa638bc1642793b7bebecab1fc907b92f"
+        },
+        {
+          "question_text": "The spokesperson confirmed ------- the venue had changed.",
+          "explanation": "That dẫn mệnh đề danh từ nêu thông tin được xác nhận. Dịch: Người phát ngôn xác nhận rằng địa điểm đã thay đổi.",
+          "translation": "Người phát ngôn xác nhận ------- địa điểm tổ chức đã thay đổi. A. rằng; B. điều gì; C. ở đâu; D. của ai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0b0887a5a271f1915a3355ea7f7bcb4f0d8ba23e"
+        },
+        {
+          "question_text": "------- the company to relocate its headquarters, many staff would need new housing.",
+          "explanation": "Were + chủ ngữ + to V tạo đảo ngữ điều kiện loại 2. Dịch: Nếu công ty chuyển trụ sở thì nhiều nhân viên sẽ cần chỗ ở mới.",
+          "translation": "------- công ty chuyển trụ sở chính, nhiều nhân viên sẽ cần nơi ở mới. A. Nếu đã; B. Nếu; C. Nếu (giả định với were); D. Đã.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "Did"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0b7bdce2bced20e17aded6b0d5fc1a146afc34f8"
+        },
+        {
+          "question_text": "The committee recommended that Mr. Han ------- the new branch.",
+          "explanation": "Recommend that + V nguyên mẫu.",
+          "translation": "Ủy ban đề nghị ông Han ------- chi nhánh mới. A. quản lý (giả định); B. quản lý (chia ngôi thứ ba); C. đã quản lý; D. đang quản lý.",
+          "options": [
+            {
+              "key": "A",
+              "text": "manages"
+            },
+            {
+              "key": "B",
+              "text": "managed"
+            },
+            {
+              "key": "C",
+              "text": "managing"
+            },
+            {
+              "key": "D",
+              "text": "manage"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0e6261859d3e5519db5fffe3007641c428f79690"
+        },
+        {
+          "question_text": "To reset your password, click the Settings icon. ------- . Then select Change Password.",
+          "explanation": "Hướng dẫn từng bước: Next, choose the Security tab.",
+          "translation": "Để đặt lại mật khẩu, hãy nhấp biểu tượng Cài đặt. ------- . Sau đó chọn Đổi mật khẩu. A. Mật khẩu nên có ít nhất tám ký tự; B. Mật khẩu xuất hiện từ những năm 1960; C. Nhóm chúng tôi nỗ lực bảo vệ dữ liệu của bạn; D. Tiếp theo, chọn thẻ Bảo mật.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Passwords should be at least eight characters."
+            },
+            {
+              "key": "B",
+              "text": "Next, choose the Security tab."
+            },
+            {
+              "key": "C",
+              "text": "Passwords were introduced in the 1960s."
+            },
+            {
+              "key": "D",
+              "text": "Our team works hard to protect your data."
+            }
+          ],
+          "correct_answer": "B",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "103b3551603ef1431adf3718fc779eb32d20d715"
+        },
+        {
+          "question_text": "Management insists that the safety rules ------- strictly followed.",
+          "explanation": "Sau insists that mang nghĩa yêu cầu, dùng thể giả định be + phân từ quá khứ. Be strictly followed nghĩa là các quy định an toàn phải được tuân thủ nghiêm ngặt.",
+          "translation": "Ban quản lý yêu cầu các quy tắc an toàn ------- tuân thủ nghiêm ngặt. A. được (hiện tại); B. được (giả định); C. đã được; D. được (hiện tại số ít).",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#subjunctive/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1351a1d4ce4fbe8292cf9fe4dc315b7a5bedbe0b"
+        },
+        {
+          "question_text": "The report was incomplete. -------, we asked the team to revise it.",
+          "explanation": "Hành động là hệ quả: Therefore.",
+          "translation": "Báo cáo chưa đầy đủ. -------, chúng tôi đã yêu cầu nhóm sửa lại. A. Vì vậy; B. Ngoài ra; C. Tuy nhiên; D. Thực tế.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Besides"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "In fact"
+            },
+            {
+              "key": "D",
+              "text": "Therefore"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#linking-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "15e4bca24d57ff8d984b8c970ab5091c0fac0079"
+        },
+        {
+          "question_text": "------- the company to merge with its rival, thousands of jobs would be affected.",
+          "explanation": "Were + S + to V: đảo ngữ loại 2.",
+          "translation": "------- công ty sáp nhập với đối thủ, hàng nghìn việc làm sẽ bị ảnh hưởng. A. Nếu đã; B. Nếu; C. Nếu (giả định với were); D. Sẽ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Were"
+            },
+            {
+              "key": "B",
+              "text": "Had"
+            },
+            {
+              "key": "C",
+              "text": "Should"
+            },
+            {
+              "key": "D",
+              "text": "Will"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "15f1a636910fc2462c94e2a7be2ef462c4b495f2"
+        },
+        {
+          "question_text": "It is essential ------- all visitors wear badges.",
+          "explanation": "Sau It is essential, dùng that để nối mệnh đề nêu yêu cầu bắt buộc. Câu có nghĩa là mọi khách ra vào cần đeo thẻ.",
+          "translation": "Điều thiết yếu là ------- mọi khách đến thăm đều đeo thẻ. A. cái gì; B. cái nào; C. liệu; D. rằng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1619ec1f16901235743134117bfd11a93d74372f"
+        },
+        {
+          "question_text": "Which sentence is correct?",
+          "explanation": "Không dùng if cùng đảo ngữ và sau Should là V nguyên mẫu.",
+          "translation": "Câu nào đúng? A. Nếu bạn không đến muộn, hãy gọi chúng tôi (cấu trúc sai); B. Nếu bạn đến muộn thì hãy gọi chúng tôi (đảo ngữ sai); C. Nếu bạn đến muộn thì hãy gọi chúng tôi (động từ sai dạng); D. Nếu bạn đến muộn, hãy gọi chúng tôi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hadn't you arrived late, call us."
+            },
+            {
+              "key": "B",
+              "text": "If should you arrive late, call us."
+            },
+            {
+              "key": "C",
+              "text": "Should you arrive late, call us."
+            },
+            {
+              "key": "D",
+              "text": "Should you arrives late, call us."
+            }
+          ],
+          "correct_answer": "C",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1708d68ba31cff5b27733d8c232982c8ce923e52"
+        },
+        {
+          "question_text": "------- I in your position, I would accept the offer.",
+          "explanation": "Were I in your position: đảo ngữ loại 2.",
+          "translation": "------- tôi ở vị trí của bạn, tôi sẽ nhận lời đề nghị. A. Nếu đã; B. Nếu (đảo ngữ với were); C. Nếu; D. Đã.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "Did"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/quiz",
+          "independent_review": "pending",
+          "fingerprint": "17879192b656f13e49ec1165dc03f6e44daa3b7a"
+        },
+        {
+          "question_text": "We need to establish ------- the parcel was delivered to the correct office.",
+          "explanation": "Whether mở mệnh đề danh từ chỉ vấn đề có hay không. Dịch: Chúng tôi cần xác minh liệu kiện hàng có được giao đúng văn phòng không.",
+          "translation": "Chúng ta cần xác định ------- bưu kiện đã được giao đến đúng văn phòng hay chưa. A. cái nào; B. liệu; C. của ai; D. ai (tân ngữ).",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "18913ab667c22b2ab0728765d5f72484241e2718"
+        },
+        {
+          "question_text": "I wonder ------- they will accept our offer.",
+          "explanation": "Whether = liệu có; hợp nghĩa.",
+          "translation": "Tôi tự hỏi ------- họ có chấp nhận lời đề nghị của chúng ta không. A. rằng; B. điều gì; C. liệu; D. bằng cách nào mà.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "whether"
+            },
+            {
+              "key": "D",
+              "text": "how that"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/quiz",
+          "independent_review": "pending",
+          "fingerprint": "18f9f532b2e0644d211ad2ac361cc5756284a389"
+        },
+        {
+          "question_text": "Only when the data were verified ------- the results.",
+          "explanation": "Only when đứng đầu câu làm mệnh đề chính đảo did + chủ ngữ + V. Dịch: Chỉ khi dữ liệu được xác minh, các nhà khoa học mới công bố kết quả.",
+          "translation": "Chỉ khi dữ liệu được xác minh ------- kết quả. A. các nhà khoa học công bố (không đảo); B. các nhà khoa học mới công bố (đảo ngữ); C. các nhà khoa học đã công bố (không đảo); D. công bố các nhà khoa học (sai).",
+          "options": [
+            {
+              "key": "A",
+              "text": "the scientists released"
+            },
+            {
+              "key": "B",
+              "text": "the scientists did release"
+            },
+            {
+              "key": "C",
+              "text": "released the scientists"
+            },
+            {
+              "key": "D",
+              "text": "did the scientists release"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1937450fbb72b6939d2f26d24fa7013d8fbe5ea2"
+        },
+        {
+          "question_text": "The conference begins at nine. ------- . Please arrive at least thirty minutes early.",
+          "explanation": "Câu sau nói về đến sớm, nên câu chèn nên đề cập đăng ký.",
+          "translation": "Hội nghị bắt đầu lúc chín giờ. ------- . Vui lòng đến sớm ít nhất ba mươi phút. A. Diễn giả chính rất nổi tiếng; B. Bàn đăng ký mở cửa lúc 8 giờ 30 sáng; C. Có khách sạn gần đó; D. Cà phê miễn phí.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The keynote speaker is famous."
+            },
+            {
+              "key": "B",
+              "text": "Hotels are nearby."
+            },
+            {
+              "key": "C",
+              "text": "Coffee is free."
+            },
+            {
+              "key": "D",
+              "text": "Registration opens at 8:30 A.M."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1a6cffd7ead22493b7a03c1765471b0782280fc9"
+        },
+        {
+          "question_text": "We reviewed all applications. -------, three candidates were chosen for interviews.",
+          "explanation": "Kết quả của việc xem xét: Consequently.",
+          "translation": "Chúng tôi đã xem xét mọi đơn ứng tuyển. -------, ba ứng viên được chọn phỏng vấn. A. Thay vào đó; B. Tuy nhiên; C. Do đó; D. Tương tự.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Consequently"
+            },
+            {
+              "key": "B",
+              "text": "Instead"
+            },
+            {
+              "key": "C",
+              "text": "However"
+            },
+            {
+              "key": "D",
+              "text": "Likewise"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#linking-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1b172fcb2448e9729ec942931fb0e1de8c174f82"
+        },
+        {
+          "question_text": "What the neighborhood needs ------- a reliable bus service.",
+          "explanation": "Mệnh đề What ... needs là chủ ngữ số ít khi nói một nhu cầu, dùng is. Dịch: Điều khu dân cư cần là dịch vụ xe buýt đáng tin cậy.",
+          "translation": "Điều khu dân cư cần ------- một dịch vụ xe buýt đáng tin cậy. A. là (số nhiều); B. đang là; C. là (số ít); D. là (nguyên mẫu).",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "being"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1b6dd779584106d0d459d9eff6110c05f252d28c"
+        },
+        {
+          "question_text": "Please keep this document ------- you finish the project.",
+          "explanation": "Until: kéo dài đến khi.",
+          "translation": "Vui lòng giữ tài liệu này ------- bạn hoàn thành dự án. A. cho đến khi; B. chậm nhất vào; C. vào lúc; D. kể từ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "by"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "since"
+            },
+            {
+              "key": "D",
+              "text": "until"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1c62a41e5ebfeee3bb7869bc306d3a0a5136eb68"
+        },
+        {
+          "question_text": "The schedule ------- on the noticeboard includes all shift changes.",
+          "explanation": "Posted rút gọn từ which is posted, mang nghĩa bị động. Dịch: Lịch được niêm yết trên bảng thông báo gồm mọi thay đổi ca làm.",
+          "translation": "Lịch ------- trên bảng thông báo bao gồm mọi thay đổi ca làm. A. đang đăng; B. đăng (nguyên mẫu); C. được đăng; D. để đăng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "posting"
+            },
+            {
+              "key": "B",
+              "text": "posted"
+            },
+            {
+              "key": "C",
+              "text": "post"
+            },
+            {
+              "key": "D",
+              "text": "to post"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#reduced-relative-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1cb27fbe843438c210ea2a8b571cc9f185e3d62c"
+        },
+        {
+          "question_text": "It was the revised timetable ------- caused the confusion.",
+          "explanation": "Câu chẻ It was ... that nhấn mạnh nguyên nhân gây nhầm lẫn. Dịch: Chính thời gian biểu điều chỉnh đã gây ra sự nhầm lẫn.",
+          "translation": "Chính thời gian biểu đã sửa đổi ------- gây ra sự nhầm lẫn. A. mà; B. ở đâu; C. có...của; D. người mà (tân ngữ).",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "where"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "whom"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1e07b6db2d20be3a53a27942ff877f700fc4fe40"
+        },
+        {
+          "question_text": "The two partners reached an agreement ------- themselves.",
+          "explanation": "Hai đối tượng: between.",
+          "translation": "Hai đối tác đã đạt thỏa thuận ------- họ với nhau. A. giữa; B. giữa nhiều người; C. dành cho; D. hướng tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "between"
+            },
+            {
+              "key": "B",
+              "text": "among"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "1f4d29a95194078bf7e8e3da04d9d7eed75d4d39"
+        },
+        {
+          "question_text": "------- the committee chooses will be announced on Friday.",
+          "explanation": "Whoever chọn làm chủ ngữ cho động từ chooses; nghĩa người nào mà.",
+          "translation": "------- được ủy ban chọn sẽ được công bố vào thứ Sáu. A. Rằng; B. Cái nào mà; C. Bất kỳ ai; D. Liệu có (sai cấu trúc).",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "Which that"
+            },
+            {
+              "key": "C",
+              "text": "Whoever"
+            },
+            {
+              "key": "D",
+              "text": "Whether is"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#noun-clauses/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1fc0d14e78b95fba02737a519611a47491cd2073"
+        },
+        {
+          "question_text": "Should you ------- to change your reservation, please notify us 24 hours in advance.",
+          "explanation": "Should + S + V nguyên mẫu.",
+          "translation": "Nếu bạn ------- thay đổi đặt chỗ, vui lòng báo trước 24 giờ. A. muốn; B. muốn (chia ngôi thứ ba); C. đã muốn; D. đang muốn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wishes"
+            },
+            {
+              "key": "B",
+              "text": "wish"
+            },
+            {
+              "key": "C",
+              "text": "wished"
+            },
+            {
+              "key": "D",
+              "text": "wishing"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2127d93e33e7ad430ea29b0a825d792933f7db60"
+        },
+        {
+          "question_text": "The research team has ------- to publish its final findings.",
+          "explanation": "Has yet to + V có nghĩa đến nay vẫn chưa làm việc gì. Dịch: Nhóm nghiên cứu đến nay vẫn chưa công bố kết quả cuối cùng.",
+          "translation": "Nhóm nghiên cứu ------- công bố những kết quả cuối cùng. A. đã; B. gần đây; C. chưa (yet trong câu phủ định/câu hỏi); D. từng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "yet"
+            },
+            {
+              "key": "B",
+              "text": "already"
+            },
+            {
+              "key": "C",
+              "text": "recently"
+            },
+            {
+              "key": "D",
+              "text": "ever"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2359a7a1bab3c24a210f21c166d71930369c706d"
+        },
+        {
+          "question_text": "The company has relocated ------- 2019.",
+          "explanation": "Since + mốc thời gian.",
+          "translation": "Công ty đã chuyển địa điểm ------- năm 2019. A. kể từ; B. trong vòng; C. trong suốt; D. từ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/exercises",
+          "independent_review": "pending",
+          "fingerprint": "237a86bace8b561095eade5b96d9144ec3c1483f"
+        },
+        {
+          "question_text": "There is ------- time left, so please hurry.",
+          "explanation": "Time không đếm được và nghĩa gần như không còn: little.",
+          "translation": "Chỉ còn ------- thời gian, nên xin hãy nhanh lên. A. ít (dùng với danh từ đếm được); B. rất ít (dùng với danh từ không đếm được); C. một vài; D. nhiều.",
+          "options": [
+            {
+              "key": "A",
+              "text": "few"
+            },
+            {
+              "key": "B",
+              "text": "a few"
+            },
+            {
+              "key": "C",
+              "text": "little"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "23a181e00b83905438cb7c03ecf536754f127139"
+        },
+        {
+          "question_text": "Had the driver ------- the warning signs, the accident might have been prevented.",
+          "explanation": "Sau Had ở câu đảo ngữ điều kiện quá khứ cần V3. Dịch: Nếu tài xế nhận ra biển cảnh báo, tai nạn có lẽ đã được ngăn chặn.",
+          "translation": "Nếu tài xế đã ------- các biển cảnh báo, tai nạn có lẽ đã được ngăn chặn. A. chú ý (nguyên mẫu); B. đang chú ý; C. chú ý (ngôi thứ ba); D. chú ý (quá khứ phân từ).",
+          "options": [
+            {
+              "key": "A",
+              "text": "notice"
+            },
+            {
+              "key": "B",
+              "text": "noticing"
+            },
+            {
+              "key": "C",
+              "text": "noticed"
+            },
+            {
+              "key": "D",
+              "text": "notices"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "23bafcce4f2f7db66925bc7d4d4d3f52113dad1e"
+        },
+        {
+          "question_text": "In no way ------- responsible for the delay.",
+          "explanation": "In no way là cụm phủ định đầu câu nên phải đảo are lên trước chủ ngữ we. Are we responsible có nghĩa là chúng tôi hoàn toàn không chịu trách nhiệm về sự chậm trễ.",
+          "translation": "Chúng tôi ------- chịu trách nhiệm về sự chậm trễ theo bất kỳ cách nào. A. chúng tôi là (không đảo); B. chúng tôi làm; C. chúng tôi đã là; D. là (đảo ngữ đúng).",
+          "options": [
+            {
+              "key": "A",
+              "text": "we are"
+            },
+            {
+              "key": "B",
+              "text": "are we"
+            },
+            {
+              "key": "C",
+              "text": "we do"
+            },
+            {
+              "key": "D",
+              "text": "we were"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2510cb1a95260fd7872bd12c5f7b8bf6fb5547c8"
+        },
+        {
+          "question_text": "------- you need further information, please do not hesitate to contact us.",
+          "explanation": "Should + S + V nguyên mẫu, mệnh đề chính là câu mệnh lệnh lịch sự.",
+          "translation": "------- bạn cần thêm thông tin, xin đừng ngần ngại liên hệ với chúng tôi. A. Nếu; B. Liệu; C. Trừ khi; D. Nếu (đảo ngữ với should).",
+          "options": [
+            {
+              "key": "A",
+              "text": "Should"
+            },
+            {
+              "key": "B",
+              "text": "If"
+            },
+            {
+              "key": "C",
+              "text": "Would"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-conditionals/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2751e17426a19210683e12e67162b5c486c4df1f"
+        },
+        {
+          "question_text": "Seldom ------- an error in the monthly reports.",
+          "explanation": "Đầu câu có seldom, động từ phải đảo trợ động từ lên trước chủ ngữ. Does he make đúng vì chủ ngữ he số ít và động từ chính giữ dạng nguyên mẫu make.",
+          "translation": "Anh ấy hiếm khi ------- lỗi trong báo cáo hằng tháng. A. mắc lỗi (không đảo); B. mắc lỗi (đảo ngữ đúng); C. thực sự mắc lỗi (không đảo); D. mắc lỗi (đảo sai).",
+          "options": [
+            {
+              "key": "A",
+              "text": "he makes"
+            },
+            {
+              "key": "B",
+              "text": "he does make"
+            },
+            {
+              "key": "C",
+              "text": "does he make"
+            },
+            {
+              "key": "D",
+              "text": "makes he"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2906a20cdb35c39940fe7d995a85f8b63e88269f"
+        },
+        {
+          "question_text": "The director ------- approved the revised schedule after reviewing the budget.",
+          "explanation": "Herself nhấn mạnh chính nữ giám đốc thực hiện hành động. Dịch: Chính nữ giám đốc đã phê duyệt lịch điều chỉnh sau khi xem ngân sách.",
+          "translation": "Chính nữ giám đốc ------- đã duyệt lịch trình sửa đổi sau khi xem xét ngân sách. A. của nó; B. anh ấy (tân ngữ); C. của cô ấy; D. bản thân bà ấy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "herself"
+            },
+            {
+              "key": "B",
+              "text": "its"
+            },
+            {
+              "key": "C",
+              "text": "him"
+            },
+            {
+              "key": "D",
+              "text": "hers"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#emphasis-cleft/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2cccf1db0a3d3d7bade6b5e233fd4b85e0ea8e4b"
+        },
+        {
+          "question_text": "The new phone has a larger screen. ------- . It also has a longer battery life.",
+          "explanation": "Câu chèn thêm đặc điểm sản phẩm; câu sau dùng also.",
+          "translation": "Điện thoại mới có màn hình lớn hơn. ------- . Nó còn có thời lượng pin dài hơn. A. Nhà máy nằm ở Việt Nam; B. Sản phẩm có ba màu; C. Đội kinh doanh của chúng tôi đang mở rộng; D. Giao hàng mất năm ngày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The factory is located in Vietnam."
+            },
+            {
+              "key": "B",
+              "text": "Our sales team is growing."
+            },
+            {
+              "key": "C",
+              "text": "Delivery takes five days."
+            },
+            {
+              "key": "D",
+              "text": "It is available in three colors."
+            }
+          ],
+          "correct_answer": "D",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#sentence-insertion/exercises",
+          "independent_review": "pending",
+          "fingerprint": "2d24df1649d3c4a09ac17152f13313197634a3a0"
+        },
+        {
+          "question_text": "The company has received ------- inquiries than it did last year.",
+          "explanation": "Fewer đi với danh từ đếm được số nhiều inquiries trong phép so sánh. Dịch: Công ty nhận ít câu hỏi hơn so với năm ngoái.",
+          "translation": "Công ty nhận được ------- lượt hỏi thông tin hơn năm ngoái. A. ít hơn (không đếm được); B. nhiều; C. ít hơn (đếm được); D. ít.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fewer"
+            },
+            {
+              "key": "B",
+              "text": "less"
+            },
+            {
+              "key": "C",
+              "text": "much"
+            },
+            {
+              "key": "D",
+              "text": "little"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#common-part5-traps/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2dcc53ccbfb718c3e080704172ff1fd88d3b1e9d"
+        },
+        {
+          "question_text": "Scarcely had the doors opened ------- customers rushed in.",
+          "explanation": "Cặp scarcely ... when diễn tả hai hành động nối tiếp rất nhanh. Cửa vừa mở thì khách hàng đã ùa vào.",
+          "translation": "Cửa vừa mở ------- khách hàng đã ùa vào. A. thì/ngay khi; B. hơn; C. trong khi; D. sau đó.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "than"
+            },
+            {
+              "key": "C",
+              "text": "while"
+            },
+            {
+              "key": "D",
+              "text": "then"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 4,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-b.json#inversion-negative-adverbs/quiz",
+          "independent_review": "pending",
+          "fingerprint": "2fd9a61c6ca4b0b668314b144feb1873647bfa00"
+        }
+      ]
+    }
+  ]
+}

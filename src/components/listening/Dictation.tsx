@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { CheckCircle2, ChevronRight, Eye, EyeOff, Headphones, Lightbulb, ListChecks, Pause, PenLine, Play, RotateCcw, TextCursorInput, Volume2, XCircle } from "lucide-react";
 import { parseTranscript, speakLines, stopSpeaking, type SpeakLine } from "@/lib/tts";
 import { cn, normalizeText } from "@/lib/utils";
@@ -35,13 +35,14 @@ async function saveItem(key: string, correct: boolean) {
 }
 
 export function Dictation({
-  transcript, transcriptVi, lines: given, keyPrefix, nextHref, defaultMode = "cloze",
+  transcript, transcriptVi, lines: given, keyPrefix, nextHref, audioUrl, defaultMode = "cloze",
 }: {
   transcript?: string;
   transcriptVi?: string | null;
   lines?: Line[];
   keyPrefix: string;
   nextHref?: string;
+  audioUrl?: string | null;
   defaultMode?: Mode;
 }) {
   const lines = useMemo(() => given ?? linesFromTranscript(transcript ?? "", transcriptVi), [given, transcript, transcriptVi]);
@@ -63,27 +64,42 @@ export function Dictation({
         </select>
       </div>
       <div className="mt-5">
-        {mode === "full" ? <FullListen lines={lines} rate={rate} /> : <SentenceDrill key={mode} lines={lines} mode={mode} rate={rate} keyPrefix={keyPrefix} nextHref={nextHref} />}
+        {mode === "full" ? <FullListen lines={lines} rate={rate} audioUrl={audioUrl} /> : <SentenceDrill key={mode} lines={lines} mode={mode} rate={rate} keyPrefix={keyPrefix} nextHref={nextHref} />}
       </div>
     </div>
   );
 }
 
-function FullListen({ lines, rate }: { lines: Line[]; rate: number }) {
+function FullListen({ lines, rate, audioUrl }: { lines: Line[]; rate: number; audioUrl?: string | null }) {
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const [failedAudio, setFailedAudio] = useState(false);
   const [cur, setCur] = useState(-1);
   const [playing, setPlaying] = useState(false);
   const [showEn, setShowEn] = useState(true);
   const [showVi, setShowVi] = useState(false);
+  useEffect(() => {
+    if (audioRef.current) audioRef.current.playbackRate = rate;
+  }, [rate]);
+
   const play = (from = 0) => {
+    audioRef.current?.pause();
     setPlaying(true);
     speakLines(lines, { rate, startAt: from, onLine: setCur, onEnd: () => { setPlaying(false); setCur(-1); } });
   };
   return (
     <div className="card p-5">
+      {audioUrl && !failedAudio && (
+        <audio
+          ref={audioRef} src={audioUrl} controls preload="none" className="mb-3 w-full"
+          aria-label="Phát audio toàn bài"
+          onPlay={() => { stopSpeaking(); setPlaying(false); setCur(-1); }}
+          onError={() => setFailedAudio(true)}
+        />
+      )}
       <div className="flex flex-wrap items-center gap-2">
-        <button className="btn btn-primary" onClick={() => (playing ? (stopSpeaking(), setPlaying(false)) : play(Math.max(cur, 0)))}>
+        {(!audioUrl || failedAudio || playing) && <button className="btn btn-primary" onClick={() => (playing ? (stopSpeaking(), setPlaying(false)) : play(Math.max(cur, 0)))}>
           {playing ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}{playing ? "Tạm dừng" : "Phát toàn bài"}
-        </button>
+        </button>}
         <button className="btn btn-ghost" onClick={() => setShowEn(!showEn)}>{showEn ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}Tiếng Anh</button>
         <button className="btn btn-ghost" onClick={() => setShowVi(!showVi)}>{showVi ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}Tiếng Việt</button>
       </div>

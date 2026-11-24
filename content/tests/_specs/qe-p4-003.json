@@ -1,0 +1,126 @@
+{
+  "slug": "qe-p4-003",
+  "content_path": "content/tests/toeic_part/qe-p4-003.json",
+  "title": "TOEIC Part 4 – Bài nói ngắn 03 (Mục tiêu 650)",
+  "exam_type": "toeic_part",
+  "level": "650",
+  "difficulty": 3,
+  "duration_minutes": 18,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part4",
+      "title": "Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 18
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Library weekend hours announcement",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Office elevator maintenance notice",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Farmers market vendor reminder",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Airline gate change announcement",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Company cybersecurity training reminder",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Theater performance delay announcement",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Hotel breakfast relocation notice",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "Factory shipping cutoff briefing",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "University career workshop announcement",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "context": "City recycling route announcement",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

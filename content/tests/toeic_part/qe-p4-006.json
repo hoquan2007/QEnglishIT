@@ -1,0 +1,1224 @@
+{
+  "slug": "qe-p4-006",
+  "title": "QEnglish TOEIC Part 4 Draft Test 006",
+  "collection": "toeic-part-4",
+  "exam_type": "toeic_part",
+  "level": "B1-B2",
+  "difficulty": 3,
+  "cefr": "B1-B2",
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "part-4",
+    "listening",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Before the first truck arrives, I need everyone to check the updated loading plan on the board. Dock 2 will remain closed until the damaged overhead light is replaced, so refrigerated deliveries have been reassigned to Dock 4. Keep the center aisle clear for the electric pallet truck, and report any loose shrink wrap immediately because it can catch in the wheels. The maintenance team expects to reopen Dock 2 after lunch. Until then, supervisors will direct incoming drivers as they enter the yard.",
+      "transcript_vi": "N: Trước khi xe tải đầu tiên đến, mọi người hãy kiểm tra kế hoạch bốc dỡ đã cập nhật trên bảng. Cửa số 2 sẽ đóng cho đến khi đèn trần bị hỏng được thay, vì vậy hàng lạnh đã chuyển sang Cửa số 4. Giữ lối giữa thông thoáng cho xe nâng điện và báo ngay nếu có màng co bị lỏng vì nó có thể mắc vào bánh xe. Đội bảo trì dự kiến mở lại Cửa số 2 sau bữa trưa. Cho đến lúc đó, giám sát viên sẽ hướng dẫn tài xế khi họ vào sân.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "Why is Dock 2 closed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A refrigeration unit is leaking."
+            },
+            {
+              "key": "B",
+              "text": "The dock floor is being painted."
+            },
+            {
+              "key": "C",
+              "text": "An overhead light is damaged."
+            },
+            {
+              "key": "D",
+              "text": "A delivery truck is being unloaded there."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: An overhead light is damaged.",
+          "translation": "Vì sao Cửa số 2 đóng?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "Where will refrigerated deliveries go?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dock 1."
+            },
+            {
+              "key": "B",
+              "text": "The center aisle."
+            },
+            {
+              "key": "C",
+              "text": "The maintenance yard."
+            },
+            {
+              "key": "D",
+              "text": "Dock 4."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: Dock 4.",
+          "translation": "Hàng lạnh sẽ được đưa đến đâu?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What will supervisors do until Dock 2 reopens?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Repair pallet-truck wheels."
+            },
+            {
+              "key": "B",
+              "text": "Replace shrink wrap on all boxes."
+            },
+            {
+              "key": "C",
+              "text": "Direct incoming drivers."
+            },
+            {
+              "key": "D",
+              "text": "Inspect the refrigeration equipment."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: Direct incoming drivers.",
+          "translation": "Giám sát viên sẽ làm gì cho đến khi Cửa số 2 mở lại?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Hi, Jordan. This is Amara from BrightPath Foods. I reviewed the campaign proposal you sent yesterday. The overall direction works for us, especially the customer-story section, but our launch date has moved forward by one week. Could you revise the production schedule and send a new timeline by Wednesday morning? We can keep the same budget if the outdoor photo shoot is replaced with the studio option you mentioned. I will be in meetings after two today, so email is the best way to reach me with any questions.",
+      "transcript_vi": "N: Chào Jordan. Tôi là Amara từ BrightPath Foods. Tôi đã xem đề xuất chiến dịch bạn gửi hôm qua. Hướng đi tổng thể phù hợp, đặc biệt phần câu chuyện khách hàng, nhưng ngày ra mắt đã được đẩy sớm một tuần. Bạn có thể điều chỉnh lịch sản xuất và gửi tiến độ mới trước sáng thứ Tư không? Chúng tôi có thể giữ nguyên ngân sách nếu buổi chụp ngoài trời được thay bằng phương án studio. Sau hai giờ hôm nay tôi sẽ họp liên tục nên email là cách tốt nhất để liên hệ.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "What is the purpose of the voicemail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To reject a campaign concept."
+            },
+            {
+              "key": "B",
+              "text": "To arrange a product delivery."
+            },
+            {
+              "key": "C",
+              "text": "To invite Jordan to a customer event."
+            },
+            {
+              "key": "D",
+              "text": "To request changes to a campaign schedule."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: To request changes to a campaign schedule.",
+          "translation": "Mục đích của thư thoại là gì?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "How can the current budget be maintained?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Remove the customer-story section."
+            },
+            {
+              "key": "B",
+              "text": "Delay the launch by another week."
+            },
+            {
+              "key": "C",
+              "text": "Use a studio photo shoot instead of an outdoor one."
+            },
+            {
+              "key": "D",
+              "text": "Hire a second production company."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: Use a studio photo shoot instead of an outdoor one.",
+          "translation": "Làm thế nào để giữ nguyên ngân sách hiện tại?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "Why does Amara recommend email after two?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She will be in meetings."
+            },
+            {
+              "key": "B",
+              "text": "She will be traveling by train."
+            },
+            {
+              "key": "C",
+              "text": "Her phone is being replaced."
+            },
+            {
+              "key": "D",
+              "text": "She will be working in the studio."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: She will be in meetings.",
+          "translation": "Vì sao Amara khuyên dùng email sau hai giờ?",
+          "difficulty": 2,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Here is the weekly sales summary for our three downtown cafes. Total revenue rose six percent, mostly because breakfast orders increased at the Market Street location after it began opening thirty minutes earlier. Lunch sales at River Plaza were unchanged, while the Station branch sold fewer sandwiches than last week. We also saw a company-wide increase in mobile orders. Next week, we will test a separate pickup shelf at Station to see whether faster collection improves lunchtime traffic there.",
+      "transcript_vi": "N: Đây là tổng kết doanh số tuần của ba quán cà phê khu trung tâm. Tổng doanh thu tăng sáu phần trăm, chủ yếu vì đơn bữa sáng tại cơ sở Market Street tăng sau khi quán mở sớm hơn ba mươi phút. Doanh số bữa trưa tại River Plaza không đổi, còn chi nhánh Station bán ít bánh sandwich hơn tuần trước. Đơn hàng qua điện thoại tăng ở toàn hệ thống. Tuần tới, chúng ta sẽ thử một kệ nhận hàng riêng tại Station để xem việc lấy hàng nhanh hơn có cải thiện lượng khách buổi trưa hay không.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "What contributed most to the revenue increase?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Higher sandwich prices at Station."
+            },
+            {
+              "key": "B",
+              "text": "A new lunch menu at River Plaza."
+            },
+            {
+              "key": "C",
+              "text": "Lower delivery fees at all locations."
+            },
+            {
+              "key": "D",
+              "text": "More breakfast orders at Market Street."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: More breakfast orders at Market Street.",
+          "translation": "Điều gì đóng góp nhiều nhất vào mức tăng doanh thu?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "What trend occurred at all three cafes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lunch sales decreased."
+            },
+            {
+              "key": "B",
+              "text": "Mobile orders increased."
+            },
+            {
+              "key": "C",
+              "text": "Opening hours became longer."
+            },
+            {
+              "key": "D",
+              "text": "Breakfast prices were reduced."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: Mobile orders increased.",
+          "translation": "Xu hướng nào xảy ra ở cả ba quán?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "What will be tested at the Station branch?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An earlier opening time."
+            },
+            {
+              "key": "B",
+              "text": "A separate pickup shelf."
+            },
+            {
+              "key": "C",
+              "text": "A new sandwich supplier."
+            },
+            {
+              "key": "D",
+              "text": "A reservation system."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: A separate pickup shelf.",
+          "translation": "Điều gì sẽ được thử nghiệm tại chi nhánh Station?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: May I have your attention, conference guests. The eleven o'clock session on regional supply chains has been moved from Room 204 to the Lakeside Hall because registrations exceeded the room's capacity. The session will still begin at eleven and will use the same speaker lineup. Attendees who requested printed handouts can collect them at a table outside Lakeside Hall. The networking workshop originally scheduled there at twelve thirty will instead meet in Room 204, so please check the updated signs before the next session block.",
+      "transcript_vi": "N: Quý khách dự hội nghị vui lòng chú ý. Phiên lúc mười một giờ về chuỗi cung ứng khu vực đã chuyển từ Phòng 204 sang Hội trường Lakeside vì số đăng ký vượt sức chứa của phòng. Phiên vẫn bắt đầu lúc mười một giờ và giữ nguyên danh sách diễn giả. Người đã yêu cầu tài liệu in có thể nhận tại bàn bên ngoài Hội trường Lakeside. Hội thảo kết nối vốn dự kiến ở đó lúc mười hai giờ ba mươi sẽ chuyển sang Phòng 204.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "Why was the supply-chain session moved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Too many people registered for Room 204."
+            },
+            {
+              "key": "B",
+              "text": "A speaker requested a larger stage."
+            },
+            {
+              "key": "C",
+              "text": "The room's projector stopped working."
+            },
+            {
+              "key": "D",
+              "text": "The session time was changed."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: Too many people registered for Room 204.",
+          "translation": "Vì sao phiên về chuỗi cung ứng được chuyển địa điểm?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "What remains unchanged for the eleven o'clock session?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its room and handout location."
+            },
+            {
+              "key": "B",
+              "text": "Its start time and speakers."
+            },
+            {
+              "key": "C",
+              "text": "Its topic and workshop format."
+            },
+            {
+              "key": "D",
+              "text": "Its registration limit and seating plan."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: Its start time and speakers.",
+          "translation": "Điều gì vẫn không đổi với phiên lúc mười một giờ?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "Where will the networking workshop take place?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lakeside Hall."
+            },
+            {
+              "key": "B",
+              "text": "The registration lobby."
+            },
+            {
+              "key": "C",
+              "text": "Room 204."
+            },
+            {
+              "key": "D",
+              "text": "The speaker lounge."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: Room 204.",
+          "translation": "Hội thảo kết nối sẽ diễn ra ở đâu?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Starting today, the handheld scanners will ask for one extra confirmation when you count high-value electronics. After scanning the shelf label and item barcode, compare the quantity on screen with the physical count. If they match, tap Confirm. If they do not, select Recount before entering a new number. Do not use the Manual Override button unless a supervisor is present, because that action bypasses the second check and creates an audit note. At the end of your aisle, return the scanner to its charging dock even if the battery indicator still looks full.",
+      "transcript_vi": "N: Từ hôm nay, máy quét cầm tay sẽ yêu cầu thêm một bước xác nhận khi kiểm kê thiết bị điện tử giá trị cao. Sau khi quét nhãn kệ và mã vạch sản phẩm, so sánh số lượng trên màn hình với số đếm thực tế. Nếu khớp, nhấn Xác nhận. Nếu không khớp, chọn Đếm lại trước khi nhập số mới. Không dùng nút Ghi đè thủ công nếu không có giám sát viên vì thao tác đó bỏ qua bước kiểm tra thứ hai và tạo ghi chú kiểm toán. Khi xong một lối hàng, hãy trả máy về đế sạc.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What should employees do when the displayed quantity is wrong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Use Manual Override immediately."
+            },
+            {
+              "key": "B",
+              "text": "Scan only the shelf label again."
+            },
+            {
+              "key": "C",
+              "text": "Place the scanner in its charging dock."
+            },
+            {
+              "key": "D",
+              "text": "Select Recount before entering a new number."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: Select Recount before entering a new number.",
+          "translation": "Nhân viên nên làm gì khi số lượng hiển thị không đúng?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "Why should Manual Override usually be avoided?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It permanently deletes the inventory record."
+            },
+            {
+              "key": "B",
+              "text": "It bypasses a second check and creates an audit note."
+            },
+            {
+              "key": "C",
+              "text": "It prevents the scanner from charging."
+            },
+            {
+              "key": "D",
+              "text": "It sends the count directly to a supplier."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: It bypasses a second check and creates an audit note.",
+          "translation": "Vì sao thường nên tránh Ghi đè thủ công?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What are employees instructed to do after finishing an aisle?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Give the scanner to a supervisor."
+            },
+            {
+              "key": "B",
+              "text": "Turn off the store's wireless network."
+            },
+            {
+              "key": "C",
+              "text": "Return the scanner to its charging dock."
+            },
+            {
+              "key": "D",
+              "text": "Print a paper copy of the inventory."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: Return the scanner to its charging dock.",
+          "translation": "Nhân viên được yêu cầu làm gì sau khi xong một lối hàng?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Welcome to the Westbrook Botanical Garden. Our greenhouse tour begins in fifteen minutes at the stone fountain. Because today's temperature is unusually high, the guide has shortened the outdoor portion and added more time inside the climate-controlled orchid house. Visitors with the two o'clock reservation may join the one-thirty tour instead if space is available. The cafe is offering free water refills, and shaded seating has been added beside the rose garden. Please keep your admission wristband visible when moving between areas.",
+      "transcript_vi": "N: Chào mừng đến Vườn Thực vật Westbrook. Chuyến tham quan nhà kính bắt đầu sau mười lăm phút tại đài phun nước bằng đá. Vì hôm nay nhiệt độ cao bất thường, hướng dẫn viên đã rút ngắn phần ngoài trời và tăng thời gian trong nhà lan có điều hòa. Khách có lịch hai giờ có thể tham gia chuyến một giờ ba mươi nếu còn chỗ. Quán cà phê có dịch vụ châm nước miễn phí và đã bổ sung chỗ ngồi có bóng râm. Vui lòng để vòng tay vào cửa ở vị trí dễ thấy.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "Why was the tour route adjusted?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The weather is unusually hot."
+            },
+            {
+              "key": "B",
+              "text": "The orchid house is closed."
+            },
+            {
+              "key": "C",
+              "text": "The fountain is being repaired."
+            },
+            {
+              "key": "D",
+              "text": "The rose garden has a private event."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: The weather is unusually hot.",
+          "translation": "Vì sao lộ trình tham quan được điều chỉnh?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "What option is given to visitors with two o'clock reservations?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Receive a refund at the cafe."
+            },
+            {
+              "key": "B",
+              "text": "Take a self-guided tour immediately."
+            },
+            {
+              "key": "C",
+              "text": "Move their reservation to tomorrow only."
+            },
+            {
+              "key": "D",
+              "text": "Join the one-thirty tour if there is space."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: Join the one-thirty tour if there is space.",
+          "translation": "Khách có lịch hai giờ được cung cấp lựa chọn nào?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What does the speaker ask visitors to keep visible?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their water bottles."
+            },
+            {
+              "key": "B",
+              "text": "Their admission wristbands."
+            },
+            {
+              "key": "C",
+              "text": "Their printed maps."
+            },
+            {
+              "key": "D",
+              "text": "Their reservation receipts."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: Their admission wristbands.",
+          "translation": "Người nói yêu cầu khách giữ gì ở vị trí dễ thấy?",
+          "difficulty": 3,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: The renovation of the Eastbrook branch remains on schedule overall. Demolition finished two days early, which gave the electrical crew additional time to install new wiring. However, the custom glass for the front entrance will arrive four days later than planned because the supplier had a production delay. To avoid affecting the reopening date, the team will complete interior painting and shelving before installing the glass. The final safety inspection is still booked for the twenty-eighth, and we have not changed the public reopening announcement.",
+      "transcript_vi": "N: Việc cải tạo chi nhánh Eastbrook nhìn chung vẫn đúng tiến độ. Công việc tháo dỡ hoàn thành sớm hai ngày, giúp đội điện có thêm thời gian lắp dây mới. Tuy nhiên, kính đặt riêng cho lối vào phía trước sẽ đến muộn bốn ngày do nhà cung cấp chậm sản xuất. Để không ảnh hưởng ngày mở cửa lại, đội sẽ hoàn thành sơn nội thất và lắp kệ trước khi lắp kính. Kiểm tra an toàn cuối cùng vẫn được đặt vào ngày hai mươi tám và thông báo mở cửa lại chưa thay đổi.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "What work was completed ahead of schedule?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Demolition."
+            },
+            {
+              "key": "B",
+              "text": "Electrical wiring."
+            },
+            {
+              "key": "C",
+              "text": "Interior painting."
+            },
+            {
+              "key": "D",
+              "text": "Glass installation."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: Demolition.",
+          "translation": "Công việc nào hoàn thành sớm hơn kế hoạch?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "Why will the entrance glass arrive late?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The supplier had a production delay."
+            },
+            {
+              "key": "B",
+              "text": "Measurements had to be taken again."
+            },
+            {
+              "key": "C",
+              "text": "The building failed an inspection."
+            },
+            {
+              "key": "D",
+              "text": "The project manager changed the design."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: The supplier had a production delay.",
+          "translation": "Vì sao kính lối vào sẽ đến muộn?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "What does the speaker imply about the reopening date?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will be announced after the inspection."
+            },
+            {
+              "key": "B",
+              "text": "It is expected to remain the same."
+            },
+            {
+              "key": "C",
+              "text": "It has been moved four days later."
+            },
+            {
+              "key": "D",
+              "text": "It depends on demolition being repeated."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: It is expected to remain the same.",
+          "translation": "Người nói ngụ ý gì về ngày mở cửa lại?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: This afternoon's evacuation drill will begin shortly after three. When the alarm sounds, employees on floors five through eight should use the north stairwell, while floors two through four should use the south stairwell. The main lobby doors will remain locked during the drill so the security team can test the side exits. Once outside, report to your department's sign holder in the west parking area. Do not return to the building when the alarm stops. Wait until the safety coordinator gives the all-clear over the portable speaker.",
+      "transcript_vi": "N: Buổi diễn tập sơ tán chiều nay sẽ bắt đầu ngay sau ba giờ. Khi chuông báo vang lên, nhân viên tầng năm đến tám dùng cầu thang phía bắc, còn tầng hai đến bốn dùng cầu thang phía nam. Cửa sảnh chính sẽ khóa trong lúc diễn tập để đội an ninh kiểm tra các lối thoát bên hông. Khi ra ngoài, hãy đến người cầm biển của phòng ban mình tại bãi xe phía tây. Không quay lại khi chuông ngừng mà hãy chờ điều phối viên an toàn thông báo.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "Why will the main lobby doors stay locked?",
+          "options": [
+            {
+              "key": "A",
+              "text": "So visitors cannot enter before three."
+            },
+            {
+              "key": "B",
+              "text": "Because the lobby is under construction."
+            },
+            {
+              "key": "C",
+              "text": "So the security team can test side exits."
+            },
+            {
+              "key": "D",
+              "text": "Because employees must use an elevator."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: So the security team can test side exits.",
+          "translation": "Vì sao cửa sảnh chính sẽ tiếp tục khóa?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "Where should employees report after leaving the building?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The west parking area."
+            },
+            {
+              "key": "B",
+              "text": "The main lobby."
+            },
+            {
+              "key": "C",
+              "text": "The north loading dock."
+            },
+            {
+              "key": "D",
+              "text": "The cafeteria entrance."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: The west parking area.",
+          "translation": "Nhân viên nên tập trung ở đâu sau khi rời tòa nhà?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "When may employees return inside?",
+          "options": [
+            {
+              "key": "A",
+              "text": "As soon as the alarm becomes silent."
+            },
+            {
+              "key": "B",
+              "text": "When their department sign is removed."
+            },
+            {
+              "key": "C",
+              "text": "At exactly three thirty."
+            },
+            {
+              "key": "D",
+              "text": "After the safety coordinator gives the all-clear."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: After the safety coordinator gives the all-clear.",
+          "translation": "Khi nào nhân viên có thể quay vào trong?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Hello, Ms. Nguyen. This is Carlos from Redwood Analytics. We are looking forward to speaking with you about the data coordinator position on Friday. One member of the interview panel will be joining remotely from another time zone, so we would like to move the interview from eleven to eleven forty-five. The office location is unchanged, and your visitor parking code will still work. Please reply to the calendar invitation by tomorrow afternoon. If the new time creates a conflict, add a note to your reply and I will call you to discuss alternatives.",
+      "transcript_vi": "N: Xin chào cô Nguyen. Tôi là Carlos từ Redwood Analytics. Chúng tôi mong được trao đổi với cô về vị trí điều phối dữ liệu vào thứ Sáu. Một thành viên hội đồng phỏng vấn sẽ tham gia từ xa ở múi giờ khác nên giờ phỏng vấn sẽ chuyển từ mười một giờ sang mười một giờ bốn mươi lăm. Địa điểm văn phòng không đổi và mã đỗ xe dành cho khách vẫn dùng được. Vui lòng phản hồi lời mời lịch trước chiều mai. Nếu giờ mới gây xung đột, hãy thêm ghi chú trong phản hồi.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "Why is the interview time being changed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The office is closing early."
+            },
+            {
+              "key": "B",
+              "text": "A panel member is joining from another time zone."
+            },
+            {
+              "key": "C",
+              "text": "The parking area is unavailable."
+            },
+            {
+              "key": "D",
+              "text": "The position description was revised."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: A panel member is joining from another time zone.",
+          "translation": "Vì sao giờ phỏng vấn được thay đổi?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "What does the speaker say remains valid?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The visitor parking code."
+            },
+            {
+              "key": "B",
+              "text": "The original interview time."
+            },
+            {
+              "key": "C",
+              "text": "A previous job offer."
+            },
+            {
+              "key": "D",
+              "text": "A building access badge."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: The visitor parking code.",
+          "translation": "Người nói cho biết điều gì vẫn còn hiệu lực?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "What should Ms. Nguyen do if the new time is a problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call the remote interviewer directly."
+            },
+            {
+              "key": "B",
+              "text": "Arrive at eleven without replying."
+            },
+            {
+              "key": "C",
+              "text": "Add a note when replying to the invitation."
+            },
+            {
+              "key": "D",
+              "text": "Request a different parking code."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đáp án C phù hợp với thông tin trong bài nói. Chi tiết đúng là: Add a note when replying to the invitation.",
+          "translation": "Cô Nguyen nên làm gì nếu giờ mới không phù hợp?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Listen to the following talk and answer the three questions.",
+      "transcript": "N: Before we finish today's onboarding session, there is one security rule I want to emphasize. When you receive a request to change a vendor's bank details, do not update the record from the email alone, even if the message appears to come from a familiar contact. First, call the vendor using the phone number already stored in our accounting system. If the request is legitimate, document the verification in the payment record before making the change. Requests received after three o'clock should be verified the next business morning rather than rushed through at the end of the day.",
+      "transcript_vi": "N: Trước khi kết thúc buổi hướng dẫn hôm nay, tôi muốn nhấn mạnh một quy tắc bảo mật. Khi nhận yêu cầu thay đổi thông tin ngân hàng của nhà cung cấp, không cập nhật hồ sơ chỉ dựa vào email, kể cả khi thư có vẻ đến từ người quen. Trước tiên, hãy gọi cho nhà cung cấp bằng số điện thoại đã lưu trong hệ thống kế toán. Nếu yêu cầu hợp lệ, ghi lại việc xác minh trước khi thay đổi. Yêu cầu nhận sau ba giờ nên được xác minh vào sáng ngày làm việc tiếp theo.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "What is the main purpose of the instruction?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To introduce a new accounting vendor."
+            },
+            {
+              "key": "B",
+              "text": "To explain how to verify bank-detail changes."
+            },
+            {
+              "key": "C",
+              "text": "To announce a change in business hours."
+            },
+            {
+              "key": "D",
+              "text": "To teach employees how to file expenses."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đáp án B phù hợp với thông tin trong bài nói. Chi tiết đúng là: To explain how to verify bank-detail changes.",
+          "translation": "Mục đích chính của hướng dẫn là gì?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "Which phone number should employees use for verification?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The number already stored in the accounting system."
+            },
+            {
+              "key": "B",
+              "text": "The number included in the request email."
+            },
+            {
+              "key": "C",
+              "text": "A number found on the vendor's website."
+            },
+            {
+              "key": "D",
+              "text": "The personal number of the sender."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Đáp án A phù hợp với thông tin trong bài nói. Chi tiết đúng là: The number already stored in the accounting system.",
+          "translation": "Nhân viên nên dùng số điện thoại nào để xác minh?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "What should happen to requests received after three o'clock?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They should be approved automatically."
+            },
+            {
+              "key": "B",
+              "text": "They should be forwarded to all managers."
+            },
+            {
+              "key": "C",
+              "text": "They should be deleted from the system."
+            },
+            {
+              "key": "D",
+              "text": "They should be verified the next business morning."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Đáp án D phù hợp với thông tin trong bài nói. Chi tiết đúng là: They should be verified the next business morning.",
+          "translation": "Điều gì nên xảy ra với yêu cầu nhận sau ba giờ?",
+          "difficulty": 4,
+          "tags": [
+            "toeic-part4"
+          ],
+          "skill_tags": [
+            "listening-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-003",
+  "revision": "e6b9a95806fa2befbbdcfffa6c7eb16ce51ce82c5d7c59e2b12a33dca6a04a2e",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Independent blind solution. Cloze 21–25 describes the roof-garden project: lack of land caused the idea, the roof had to support weight, teams took turns, cafeteria donation was for use at lunch, and the project offered a practical example. Cloze 26–30 describes choosing an alternate walking route, testing because rush hour was crowded, adding signs so that people could navigate, requesting feedback, and making a useful change. Reading 31–40: Cedar Quay market trialed quieter shopping from 8–9 a.m. on Saturdays; the text explicitly reports music removal, worries about sales, longer visits, inconclusive sales figures, noisy delivery cart, solicited feedback, and cautious decision-making. Reading 41–50: ecology club trialed lamp shields aimed down, standardized photos and weather logs, dealt with rain and pedestrian safety, observed more moth visits on dry nights but warned that flower timing confounded causal inference; it recommended repeating across seasons. No option-level ambiguity identified from the blind pack.",
+  "admin_sample": [
+    9,
+    24,
+    31
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

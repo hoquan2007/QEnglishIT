@@ -1,0 +1,1905 @@
+{
+  "slug": "qe-thpt-003",
+  "title": "Đề luyện thi tiếng Anh THPT 03 – Cộng đồng, Môi trường và Khám phá",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "A2-B2",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "status": "draft",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "grammar",
+    "vocabulary",
+    "cloze",
+    "reading"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best word or phrase to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The town library ------- at nine o'clock on weekdays.",
+          "options": [
+            {
+              "key": "A",
+              "text": "open"
+            },
+            {
+              "key": "B",
+              "text": "opens"
+            },
+            {
+              "key": "C",
+              "text": "opening"
+            },
+            {
+              "key": "D",
+              "text": "opened"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Chủ ngữ số ít 'the town library' đi với động từ hiện tại đơn thêm -s để diễn tả giờ mở cửa thường lệ.",
+          "translation": "Thư viện thị trấn mở cửa lúc chín giờ vào các ngày trong tuần.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "present-simple"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "We have not seen our cousins ------- last summer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "during"
+            },
+            {
+              "key": "C",
+              "text": "from"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Since' đi với mốc thời gian 'last summer' trong thì hiện tại hoàn thành.",
+          "translation": "Chúng tôi đã không gặp anh chị em họ kể từ mùa hè năm ngoái.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "present-perfect-since"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "If it rains tomorrow, our class ------- the outdoor lesson indoors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will hold"
+            },
+            {
+              "key": "B",
+              "text": "held"
+            },
+            {
+              "key": "C",
+              "text": "has held"
+            },
+            {
+              "key": "D",
+              "text": "would hold"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Điều kiện loại một dùng 'if + hiện tại đơn' và mệnh đề chính 'will + động từ nguyên mẫu'.",
+          "translation": "Nếu ngày mai trời mưa, lớp chúng tôi sẽ tổ chức buổi học ngoài trời ở trong nhà.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "first-conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "This guide is ------- than the old one because it includes clear maps.",
+          "options": [
+            {
+              "key": "A",
+              "text": "useful"
+            },
+            {
+              "key": "B",
+              "text": "most useful"
+            },
+            {
+              "key": "C",
+              "text": "more useful"
+            },
+            {
+              "key": "D",
+              "text": "usefully"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Than' yêu cầu so sánh hơn: 'more useful'.",
+          "translation": "Cẩm nang này hữu ích hơn cuốn cũ vì có các bản đồ rõ ràng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "comparatives"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Huy was cooking dinner when the lights suddenly ------- out.",
+          "options": [
+            {
+              "key": "A",
+              "text": "went"
+            },
+            {
+              "key": "B",
+              "text": "go"
+            },
+            {
+              "key": "C",
+              "text": "were going"
+            },
+            {
+              "key": "D",
+              "text": "have gone"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hành động mất điện ngắn xen vào hành động đang diễn ra trong quá khứ dùng quá khứ đơn 'went out'.",
+          "translation": "Huy đang nấu bữa tối thì đèn đột nhiên tắt.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "past-simple-continuous"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Students are encouraged ------- questions during the museum tour.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ask"
+            },
+            {
+              "key": "B",
+              "text": "asking"
+            },
+            {
+              "key": "C",
+              "text": "to ask"
+            },
+            {
+              "key": "D",
+              "text": "asked"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Cấu trúc bị động 'be encouraged to + V' diễn tả được khuyến khích làm việc gì.",
+          "translation": "Học sinh được khuyến khích đặt câu hỏi trong chuyến tham quan bảo tàng.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "infinitives"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The posters ------- by volunteers before the festival opened.",
+          "options": [
+            {
+              "key": "A",
+              "text": "designed"
+            },
+            {
+              "key": "B",
+              "text": "was designed"
+            },
+            {
+              "key": "C",
+              "text": "are designing"
+            },
+            {
+              "key": "D",
+              "text": "were designed"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Posters' là số nhiều và chịu tác động, mốc thời gian quá khứ nên cần 'were designed'.",
+          "translation": "Các áp phích đã được tình nguyện viên thiết kế trước khi lễ hội khai mạc.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "past-passive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "There is not ------- sugar left, so we should buy some.",
+          "options": [
+            {
+              "key": "A",
+              "text": "many"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "a few"
+            },
+            {
+              "key": "D",
+              "text": "several"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Sugar' là danh từ không đếm được, câu phủ định dùng 'much'.",
+          "translation": "Không còn nhiều đường nên chúng ta cần mua thêm.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "quantifiers"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The woman ------- bicycle was stolen reported the theft immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whom"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Whose' đứng trước danh từ 'bicycle' để biểu đạt sở hữu.",
+          "translation": "Người phụ nữ có xe đạp bị trộm đã báo vụ việc ngay lập tức.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "relative-pronouns"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "He insisted ------- paying for the concert tickets himself.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cụm đúng là 'insist on + V-ing', nghĩa là nhất quyết làm việc gì.",
+          "translation": "Anh ấy nhất quyết tự trả tiền vé buổi hòa nhạc.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "verb-preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Not until the rain stopped ------- the hikers enter the narrow canyon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "had"
+            },
+            {
+              "key": "D",
+              "text": "did"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Not until' đứng đầu câu buộc mệnh đề chính đảo trợ động từ: 'did the hikers enter'.",
+          "translation": "Mãi đến khi mưa tạnh, những người đi bộ đường dài mới vào được hẻm núi hẹp.",
+          "difficulty": 4,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Visitors must switch ------- their phones before entering the recording studio.",
+          "options": [
+            {
+              "key": "A",
+              "text": "up"
+            },
+            {
+              "key": "B",
+              "text": "off"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "over"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Switch off' có nghĩa là tắt thiết bị trước khi vào phòng thu.",
+          "translation": "Khách tham quan phải tắt điện thoại trước khi vào phòng thu.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "phrasal-verbs"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the best vocabulary item or response in each context.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The coach spoke slowly so every player could ------- the new rules.",
+          "options": [
+            {
+              "key": "A",
+              "text": "understand"
+            },
+            {
+              "key": "B",
+              "text": "understanding"
+            },
+            {
+              "key": "C",
+              "text": "understood"
+            },
+            {
+              "key": "D",
+              "text": "understands"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau 'could' dùng động từ nguyên mẫu 'understand'.",
+          "translation": "Huấn luyện viên nói chậm để mọi cầu thủ đều có thể hiểu các quy tắc mới.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "modal-verbs"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The school asked parents to ------- books they no longer needed to the reading corner.",
+          "options": [
+            {
+              "key": "A",
+              "text": "borrow"
+            },
+            {
+              "key": "B",
+              "text": "invent"
+            },
+            {
+              "key": "C",
+              "text": "donate"
+            },
+            {
+              "key": "D",
+              "text": "protect"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Donate books' là quyên góp sách, đúng với việc cha mẹ đưa sách không dùng nữa cho góc đọc.",
+          "translation": "Nhà trường đề nghị phụ huynh quyên góp sách không còn cần đến cho góc đọc.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary-donate"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The weather forecast predicts a ------- drop in temperature after sunset.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reliable"
+            },
+            {
+              "key": "B",
+              "text": "crowded"
+            },
+            {
+              "key": "C",
+              "text": "grateful"
+            },
+            {
+              "key": "D",
+              "text": "sharp"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'A sharp drop' chỉ sự giảm mạnh, thường dùng với nhiệt độ hoặc giá cả.",
+          "translation": "Dự báo thời tiết cho biết nhiệt độ sẽ giảm mạnh sau hoàng hôn.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "collocation-sharp-drop"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Can I borrow your charger for ten minutes? — ------- I will not need it until lunch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I have never owned one."
+            },
+            {
+              "key": "B",
+              "text": "Of course, here you are."
+            },
+            {
+              "key": "C",
+              "text": "It stopped working last month."
+            },
+            {
+              "key": "D",
+              "text": "I need to find a shop."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Người đáp nói chưa cần bộ sạc đến giờ ăn trưa nên lời đồng ý 'Of course, here you are' phù hợp nhất.",
+          "translation": "Tôi mượn bộ sạc của bạn mười phút được không? — Tất nhiên, của bạn đây. Tôi chưa cần dùng đến trưa.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "functional-language"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Farmers were advised to ------- water during the long dry season.",
+          "options": [
+            {
+              "key": "A",
+              "text": "waste"
+            },
+            {
+              "key": "B",
+              "text": "delay"
+            },
+            {
+              "key": "C",
+              "text": "conserve"
+            },
+            {
+              "key": "D",
+              "text": "remove"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Conserve water' nghĩa là tiết kiệm và bảo tồn nguồn nước khi khô hạn.",
+          "translation": "Nông dân được khuyên tiết kiệm nước trong mùa khô kéo dài.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "vocabulary-environment"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The rescue plan was ------- because it allowed everyone to leave safely.",
+          "options": [
+            {
+              "key": "A",
+              "text": "effective"
+            },
+            {
+              "key": "B",
+              "text": "curious"
+            },
+            {
+              "key": "C",
+              "text": "ancient"
+            },
+            {
+              "key": "D",
+              "text": "ordinary"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Kế hoạch giúp mọi người rời đi an toàn nên được xem là 'effective' (hiệu quả).",
+          "translation": "Kế hoạch cứu hộ có hiệu quả vì đã giúp tất cả mọi người rời đi an toàn.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "adjectives-in-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Please ------- your name and contact number in the spaces provided.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interrupt"
+            },
+            {
+              "key": "B",
+              "text": "enter"
+            },
+            {
+              "key": "C",
+              "text": "replace"
+            },
+            {
+              "key": "D",
+              "text": "withdraw"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Enter' dùng khi điền thông tin vào các ô trống của biểu mẫu.",
+          "translation": "Vui lòng điền tên và số liên lạc vào các ô có sẵn.",
+          "difficulty": 2,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "form-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "The audience gave the young pianist a warm ------- after her first performance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "evidence"
+            },
+            {
+              "key": "B",
+              "text": "appointment"
+            },
+            {
+              "key": "C",
+              "text": "direction"
+            },
+            {
+              "key": "D",
+              "text": "reception"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'Give someone a warm reception' diễn tả sự đón nhận nồng nhiệt từ khán giả.",
+          "translation": "Khán giả đã dành cho nghệ sĩ dương cầm trẻ sự đón nhận nồng nhiệt sau buổi diễn đầu.",
+          "difficulty": 3,
+          "tags": [
+            "language-use"
+          ],
+          "skill_tags": [
+            "collocation-reception"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the text about a school rooftop garden and choose the best answer for each numbered blank.",
+      "source": "original",
+      "passage": "Last spring, students at Larchwood School decided to grow vegetables on a flat roof. Their science teacher suggested the idea (21) ------- the playground had almost no spare land.\n\nBefore carrying boxes upstairs, they asked an engineer to check whether the roof could (22) ------- the extra weight. The group then installed light containers and collected rainwater in a covered tank.\n\nEach week, two teams (23) ------- turns watering the plants. When the first spinach was ready, the students donated it to the cafeteria (24) ------- it could be added to lunch.\n\nBy autumn, the project had become a (25) ------- example of how small spaces can support food education.",
+      "passage_vi": "Mùa xuân năm ngoái, học sinh Trường Larchwood quyết định trồng rau trên mái nhà bằng phẳng. Giáo viên khoa học đề xuất ý tưởng vì sân chơi gần như không còn đất trống.\n\nTrước khi mang thùng lên, các em nhờ kỹ sư kiểm tra mái nhà có chịu được trọng lượng tăng thêm không. Nhóm dùng chậu nhẹ và thu nước mưa vào bồn có nắp.\n\nMỗi tuần, hai nhóm thay phiên tưới cây. Khi lứa rau chân vịt đầu tiên sẵn sàng, các em tặng cho nhà ăn để thêm vào bữa trưa.\n\nĐến mùa thu, dự án trở thành một ví dụ thiết thực về cách không gian nhỏ hỗ trợ giáo dục thực phẩm.",
+      "questions": [
+        {
+          "number": 21,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (21).",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "whereas"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sân trường thiếu đất trống là nguyên nhân đưa ra ý tưởng trồng rau trên mái, vì vậy dùng 'because'.",
+          "translation": "Chọn từ cho chỗ trống (21): bởi vì sân chơi gần như không còn đất trống.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (22).",
+          "options": [
+            {
+              "key": "A",
+              "text": "support"
+            },
+            {
+              "key": "B",
+              "text": "shorten"
+            },
+            {
+              "key": "C",
+              "text": "prevent"
+            },
+            {
+              "key": "D",
+              "text": "discover"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Support the extra weight' nghĩa là chịu được tải trọng bổ sung, đúng với việc kỹ sư kiểm tra mái nhà.",
+          "translation": "Chọn từ cho chỗ trống (22): chịu được trọng lượng tăng thêm.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (23).",
+          "options": [
+            {
+              "key": "A",
+              "text": "made"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "got"
+            },
+            {
+              "key": "D",
+              "text": "took"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Cụm cố định là 'take turns doing something' (thay phiên làm việc gì), quá khứ là 'took'.",
+          "translation": "Chọn từ cho chỗ trống (23): hai nhóm thay phiên tưới cây.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best phrase for blank (24).",
+          "options": [
+            {
+              "key": "A",
+              "text": "even though"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "as if"
+            },
+            {
+              "key": "D",
+              "text": "rather than"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'So that' diễn tả mục đích tặng rau cho nhà ăn, để rau được đưa vào bữa trưa.",
+          "translation": "Chọn cụm cho chỗ trống (24): để rau được thêm vào bữa trưa.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (25).",
+          "options": [
+            {
+              "key": "A",
+              "text": "practical"
+            },
+            {
+              "key": "B",
+              "text": "distant"
+            },
+            {
+              "key": "C",
+              "text": "accidental"
+            },
+            {
+              "key": "D",
+              "text": "temporary"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Một dự án có thể áp dụng thực tế là 'a practical example'; các tính từ còn lại không diễn tả giá trị giáo dục ấy.",
+          "translation": "Chọn từ cho chỗ trống (25): một ví dụ thiết thực về việc tận dụng không gian nhỏ.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-adjectives"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Read the text about a safer walking route and select the best word or phrase for each blank.",
+      "source": "original",
+      "passage": "Residents of Claymere wanted a safer walking route to the train station. At first, the shortest path seemed best, but it passed a busy road without a pedestrian crossing.\n\nThe planning team therefore (26) ------- a different route through a public garden. They tested it at different times (27) ------- the morning rush was particularly crowded.\n\nThey also installed signs (28) ------- visitors could find their way. After the first month, volunteers asked walkers to (29) ------- feedback rather than simply counting journeys.\n\nThe responses led to one (30) ------- change: moving a sign that had been hidden behind a tree.",
+      "passage_vi": "Người dân Claymere muốn có lối đi bộ an toàn hơn đến ga tàu. Ban đầu, đường ngắn nhất có vẻ tốt nhất nhưng đi qua con đường đông xe và không có vạch qua đường.\n\nVì thế nhóm quy hoạch chọn đường khác qua vườn công cộng. Họ thử lộ trình vào nhiều thời điểm vì giờ cao điểm buổi sáng đặc biệt đông đúc.\n\nHọ còn lắp biển chỉ dẫn để khách có thể tìm đường. Sau tháng đầu, tình nguyện viên xin người đi bộ nhận xét thay vì chỉ đếm số chuyến đi.\n\nPhản hồi dẫn đến một điều chỉnh hữu ích: dời biển báo bị cây che khuất.",
+      "questions": [
+        {
+          "number": 26,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (26).",
+          "options": [
+            {
+              "key": "A",
+              "text": "borrowed"
+            },
+            {
+              "key": "B",
+              "text": "forgot"
+            },
+            {
+              "key": "C",
+              "text": "chose"
+            },
+            {
+              "key": "D",
+              "text": "repaired"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Nhóm quy hoạch phải 'chose a different route' (chọn lộ trình khác) để tránh đường đông xe.",
+          "translation": "Chọn từ cho chỗ trống (26): nhóm đã chọn một lộ trình khác qua vườn công cộng.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-verb-choice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (27).",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "until"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Lý do thử lộ trình ở các thời điểm khác nhau là giờ cao điểm buổi sáng đông, nên dùng 'because'.",
+          "translation": "Chọn từ cho chỗ trống (27): bởi vì giờ cao điểm buổi sáng rất đông.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best phrase for blank (28).",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "in case of"
+            },
+            {
+              "key": "C",
+              "text": "regardless of"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "'So that + mệnh đề' diễn tả mục đích lắp biển báo giúp người đi bộ tìm đường.",
+          "translation": "Chọn cụm cho chỗ trống (28): để người đi bộ có thể tìm được đường.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (29).",
+          "options": [
+            {
+              "key": "A",
+              "text": "provide"
+            },
+            {
+              "key": "B",
+              "text": "predict"
+            },
+            {
+              "key": "C",
+              "text": "delay"
+            },
+            {
+              "key": "D",
+              "text": "prevent"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "'Provide feedback' nghĩa là đưa phản hồi, phù hợp với việc xin ý kiến người sử dụng lộ trình.",
+          "translation": "Chọn từ cho chỗ trống (29): đóng góp ý kiến về lối đi.",
+          "difficulty": 3,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Choose the best word for blank (30).",
+          "options": [
+            {
+              "key": "A",
+              "text": "expensive"
+            },
+            {
+              "key": "B",
+              "text": "crowded"
+            },
+            {
+              "key": "C",
+              "text": "distant"
+            },
+            {
+              "key": "D",
+              "text": "useful"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Dời biển báo khỏi vị trí bị che giúp biển dễ nhìn hơn, nên thay đổi này là 'useful'.",
+          "translation": "Chọn từ cho chỗ trống (30): một thay đổi hữu ích.",
+          "difficulty": 2,
+          "tags": [
+            "cloze"
+          ],
+          "skill_tags": [
+            "cloze-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the passage about a market's quiet-hour trial and answer the questions.",
+      "source": "original",
+      "passage": "At Cedar Quay market, Saturday mornings used to be filled with music from speakers, shouted prices and delivery carts. Some residents enjoyed the lively atmosphere, but others avoided the market because the combined noise felt overwhelming. After several discussions, the market association agreed to test a quiet shopping hour, from eight to nine on Saturday mornings, for six weeks.\n\nDuring that hour, stallholders switched off background music, lowered their voices and displayed price lists in large print. Staff also received guidance on giving customers enough time to ask questions. The association explained that the aim was to make shopping more comfortable for people who found loud environments difficult, while keeping the market open to everyone.\n\nA fruit seller initially worried that the quieter atmosphere would reduce sales. On the first two Saturdays, fewer people visited during the early hour than during the following hour, but those who came often stayed longer and asked more detailed questions. Because the numbers were small and the weather differed between weekends, the association refused to announce that quiet hours had increased or decreased sales.\n\nOne problem occurred when a refrigerated delivery cart arrived at 8:15 and made a loud noise near the entrance. The market manager arranged for routine deliveries to happen after nine, while allowing urgent deliveries of medical supplies at any time. At the end of the trial, visitors could submit suggestions in writing or speak to a volunteer. The association planned to review all comments before deciding whether the quieter hour should become a permanent feature.",
+      "passage_vi": "Ở chợ Cedar Quay, sáng thứ Bảy trước đây đầy tiếng nhạc từ loa, tiếng rao giá và xe giao hàng. Một số người thích không khí sôi động, nhưng người khác tránh chợ vì tổng hợp tiếng ồn khiến họ choáng ngợp. Sau nhiều cuộc trao đổi, ban quản lý chợ đồng ý thử nghiệm một giờ mua sắm yên tĩnh, từ tám đến chín giờ sáng thứ Bảy, trong sáu tuần.\n\nTrong khoảng thời gian đó, người bán tắt nhạc nền, nói nhỏ hơn và trưng bảng giá chữ lớn. Nhân viên cũng được hướng dẫn dành đủ thời gian cho khách đặt câu hỏi. Mục tiêu là giúp người khó chịu với môi trường ồn ào mua sắm thoải mái hơn, đồng thời chợ vẫn đón tất cả mọi người.\n\nMột người bán trái cây ban đầu lo không khí yên tĩnh làm giảm doanh số. Hai thứ Bảy đầu, số khách trong giờ đầu ít hơn giờ kế tiếp, nhưng những người đến thường ở lâu hơn và hỏi kỹ hơn. Vì số liệu ít và thời tiết giữa các cuối tuần khác nhau, ban quản lý từ chối kết luận giờ yên tĩnh làm doanh số tăng hay giảm.\n\nMột vấn đề xảy ra khi xe giao hàng giữ lạnh đến lúc 8 giờ 15 và gây ồn gần lối vào. Quản lý sắp xếp giao hàng thông thường sau chín giờ, nhưng vẫn cho phép giao vật tư y tế khẩn cấp bất cứ lúc nào. Cuối đợt thử nghiệm, khách có thể góp ý bằng văn bản hoặc trao đổi với tình nguyện viên. Ban quản lý dự định xem xét mọi ý kiến trước khi quyết định có duy trì giờ yên tĩnh lâu dài hay không.",
+      "questions": [
+        {
+          "number": 31,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What was the chief aim of the quiet shopping hour?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To allow vendors to close early."
+            },
+            {
+              "key": "B",
+              "text": "To make the market more comfortable for noise-sensitive visitors."
+            },
+            {
+              "key": "C",
+              "text": "To replace all stalls with online stores."
+            },
+            {
+              "key": "D",
+              "text": "To discourage families from visiting."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn hai nói mục đích là tạo trải nghiệm mua sắm thoải mái hơn cho người gặp khó khăn trong môi trường ồn.",
+          "translation": "Mục tiêu chính của giờ mua sắm yên tĩnh là gì? Đáp án B: giúp khách nhạy cảm với tiếng ồn mua sắm dễ chịu hơn.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "When was the quiet shopping hour scheduled?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every weekday at noon."
+            },
+            {
+              "key": "B",
+              "text": "On Fridays from seven to eight."
+            },
+            {
+              "key": "C",
+              "text": "On Saturdays from eight to nine in the morning."
+            },
+            {
+              "key": "D",
+              "text": "On Sundays from nine to ten."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn đầu ghi cụ thể 'from eight to nine on Saturday mornings'.",
+          "translation": "Giờ mua sắm yên tĩnh được tổ chức khi nào? Đáp án C: thứ Bảy từ 8 đến 9 giờ sáng.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-time"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which measure did stallholders take during the trial?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They removed every price label."
+            },
+            {
+              "key": "B",
+              "text": "They stopped answering customers."
+            },
+            {
+              "key": "C",
+              "text": "They banned all deliveries."
+            },
+            {
+              "key": "D",
+              "text": "They turned off background music."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn hai cho biết người bán 'switched off background music', đồng thời giảm giọng nói và dùng bảng giá chữ lớn.",
+          "translation": "Người bán đã thực hiện biện pháp nào? Đáp án D: tắt nhạc nền.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-action"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why was the fruit seller concerned at first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He feared that sales might fall."
+            },
+            {
+              "key": "B",
+              "text": "He wanted the market to open after noon."
+            },
+            {
+              "key": "C",
+              "text": "He had been asked to stop selling fruit."
+            },
+            {
+              "key": "D",
+              "text": "He disliked large-print price lists."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Người bán trái cây lo bầu không khí yên tĩnh có thể khiến doanh số giảm.",
+          "translation": "Vì sao người bán trái cây ban đầu lo ngại? Đáp án A: ông sợ doanh số giảm.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-motive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What did early observations show about shoppers during the quiet hour?",
+          "options": [
+            {
+              "key": "A",
+              "text": "All shoppers left after five minutes."
+            },
+            {
+              "key": "B",
+              "text": "Most shoppers refused to ask questions."
+            },
+            {
+              "key": "C",
+              "text": "There were fewer visitors, but some stayed longer."
+            },
+            {
+              "key": "D",
+              "text": "Every visitor purchased the same amount of fruit."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn ba nêu giờ đầu ít khách hơn giờ sau, nhưng người đến thường lưu lại lâu hơn và hỏi kỹ hơn.",
+          "translation": "Quan sát ban đầu cho thấy điều gì? Đáp án C: ít khách hơn, nhưng một số người ở lâu hơn.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-contrast"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "The word 'trial' in the first paragraph is closest in meaning to -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "punishment"
+            },
+            {
+              "key": "B",
+              "text": "test period"
+            },
+            {
+              "key": "C",
+              "text": "annual holiday"
+            },
+            {
+              "key": "D",
+              "text": "financial reward"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "'Trial' trong ngữ cảnh 'for six weeks' là giai đoạn thử nghiệm trước khi quyết định có duy trì hay không.",
+          "translation": "Từ 'trial' ở đoạn một gần nghĩa nhất với gì? Đáp án B: giai đoạn thử nghiệm.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-vocabulary-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Why did the manager move ordinary deliveries to after nine?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The delivery drivers asked for longer holidays."
+            },
+            {
+              "key": "B",
+              "text": "The market had no entrance before nine."
+            },
+            {
+              "key": "C",
+              "text": "All sellers refused refrigerated goods."
+            },
+            {
+              "key": "D",
+              "text": "A noisy cart had interrupted the quiet hour."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Xe giao hàng giữ lạnh đến lúc 8:15 gây tiếng ồn nên ban quản lý dời giao hàng thông thường sang sau 9 giờ.",
+          "translation": "Vì sao quản lý chuyển giao hàng thường sang sau chín giờ? Đáp án D: xe hàng ồn đã làm gián đoạn giờ yên tĩnh.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-cause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What could the association NOT conclude from the first two Saturdays?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether the quiet hour raised or lowered sales."
+            },
+            {
+              "key": "B",
+              "text": "Whether people asked questions."
+            },
+            {
+              "key": "C",
+              "text": "Whether a delivery cart made noise."
+            },
+            {
+              "key": "D",
+              "text": "Whether the stalls displayed prices."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Dữ liệu còn ít và thời tiết khác nhau khiến ban quản lý chưa thể xác định tác động của giờ yên tĩnh lên doanh số.",
+          "translation": "Ban quản lý CHƯA thể kết luận điều gì? Đáp án A: giờ yên tĩnh làm doanh số tăng hay giảm.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-not-given"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "How were visitors invited to give opinions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By voting for new stall owners."
+            },
+            {
+              "key": "B",
+              "text": "By writing suggestions or speaking to a volunteer."
+            },
+            {
+              "key": "C",
+              "text": "By calling an emergency medical hotline."
+            },
+            {
+              "key": "D",
+              "text": "By submitting sales records from their homes."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn cuối nêu hai cách góp ý: bằng văn bản hoặc trao đổi với tình nguyện viên.",
+          "translation": "Khách được mời góp ý bằng cách nào? Đáp án B: viết góp ý hoặc nói với tình nguyện viên.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-process"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which statement best reflects the association's approach?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It considered the trial successful before gathering feedback."
+            },
+            {
+              "key": "B",
+              "text": "It decided to close the market permanently."
+            },
+            {
+              "key": "C",
+              "text": "It adjusted practical arrangements and waited for more evidence."
+            },
+            {
+              "key": "D",
+              "text": "It used only the fruit seller's opinion to make decisions."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Ban quản lý điều chỉnh giờ giao hàng và thu góp ý, không kết luận vội từ số liệu ít. Điều này phù hợp nhất với C.",
+          "translation": "Nhận định nào phản ánh đúng cách làm của ban quản lý? Đáp án C: điều chỉnh thực tế và chờ thêm bằng chứng.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the passage about the school ecology club's lighting study and answer the questions.",
+      "source": "original",
+      "passage": "Along Oakridge Lane, the lights outside several shops remained bright throughout the night. An ecology club at a nearby school noticed that few moths were visiting the flowers beside the pavement, although a retired gardener remembered seeing many more years earlier. The students wondered whether the direction of artificial light could be one factor.\n\nInstead of asking businesses to turn off their lights, the club proposed fitting simple shields to lamps on one side of the lane. The shields directed light towards the ground rather than into the surrounding trees. For four weeks, students observed moths near shielded and unshielded lamps at the same hours, taking photographs from marked positions. They also recorded temperature and rainfall because both could influence insect activity. No insects were handled or collected.\n\nHeavy rain interrupted observations in the first week. Later, shopkeepers expressed concern that the shields might make the path unsafe. The students measured how well the pavement was lit and added small reflective strips near a sharp corner. They found that the pavement remained visible, although one shop entrance needed its lamp adjusted.\n\nBy the end of the study, the students had counted more moth visits near the shielded lamps on most dry evenings. However, they knew that different flowers had opened at different times during the month, making it difficult to attribute the change to lighting alone. Their report explained this limitation and recommended repeating the study over several seasons. The town council thanked the club for combining environmental questions with attention to the safety of pedestrians.",
+      "passage_vi": "Dọc đường Oakridge, đèn bên ngoài nhiều cửa hàng vẫn sáng suốt đêm. Một câu lạc bộ sinh thái ở trường gần đó nhận thấy ít bướm đêm ghé những bông hoa bên vỉa hè, dù người làm vườn về hưu nhớ rằng trước đây có nhiều hơn. Học sinh tự hỏi hướng chiếu của ánh sáng nhân tạo có phải là một yếu tố hay không.\n\nThay vì đề nghị các cửa hàng tắt đèn, câu lạc bộ đề xuất lắp tấm chắn đơn giản cho đèn ở một bên đường. Tấm chắn hướng ánh sáng xuống đất thay vì chiếu vào cây. Trong bốn tuần, học sinh quan sát bướm đêm gần đèn có và không có chắn vào cùng giờ, chụp ảnh từ những vị trí đánh dấu. Các em cũng ghi nhiệt độ và lượng mưa vì cả hai có thể ảnh hưởng hoạt động côn trùng. Không con côn trùng nào bị cầm nắm hay thu giữ.\n\nMưa lớn làm gián đoạn quan sát tuần đầu. Sau đó, chủ cửa hàng lo tấm chắn khiến lối đi thiếu an toàn. Học sinh đo độ sáng vỉa hè và dán những dải phản quang nhỏ gần khúc cua gấp. Các em thấy mặt đường vẫn nhìn rõ, dù lối vào một cửa hàng cần chỉnh đèn.\n\nCuối nghiên cứu, các em đếm được nhiều lượt bướm đêm ghé gần đèn có chắn hơn trong phần lớn các tối khô ráo. Tuy nhiên, các loài hoa nở vào thời điểm khác nhau trong tháng, nên khó quy mọi thay đổi cho ánh sáng. Báo cáo nêu rõ hạn chế này và đề xuất lặp nghiên cứu qua nhiều mùa. Hội đồng thị trấn cảm ơn câu lạc bộ đã quan tâm đồng thời đến môi trường và an toàn người đi bộ.",
+      "questions": [
+        {
+          "number": 41,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What issue did the ecology club investigate?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Why shop rent had increased."
+            },
+            {
+              "key": "B",
+              "text": "How to repair damaged pavement."
+            },
+            {
+              "key": "C",
+              "text": "Whether flowers needed more water."
+            },
+            {
+              "key": "D",
+              "text": "Whether the direction of night lighting might affect moth visits."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Câu lạc bộ đặt câu hỏi liệu hướng ánh sáng nhân tạo có ảnh hưởng đến số lượt bướm đêm ghé hoa.",
+          "translation": "Câu lạc bộ sinh thái tìm hiểu vấn đề gì? Đáp án D: hướng chiếu đèn đêm có thể ảnh hưởng lượt bướm đêm ghé hoa.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 42,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What observation first raised the students' curiosity?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Few moths were visiting flowers beside the pavement."
+            },
+            {
+              "key": "B",
+              "text": "Shopkeepers had stopped selling flowers."
+            },
+            {
+              "key": "C",
+              "text": "The path was flooded every night."
+            },
+            {
+              "key": "D",
+              "text": "The school had no ecology club."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn một ghi học sinh thấy ít bướm đêm ghé những bông hoa cạnh vỉa hè.",
+          "translation": "Điều gì ban đầu khiến học sinh tò mò? Đáp án A: ít bướm đêm ghé các bông hoa ven đường.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What did the shields change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The color of the flowers."
+            },
+            {
+              "key": "B",
+              "text": "The direction in which lamps cast light."
+            },
+            {
+              "key": "C",
+              "text": "The time at which shops closed."
+            },
+            {
+              "key": "D",
+              "text": "The amount of rain falling on the lane."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Tấm chắn hướng ánh sáng xuống mặt đất thay vì rọi vào cây xung quanh.",
+          "translation": "Tấm chắn đã thay đổi điều gì? Đáp án B: hướng chiếu của đèn.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-cause-effect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did the students take photographs from marked positions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise the shops."
+            },
+            {
+              "key": "B",
+              "text": "To identify individual insects by name."
+            },
+            {
+              "key": "C",
+              "text": "To make observations more consistent."
+            },
+            {
+              "key": "D",
+              "text": "To test the strength of the reflective strips."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Chụp từ vị trí đã đánh dấu vào cùng giờ giúp so sánh lượt bướm đêm nhất quán hơn giữa các điểm.",
+          "translation": "Vì sao học sinh chụp ảnh từ vị trí đánh dấu? Đáp án C: để quan sát nhất quán hơn.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-method-inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What additional information did the club record?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Temperature and rainfall."
+            },
+            {
+              "key": "B",
+              "text": "The prices of lamps."
+            },
+            {
+              "key": "C",
+              "text": "The number of school buses."
+            },
+            {
+              "key": "D",
+              "text": "Each shop's monthly rent."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bài nêu rõ 'recorded temperature and rainfall' vì hai yếu tố có thể tác động đến côn trùng.",
+          "translation": "Câu lạc bộ còn ghi lại thông tin gì? Đáp án A: nhiệt độ và lượng mưa.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-data"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 46,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What disrupted the first week's observations?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A school examination."
+            },
+            {
+              "key": "B",
+              "text": "A broken camera."
+            },
+            {
+              "key": "C",
+              "text": "A strike by shop owners."
+            },
+            {
+              "key": "D",
+              "text": "Heavy rainfall."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Mở đầu đoạn ba nêu mưa lớn làm gián đoạn việc quan sát tuần đầu.",
+          "translation": "Điều gì làm gián đoạn quan sát tuần đầu? Đáp án D: mưa lớn.",
+          "difficulty": 2,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-detail-weather"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 47,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "In this passage, 'shielded lamps' are lamps that -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were removed from the street."
+            },
+            {
+              "key": "B",
+              "text": "were switched off all night."
+            },
+            {
+              "key": "C",
+              "text": "had covers directing their light downward."
+            },
+            {
+              "key": "D",
+              "text": "were powered only by batteries."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "'Shielded lamps' là đèn có tấm chắn để hướng luồng sáng xuống mặt đường.",
+          "translation": "Trong bài, 'shielded lamps' là loại đèn nào? Đáp án C: đèn có tấm che hướng sáng xuống dưới.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 48,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did the group add reflective strips near a corner?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To attract more moths to the flowers."
+            },
+            {
+              "key": "B",
+              "text": "To address concerns about pedestrians' safety."
+            },
+            {
+              "key": "C",
+              "text": "To collect rainwater for the plants."
+            },
+            {
+              "key": "D",
+              "text": "To help shops display prices."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Chủ cửa hàng lo đường thiếu sáng, nên học sinh thêm dải phản quang tại khúc cua để tăng an toàn.",
+          "translation": "Vì sao nhóm thêm dải phản quang ở khúc cua? Đáp án B: để giải quyết lo ngại an toàn của người đi bộ.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 49,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which conclusion is best supported by the study?",
+          "options": [
+            {
+              "key": "A",
+              "text": "More moth visits were observed by shielded lamps on most dry nights, but causation was uncertain."
+            },
+            {
+              "key": "B",
+              "text": "Light shields proved that flowers no longer mattered to moths."
+            },
+            {
+              "key": "C",
+              "text": "All moths stopped visiting unshielded lamps."
+            },
+            {
+              "key": "D",
+              "text": "The shields always made shop entrances brighter."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Bài ghi nhiều lượt bướm đêm gần đèn có chắn vào phần lớn các tối khô, nhưng thời điểm hoa nở khác nhau làm kết luận nguyên nhân chưa chắc chắn.",
+          "translation": "Kết luận nào được nghiên cứu ủng hộ? Đáp án A: có nhiều lượt ghé đèn chắn sáng hơn, song chưa chắc chắn nguyên nhân.",
+          "difficulty": 4,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-evidence-limits"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 50,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What did the students recommend in their report?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ending all observations immediately."
+            },
+            {
+              "key": "B",
+              "text": "Repeating the investigation across several seasons."
+            },
+            {
+              "key": "C",
+              "text": "Turning off every streetlamp in town."
+            },
+            {
+              "key": "D",
+              "text": "Moving the ecology club to another school."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn cuối viết học sinh đề xuất 'repeating the study over several seasons' để có dữ liệu đáng tin cậy hơn.",
+          "translation": "Học sinh kiến nghị điều gì trong báo cáo? Đáp án B: lặp nghiên cứu qua nhiều mùa.",
+          "difficulty": 3,
+          "tags": [
+            "reading-comprehension"
+          ],
+          "skill_tags": [
+            "reading-recommendation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

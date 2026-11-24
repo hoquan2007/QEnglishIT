@@ -1,0 +1,150 @@
+{
+  "slug": "qe-p3-002",
+  "content_path": "content/tests/toeic_part/qe-p3-002.json",
+  "title": "TOEIC Part 3 – Hội thoại 02 (Mục tiêu 650)",
+  "exam_type": "toeic_part",
+  "level": "650",
+  "difficulty": 3,
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part3",
+      "title": "Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Parking permit renewal",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Catalog product photography",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Employee shuttle stop change",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Hardware special order",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Training room video adapter",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Coworking membership renewal",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Supplier invoice quantity discrepancy",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Volunteer cleanup weather plan",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Commercial laundry schedule",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Freight customs document correction",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Office archive relocation",
+      "first_question": 31,
+      "last_question": 33,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Market stall payment terminal",
+      "first_question": 34,
+      "last_question": 36,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Conference booth return shipping",
+      "first_question": 37,
+      "last_question": 39,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 9
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

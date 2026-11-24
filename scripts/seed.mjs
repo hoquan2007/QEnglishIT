@@ -1,9 +1,11 @@
-// npm run seed -- [sections] [--dry-run] [--only slug] [--strict]
+// npm run seed -- [sections] [--dry-run] [--only slug] [--file content/path.json] [--strict]
 import { readFileSync, writeFileSync, renameSync, existsSync, mkdirSync } from 'node:fs';
-import { join, relative } from 'node:path';
+import { join, relative, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { randomUUID } from 'node:crypto';
 import { sections, root, discoverContent, loadContent, report, databaseReport } from './qa/report.mjs';
+import { request, fetchAll } from './db-ops.mjs';
+export { request, fetchAll } from './db-ops.mjs';
 
 const pick = (r, keys) => Object.fromEntries(keys.split(' ').filter(k => r[k] !== undefined).map(k => [k,r[k]]));
 const wordFields = 'word pos ipa meaning_vi definition_en example_en example_vi cefr image_url lemma ipa_us ipa_uk audio_us_url audio_uk_url syllables stress frequency_rank word_family synonyms antonyms collocations examples topics lists register reviewed';
@@ -21,28 +23,6 @@ const simple = {
   documents: ['documents','slug title description category file_type file_url content_md','slug'],
 };
 
-export async function request(factory,label) {
-  for (let attempt = 0;;attempt++) {
-    try {
-      const result = await factory();
-      if (result.error) throw Object.assign(new Error(result.error.message),result.error,{ status:result.status });
-      return result;
-    } catch (error) {
-      const network = /fetch failed|network|ECONNRESET|ETIMEDOUT|ECONNREFUSED|EAI_AGAIN|socket|timeout/i.test(`${error.message} ${error.details ?? ''} ${error.cause?.code ?? ''}`) || [502,503,504].includes(error.status);
-      if (!network || attempt >= 3) throw new Error(`${label}: ${error.message}`,{ cause:error });
-      console.warn(`${label}: network retry ${attempt + 1}/3`);
-      await new Promise(resolve => setTimeout(resolve,250 * 2 ** attempt));
-    }
-  }
-}
-export async function fetchAll(sb,table,columns = '*',filter = q => q) {
-  const rows = [];
-  for (let offset = 0;;offset += 500) {
-    const { data } = await request(() => filter(sb.from(table).select(columns)).order(table === 'irregular_verbs' ? 'base' : 'id').range(offset,offset + 499),`${table} read`);
-    rows.push(...data);
-    if (data.length < 500) return rows;
-  }
-}
 export async function batch(sb,table,rows,onConflict = 'slug',select = 'id') {
   // Keep absent fields absent: mixed enriched/legacy row shapes must never
   // cause PostgREST to NULL omitted fields in a bulk upsert.
@@ -113,8 +93,15 @@ async function seedGrammar(sb,entries,map) {
 }
 export async function seedCollections(sb,entries,map,legacy) {
   // Load once, then resolve references locally rather than one request/word.
-  const current = await fetchAll(sb,'vocab_words');
+  const current = await fetchAll(sb,'vocab_words',legacy ? '*' : 'id,word,pos');
   const words = new Map(current.map(w => [`${w.word}|${w.pos ?? ''}`,w]));
+  if (!legacy) for (const {item:collection} of entries) for (const lesson of collection.lessons) {
+    for (const word of lesson.words) {
+      if (!words.has(`${word.word.trim()}|${word.pos ?? ''}`)) {
+        throw new Error(`${collection.slug}/${lesson.slug}: unresolved word ${word.word}/${word.pos}; seed words first`);
+      }
+    }
+  }
   for (const { item:c } of entries) {
     const [col] = await batch(sb,'vocab_collections',[map(c,'slug family title description level color sort_order')]);
     for (const [i,l] of c.lessons.entries()) {
@@ -136,7 +123,7 @@ export async function seedCollections(sb,entries,map,legacy) {
         if (!word) throw new Error(`${c.slug}/${l.slug}: unresolved word ${w.word}/${w.pos}; seed words first`);
         return { lesson_id:lesson.id,word_id:word.id,sort_order:i };
       });
-      await batch(sb,'vocab_lesson_words',links,'lesson_id,word_id');
+      await batch(sb,'vocab_lesson_words',links,'lesson_id,word_id','lesson_id,word_id');
     }
   }
 }
@@ -157,16 +144,28 @@ function markSeeded(entries,only) {
   renameSync(temporary,path);
 }
 export async function main(args = process.argv.slice(2)) {
-  const selected = []; let dryRun = false, only, strict = false;
+  const selected = [], requestedFiles = new Set();
+  let dryRun = false, only, strict = false;
   for (let i = 0;i < args.length;i++) {
     const arg = args[i];
     if (arg === '--dry-run') dryRun = true;
     else if (arg === '--strict') strict = true;
     else if (arg === '--only') { only = args[++i]; if (!only || only.startsWith('--')) throw new Error('--only requires a slug'); }
+    else if (arg === '--file') {
+      const file = args[++i];
+      if (!file || file.startsWith('--')) throw new Error('--file requires a content JSON path');
+      requestedFiles.add(resolve(file));
+    }
     else if (sections.includes(arg)) selected.push(arg);
     else throw new Error(`Unknown argument: ${arg}`);
   }
-  const entries = loadContent(discoverContent(selected.length ? selected : sections),only);
+  const available = discoverContent(selected.length ? selected : sections);
+  for (const file of requestedFiles) {
+    if (!available.includes(file)) throw new Error(`Unknown content file for this selection: ${file}`);
+  }
+  // Assemble tests before filtering so selecting a shard always includes the complete test.
+  const entries = loadContent(available,only)
+    .filter(entry => !requestedFiles.size || entry.paths.some(path => requestedFiles.has(path)));
   if (!entries.length) throw new Error('No matching content');
   const paths = [...new Set(entries.flatMap(e => e.paths))];
   const { validateContent,questionFingerprint } = await import('./validate/validate-content.mjs');
@@ -225,6 +224,11 @@ export async function main(args = process.argv.slice(2)) {
       const [table,fields,conflict] = simple[section];
       const rows = items.map(({ item }) => {
         const row = section === 'sources' ? pick(item,fields) : map(item,fields);
+        // Missing media in a transcript draft must not erase uploaded audio.
+        if (section === 'listening' && row.audio_url == null) {
+          delete row.audio_url;
+          delete row.audio_duration_seconds;
+        }
         if (section === 'words') { row.word = row.word.trim(); if (row.ipa_us !== undefined) row.ipa = row.ipa_us; }
         return row;
       });

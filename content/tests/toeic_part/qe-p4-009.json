@@ -1,0 +1,1224 @@
+{
+  "slug": "qe-p4-009",
+  "title": "QEnglish TOEIC Part 4 Draft Test 009",
+  "collection": "toeic-part-4",
+  "exam_type": "toeic_part",
+  "level": "B2",
+  "difficulty": 4,
+  "cefr": "B2",
+  "duration_minutes": 20,
+  "total_questions": 30,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "listening",
+    "part-4",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Part 4",
+      "parts": [
+        4
+      ],
+      "count": 30,
+      "minutes": 20
+    }
+  ],
+  "groups": [
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Before we review renewal priorities, I want to highlight one change in our service metrics. Overall ticket volume fell eight percent, yet requests from enterprise accounts rose sharply after the reporting update. The increase appears concentrated in two workflows, so account managers should review those cases before recommending additional training or product changes.",
+      "transcript_vi": "N: Trước khi xem ưu tiên gia hạn, tôi muốn nhấn mạnh một thay đổi trong số liệu dịch vụ. Tổng lượng yêu cầu giảm tám phần trăm, nhưng yêu cầu từ khách hàng doanh nghiệp tăng mạnh sau bản cập nhật báo cáo. Mức tăng tập trung ở hai quy trình, vì vậy quản lý tài khoản nên xem các trường hợp đó trước khi đề xuất đào tạo hay thay đổi sản phẩm.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "What unusual trend does the speaker highlight?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Both enterprise requests and total ticket volume fell."
+            },
+            {
+              "key": "B",
+              "text": "Enterprise customers stopped using the reporting workflows."
+            },
+            {
+              "key": "C",
+              "text": "Total tickets rose by eight percent after the update."
+            },
+            {
+              "key": "D",
+              "text": "Enterprise requests increased while total ticket volume declined."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Tổng yêu cầu giảm 8% nhưng yêu cầu doanh nghiệp tăng mạnh sau cập nhật.",
+          "translation": "Người nói nhấn mạnh xu hướng bất thường nào?",
+          "difficulty": 4,
+          "tags": [
+            "customer-success"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What does the concentration of requests in two workflows suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every reporting workflow needs the same level of training."
+            },
+            {
+              "key": "B",
+              "text": "The account managers can investigate a limited set of cases first."
+            },
+            {
+              "key": "C",
+              "text": "The renewal process should be changed before checking the cases."
+            },
+            {
+              "key": "D",
+              "text": "The total ticket count is sufficient to explain the increase."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Mức tăng tập trung vào hai quy trình nên có thể tập trung xem xét các trường hợp đó trước khi đề xuất giải pháp.",
+          "translation": "Việc yêu cầu tập trung vào hai quy trình cho thấy điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "customer-success"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What should account managers do before recommending solutions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Review the affected cases."
+            },
+            {
+              "key": "B",
+              "text": "Arrange training for every account immediately."
+            },
+            {
+              "key": "C",
+              "text": "Reverse the reporting update without review."
+            },
+            {
+              "key": "D",
+              "text": "Change renewal priorities based on total volume alone."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu xem xét các trường hợp bị ảnh hưởng trước khi đề xuất đào tạo hoặc thay đổi sản phẩm.",
+          "translation": "Quản lý tài khoản cần làm gì trước khi đề xuất giải pháp?",
+          "difficulty": 4,
+          "tags": [
+            "customer-success"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Baggage belt 4 will be offline from midnight until 3 A.M. while technicians replace its scanner. During that period, outbound bags will be assigned to belts 2 and 3, which may increase transfer time slightly. At the start of each shift, check the revised allocation board rather than yesterday's printed sheet.",
+      "transcript_vi": "N: Băng chuyền hành lý số 4 sẽ ngừng từ nửa đêm đến 3 giờ sáng để thay máy quét. Trong thời gian đó, hành lý đi sẽ chuyển sang băng 2 và 3, có thể làm tăng nhẹ thời gian trung chuyển. Đầu mỗi ca, hãy xem bảng phân bổ đã cập nhật thay vì tờ in hôm qua.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "Why will baggage belt 4 be unavailable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its printed allocation sheet was lost."
+            },
+            {
+              "key": "B",
+              "text": "It is being moved to another terminal."
+            },
+            {
+              "key": "C",
+              "text": "Its outbound allocation is being expanded."
+            },
+            {
+              "key": "D",
+              "text": "Its scanner is being replaced."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Kỹ thuật viên thay máy quét từ nửa đêm đến 3 giờ sáng.",
+          "translation": "Vì sao băng chuyền hành lý số 4 không hoạt động?",
+          "difficulty": 4,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "What should staff expect during the belt 4 outage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Outbound bags will use belts 2 and 3, with possible delays."
+            },
+            {
+              "key": "B",
+              "text": "Belts 2 and 3 will handle only inbound bags."
+            },
+            {
+              "key": "C",
+              "text": "Transfer times will decrease because fewer belts are running."
+            },
+            {
+              "key": "D",
+              "text": "Outbound bags will remain on belt 4 until the scanner is replaced."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Trong thời gian ngừng hoạt động, hành lý đi được chuyển sang băng chuyền 2 và 3, có thể làm thời gian vận chuyển tăng nhẹ.",
+          "translation": "Nhân viên nên dự kiến điều gì trong thời gian băng chuyền 4 ngừng hoạt động?",
+          "difficulty": 5,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "What should staff consult at the start of each shift?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The scanner replacement invoice"
+            },
+            {
+              "key": "B",
+              "text": "The revised allocation board"
+            },
+            {
+              "key": "C",
+              "text": "Yesterday's printed allocation sheet"
+            },
+            {
+              "key": "D",
+              "text": "The passenger arrival schedule"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu xem bảng phân bổ đã cập nhật thay vì bản in hôm qua.",
+          "translation": "Nhân viên cần xem gì đầu mỗi ca?",
+          "difficulty": 4,
+          "tags": [
+            "aviation"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Employer check-in for Friday's career fair opens at 7:30 at the north entrance. Because the student union is holding another event, Lot C will be reserved for visitors after 9 A.M. Recruiters arriving later should use the College Avenue garage. Ten-minute unloading is still allowed at the north entrance.",
+      "transcript_vi": "N: Bàn đăng ký cho nhà tuyển dụng tại hội chợ việc làm thứ Sáu mở lúc 7:30 ở lối vào phía bắc. Vì hội sinh viên có sự kiện khác, bãi C dành cho khách sau 9 giờ. Nhà tuyển dụng đến muộn nên dùng gara College Avenue. Việc dỡ hàng trong mười phút vẫn được phép ở lối bắc.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "Where should recruiters go to complete employer check-in?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lot C"
+            },
+            {
+              "key": "B",
+              "text": "The north entrance"
+            },
+            {
+              "key": "C",
+              "text": "The student union event"
+            },
+            {
+              "key": "D",
+              "text": "The College Avenue garage"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Nhà tuyển dụng làm thủ tục tại lối vào phía bắc từ 7 giờ 30.",
+          "translation": "Nhà tuyển dụng nên đến đâu để làm thủ tục đăng ký?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "Why is Lot C unavailable for recruiter parking after 9 A.M.?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is reserved for career fair exhibitors."
+            },
+            {
+              "key": "B",
+              "text": "It is reserved for ten-minute unloading."
+            },
+            {
+              "key": "C",
+              "text": "It is reserved for visitors because the student union has another event."
+            },
+            {
+              "key": "D",
+              "text": "It is being used as the employer check-in location."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Sau 9 giờ, bãi C dành cho khách do hội sinh viên tổ chức sự kiện khác.",
+          "translation": "Vì sao nhà tuyển dụng không thể đỗ xe tại bãi C sau 9 giờ sáng?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "After unloading at the north entrance, where should a recruiter arriving at 10 A.M. leave their car for the fair?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The College Avenue garage"
+            },
+            {
+              "key": "B",
+              "text": "Lot C, in the visitor spaces"
+            },
+            {
+              "key": "C",
+              "text": "The north entrance for the duration of the fair"
+            },
+            {
+              "key": "D",
+              "text": "The student union event entrance"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Nhà tuyển dụng đến sau 9 giờ dùng nhà đỗ xe College Avenue; lối vào phía bắc chỉ cho phép dỡ hàng 10 phút.",
+          "translation": "Sau khi dỡ đồ tại lối vào phía bắc, nhà tuyển dụng đến lúc 10 giờ sáng nên đỗ xe ở đâu trong thời gian hội chợ?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Quality found surface marks on parts produced by line 2 during a two-hour window yesterday. No functional failures have been found, but those lots are being isolated while we check the tooling record. Shipping may continue for unaffected lots after staff verify the lot numbers against today's release list.",
+      "transcript_vi": "N: Chất lượng phát hiện vết bề mặt trên các chi tiết từ dây chuyền 2 trong khoảng hai giờ hôm qua. Chưa có lỗi chức năng, nhưng các lô đó đang được cách ly trong khi kiểm tra hồ sơ dụng cụ. Các lô không bị ảnh hưởng vẫn có thể giao sau khi nhân viên đối chiếu số lô với danh sách phát hành hôm nay.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "What defect was discovered on line 2 parts?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Missing tooling records on every part"
+            },
+            {
+              "key": "B",
+              "text": "Functional failures"
+            },
+            {
+              "key": "C",
+              "text": "Surface marks"
+            },
+            {
+              "key": "D",
+              "text": "Incorrect lot numbers"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Quality phát hiện vết trên bề mặt, chưa tìm thấy lỗi chức năng.",
+          "translation": "Khuyết điểm nào được phát hiện trên sản phẩm dây chuyền 2?",
+          "difficulty": 4,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "Why are the affected lots being isolated?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The tooling record needs to be checked."
+            },
+            {
+              "key": "B",
+              "text": "Every part has failed functional testing."
+            },
+            {
+              "key": "C",
+              "text": "The line is being permanently dismantled."
+            },
+            {
+              "key": "D",
+              "text": "The shipping team lost the entire release list."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Các lô được cách ly trong khi kiểm tra hồ sơ dụng cụ.",
+          "translation": "Vì sao các lô bị ảnh hưởng được cách ly?",
+          "difficulty": 5,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "How can unaffected lots be cleared for shipping?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Use yesterday's production window as the only check."
+            },
+            {
+              "key": "B",
+              "text": "Ship them before checking their lot numbers."
+            },
+            {
+              "key": "C",
+              "text": "Wait until every affected part is scrapped."
+            },
+            {
+              "key": "D",
+              "text": "Verify lot numbers against today's release list."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhân viên phải đối chiếu mã lô với danh sách phát hành hôm nay trước khi giao.",
+          "translation": "Làm thế nào để các lô không bị ảnh hưởng được phép giao?",
+          "difficulty": 4,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Beginning with January renewals, the Professional plan will include advanced audit logs and its price will increase six percent. Existing annual contracts remain at their current price until renewal. Sales representatives should use the updated calculator and review each contract term before offering any manual discount.",
+      "transcript_vi": "N: Bắt đầu với các kỳ gia hạn tháng Một, gói Professional sẽ có nhật ký kiểm toán nâng cao và giá tăng sáu phần trăm. Hợp đồng năm hiện tại giữ giá cũ đến khi gia hạn. Nhân viên bán hàng nên dùng công cụ tính mới và xem thời hạn hợp đồng trước khi đưa ra giảm giá thủ công.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What feature is being added to the Professional plan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Advanced audit logs"
+            },
+            {
+              "key": "B",
+              "text": "Automatic manual discounts"
+            },
+            {
+              "key": "C",
+              "text": "A separate basic support plan"
+            },
+            {
+              "key": "D",
+              "text": "A longer annual contract term"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Gói Professional được bổ sung nhật ký kiểm toán nâng cao từ kỳ gia hạn tháng Một.",
+          "translation": "Tính năng nào được thêm vào gói Professional?",
+          "difficulty": 4,
+          "tags": [
+            "software-business"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "When will an existing annual contract be affected by the price increase?",
+          "options": [
+            {
+              "key": "A",
+              "text": "When the customer opens the updated calculator"
+            },
+            {
+              "key": "B",
+              "text": "At the midpoint of its current term"
+            },
+            {
+              "key": "C",
+              "text": "Immediately when January begins regardless of renewal"
+            },
+            {
+              "key": "D",
+              "text": "At renewal"
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hợp đồng năm giữ giá hiện tại đến lúc gia hạn.",
+          "translation": "Khi nào hợp đồng năm hiện tại chịu mức tăng giá?",
+          "difficulty": 5,
+          "tags": [
+            "software-business"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "What must sales representatives review before offering a manual discount?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The previous year's discount average"
+            },
+            {
+              "key": "B",
+              "text": "Each contract term"
+            },
+            {
+              "key": "C",
+              "text": "The customer's audit-log activity"
+            },
+            {
+              "key": "D",
+              "text": "Only the old price list"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu dùng công cụ tính mới và xem xét thời hạn từng hợp đồng.",
+          "translation": "Nhân viên bán hàng phải xem gì trước khi giảm giá thủ công?",
+          "difficulty": 4,
+          "tags": [
+            "software-business"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: This weekend, trains will not operate between Harbor and Central stations while crews replace a track switch. Shuttle buses will run about every twelve minutes, and regular rail tickets are valid on them. Riders traveling beyond Central should allow about twenty extra minutes and check the trip planner before leaving.",
+      "transcript_vi": "N: Cuối tuần này, tàu sẽ không chạy giữa ga Harbor và Central để thay bộ chuyển hướng đường ray. Xe buýt thay thế chạy khoảng mỗi mười hai phút và vé tàu thông thường được chấp nhận. Hành khách đi quá ga Central nên dành thêm khoảng hai mươi phút và xem công cụ lập hành trình trước khi đi.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "What is the reason for the weekend rail interruption?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The rail-ticket system is being upgraded."
+            },
+            {
+              "key": "B",
+              "text": "The shuttle bus fleet is being repaired."
+            },
+            {
+              "key": "C",
+              "text": "A track switch is being replaced."
+            },
+            {
+              "key": "D",
+              "text": "A new station is opening."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Đội thi công thay bộ chuyển hướng đường ray giữa Harbor và Central.",
+          "translation": "Nguyên nhân gián đoạn đường sắt cuối tuần là gì?",
+          "difficulty": 4,
+          "tags": [
+            "public-transit"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "How can riders pay for the replacement bus service?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Purchase a new weekend rail pass."
+            },
+            {
+              "key": "B",
+              "text": "Buy a separate premium bus ticket."
+            },
+            {
+              "key": "C",
+              "text": "Pay a twenty-minute travel surcharge."
+            },
+            {
+              "key": "D",
+              "text": "Use their regular rail tickets."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Vé tàu thông thường có hiệu lực trên xe buýt thay thế.",
+          "translation": "Hành khách có thể thanh toán dịch vụ xe buýt thay thế thế nào?",
+          "difficulty": 4,
+          "tags": [
+            "public-transit"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What advice is given to travelers going beyond Central?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Arrive twelve minutes later than usual."
+            },
+            {
+              "key": "B",
+              "text": "Avoid using the trip planner until the work ends."
+            },
+            {
+              "key": "C",
+              "text": "Allow about twenty extra minutes and check the trip planner."
+            },
+            {
+              "key": "D",
+              "text": "Board trains directly between Harbor and Central."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu dự phòng thêm khoảng 20 phút và kiểm tra công cụ lập hành trình.",
+          "translation": "Người đi xa hơn Central được khuyên điều gì?",
+          "difficulty": 4,
+          "tags": [
+            "public-transit"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Tomorrow's open house at 88 King Street will start at 11 A.M. rather than 10 because the fire-alarm contractor needs an extra hour. The noon market presentation remains unchanged. Brokers who arranged private tours before eleven should contact our office today so those appointments can be shifted.",
+      "transcript_vi": "N: Buổi tham quan ngày mai tại 88 King Street sẽ bắt đầu lúc 11 giờ thay vì 10 giờ vì nhà thầu báo cháy cần thêm một giờ. Phần trình bày thị trường lúc trưa vẫn giữ nguyên. Môi giới đã đặt chuyến xem riêng trước 11 giờ nên liên hệ văn phòng hôm nay để đổi lịch.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why is the open house starting an hour later?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The brokers requested a later market presentation."
+            },
+            {
+              "key": "B",
+              "text": "Private tours have been permanently canceled."
+            },
+            {
+              "key": "C",
+              "text": "The noon presentation has been moved to another property."
+            },
+            {
+              "key": "D",
+              "text": "The fire-alarm contractor needs more time."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Nhà thầu báo cháy cần thêm một giờ.",
+          "translation": "Vì sao buổi mở cửa tham quan bắt đầu muộn một giờ?",
+          "difficulty": 4,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "Which scheduled event is unaffected by the delay?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The noon market presentation"
+            },
+            {
+              "key": "B",
+              "text": "The contractor's original completion time"
+            },
+            {
+              "key": "C",
+              "text": "The 10 A.M. opening"
+            },
+            {
+              "key": "D",
+              "text": "All private tours before 11 A.M."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Buổi thuyết trình thị trường lúc trưa giữ nguyên.",
+          "translation": "Sự kiện nào không bị ảnh hưởng bởi việc trì hoãn?",
+          "difficulty": 4,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "Which brokers should contact the office today?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Those attending the noon presentation only"
+            },
+            {
+              "key": "B",
+              "text": "Those who have no private appointments"
+            },
+            {
+              "key": "C",
+              "text": "Those who booked private tours for the afternoon only"
+            },
+            {
+              "key": "D",
+              "text": "Those with private tours originally booked before 11 A.M."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Các môi giới có lịch tham quan riêng trước 11 giờ cần liên hệ hôm nay để dời lịch.",
+          "translation": "Những môi giới nào nên liên hệ văn phòng hôm nay?",
+          "difficulty": 4,
+          "tags": [
+            "real-estate"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: The west terminal is experiencing heavy congestion after two vessels arrived on the same tide. Truck turn times are currently about forty minutes longer than usual, but appointments after 6 P.M. are lightly booked. Dispatchers should move flexible pickups to the evening when possible while keeping urgent loads on their current slots.",
+      "transcript_vi": "N: Bến phía tây đang ùn tắc nặng sau khi hai tàu đến cùng một đợt thủy triều. Thời gian xe tải quay vòng hiện dài hơn khoảng bốn mươi phút, nhưng lịch sau 6 giờ tối còn thưa. Điều phối viên nên chuyển các chuyến lấy hàng linh hoạt sang buổi tối khi có thể và giữ nguyên các lô khẩn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "What caused the congestion at the west terminal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Truck turn times fell below normal."
+            },
+            {
+              "key": "B",
+              "text": "All evening appointments were canceled."
+            },
+            {
+              "key": "C",
+              "text": "Two vessels arrived on the same tide."
+            },
+            {
+              "key": "D",
+              "text": "The east terminal stopped accepting bookings."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hai tàu đến cùng một con triều khiến nhà ga ùn tắc.",
+          "translation": "Điều gì gây ùn tắc tại nhà ga phía tây?",
+          "difficulty": 4,
+          "tags": [
+            "shipping"
+          ],
+          "skill_tags": [
+            "reason"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "How much longer are truck turn times than usual?",
+          "options": [
+            {
+              "key": "A",
+              "text": "About six hours"
+            },
+            {
+              "key": "B",
+              "text": "About ten minutes"
+            },
+            {
+              "key": "C",
+              "text": "About forty minutes"
+            },
+            {
+              "key": "D",
+              "text": "About twenty minutes"
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Thời gian quay vòng hiện dài hơn khoảng 40 phút.",
+          "translation": "Thời gian quay vòng xe tải dài hơn bình thường bao nhiêu?",
+          "difficulty": 5,
+          "tags": [
+            "shipping"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "Which loads should remain in their existing slots?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Urgent loads"
+            },
+            {
+              "key": "B",
+              "text": "Only evening pickups"
+            },
+            {
+              "key": "C",
+              "text": "All flexible pickups"
+            },
+            {
+              "key": "D",
+              "text": "Every load from both vessels"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Người nói yêu cầu giữ nguyên lịch lô gấp và chuyển lô linh hoạt sang tối khi có thể.",
+          "translation": "Lô hàng nào nên giữ khung giờ hiện tại?",
+          "difficulty": 4,
+          "tags": [
+            "shipping"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: Yesterday's simulated phishing exercise showed that most employees reported the message correctly, but several clicked the link before checking the sender. No real credentials were collected during the exercise. Teams with higher click rates will receive a short refresher next week focused on verifying senders and links.",
+      "transcript_vi": "N: Bài diễn tập lừa đảo giả lập hôm qua cho thấy phần lớn nhân viên báo cáo đúng, nhưng một số người đã bấm liên kết trước khi kiểm tra người gửi. Không có thông tin đăng nhập thật nào được thu thập. Các nhóm có tỷ lệ bấm cao sẽ học ôn ngắn vào tuần tới về cách xác minh người gửi và liên kết.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "What problem did the simulated phishing exercise reveal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Most employees submitted real credentials."
+            },
+            {
+              "key": "B",
+              "text": "Some employees clicked before checking the sender."
+            },
+            {
+              "key": "C",
+              "text": "No employee reported the message."
+            },
+            {
+              "key": "D",
+              "text": "All employees verified the link before clicking."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Một số nhân viên nhấp liên kết trước khi kiểm tra người gửi.",
+          "translation": "Bài diễn tập lừa đảo qua mạng cho thấy vấn đề gì?",
+          "difficulty": 4,
+          "tags": [
+            "cybersecurity"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "What does the speaker say about real credentials during the exercise?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They were collected from every participant."
+            },
+            {
+              "key": "B",
+              "text": "None were collected."
+            },
+            {
+              "key": "C",
+              "text": "They included customer account passwords."
+            },
+            {
+              "key": "D",
+              "text": "They were collected from teams with higher click rates."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Người nói xác nhận không thu thập thông tin xác thực thật.",
+          "translation": "Người nói cho biết gì về thông tin xác thực thật trong buổi diễn tập?",
+          "difficulty": 4,
+          "tags": [
+            "cybersecurity"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "Which teams will receive the refresher next week?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Teams with higher click rates"
+            },
+            {
+              "key": "B",
+              "text": "Only teams that did not receive the simulation"
+            },
+            {
+              "key": "C",
+              "text": "Teams that reported every message correctly"
+            },
+            {
+              "key": "D",
+              "text": "Every team that verified the sender before clicking"
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Bài nói cho biết các nhóm có tỷ lệ nhấp cao sẽ được đào tạo bổ sung.",
+          "translation": "Nhóm nào sẽ được đào tạo bổ sung vào tuần tới?",
+          "difficulty": 4,
+          "tags": [
+            "cybersecurity"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "listening",
+      "instructions": "Read or listen to the talk, then choose the option best supported by what the speaker says.",
+      "transcript": "N: All exhibition halls must be clear by 7 P.M. tonight. Freight labels are available at the service desk near Hall A, but carriers cannot enter the loading zone until exhibitors receive a release number. If your carrier is delayed, keep packed freight inside your booth rather than placing it in the aisle.",
+      "transcript_vi": "N: Tất cả khu triển lãm phải được dọn xong trước 7 giờ tối nay. Nhãn hàng hóa có tại bàn dịch vụ gần Hall A, nhưng đơn vị vận chuyển chỉ được vào khu bốc hàng sau khi nhà triển lãm nhận số phát hành. Nếu xe đến trễ, hãy giữ hàng đã đóng gói trong gian hàng thay vì để ngoài lối đi.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "Where can exhibitors obtain freight labels?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At their carrier's truck"
+            },
+            {
+              "key": "B",
+              "text": "The service desk near Hall A"
+            },
+            {
+              "key": "C",
+              "text": "Inside the loading zone"
+            },
+            {
+              "key": "D",
+              "text": "At the entrance to every booth"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Nhãn có sẵn tại quầy dịch vụ gần Hall A.",
+          "translation": "Đơn vị triển lãm có thể lấy nhãn vận chuyển ở đâu?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "What is required before a carrier enters the loading zone?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A second booth reservation"
+            },
+            {
+              "key": "B",
+              "text": "A release number for the exhibitor"
+            },
+            {
+              "key": "C",
+              "text": "An extension of the 7 P.M. closing deadline"
+            },
+            {
+              "key": "D",
+              "text": "A freight label placed in the aisle"
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Đơn vị vận chuyển chỉ được vào sau khi nhà triển lãm nhận mã cho phép.",
+          "translation": "Điều gì cần có trước khi đơn vị vận chuyển vào khu bốc hàng?",
+          "difficulty": 5,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "What should exhibitors do if their carrier is delayed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Place packed freight in the aisle."
+            },
+            {
+              "key": "B",
+              "text": "Leave the freight at the service desk near Hall A."
+            },
+            {
+              "key": "C",
+              "text": "Keep packed freight inside their booth."
+            },
+            {
+              "key": "D",
+              "text": "Move freight into the loading zone without release."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Nếu đơn vị vận chuyển chậm, phải giữ hàng đã đóng gói trong gian hàng.",
+          "translation": "Nhà triển lãm nên làm gì nếu đơn vị vận chuyển đến muộn?",
+          "difficulty": 4,
+          "tags": [
+            "events"
+          ],
+          "skill_tags": [
+            "next-step"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

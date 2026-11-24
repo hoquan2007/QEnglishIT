@@ -1,5 +1,5 @@
 /** Local only. Usage: node scripts/build-tests-from-bank.mjs [--count N]
- * [--type all|grammar|vocab] [--dry-run] [--content-root PATH]
+ * [--start N] [--type all|grammar|vocab] [--dry-run] [--content-root PATH]
  * Count is PER requested type (default 20). Levels cycle in the order below;
  * no borrowing between levels, question reuse, translation fabrication or fallback templates.
  */
@@ -141,18 +141,19 @@ function vocabQuestions(rows) {
   return { questions, headwords: entries.length };
 }
 
-function prefixCapacity(counts, spec) {
+function prefixCapacity(counts, spec, start = 0) {
   let n = 0;
   const remaining = { ...counts };
-  while (remaining[spec.levels[n % spec.levels.length]] >= spec.size) {
-    remaining[spec.levels[n % spec.levels.length]] -= spec.size;
+  while (remaining[spec.levels[(start + n) % spec.levels.length]] >= spec.size) {
+    remaining[spec.levels[(start + n) % spec.levels.length]] -= spec.size;
     n++;
   }
   return n;
 }
 
-export function buildBatch({ grammar, vocab, existing = [] }, { count = 20, type = 'all' } = {}) {
+export function buildBatch({ grammar, vocab, existing = [] }, { count = 20, type = 'all', start = 0 } = {}) {
   if (!Number.isSafeInteger(count) || count < 1 || count > 20) throw new Error('--count must be an integer from 1 to 20');
+  if (!Number.isSafeInteger(start) || start < 0 || start + count > 20) throw new Error('--start and --count must fit within the first 20 tests');
   if (!['all', 'grammar', 'vocab'].includes(type)) throw new Error('--type must be all, grammar or vocab');
   const used = new Set(existing.flatMap(({ test }) => (test.groups ?? []).flatMap(g => (g.questions ?? []).map(questionFingerprint))));
   const v = vocabQuestions(vocab);
@@ -171,14 +172,14 @@ export function buildBatch({ grammar, vocab, existing = [] }, { count = 20, type
     const eligible = Object.fromEntries(spec.levels.map(l => [l, pool[l].length]));
     const requested = type === 'all' || exam === `${type}_test` ? count : 0;
     const required = Object.fromEntries(spec.levels.map(l => [l, 0]));
-    for (let i = 0; i < requested; i++) required[spec.levels[i % spec.levels.length]] += spec.size;
+    for (let i = 0; i < requested; i++) required[spec.levels[(start + i) % spec.levels.length]] += spec.size;
     report[exam] = { raw_rows: exam === 'grammar_test' ? grammar.length : vocab.length,
       ...(exam === 'grammar_test' ? { missing_vietnamese_translation: grammar.filter(q => !vietnamese(q.translation)).length,
         raw_by_level: Object.fromEntries(spec.levels.map(l => [l, grammar.filter(q => q.level === l).length])) }
         : { unique_headwords: v.headwords }),
       eligible_unique_questions: Object.values(eligible).reduce((a, b) => a + b, 0),
       eligible_by_level: eligible, complete_tests_by_level: Object.fromEntries(spec.levels.map(l => [l, Math.floor(eligible[l] / spec.size)])),
-      matrix_prefix_capacity: prefixCapacity(eligible, spec), requested_tests: requested,
+      matrix_prefix_capacity: prefixCapacity(eligible, spec, start), requested_tests: requested,
       required_questions: requested * spec.size, required_by_level: required,
       shortage_by_level: Object.fromEntries(spec.levels.map(l => [l, Math.max(0, required[l] - eligible[l])])) };
   }
@@ -187,7 +188,8 @@ export function buildBatch({ grammar, vocab, existing = [] }, { count = 20, type
   }
   const tests = [];
   const batchFP = new Set(used);
-  for (const [exam, spec] of Object.entries(MATRIX)) for (let i = 0; i < report[exam].requested_tests; i++) {
+  for (const [exam, spec] of Object.entries(MATRIX)) for (let offset = 0; offset < report[exam].requested_tests; offset++) {
+    const i = start + offset;
     const level = spec.levels[i % spec.levels.length];
     const slug = `qe-${exam === 'grammar_test' ? 'grammar' : 'vocab'}-${level.toLowerCase()}-${String(Math.floor(i / spec.levels.length) + 1).padStart(3, '0')}`;
     if (existing.some(({ test }) => test.slug === slug)) throw new Error(`Existing test slug: ${slug}`);
@@ -219,9 +221,9 @@ export function buildBatch({ grammar, vocab, existing = [] }, { count = 20, type
   return { tests, report };
 }
 
-export async function generate({ contentRoot = resolve(dirname(fileURLToPath(import.meta.url)), '../content'), count = 20, type = 'all', dryRun = false } = {}) {
+export async function generate({ contentRoot = resolve(dirname(fileURLToPath(import.meta.url)), '../content'), count = 20, type = 'all', start = 0, dryRun = false } = {}) {
   contentRoot = resolve(contentRoot);
-  const { tests, report } = buildBatch(await loadBanks(contentRoot), { count, type });
+  const { tests, report } = buildBatch(await loadBanks(contentRoot), { count, type, start });
   const targets = tests.map(t => join(contentRoot, 'tests', t.exam_type, `${t.slug}.json`));
   for (const target of targets) {
     try { await lstat(target); throw new Error(`Refusing to overwrite existing test file: ${target}`); }
@@ -262,12 +264,13 @@ export function parseArgs(args) {
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
     if (arg === '--dry-run') opts.dryRun = true;
-    else if (['--count', '--type', '--content-root'].includes(arg)) {
+    else if (['--count', '--start', '--type', '--content-root'].includes(arg)) {
       const value = args[++i];
       if (!value || value.startsWith('--')) throw new Error(`Missing value for ${arg}`);
-      if (arg === '--count') {
-        if (!/^(?:[1-9]|1[0-9]|20)$/.test(value)) throw new Error('--count must be an integer from 1 to 20');
-        opts.count = Number(value);
+      if (arg === '--count' || arg === '--start') {
+        if (!/^\d+$/.test(value) || !Number.isSafeInteger(Number(value))) throw new Error(`${arg} must be a nonnegative integer`);
+        if (arg === '--count' && (Number(value) < 1 || Number(value) > 20)) throw new Error('--count must be an integer from 1 to 20');
+        opts[arg === '--count' ? 'count' : 'start'] = Number(value);
       } else opts[arg === '--type' ? 'type' : 'contentRoot'] = value;
     } else throw new Error(`Unknown argument: ${arg}`);
   }

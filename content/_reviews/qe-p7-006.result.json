@@ -1,0 +1,16 @@
+{
+  "slug": "qe-p7-006",
+  "revision": "914a9f0663525c30a84086940aff2e92804e0ad2a4b0c5790a4bbf51d9bf578a",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 30,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Independent blind review from blind package only.",
+  "admin_sample": [
+    10,
+    25
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

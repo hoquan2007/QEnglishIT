@@ -1,0 +1,150 @@
+{
+  "slug": "qe-p3-004",
+  "content_path": "content/tests/toeic_part/qe-p3-004.json",
+  "title": "TOEIC Part 3 – Hội thoại 04 (Mục tiêu 650)",
+  "exam_type": "toeic_part",
+  "level": "650",
+  "difficulty": 3,
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "sections": [
+    {
+      "key": "part3",
+      "title": "Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "originality": {
+    "authorship": "Original QEnglishIT author content",
+    "external_sources_used": false
+  },
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Conference-room projector calibration",
+      "first_question": 1,
+      "last_question": 3,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Corporate lobby flower delivery",
+      "first_question": 4,
+      "last_question": 6,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Pharmacy prescription pickup",
+      "first_question": 7,
+      "last_question": 9,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Rail ticket exchange",
+      "first_question": 10,
+      "last_question": 12,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Coworking access card replacement",
+      "first_question": 13,
+      "last_question": 15,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Restaurant supplier invoice discrepancy",
+      "first_question": 16,
+      "last_question": 18,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Conference shuttle reservation",
+      "first_question": 19,
+      "last_question": 21,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Bicycle repair pickup",
+      "first_question": 22,
+      "last_question": 24,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Clinic lab-results portal access",
+      "first_question": 25,
+      "last_question": 27,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Retail staff training schedule",
+      "first_question": 28,
+      "last_question": 30,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Construction material delivery timing",
+      "first_question": 31,
+      "last_question": 33,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Business account signatory update",
+      "first_question": 34,
+      "last_question": 36,
+      "question_count": 3
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "context": "Art gallery event setup",
+      "first_question": 37,
+      "last_question": 39,
+      "question_count": 3
+    }
+  ],
+  "answer_plan": {
+    "counts": {
+      "A": 10,
+      "B": 10,
+      "C": 10,
+      "D": 9
+    },
+    "maximum_allowed_streak": 3,
+    "actual_maximum_streak": 1
+  },
+  "review": {
+    "independent_solver_status": "pending",
+    "admin_review_status": "pending",
+    "admin_sample_percent": 5,
+    "admin_sample_count": 2,
+    "blind_review_instruction_vi": "Giải độc lập từ transcript và phương án tiếng Anh. Chỉ đối chiếu đáp án và giải thích sau khi nộp bài."
+  }
+}

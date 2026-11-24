@@ -1,0 +1,17 @@
+{
+  "slug": "qe-vocab-b2-003",
+  "revision": "0c5c2d336db99db92c61e4ded9332895c112c6e9d6ac5527c1cd435e78ad6c59",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Independent blind solution, 50 of 50.",
+  "admin_sample": [
+    12,
+    26,
+    35
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

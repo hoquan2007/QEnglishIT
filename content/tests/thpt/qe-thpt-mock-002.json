@@ -1,0 +1,518 @@
+{
+  "slug": "qe-thpt-mock-002",
+  "title": "Đề luyện thi tiếng Anh THPT 02 – Sáng tạo, Khoa học và Đời sống",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "B1-B2",
+  "cefr": "B1",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": ["THPT", "grammar", "vocabulary", "cloze", "reading"],
+  "sections": [
+    { "key": "use_of_english", "title": "Ngữ pháp, từ vựng và điền từ", "parts": [1, 2, 3, 4], "count": 30, "minutes": 35 },
+    { "key": "reading", "title": "Đọc hiểu", "parts": [5, 6, 7, 8], "count": 20, "minutes": 25 }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the correct word or phrase to complete each sentence.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1, "part": 1, "question_type": "mcq",
+          "question_text": "By the time the workshop started, the technicians ------- the solar panels.",
+          "options": [{"key":"A","text":"inspect"},{"key":"B","text":"have inspected"},{"key":"C","text":"had inspected"},{"key":"D","text":"will inspect"}],
+          "correct_answer": "C",
+          "explanation": "Việc kiểm tra các tấm pin hoàn tất trước lúc buổi hội thảo bắt đầu. Hai hành động đều ở quá khứ, nên hành động xảy ra trước dùng quá khứ hoàn thành 'had inspected'.",
+          "translation": "Câu hoàn chỉnh: Khi buổi hội thảo bắt đầu, các kỹ thuật viên đã kiểm tra xong các tấm pin mặt trời. A. kiểm tra (hiện tại đơn); B. đã kiểm tra (hiện tại hoàn thành); C. đã kiểm tra xong trước mốc quá khứ; D. sẽ kiểm tra.",
+          "difficulty": 3, "tags": ["grammar"], "skill_tags": ["past-perfect"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 2, "part": 1, "question_type": "mcq",
+          "question_text": "Neither the rehearsal leader nor the two violinists ------- available for an extra session today.",
+          "options": [{"key":"A","text":"are"},{"key":"B","text":"is"},{"key":"C","text":"was"},{"key":"D","text":"has been"}],
+          "correct_answer": "A",
+          "explanation": "Với cấu trúc 'neither ... nor', động từ hòa hợp với chủ ngữ gần nhất. 'The two violinists' là số nhiều và 'today' chỉ hiện tại nên chọn 'are'.",
+          "translation": "Cả người phụ trách tập luyện lẫn hai nghệ sĩ vĩ cầm đều không rảnh cho buổi tập bổ sung hôm nay. A. đều đang/có (số nhiều); B. đang/có (số ít); C. đã (quá khứ số ít); D. đã ở trạng thái (hiện tại hoàn thành số ít).",
+          "difficulty": 3, "tags": ["grammar"], "skill_tags": ["subject-verb-agreement"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 3, "part": 1, "question_type": "mcq",
+          "question_text": "The field guide was ------- helpful that beginners could identify most of the plants without assistance.",
+          "options": [{"key":"A","text":"such"},{"key":"B","text":"too"},{"key":"C","text":"enough"},{"key":"D","text":"so"}],
+          "correct_answer": "D",
+          "explanation": "Cấu trúc chỉ kết quả là 'so + tính từ + that + mệnh đề'. 'Helpful' là tính từ, vì vậy cần 'so'; 'such' phải đi với một cụm danh từ.",
+          "translation": "Cuốn cẩm nang thực địa hữu ích đến mức người mới bắt đầu có thể nhận biết hầu hết cây cối mà không cần trợ giúp. A. đến mức (đi với danh từ); B. quá; C. đủ; D. đến mức (đi với tính từ).",
+          "difficulty": 2, "tags": ["grammar"], "skill_tags": ["result-clause"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 4, "part": 1, "question_type": "mcq",
+          "question_text": "The artist ------- sketches were displayed in the hallway has offered to mentor younger students.",
+          "options": [{"key":"A","text":"which"},{"key":"B","text":"whose"},{"key":"C","text":"whom"},{"key":"D","text":"where"}],
+          "correct_answer": "B",
+          "explanation": "Chỗ trống nối 'the artist' với 'sketches' và thể hiện quan hệ sở hữu. Đại từ quan hệ 'whose' đứng trước danh từ 'sketches' là lựa chọn đúng.",
+          "translation": "Người nghệ sĩ có các bản phác thảo được trưng bày ở hành lang đã đề nghị hướng dẫn các học sinh nhỏ tuổi hơn. A. cái mà; B. của người mà; C. người mà (tân ngữ); D. nơi mà.",
+          "difficulty": 3, "tags": ["grammar"], "skill_tags": ["relative-clauses"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 5, "part": 1, "question_type": "mcq",
+          "question_text": "All laboratory waste must ------- in the labeled containers before the room is locked.",
+          "options": [{"key":"A","text":"placing"},{"key":"B","text":"be placed"},{"key":"C","text":"place"},{"key":"D","text":"have placed"}],
+          "correct_answer": "B",
+          "explanation": "Chất thải là đối tượng được đưa vào thùng, nên dùng thể bị động sau động từ khuyết thiếu: 'must + be + past participle', tức 'must be placed'.",
+          "translation": "Toàn bộ chất thải phòng thí nghiệm phải được bỏ vào các thùng có nhãn trước khi khóa phòng. A. đang đặt/bỏ; B. được đặt/bỏ; C. đặt/bỏ (chủ động); D. đã đặt/bỏ (dạng hoàn thành chủ động).",
+          "difficulty": 2, "tags": ["grammar"], "skill_tags": ["modal-passive"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 6, "part": 1, "question_type": "mcq",
+          "question_text": "If the project team had backed up the files last night, it ------- the drawings now.",
+          "options": [{"key":"A","text":"will still have"},{"key":"B","text":"had still had"},{"key":"C","text":"would still have"},{"key":"D","text":"will have had"}],
+          "correct_answer": "C",
+          "explanation": "Mệnh đề 'if' giả định trái với quá khứ ('had backed up'), còn kết quả giả định ở hiện tại ('now'). Câu điều kiện hỗn hợp dùng 'would + động từ nguyên mẫu' ở mệnh đề chính.",
+          "translation": "Nếu nhóm dự án đã sao lưu tệp tối qua, bây giờ họ vẫn còn các bản vẽ. A. sẽ vẫn có; B. đã từng vẫn có; C. hiện giờ sẽ vẫn có (kết quả giả định); D. sẽ đã có.",
+          "difficulty": 4, "tags": ["grammar"], "skill_tags": ["mixed-conditional"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 7, "part": 1, "question_type": "mcq",
+          "question_text": "The science fair judges valued not only creativity ------- careful record keeping.",
+          "options": [{"key":"A","text":"but also"},{"key":"B","text":"as though"},{"key":"C","text":"rather than"},{"key":"D","text":"even if"}],
+          "correct_answer": "A",
+          "explanation": "Cặp liên từ tương quan là 'not only ... but also' để nhấn mạnh hai yếu tố được đánh giá cao: tính sáng tạo và việc ghi chép cẩn thận.",
+          "translation": "Giám khảo hội chợ khoa học coi trọng không chỉ sự sáng tạo mà còn cả việc ghi chép cẩn thận. A. mà còn; B. như thể; C. thay vì; D. ngay cả khi.",
+          "difficulty": 2, "tags": ["grammar"], "skill_tags": ["correlative-conjunctions"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 8, "part": 1, "question_type": "mcq",
+          "question_text": "A thick curtain prevented sunlight ------- the temperature in the experiment room.",
+          "options": [{"key":"A","text":"to change"},{"key":"B","text":"change"},{"key":"C","text":"changed"},{"key":"D","text":"from changing"}],
+          "correct_answer": "D",
+          "explanation": "'Prevent something from doing something' nghĩa là ngăn điều gì gây ra hành động. Vì thế cần 'from changing' sau 'sunlight'.",
+          "translation": "Một tấm rèm dày ngăn ánh nắng làm thay đổi nhiệt độ trong phòng thí nghiệm. A. để thay đổi; B. thay đổi (nguyên mẫu); C. đã thay đổi; D. khỏi việc làm thay đổi.",
+          "difficulty": 3, "tags": ["grammar"], "skill_tags": ["verb-preposition-patterns"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 9, "part": 1, "question_type": "mcq",
+          "question_text": "Only after the guests had left ------- how much food remained.",
+          "options": [{"key":"A","text":"the caterer noticed"},{"key":"B","text":"the caterer has noticed"},{"key":"C","text":"did the caterer notice"},{"key":"D","text":"the caterer will notice"}],
+          "correct_answer": "C",
+          "explanation": "Khi 'Only after + mệnh đề' đứng đầu câu, mệnh đề chính phải đảo trợ động từ trước chủ ngữ. Với quá khứ đơn, cấu trúc là 'did + chủ ngữ + động từ nguyên mẫu'.",
+          "translation": "Chỉ sau khi khách đã ra về, người phụ trách tiệc mới nhận ra còn bao nhiêu thức ăn. A. người phụ trách nhận ra (không đảo); B. người phụ trách đã nhận ra (không đảo); C. người phụ trách mới nhận ra (có đảo ngữ); D. người phụ trách sẽ nhận ra.",
+          "difficulty": 4, "tags": ["grammar"], "skill_tags": ["inversion"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 10, "part": 1, "question_type": "mcq",
+          "question_text": "You ------- the glass container without gloves; its edges were sharp, and you nearly cut your hand.",
+          "options": [{"key":"A","text":"must not carry"},{"key":"B","text":"shouldn't have carried"},{"key":"C","text":"might not carry"},{"key":"D","text":"can't have carried"}],
+          "correct_answer": "B",
+          "explanation": "Người nói đánh giá một hành động đã xảy ra trong quá khứ là thiếu thận trọng. 'Shouldn't have + past participle' diễn tả sự phê bình hoặc tiếc nuối về việc đã làm.",
+          "translation": "Bạn lẽ ra không nên mang chiếc hộp thủy tinh khi không đeo găng; cạnh hộp sắc và bạn suýt đứt tay. A. không được mang (lệnh hiện tại); B. lẽ ra không nên mang; C. có thể sẽ không mang; D. chắc chắn đã không mang.",
+          "difficulty": 3, "tags": ["grammar"], "skill_tags": ["modal-perfect"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 11, "part": 1, "question_type": "mcq",
+          "question_text": "It was ------- unusual request, so the librarian checked the rules twice.",
+          "options": [{"key":"A","text":"an"},{"key":"B","text":"a"},{"key":"C","text":"the"},{"key":"D","text":"some"}],
+          "correct_answer": "A",
+          "explanation": "'Unusual' bắt đầu bằng âm nguyên âm /ʌ/, và 'request' là danh từ đếm được số ít được nhắc đến lần đầu. Mạo từ bất định phù hợp là 'an'.",
+          "translation": "Đó là một yêu cầu khác thường nên thủ thư kiểm tra quy định hai lần. A. một (trước âm nguyên âm); B. một (trước âm phụ âm); C. cái/điều đã xác định; D. một vài.",
+          "difficulty": 2, "tags": ["grammar"], "skill_tags": ["articles"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 12, "part": 1, "question_type": "mcq",
+          "question_text": "------- the final measurements, the researchers cleaned the equipment and locked it away for the winter.",
+          "options": [{"key":"A","text":"Record"},{"key":"B","text":"Had recorded"},{"key":"C","text":"To record"},{"key":"D","text":"Having recorded"}],
+          "correct_answer": "D",
+          "explanation": "Cụm phân từ hoàn thành 'Having + past participle' diễn tả việc ghi số đo đã hoàn tất trước khi nhóm làm sạch và cất thiết bị. 'Had recorded' là động từ chia thì quá khứ hoàn thành, cần chủ ngữ trong một mệnh đề riêng; 'To record' chỉ mục đích và trái với việc cất thiết bị sau khi hoàn thành.",
+          "translation": "Sau khi ghi xong các số đo cuối cùng, các nhà nghiên cứu làm sạch rồi cất thiết bị cho mùa đông. A. ghi lại (nguyên mẫu); B. đã ghi lại (quá khứ hoàn thành cần chủ ngữ); C. để ghi lại; D. sau khi đã ghi lại.",
+          "difficulty": 4, "tags": ["grammar"], "skill_tags": ["perfect-participle"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 13, "part": 1, "question_type": "mcq",
+          "question_text": "The new timetable requires ------- buses during the afternoon because most students leave before noon.",
+          "options": [{"key":"A","text":"less"},{"key":"B","text":"little"},{"key":"C","text":"fewer"},{"key":"D","text":"much"}],
+          "correct_answer": "C",
+          "explanation": "'Buses' là danh từ đếm được số nhiều. Để diễn tả số lượng ít hơn, cần dùng 'fewer', còn 'less', 'little' và 'much' thường đi với danh từ không đếm được.",
+          "translation": "Thời khóa biểu mới cần ít xe buýt hơn vào buổi chiều vì hầu hết học sinh rời trường trước buổi trưa. A. ít hơn (không đếm được); B. ít (không đếm được); C. ít hơn (đếm được); D. nhiều (không đếm được).",
+          "difficulty": 2, "tags": ["grammar"], "skill_tags": ["quantifiers"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 14, "part": 1, "question_type": "mcq",
+          "question_text": "It was not until the safety checks were complete ------- the students were allowed into the laboratory.",
+          "options": [{"key":"A","text":"that"},{"key":"B","text":"when"},{"key":"C","text":"which"},{"key":"D","text":"what"}],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc nhấn mạnh thời gian 'It was not until + mốc thời gian + that + mệnh đề' dùng 'that' để nối với sự việc chỉ xảy ra sau khi hoàn tất kiểm tra an toàn. 'When', 'which' và 'what' không hoàn thành đúng cấu trúc câu chẻ này.",
+          "translation": "Mãi đến khi việc kiểm tra an toàn hoàn tất, học sinh mới được phép vào phòng thí nghiệm. A. rằng/thì (liên từ trong câu chẻ); B. khi; C. cái mà; D. điều gì.",
+          "difficulty": 4, "tags": ["grammar"], "skill_tags": ["cleft-sentences"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 15, "part": 1, "question_type": "mcq",
+          "question_text": "The school policy requires that every competition entry ------- anonymously.",
+          "options": [{"key":"A","text":"judged"},{"key":"B","text":"be judged"},{"key":"C","text":"is judging"},{"key":"D","text":"has judged"}],
+          "correct_answer": "B",
+          "explanation": "Sau 'require that', mệnh đề giả định dùng động từ nguyên mẫu không 'to'. Vì bài dự thi được chấm, dùng bị động giả định 'be judged'.",
+          "translation": "Quy định của trường yêu cầu mọi bài dự thi phải được chấm một cách ẩn danh. A. đã chấm; B. được chấm (giả định bị động); C. đang chấm; D. đã chấm xong (chủ động).",
+          "difficulty": 4, "tags": ["grammar"], "skill_tags": ["mandative-subjunctive"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Choose the most suitable word, phrase, or response in each context.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 16, "part": 2, "question_type": "mcq",
+          "question_text": "The director praised the student team's ------- approach to reducing electricity use because they tested several ideas before choosing one.",
+          "options": [{"key":"A","text":"accidental"},{"key":"B","text":"temporary"},{"key":"C","text":"unrelated"},{"key":"D","text":"systematic"}],
+          "correct_answer": "D",
+          "explanation": "Việc thử lần lượt nhiều giải pháp rồi mới lựa chọn cho thấy cách tiếp cận có hệ thống ('systematic'), không phải ngẫu nhiên, tạm thời hay không liên quan.",
+          "translation": "Giám đốc khen ngợi cách tiếp cận có hệ thống của nhóm học sinh nhằm giảm điện năng tiêu thụ vì các em đã thử nhiều ý tưởng trước khi lựa chọn. A. tình cờ/ngẫu nhiên; B. tạm thời; C. không liên quan; D. có hệ thống.",
+          "difficulty": 3, "tags": ["vocabulary"], "skill_tags": ["adjectives-in-context"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 17, "part": 2, "question_type": "mcq",
+          "question_text": "Because the path was poorly lit, the hikers decided to ------- their walk until sunrise.",
+          "options": [{"key":"A","text":"postpone"},{"key":"B","text":"extend"},{"key":"C","text":"supervise"},{"key":"D","text":"restore"}],
+          "correct_answer": "A",
+          "explanation": "Con đường thiếu ánh sáng khiến nhóm đi bộ quyết định hoãn đến lúc mặt trời mọc. 'Postpone ... until ...' có nghĩa là trì hoãn một việc đến thời điểm cụ thể.",
+          "translation": "Vì lối đi thiếu ánh sáng, những người leo núi quyết định hoãn chuyến đi bộ đến lúc mặt trời mọc. A. hoãn; B. kéo dài; C. giám sát; D. khôi phục.",
+          "difficulty": 2, "tags": ["vocabulary"], "skill_tags": ["verb-meaning"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 18, "part": 2, "question_type": "mcq",
+          "question_text": "The journalist checked the figures with two separate sources to ensure their -------.",
+          "options": [{"key":"A","text":"popularity"},{"key":"B","text":"generosity"},{"key":"C","text":"accuracy"},{"key":"D","text":"similarity"}],
+          "correct_answer": "C",
+          "explanation": "Kiểm tra số liệu qua hai nguồn nhằm bảo đảm độ chính xác ('accuracy'). Các danh từ còn lại nói về mức phổ biến, sự hào phóng hoặc sự giống nhau nên không phù hợp mục đích xác minh.",
+          "translation": "Nhà báo kiểm tra các con số với hai nguồn độc lập để bảo đảm tính chính xác của chúng. A. sự phổ biến; B. sự hào phóng; C. độ chính xác; D. sự tương đồng.",
+          "difficulty": 2, "tags": ["vocabulary"], "skill_tags": ["abstract-nouns"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 19, "part": 2, "question_type": "mcq",
+          "question_text": "A: 'I couldn't attend the workshop. Could you share your notes?' B: '-------'",
+          "options": [{"key":"A","text":"I don't know why the workshop was canceled."},{"key":"B","text":"Of course. I'll send them this evening."},{"key":"C","text":"It was held in the main auditorium."},{"key":"D","text":"I'm not sure when the next workshop starts."}],
+          "correct_answer": "B",
+          "explanation": "Người A nhờ chia sẻ ghi chép vì không tham dự được. Câu 'Of course. I'll send them this evening' vừa đồng ý vừa cho biết lúc gửi, trực tiếp đáp ứng lời nhờ.",
+          "translation": "A: 'Mình không thể dự buổi hội thảo. Bạn chia sẻ ghi chép được không?' B: A. 'Mình không biết vì sao buổi hội thảo bị hủy.'; B. 'Tất nhiên. Mình sẽ gửi tối nay.'; C. 'Buổi hội thảo diễn ra ở hội trường chính.'; D. 'Mình không chắc khi nào buổi tiếp theo bắt đầu.'",
+          "difficulty": 2, "tags": ["communication"], "skill_tags": ["requests-and-responses"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 20, "part": 2, "question_type": "mcq",
+          "question_text": "A: 'I appreciate you checking the equipment before the trip.' B: '-------'",
+          "options": [{"key":"A","text":"I haven't been on that trip yet."},{"key":"B","text":"I don't need any equipment."},{"key":"C","text":"The trip begins at seven."},{"key":"D","text":"You're welcome. I'm glad everything is ready."}],
+          "correct_answer": "D",
+          "explanation": "Lời của A thể hiện sự biết ơn. B nên đáp lại lịch sự và thừa nhận công việc đã hoàn tất; 'You're welcome' phù hợp nhất.",
+          "translation": "A: 'Mình cảm ơn bạn đã kiểm tra thiết bị trước chuyến đi.' B: A. 'Mình chưa tham gia chuyến đó.'; B. 'Mình không cần thiết bị.'; C. 'Chuyến đi bắt đầu lúc bảy giờ.'; D. 'Không có gì. Mình vui vì mọi thứ đã sẵn sàng.'",
+          "difficulty": 2, "tags": ["communication"], "skill_tags": ["thanks-and-responses"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the text about a school lending program and choose the best option for each numbered blank.",
+      "source": "original",
+      "passage": "At Elmford Secondary School, students sometimes needed a calculator for a single afternoon, but buying one was expensive. The student council proposed a lending locker outside the science room. Before the locker opened, a volunteer team -------(21)------- a simple booking form. Each calculator carries a number -------(22)------- matches the label on its storage slot. Borrowers are normally expected to return a calculator by the stated deadline. They receive a reminder one hour beforehand. -------(23)-------, they may request an extra day if no other student has reserved the device. The council expected only a few students to participate, -------(24)------- more than ninety borrowed a calculator during the first month. Because several devices were returned with weak batteries, the team introduced a new rule. Each calculator must be tested -------(25)------- it goes back onto the shelf. The council plans to review the system at the end of term, using both borrowing records and anonymous student comments.",
+      "passage_vi": "Tại Trường Trung học Elmford, đôi khi học sinh chỉ cần máy tính cầm tay trong một buổi chiều nhưng mua máy riêng khá tốn kém. Hội học sinh đề xuất đặt một tủ cho mượn thiết bị bên ngoài phòng khoa học. Trước khi tủ đi vào hoạt động, một nhóm tình nguyện viên -------(21)------- một mẫu đăng ký mượn đơn giản. Mỗi máy tính có một mã số -------(22)------- khớp với nhãn trên ô cất giữ. Thông thường, người mượn được yêu cầu trả máy đúng hạn quy định. Các em nhận lời nhắc một giờ trước thời hạn đó. -------(23)-------, các em có thể xin mượn thêm một ngày nếu chưa có ai khác đặt trước thiết bị. Hội học sinh dự kiến chỉ có một ít học sinh tham gia, -------(24)------- hơn chín mươi em đã mượn máy trong tháng đầu tiên. Vì một số máy được trả lại khi pin yếu, nhóm đã bổ sung quy định mới. Mỗi máy phải được kiểm tra -------(25)------- đưa trở lại giá. Hội học sinh dự định đánh giá hệ thống vào cuối học kỳ dựa trên cả hồ sơ mượn thiết bị và ý kiến ẩn danh của học sinh.",
+      "questions": [
+        {
+          "number": 21, "part": 3, "question_type": "mcq", "question_text": "Which verb form best completes blank (21) in the Elmford lending-locker passage?",
+          "options": [{"key":"A","text":"designs"},{"key":"B","text":"had designed"},{"key":"C","text":"is designing"},{"key":"D","text":"will design"}],
+          "correct_answer": "B",
+          "explanation": "Nhóm đã thiết kế biểu mẫu trước thời điểm tủ cho mượn bắt đầu hoạt động. 'Had designed' thể hiện một hành động hoàn tất trước mốc quá khứ 'the locker opened'.",
+          "translation": "Dạng động từ nào phù hợp nhất ở chỗ trống (21) trong bài về tủ cho mượn thiết bị Elmford? A. thiết kế (hiện tại đơn); B. đã thiết kế xong trước đó; C. đang thiết kế; D. sẽ thiết kế.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["past-perfect-in-context"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 22, "part": 3, "question_type": "mcq", "question_text": "Which relative word best completes blank (22) in the Elmford lending-locker passage?",
+          "options": [{"key":"A","text":"that"},{"key":"B","text":"whose"},{"key":"C","text":"where"},{"key":"D","text":"whom"}],
+          "correct_answer": "A",
+          "explanation": "'A number' là danh từ chỉ vật làm chủ ngữ cho động từ 'matches'. Đại từ quan hệ 'that' nối mệnh đề xác định, còn 'whose', 'where', 'whom' không đúng chức năng tại đây.",
+          "translation": "Từ quan hệ nào phù hợp nhất với chỗ trống (22) trong bài về tủ cho mượn thiết bị Elmford? A. mà/cái mà; B. của ai/của cái gì; C. nơi mà; D. người mà (tân ngữ). Câu văn nói rằng mỗi máy có một mã số khớp với nhãn ở ô chứa.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["relative-pronouns"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 23, "part": 3, "question_type": "mcq", "question_text": "Which linking expression best completes blank (23) in the Elmford lending-locker passage?",
+          "options": [{"key":"A","text":"For example"},{"key":"B","text":"As a result"},{"key":"C","text":"In the meantime"},{"key":"D","text":"However"}],
+          "correct_answer": "D",
+          "explanation": "Câu trước nhắc đến thời hạn trả và lời nhắc, câu sau nêu ngoại lệ cho phép gia hạn khi máy chưa được đặt. 'However' tạo liên kết tương phản phù hợp giữa quy định và sự linh hoạt.",
+          "translation": "Cụm từ nối nào phù hợp nhất ở chỗ trống (23) trong bài về tủ cho mượn thiết bị Elmford? A. ví dụ; B. vì thế; C. trong lúc đó; D. tuy nhiên. Ý câu sau: học sinh vẫn có thể xin mượn thêm một ngày nếu không ai đặt trước máy.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["contrast-linker"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 24, "part": 3, "question_type": "mcq", "question_text": "Which conjunction best completes blank (24) in the Elmford lending-locker passage?",
+          "options": [{"key":"A","text":"because"},{"key":"B","text":"unless"},{"key":"C","text":"yet"},{"key":"D","text":"so"}],
+          "correct_answer": "C",
+          "explanation": "Dự đoán chỉ vài người tham gia trái với kết quả hơn chín mươi người mượn máy. 'Yet' biểu thị sự tương phản giữa kỳ vọng và thực tế.",
+          "translation": "Liên từ nào phù hợp nhất ở chỗ trống (24) trong bài về tủ cho mượn thiết bị Elmford? A. bởi vì; B. trừ khi; C. thế nhưng; D. vì vậy. Hội học sinh chỉ dự đoán ít người tham gia nhưng thực tế hơn chín mươi học sinh đã mượn máy.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["logical-contrast"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 25, "part": 3, "question_type": "mcq", "question_text": "Which word best completes blank (25) in the Elmford lending-locker passage?",
+          "options": [{"key":"A","text":"before"},{"key":"B","text":"despite"},{"key":"C","text":"unless"},{"key":"D","text":"whereas"}],
+          "correct_answer": "A",
+          "explanation": "Quy định yêu cầu kiểm tra thiết bị rồi mới đặt lại lên giá. 'Before' nối đúng hai hành động theo thứ tự thời gian. 'Despite' cũng không thể nối trực tiếp với mệnh đề như trong câu này.",
+          "translation": "Từ nào phù hợp nhất ở chỗ trống (25) trong bài về tủ cho mượn thiết bị Elmford? A. trước khi; B. mặc dù/bất chấp; C. trừ khi; D. trong khi (tương phản). Câu hoàn chỉnh: Mỗi máy phải được kiểm tra trước khi được đặt lại lên giá.",
+          "difficulty": 2, "tags": ["cloze"], "skill_tags": ["time-conjunctions"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "use_of_english",
+      "instructions": "Read the text about an experimental food container and select the best option for each blank.",
+      "source": "original",
+      "passage": "Some restaurants in Windmere wanted to replace plastic sauce cups, but paper containers became soft when filled with hot food. A group of college students experimented with thin sheets made from seaweed. At first, the material -------(26)------- quickly in warm water, so they added a coating made from rice starch. The new cup stayed firm for nearly an hour, -------(27)------- made it more suitable for takeaway meals. Rather than selling it immediately, the team asked four cafés to test the cups for two weeks. Customers were invited to -------(28)------- the cup's strength and smell using a short survey. Most liked the design, but several said the lids were difficult to close. The students changed the lids -------(29)------- the feedback, then repeated the trial. Their final report notes that production is still costly. -------(30)-------, the project shows how carefully collected feedback can improve an idea. The team has published its testing method so other students can examine the results.",
+      "passage_vi": "Một số nhà hàng ở Windmere muốn thay các cốc nhựa đựng nước sốt, nhưng hộp giấy lại mềm ra khi chứa đồ ăn nóng. Một nhóm sinh viên thử nghiệm những tấm mỏng làm từ rong biển. Ban đầu, vật liệu -------(26)------- nhanh trong nước ấm, nên các em thêm lớp phủ làm từ tinh bột gạo. Chiếc cốc mới giữ được độ cứng gần một giờ, -------(27)------- khiến nó phù hợp hơn với đồ ăn mang đi. Thay vì bán ngay, nhóm đề nghị bốn quán cà phê thử những chiếc cốc trong hai tuần. Khách hàng được mời -------(28)------- độ bền và mùi của cốc qua một bảng khảo sát ngắn. Phần lớn thích thiết kế, nhưng một số người nói nắp rất khó đóng. Sinh viên thay đổi nắp -------(29)------- những góp ý, rồi thử nghiệm lại. Báo cáo cuối cùng ghi nhận rằng việc sản xuất vẫn tốn kém. -------(30)-------, dự án cho thấy việc thu thập phản hồi cẩn thận có thể cải thiện một ý tưởng. Nhóm đã công bố phương pháp thử nghiệm để những sinh viên khác kiểm tra kết quả.",
+      "questions": [
+        {
+          "number": 26, "part": 4, "question_type": "mcq", "question_text": "Which verb best completes blank (26) in the Windmere seaweed-container passage?",
+          "options": [{"key":"A","text":"is dissolving"},{"key":"B","text":"will dissolve"},{"key":"C","text":"dissolved"},{"key":"D","text":"has dissolved"}],
+          "correct_answer": "C",
+          "explanation": "'At first' và hành động tiếp sau 'they added' đặt thử nghiệm ở quá khứ. Quá khứ đơn 'dissolved' miêu tả hiện tượng vật liệu đã tan trong lần thử đầu.",
+          "translation": "Dạng động từ nào phù hợp nhất ở chỗ trống (26) trong bài về cốc làm từ rong biển Windmere? A. đang tan; B. sẽ tan; C. đã tan; D. đã tan (hiện tại hoàn thành). Câu nói rằng ban đầu vật liệu tan nhanh trong nước ấm.",
+          "difficulty": 2, "tags": ["cloze"], "skill_tags": ["narrative-tense"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 27, "part": 4, "question_type": "mcq", "question_text": "Which relative word best completes blank (27) in the Windmere seaweed-container passage?",
+          "options": [{"key":"A","text":"who"},{"key":"B","text":"where"},{"key":"C","text":"what"},{"key":"D","text":"which"}],
+          "correct_answer": "D",
+          "explanation": "Mệnh đề sau dấu phẩy nhận xét toàn bộ việc chiếc cốc giữ độ cứng gần một giờ. 'Which' có thể thay cho cả mệnh đề đứng trước trong mệnh đề quan hệ không xác định.",
+          "translation": "Từ quan hệ nào phù hợp nhất ở chỗ trống (27) trong bài về cốc làm từ rong biển Windmere? A. người mà; B. nơi mà; C. điều gì; D. điều này/cái mà. Việc chiếc cốc giữ độ cứng gần một giờ khiến nó phù hợp hơn với đồ ăn mang đi.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["nondefining-relative-clause"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 28, "part": 4, "question_type": "mcq", "question_text": "Which verb best completes blank (28) in the Windmere seaweed-container passage?",
+          "options": [{"key":"A","text":"conceal"},{"key":"B","text":"evaluate"},{"key":"C","text":"deliver"},{"key":"D","text":"repair"}],
+          "correct_answer": "B",
+          "explanation": "Bảng khảo sát yêu cầu khách hàng đánh giá độ bền và mùi của chiếc cốc. 'Evaluate' nghĩa là đánh giá, còn các lựa chọn khác không diễn tả hành động đưa ra nhận xét về sản phẩm.",
+          "translation": "Động từ nào phù hợp nhất ở chỗ trống (28) trong bài về cốc làm từ rong biển Windmere? A. che giấu; B. đánh giá; C. giao hàng; D. sửa chữa. Khách được mời đánh giá độ bền và mùi của cốc bằng khảo sát.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["vocabulary-in-context"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 29, "part": 4, "question_type": "mcq", "question_text": "Which phrase best completes blank (29) in the Windmere seaweed-container passage?",
+          "options": [{"key":"A","text":"in response to"},{"key":"B","text":"on behalf of"},{"key":"C","text":"apart from"},{"key":"D","text":"in place of"}],
+          "correct_answer": "A",
+          "explanation": "Sinh viên sửa nắp vì phản hồi từ người dùng cho thấy nắp khó đóng. 'In response to' diễn tả hành động được thực hiện để đáp lại một ý kiến hoặc tình huống.",
+          "translation": "Cụm từ nào phù hợp nhất ở chỗ trống (29) trong bài về cốc làm từ rong biển Windmere? A. để đáp lại; B. thay mặt cho; C. ngoài ra/ngoại trừ; D. thay cho. Nhóm đã đổi nắp để đáp lại góp ý của khách hàng.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["prepositional-phrases"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 30, "part": 4, "question_type": "mcq", "question_text": "Which transition best completes blank (30) in the Windmere seaweed-container passage?",
+          "options": [{"key":"A","text":"Therefore"},{"key":"B","text":"For instance"},{"key":"C","text":"Nevertheless"},{"key":"D","text":"Similarly"}],
+          "correct_answer": "C",
+          "explanation": "Báo cáo thừa nhận chi phí sản xuất vẫn cao nhưng vẫn nêu giá trị học hỏi của dự án. 'Nevertheless' thể hiện quan hệ nhượng bộ giữa khó khăn về chi phí và kết luận tích cực.",
+          "translation": "Từ chuyển ý nào phù hợp nhất ở chỗ trống (30) trong bài về cốc làm từ rong biển Windmere? A. vì vậy; B. ví dụ; C. tuy vậy; D. tương tự. Dù sản xuất còn tốn kém, dự án vẫn cho thấy phản hồi có thể giúp cải thiện ý tưởng.",
+          "difficulty": 3, "tags": ["cloze"], "skill_tags": ["concession-linker"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the article about frost monitoring in orchards and answer the questions.",
+      "source": "original",
+      "passage": "On the slopes above Lanton, fruit growers had long relied on a single weather station in the valley to predict frost. Yet trees higher up sometimes suffered damage even when the station reported safe temperatures. Last autumn, three growers attached small thermometers at different heights among their apple trees. The devices recorded temperatures every ten minutes. On clear nights, cold air settled in low pockets between rows, while exposed ridges remained slightly warmer. After comparing a month of readings, the growers realized the valley station was missing these local patterns. Rather than warming entire orchards, they now protect only the most vulnerable rows with reusable fabric covers. This reduces electricity use, although workers must check the covers before sunrise so that branches are not bent. At the cooperative office, the growers display a map showing where cold spots occurred each week. They emphasize that one season's data cannot represent every winter, so they plan to monitor the orchards for three more years.",
+      "passage_vi": "Trên những sườn đồi phía trên Lanton, người trồng cây ăn quả từ lâu dựa vào một trạm thời tiết duy nhất trong thung lũng để dự báo sương giá. Tuy nhiên, cây ở vị trí cao hơn đôi khi vẫn bị hư hại ngay cả khi trạm báo nhiệt độ an toàn. Mùa thu năm ngoái, ba người trồng cây gắn những nhiệt kế nhỏ ở các độ cao khác nhau giữa các cây táo. Thiết bị ghi nhiệt độ mỗi mười phút. Vào những đêm trời quang, không khí lạnh đọng lại tại các vùng trũng thấp giữa các hàng cây, trong khi những sống đồi thoáng gió lại ấm hơn đôi chút. Sau khi so sánh số đo trong một tháng, những người trồng cây nhận ra trạm trong thung lũng đã bỏ sót các quy luật nhiệt độ cục bộ này. Thay vì sưởi ấm toàn bộ vườn cây, giờ đây họ chỉ che những hàng cây dễ bị ảnh hưởng nhất bằng tấm phủ vải có thể tái sử dụng. Việc này giảm lượng điện tiêu thụ, dù công nhân vẫn phải kiểm tra tấm phủ trước bình minh để tránh làm cong cành. Tại văn phòng hợp tác xã, người trồng cây trưng bày bản đồ thể hiện những điểm lạnh xuất hiện mỗi tuần. Họ nhấn mạnh rằng số liệu của một mùa chưa thể đại diện cho mọi mùa đông, nên dự định tiếp tục theo dõi các vườn cây thêm ba năm.",
+      "questions": [
+        {
+          "number": 31, "part": 5, "question_type": "mcq", "question_text": "Why did the Lanton growers place thermometers at several heights?",
+          "options": [{"key":"A","text":"To check whether the apples were ready for sale."},{"key":"B","text":"To detect temperature differences the valley station missed."},{"key":"C","text":"To measure how quickly the trees were growing."},{"key":"D","text":"To replace the cooperative's weekly maps with advertisements."}],
+          "correct_answer": "B",
+          "explanation": "Bài nêu trạm thời tiết ở thung lũng báo an toàn nhưng một số cây vẫn bị sương giá làm hư hại. Các nhiệt kế đặt ở nhiều độ cao giúp phát hiện chênh lệch nhiệt độ cục bộ mà trạm duy nhất bỏ sót.",
+          "translation": "Vì sao người trồng cây ở Lanton đặt nhiệt kế tại nhiều độ cao? A. Để kiểm tra táo đã sẵn sàng bán chưa; B. Để phát hiện chênh lệch nhiệt độ mà trạm trong thung lũng bỏ sót; C. Để đo tốc độ sinh trưởng của cây; D. Để thay bản đồ hàng tuần của hợp tác xã bằng quảng cáo.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-cause"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 32, "part": 5, "question_type": "mcq", "question_text": "According to the passage, where did cold air tend to collect on clear nights?",
+          "options": [{"key":"A","text":"On the exposed ridges."},{"key":"B","text":"Inside the cooperative's office."},{"key":"C","text":"Above the roof of the weather station."},{"key":"D","text":"In low pockets between the orchard rows."}],
+          "correct_answer": "D",
+          "explanation": "Đoạn văn ghi rõ 'cold air settled in low pockets between rows'. Các sống đồi thoáng gió lại ấm hơn, vì vậy phương án A trái thông tin bài.",
+          "translation": "Theo bài đọc, không khí lạnh thường tích tụ ở đâu vào những đêm trời quang? A. Trên các sống đồi thoáng gió; B. Trong văn phòng hợp tác xã; C. Phía trên mái trạm thời tiết; D. Tại các vùng trũng thấp giữa các hàng cây ăn quả.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-detail"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 33, "part": 5, "question_type": "mcq", "question_text": "What new action did the growers take after studying their measurements?",
+          "options": [{"key":"A","text":"They covered only the rows most likely to suffer frost damage."},{"key":"B","text":"They began heating every tree throughout the night."},{"key":"C","text":"They moved all their apple trees into the valley."},{"key":"D","text":"They stopped checking conditions before sunrise."}],
+          "correct_answer": "A",
+          "explanation": "Sau khi có dữ liệu, họ dùng tấm vải tái sử dụng để che các hàng cây dễ gặp sương giá nhất, thay cho việc sưởi ấm toàn bộ vườn. Bài còn nói công nhân vẫn kiểm tra trước bình minh.",
+          "translation": "Người trồng cây đã làm gì sau khi nghiên cứu số đo? A. Chỉ che các hàng cây dễ bị hư hại do sương giá nhất; B. Bắt đầu sưởi toàn bộ cây suốt đêm; C. Chuyển tất cả cây táo xuống thung lũng; D. Ngừng kiểm tra điều kiện trước bình minh.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-sequence"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 34, "part": 5, "question_type": "mcq", "question_text": "The word 'vulnerable' in the passage is closest in meaning to -------.",
+          "options": [{"key":"A","text":"fully protected"},{"key":"B","text":"financially successful"},{"key":"C","text":"easily harmed"},{"key":"D","text":"recently planted"}],
+          "correct_answer": "C",
+          "explanation": "Trong ngữ cảnh che cây khỏi sương giá, 'the most vulnerable rows' là những hàng cây có nguy cơ bị hư hại cao nhất. 'Easily harmed' diễn tả đúng ý 'dễ bị tổn hại'.",
+          "translation": "Từ 'vulnerable' trong bài gần nghĩa nhất với từ/cụm nào? A. được bảo vệ hoàn toàn; B. thành công về tài chính; C. dễ bị tổn hại; D. mới được trồng.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["vocabulary-in-context"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 35, "part": 5, "question_type": "mcq", "question_text": "Which conclusion is best supported by the Lanton growers' experience?",
+          "options": [{"key":"A","text":"A single month's results can describe every future winter."},{"key":"B","text":"Temperature readings are unnecessary once fabric covers are bought."},{"key":"C","text":"The warmest orchard rows always produce the largest apples."},{"key":"D","text":"Local measurements can guide protection, but longer monitoring is still valuable."}],
+          "correct_answer": "D",
+          "explanation": "Dữ liệu nhiệt độ chi tiết giúp họ quyết định che đúng hàng cây, nhưng bài cũng nhấn mạnh số liệu một mùa chưa đủ nên sẽ đo thêm ba năm. Phương án D tổng hợp cả hai ý.",
+          "translation": "Kết luận nào được trải nghiệm của người trồng cây Lanton ủng hộ rõ nhất? A. Kết quả một tháng mô tả được mọi mùa đông tương lai; B. Không cần đo nhiệt độ sau khi mua tấm phủ; C. Hàng cây ấm nhất luôn cho táo lớn nhất; D. Số đo tại chỗ hỗ trợ việc bảo vệ cây, nhưng theo dõi lâu dài vẫn có giá trị.",
+          "difficulty": 4, "tags": ["reading-comprehension"], "skill_tags": ["reading-inference"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the account of a museum accessibility project and answer the questions.",
+      "source": "original",
+      "passage": "At the Meridian Maritime Museum, a gallery of old navigation instruments was popular with school groups, but visitors with limited vision often relied entirely on spoken descriptions. A design class partnered with the museum to produce raised-line diagrams of three instruments. The students used smooth ridges for metal arms and dotted surfaces for labels, allowing visitors to distinguish parts by touch. After a trial visit, several guests said the diagrams were too wide to explore comfortably. The class made them smaller and added brief spoken descriptions activated by a button. The diagrams were positioned beside modern replicas because the original instruments were too fragile to handle. Staff decided to evaluate success through interviews as well as counts of diagram use. They wanted to know which details visitors could recognize without assistance. For next semester, the class proposes a diagram of an early compass. Before putting it on display, the students will ask visitors to test whether the symbols are easy to distinguish.",
+      "passage_vi": "Tại Bảo tàng Hàng hải Meridian, khu trưng bày các dụng cụ định hướng cổ rất được các đoàn học sinh yêu thích, nhưng khách có thị lực hạn chế thường hoàn toàn phụ thuộc vào phần thuyết minh bằng lời. Một lớp thiết kế hợp tác với bảo tàng để tạo sơ đồ có đường nét nổi cho ba dụng cụ. Học sinh dùng các đường gờ nhẵn để biểu thị những thanh kim loại và bề mặt chấm nổi cho nhãn, giúp khách phân biệt các bộ phận bằng xúc giác. Sau buổi tham quan thử, một số khách nhận xét các sơ đồ quá rộng nên khó khám phá một cách thoải mái. Lớp đã thu nhỏ sơ đồ và bổ sung phần mô tả ngắn bằng giọng nói, có thể bật bằng nút bấm. Các sơ đồ được đặt cạnh bản sao hiện đại vì dụng cụ gốc quá mong manh để cầm chạm. Nhân viên quyết định đánh giá hiệu quả bằng phỏng vấn và bằng số lượt sử dụng sơ đồ. Họ muốn biết khách có thể tự nhận biết những chi tiết nào mà không cần hỗ trợ. Trong học kỳ tới, lớp đề xuất tạo sơ đồ của một loại la bàn thời kỳ đầu. Trước khi đưa vào trưng bày, học sinh sẽ nhờ khách thử xem các ký hiệu có dễ phân biệt hay không.",
+      "questions": [
+        {
+          "number": 36, "part": 6, "question_type": "mcq", "question_text": "What problem prompted the design class to collaborate with the museum?",
+          "options": [{"key":"A","text":"The museum's original instruments had been lost."},{"key":"B","text":"Visitors with limited vision needed more ways to explore the instruments."},{"key":"C","text":"School groups had stopped visiting the gallery."},{"key":"D","text":"The museum could not afford printed entrance tickets."}],
+          "correct_answer": "B",
+          "explanation": "Khách có thị lực hạn chế trước đó phải phụ thuộc vào lời thuyết minh. Lớp thiết kế tạo sơ đồ nổi để họ tiếp cận hình dạng và các chi tiết bằng xúc giác.",
+          "translation": "Vấn đề nào khiến lớp thiết kế hợp tác với bảo tàng? A. Các dụng cụ gốc của bảo tàng bị thất lạc; B. Khách có thị lực hạn chế cần thêm cách khám phá các dụng cụ; C. Các đoàn học sinh đã ngừng tham quan; D. Bảo tàng không đủ tiền in vé vào cửa.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-purpose"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 37, "part": 6, "question_type": "mcq", "question_text": "What did some visitors report after the first trial visit?",
+          "options": [{"key":"A","text":"The diagrams were too small to locate."},{"key":"B","text":"The original instruments were too colorful."},{"key":"C","text":"The raised diagrams were too wide to examine comfortably."},{"key":"D","text":"The gallery had no written directions to the exit."}],
+          "correct_answer": "C",
+          "explanation": "Khách nhận xét sơ đồ 'too wide to explore comfortably', vì thế lớp thu nhỏ chúng ở bản cải tiến. Điều này loại trừ phương án A nói sơ đồ quá nhỏ.",
+          "translation": "Một số khách nhận xét gì sau buổi tham quan thử đầu tiên? A. Sơ đồ quá nhỏ nên khó tìm; B. Dụng cụ gốc quá sặc sỡ; C. Sơ đồ nổi quá rộng để xem xét thoải mái; D. Khu trưng bày không có chỉ dẫn viết đến lối ra.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-detail"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 38, "part": 6, "question_type": "mcq", "question_text": "Why were the diagrams displayed next to modern replicas?",
+          "options": [{"key":"A","text":"The original navigation instruments were too fragile to touch."},{"key":"B","text":"The replicas were older than the original instruments."},{"key":"C","text":"The museum planned to sell every original instrument."},{"key":"D","text":"The replicas could automatically translate all spoken descriptions."}],
+          "correct_answer": "A",
+          "explanation": "Bài giải thích rõ dụng cụ gốc 'were too fragile to handle'. Bố trí cạnh bản sao giúp khách tiếp cận mô hình mà vẫn bảo vệ hiện vật dễ hỏng.",
+          "translation": "Vì sao sơ đồ được trưng bày cạnh các bản sao hiện đại? A. Dụng cụ định hướng gốc quá mong manh để chạm vào; B. Các bản sao có tuổi đời lớn hơn hiện vật gốc; C. Bảo tàng định bán mọi dụng cụ gốc; D. Các bản sao có thể tự dịch mọi phần thuyết minh.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-cause"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 39, "part": 6, "question_type": "mcq", "question_text": "Why did the museum staff plan interviews in addition to counting diagram use?",
+          "options": [{"key":"A","text":"To find out which students owned the museum replicas."},{"key":"B","text":"To recruit visitors to repair damaged instruments."},{"key":"C","text":"To ask guests to choose the museum's opening hours."},{"key":"D","text":"To learn which details visitors could identify on their own."}],
+          "correct_answer": "D",
+          "explanation": "Đếm lượt sử dụng chỉ cho biết tần suất tương tác. Phỏng vấn giúp nhân viên biết người tham quan nhận biết được bộ phận nào mà không cần trợ giúp, đúng mục tiêu đánh giá khả năng tiếp cận.",
+          "translation": "Vì sao nhân viên bảo tàng dự định phỏng vấn khách bên cạnh việc đếm lượt sử dụng sơ đồ? A. Để biết học sinh nào sở hữu bản sao; B. Để tuyển khách sửa hiện vật hỏng; C. Để hỏi khách chọn giờ mở cửa; D. Để biết khách tự nhận diện được các chi tiết nào.",
+          "difficulty": 4, "tags": ["reading-comprehension"], "skill_tags": ["reading-inference"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 40, "part": 6, "question_type": "mcq", "question_text": "What will the students do before displaying their proposed compass diagram?",
+          "options": [{"key":"A","text":"Replace all the museum's original instruments."},{"key":"B","text":"Ask visitors to test whether its symbols are easy to distinguish."},{"key":"C","text":"Remove the spoken descriptions from every exhibit."},{"key":"D","text":"Give the replica compass to the school's orchestra."}],
+          "correct_answer": "B",
+          "explanation": "Câu cuối bài nói học sinh sẽ nhờ khách kiểm tra tính dễ phân biệt của ký hiệu trước khi đưa sơ đồ la bàn vào trưng bày. Các phương án khác không được nhắc đến.",
+          "translation": "Học sinh sẽ làm gì trước khi trưng bày sơ đồ la bàn được đề xuất? A. Thay toàn bộ dụng cụ gốc của bảo tàng; B. Nhờ khách thử xem ký hiệu có dễ phân biệt không; C. Xóa lời thuyết minh khỏi mọi hiện vật; D. Tặng la bàn bản sao cho dàn nhạc của trường.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-future-plan"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "section": "reading",
+      "instructions": "Read the text about a food science investigation and choose the best answer.",
+      "source": "original",
+      "passage": "In a food science class, Mara compared two batches of yogurt made with the same milk and starter culture. She placed one batch in a warm cupboard and the other in a cooler room. Every thirty minutes, she measured acidity with paper strips and noted how thick each sample became. The warm batch thickened sooner, but after four hours it tasted noticeably sharper. The cool batch needed six hours to reach a similar thickness. Mara initially concluded that warmth always produced better yogurt. Her teacher pointed out that 'better' depends on what consumers prefer and that one trial cannot establish a general rule. In a second experiment, Mara kept the temperature identical for both batches and changed only the amount of starter culture. She also invited classmates to rate the taste without telling them which batch they were sampling. Her final poster reported the observations separately from her opinions and explained which questions needed more testing.",
+      "passage_vi": "Trong một lớp khoa học thực phẩm, Mara so sánh hai mẻ sữa chua được làm từ cùng loại sữa và men cái. Cô đặt một mẻ trong tủ ấm và mẻ còn lại ở phòng mát hơn. Cứ ba mươi phút, cô đo độ axit bằng giấy thử và ghi lại độ đặc của từng mẫu. Mẻ ấm đặc lại nhanh hơn, nhưng sau bốn giờ có vị chua rõ rệt hơn. Mẻ mát cần sáu giờ mới đạt độ đặc tương tự. Ban đầu Mara kết luận nhiệt độ ấm luôn tạo ra sữa chua ngon hơn. Giáo viên chỉ ra rằng 'ngon hơn' phụ thuộc vào sở thích của người dùng và một lần thử không thể xác lập quy luật chung. Trong thí nghiệm thứ hai, Mara giữ nhiệt độ của hai mẻ giống hệt nhau và chỉ thay đổi lượng men cái. Cô cũng mời các bạn cùng lớp đánh giá hương vị mà không nói cho họ biết họ đang thử mẻ nào. Tấm áp phích báo cáo cuối cùng trình bày các quan sát tách biệt khỏi ý kiến chủ quan và giải thích câu hỏi nào cần tiếp tục kiểm chứng.",
+      "questions": [
+        {
+          "number": 41, "part": 7, "question_type": "mcq", "question_text": "What was the main difference between Mara's two batches in her first experiment?",
+          "options": [{"key":"A","text":"The temperature at which they were kept."},{"key":"B","text":"The type of milk used to prepare them."},{"key":"C","text":"The number of classmates tasting each batch."},{"key":"D","text":"The kind of paper strips used for measuring acidity."}],
+          "correct_answer": "A",
+          "explanation": "Mara dùng cùng sữa và men cái cho cả hai mẻ, nhưng đặt một mẻ trong tủ ấm và một mẻ ở phòng mát. Vì vậy biến số được so sánh trong lần thử đầu là nhiệt độ.",
+          "translation": "Sự khác biệt chính giữa hai mẻ của Mara trong thí nghiệm đầu tiên là gì? A. Nhiệt độ bảo quản hai mẻ; B. Loại sữa dùng để làm; C. Số bạn cùng lớp thử mỗi mẻ; D. Loại giấy dùng để đo độ axit.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-comparison"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 42, "part": 7, "question_type": "mcq", "question_text": "What happened to the yogurt kept in the warm cupboard?",
+          "options": [{"key":"A","text":"It stayed liquid after six hours."},{"key":"B","text":"It became less acidic than the cool batch in every test."},{"key":"C","text":"It could not be measured with the paper strips."},{"key":"D","text":"It thickened sooner and tasted sharper after four hours."}],
+          "correct_answer": "D",
+          "explanation": "Bài nêu mẻ ấm 'thickened sooner' và sau bốn giờ 'tasted noticeably sharper'. Lựa chọn D kết hợp chính xác cả hai quan sát.",
+          "translation": "Điều gì xảy ra với mẻ sữa chua đặt trong tủ ấm? A. Vẫn lỏng sau sáu giờ; B. Luôn ít axit hơn mẻ mát trong mọi lần đo; C. Không thể đo bằng giấy thử; D. Đặc nhanh hơn và có vị chua rõ hơn sau bốn giờ.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-detail"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 43, "part": 7, "question_type": "mcq", "question_text": "Why did Mara's teacher challenge her first conclusion?",
+          "options": [{"key":"A","text":"The two batches contained completely different types of milk."},{"key":"B","text":"Taste preferences vary, and a single trial cannot prove a universal rule."},{"key":"C","text":"Yogurt cannot be made at different temperatures."},{"key":"D","text":"Paper strips always measure acidity incorrectly."}],
+          "correct_answer": "B",
+          "explanation": "Giáo viên nhấn mạnh tiêu chí 'ngon hơn' mang tính chủ quan và không thể suy ra quy luật luôn đúng từ một lần thử. Cả hai lý do đều xuất hiện trực tiếp trong bài.",
+          "translation": "Vì sao giáo viên phản biện kết luận đầu tiên của Mara? A. Hai mẻ dùng hai loại sữa hoàn toàn khác nhau; B. Sở thích hương vị khác nhau và một lần thử không chứng minh quy luật phổ quát; C. Không thể làm sữa chua ở các nhiệt độ khác nhau; D. Giấy thử luôn đo độ axit sai.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-reasoning"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 44, "part": 7, "question_type": "mcq", "question_text": "Why were classmates not told which yogurt batch they were tasting?",
+          "options": [{"key":"A","text":"To keep the measurements secret from the teacher."},{"key":"B","text":"To prevent the samples from changing temperature."},{"key":"C","text":"To reduce the influence of expectations on their taste ratings."},{"key":"D","text":"To make sure every student chose the warmer batch."}],
+          "correct_answer": "C",
+          "explanation": "Không tiết lộ danh tính mẫu là cách thử mù nhằm hạn chế đánh giá bị tác động bởi suy nghĩ trước về mẫu ấm hay mẫu mát. Đây là suy luận hợp lý từ cách Mara tổ chức thử vị.",
+          "translation": "Vì sao các bạn cùng lớp không được biết mình đang nếm mẻ sữa chua nào? A. Để giấu phép đo với giáo viên; B. Để mẫu không thay đổi nhiệt độ; C. Để giảm ảnh hưởng của kỳ vọng đối với điểm đánh giá hương vị; D. Để tất cả đều chọn mẻ ấm hơn.",
+          "difficulty": 4, "tags": ["reading-comprehension"], "skill_tags": ["reading-inference"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 45, "part": 7, "question_type": "mcq", "question_text": "Which change did Mara deliberately make in her second experiment?",
+          "options": [{"key":"A","text":"She varied the amount of starter culture while keeping the temperature the same."},{"key":"B","text":"She varied both milk type and temperature at the same time."},{"key":"C","text":"She stopped recording the samples' characteristics."},{"key":"D","text":"She let the classmates change the experimental procedure."}],
+          "correct_answer": "A",
+          "explanation": "Trong lần thử thứ hai, Mara chủ động giữ nhiệt độ giống nhau để chỉ thay lượng men cái, nhờ đó cô có thể quan sát tác động của một biến số cụ thể.",
+          "translation": "Mara cố ý thay đổi điều gì trong thí nghiệm thứ hai? A. Thay đổi lượng men cái trong khi giữ nguyên nhiệt độ; B. Đồng thời thay loại sữa và nhiệt độ; C. Ngừng ghi nhận đặc tính của mẫu; D. Để các bạn cùng lớp đổi quy trình thử nghiệm.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-controlled-variable"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "section": "reading",
+      "instructions": "Read the passage about a student ensemble's rehearsal system and answer the questions.",
+      "source": "original",
+      "passage": "Every spring, a youth ensemble in Rosehaven performs music written by students. This year, the ensemble welcomed a percussionist who could not hear some high-frequency sounds clearly. At first, members tried to solve timing problems by turning up the metronome, but the extra volume distracted other players. A student engineer suggested a wristband that gives gentle pulses at the same tempo as the conductor's beat. During practice, each musician could choose whether to wear one, and the conductor could stop the pulses with a small remote. The first rehearsal revealed a delay between the remote and the wristbands. The engineer adjusted the wireless settings, then invited the percussionist to lead a short rhythm exercise. By the final rehearsal, the group had developed a clearer way to signal changes in tempo using both hand movements and light cues. The wristbands were useful, but the conductor said the biggest improvement came from asking musicians what support they actually wanted.",
+      "passage_vi": "Mỗi mùa xuân, một nhóm nhạc trẻ ở Rosehaven biểu diễn các tác phẩm do học sinh sáng tác. Năm nay nhóm đón một nhạc công bộ gõ không nghe rõ một số âm có tần số cao. Ban đầu, các thành viên thử giải quyết vấn đề giữ nhịp bằng cách tăng âm lượng máy đếm nhịp, nhưng tiếng lớn hơn lại khiến những người chơi khác mất tập trung. Một học sinh học kỹ thuật đề xuất dùng vòng đeo tay phát rung nhẹ theo cùng nhịp mà người chỉ huy đánh. Trong lúc tập, mỗi nhạc công có thể tự chọn đeo vòng hay không, và người chỉ huy có thể tắt nhịp rung bằng bộ điều khiển nhỏ. Buổi tập đầu tiên cho thấy có độ trễ giữa bộ điều khiển và các vòng đeo. Học sinh kỹ thuật điều chỉnh cài đặt không dây, rồi mời nhạc công bộ gõ hướng dẫn một bài tập nhịp ngắn. Đến buổi tập cuối, cả nhóm đã xây dựng cách báo hiệu thay đổi nhịp rõ ràng hơn bằng cả động tác tay và tín hiệu ánh sáng. Vòng đeo tay hữu ích, nhưng người chỉ huy nói cải tiến lớn nhất đến từ việc hỏi các nhạc công họ thực sự muốn được hỗ trợ như thế nào.",
+      "questions": [
+        {
+          "number": 46, "part": 8, "question_type": "mcq", "question_text": "Why did increasing the metronome's volume fail as a solution?",
+          "options": [{"key":"A","text":"The metronome could play only one musical note."},{"key":"B","text":"The conductor refused to use any timing device."},{"key":"C","text":"The percussionist had already left the ensemble."},{"key":"D","text":"The louder sound distracted other musicians."}],
+          "correct_answer": "D",
+          "explanation": "Ngay đầu bài, nhóm tăng âm lượng máy đếm nhịp nhưng 'the extra volume distracted other players'. Vì vậy cách này gây mất tập trung cho các nhạc công khác.",
+          "translation": "Vì sao tăng âm lượng máy đếm nhịp không giải quyết được vấn đề? A. Máy chỉ phát được một nốt nhạc; B. Người chỉ huy từ chối mọi thiết bị giữ nhịp; C. Nhạc công bộ gõ đã rời nhóm; D. Âm thanh lớn hơn làm các nhạc công khác mất tập trung.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-cause"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 47, "part": 8, "question_type": "mcq", "question_text": "What was the proposed wristband designed to do?",
+          "options": [{"key":"A","text":"Record each student's performance for publication."},{"key":"B","text":"Translate the conductor's instructions into written text."},{"key":"C","text":"Provide gentle pulses in time with the conductor's beat."},{"key":"D","text":"Replace all of the ensemble's percussion instruments."}],
+          "correct_answer": "C",
+          "explanation": "Vòng đeo được mô tả là tạo 'gentle pulses at the same tempo as the conductor's beat', tức cung cấp tín hiệu rung khớp nhịp chỉ huy.",
+          "translation": "Vòng đeo tay được đề xuất để làm gì? A. Ghi buổi biểu diễn của từng học sinh để công bố; B. Chuyển chỉ dẫn của người chỉ huy thành chữ viết; C. Tạo nhịp rung nhẹ trùng với nhịp người chỉ huy; D. Thay toàn bộ nhạc cụ gõ của nhóm.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-function"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 48, "part": 8, "question_type": "mcq", "question_text": "What technical issue appeared during the first rehearsal with the wristbands?",
+          "options": [{"key":"A","text":"The wristbands were too heavy to lift."},{"key":"B","text":"The remote's signal reached the wristbands with a delay."},{"key":"C","text":"The conductor could not stop the music manually."},{"key":"D","text":"The wristbands changed the pitch of the instruments."}],
+          "correct_answer": "B",
+          "explanation": "Bài cho biết buổi tập đầu phát hiện độ trễ giữa điều khiển và vòng đeo, dẫn đến việc học sinh kỹ thuật điều chỉnh cài đặt không dây.",
+          "translation": "Vấn đề kỹ thuật nào xuất hiện trong buổi tập đầu với vòng đeo? A. Vòng quá nặng để nhấc lên; B. Tín hiệu từ bộ điều khiển đến vòng bị trễ; C. Người chỉ huy không thể tự dừng nhạc; D. Vòng làm thay đổi cao độ nhạc cụ.",
+          "difficulty": 2, "tags": ["reading-comprehension"], "skill_tags": ["reading-detail"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 49, "part": 8, "question_type": "mcq", "question_text": "Besides using wristbands, how did the ensemble improve its tempo signals?",
+          "options": [{"key":"A","text":"By combining hand movements with light cues."},{"key":"B","text":"By removing the conductor from rehearsals."},{"key":"C","text":"By asking every player to turn up the volume."},{"key":"D","text":"By replacing student compositions with recordings."}],
+          "correct_answer": "A",
+          "explanation": "Đến buổi tập cuối, cả nhóm dùng kết hợp động tác tay và tín hiệu ánh sáng để báo đổi nhịp. Đây là cách cải thiện bổ sung ngoài vòng đeo.",
+          "translation": "Ngoài việc dùng vòng đeo, nhóm nhạc cải thiện tín hiệu báo nhịp bằng cách nào? A. Kết hợp động tác tay với tín hiệu ánh sáng; B. Loại người chỉ huy khỏi các buổi tập; C. Yêu cầu mọi người tăng âm lượng; D. Thay nhạc do học sinh sáng tác bằng bản thu sẵn.",
+          "difficulty": 3, "tags": ["reading-comprehension"], "skill_tags": ["reading-synthesis"], "source": "original", "independent_review": "pending"
+        },
+        {
+          "number": 50, "part": 8, "question_type": "mcq", "question_text": "Which idea does the conductor emphasize at the end of the passage?",
+          "options": [{"key":"A","text":"All musicians should use the same device whether they want it or not."},{"key":"B","text":"Technology should replace communication during rehearsals."},{"key":"C","text":"Understanding musicians' individual needs is central to useful improvements."},{"key":"D","text":"Student-written music is too difficult for an ensemble to perform."}],
+          "correct_answer": "C",
+          "explanation": "Người chỉ huy nói cải thiện lớn nhất xuất phát từ việc hỏi nhạc công họ thực sự muốn hỗ trợ gì. Từ đó suy ra lắng nghe nhu cầu của mỗi người là yếu tố quan trọng nhất.",
+          "translation": "Người chỉ huy nhấn mạnh ý nào ở cuối bài? A. Mọi nhạc công phải dùng cùng thiết bị dù muốn hay không; B. Công nghệ nên thay thế giao tiếp khi tập; C. Hiểu nhu cầu riêng của nhạc công là cốt lõi của việc cải tiến hữu ích; D. Nhạc do học sinh sáng tác quá khó để nhóm biểu diễn.",
+          "difficulty": 4, "tags": ["reading-comprehension"], "skill_tags": ["reading-main-message"], "source": "original", "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -40,6 +40,16 @@ function word(overrides={}) {
 }
 const has=(r,code)=>r.errors.some(d=>d.code===code);
 
+test('validation loads separate source catalogs when checking a single content file',async t=>{
+  const f=await fixture(t);
+  const source={key:'voa-example',title:'VOA example',license:'Public Domain'};
+  await f.save('sources/voa.json',[source]);
+  const testFile=await f.save('tests/toeic_part/qe-p5-001.json',{...partTest(),source:source.key});
+  assert.deepEqual((await f.validate(testFile,{strict:true})).errors,[]);
+  await f.save('sources/repeated.json',[source]);
+  assert.ok(has(await f.validate(testFile),'duplicate_source'));
+});
+
 test('fingerprint is deterministic, punctuation/case/order invariant and content sensitive',()=>{
   const a={question_text:' Hello, WORLD! ',options:[{key:'A',text:'Yes.'},{key:'B',text:'No!'}]};
   const b={question_text:'hello world',options:[{key:'Z',text:'NO'},{key:'X',text:'yes'}],correct_answer:'X'};

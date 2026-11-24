@@ -2,6 +2,8 @@
   "slug": "qe-test-02",
   "title": "Test 02",
   "collection": "QEnglishIT 2026",
+  "source": "original",
+  "exam_type": "toeic_full",
   "groups": [
     {
       "part": 1,
@@ -1151,7 +1153,7 @@
           "options": [
             {
               "key": "A",
-              "text": "Call a technician"
+              "text": "Notify a dispatch team about possible delays"
             },
             {
               "key": "B",
@@ -1163,12 +1165,12 @@
             },
             {
               "key": "D",
-              "text": "Notify a dispatch team about possible delays"
+              "text": "Call a technician"
             }
           ],
-          "correct_answer": "D",
+          "correct_answer": "A",
           "explanation": "Câu cuối: \"I'll let the dispatch team know some shipments may go out a day late.\" Việc duyệt tăng ca là của giám sát viên, kỹ thuật viên đã kiểm tra rồi.",
-          "translation": "Câu hỏi: Người đàn ông sẽ làm gì tiếp theo? (A) Gọi kỹ thuật viên (B) Đặt mua quạt thay thế (C) Duyệt tăng ca cho một tổ (D) Thông báo cho bộ phận điều phối về khả năng chậm trễ",
+          "translation": "Câu hỏi: Người đàn ông sẽ làm gì tiếp theo? (A) Thông báo cho bộ phận điều phối về khả năng chậm trễ (B) Đặt mua quạt thay thế (C) Duyệt tăng ca cho một tổ (D) Gọi kỹ thuật viên",
           "tags": [
             "next-action"
           ]
@@ -1339,7 +1341,7 @@
           "options": [
             {
               "key": "A",
-              "text": "A referral letter"
+              "text": "A link to some forms"
             },
             {
               "key": "B",
@@ -1351,12 +1353,12 @@
             },
             {
               "key": "D",
-              "text": "A link to some forms"
+              "text": "A referral letter"
             }
           ],
-          "correct_answer": "D",
+          "correct_answer": "A",
           "explanation": "Cô nói \"I'll email you the link\" cho biểu mẫu điền trực tuyến. Thẻ bảo hiểm và thư giới thiệu là thứ anh phải mang theo.",
-          "translation": "Câu hỏi: Người phụ nữ sẽ gửi gì cho người đàn ông? (A) Một thư giới thiệu (B) Một thẻ bảo hiểm (C) Một bản đồ bãi đậu xe (D) Đường dẫn đến các biểu mẫu",
+          "translation": "Câu hỏi: Người phụ nữ sẽ gửi gì cho người đàn ông? (A) Đường dẫn đến các biểu mẫu (B) Một thẻ bảo hiểm (C) Một bản đồ bãi đậu xe (D) Một thư giới thiệu",
           "tags": [
             "next-action"
           ]
@@ -1499,7 +1501,7 @@
           "options": [
             {
               "key": "A",
-              "text": "A taxi ride"
+              "text": "A hotel stay"
             },
             {
               "key": "B",
@@ -1511,12 +1513,12 @@
             },
             {
               "key": "D",
-              "text": "A hotel stay"
+              "text": "A taxi ride"
             }
           ],
-          "correct_answer": "D",
+          "correct_answer": "A",
           "explanation": "\"the airline will cover a hotel for tonight\" – hãng chi trả khách sạn.",
-          "translation": "Câu hỏi: Hãng hàng không sẽ cung cấp gì? (A) Chuyến taxi (B) Phiếu ăn (C) Hoàn tiền (D) Một đêm khách sạn",
+          "translation": "Câu hỏi: Hãng hàng không sẽ cung cấp gì? (A) Một đêm khách sạn (B) Phiếu ăn (C) Hoàn tiền (D) Chuyến taxi",
           "tags": [
             "detail"
           ]
@@ -1581,7 +1583,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"the safety inspector will visit the packaging plant on Friday\".",
+          "explanation": "Người nói thông báo thanh tra an toàn sẽ đến nhà máy đóng gói vào thứ Sáu, vì vậy (B) là việc sẽ diễn ra.",
           "translation": "Câu hỏi: Chuyện gì sẽ xảy ra vào thứ Sáu? (A) Một nhân viên mới bắt đầu làm. (B) Một đợt thanh tra an toàn sẽ diễn ra. (C) Một số thiết bị sẽ được lắp đặt. (D) Một khóa đào tạo sẽ được tổ chức.",
           "tags": [
             "detail"
@@ -1675,7 +1677,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"a two-day training workshop\".",
+          "explanation": "Người đàn ông đề cập một hội thảo đào tạo kéo dài hai ngày, nên sự kiện đang lên kế hoạch là buổi tập huấn. Chọn (C).",
           "translation": "Câu hỏi: Người đàn ông đang lên kế hoạch cho sự kiện gì? (A) Buổi ra mắt sản phẩm (B) Tiệc nghỉ hưu (C) Hội thảo tập huấn (D) Ngày hội việc làm",
           "tags": [
             "detail"
@@ -1731,7 +1733,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"I'll email you a quote with the total for both days by tomorrow.\"",
+          "explanation": "Người phụ nữ hứa gửi email báo giá tổng cộng cho cả hai ngày muộn nhất vào ngày mai. Đáp án (A).",
           "translation": "Câu hỏi: Ngày mai người phụ nữ sẽ làm gì? (A) Gửi bảng báo giá (B) Đến văn phòng của người đàn ông (C) Đặt trước máy chiếu (D) Đặt đồ ăn",
           "tags": [
             "next-action"
@@ -1769,7 +1771,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Two servers asked for the day off so they can attend the food festival.\"",
+          "explanation": "Hai nhân viên phục vụ đã xin nghỉ vào thứ Bảy để tham dự lễ hội ẩm thực, khiến nhà hàng thiếu người. Chọn (D).",
           "translation": "Câu hỏi: Vì sao nhà hàng thiếu người vào thứ Bảy? (A) Bếp đang được sửa chữa. (B) Một số nhân viên bị ốm. (C) Có buổi tập huấn theo lịch. (D) Hai nhân viên phục vụ sẽ dự lễ hội.",
           "tags": [
             "reason"
@@ -1797,7 +1799,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"I have a night class.\"",
+          "explanation": "Người phụ nữ cần rời đi lúc bốn giờ vì có lớp học buổi tối. Vì vậy, đáp án (B) chính xác.",
           "translation": "Câu hỏi: Vì sao người phụ nữ cần rời đi lúc bốn giờ? (A) Cô có lịch khám bác sĩ. (B) Cô học một lớp buổi tối. (C) Cô gặp nhà cung cấp. (D) Cô đón người thân.",
           "tags": [
             "reason"
@@ -1891,7 +1893,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"The software lets nurses update charts from a tablet in the exam room\".",
+          "explanation": "Phần mềm cho phép y tá cập nhật hồ sơ trên máy tính bảng ngay trong phòng khám. Lợi ích này tương ứng với (C).",
           "translation": "Câu hỏi: Người đàn ông nêu lợi ích nào của phần mềm? (A) Giảm chi phí in ấn. (B) Gửi nhắc nhở cho bệnh nhân. (C) Y tá có thể cập nhật bệnh án trong phòng khám. (D) Dịch tài liệu.",
           "tags": [
             "detail"
@@ -1903,7 +1905,7 @@
           "options": [
             {
               "key": "A",
-              "text": "A scanning service will arrive."
+              "text": "A training session will be held."
             },
             {
               "key": "B",
@@ -1915,12 +1917,12 @@
             },
             {
               "key": "D",
-              "text": "A training session will be held."
+              "text": "A scanning service will arrive."
             }
           ],
-          "correct_answer": "D",
+          "correct_answer": "A",
           "explanation": "\"a short training session on Monday at eight\". Dịch vụ quét diễn ra cuối tuần.",
-          "translation": "Câu hỏi: Chuyện gì sẽ xảy ra sáng thứ Hai? (A) Dịch vụ quét sẽ đến. (B) Phòng khám sẽ đóng cửa. (C) Máy tính bảng mới sẽ được giao. (D) Một buổi tập huấn sẽ được tổ chức.",
+          "translation": "Câu hỏi: Chuyện gì sẽ xảy ra sáng thứ Hai? (A) Một buổi tập huấn sẽ được tổ chức. (B) Phòng khám sẽ đóng cửa. (C) Máy tính bảng mới sẽ được giao. (D) Dịch vụ quét sẽ đến.",
           "tags": [
             "detail"
           ]
@@ -2051,7 +2053,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"Do you have any packages with guided tours?\"",
+          "explanation": "Người đàn ông hỏi liệu có gói du lịch nào bao gồm các chuyến tham quan có hướng dẫn viên hay không. Chọn (B).",
           "translation": "Câu hỏi: Người đàn ông đang tìm gì? (A) Vé hạng thương gia (B) Một gói có kèm tour hướng dẫn (C) Khách sạn gần sân bay (D) Dịch vụ thuê xe",
           "tags": [
             "detail"
@@ -2091,7 +2093,7 @@
           "options": [
             {
               "key": "A",
-              "text": "Renew his passport"
+              "text": "Discuss the trip with his wife"
             },
             {
               "key": "B",
@@ -2103,12 +2105,12 @@
             },
             {
               "key": "D",
-              "text": "Discuss the trip with his wife"
+              "text": "Renew his passport"
             }
           ],
-          "correct_answer": "D",
-          "explanation": "\"Let me talk it over with my wife tonight.\"",
-          "translation": "Câu hỏi: Người đàn ông nói tối nay anh sẽ làm gì? (A) Gia hạn hộ chiếu (B) Đặt cọc (C) Xem dự báo thời tiết (D) Bàn chuyến đi với vợ",
+          "correct_answer": "A",
+          "explanation": "Người đàn ông nói tối nay sẽ bàn bạc chuyến đi với vợ trước khi quyết định. Đáp án đúng là (A).",
+          "translation": "Câu hỏi: Người đàn ông nói tối nay anh sẽ làm gì? (A) Bàn chuyến đi với vợ (B) Đặt cọc (C) Xem dự báo thời tiết (D) Gia hạn hộ chiếu",
           "tags": [
             "next-action"
           ]
@@ -2173,7 +2175,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"Take it to the help desk near the dock. They print replacements.\"",
+          "explanation": "Nếu nhãn bị rách, Dylan phải mang đến quầy hỗ trợ gần khu bốc dỡ để được in nhãn thay thế. Chọn (A).",
           "translation": "Câu hỏi: Dylan nên làm gì nếu nhãn bị rách? (A) Mang đến bàn hỗ trợ (B) Vứt đi (C) Báo cho giám sát (D) Chỉ quét kệ",
           "tags": [
             "detail"
@@ -2201,7 +2203,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"After lunch, Dylan, come to my office to pick up your safety vest.\"",
+          "explanation": "Người quản lý yêu cầu Dylan đến văn phòng sau bữa trưa để lấy áo phản quang an toàn. Chọn (C).",
           "translation": "Câu hỏi: Dylan sẽ làm gì sau bữa trưa? (A) Dự hội thảo an toàn (B) Lái xe nâng (C) Lấy áo phản quang an toàn (D) Gặp khách hàng",
           "tags": [
             "next-action"
@@ -2239,7 +2241,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"I'm glad it's closer to the train station.\"",
+          "explanation": "Người đàn ông vui vì địa điểm mới gần ga tàu hơn, tức thuận tiện cho việc sử dụng phương tiện công cộng. Chọn (D).",
           "translation": "Câu hỏi: Người đàn ông thích điều gì ở địa điểm mới? (A) Gần nhà anh. (B) Có căng-tin. (C) Văn phòng rộng hơn. (D) Gần phương tiện công cộng.",
           "tags": [
             "detail"
@@ -2267,7 +2269,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"I'm worried about parking. They only have forty spaces for two hundred employees.\"",
+          "explanation": "Người đàn ông lo ngại bãi đậu xe chỉ có 40 chỗ cho 200 nhân viên, nên (D) nói đúng vấn đề thiếu chỗ đỗ xe.",
           "translation": "Câu hỏi: Người đàn ông lo ngại điều gì? (A) Tiền thuê cao hơn (B) Quãng đi làm dài hơn (C) Khu phố ồn ào (D) Thiếu chỗ đậu xe",
           "tags": [
             "problem"
@@ -2361,7 +2363,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"We've received a large order... we need to double our output.\"",
+          "explanation": "Công ty vừa nhận một đơn hàng lớn và cần tăng gấp đôi sản lượng, nên thay đổi được thực hiện để đáp ứng đơn hàng. Chọn (A).",
           "translation": "Câu hỏi: Vì sao công ty thực hiện thay đổi? (A) Để hoàn thành một đơn hàng lớn (B) Để giảm chi phí năng lượng (C) Để đào tạo nhân viên mới (D) Để đáp ứng quy định an toàn",
           "tags": [
             "reason"
@@ -2389,7 +2391,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Sign-up sheets are posted outside the cafeteria, and you must sign by Wednesday.\"",
+          "explanation": "Người nghe phải ghi tên vào phiếu đăng ký đặt bên ngoài căng-tin trước hoặc vào thứ Tư. Đáp án (D).",
           "translation": "Câu hỏi: Người nghe được yêu cầu làm gì trước thứ Tư? (A) Nộp bảng chấm công (B) Dự một cuộc họp (C) Liên hệ nhà cung cấp (D) Ghi tên vào danh sách",
           "tags": [
             "request"
@@ -2455,7 +2457,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"For banquet and event inquiries, press two.\"",
+          "explanation": "Hướng dẫn điện thoại nói rõ người gọi hỏi về tiệc và sự kiện cần bấm phím số hai. Chọn (D).",
           "translation": "Câu hỏi: Người gọi nên làm gì để hỏi về tiệc? (A) Truy cập trang web (B) Giữ máy (C) Bấm một (D) Bấm hai",
           "tags": [
             "detail"
@@ -2643,7 +2645,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"Dr. Soto will be out of the office... you'll be seeing Dr. Nguyen instead.\"",
+          "explanation": "Bác sĩ Soto vắng mặt nên bác sĩ Nguyen sẽ khám thay trong lịch hẹn này. Thông tin thay đổi là người khám, đáp án (B).",
           "translation": "Câu hỏi: Điều gì về cuộc hẹn đã thay đổi? (A) Thời gian (B) Bác sĩ (C) Địa điểm (D) Loại điều trị",
           "tags": [
             "detail"
@@ -2709,7 +2711,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"Our spring clearance sale starts tomorrow\".",
+          "explanation": "Thông báo cho biết chương trình thanh lý hàng mùa xuân bắt đầu vào ngày mai. Chọn (B).",
           "translation": "Câu hỏi: Ngày mai điều gì sẽ bắt đầu? (A) Sửa chữa cửa hàng (B) Đợt xả hàng (C) Sự kiện tuyển dụng (D) Kiểm kê hàng",
           "tags": [
             "detail"
@@ -2765,7 +2767,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Mr. Reyes... will show cashiers how to use it after lunch today.\"",
+          "explanation": "Sau bữa trưa, ông Reyes sẽ hướng dẫn các thu ngân cách sử dụng thiết bị mới. Đáp án (D).",
           "translation": "Câu hỏi: Chuyện gì sẽ diễn ra sau bữa trưa? (A) Một lô hàng sẽ đến. (B) Khách hàng sẽ được khảo sát. (C) Một quản lý sẽ rời đi. (D) Thu ngân sẽ được hướng dẫn.",
           "tags": [
             "detail"
@@ -2859,7 +2861,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"I'd like each line supervisor to submit suggestions by Friday.\"",
+          "explanation": "Người nói yêu cầu từng giám sát viên dây chuyền gửi đề xuất trước hoặc vào thứ Sáu. Chọn (A).",
           "translation": "Câu hỏi: Người nói yêu cầu các giám sát làm gì trước thứ Sáu? (A) Nộp đề xuất (B) Lên lịch đào tạo (C) Đặt máy mới (D) Phỏng vấn ứng viên",
           "tags": [
             "request"
@@ -2897,7 +2899,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"I'm Theo, your guide for today's Harbor Heritage Tour.\"",
+          "explanation": "Người nói tự giới thiệu là Theo, hướng dẫn viên của chuyến tham quan Harbor Heritage hôm nay. Vì thế, chọn (A).",
           "translation": "Câu hỏi: Người nói là ai? (A) Hướng dẫn viên du lịch (B) Người phụ trách bảo tàng (C) Thuyền trưởng (D) Nhân viên cửa hàng",
           "tags": [
             "speaker"
@@ -2925,7 +2927,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"the stairs are narrow and not recommended for anyone with knee problems\".",
+          "explanation": "Người hướng dẫn cảnh báo cầu thang hẹp và không phù hợp với người có vấn đề về đầu gối. Chọn (C).",
           "translation": "Câu hỏi: Người nói cảnh báo người nghe về điều gì? (A) Thời tiết xấu (B) Số vé có hạn (C) Cầu thang hẹp (D) Boong tàu trơn",
           "tags": [
             "detail"
@@ -2953,7 +2955,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"the gift shop at the fish market gives a ten percent discount\".",
+          "explanation": "Cửa hàng quà tặng ở chợ cá áp dụng giảm giá 10% như người nói đã đề cập. Đáp án (B).",
           "translation": "Câu hỏi: Mức giảm giá nào được đề cập? (A) Năm phần trăm ở bảo tàng (B) Mười phần trăm ở cửa hàng quà tặng (C) Hai mươi phần trăm cho đồ ăn (D) Miễn phí vé cho trẻ em",
           "tags": [
             "detail"
@@ -2991,7 +2993,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"Bella Verde Bistro has just opened its private dining room, seating up to forty guests.\"",
+          "explanation": "Quảng cáo giới thiệu phòng ăn riêng vừa mở của Bella Verde Bistro, có sức chứa tối đa 40 khách. Chọn (D).",
           "translation": "Câu hỏi: Điều gì đang được quảng cáo? (A) Xe bán đồ ăn (B) Lớp nấu ăn (C) Tour tham quan nông trại (D) Phòng ăn riêng",
           "tags": [
             "purpose"
@@ -3019,7 +3021,7 @@
             }
           ],
           "correct_answer": "B",
-          "explanation": "\"all made with ingredients from local farms\".",
+          "explanation": "Các thực đơn được chế biến từ nguyên liệu do các trang trại địa phương cung cấp. Đây là điểm đặc biệt ở (B).",
           "translation": "Câu hỏi: Điều gì đặc biệt về các thực đơn? (A) Chúng là đồ chay. (B) Dùng nguyên liệu địa phương. (C) Thay đổi hằng tuần. (D) Được giảm giá.",
           "tags": [
             "detail"
@@ -3047,7 +3049,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"Book before the end of the month and receive a free dessert platter\".",
+          "explanation": "Khách đặt phòng trước khi hết tháng sẽ được tặng một khay tráng miệng miễn phí. Chọn (C).",
           "translation": "Câu hỏi: Người nghe có thể nhận món tráng miệng miễn phí bằng cách nào? (A) Viết đánh giá (B) Đặt món mang đi (C) Đặt chỗ trước cuối tháng (D) Mang theo phiếu giảm giá",
           "tags": [
             "detail"
@@ -3085,7 +3087,7 @@
             }
           ],
           "correct_answer": "C",
-          "explanation": "\"thank you for joining our annual recognition dinner.\"",
+          "explanation": "Lời mở đầu cảm ơn khách đã đến dự bữa tối vinh danh nhân viên thường niên, nên dịp này ứng với (C).",
           "translation": "Câu hỏi: Dịp này là gì? (A) Buổi trình diễn sản phẩm (B) Tiệc nghỉ hưu (C) Bữa tối tôn vinh của công ty (D) Buổi tập huấn an toàn",
           "tags": [
             "purpose"
@@ -3113,7 +3115,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"Marcus redesigned our equipment inspection checklist\".",
+          "explanation": "Trong năm nay, Marcus đã thiết kế lại bảng kiểm tra thiết bị, đúng với phương án (A).",
           "translation": "Câu hỏi: Năm nay Marcus đã làm gì? (A) Thiết kế lại danh mục kiểm tra (B) Mở một cơ sở mới (C) Đàm phán hợp đồng (D) Giảm chi phí nhân sự",
           "tags": [
             "detail"
@@ -3141,7 +3143,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"an award, which includes a bonus and an extra week of paid vacation\".",
+          "explanation": "Phần thưởng dành cho Marcus bao gồm tiền thưởng và thêm một tuần nghỉ phép có lương. Chọn (D).",
           "translation": "Câu hỏi: Marcus sẽ nhận được gì? (A) Chức danh mới (B) Xe công ty (C) Chỉ một tấm bảng vinh danh (D) Tiền thưởng và thêm ngày nghỉ phép",
           "tags": [
             "detail"
@@ -3207,7 +3209,7 @@
             }
           ],
           "correct_answer": "D",
-          "explanation": "\"some rates will be lowered to reflect construction noise\".",
+          "explanation": "Bà Torres nói một số giá phòng sẽ được giảm để bù đắp sự bất tiện do tiếng ồn thi công. Đáp án (D).",
           "translation": "Câu hỏi: Bà Torres nói gì về giá phòng? (A) Sẽ tăng gấp đôi. (B) Sẽ bao gồm bữa ăn. (C) Sẽ giữ nguyên. (D) Một số sẽ được giảm.",
           "tags": [
             "detail"
@@ -3235,7 +3237,7 @@
             }
           ],
           "correct_answer": "A",
-          "explanation": "\"funded partly by a city tourism grant\".",
+          "explanation": "Dự án cải tạo được tài trợ một phần từ khoản trợ cấp du lịch của thành phố. Chọn (A).",
           "translation": "Câu hỏi: Dự án được chi trả bằng cách nào? (A) Một phần bằng khoản hỗ trợ của thành phố (B) Bằng khoản vay ngân hàng (C) Bằng quyên góp của khách (D) Bằng một nhà đầu tư mới",
           "tags": [
             "detail"

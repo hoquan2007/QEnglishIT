@@ -2,8 +2,9 @@
   {
     "slug": "office-relocation-notice",
     "title": "Notice: Office Relocation",
-    "level": "450",
+    "level": "A2",
     "passage_type": "notice",
+    "source": "original",
     "paragraphs": [
       {
         "en": "TO ALL STAFF: Beginning Monday, March 3, the Marketing and Sales departments will move from the fourth floor to the new wing on the seventh floor.",
@@ -123,8 +124,9 @@
   {
     "slug": "new-hire-welcome-email",
     "title": "Email: Welcome to the Team",
-    "level": "450",
+    "level": "A2",
     "passage_type": "email",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Subject: Your First Week at Harbor Logistics\n\nDear Mr. Okafor,\n\nWelcome to Harbor Logistics! We are delighted that you have accepted the position of Inventory Coordinator.",
@@ -244,8 +246,9 @@
   {
     "slug": "cafe-job-ad",
     "title": "Advertisement: Café Staff Wanted",
-    "level": "450",
+    "level": "A2",
     "passage_type": "advertisement",
+    "source": "original",
     "paragraphs": [
       {
         "en": "WANTED: Part-time Baristas at Lakeside Café\n\nLakeside Café, a popular coffee shop near Central Park, is looking for friendly, reliable baristas to join our growing team.",
@@ -365,8 +368,9 @@
   {
     "slug": "parking-policy-memo",
     "title": "Memo: New Parking Policy",
-    "level": "450",
+    "level": "B1",
     "passage_type": "memo",
+    "source": "original",
     "paragraphs": [
       {
         "en": "MEMO\nTo: All Employees\nFrom: Facilities Office\nRe: Parking Changes\n\nStarting April 1, employees must display a parking permit on their vehicle in the main lot.",
@@ -486,8 +490,9 @@
   {
     "slug": "gym-membership-form",
     "title": "Form: Fitness Center Membership",
-    "level": "450",
+    "level": "B1",
     "passage_type": "form",
+    "source": "original",
     "paragraphs": [
       {
         "en": "GREENFIELD FITNESS CENTER – MEMBERSHIP APPLICATION\n\nName: Daniela Reyes\nMembership type: Annual (paid monthly)\nStart date: June 1\nPreferred hours: Evenings",
@@ -607,8 +612,9 @@
   {
     "slug": "bakery-opening-article",
     "title": "Article: New Bakery Opens Downtown",
-    "level": "450",
+    "level": "B1",
     "passage_type": "article",
+    "source": "original",
     "paragraphs": [
       {
         "en": "A new bakery, Golden Crust, opened its doors on Elm Street last Saturday, drawing a line of customers that stretched around the block.",
@@ -668,7 +674,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"Everything is baked each morning before six\"."
+        "explanation": "Bà Chen cho biết tất cả bánh đều được nướng vào mỗi buổi sáng trước 6 giờ, vì vậy đáp án A là chính xác."
       },
       {
         "q": "How can customers get a discount?",
@@ -724,8 +730,9 @@
   {
     "slug": "hotel-confirmation-email",
     "title": "Email: Reservation Confirmation",
-    "level": "600",
+    "level": "B1",
     "passage_type": "email",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Dear Ms. Alvarez,\n\nThank you for booking a room at the Bayview Hotel. This email confirms your reservation for a deluxe double room from October 12 to October 15.",
@@ -868,8 +875,9 @@
   {
     "slug": "quarterly-sales-report-article",
     "title": "Article: Local Retailer Posts Strong Quarter",
-    "level": "600",
+    "level": "B2",
     "passage_type": "article",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Hartwell Home Goods reported a 12 percent increase in sales for the third quarter, driven largely by demand for kitchen appliances and online orders.",
@@ -956,7 +964,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"open a second warehouse near the airport early next year\"."
+        "explanation": "Bài viết cho biết Hartwell dự định mở thêm một kho hàng gần sân bay vào đầu năm tới, vì vậy chọn đáp án A."
       },
       {
         "q": "The word \"credited\" in paragraph 2 is closest in meaning to",
@@ -1012,8 +1020,9 @@
   {
     "slug": "team-chat-schedule-change",
     "title": "Text Message Chain: Shift Change",
-    "level": "600",
+    "level": "B2",
     "passage_type": "chat",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Dmitri (9:02 A.M.): Hi Sofia, are you free to cover my shift on Thursday? I have a dentist appointment from 1 to 4.",
@@ -1077,7 +1086,7 @@
           }
         ],
         "answer": "D",
-        "explanation": "\"I could stay until 5 if the manager approves.\""
+        "explanation": "Sofia đề nghị ở lại làm việc đến 5 giờ chiều nếu được quản lý đồng ý, nên đáp án D là chính xác."
       },
       {
         "q": "What will Dmitri probably do next?",
@@ -1100,7 +1109,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"I'll ask Mr. Grant right now.\""
+        "explanation": "Dmitri nói sẽ hỏi ông Grant ngay lập tức để xin phép đổi ca, vì vậy hành động tiếp theo của anh là hỏi quản lý và đáp án A đúng."
       },
       {
         "q": "Why does Sofia want an answer before noon?",
@@ -1123,7 +1132,7 @@
           }
         ],
         "answer": "B",
-        "explanation": "\"I need to arrange a ride home.\""
+        "explanation": "Sofia cần sắp xếp phương tiện về nhà nên muốn biết kết quả trước buổi trưa, vì vậy chọn đáp án B."
       }
     ],
     "vocabulary": [
@@ -1156,8 +1165,9 @@
   {
     "slug": "software-update-notice",
     "title": "Notice: Scheduled System Maintenance",
-    "level": "600",
+    "level": "B2",
     "passage_type": "notice",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Attention all users: The company's file server will undergo scheduled maintenance this Saturday from 10 P.M. until Sunday at 6 A.M.",
@@ -1277,8 +1287,9 @@
   {
     "slug": "catering-order-email-chain",
     "title": "Email: Catering Order Change",
-    "level": "600",
+    "level": "B2",
     "passage_type": "email",
+    "source": "original",
     "paragraphs": [
       {
         "en": "To: Rosa Delgado\nFrom: Tomas Weber\nSubject: Change to Friday's luncheon order\n\nHello Rosa,\n\nI am writing about our order for the client luncheon on Friday. Instead of 40 guests, we now expect 55 because the Singapore team will attend.",
@@ -1388,7 +1399,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"Please confirm by reply\"."
+        "explanation": "Bà Delgado yêu cầu ông Weber trả lời email để xác nhận các thay đổi trước khi bà chốt đơn với nhà bếp, vì vậy đáp án A đúng."
       }
     ],
     "vocabulary": [
@@ -1421,8 +1432,9 @@
   {
     "slug": "city-bike-share-article",
     "title": "Article: City Launches Bike-Share Program",
-    "level": "600",
+    "level": "B2",
     "passage_type": "article",
+    "source": "original",
     "paragraphs": [
       {
         "en": "The city council announced Monday that a bike-share program will begin next month, with 300 bicycles available at 30 stations across downtown and the university district.",
@@ -1565,8 +1577,9 @@
   {
     "slug": "conference-registration-info",
     "title": "Information: Annual Marketing Conference",
-    "level": "600",
+    "level": "B2",
     "passage_type": "announcement",
+    "source": "original",
     "paragraphs": [
       {
         "en": "The 15th Annual Digital Marketing Conference will take place at the Riverside Convention Center from November 6 to 8. More than 1,200 professionals are expected to attend.",
@@ -1686,8 +1699,9 @@
   {
     "slug": "supplier-delay-letter",
     "title": "Letter: Delay in Shipment",
-    "level": "750",
+    "level": "C1",
     "passage_type": "letter",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Dear Mr. Haldane,\n\nI am writing to inform you that the shipment of 500 ergonomic chairs, originally scheduled for delivery on June 10, will be delayed by approximately two weeks. The delay results from a shortage of steel components at our manufacturing partner.",
@@ -1774,7 +1788,7 @@
           }
         ],
         "answer": "C",
-        "explanation": "\"let us know your preference by May 30\"."
+        "explanation": "Bức thư đề nghị ông Haldane cho công ty biết lựa chọn của mình trước hoặc vào ngày 30 tháng 5, vì vậy chọn đáp án C."
       },
       {
         "q": "The word \"compensate\" in paragraph 2 is closest in meaning to",
@@ -1830,8 +1844,9 @@
   {
     "slug": "remote-work-policy-memo",
     "title": "Memo: Remote Work Guidelines",
-    "level": "750",
+    "level": "C1",
     "passage_type": "memo",
+    "source": "original",
     "paragraphs": [
       {
         "en": "To: Department Heads\nFrom: Naomi Ellis, Director of Operations\nSubject: Revised remote work guidelines\n\nFollowing the pilot program conducted over the past six months, the executive team has approved a hybrid work model effective September 1.",
@@ -1974,8 +1989,9 @@
   {
     "slug": "merger-press-release",
     "title": "Press Release: Company Merger",
-    "level": "750",
+    "level": "C1",
     "passage_type": "article",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Zenith Pharmaceuticals and Calder Biotech announced today that they have signed a definitive agreement to merge, creating one of the region's largest providers of laboratory research services.",
@@ -2118,8 +2134,9 @@
   {
     "slug": "museum-membership-flyer",
     "title": "Flyer: Museum Membership",
-    "level": "450",
+    "level": "B1",
     "passage_type": "advertisement",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Become a member of the Harlow Science Museum today!\n\nAs a member, you will enjoy unlimited entry for one year, as well as a 10 percent discount at the gift shop and café.",
@@ -2239,8 +2256,9 @@
   {
     "slug": "flight-delay-chat",
     "title": "Online Chat: Customer Support",
-    "level": "600",
+    "level": "B2",
     "passage_type": "chat",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Customer (2:14 P.M.): Hello, my flight to Chicago was canceled and I was rebooked for tomorrow morning. I need to arrive tonight for a meeting. Is there another option?",
@@ -2304,7 +2322,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"a 6:40 P.M. flight ... move you to that flight at no charge\"."
+        "explanation": "Nhân viên hỗ trợ đề nghị chuyển ông Park sang chuyến bay lúc 6 giờ 40 phút tối mà không thu thêm phí, vì vậy đáp án A đúng."
       },
       {
         "q": "What will Mr. Park receive by email?",
@@ -2327,7 +2345,7 @@
           }
         ],
         "answer": "B",
-        "explanation": "\"new boarding pass by email\"."
+        "explanation": "Nhân viên hỗ trợ cho biết ông Park sẽ nhận thẻ lên máy bay mới qua email trong vài phút nữa, vì vậy chọn đáp án B."
       },
       {
         "q": "At 2:18 P.M., what does Mr. Park want to know?",
@@ -2350,7 +2368,7 @@
           }
         ],
         "answer": "C",
-        "explanation": "\"Will my checked bag be transferred automatically?\""
+        "explanation": "Ông Park hỏi liệu hành lý ký gửi của mình có được tự động chuyển sang chuyến bay mới hay không, vì vậy đáp án C đúng."
       }
     ],
     "vocabulary": [
@@ -2383,8 +2401,9 @@
   {
     "slug": "annual-report-excerpt",
     "title": "Report: Sustainability Initiatives",
-    "level": "750",
+    "level": "C1",
     "passage_type": "report",
+    "source": "original",
     "paragraphs": [
       {
         "en": "In the past fiscal year, Brightmore Foods reduced its energy consumption by 18 percent, surpassing the 15 percent target set by the board. The improvement was largely attributable to the installation of solar panels at three processing plants.",
@@ -2490,7 +2509,7 @@
           }
         ],
         "answer": "C",
-        "explanation": "\"publish quarterly progress updates\"."
+        "explanation": "Ban lãnh đạo cam kết công bố thông tin cập nhật về tiến độ theo từng quý, vì vậy đáp án C là chính xác."
       }
     ],
     "vocabulary": [
@@ -2523,8 +2542,9 @@
   {
     "slug": "training-workshop-invitation",
     "title": "Invitation: Customer Service Workshop",
-    "level": "450",
+    "level": "B1",
     "passage_type": "email",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Subject: Invitation – Customer Service Workshop\n\nDear Colleagues,\n\nYou are invited to a half-day workshop on handling difficult customer calls. The session will be held on Wednesday, May 14, from 1 P.M. to 5 P.M. in the main conference room.",
@@ -2640,8 +2660,9 @@
   {
     "slug": "warranty-claim-form",
     "title": "Form: Product Warranty Terms",
-    "level": "750",
+    "level": "C1",
     "passage_type": "form",
+    "source": "original",
     "paragraphs": [
       {
         "en": "LIMITED WARRANTY – AURA BLENDER MODEL X5\n\nAura Appliances warrants this product to be free from defects in materials and workmanship for a period of two years from the original date of purchase.",
@@ -2728,7 +2749,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"Proof of purchase must be presented\"."
+        "explanation": "Điều khoản bảo hành yêu cầu khách hàng xuất trình bằng chứng mua hàng khi gửi yêu cầu bảo hành, vì vậy chọn đáp án A."
       },
       {
         "q": "How can a customer extend the warranty?",
@@ -2784,8 +2805,9 @@
   {
     "slug": "restaurant-review-article",
     "title": "Review: Dining Out at Marlowe's",
-    "level": "600",
+    "level": "B2",
     "passage_type": "article",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Marlowe's, which opened in March on the waterfront, has quickly become one of the city's busiest restaurants. On a recent Friday evening, every table was taken by seven o'clock.",
@@ -2872,7 +2894,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"walk-in guests may wait more than an hour\"."
+        "explanation": "Bài đánh giá cho biết khách đến trực tiếp mà chưa đặt bàn có thể phải chờ hơn một giờ, nên nhà hàng khuyến nghị đặt bàn trước. Đáp án A đúng."
       },
       {
         "q": "The word \"generous\" in paragraph 2 is closest in meaning to",
@@ -2928,8 +2950,9 @@
   {
     "slug": "employee-expense-policy",
     "title": "Policy: Travel Expense Reimbursement",
-    "level": "750",
+    "level": "C1",
     "passage_type": "memo",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Employees who travel for business are eligible for reimbursement of reasonable expenses, including airfare, lodging, ground transportation, and meals, provided that all costs are properly documented.",
@@ -3039,7 +3062,7 @@
           }
         ],
         "answer": "B",
-        "explanation": "\"alcohol is not reimbursable under any circumstances\"."
+        "explanation": "Chính sách nêu rõ chi phí đồ uống có cồn không được hoàn lại trong bất kỳ trường hợp nào, vì vậy đáp án B đúng."
       }
     ],
     "vocabulary": [
@@ -3072,8 +3095,9 @@
   {
     "slug": "job-offer-negotiation-email",
     "title": "Email: Job Offer Follow-up",
-    "level": "750",
+    "level": "C1",
     "passage_type": "email",
+    "source": "original",
     "paragraphs": [
       {
         "en": "Dear Ms. Whitfield,\n\nThank you for extending the offer for the position of Senior Accountant. I am enthusiastic about joining Calloway & Pierce and contributing to your finance team.",
@@ -3137,7 +3161,7 @@
           }
         ],
         "answer": "D",
-        "explanation": "\"slightly below the range I was quoted\"."
+        "explanation": "Ông Reiner cho biết mức lương được đề xuất thấp hơn một chút so với khoảng lương đã được thông báo trong buổi phỏng vấn thứ hai, vì vậy chọn đáp án D."
       },
       {
         "q": "Why does he want a later start date?",
@@ -3160,7 +3184,7 @@
           }
         ],
         "answer": "A",
-        "explanation": "\"I must complete a handover at my current company.\""
+        "explanation": "Ông Reiner muốn bắt đầu làm việc muộn hơn để hoàn tất việc bàn giao tại công ty hiện tại, vì vậy đáp án A đúng."
       },
       {
         "q": "What does Mr. Reiner offer to do?",

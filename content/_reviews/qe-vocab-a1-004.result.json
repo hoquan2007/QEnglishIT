@@ -1,0 +1,17 @@
+{
+  "slug": "qe-vocab-a1-004",
+  "revision": "8c8aabf43641bc9be164f5ee4972c663e5eb27f8e20e279a3c2d51693de80108",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Blind solved 50/50 before key inspection. Fixed baby vs child ambiguity, singular friend translation, and color distractors. Added source-backed bilingual example explanations throughout.",
+  "admin_sample": [
+    10,
+    18,
+    33
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

@@ -16,7 +16,7 @@ export async function ListeningLessonDetail({ slug, base, backLabel }: { slug: s
       <Link href={base} className="text-sm text-brand-600 hover:underline">← {backLabel}</Link>
       <h1 className="mt-2 text-2xl font-extrabold">{l.title}</h1>
       <p className="text-sm text-slate-500">{[l.level, l.topic].filter(Boolean).join(" · ")}</p>
-      <Dictation lines={lines} keyPrefix={`ll:${l.id}`} defaultMode="full" nextHref={next ? `${base}/${next}` : undefined} />
+      <Dictation lines={lines} keyPrefix={`ll:${l.id}`} audioUrl={l.audio_url} defaultMode="full" nextHref={next ? `${base}/${next}` : undefined} />
     </>
   );
 }

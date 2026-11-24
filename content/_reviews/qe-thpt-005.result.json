@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-005",
+  "revision": "bb0d68891b980eded04af4407bc0b83e9e6598245987cb96ff6e0a67b768681d",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Giải độc lập dựa trên 50 câu trắc nghiệm, phương án lựa chọn và các đoạn văn trong bản blind revision tương ứng. Phần 1 dựa trên cấu trúc ngữ pháp. Phần 2 dựa trên nghĩa từ, kết hợp từ và ngữ cảnh giao tiếp. Phần 3–4 điền từ theo mạch văn. Phần 5–6 đối chiếu trực tiếp với thông tin và lập luận của các bài đọc. Các lời giải chi tiết nằm trong rationales.",
+  "admin_sample": [
+    10,
+    45,
+    49
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

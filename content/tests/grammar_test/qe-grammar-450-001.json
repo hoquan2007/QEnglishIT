@@ -1,0 +1,1431 @@
+{
+  "slug": "qe-grammar-450-001",
+  "title": "Kiểm tra ngữ pháp 450 – 1",
+  "exam_type": "grammar_test",
+  "level": "450",
+  "collection": "Ngân hàng QEnglishIT",
+  "duration_minutes": 30,
+  "total_questions": 40,
+  "difficulty": 1,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Sử dụng tiếng Anh",
+      "count": 40,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 0,
+      "section": "use_of_english",
+      "instructions": "Chọn một đáp án đúng.",
+      "questions": [
+        {
+          "question_text": "The soup ------- in the large pot.",
+          "explanation": "Smell diễn tả cảm giác là động từ nối, dùng tính từ delicious.",
+          "translation": "Món súp có mùi thơm trong chiếc nồi lớn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "smells delicious"
+            },
+            {
+              "key": "B",
+              "text": "delicious smells"
+            },
+            {
+              "key": "C",
+              "text": "smells deliciously"
+            },
+            {
+              "key": "D",
+              "text": "deliciously smells"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 1,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "02c7d153794e86cd31575d8fa7e077a0b6020ad3"
+        },
+        {
+          "question_text": "There are ------- minutes left before boarding.",
+          "explanation": "Minutes là đơn vị số lượng thời gian, dùng ten.",
+          "translation": "Còn mười phút nữa là lên máy bay.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tenth"
+            },
+            {
+              "key": "B",
+              "text": "tenthly"
+            },
+            {
+              "key": "C",
+              "text": "ten"
+            },
+            {
+              "key": "D",
+              "text": "tenst"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 2,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "066c3e5f524b83ce744761903a748afd96d9b1c8"
+        },
+        {
+          "question_text": "The librarians ------- the reference shelves right now.",
+          "explanation": "Right now cho biết hành động đang diễn ra, chủ ngữ số nhiều nên dùng are reorganizing.",
+          "translation": "Các thủ thư đang sắp xếp lại kệ tài liệu tham khảo ngay lúc này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reorganized"
+            },
+            {
+              "key": "B",
+              "text": "reorganize"
+            },
+            {
+              "key": "C",
+              "text": "are reorganizing"
+            },
+            {
+              "key": "D",
+              "text": "reorganizes"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 3,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "06a3350263d9bd69ac3d9f040d6ec22944dc65e5"
+        },
+        {
+          "question_text": "The new library ------- near the river.",
+          "explanation": "Sau is cần tính từ quiet làm bổ ngữ của thư viện.",
+          "translation": "Thư viện mới yên tĩnh gần con sông.",
+          "options": [
+            {
+              "key": "A",
+              "text": "quiet is"
+            },
+            {
+              "key": "B",
+              "text": "is quiet"
+            },
+            {
+              "key": "C",
+              "text": "is quietly"
+            },
+            {
+              "key": "D",
+              "text": "quietly is"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 4,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "098bc0e6bb576174addcd05ac91ea60d50be7569"
+        },
+        {
+          "question_text": "My father bought ------- for the balcony.",
+          "explanation": "Tính từ wooden đứng trước danh từ chair trong cụm danh từ.",
+          "translation": "Bố tôi mua một chiếc ghế gỗ cho ban công.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a chair wooden"
+            },
+            {
+              "key": "B",
+              "text": "wooden a chair"
+            },
+            {
+              "key": "C",
+              "text": "a wooden chair"
+            },
+            {
+              "key": "D",
+              "text": "chair a wooden"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 5,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "0a3989220a955588421740f3aac5ca85d12858d2"
+        },
+        {
+          "question_text": "The guide explained ------- to the visitors.",
+          "explanation": "Safety làm danh từ bổ nghĩa đứng trước rules.",
+          "translation": "Hướng dẫn viên giải thích các quy tắc an toàn cho khách tham quan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the rules safety"
+            },
+            {
+              "key": "B",
+              "text": "safety the rules"
+            },
+            {
+              "key": "C",
+              "text": "rules the safety"
+            },
+            {
+              "key": "D",
+              "text": "the safety rules"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 6,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "0ac72ac23b838a1772d6fb6ad2c753abd5dd3e4e"
+        },
+        {
+          "question_text": "Our internship coordinator ------- attendance every Friday afternoon.",
+          "explanation": "Every Friday afternoon diễn tả việc lặp lại, coordinator số ít nên động từ thêm -s.",
+          "translation": "Điều phối viên thực tập của chúng tôi kiểm tra điểm danh mỗi chiều thứ Sáu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "check"
+            },
+            {
+              "key": "B",
+              "text": "checks"
+            },
+            {
+              "key": "C",
+              "text": "checking"
+            },
+            {
+              "key": "D",
+              "text": "is check"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 7,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "117593043ae3ceda3843c38b0fdeb384c33d060b"
+        },
+        {
+          "question_text": "The facilities team ------- the air conditioners two weeks ago.",
+          "explanation": "Two weeks ago là mốc quá khứ xác định, động từ chia serviced.",
+          "translation": "Bộ phận cơ sở vật chất đã bảo dưỡng máy điều hòa cách đây hai tuần.",
+          "options": [
+            {
+              "key": "A",
+              "text": "serviced"
+            },
+            {
+              "key": "B",
+              "text": "services"
+            },
+            {
+              "key": "C",
+              "text": "has serviced"
+            },
+            {
+              "key": "D",
+              "text": "is servicing"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 8,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1366af23f6a2f6238fedee6694d1b866771dbed8"
+        },
+        {
+          "question_text": "The forecast predicts heavy rain, so the festival organizers ------- the outdoor stage.",
+          "explanation": "Dự báo thời tiết là căn cứ cho kế hoạch sắp thực hiện, nên dùng are going to cover.",
+          "translation": "Dự báo cho biết sẽ có mưa lớn nên ban tổ chức lễ hội sẽ che phủ sân khấu ngoài trời.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cover"
+            },
+            {
+              "key": "B",
+              "text": "are going to cover"
+            },
+            {
+              "key": "C",
+              "text": "covered"
+            },
+            {
+              "key": "D",
+              "text": "have covered"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 9,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-forms/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1553467a099d1053fd7c11c462515fcbcb9d4e65"
+        },
+        {
+          "question_text": "Our classroom ------- after the repair.",
+          "explanation": "Look là động từ nối, theo sau bằng tính từ fresh.",
+          "translation": "Phòng học của chúng tôi trông mới mẻ sau khi sửa chữa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fresh looks"
+            },
+            {
+              "key": "B",
+              "text": "looks freshly"
+            },
+            {
+              "key": "C",
+              "text": "looks fresh"
+            },
+            {
+              "key": "D",
+              "text": "freshly looks"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 10,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "169f682bd518064f2efd636dbaa20830e106c1fb"
+        },
+        {
+          "question_text": "The dentist is on the ------- floor.",
+          "explanation": "Địa điểm trong thứ tự các tầng cần fifth.",
+          "translation": "Phòng nha sĩ ở tầng năm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "five"
+            },
+            {
+              "key": "B",
+              "text": "fifth"
+            },
+            {
+              "key": "C",
+              "text": "fiveth"
+            },
+            {
+              "key": "D",
+              "text": "fiveteen"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 11,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "1cf74a0278933a1bd8a595b498c35330945ab184"
+        },
+        {
+          "question_text": "The bakery across from the station ------- fresh bread before sunrise each day.",
+          "explanation": "Cụm each day chỉ thói quen, chủ ngữ số ít the bakery nên dùng sells.",
+          "translation": "Tiệm bánh đối diện nhà ga bán bánh mì mới nướng trước lúc mặt trời mọc mỗi ngày.",
+          "options": [
+            {
+              "key": "A",
+              "text": "selling"
+            },
+            {
+              "key": "B",
+              "text": "sold"
+            },
+            {
+              "key": "C",
+              "text": "sells"
+            },
+            {
+              "key": "D",
+              "text": "has sold"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 12,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "33dd1fb7a24f907b3d159f048af208d19b66c6f9"
+        },
+        {
+          "question_text": "They ------- customer feedback while the trial is underway.",
+          "explanation": "While the trial is underway nêu tình huống hiện đang diễn ra, nên dùng are collecting.",
+          "translation": "Họ đang thu thập phản hồi khách hàng trong lúc giai đoạn thử nghiệm diễn ra.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are collecting"
+            },
+            {
+              "key": "B",
+              "text": "collected"
+            },
+            {
+              "key": "C",
+              "text": "collects"
+            },
+            {
+              "key": "D",
+              "text": "have collect"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 13,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-continuous/quiz",
+          "independent_review": "pending",
+          "fingerprint": "36f1260f1f9d0339357e79be5cd9b3797676092b"
+        },
+        {
+          "question_text": "Don't worry about the luggage. I ------- it upstairs for you.",
+          "explanation": "Lời đề nghị giúp đỡ được đưa ra ngay lúc nói thường dùng will carry.",
+          "translation": "Đừng lo về hành lý. Tôi sẽ mang nó lên tầng cho bạn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "carried"
+            },
+            {
+              "key": "B",
+              "text": "will carry"
+            },
+            {
+              "key": "C",
+              "text": "am carrying to"
+            },
+            {
+              "key": "D",
+              "text": "have carry"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 14,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-forms/quiz",
+          "independent_review": "pending",
+          "fingerprint": "383c960391528f8c09113b5205f542cfff1cba9d"
+        },
+        {
+          "question_text": "The nurse ------- at the front desk.",
+          "explanation": "Động từ checks đứng sau chủ ngữ và trước tân ngữ appointments.",
+          "translation": "Y tá kiểm tra các cuộc hẹn tại quầy tiếp tân.",
+          "options": [
+            {
+              "key": "A",
+              "text": "appointments checks"
+            },
+            {
+              "key": "B",
+              "text": "checks appointments"
+            },
+            {
+              "key": "C",
+              "text": "checks at appointments"
+            },
+            {
+              "key": "D",
+              "text": "appointments at checks"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 15,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "39c558681763dfc7edbb75ef2e1159e11661c723"
+        },
+        {
+          "question_text": "Please bring ------- copies of your ID card.",
+          "explanation": "Copies là số lượng cần đếm nên dùng three.",
+          "translation": "Vui lòng mang ba bản sao thẻ căn cước.",
+          "options": [
+            {
+              "key": "A",
+              "text": "three"
+            },
+            {
+              "key": "B",
+              "text": "third"
+            },
+            {
+              "key": "C",
+              "text": "threeth"
+            },
+            {
+              "key": "D",
+              "text": "the third"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 16,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "39fe548265082cf134b9371b0e5d95902eb60213"
+        },
+        {
+          "question_text": "We reserved ------- seats in the front row.",
+          "explanation": "Số ghế được đặt là số lượng eight.",
+          "translation": "Chúng tôi đặt tám chỗ ngồi ở hàng đầu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "eighth"
+            },
+            {
+              "key": "B",
+              "text": "eighteen-th"
+            },
+            {
+              "key": "C",
+              "text": "eight"
+            },
+            {
+              "key": "D",
+              "text": "eightieth"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 17,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3a7f8cc12f6f7708b85e5641fbfb53917da9a94b"
+        },
+        {
+          "question_text": "The box contains ------- markers.",
+          "explanation": "Đếm bút nên dùng fifteen.",
+          "translation": "Chiếc hộp chứa mười lăm bút đánh dấu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fifteenth"
+            },
+            {
+              "key": "B",
+              "text": "fifteen"
+            },
+            {
+              "key": "C",
+              "text": "fiveteen"
+            },
+            {
+              "key": "D",
+              "text": "fifteenths"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 18,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3ae2fb0d3fdb8dcba4ae87476fca1526da0c8d76"
+        },
+        {
+          "question_text": "The reception desk ------- walk-in appointments this morning because the online system is down.",
+          "explanation": "Hệ thống đang gặp sự cố trong buổi sáng hiện tại nên dùng hiện tại tiếp diễn is accepting.",
+          "translation": "Bộ phận lễ tân đang tiếp nhận các cuộc hẹn trực tiếp sáng nay vì hệ thống trực tuyến bị lỗi.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is accepting"
+            },
+            {
+              "key": "B",
+              "text": "accepts"
+            },
+            {
+              "key": "C",
+              "text": "accept"
+            },
+            {
+              "key": "D",
+              "text": "was accepted"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 19,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-continuous/quiz",
+          "independent_review": "pending",
+          "fingerprint": "3be2e7c2a2fa4f78828822921d2b7b68c8c53f38"
+        },
+        {
+          "question_text": "Where ------- the delegates stay during last month's summit?",
+          "explanation": "Last month's summit là sự kiện trong quá khứ, câu hỏi cần did và động từ stay nguyên mẫu.",
+          "translation": "Các đại biểu đã lưu trú ở đâu trong hội nghị thượng đỉnh tháng trước?",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 20,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "42d567cce3a18f331fe29bd0f27d9a5acd076713"
+        },
+        {
+          "question_text": "We ------- in the courtyard at noon.",
+          "explanation": "Ate đi trước tân ngữ our lunch.",
+          "translation": "Chúng tôi ăn bữa trưa trong sân vào giữa trưa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "our lunch ate"
+            },
+            {
+              "key": "B",
+              "text": "ate lunch our"
+            },
+            {
+              "key": "C",
+              "text": "lunch our ate"
+            },
+            {
+              "key": "D",
+              "text": "ate our lunch"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 21,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "46eb1f3a8db0677796e65780d839c9a22bcbacd4"
+        },
+        {
+          "question_text": "The engineers ------- the ventilation system at present.",
+          "explanation": "At present chỉ hành động đang diễn ra, engineers số nhiều nên dùng are testing.",
+          "translation": "Các kỹ sư đang kiểm tra hệ thống thông gió lúc này.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tests"
+            },
+            {
+              "key": "B",
+              "text": "tested"
+            },
+            {
+              "key": "C",
+              "text": "test"
+            },
+            {
+              "key": "D",
+              "text": "are testing"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 22,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-continuous/exercises",
+          "independent_review": "pending",
+          "fingerprint": "4bf8a27a7375e8ddbee8ba275f872da1d55b1db5"
+        },
+        {
+          "question_text": "My birthday is on the ------- of August.",
+          "explanation": "Ngày trong tháng dùng số thứ tự ninth, bỏ e của nine.",
+          "translation": "Sinh nhật tôi là ngày 9 tháng Tám.",
+          "options": [
+            {
+              "key": "A",
+              "text": "nine"
+            },
+            {
+              "key": "B",
+              "text": "nineth"
+            },
+            {
+              "key": "C",
+              "text": "nineteen"
+            },
+            {
+              "key": "D",
+              "text": "ninth"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 23,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "58a21d1663a4de9598cfc33ee7114e98dd0b8bf6"
+        },
+        {
+          "question_text": "The repair team ------- on Monday.",
+          "explanation": "Arrived đứng trước cụm địa điểm at the workshop.",
+          "translation": "Đội sửa chữa đến xưởng vào thứ Hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "arrived at the workshop"
+            },
+            {
+              "key": "B",
+              "text": "at the workshop arrived"
+            },
+            {
+              "key": "C",
+              "text": "arrived workshop at the"
+            },
+            {
+              "key": "D",
+              "text": "workshop arrived at the"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 24,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "5ebccc1546ef2147593282a741548b6ee6505ce6"
+        },
+        {
+          "question_text": "Turn left at the ------- traffic light.",
+          "explanation": "Chỉ đèn theo vị trí trong chuỗi, dùng second.",
+          "translation": "Rẽ trái tại đèn giao thông thứ hai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "two"
+            },
+            {
+              "key": "B",
+              "text": "twice"
+            },
+            {
+              "key": "C",
+              "text": "second"
+            },
+            {
+              "key": "D",
+              "text": "twoth"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 25,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/quiz",
+          "independent_review": "pending",
+          "fingerprint": "61f5a399a13b43fd33e2e6377c44224c8e57f807"
+        },
+        {
+          "question_text": "Ms. Nguyen ------- the contract before lunch yesterday.",
+          "explanation": "Yesterday xác định thời điểm quá khứ và hành động ký đã hoàn tất, nên dùng signed.",
+          "translation": "Bà Nguyên đã ký hợp đồng trước bữa trưa hôm qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "signs"
+            },
+            {
+              "key": "B",
+              "text": "has signed"
+            },
+            {
+              "key": "C",
+              "text": "signed"
+            },
+            {
+              "key": "D",
+              "text": "was signing"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 26,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-simple/quiz",
+          "independent_review": "pending",
+          "fingerprint": "64445465345533228a141f1164f0f3ba03c32892"
+        },
+        {
+          "question_text": "Please respond ------- to requests marked urgent.",
+          "explanation": "Động từ respond cần trạng từ chỉ cách thức promptly.",
+          "translation": "Vui lòng phản hồi nhanh chóng các yêu cầu được đánh dấu khẩn cấp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "promptly"
+            },
+            {
+              "key": "B",
+              "text": "prompt"
+            },
+            {
+              "key": "C",
+              "text": "promptness"
+            },
+            {
+              "key": "D",
+              "text": "prompting"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 27,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#parts-of-speech-overview/quiz",
+          "independent_review": "pending",
+          "fingerprint": "7168f0f9888b417bd6349879eadfa67dabd455d0"
+        },
+        {
+          "question_text": "The instructions were written ------- enough for every visitor to understand.",
+          "explanation": "Bổ nghĩa động từ written cần trạng từ clearly, tạo cụm clearly enough.",
+          "translation": "Hướng dẫn được viết đủ rõ ràng để mọi khách tham quan đều hiểu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "clear"
+            },
+            {
+              "key": "B",
+              "text": "clarity"
+            },
+            {
+              "key": "C",
+              "text": "clarify"
+            },
+            {
+              "key": "D",
+              "text": "clearly"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 28,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#parts-of-speech-overview/exercises",
+          "independent_review": "pending",
+          "fingerprint": "7211104e7f3f6255459905305196711cb0404c62"
+        },
+        {
+          "question_text": "The parcel weighs ------- kilograms.",
+          "explanation": "Đo khối lượng cần số đếm forty đúng chính tả.",
+          "translation": "Kiện hàng nặng bốn mươi ki-lô-gam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fortieth"
+            },
+            {
+              "key": "B",
+              "text": "fourty"
+            },
+            {
+              "key": "C",
+              "text": "fourtieth"
+            },
+            {
+              "key": "D",
+              "text": "forty"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 29,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "7a2be7981cc0e406636196ed15651a49345c0cd5"
+        },
+        {
+          "question_text": "We need ------- chairs for the conference room.",
+          "explanation": "Cần số lượng ghế nên dùng số đếm twelve.",
+          "translation": "Chúng tôi cần mười hai chiếc ghế cho phòng hội nghị.",
+          "options": [
+            {
+              "key": "A",
+              "text": "twelve"
+            },
+            {
+              "key": "B",
+              "text": "twelfth"
+            },
+            {
+              "key": "C",
+              "text": "twelveth"
+            },
+            {
+              "key": "D",
+              "text": "the twelfth"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 30,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#cardinal-ordinal-numbers-in-context/exercises",
+          "independent_review": "pending",
+          "fingerprint": "7aa7b443600376e52f5957d52de27b446855fb98"
+        },
+        {
+          "question_text": "The technicians never ------- confidential records on personal devices.",
+          "explanation": "Chủ ngữ technicians số nhiều và trạng từ never diễn tả thói quen nên dùng động từ nguyên mẫu store.",
+          "translation": "Các kỹ thuật viên không bao giờ lưu hồ sơ mật trên thiết bị cá nhân.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stores"
+            },
+            {
+              "key": "B",
+              "text": "store"
+            },
+            {
+              "key": "C",
+              "text": "storing"
+            },
+            {
+              "key": "D",
+              "text": "stored"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 31,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "7de9381cdaa28570448981d81d10b935eef9cff2"
+        },
+        {
+          "question_text": "The hallway ------- after cleaning.",
+          "explanation": "Become là động từ nối, cần tính từ slippery theo sau.",
+          "translation": "Hành lang trở nên trơn trượt sau khi lau dọn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "slippery became"
+            },
+            {
+              "key": "B",
+              "text": "became slipperily"
+            },
+            {
+              "key": "C",
+              "text": "slipperily became"
+            },
+            {
+              "key": "D",
+              "text": "became slippery"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 32,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "8352d481fe77fccb4a796cd6e169fdeb4a5a5410"
+        },
+        {
+          "question_text": "Whenever the alarm sounds, the security team ------- the entrances.",
+          "explanation": "Whenever chỉ thói quen lặp lại, security team được xem là một đơn vị số ít nên dùng inspects.",
+          "translation": "Mỗi khi chuông báo động vang lên, đội an ninh kiểm tra các lối vào.",
+          "options": [
+            {
+              "key": "A",
+              "text": "inspect"
+            },
+            {
+              "key": "B",
+              "text": "inspecting"
+            },
+            {
+              "key": "C",
+              "text": "is inspect"
+            },
+            {
+              "key": "D",
+              "text": "inspects"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 33,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-simple/quiz",
+          "independent_review": "pending",
+          "fingerprint": "877d314bb77ef9e047ec83fe4c30fb2e84cc4b6d"
+        },
+        {
+          "question_text": "Please leave your contact details, and our coordinator ------- you tomorrow.",
+          "explanation": "Tomorrow nói đến hành động trong tương lai, will contact diễn tả lời hứa liên hệ.",
+          "translation": "Vui lòng để lại thông tin liên lạc và điều phối viên của chúng tôi sẽ liên hệ với bạn vào ngày mai.",
+          "options": [
+            {
+              "key": "A",
+              "text": "contacted"
+            },
+            {
+              "key": "B",
+              "text": "contacting"
+            },
+            {
+              "key": "C",
+              "text": "will contact"
+            },
+            {
+              "key": "D",
+              "text": "contacts"
+            }
+          ],
+          "correct_answer": "C",
+          "number": 34,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-forms/exercises",
+          "independent_review": "pending",
+          "fingerprint": "879c7d181c60e0f5930a8b505b211a98255ada56"
+        },
+        {
+          "question_text": "------- your branch close earlier on public holidays?",
+          "explanation": "Câu hỏi hiện tại đơn với chủ ngữ số ít your branch cần trợ động từ Does.",
+          "translation": "Chi nhánh của bạn có đóng cửa sớm hơn vào các ngày lễ không?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is"
+            },
+            {
+              "key": "B",
+              "text": "Does"
+            },
+            {
+              "key": "C",
+              "text": "Are"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 35,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#present-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8b3bcd80ac3f0f6ba4a41dc7e95387095e409bfc"
+        },
+        {
+          "question_text": "We ------- at the station yesterday.",
+          "explanation": "Động từ met cần tân ngữ our cousins ngay sau đó.",
+          "translation": "Chúng tôi gặp anh chị em họ ở nhà ga hôm qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "our cousins met"
+            },
+            {
+              "key": "B",
+              "text": "met yesterday our cousins"
+            },
+            {
+              "key": "C",
+              "text": "cousins our met"
+            },
+            {
+              "key": "D",
+              "text": "met our cousins"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 36,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "8cb27bad8f88e494e1d64a5a16cb404bbb3c960c"
+        },
+        {
+          "question_text": "Nora ------- on her tablet.",
+          "explanation": "Động từ reads đứng trước tân ngữ the news.",
+          "translation": "Nora đọc tin tức trên máy tính bảng.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reads the news"
+            },
+            {
+              "key": "B",
+              "text": "the news reads"
+            },
+            {
+              "key": "C",
+              "text": "reads news the"
+            },
+            {
+              "key": "D",
+              "text": "the reads news"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 37,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/exercises",
+          "independent_review": "pending",
+          "fingerprint": "96951c0229fd765e987b45d43c6a05854c9fd8e1"
+        },
+        {
+          "question_text": "We have booked the venue and ------- the product launch there next Friday.",
+          "explanation": "Việc đặt trước địa điểm chứng tỏ đã có kế hoạch, nên chọn are going to hold.",
+          "translation": "Chúng tôi đã đặt địa điểm và sẽ tổ chức buổi ra mắt sản phẩm ở đó vào thứ Sáu tới.",
+          "options": [
+            {
+              "key": "A",
+              "text": "held"
+            },
+            {
+              "key": "B",
+              "text": "have held"
+            },
+            {
+              "key": "C",
+              "text": "holding"
+            },
+            {
+              "key": "D",
+              "text": "are going to hold"
+            }
+          ],
+          "correct_answer": "D",
+          "number": 38,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#future-forms/quiz",
+          "independent_review": "pending",
+          "fingerprint": "97e69c1bd2ff293c8a22693358f57dfd1f023aef"
+        },
+        {
+          "question_text": "The auditor ------- at the branch yesterday afternoon.",
+          "explanation": "Yesterday afternoon là dấu hiệu quá khứ đơn nên dùng arrived.",
+          "translation": "Kiểm toán viên đã đến chi nhánh vào chiều hôm qua.",
+          "options": [
+            {
+              "key": "A",
+              "text": "arrived"
+            },
+            {
+              "key": "B",
+              "text": "arrive"
+            },
+            {
+              "key": "C",
+              "text": "arriving"
+            },
+            {
+              "key": "D",
+              "text": "has arrived"
+            }
+          ],
+          "correct_answer": "A",
+          "number": 39,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-a.json#past-simple/exercises",
+          "independent_review": "pending",
+          "fingerprint": "9960c4d916165cf376d8d98c54b22d7fda0862f8"
+        },
+        {
+          "question_text": "My aunt ------- near the bus stop.",
+          "explanation": "Runs phải đứng trước tân ngữ a bakery.",
+          "translation": "Dì tôi điều hành một tiệm bánh gần trạm xe buýt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a bakery runs"
+            },
+            {
+              "key": "B",
+              "text": "runs a bakery"
+            },
+            {
+              "key": "C",
+              "text": "runs bakery a"
+            },
+            {
+              "key": "D",
+              "text": "bakery a runs"
+            }
+          ],
+          "correct_answer": "B",
+          "number": 40,
+          "part": 0,
+          "question_type": "mcq",
+          "source": "original",
+          "difficulty": 1,
+          "skill_tags": [
+            "grammar_test"
+          ],
+          "bank_ref": "D:\\QEnglishIT\\content\\grammar\\batch-e.json#basic-affirmative-word-order/quiz",
+          "independent_review": "pending",
+          "fingerprint": "99a29821f8e5a4225dab534ff8f54c46119c53ed"
+        }
+      ]
+    }
+  ]
+}

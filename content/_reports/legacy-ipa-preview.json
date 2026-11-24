@@ -1,0 +1,19 @@
+{
+  "mode": "preview",
+  "performedAt": "2026-11-23T18:52:15.573Z",
+  "metrics": {
+    "existingRows": 1592,
+    "matchedRows": 0,
+    "newIpaUS": 0,
+    "newIpaUK": 0,
+    "initiallyMissingUS": 150,
+    "initiallyMissingUK": 424
+  },
+  "notice": "Pronunciations are automatically sourced and have not received human homograph review.",
+  "sources": [
+    "ipa-dict-us",
+    "ipa-dict-uk",
+    "kaikki-simple"
+  ],
+  "changes": []
+}

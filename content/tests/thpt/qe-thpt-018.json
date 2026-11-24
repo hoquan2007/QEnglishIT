@@ -1,0 +1,1901 @@
+{
+  "slug": "qe-thpt-018",
+  "title": "Đề luyện thi tiếng Anh THPT 18 – Trạm nước, Bảo tàng xúc giác và Lưu trữ ký ức",
+  "collection": "QEnglishIT Original THPT Practice",
+  "exam_type": "thpt",
+  "level": "B1-B2",
+  "cefr": "B2",
+  "difficulty": 3,
+  "duration_minutes": 60,
+  "total_questions": 50,
+  "source": "original",
+  "status": "draft",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "THPT",
+    "water-refill",
+    "museum-accessibility",
+    "oral-history"
+  ],
+  "sections": [
+    {
+      "key": "use_of_english",
+      "title": "Ngữ pháp, từ vựng và điền từ",
+      "parts": [
+        1,
+        2,
+        3
+      ],
+      "count": 30,
+      "minutes": 30
+    },
+    {
+      "key": "reading",
+      "title": "Đọc hiểu",
+      "parts": [
+        4,
+        5,
+        6
+      ],
+      "count": 20,
+      "minutes": 30
+    }
+  ],
+  "groups": [
+    {
+      "part": 1,
+      "section": "use_of_english",
+      "instructions": "Choose the best option for each item.",
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The volunteers ------- the hall since eight this morning, and they are still working.",
+          "options": [
+            {
+              "key": "A",
+              "text": "decorate"
+            },
+            {
+              "key": "B",
+              "text": "had decorated"
+            },
+            {
+              "key": "C",
+              "text": "have been decorating"
+            },
+            {
+              "key": "D",
+              "text": "will decorate"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Since eight this morning và still working chỉ hành động bắt đầu trong quá khứ và còn tiếp diễn, dùng hiện tại hoàn thành tiếp diễn.",
+          "translation": "Các tình nguyện viên đã trang trí hội trường từ tám giờ sáng và vẫn đang làm việc.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "present-perfect-continuous"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The librarian asked us to ------- the borrowed tablets to the front desk before leaving.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hand in"
+            },
+            {
+              "key": "B",
+              "text": "come across"
+            },
+            {
+              "key": "C",
+              "text": "look after"
+            },
+            {
+              "key": "D",
+              "text": "set up"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Hand in nghĩa là nộp hoặc giao lại vật được yêu cầu.",
+          "translation": "Thủ thư yêu cầu chúng tôi giao lại máy tính bảng đã mượn tại quầy trước khi rời đi.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "phrasal-verb"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Each of the two finalists was given a certificate, but ------- received the prize because the judging was postponed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "both"
+            },
+            {
+              "key": "B",
+              "text": "every"
+            },
+            {
+              "key": "C",
+              "text": "either"
+            },
+            {
+              "key": "D",
+              "text": "neither"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Neither chỉ không ai trong hai người; việc chấm giải bị hoãn nên chưa ai nhận giải.",
+          "translation": "Mỗi người trong hai thí sinh chung kết được cấp giấy chứng nhận, nhưng không ai nhận giải vì việc chấm giải bị hoãn.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "determiner"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The woman ------- bicycle was damaged reported the incident to the security guard.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whom"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Whose đứng trước danh từ bicycle để biểu thị quan hệ sở hữu.",
+          "translation": "Người phụ nữ có chiếc xe đạp bị hư đã báo sự việc với bảo vệ.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The volunteers received clear instructions on how to deal ------- unexpected problems.",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "with"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Deal with là cụm động từ nghĩa là xử lý một vấn đề.",
+          "translation": "Các tình nguyện viên nhận được hướng dẫn rõ ràng về cách xử lý những vấn đề bất ngờ.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "If the library were closer to my house, I ------- there more often.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will have gone"
+            },
+            {
+              "key": "B",
+              "text": "went"
+            },
+            {
+              "key": "C",
+              "text": "had gone"
+            },
+            {
+              "key": "D",
+              "text": "would go"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Điều kiện loại hai dùng were ở mệnh đề if và would + động từ nguyên mẫu ở mệnh đề chính.",
+          "translation": "Nếu thư viện gần nhà tôi hơn, tôi sẽ đến đó thường xuyên hơn.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conditional"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 7,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The new entrance makes the building more ------- to people who use wheelchairs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "accessible"
+            },
+            {
+              "key": "B",
+              "text": "access"
+            },
+            {
+              "key": "C",
+              "text": "accessibly"
+            },
+            {
+              "key": "D",
+              "text": "accessibility"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau more cần tính từ accessible để mô tả mức độ dễ tiếp cận của tòa nhà.",
+          "translation": "Lối vào mới giúp người sử dụng xe lăn dễ tiếp cận tòa nhà hơn.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "My sister regrets ------- her old notebooks before checking their contents.",
+          "options": [
+            {
+              "key": "A",
+              "text": "throw away"
+            },
+            {
+              "key": "B",
+              "text": "to throw away"
+            },
+            {
+              "key": "C",
+              "text": "throwing away"
+            },
+            {
+              "key": "D",
+              "text": "thrown away"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Regret + V-ing diễn tả sự hối tiếc về hành động đã xảy ra.",
+          "translation": "Chị tôi hối tiếc vì đã vứt những cuốn vở cũ trước khi kiểm tra nội dung.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "verb-pattern"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Neither of the two proposed dates ------- suitable for the entire team.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "have been"
+            },
+            {
+              "key": "C",
+              "text": "were being"
+            },
+            {
+              "key": "D",
+              "text": "are being"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Neither of chỉ từng lựa chọn riêng lẻ, trong ngữ cảnh trang trọng dùng động từ số ít is.",
+          "translation": "Không ngày nào trong hai ngày được đề xuất phù hợp với cả nhóm.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "subject-verb-agreement"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 10,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "------- the steep climb and the weight of our bags, we reached the campsite before dark.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Because"
+            },
+            {
+              "key": "C",
+              "text": "Despite"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Despite đi với cụm danh từ và diễn tả sự nhượng bộ trước hai trở ngại.",
+          "translation": "Mặc dù đường leo dốc và túi nặng, chúng tôi đã đến khu cắm trại trước khi trời tối.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "concession"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The bridge ------- at the moment, so pedestrians must use the temporary crossing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has repaired"
+            },
+            {
+              "key": "B",
+              "text": "was repairing"
+            },
+            {
+              "key": "C",
+              "text": "repairs"
+            },
+            {
+              "key": "D",
+              "text": "is being repaired"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "At the moment và chủ ngữ chịu tác động yêu cầu hiện tại tiếp diễn bị động.",
+          "translation": "Cây cầu đang được sửa chữa nên người đi bộ phải dùng lối qua đường tạm thời.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "passive-voice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The coach encouraged everyone to ------- an effort to arrive on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "make"
+            },
+            {
+              "key": "C",
+              "text": "set"
+            },
+            {
+              "key": "D",
+              "text": "hold"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Make an effort là kết hợp từ cố định nghĩa là nỗ lực.",
+          "translation": "Huấn luyện viên khuyến khích mọi người cố gắng đến đúng giờ.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 13,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Of the two routes, the riverside path is ------- for cyclists because it has fewer steep sections.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the safest of all"
+            },
+            {
+              "key": "B",
+              "text": "as safe"
+            },
+            {
+              "key": "C",
+              "text": "more safely"
+            },
+            {
+              "key": "D",
+              "text": "the safer"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Khi so sánh hai lựa chọn đã xác định, dùng the + tính từ so sánh hơn (the safer).",
+          "translation": "Trong hai tuyến đường, đường ven sông an toàn hơn cho người đi xe đạp vì có ít đoạn dốc hơn.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The audience listened ------- as the young musician explained her choice of songs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attentively"
+            },
+            {
+              "key": "B",
+              "text": "attention"
+            },
+            {
+              "key": "C",
+              "text": "attentive"
+            },
+            {
+              "key": "D",
+              "text": "attend"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Trạng từ attentively bổ nghĩa cho động từ listened.",
+          "translation": "Khán giả chăm chú lắng nghe khi nhạc sĩ trẻ giải thích lựa chọn bài hát của mình.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "You ------- have brought a towel; the swimming pool provides one for every visitor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mustn't"
+            },
+            {
+              "key": "B",
+              "text": "can't"
+            },
+            {
+              "key": "C",
+              "text": "needn't"
+            },
+            {
+              "key": "D",
+              "text": "wouldn't"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Needn't have + phân từ diễn tả việc đã làm nhưng không cần thiết.",
+          "translation": "Bạn đã không cần mang khăn vì hồ bơi cung cấp khăn cho mỗi khách.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "modal-perfect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 16,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The organiser asked us ------- our names clearly on the registration form.",
+          "options": [
+            {
+              "key": "A",
+              "text": "writing"
+            },
+            {
+              "key": "B",
+              "text": "to write"
+            },
+            {
+              "key": "C",
+              "text": "write"
+            },
+            {
+              "key": "D",
+              "text": "written"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ask + tân ngữ + to-infinitive diễn tả yêu cầu ai làm gì.",
+          "translation": "Người tổ chức yêu cầu chúng tôi viết tên rõ ràng trên phiếu đăng ký.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "verb-pattern"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "Not until the lights came on ------- how large the room was.",
+          "options": [
+            {
+              "key": "A",
+              "text": "we realised"
+            },
+            {
+              "key": "B",
+              "text": "did we realise"
+            },
+            {
+              "key": "C",
+              "text": "we did realise"
+            },
+            {
+              "key": "D",
+              "text": "had we realise"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Not until đặt đầu câu dẫn đến đảo trợ động từ did trước chủ ngữ ở mệnh đề chính.",
+          "translation": "Mãi đến khi đèn bật sáng chúng tôi mới nhận ra căn phòng rộng đến mức nào.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "inversion"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "After checking the weather forecast, we decided to ------- the outdoor meeting indoors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "borrow"
+            },
+            {
+              "key": "B",
+              "text": "deliver"
+            },
+            {
+              "key": "C",
+              "text": "move"
+            },
+            {
+              "key": "D",
+              "text": "collect"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Move phù hợp với việc chuyển địa điểm cuộc họp từ ngoài trời vào trong nhà.",
+          "translation": "Sau khi xem dự báo thời tiết, chúng tôi quyết định chuyển cuộc họp ngoài trời vào trong nhà.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 19,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The laboratory is closed on Sundays, -------?",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "does it"
+            },
+            {
+              "key": "D",
+              "text": "isn't it"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Mệnh đề khẳng định dùng is nên câu hỏi đuôi phủ định là isn't it.",
+          "translation": "Phòng thí nghiệm đóng cửa vào Chủ nhật, phải không?",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "question-tag"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "part": 1,
+          "question_type": "mcq",
+          "question_text": "The guide spoke slowly so that visitors ------- follow the instructions without difficulty.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could"
+            },
+            {
+              "key": "B",
+              "text": "ought"
+            },
+            {
+              "key": "C",
+              "text": "had"
+            },
+            {
+              "key": "D",
+              "text": "must have"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Could + động từ nguyên mẫu biểu thị khả năng thực hiện mục đích trong quá khứ.",
+          "translation": "Hướng dẫn viên nói chậm để khách có thể làm theo chỉ dẫn dễ dàng.",
+          "difficulty": 3,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "purpose"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "section": "use_of_english",
+      "instructions": "Read the notice and complete the numbered blanks.",
+      "source": "original",
+      "passage": "Behind the Scenes at the Theatre\n\nThe town theatre invites residents to an open day next Saturday. Visitors will be shown how stage scenery is built and how lighting can change the appearance of a room. The tour is suitable for anyone -------(21)------- is interested in theatre, including people with no acting experience. As space backstage is limited, advance booking is -------(22)-------. Please arrive fifteen minutes before your chosen session so that staff have enough time -------(23)------- your ticket. For safety reasons, visitors must keep personal bags -------(24)------- the designated lockers during the tour. Photography is allowed in the main hall, but visitors should ask staff -------(25)------- before taking pictures backstage.",
+      "questions": [
+        {
+          "number": 21,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (21).",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Who làm chủ ngữ của mệnh đề quan hệ bổ nghĩa cho anyone.",
+          "translation": "Chuyến tham quan phù hợp với bất cứ ai quan tâm đến sân khấu.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "relative-clause"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 22,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (22).",
+          "options": [
+            {
+              "key": "A",
+              "text": "essentially"
+            },
+            {
+              "key": "B",
+              "text": "essence"
+            },
+            {
+              "key": "C",
+              "text": "essential"
+            },
+            {
+              "key": "D",
+              "text": "essentials"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Sau is cần tính từ essential để diễn tả việc đặt trước là cần thiết.",
+          "translation": "Vì không gian hậu trường hạn chế, việc đặt trước là cần thiết.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "word-form"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (23).",
+          "options": [
+            {
+              "key": "A",
+              "text": "checking"
+            },
+            {
+              "key": "B",
+              "text": "checked"
+            },
+            {
+              "key": "C",
+              "text": "check"
+            },
+            {
+              "key": "D",
+              "text": "to check"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Enough time + to-infinitive diễn tả có đủ thời gian để thực hiện hành động.",
+          "translation": "Nhân viên có đủ thời gian kiểm tra vé của bạn.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "infinitive"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (24).",
+          "options": [
+            {
+              "key": "A",
+              "text": "onto"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "among"
+            },
+            {
+              "key": "D",
+              "text": "towards"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "In the lockers chỉ việc cất đồ bên trong tủ khóa.",
+          "translation": "Khách phải cất túi cá nhân trong các tủ khóa được chỉ định.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "preposition"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 25,
+          "part": 2,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (25).",
+          "options": [
+            {
+              "key": "A",
+              "text": "at attention"
+            },
+            {
+              "key": "B",
+              "text": "for permission"
+            },
+            {
+              "key": "C",
+              "text": "in agreement"
+            },
+            {
+              "key": "D",
+              "text": "on purpose"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Ask someone for permission là xin phép ai đó.",
+          "translation": "Khách nên xin phép nhân viên trước khi chụp ảnh hậu trường.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "collocation"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "use_of_english",
+      "instructions": "Read the text and complete the numbered blanks.",
+      "source": "original",
+      "passage": "Saving Family Photographs\n\nOld photographs often carry stories that family members want to preserve. Before scanning them, people should remove loose dust with a soft brush, -------(26)------- taking care not to scratch the surface. Once the images have been copied, meaningful file names make it easier to -------(27)------- particular photographs later. A short note explaining who appears in each picture may be just as valuable -------(28)------- the image itself. Digital files should also be backed up in a separate location -------(29)------- a single device fails. By involving older relatives in the process, families can record details that might otherwise -------(30)------- forgotten.",
+      "questions": [
+        {
+          "number": 26,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (26).",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "until"
+            },
+            {
+              "key": "C",
+              "text": "while"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "While + V-ing diễn tả hai hành động cùng diễn ra: phủi bụi và cẩn thận tránh làm xước.",
+          "translation": "Hãy phủi bụi bằng chổi mềm đồng thời cẩn thận để không làm xước bề mặt.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conjunction"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (27).",
+          "options": [
+            {
+              "key": "A",
+              "text": "invent"
+            },
+            {
+              "key": "B",
+              "text": "dismiss"
+            },
+            {
+              "key": "C",
+              "text": "withdraw"
+            },
+            {
+              "key": "D",
+              "text": "locate"
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Locate nghĩa là tìm ra vị trí hoặc tìm được một tệp cụ thể.",
+          "translation": "Tên tệp có ý nghĩa giúp tìm lại từng bức ảnh dễ hơn.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "vocabulary"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 28,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (28).",
+          "options": [
+            {
+              "key": "A",
+              "text": "as"
+            },
+            {
+              "key": "B",
+              "text": "than"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Cấu trúc so sánh bằng as + tính từ + as, ở đây có just để nhấn mạnh.",
+          "translation": "Một ghi chú ngắn có thể quý giá ngang với chính bức ảnh.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "comparison"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (29).",
+          "options": [
+            {
+              "key": "A",
+              "text": "even though"
+            },
+            {
+              "key": "B",
+              "text": "as long as"
+            },
+            {
+              "key": "C",
+              "text": "in case"
+            },
+            {
+              "key": "D",
+              "text": "as if"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "In case diễn tả việc chuẩn bị đề phòng một thiết bị gặp lỗi.",
+          "translation": "Nên sao lưu tệp ở nơi riêng để đề phòng một thiết bị bị hỏng.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "conjunction"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "part": 3,
+          "question_type": "mcq",
+          "question_text": "Choose the best option for blank (30).",
+          "options": [
+            {
+              "key": "A",
+              "text": "be"
+            },
+            {
+              "key": "B",
+              "text": "being"
+            },
+            {
+              "key": "C",
+              "text": "been"
+            },
+            {
+              "key": "D",
+              "text": "to be"
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Sau might dùng động từ nguyên mẫu be, tạo cấu trúc bị động might be forgotten.",
+          "translation": "Các gia đình có thể ghi lại những chi tiết mà nếu không thì có thể bị quên mất.",
+          "difficulty": 2,
+          "tags": [
+            "use_of_english"
+          ],
+          "skill_tags": [
+            "passive-voice"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "section": "reading",
+      "instructions": "Read the article and answer the questions.",
+      "source": "original",
+      "passage": "Water Refill Stations at a Sports Centre\n\nA sports centre introduced three water refill stations after staff noticed that its rubbish bins were often full of disposable bottles. The centre placed two stations near the changing rooms and one beside the indoor courts. Visitors could continue to buy drinks at the reception desk, but they were encouraged to bring reusable bottles.\n\nDuring the first month, staff recorded how often each station was used. The machine near the courts proved especially popular, and queues sometimes formed between classes. The manager moved a less frequently used station from a changing-room corridor to the entrance of the courts. Staff also added clear signs explaining where visitors could refill bottles.\n\nAfter three months, the centre reported a reduction in the number of disposable bottles collected from its bins. The manager decided to keep monitoring water use and maintenance costs before ordering any additional machines. She also invited visitors to report problems through a short online form.",
+      "questions": [
+        {
+          "number": 31,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What prompted the centre to install refill stations?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The reception desk could no longer meet demand for bottled drinks."
+            },
+            {
+              "key": "B",
+              "text": "The existing refill point by the courts was frequently crowded."
+            },
+            {
+              "key": "C",
+              "text": "Visitors often left reusable bottles in the changing rooms."
+            },
+            {
+              "key": "D",
+              "text": "Its bins frequently contained many disposable bottles."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn một nói các thùng rác thường đầy chai dùng một lần, dẫn đến việc lắp trạm lấy nước.",
+          "translation": "Điều gì khiến trung tâm lắp các trạm lấy nước?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Where was the station with especially high demand originally located?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the reception desk."
+            },
+            {
+              "key": "B",
+              "text": "Beside the indoor courts."
+            },
+            {
+              "key": "C",
+              "text": "At the entrance to the courts."
+            },
+            {
+              "key": "D",
+              "text": "In the changing-room corridor."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn hai xác định máy gần các sân trong nhà đặc biệt đông người dùng.",
+          "translation": "Trạm có nhu cầu đặc biệt cao ban đầu được đặt ở đâu?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Why did the manager relocate one station?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To replace the need for the original station by the courts."
+            },
+            {
+              "key": "B",
+              "text": "To encourage visitors to purchase drinks at reception."
+            },
+            {
+              "key": "C",
+              "text": "To make the changing-room station easier to maintain."
+            },
+            {
+              "key": "D",
+              "text": "To provide another refill point near the busy courts."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Máy gần sân thường có hàng chờ nên quản lý chuyển một máy ít dùng đến lối vào sân.",
+          "translation": "Vì sao người quản lý chuyển vị trí một trạm?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 34,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "The word \"disposable\" in paragraph 1 is closest in meaning to -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "intended to be refilled repeatedly"
+            },
+            {
+              "key": "B",
+              "text": "available for immediate use"
+            },
+            {
+              "key": "C",
+              "text": "intended to be thrown away after use"
+            },
+            {
+              "key": "D",
+              "text": "made to withstand frequent handling"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Disposable chỉ đồ được thiết kế để bỏ đi sau khi sử dụng.",
+          "translation": "Từ disposable trong đoạn một gần nghĩa nhất với từ hoặc cụm nào?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "vocabulary-in-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "What does the manager plan to do before buying more machines?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Continue checking water consumption and maintenance expenses."
+            },
+            {
+              "key": "B",
+              "text": "Compare the performance of stations only during busy classes."
+            },
+            {
+              "key": "C",
+              "text": "Wait until the online form shows that every visitor uses reusable bottles."
+            },
+            {
+              "key": "D",
+              "text": "Calculate the income from bottled drinks before moving the remaining station."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn cuối nêu rõ quản lý muốn theo dõi lượng nước và chi phí bảo trì trước khi đặt thêm máy.",
+          "translation": "Người quản lý định làm gì trước khi mua thêm máy?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "part": 4,
+          "question_type": "mcq",
+          "question_text": "Which title best summarises the article?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rearranging Facilities to Shorten Queues Between Sports Classes"
+            },
+            {
+              "key": "B",
+              "text": "Testing a Way to Reduce Bottle Waste at a Sports Centre"
+            },
+            {
+              "key": "C",
+              "text": "Replacing Reception Drink Sales with Free Water"
+            },
+            {
+              "key": "D",
+              "text": "Comparing the Maintenance Costs of Three Refill Machines"
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Toàn bài mô tả việc thử nghiệm và điều chỉnh các trạm nước nhằm giảm rác chai nhựa.",
+          "translation": "Tiêu đề nào tóm tắt bài viết tốt nhất?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "section": "reading",
+      "instructions": "Read the article and answer the questions.",
+      "source": "original",
+      "passage": "A Museum Collection Visitors Can Touch\n\nFor many years, a small local museum displayed most of its historical objects behind glass. This protected fragile items, but it also limited how visitors could explore their shapes and textures. A teacher working with students who had limited vision asked the museum whether some objects could be experienced through touch.\n\nThe museum began by selecting five objects that illustrated everyday life in the past. A craft worker made durable replicas using materials that reproduced important features of the originals. The replicas included a wooden comb, a ceramic cup and a small weaving tool. Staff placed short audio descriptions next to the objects and invited students to test the display.\n\nFeedback revealed that even a carefully made replica needed a clear explanation. Students wanted to know which parts reflected the original accurately and which parts had been modified for safety or durability. In response, museum staff revised the descriptions and provided a brief explanation of the production process.\n\nThe new display was later opened to all visitors. Families reported that handling the replicas encouraged children to ask questions about how the original objects were used. Museum staff continued to protect the historical collection while using the replicas to offer a different form of learning. They also began considering which future exhibitions might benefit from a similar approach.",
+      "questions": [
+        {
+          "number": 37,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What limitation of the original display is mentioned in paragraph 1?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitors could not readily explore objects through touch."
+            },
+            {
+              "key": "B",
+              "text": "Visitors could handle everyday objects but not fragile ones."
+            },
+            {
+              "key": "C",
+              "text": "Visitors with limited vision could explore textures but not shapes."
+            },
+            {
+              "key": "D",
+              "text": "Visitors could touch objects only during teacher-led visits."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Tủ kính bảo vệ hiện vật nhưng hạn chế khả năng khám phá hình dạng và kết cấu bằng xúc giác.",
+          "translation": "Đoạn một đề cập hạn chế nào của cách trưng bày ban đầu?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What was the craft worker asked to make?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Protective coverings that allowed visitors to touch the original objects."
+            },
+            {
+              "key": "B",
+              "text": "Objects made from the exact original materials without any safety changes."
+            },
+            {
+              "key": "C",
+              "text": "Robust copies that retained key features of the historical objects."
+            },
+            {
+              "key": "D",
+              "text": "Models illustrating how the display cases were constructed."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn hai mô tả các bản sao bền tái hiện những đặc điểm quan trọng của hiện vật gốc.",
+          "translation": "Người thợ thủ công được yêu cầu làm gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What does \"the originals\" in paragraph 2 refer to?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The audio descriptions prepared for the students."
+            },
+            {
+              "key": "B",
+              "text": "The historical objects selected for replication."
+            },
+            {
+              "key": "C",
+              "text": "The first versions of the replicas."
+            },
+            {
+              "key": "D",
+              "text": "The everyday materials used for the replicas."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "The originals là các hiện vật lịch sử được chọn để làm bản sao.",
+          "translation": "Cụm the originals trong đoạn hai chỉ đối tượng nào?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 40,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What did the students' feedback lead the museum to change?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Which original objects should be removed from their glass cases."
+            },
+            {
+              "key": "B",
+              "text": "The choice of five objects for the initial display."
+            },
+            {
+              "key": "C",
+              "text": "The decision to let only students with limited vision use the display."
+            },
+            {
+              "key": "D",
+              "text": "The information explaining the replicas and how they were produced."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Đoạn ba nói nhân viên sửa phần mô tả và bổ sung giải thích quy trình tạo bản sao.",
+          "translation": "Phản hồi của học sinh khiến bảo tàng thay đổi điều gì?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "cause-effect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 41,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "What can be inferred from the families' reports?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Children were mainly interested in whether the copies were made from original materials."
+            },
+            {
+              "key": "B",
+              "text": "The tactile display also supported learning for children beyond the original target group."
+            },
+            {
+              "key": "C",
+              "text": "The audio descriptions alone were responsible for children asking questions."
+            },
+            {
+              "key": "D",
+              "text": "The replicas were less useful to families than the glass displays."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Các gia đình nhận thấy việc chạm bản sao khuyến khích trẻ đặt câu hỏi, cho thấy lợi ích vượt ra ngoài nhóm học sinh ban đầu.",
+          "translation": "Có thể suy ra điều gì từ phản hồi của các gia đình?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 42,
+          "part": 5,
+          "question_type": "mcq",
+          "question_text": "Which statement best expresses the main message of the article?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Replicas improve learning chiefly when they exactly reproduce all original materials."
+            },
+            {
+              "key": "B",
+              "text": "A tactile display is most effective when restricted to students with limited vision."
+            },
+            {
+              "key": "C",
+              "text": "Protecting fragile items requires keeping both originals and replicas behind glass."
+            },
+            {
+              "key": "D",
+              "text": "Well-explained replicas can improve access and learning while originals remain protected."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "Bài viết cho thấy bản sao có mô tả rõ ràng tăng khả năng tiếp cận và học tập đồng thời vẫn bảo vệ hiện vật gốc.",
+          "translation": "Nhận định nào thể hiện đúng nhất thông điệp chính của bài viết?",
+          "difficulty": 3,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "section": "reading",
+      "instructions": "Read the essay and answer the questions.",
+      "source": "original",
+      "passage": "Keeping Community Stories Accessible\n\nWhen a neighbourhood history group began collecting interviews with long-term residents, its members assumed that the most difficult task would be persuading people to share their memories. Many residents, however, were happy to participate. The harder question was how to keep their stories accessible for future readers without losing the context in which they had been told.\n\nThe group's first recordings were stored on a single computer. Volunteers gave them file names based on the date of each interview and wrote brief notes about the speakers. When a volunteer tried to find every account of an old market, she discovered that identifying relevant recordings required listening to large sections of audio. Dates helped organise the files, but they revealed little about the subjects discussed.\n\nThe group then introduced a simple catalogue. Each entry included a list of topics, the approximate location of events and a description of the speaker's connection to them. Volunteers were careful to distinguish between information provided by the interviewee and details added later by researchers. If two residents remembered the same event differently, both accounts were retained, together with notes indicating the differences. The group believed that such disagreements could themselves be valuable historical evidence.\n\nAnother concern involved long-term storage. The members arranged to keep copies in two separate locations and chose widely supported audio formats. They also set a reminder to check the files periodically. They recognised that storing a digital file today did not guarantee that it would remain readable in twenty years. Equipment, software and file formats could all change.\n\nFinally, the group discussed who should have access to the interviews. Some speakers were comfortable with public access, while others wanted particular sections to be available only to researchers. Rather than applying a single rule, the group recorded each person's choices and attached access instructions to the relevant catalogue entries. Volunteers were required to consult these instructions before sharing material.\n\nThe project eventually produced an archive that was easier to search and better prepared for future technological changes. Its members learned that preserving a story requires attention to much more than the recording itself. Information about its content, origin and permitted use can determine whether the story remains both meaningful and responsibly accessible.",
+      "questions": [
+        {
+          "number": 43,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What surprised the history group when it began collecting interviews?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Keeping the stories accessible with their context proved harder than finding willing participants."
+            },
+            {
+              "key": "B",
+              "text": "Finding interview topics proved harder than convincing residents to participate."
+            },
+            {
+              "key": "C",
+              "text": "Residents were willing to be interviewed only if recordings were kept private."
+            },
+            {
+              "key": "D",
+              "text": "Most interviews were easy to catalogue but hard to record clearly."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn một nêu nhiều người sẵn lòng tham gia, nhưng việc duy trì khả năng tiếp cận câu chuyện cùng bối cảnh lại khó hơn.",
+          "translation": "Điều gì khiến nhóm lịch sử bất ngờ khi bắt đầu thu thập phỏng vấn?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 44,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why were the initial file names insufficient for the volunteer's search?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They helped locate events but did not identify the date of each interview."
+            },
+            {
+              "key": "B",
+              "text": "They indicated the interview date but did not identify the person who recorded it."
+            },
+            {
+              "key": "C",
+              "text": "They did not indicate which topics each interview covered."
+            },
+            {
+              "key": "D",
+              "text": "They identified the topics but did not indicate the speakers’ connections to them."
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Đoạn hai cho biết tên dựa trên ngày giúp sắp xếp nhưng ít cho biết chủ đề được nói đến.",
+          "translation": "Vì sao tên tệp ban đầu không đủ để tình nguyện viên tìm kiếm?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "cause-effect"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 45,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "The word \"retained\" in paragraph 3 is closest in meaning to -------.",
+          "options": [
+            {
+              "key": "A",
+              "text": "challenged"
+            },
+            {
+              "key": "B",
+              "text": "combined"
+            },
+            {
+              "key": "C",
+              "text": "kept"
+            },
+            {
+              "key": "D",
+              "text": "revised"
+            }
+          ],
+          "correct_answer": "C",
+          "explanation": "Retained nghĩa là được giữ lại, trong bài là giữ cả hai lời kể.",
+          "translation": "Từ retained trong đoạn ba gần nghĩa nhất với từ nào?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "vocabulary-in-context"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 46,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Why did the group record differences between accounts of the same event?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It wanted to use later research to establish one definitive account."
+            },
+            {
+              "key": "B",
+              "text": "It considered differing recollections potentially useful as historical evidence."
+            },
+            {
+              "key": "C",
+              "text": "It needed to identify which topics should be excluded from the catalogue."
+            },
+            {
+              "key": "D",
+              "text": "It planned to resolve disagreements before granting researchers access."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Đoạn ba khẳng định chính những điểm bất đồng có thể là bằng chứng lịch sử có giá trị.",
+          "translation": "Vì sao nhóm ghi chú sự khác nhau giữa các lời kể về cùng sự kiện?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 47,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which of the following storage practices is NOT mentioned in paragraph 4?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Converting the interviews into printed transcripts every year."
+            },
+            {
+              "key": "B",
+              "text": "Keeping copies in separate locations."
+            },
+            {
+              "key": "C",
+              "text": "Using widely supported audio formats."
+            },
+            {
+              "key": "D",
+              "text": "Checking the stored files from time to time."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn bốn nêu ba biện pháp sao lưu riêng, định dạng phổ biến và kiểm tra định kỳ; không đề cập việc in bản chép lời hằng năm.",
+          "translation": "Biện pháp lưu trữ nào sau đây KHÔNG được đề cập trong đoạn bốn?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "negative-detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 48,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What does \"these instructions\" in paragraph 5 refer to?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The guidelines for distinguishing researchers’ additions from interviews."
+            },
+            {
+              "key": "B",
+              "text": "The notes describing disagreements between speakers."
+            },
+            {
+              "key": "C",
+              "text": "The reminders to check the audio files periodically."
+            },
+            {
+              "key": "D",
+              "text": "The access conditions attached to the relevant catalogue entries."
+            }
+          ],
+          "correct_answer": "D",
+          "explanation": "These instructions thay thế cho access instructions được gắn vào các mục danh mục liên quan.",
+          "translation": "Cụm these instructions trong đoạn năm chỉ những hướng dẫn nào?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "reference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 49,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "What can be inferred about the group's approach to public access?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It aimed to respect individual speakers’ preferences when sharing material."
+            },
+            {
+              "key": "B",
+              "text": "It planned to permit public access once interviews had been catalogued."
+            },
+            {
+              "key": "C",
+              "text": "It expected researchers to decide which sections should be public."
+            },
+            {
+              "key": "D",
+              "text": "It intended to make all recordings available after checking the file formats."
+            }
+          ],
+          "correct_answer": "A",
+          "explanation": "Đoạn năm cho thấy nhóm ghi nhận lựa chọn riêng của từng người và yêu cầu tình nguyện viên kiểm tra trước khi chia sẻ.",
+          "translation": "Có thể suy ra điều gì về cách nhóm quản lý quyền truy cập công khai?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 50,
+          "part": 6,
+          "question_type": "mcq",
+          "question_text": "Which statement best summarises the entire passage?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Preserving oral histories depends primarily on recording as many residents as possible."
+            },
+            {
+              "key": "B",
+              "text": "Preserving oral history requires searchable descriptions, durable storage and respect for access choices."
+            },
+            {
+              "key": "C",
+              "text": "An archive should prioritise consistent recollections and a single access policy."
+            },
+            {
+              "key": "D",
+              "text": "Making interviews searchable is sufficient to ensure their long-term accessibility."
+            }
+          ],
+          "correct_answer": "B",
+          "explanation": "Toàn bài nhấn mạnh ba yếu tố: danh mục có thể tìm kiếm, lưu trữ lâu dài và tôn trọng quyền tiếp cận.",
+          "translation": "Nhận định nào tóm tắt toàn bộ bài đọc tốt nhất?",
+          "difficulty": 4,
+          "tags": [
+            "reading"
+          ],
+          "skill_tags": [
+            "main-idea"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}

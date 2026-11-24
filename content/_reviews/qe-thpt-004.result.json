@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-004",
+  "revision": "409c535a31fe989718cdd7ac1784e6859b5ecc9b4f982e5840be916d1abff04a",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Independent answer review repeated against the regenerated blind pack. Q3 now uniquely takes 'unless': 'in case of' cannot introduce the finite clause 'you leave', while 'as long as' and 'because' express the wrong condition or cause. Q20 takes B 'hire': the mandative subjunctive after 'recommends that visitors' uses the bare verb, and the original author's C 'hiring' was a keying error already contradicted by its explanation. Cloze 21–25 concerns tactile books: readers feel shapes, the students seek advice, add sentences so that the story is accessible, consider children's comments, and loan books free of charge. Cloze 26–30 concerns the Lantern Walk: organisers set up listening stations, ensure consent, contrast dusk/daylight with although, collect memorable stories, and include more languages. Reading 31–40: paired school weather logs debunk snow/sun assumptions, postal delays trigger sharing photographs with parental permission, and brief observations are limited evidence. Reading 41–50: a heat exchanger transfers heat between isolated circuits; a five-day closure biased initial energy savings; revised results were moderate, and the council sought an independent audit before investment. Bilingual passages, item translations, explanations and cross-passage facts checked with no further material issue found.",
+  "admin_sample": [
+    44,
+    48,
+    49
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

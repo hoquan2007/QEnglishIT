@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-015",
+  "revision": "d7f365df12c514618b8d25a65d0c5de8d2e9e82ca7a6dc456b8455482b5ed92b",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "Q8: too inconclusive is grammatical but stylistically less natural than too limited or insufficient; use a more idiomatic target if revising. Q11: flag is clearly best, but fold/float are unrelated; consider evidence-handling distractors. Q31-50: improve distractors that rely on absolutes or implausible claims (Q31, Q38, Q41, Q43, Q48). No unresolved competing answer identified.",
+  "admin_sample": [
+    18,
+    34,
+    48
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

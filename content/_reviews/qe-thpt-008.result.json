@@ -1,0 +1,17 @@
+{
+  "slug": "qe-thpt-008",
+  "revision": "f34d50340bfa51101387c72bd224084ba5ec6f679449cb4d6ed8791ebfaef4a8",
+  "check_name": "independent_answer_review",
+  "status": "pass",
+  "total": 50,
+  "missing": [],
+  "disagreements": [],
+  "reviewer_notes": "No competing best answers. Wording: Q5 A is clear in context, though ‘sorted out X from Y’ is less idiomatic than ‘sorted X from Y’. Weak distractor: Q22 B forms a grammatical phrase (‘regardless of attempting’), but it fails to convey the notice's instruction to report problems in place of attempting repairs.",
+  "admin_sample": [
+    1,
+    5,
+    13
+  ],
+  "admin_review": "pending",
+  "publication_ready": false
+}

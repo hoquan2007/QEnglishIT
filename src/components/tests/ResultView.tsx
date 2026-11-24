@@ -3,17 +3,17 @@
 import Link from "next/link";
 import { CheckCircle2, Clock, Eye, RotateCcw, XCircle, MinusCircle, ListChecks } from "lucide-react";
 import type { Question, Test } from "@/lib/types";
-import { isListeningPart, PARTS, scaleListening, scaleReading, scoreLevel } from "@/lib/toeic";
+import { getTestPartLabel, isListeningPart, isToeicListeningReading, scaleListening, scaleReading, scoreLevel } from "@/lib/toeic";
 import { formatDuration } from "@/lib/utils";
 import { LogoMark } from "@/components/Logo";
 
-export function computeResult(questions: Question[], answers: Record<string, string>, parts: number[]) {
-  const L = questions.filter((q) => isListeningPart(q.part));
-  const R = questions.filter((q) => !isListeningPart(q.part));
+export function computeResult(questions: Question[], answers: Record<string, string>, parts: number[], toeic: boolean) {
+  const L = toeic ? questions.filter((q) => isListeningPart(q.part)) : [];
+  const R = toeic ? questions.filter((q) => !isListeningPart(q.part)) : questions;
   const correctL = L.filter((q) => answers[q.id] === q.correct_answer).length;
   const correctR = R.filter((q) => answers[q.id] === q.correct_answer).length;
-  const hasL = parts.some((p) => p <= 4);
-  const hasR = parts.some((p) => p >= 5);
+  const hasL = toeic && parts.some((p) => p <= 4);
+  const hasR = toeic && parts.some((p) => p >= 5);
   const scoreL = hasL && L.length ? scaleListening(correctL, L.length) : null;
   const scoreR = hasR && R.length ? scaleReading(correctR, R.length) : null;
   const total = scoreL !== null && scoreR !== null ? scoreL + scoreR : null;
@@ -32,7 +32,7 @@ export function ResultView({
   onRetry: () => void;
   saving?: boolean;
 }) {
-  const r = computeResult(questions, answers, parts);
+  const r = computeResult(questions, answers, parts, isToeicListeningReading(test));
   const correct = r.correctL + r.correctR;
   const wrong = questions.filter((q) => answers[q.id] && answers[q.id] !== q.correct_answer).length;
   const skipped = questions.length - correct - wrong;
@@ -91,11 +91,11 @@ export function ResultView({
         </div>
 
         <div className="card mt-4 p-5">
-          <h2 className="font-bold">Phân tích theo Part</h2>
+          <h2 className="font-bold">Kết quả theo phần</h2>
           <div className="mt-4 space-y-3">
             {byPart.map((b) => (
               <div key={b.p} className="grid grid-cols-[110px_1fr_90px] items-center gap-3 text-sm">
-                <span className="font-semibold">{PARTS[b.p - 1].name}<span className="block text-xs font-normal text-slate-400">{PARTS[b.p - 1].title}</span></span>
+                <span className="font-semibold">{getTestPartLabel(test, b.p)}</span>
                 <div className="h-3 rounded-full bg-slate-100">
                   <div className={`h-3 rounded-full ${b.pct >= 75 ? "bg-emerald-500" : b.pct >= 50 ? "bg-amber-400" : "bg-rose-400"}`} style={{ width: `${b.pct}%` }} />
                 </div>

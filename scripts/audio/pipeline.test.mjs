@@ -5,6 +5,15 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { cached, config, confined, hash, run, safeName, root } from './lib.mjs';
 import { transcriptTurns, listeningJobs } from './tts-listening.mjs';
+
+test('Part 2 splits three responses from the question voice', () => {
+  assert.deepEqual(transcriptTurns('Q: Where is it?\n(A) Near the lift.\n(B) At noon.\n(C) Three days.',2),[
+    { speaker:'Q',en:'Where is it?' },
+    { speaker:'N',en:'A. Near the lift.' },
+    { speaker:'N',en:'B. At noon.' },
+    { speaker:'N',en:'C. Three days.' },
+  ]);
+});
 import { uploadPlan } from './upload-media.mjs';
 
 test('missing configuration, example voice terms, missing binaries fail clearly', () => {
@@ -49,4 +58,38 @@ test('uploader rejects an ungenerated or changed asset before any network reques
     fs.writeFileSync(file, JSON.stringify({ version: 1, kind: 'words', assets: { x: { path: 'words/us/example.mp3', sha256: 'invalid', bytes: 10 } } }));
     assert.throws(() => uploadPlan(file, dir), /Missing\/changed/);
   } finally { fs.rmSync(file, { force: true }); }
+});
+
+test('uploader accepts a verified pronunciation lesson asset', () => {
+  const dir = path.join(root, 'scripts/audio/.cache/tests');
+  fs.mkdirSync(path.join(dir, 'pronunciation'), { recursive: true });
+  const media = path.join(dir, 'pronunciation/ipa-fleece.mp3');
+  const manifest = path.join(dir, `pronunciation-manifest-${process.pid}.json`);
+  try {
+    fs.writeFileSync(media, 'synthetic-pronunciation-test-only');
+    const bytes = fs.statSync(media).size;
+    fs.writeFileSync(manifest, JSON.stringify({
+      version: 1,
+      kind: 'pronunciation',
+      assets: {
+        'pronunciation/ipa-fleece.mp3': {
+          path: 'pronunciation/ipa-fleece.mp3',
+          sha256: hash(fs.readFileSync(media)),
+          bytes,
+          duration_seconds: 1,
+          generator: 'test-only',
+          voice: 'test-only',
+          owner_table: 'pronunciation_lessons',
+          owner_key: { slug: 'ipa-fleece' },
+          url_field: 'audio_url',
+        },
+      },
+    }));
+    const [asset] = uploadPlan(manifest, dir);
+    assert.equal(asset.owner_table, 'pronunciation_lessons');
+    assert.equal(asset.owner_key.slug, 'ipa-fleece');
+  } finally {
+    fs.rmSync(manifest, { force: true });
+    fs.rmSync(media, { force: true });
+  }
 });

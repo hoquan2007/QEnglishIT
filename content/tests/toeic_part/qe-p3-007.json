@@ -1,0 +1,1581 @@
+{
+  "slug": "qe-p3-007",
+  "title": "TOEIC Part 3 – Hội thoại 07",
+  "collection": "toeic_part",
+  "exam_type": "toeic_part",
+  "level": "850",
+  "difficulty": 5,
+  "cefr": "B2-C1",
+  "duration_minutes": 22,
+  "total_questions": 39,
+  "source": "original",
+  "is_published": false,
+  "independent_review": "pending",
+  "admin_sample_review": "pending",
+  "tags": [
+    "toeic",
+    "listening",
+    "part-3",
+    "original"
+  ],
+  "sections": [
+    {
+      "key": "listening",
+      "title": "TOEIC Listening Part 3",
+      "parts": [
+        3
+      ],
+      "count": 39,
+      "minutes": 22
+    }
+  ],
+  "groups": [
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: Quality control flagged three pumps from lot 48 because their pressure readings drifted near the upper tolerance limit.\nM: Were any of them actually outside specification?\nW: No, but the readings were close enough that the supervisor put the remaining lot on hold until we check the calibration records.\nM: Then don't scrap anything yet. I'll pull the records and compare the test bench settings from both shifts.",
+      "transcript_vi": "W: Kiểm soát chất lượng đã đánh dấu ba máy bơm của lô 48 vì số đo áp suất trôi gần giới hạn dung sai trên.\nM: Có chiếc nào thật sự vượt thông số không?\nW: Chưa, nhưng số đo đủ sát giới hạn nên giám sát viên tạm giữ phần còn lại của lô cho đến khi kiểm tra hồ sơ hiệu chuẩn.\nM: Vậy chưa loại bỏ gì cả. Tôi sẽ lấy hồ sơ và so sánh cài đặt bàn thử của cả hai ca.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "mcq",
+          "question_text": "Why was lot 48 placed on hold?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Some test readings were close to a tolerance limit."
+            },
+            {
+              "key": "B",
+              "text": "Several pumps failed to start."
+            },
+            {
+              "key": "C",
+              "text": "The calibration records were lost."
+            },
+            {
+              "key": "D",
+              "text": "The entire lot exceeded specification."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Some test readings were close to a tolerance limit.”.",
+          "translation": "Tại sao lô 48 bị tạm giữ?",
+          "difficulty": 4,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 2,
+          "question_type": "mcq",
+          "question_text": "What does the man mean when he says, “don't scrap anything yet”?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He plans to sell the pumps at a discount."
+            },
+            {
+              "key": "B",
+              "text": "He wants more evidence before rejecting the products."
+            },
+            {
+              "key": "C",
+              "text": "He believes the pumps should skip testing."
+            },
+            {
+              "key": "D",
+              "text": "He wants production to stop permanently."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “He wants more evidence before rejecting the products.”.",
+          "translation": "Người đàn ông có ý gì khi nói “chưa loại bỏ gì cả”?",
+          "difficulty": 5,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "speaker_intent"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 3,
+          "question_type": "mcq",
+          "question_text": "What will the man compare?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Supplier invoices from two plants."
+            },
+            {
+              "key": "B",
+              "text": "Pressure limits for two products."
+            },
+            {
+              "key": "C",
+              "text": "Test bench settings from two shifts."
+            },
+            {
+              "key": "D",
+              "text": "Production totals from two weeks."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Test bench settings from two shifts.”.",
+          "translation": "Người đàn ông sẽ so sánh điều gì?",
+          "difficulty": 4,
+          "tags": [
+            "manufacturing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: Two vendors submitted nearly identical prices for the office renovation, but Northline's proposal excludes after-hours electrical work.\nW: That's important because the accounting team can't vacate its floor during business hours.\nM: Exactly. If we add Northline's optional evening rate, their bid may no longer be the lower one.\nW: Before we compare totals, ask both vendors to price the same schedule. Otherwise we're comparing different scopes.",
+      "transcript_vi": "M: Hai nhà cung cấp đưa ra mức giá gần như giống nhau cho việc cải tạo văn phòng, nhưng đề xuất của Northline không gồm công việc điện ngoài giờ.\nW: Điều đó quan trọng vì nhóm kế toán không thể rời tầng của họ trong giờ làm việc.\nM: Đúng. Nếu cộng mức giá buổi tối tùy chọn của Northline, giá dự thầu của họ có thể không còn thấp hơn.\nW: Trước khi so sánh tổng, hãy yêu cầu cả hai nhà cung cấp báo giá cùng một lịch làm việc. Nếu không, chúng ta đang so các phạm vi khác nhau.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 4,
+          "question_type": "mcq",
+          "question_text": "What concern does the woman raise about Northline's proposal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It uses unfamiliar materials."
+            },
+            {
+              "key": "B",
+              "text": "It requires a larger deposit."
+            },
+            {
+              "key": "C",
+              "text": "It extends the renovation by a month."
+            },
+            {
+              "key": "D",
+              "text": "It does not include work at the needed time."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “It does not include work at the needed time.”.",
+          "translation": "Người phụ nữ nêu mối lo nào về đề xuất của Northline?",
+          "difficulty": 4,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 5,
+          "question_type": "mcq",
+          "question_text": "Why might Northline's bid become more expensive?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An evening-work charge may need to be added."
+            },
+            {
+              "key": "B",
+              "text": "Its material prices change daily."
+            },
+            {
+              "key": "C",
+              "text": "The accounting team requested new furniture."
+            },
+            {
+              "key": "D",
+              "text": "A permit fee was omitted by both vendors."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “An evening-work charge may need to be added.”.",
+          "translation": "Tại sao giá dự thầu của Northline có thể trở nên đắt hơn?",
+          "difficulty": 4,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 6,
+          "question_type": "mcq",
+          "question_text": "What does the woman recommend doing first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Choose the lowest listed bid."
+            },
+            {
+              "key": "B",
+              "text": "Get comparable pricing from both vendors."
+            },
+            {
+              "key": "C",
+              "text": "Move the accounting team immediately."
+            },
+            {
+              "key": "D",
+              "text": "Cancel the electrical work."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Get comparable pricing from both vendors.”.",
+          "translation": "Người phụ nữ khuyên nên làm gì trước tiên?",
+          "difficulty": 5,
+          "tags": [
+            "procurement"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The review units for the new headset are ready, but the launch date moved from Tuesday to Thursday because the packaging approval is late.\nM: We already told journalists they could publish reviews Tuesday morning.\nW: Then we need to send an updated embargo time today. The units can still ship now, but publication must wait until Thursday at nine.\nM: I'll draft the notice and ask Legal to check the wording before it goes out.",
+      "transcript_vi": "W: Các mẫu đánh giá của tai nghe mới đã sẵn sàng, nhưng ngày ra mắt chuyển từ thứ Ba sang thứ Năm vì phê duyệt bao bì bị chậm.\nM: Chúng ta đã nói với các nhà báo rằng họ có thể đăng bài đánh giá sáng thứ Ba.\nW: Vậy hôm nay phải gửi thời hạn cấm đăng mới. Mẫu vẫn có thể gửi ngay, nhưng việc công bố phải chờ đến chín giờ thứ Năm.\nM: Tôi sẽ soạn thông báo và nhờ pháp chế kiểm tra câu chữ trước khi gửi.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 7,
+          "question_type": "mcq",
+          "question_text": "Why was the product launch delayed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The review units are unfinished."
+            },
+            {
+              "key": "B",
+              "text": "Journalists requested more testing time."
+            },
+            {
+              "key": "C",
+              "text": "Packaging has not yet received approval."
+            },
+            {
+              "key": "D",
+              "text": "Legal canceled the shipment."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Packaging has not yet received approval.”.",
+          "translation": "Tại sao việc ra mắt sản phẩm bị hoãn?",
+          "difficulty": 4,
+          "tags": [
+            "marketing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 8,
+          "question_type": "mcq",
+          "question_text": "What can happen before Thursday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reviews can be published."
+            },
+            {
+              "key": "B",
+              "text": "Packaging can be sold to customers."
+            },
+            {
+              "key": "C",
+              "text": "The public launch can begin."
+            },
+            {
+              "key": "D",
+              "text": "Review units can be shipped."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Review units can be shipped.”.",
+          "translation": "Điều gì vẫn có thể diễn ra trước thứ Năm?",
+          "difficulty": 5,
+          "tags": [
+            "marketing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 9,
+          "question_type": "mcq",
+          "question_text": "What will the man do before sending the notice?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Have Legal review its wording."
+            },
+            {
+              "key": "B",
+              "text": "Call each journalist personally."
+            },
+            {
+              "key": "C",
+              "text": "Wait for all reviews to be written."
+            },
+            {
+              "key": "D",
+              "text": "Ask the factory to change the headset."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Have Legal review its wording.”.",
+          "translation": "Người đàn ông sẽ làm gì trước khi gửi thông báo?",
+          "difficulty": 4,
+          "tags": [
+            "marketing"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The hotel says it can honor only six of the eight rooms we reserved for tonight's flight crew because a plumbing issue closed one floor.\nW: The captain and first officer must stay near the airport, but the cabin crew could use the Riverside property if transportation is arranged.\nM: Riverside has two rooms, and their shuttle starts at five in the morning.\nW: Our report time is five fifteen. Ask whether they can make a one-time four forty-five pickup. If they can, split the crew between the hotels.",
+      "transcript_vi": "M: Khách sạn nói tối nay chỉ có thể giữ sáu trong tám phòng đã đặt cho tổ bay vì sự cố đường ống khiến một tầng phải đóng.\nW: Cơ trưởng và cơ phó phải ở gần sân bay, nhưng tiếp viên có thể ở khách sạn Riverside nếu sắp xếp được xe đưa đón.\nM: Riverside có hai phòng và xe của họ bắt đầu lúc năm giờ sáng.\nW: Giờ tập trung của chúng ta là năm giờ mười lăm. Hãy hỏi xem họ có thể đón đặc biệt lúc bốn giờ bốn mươi lăm không. Nếu được thì chia tổ bay ở hai khách sạn.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 10,
+          "question_type": "mcq",
+          "question_text": "Why are two hotel rooms unavailable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The airline reduced its reservation."
+            },
+            {
+              "key": "B",
+              "text": "A plumbing problem closed part of the hotel."
+            },
+            {
+              "key": "C",
+              "text": "The crew arrived a day early."
+            },
+            {
+              "key": "D",
+              "text": "A shuttle service was canceled."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A plumbing problem closed part of the hotel.”.",
+          "translation": "Tại sao hai phòng khách sạn không còn sử dụng được?",
+          "difficulty": 4,
+          "tags": [
+            "travel-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 11,
+          "question_type": "mcq",
+          "question_text": "Why does the woman ask for a 4:45 pickup?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The airport closes at five."
+            },
+            {
+              "key": "B",
+              "text": "The captain requested extra travel time."
+            },
+            {
+              "key": "C",
+              "text": "The regular shuttle may be too late for crew reporting."
+            },
+            {
+              "key": "D",
+              "text": "Riverside stops serving breakfast at five."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The regular shuttle may be too late for crew reporting.”.",
+          "translation": "Tại sao người phụ nữ yêu cầu chuyến đón lúc 4 giờ 45?",
+          "difficulty": 5,
+          "tags": [
+            "travel-operations"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 12,
+          "question_type": "mcq",
+          "question_text": "What will the speakers do if Riverside agrees?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Move the entire crew to Riverside."
+            },
+            {
+              "key": "B",
+              "text": "Delay the flight report time."
+            },
+            {
+              "key": "C",
+              "text": "Cancel two crew members' rooms."
+            },
+            {
+              "key": "D",
+              "text": "Place the crew in two different hotels."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Place the crew in two different hotels.”.",
+          "translation": "Hai người sẽ làm gì nếu Riverside đồng ý?",
+          "difficulty": 4,
+          "tags": [
+            "travel-operations"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The auditor asked for our supplier-screening procedure, and I sent the version from the shared drive.\nM: Was it the file revised in March? The January version is still in the archive folder and doesn't include the new sanctions check.\nW: I sent the January file by mistake. The auditor hasn't acknowledged it yet.\nM: Send the March version now with a brief correction note, and copy me so I can update the audit log.",
+      "transcript_vi": "W: Kiểm toán viên yêu cầu quy trình sàng lọc nhà cung cấp và tôi đã gửi bản từ ổ dùng chung.\nM: Có phải tệp được sửa tháng Ba không? Bản tháng Một vẫn nằm trong thư mục lưu trữ và chưa có bước kiểm tra lệnh trừng phạt mới.\nW: Tôi đã gửi nhầm bản tháng Một. Kiểm toán viên chưa xác nhận đã nhận.\nM: Gửi ngay bản tháng Ba kèm ghi chú đính chính ngắn, và sao chép cho tôi để tôi cập nhật nhật ký kiểm toán.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 13,
+          "question_type": "mcq",
+          "question_text": "What mistake did the woman make?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She sent an outdated procedure."
+            },
+            {
+              "key": "B",
+              "text": "She deleted the audit log."
+            },
+            {
+              "key": "C",
+              "text": "She omitted a supplier name."
+            },
+            {
+              "key": "D",
+              "text": "She sent the file to the wrong auditor."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “She sent an outdated procedure.”.",
+          "translation": "Người phụ nữ đã mắc lỗi gì?",
+          "difficulty": 4,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 14,
+          "question_type": "mcq",
+          "question_text": "What is included in the newer version?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new payment schedule."
+            },
+            {
+              "key": "B",
+              "text": "A sanctions check."
+            },
+            {
+              "key": "C",
+              "text": "A customer complaint form."
+            },
+            {
+              "key": "D",
+              "text": "A revised travel policy."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A sanctions check.”.",
+          "translation": "Bản mới hơn có thêm nội dung gì?",
+          "difficulty": 5,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 15,
+          "question_type": "mcq",
+          "question_text": "Why does the man want to be copied on the message?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He must approve the auditor's address."
+            },
+            {
+              "key": "B",
+              "text": "He wants to archive the old procedure."
+            },
+            {
+              "key": "C",
+              "text": "He needs to record the correction in the audit log."
+            },
+            {
+              "key": "D",
+              "text": "He plans to rewrite the screening policy."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “He needs to record the correction in the audit log.”.",
+          "translation": "Tại sao người đàn ông muốn được sao chép trong email?",
+          "difficulty": 5,
+          "tags": [
+            "compliance"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: Facilities plans to test the backup generator Saturday at midnight, which means power to rack C may drop for about thirty seconds during transfer.\nW: Our reporting database has a replica in rack F. If we fail over before the test, users shouldn't notice the transfer.\nM: The replica is current, but the analytics batch normally starts at eleven fifty.\nW: Pause that batch, fail over at eleven forty-five, and restart processing after Facilities confirms stable power.",
+      "transcript_vi": "M: Bộ phận cơ sở vật chất dự định kiểm tra máy phát dự phòng lúc nửa đêm thứ Bảy, nên điện tới tủ C có thể mất khoảng ba mươi giây khi chuyển nguồn.\nW: Cơ sở dữ liệu báo cáo có bản sao ở tủ F. Nếu chuyển sang bản sao trước khi kiểm tra, người dùng sẽ không nhận thấy việc chuyển nguồn.\nM: Bản sao hiện đã đồng bộ, nhưng tác vụ phân tích thường bắt đầu lúc mười một giờ năm mươi.\nW: Hãy tạm dừng tác vụ đó, chuyển hệ thống lúc mười một giờ bốn mươi lăm và chạy lại sau khi cơ sở vật chất xác nhận nguồn điện ổn định.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 16,
+          "question_type": "mcq",
+          "question_text": "What risk are the speakers preparing for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A database licensing failure."
+            },
+            {
+              "key": "B",
+              "text": "A network outage lasting all weekend."
+            },
+            {
+              "key": "C",
+              "text": "A generator fuel shortage."
+            },
+            {
+              "key": "D",
+              "text": "A brief power interruption."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A brief power interruption.”.",
+          "translation": "Hai người đang chuẩn bị cho rủi ro gì?",
+          "difficulty": 4,
+          "tags": [
+            "technology"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 17,
+          "question_type": "mcq",
+          "question_text": "Why does the woman want to pause the analytics batch?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It would overlap with the planned failover."
+            },
+            {
+              "key": "B",
+              "text": "It is using outdated data."
+            },
+            {
+              "key": "C",
+              "text": "It has already failed twice."
+            },
+            {
+              "key": "D",
+              "text": "It runs only on rack C."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “It would overlap with the planned failover.”.",
+          "translation": "Tại sao người phụ nữ muốn tạm dừng tác vụ phân tích?",
+          "difficulty": 5,
+          "tags": [
+            "technology"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 18,
+          "question_type": "mcq",
+          "question_text": "What should happen before processing resumes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Users must log out manually."
+            },
+            {
+              "key": "B",
+              "text": "Facilities must confirm stable power."
+            },
+            {
+              "key": "C",
+              "text": "The replica must be moved to rack C."
+            },
+            {
+              "key": "D",
+              "text": "The generator test must be postponed."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Facilities must confirm stable power.”.",
+          "translation": "Điều gì cần xảy ra trước khi xử lý được chạy lại?",
+          "difficulty": 5,
+          "tags": [
+            "technology"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The conference committee accepted our paper, but they assigned us a poster session instead of the oral presentation we requested.\nM: Did they say why?\nW: The email says the oral program is full. However, one speaker has until Friday to confirm, and we're first on the waiting list.\nM: Then let's prepare the poster now, but keep the slides ready. If that speaker withdraws, we won't have much time to switch formats.",
+      "transcript_vi": "W: Ban tổ chức hội nghị đã nhận bài của chúng ta, nhưng xếp vào phiên poster thay vì bài nói mà chúng ta yêu cầu.\nM: Họ có nói lý do không?\nW: Email nói chương trình thuyết trình đã kín. Tuy nhiên, một diễn giả có đến thứ Sáu để xác nhận và chúng ta đứng đầu danh sách chờ.\nM: Vậy hãy chuẩn bị poster ngay nhưng vẫn giữ sẵn slide. Nếu diễn giả đó rút, chúng ta sẽ không có nhiều thời gian đổi hình thức.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 19,
+          "question_type": "mcq",
+          "question_text": "Why was the paper assigned to a poster session?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The paper requires more revisions."
+            },
+            {
+              "key": "B",
+              "text": "The authors missed a registration deadline."
+            },
+            {
+              "key": "C",
+              "text": "The oral presentation schedule is full."
+            },
+            {
+              "key": "D",
+              "text": "The topic is outside the conference theme."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The oral presentation schedule is full.”.",
+          "translation": "Tại sao bài nghiên cứu được xếp vào phiên poster?",
+          "difficulty": 4,
+          "tags": [
+            "conference"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 20,
+          "question_type": "mcq",
+          "question_text": "What does being first on the waiting list imply?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They must present twice."
+            },
+            {
+              "key": "B",
+              "text": "They can choose any presentation time."
+            },
+            {
+              "key": "C",
+              "text": "They are guaranteed a larger poster space."
+            },
+            {
+              "key": "D",
+              "text": "They may receive an oral slot if one becomes available."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “They may receive an oral slot if one becomes available.”.",
+          "translation": "Việc đứng đầu danh sách chờ cho thấy điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "conference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 21,
+          "question_type": "mcq",
+          "question_text": "Why will the speakers keep their slides ready?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They may need to change presentation formats quickly."
+            },
+            {
+              "key": "B",
+              "text": "The poster must contain all the slides."
+            },
+            {
+              "key": "C",
+              "text": "The committee asked for an immediate upload."
+            },
+            {
+              "key": "D",
+              "text": "Another research team wants to borrow them."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “They may need to change presentation formats quickly.”.",
+          "translation": "Tại sao hai người vẫn giữ slide sẵn sàng?",
+          "difficulty": 5,
+          "tags": [
+            "conference"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The client increased the awards dinner from one hundred twenty guests to one hundred forty-eight.\nW: Ballroom A seats one hundred fifty only if we use banquet rounds with no staging area. They also requested a raised platform for the speakers.\nM: Ballroom B holds one hundred eighty and already has a stage, but it's booked for a luncheon until three.\nW: Dinner setup starts at four. If banquet staff can turn the room in an hour, Ballroom B is the safer choice. Check with operations before we promise it.",
+      "transcript_vi": "M: Khách hàng tăng số khách tiệc trao giải từ một trăm hai mươi lên một trăm bốn mươi tám.\nW: Phòng A chỉ ngồi được một trăm năm mươi nếu dùng bàn tiệc tròn và không có khu sân khấu. Họ còn yêu cầu bục nâng cho diễn giả.\nM: Phòng B chứa một trăm tám mươi và có sẵn sân khấu, nhưng được đặt cho bữa trưa đến ba giờ.\nW: Việc set up bữa tối bắt đầu lúc bốn. Nếu nhân viên tiệc có thể đổi phòng trong một giờ, phòng B an toàn hơn. Hãy kiểm tra với vận hành trước khi hứa với khách.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 22,
+          "question_type": "mcq",
+          "question_text": "Why is Ballroom A no longer ideal?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its luncheon ends too late."
+            },
+            {
+              "key": "B",
+              "text": "The requested stage would reduce usable seating space."
+            },
+            {
+              "key": "C",
+              "text": "It cannot accommodate round tables."
+            },
+            {
+              "key": "D",
+              "text": "It is being renovated."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The requested stage would reduce usable seating space.”.",
+          "translation": "Tại sao phòng A không còn phù hợp nhất?",
+          "difficulty": 5,
+          "tags": [
+            "hospitality-events"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 23,
+          "question_type": "mcq",
+          "question_text": "What advantage does Ballroom B have?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is available all day."
+            },
+            {
+              "key": "B",
+              "text": "It has a lower rental price."
+            },
+            {
+              "key": "C",
+              "text": "It has both greater capacity and an existing stage."
+            },
+            {
+              "key": "D",
+              "text": "It is closer to the kitchen."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “It has both greater capacity and an existing stage.”.",
+          "translation": "Phòng B có lợi thế gì?",
+          "difficulty": 4,
+          "tags": [
+            "hospitality-events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 24,
+          "question_type": "mcq",
+          "question_text": "What must the man verify before confirming Ballroom B?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether the client can reduce the guest count."
+            },
+            {
+              "key": "B",
+              "text": "Whether the luncheon can move to Ballroom A."
+            },
+            {
+              "key": "C",
+              "text": "Whether speakers can stand at floor level."
+            },
+            {
+              "key": "D",
+              "text": "Whether staff can reset the room in one hour."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Whether staff can reset the room in one hour.”.",
+          "translation": "Người đàn ông phải xác minh điều gì trước khi xác nhận phòng B?",
+          "difficulty": 5,
+          "tags": [
+            "hospitality-events"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The replacement sensors reached customs yesterday, but the broker says the shipment is on hold because the commercial invoice lists six units while the packing list shows eight.\nM: We ordered eight. The supplier added two warranty replacements at no charge, but apparently didn't update the invoice.\nW: Customs still needs the invoice to reflect every item, even if two have zero value.\nM: I'll ask the supplier for a corrected invoice and have them send it directly to the broker as well as to us.",
+      "transcript_vi": "W: Lô cảm biến thay thế đã đến hải quan hôm qua, nhưng đại lý nói hàng đang bị giữ vì hóa đơn thương mại ghi sáu chiếc còn phiếu đóng gói ghi tám.\nM: Chúng ta đặt tám chiếc. Nhà cung cấp thêm hai chiếc thay bảo hành miễn phí nhưng có vẻ chưa cập nhật hóa đơn.\nW: Hải quan vẫn cần hóa đơn phản ánh mọi mặt hàng, kể cả hai chiếc có giá trị bằng không.\nM: Tôi sẽ yêu cầu nhà cung cấp cấp hóa đơn sửa và gửi trực tiếp cho đại lý cũng như cho chúng ta.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 25,
+          "question_type": "mcq",
+          "question_text": "Why is the shipment being held?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two shipping documents show different quantities."
+            },
+            {
+              "key": "B",
+              "text": "The sensors require a new import permit."
+            },
+            {
+              "key": "C",
+              "text": "Customs found physical damage."
+            },
+            {
+              "key": "D",
+              "text": "The supplier used the wrong broker."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Two shipping documents show different quantities.”.",
+          "translation": "Tại sao lô hàng đang bị giữ?",
+          "difficulty": 5,
+          "tags": [
+            "logistics"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 26,
+          "question_type": "mcq",
+          "question_text": "Why were two sensors added at no charge?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are product samples."
+            },
+            {
+              "key": "B",
+              "text": "They are warranty replacements."
+            },
+            {
+              "key": "C",
+              "text": "They were ordered by another department."
+            },
+            {
+              "key": "D",
+              "text": "They replace missing packing material."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “They are warranty replacements.”.",
+          "translation": "Tại sao có thêm hai cảm biến miễn phí?",
+          "difficulty": 4,
+          "tags": [
+            "logistics"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 27,
+          "question_type": "mcq",
+          "question_text": "What will the man ask the supplier to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Remove two sensors from the shipment."
+            },
+            {
+              "key": "B",
+              "text": "Change the packing list to six units."
+            },
+            {
+              "key": "C",
+              "text": "Issue and distribute a corrected invoice."
+            },
+            {
+              "key": "D",
+              "text": "Pay the broker's storage fee."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Issue and distribute a corrected invoice.”.",
+          "translation": "Người đàn ông sẽ yêu cầu nhà cung cấp làm gì?",
+          "difficulty": 5,
+          "tags": [
+            "logistics"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The city inspector can come Tuesday morning for the renovated café, but the fire-alarm contractor won't finish testing until late Monday.\nW: That's tight. The inspector needs the signed alarm certificate before she can approve occupancy.\nM: The contractor can email the certificate Monday night if the test passes.\nW: Then keep Tuesday for now, but don't open reservations for Wednesday yet. If the alarm test fails, we'll have to move the inspection and the opening date.",
+      "transcript_vi": "M: Thanh tra thành phố có thể đến sáng thứ Ba cho quán cà phê vừa cải tạo, nhưng nhà thầu báo cháy sẽ không kiểm tra xong đến cuối thứ Hai.\nW: Lịch khá sát. Thanh tra cần chứng nhận báo cháy đã ký trước khi có thể duyệt cho phép sử dụng.\nM: Nhà thầu có thể gửi chứng nhận qua email tối thứ Hai nếu kiểm tra đạt.\nW: Vậy tạm giữ lịch thứ Ba, nhưng chưa mở đặt chỗ cho thứ Tư. Nếu kiểm tra báo cháy không đạt, chúng ta phải dời cả lịch thanh tra lẫn ngày mở cửa.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 28,
+          "question_type": "mcq",
+          "question_text": "What document does the city inspector require?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A customer reservation list."
+            },
+            {
+              "key": "B",
+              "text": "A contractor payment receipt."
+            },
+            {
+              "key": "C",
+              "text": "A furniture delivery schedule."
+            },
+            {
+              "key": "D",
+              "text": "A signed fire-alarm certificate."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A signed fire-alarm certificate.”.",
+          "translation": "Thanh tra thành phố cần tài liệu gì?",
+          "difficulty": 4,
+          "tags": [
+            "construction"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 29,
+          "question_type": "mcq",
+          "question_text": "Why does the woman say the schedule is tight?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A required test finishes shortly before the inspection."
+            },
+            {
+              "key": "B",
+              "text": "The inspector can stay only a few minutes."
+            },
+            {
+              "key": "C",
+              "text": "The café already accepted Wednesday reservations."
+            },
+            {
+              "key": "D",
+              "text": "The contractor is unavailable on Monday."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A required test finishes shortly before the inspection.”.",
+          "translation": "Tại sao người phụ nữ nói lịch rất sát?",
+          "difficulty": 5,
+          "tags": [
+            "construction"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 30,
+          "question_type": "mcq",
+          "question_text": "Why does the woman advise against opening Wednesday reservations?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The café will be closed every Wednesday."
+            },
+            {
+              "key": "B",
+              "text": "The opening date still depends on inspection approval."
+            },
+            {
+              "key": "C",
+              "text": "The reservation system is under maintenance."
+            },
+            {
+              "key": "D",
+              "text": "The inspector asked to attend the opening."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The opening date still depends on inspection approval.”.",
+          "translation": "Tại sao người phụ nữ khuyên chưa nên mở đặt chỗ cho thứ Tư?",
+          "difficulty": 5,
+          "tags": [
+            "construction"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The insurer approved repairs to the delivery van, but their estimate covers a standard rear door, not the insulated door our van uses.\nM: The repair shop quoted an extra nine hundred dollars for the insulated assembly.\nW: The policy includes specialized equipment, but the adjuster needs documentation showing the original configuration.\nM: I have the purchase invoice and the vehicle specification sheet. I'll send both before authorizing the shop to order parts.",
+      "transcript_vi": "W: Công ty bảo hiểm đã duyệt sửa xe giao hàng, nhưng dự toán của họ chỉ tính cửa sau tiêu chuẩn, không phải cửa cách nhiệt mà xe của chúng ta dùng.\nM: Xưởng sửa báo thêm chín trăm đô la cho cụm cửa cách nhiệt.\nW: Hợp đồng có bao gồm thiết bị chuyên dụng, nhưng giám định viên cần tài liệu chứng minh cấu hình ban đầu.\nM: Tôi có hóa đơn mua xe và bảng thông số. Tôi sẽ gửi cả hai trước khi cho xưởng đặt phụ tùng.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 31,
+          "question_type": "mcq",
+          "question_text": "What is missing from the insurer's estimate?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The cost of engine repairs."
+            },
+            {
+              "key": "B",
+              "text": "The repair shop's labor charge."
+            },
+            {
+              "key": "C",
+              "text": "The cost of the van's insulated door."
+            },
+            {
+              "key": "D",
+              "text": "The vehicle's annual inspection fee."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The cost of the van's insulated door.”.",
+          "translation": "Dự toán của công ty bảo hiểm thiếu khoản nào?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 32,
+          "question_type": "mcq",
+          "question_text": "What does the adjuster need to verify?",
+          "options": [
+            {
+              "key": "A",
+              "text": "That the driver caused no damage."
+            },
+            {
+              "key": "B",
+              "text": "That the repair shop is nearby."
+            },
+            {
+              "key": "C",
+              "text": "That the van is used every day."
+            },
+            {
+              "key": "D",
+              "text": "That the van originally had specialized equipment."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “That the van originally had specialized equipment.”.",
+          "translation": "Giám định viên cần xác minh điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 33,
+          "question_type": "mcq",
+          "question_text": "What will the man do before parts are ordered?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Send supporting vehicle documents."
+            },
+            {
+              "key": "B",
+              "text": "Pay the nine hundred dollars personally."
+            },
+            {
+              "key": "C",
+              "text": "Ask the shop to install a standard door."
+            },
+            {
+              "key": "D",
+              "text": "Cancel the insurance claim."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Send supporting vehicle documents.”.",
+          "translation": "Người đàn ông sẽ làm gì trước khi đặt phụ tùng?",
+          "difficulty": 4,
+          "tags": [
+            "insurance"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "M: The lending museum approved the sculpture loan, but their updated agreement requires humidity to stay between forty-five and fifty-five percent.\nW: Gallery three usually stays in that range, except when the loading door is open for deliveries.\nM: Could we schedule deliveries before the sculpture arrives each day?\nW: Better yet, route deliveries through the east dock during the six-week loan. I'll ask facilities whether that dock can handle the larger crates.",
+      "transcript_vi": "M: Bảo tàng cho mượn đã duyệt việc cho mượn tác phẩm điêu khắc, nhưng thỏa thuận cập nhật yêu cầu độ ẩm giữ từ bốn mươi lăm đến năm mươi lăm phần trăm.\nW: Phòng trưng bày ba thường ở trong khoảng đó, trừ khi cửa nhận hàng mở để giao hàng.\nM: Chúng ta có thể xếp lịch giao trước khi tác phẩm đến mỗi ngày không?\nW: Tốt hơn là chuyển các chuyến giao qua bến phía đông trong sáu tuần mượn. Tôi sẽ hỏi cơ sở vật chất xem bến đó có xử lý được các thùng lớn không.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 34,
+          "question_type": "mcq",
+          "question_text": "What new condition appears in the loan agreement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A shorter exhibition period."
+            },
+            {
+              "key": "B",
+              "text": "A specified humidity range."
+            },
+            {
+              "key": "C",
+              "text": "A higher insurance value."
+            },
+            {
+              "key": "D",
+              "text": "A ban on guided tours."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “A specified humidity range.”.",
+          "translation": "Điều kiện mới nào có trong thỏa thuận cho mượn?",
+          "difficulty": 4,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 35,
+          "question_type": "mcq",
+          "question_text": "What causes humidity to vary in gallery three?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Turning on display lights."
+            },
+            {
+              "key": "B",
+              "text": "Running guided tours."
+            },
+            {
+              "key": "C",
+              "text": "Opening the delivery door."
+            },
+            {
+              "key": "D",
+              "text": "Moving the sculpture."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Opening the delivery door.”.",
+          "translation": "Điều gì làm độ ẩm ở phòng trưng bày ba thay đổi?",
+          "difficulty": 5,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 36,
+          "question_type": "mcq",
+          "question_text": "What does the woman propose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel large deliveries for six weeks."
+            },
+            {
+              "key": "B",
+              "text": "Move the sculpture to the east dock."
+            },
+            {
+              "key": "C",
+              "text": "Change the lender's humidity requirement."
+            },
+            {
+              "key": "D",
+              "text": "Use a different loading area during the loan."
+            }
+          ],
+          "correct_answer": "D",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Use a different loading area during the loan.”.",
+          "translation": "Người phụ nữ đề xuất điều gì?",
+          "difficulty": 5,
+          "tags": [
+            "museum-operations"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "section": "listening",
+      "instructions": "Read or listen to the conversation, then choose the option best supported by what the speakers say.",
+      "transcript": "W: The vice president's morning flight to Denver was canceled because of the storm. The airline can rebook her at two ten, but that lands after the supplier meeting starts.\nM: There's a flight to Colorado Springs at eleven thirty, then about a ninety-minute drive to the supplier's office.\nW: If traffic is normal, that gets her there around two, only thirty minutes late. The supplier said they can shift the plant tour to the end of the meeting.\nM: Book Colorado Springs, reserve a car, and send the revised arrival time to the supplier before we cancel the original ground pickup.",
+      "transcript_vi": "W: Chuyến bay sáng của phó chủ tịch đến Denver bị hủy vì bão. Hãng có thể đổi sang chuyến hai giờ mười, nhưng sẽ hạ cánh sau khi cuộc họp với nhà cung cấp bắt đầu.\nM: Có chuyến đến Colorado Springs lúc mười một giờ ba mươi, rồi lái xe khoảng chín mươi phút đến văn phòng nhà cung cấp.\nW: Nếu giao thông bình thường, bà ấy đến khoảng hai giờ, chỉ muộn ba mươi phút. Nhà cung cấp nói có thể chuyển chuyến tham quan nhà máy xuống cuối cuộc họp.\nM: Hãy đặt chuyến Colorado Springs, thuê xe và gửi giờ đến mới cho nhà cung cấp trước khi hủy xe đón ban đầu.",
+      "audio_duration_seconds": null,
+      "source": "original",
+      "questions": [
+        {
+          "number": 37,
+          "question_type": "mcq",
+          "question_text": "Why is the two-ten Denver flight unsuitable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It would make the executive arrive too late for the meeting."
+            },
+            {
+              "key": "B",
+              "text": "It has no available business-class seats."
+            },
+            {
+              "key": "C",
+              "text": "It lands at the wrong airport terminal."
+            },
+            {
+              "key": "D",
+              "text": "It requires an overnight connection."
+            }
+          ],
+          "correct_answer": "A",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “It would make the executive arrive too late for the meeting.”.",
+          "translation": "Tại sao chuyến Denver lúc 2 giờ 10 không phù hợp?",
+          "difficulty": 5,
+          "tags": [
+            "business-travel"
+          ],
+          "skill_tags": [
+            "inference"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 38,
+          "question_type": "mcq",
+          "question_text": "How will the supplier accommodate the delayed arrival?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel the supplier meeting."
+            },
+            {
+              "key": "B",
+              "text": "Move the plant tour to later in the meeting."
+            },
+            {
+              "key": "C",
+              "text": "Send the plant tour by video."
+            },
+            {
+              "key": "D",
+              "text": "Move the meeting to Denver."
+            }
+          ],
+          "correct_answer": "B",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “Move the plant tour to later in the meeting.”.",
+          "translation": "Nhà cung cấp sẽ điều chỉnh thế nào cho việc đến muộn?",
+          "difficulty": 5,
+          "tags": [
+            "business-travel"
+          ],
+          "skill_tags": [
+            "detail"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        },
+        {
+          "number": 39,
+          "question_type": "mcq",
+          "question_text": "What should happen before the original ground pickup is canceled?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The airline should refund the canceled flight."
+            },
+            {
+              "key": "B",
+              "text": "The vice president should finish the plant tour."
+            },
+            {
+              "key": "C",
+              "text": "The supplier should receive the revised arrival time."
+            },
+            {
+              "key": "D",
+              "text": "The rental car should be returned."
+            }
+          ],
+          "correct_answer": "C",
+          "answer_data": null,
+          "explanation": "Hội thoại cho biết phương án phù hợp là “The supplier should receive the revised arrival time.”.",
+          "translation": "Điều gì cần thực hiện trước khi hủy xe đón ban đầu?",
+          "difficulty": 5,
+          "tags": [
+            "business-travel"
+          ],
+          "skill_tags": [
+            "sequence"
+          ],
+          "source": "original",
+          "independent_review": "pending"
+        }
+      ]
+    }
+  ]
+}
