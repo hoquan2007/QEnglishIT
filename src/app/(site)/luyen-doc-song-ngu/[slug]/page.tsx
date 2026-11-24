@@ -1,17 +1,20 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { BilingualReader } from "@/components/reading/BilingualReader";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("reading_passages").select("title").eq("slug", (await params).slug).maybeSingle();
   return { title: data?.title ? `${data.title} — Đọc song ngữ` : "Đọc song ngữ" };
 }
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: p } = await sb.from("reading_passages").select("*").eq("slug", slug).maybeSingle();
   if (!p) notFound();
   const { data: sib } = await sb.from("reading_passages").select("slug").order("sort_order");

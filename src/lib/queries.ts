@@ -1,20 +1,21 @@
+import { supabasePublic } from "./supabase/public";
 import { supabaseServer } from "./supabase/server";
 import type { Attempt, QuestionGroup, Test } from "./types";
 
 export async function getTests(): Promise<Test[]> {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("tests").select("*").eq("is_published", true).order("collection", { ascending: false }).order("sort_order");
   return (data ?? []) as Test[];
 }
 
 export async function getTestBySlug(slug: string): Promise<Test | null> {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("tests").select("*").eq("slug", slug).maybeSingle();
   return data as Test | null;
 }
 
 export async function getTestGroups(testId: string, parts?: number[]): Promise<QuestionGroup[]> {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   let q = sb.from("question_groups").select("*, questions(*)").eq("test_id", testId);
   if (parts?.length) q = q.in("part", parts);
   const { data } = await q.order("part").order("group_order");

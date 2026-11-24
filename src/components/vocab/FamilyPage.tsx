@@ -3,7 +3,6 @@ import { BookOpen, Library, LineChart, Heart } from "lucide-react";
 import { FAMILIES, getFamily } from "@/lib/vocab";
 import { PageHero } from "@/components/PageHero";
 import { FamilyTabs } from "./FamilyTabs";
-import { supabaseServer } from "@/lib/supabase/server";
 
 export async function FamilyPage({ family }: { family: string }) {
   const meta = FAMILIES[family];
@@ -12,13 +11,6 @@ export async function FamilyPage({ family }: { family: string }) {
     (s, c) => s + c.vocab_lessons.reduce((x, l) => x + ((l.vocab_lesson_words as unknown as { count: number }[])?.[0]?.count ?? 0), 0),
     0,
   );
-  const sb = await supabaseServer();
-  const { data: u } = await sb.auth.getUser();
-  let done: string[] = [];
-  if (u.user) {
-    const { data } = await sb.from("user_progress").select("item_id").eq("item_type", "vocab_lesson").eq("status", "completed");
-    done = (data ?? []).map((d) => d.item_id);
-  }
 
   return (
     <>
@@ -51,7 +43,6 @@ export async function FamilyPage({ family }: { family: string }) {
             lessons: c.vocab_lessons.map((l) => ({
               id: l.id, slug: l.slug, title: l.title, title_vi: l.title_vi, day: l.day_number,
               count: (l.vocab_lesson_words as unknown as { count: number }[])?.[0]?.count ?? 0,
-              done: done.includes(l.id),
             })),
           }))}
         />

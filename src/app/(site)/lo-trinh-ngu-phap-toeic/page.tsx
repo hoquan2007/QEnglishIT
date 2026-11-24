@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { SubTabs } from "@/components/SubTabs";
 
 export const metadata = { title: "Lộ trình ngữ pháp TOEIC" };
@@ -13,7 +13,7 @@ const LEVELS = [
 ];
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("grammar_topics").select("slug, title, title_vi, level, sort_order").order("sort_order");
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">

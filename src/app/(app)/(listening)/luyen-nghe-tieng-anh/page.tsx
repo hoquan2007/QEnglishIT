@@ -2,6 +2,8 @@ import { GraduationCap } from "lucide-react";
 import { PageHero } from "@/components/PageHero";
 import { ListeningLessonList } from "@/components/listening/LessonList";
 
+export const revalidate = 300;
+
 export const metadata = { title: "Luyện nghe tiếng Anh theo giáo trình" };
 
 export default function Page() {

@@ -1,11 +1,14 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PARTS } from "@/lib/toeic";
+
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: test } = await sb.from("tests").select("id, title").eq("slug", slug).maybeSingle();
   if (!test) notFound();
   const { data: groups } = await sb.from("question_groups").select("id, part, group_order").eq("test_id", test.id).lte("part", 4).order("group_order");

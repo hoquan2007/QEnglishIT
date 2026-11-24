@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Map, Flag, Target, Trophy, ArrowRight } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Lộ trình học TOEIC 450 – 650 – 800+" };
@@ -13,7 +13,7 @@ const STAGES = [
 ];
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: courses } = await sb.from("courses").select("slug, title, target_score").order("sort_order");
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">

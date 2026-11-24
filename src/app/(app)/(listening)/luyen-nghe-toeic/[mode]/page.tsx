@@ -1,16 +1,19 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Headphones } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 import { PARTS } from "@/lib/toeic";
+
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
 
 export default async function Page({ params }: { params: Promise<{ mode: string }> }) {
   const { mode } = await params;
   const m = mode.match(/^part-([1-4])$/);
   if (!m) notFound();
   const part = Number(m[1]);
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: groups } = await sb
     .from("question_groups")
     .select("id, group_order, transcript, test_id, tests(title, sort_order)")

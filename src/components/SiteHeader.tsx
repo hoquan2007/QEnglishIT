@@ -11,24 +11,17 @@ import { Logo } from "./Logo";
 import { NAV } from "./nav";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { cn } from "@/lib/utils";
-import type { User as SbUser } from "@supabase/supabase-js";
+import { useAuthUser } from "@/lib/useAuth";
 
 const ICONS = { BookOpen, GraduationCap, Headphones, FileText, PenLine, Flame, Library, Map, Info } as const;
 
 export function SiteHeader() {
   const pathname = usePathname();
   const router = useRouter();
-  const [user, setUser] = useState<SbUser | null>(null);
+  const user = useAuthUser();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [unread, setUnread] = useState(0);
-
-  useEffect(() => {
-    const sb = supabaseBrowser();
-    sb.auth.getUser().then(({ data }) => setUser(data.user));
-    const { data: sub } = sb.auth.onAuthStateChange((_e, s) => setUser(s?.user ?? null));
-    return () => sub.subscription.unsubscribe();
-  }, []);
 
   useEffect(() => {
     if (!user) return;
@@ -125,6 +118,8 @@ export function SiteHeader() {
                 )}
               </div>
             </>
+          ) : user === undefined ? (
+            <span className="h-9 w-24 animate-pulse rounded-xl bg-slate-100" aria-hidden />
           ) : (
             <>
               <Link href="/login" className="btn btn-ghost hidden sm:inline-flex">Đăng nhập</Link>

@@ -3,8 +3,9 @@ import {
   BookOpen, Headphones, Library, Flame, FileText, Map, CheckCircle2, Sparkles, TrendingUp,
   MessageCircleQuestion, ArrowRight, Download, Smartphone,
 } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
-import { formatNumber } from "@/lib/utils";
+import { supabasePublic } from "@/lib/supabase/public";
+import { CountUp } from "@/components/motion/CountUp";
+import { SpotlightCard } from "@/components/motion/SpotlightCard";
 
 export const revalidate = 300;
 
@@ -24,7 +25,7 @@ const STEPS = [
 ];
 
 export default async function HomePage() {
-  const supabase = await supabaseServer();
+  const supabase = supabasePublic();
   const { data } = await supabase.rpc("get_site_stats");
   const s = (data ?? {}) as Record<string, number>;
   const stats = [
@@ -39,22 +40,22 @@ export default async function HomePage() {
       <section className="hero-bg">
         <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 py-16 md:py-24 lg:grid-cols-[1.1fr_1fr]">
           <div>
-            <span className="chip !border-brand-200 !bg-brand-50 !text-brand-700">
-              <Sparkles className="h-3.5 w-3.5" /> Nền tảng luyện TOEIC miễn phí hiệu quả
+            <span className="enter chip !border-brand-200 !bg-brand-50 !text-brand-700">
+              <Sparkles className="h-3.5 w-3.5" /> <span className="shiny-text">Nền tảng luyện TOEIC miễn phí hiệu quả</span>
             </span>
-            <h1 className="mt-5 text-4xl font-extrabold leading-tight tracking-tight md:text-6xl">
+            <h1 style={{ "--d": 1 } as React.CSSProperties} className="enter mt-5 text-4xl font-extrabold leading-tight tracking-tight md:text-6xl">
               Luyện Thi <span className="text-gradient">TOEIC Online</span>
               <br />
               Dễ dàng hơn bao giờ hết
             </h1>
-            <p className="mt-5 max-w-xl text-lg text-slate-600">
+            <p style={{ "--d": 2 } as React.CSSProperties} className="enter mt-5 max-w-xl text-lg text-slate-600">
               <b>QEnglishIT</b> — Miễn phí khóa học và luyện TOEIC. Luyện đề, Nghe, Đọc, Ngữ pháp & Từ vựng với đa dạng chế độ học và giải thích chi tiết từng đáp án.
             </p>
-            <div className="mt-8 flex flex-wrap gap-3">
+            <div style={{ "--d": 3 } as React.CSSProperties} className="enter mt-8 flex flex-wrap gap-3">
               <Link href="/hoc-toeic-online" className="btn btn-primary !px-6 !py-3">Khóa học miễn phí <ArrowRight className="h-4 w-4" /></Link>
               <Link href="/luyen-de-toeic" className="btn btn-outline !px-6 !py-3">Luyện đề thi TOEIC</Link>
             </div>
-            <ul className="mt-7 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-600">
+            <ul style={{ "--d": 4 } as React.CSSProperties} className="enter mt-7 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-600">
               {["Đăng ký miễn phí, bắt đầu ngay", "Theo dõi tiến độ học tập", "Giải thích chi tiết từng câu"].map((t) => (
                 <li key={t} className="flex items-center gap-1.5"><CheckCircle2 className="h-4 w-4 text-emerald-500" />{t}</li>
               ))}
@@ -63,9 +64,9 @@ export default async function HomePage() {
           <HeroVisual />
         </div>
         <div className="mx-auto grid max-w-7xl grid-cols-2 gap-4 px-4 pb-16 md:grid-cols-4">
-          {stats.map((st) => (
-            <div key={st.label} className="card p-5 text-center">
-              <div className="text-3xl font-extrabold text-brand-600">{formatNumber(st.v)}+</div>
+          {stats.map((st, i) => (
+            <div key={st.label} style={{ "--d": i + 3 } as React.CSSProperties} className="enter card lift p-5 text-center">
+              <div className="text-3xl font-extrabold text-brand-600"><CountUp to={st.v} suffix="+" /></div>
               <div className="mt-1 text-sm text-slate-500">{st.label}</div>
             </div>
           ))}
@@ -73,26 +74,26 @@ export default async function HomePage() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4 py-20">
-        <div className="mx-auto max-w-2xl text-center">
+        <div className="reveal mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-extrabold md:text-4xl">Luyện TOEIC toàn diện — Chỉ cần 1 nền tảng</h2>
           <p className="mt-3 text-slate-600">Từ ngữ pháp, từ vựng, luyện nghe đến luyện đề chuẩn format — tất cả đều có trên QEnglishIT.</p>
         </div>
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {FEATURES.map((f) => (
-            <Link key={f.title} href={f.href} className="card group p-6 transition hover:-translate-y-1 hover:shadow-xl">
+            <SpotlightCard key={f.title} href={f.href} className="reveal card lift group p-6">
               <div className={`grid h-12 w-12 place-items-center rounded-xl ${f.color}`}><f.icon className="h-6 w-6" /></div>
               <h3 className="mt-4 text-lg font-bold">{f.title}</h3>
               <p className="mt-2 text-sm text-slate-600">{f.desc}</p>
               <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-600">
                 Khám phá ngay <ArrowRight className="h-4 w-4 transition group-hover:translate-x-1" />
               </span>
-            </Link>
+            </SpotlightCard>
           ))}
         </div>
       </section>
 
       <section className="mx-auto max-w-7xl px-4">
-        <div className="grid items-center gap-10 overflow-hidden rounded-3xl bg-gradient-to-br from-brand-600 to-sky-700 p-8 text-white md:grid-cols-2 md:p-14">
+        <div className="reveal grid items-center gap-10 overflow-hidden rounded-3xl bg-gradient-to-br from-brand-600 to-sky-700 p-8 text-white md:grid-cols-2 md:p-14">
           <div>
             <div className="text-sm font-semibold uppercase tracking-widest text-brand-100">Học TOEIC miễn phí</div>
             <h2 className="mt-3 text-3xl font-extrabold md:text-4xl">Chinh phục TOEIC 800+ ngay hôm nay</h2>
@@ -108,7 +109,7 @@ export default async function HomePage() {
             ].map(([Icon, t]) => {
               const I = Icon as typeof Headphones;
               return (
-                <li key={t as string} className="flex items-center gap-3 rounded-2xl bg-white/10 p-4 backdrop-blur">
+                <li key={t as string} className="flex items-center gap-3 rounded-2xl bg-white/10 p-4">
                   <I className="h-5 w-5 shrink-0" /> {t as string}
                 </li>
               );
@@ -118,13 +119,13 @@ export default async function HomePage() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4 py-20">
-        <div className="text-center">
+        <div className="reveal text-center">
           <h2 className="text-3xl font-extrabold md:text-4xl">Chỉ 3 bước để chinh phục TOEIC</h2>
           <p className="mt-3 text-slate-600">Lộ trình đơn giản, hiệu quả — giúp bạn tiến bộ rõ rệt từng ngày.</p>
         </div>
         <div className="mt-12 grid gap-6 md:grid-cols-3">
           {STEPS.map((s) => (
-            <div key={s.n} className="card p-7">
+            <div key={s.n} className="reveal card lift p-7">
               <div className="text-4xl font-extrabold text-brand-200">{s.n}</div>
               <h3 className="mt-3 text-lg font-bold">{s.title}</h3>
               <p className="mt-2 text-sm text-slate-600">{s.desc}</p>
@@ -134,7 +135,7 @@ export default async function HomePage() {
       </section>
 
       <section className="mx-auto max-w-7xl px-4">
-        <div className="card grid items-center gap-8 p-8 md:grid-cols-[auto_1fr] md:p-12">
+        <div className="reveal card grid items-center gap-8 p-8 md:grid-cols-[auto_1fr] md:p-12">
           <div className="grid h-20 w-20 place-items-center rounded-3xl bg-brand-50 text-brand-600"><Smartphone className="h-10 w-10" /></div>
           <div>
             <div className="text-sm font-semibold text-brand-600"><Download className="mr-1 inline h-4 w-4" />Tải app miễn phí</div>
@@ -148,7 +149,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-3xl px-4 pt-20 text-center">
+      <section className="reveal mx-auto max-w-3xl px-4 pt-20 text-center">
         <h2 className="text-3xl font-extrabold">Đừng để TOEIC cản bước thăng tiến của bạn!</h2>
         <p className="mt-3 text-slate-600">Luyện tập đều đặn 30 phút mỗi ngày — bạn sẽ thấy điểm số thay đổi sau 30 ngày.</p>
         <Link href="/signup" className="btn btn-primary mt-7 !px-8 !py-3">Bắt đầu luyện ngay</Link>
@@ -159,8 +160,8 @@ export default async function HomePage() {
 
 function HeroVisual() {
   return (
-    <div className="relative mx-auto w-full max-w-md">
-      <div className="card rotate-1 p-5 shadow-2xl">
+    <div style={{ "--d": 2 } as React.CSSProperties} className="enter relative mx-auto w-full max-w-md">
+      <div className="float-slow card rotate-1 p-5 shadow-2xl">
         <div className="flex items-center justify-between text-xs text-slate-500">
           <span className="font-semibold text-brand-600">Câu 104 · Part 5</span>
           <span className="rounded-full bg-orange-100 px-2 py-0.5 font-semibold text-orange-600">01:24:10</span>
@@ -175,12 +176,12 @@ function HeroVisual() {
           <b className="text-brand-700">Giải thích:</b> sau động từ khuyết thiếu “will” cần động từ nguyên mẫu → <b>present</b>.
         </div>
       </div>
-      <div className="card absolute -bottom-8 -left-6 hidden w-44 -rotate-3 p-4 shadow-xl sm:block">
+      <div className="float card absolute -bottom-8 -left-6 hidden w-44 -rotate-3 p-4 shadow-xl sm:block">
         <div className="text-xs text-slate-500">Điểm dự đoán</div>
-        <div className="text-3xl font-extrabold text-brand-600">785</div>
-        <div className="mt-2 h-2 rounded-full bg-slate-100"><div className="h-2 w-4/5 rounded-full bg-brand-500" /></div>
+        <div className="text-3xl font-extrabold text-brand-600"><CountUp to={785} /></div>
+        <div className="mt-2 h-2 rounded-full bg-slate-100"><div className="bar-grow h-2 w-4/5 rounded-full bg-brand-500" /></div>
       </div>
-      <div className="card absolute -right-4 -top-6 hidden -rotate-6 px-4 py-3 shadow-xl sm:block">
+      <div className="float card absolute -right-4 -top-6 hidden -rotate-6 px-4 py-3 shadow-xl sm:block">
         <div className="flex items-center gap-2 text-sm font-bold text-orange-500"><Flame className="h-5 w-5" />12 ngày streak</div>
       </div>
     </div>

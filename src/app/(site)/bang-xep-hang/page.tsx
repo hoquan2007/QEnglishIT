@@ -1,12 +1,12 @@
 import { Trophy, Flame, Zap } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Bảng xếp hạng" };
 export const revalidate = 120;
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.rpc("get_leaderboard");
   const rows = (data ?? []) as { id: string; display_name: string | null; xp: number; streak: number }[];
   return (

@@ -1,4 +1,4 @@
-import { supabaseServer } from "./supabase/server";
+import { supabasePublic } from "./supabase/public";
 
 export const FAMILIES: Record<string, { route: string; title: string; highlight: string; desc: string; badge: string }> = {
   toeic: { route: "/tu-vung-toeic", title: "Từ vựng TOEIC theo", highlight: "chủ đề", desc: "Từ vựng chọn lọc theo đề thi thực tế, học thông minh để nhớ lâu hơn.", badge: "Từ vựng TOEIC" },
@@ -11,7 +11,7 @@ export const FAMILIES: Record<string, { route: string; title: string; highlight:
 };
 
 export async function getFamily(family: string) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb
     .from("vocab_collections")
     .select("id, slug, title, description, color, sort_order, vocab_lessons(id, slug, title, title_vi, day_number, sort_order, vocab_lesson_words(count))")

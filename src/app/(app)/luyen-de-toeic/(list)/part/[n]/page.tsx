@@ -1,8 +1,11 @@
 import { notFound } from "next/navigation";
 import { Headphones, BookOpenText } from "lucide-react";
-import { getMyAttempts, getTests } from "@/lib/queries";
+import { getTests } from "@/lib/queries";
 import { TestGrid } from "@/components/tests/TestGrid";
 import { PageHero } from "@/components/PageHero";
+
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
 import { getToeicParts, PARTS } from "@/lib/toeic";
 
 const TIPS: Record<number, string[]> = {
@@ -24,7 +27,7 @@ export default async function Page({ params }: { params: Promise<{ n: string }> 
   const n = Number((await params).n);
   const meta = PARTS[n - 1];
   if (!meta) notFound();
-  const [tests, attempts] = await Promise.all([getTests(), getMyAttempts()]);
+  const tests = await getTests();
   return (
     <>
       <PageHero
@@ -39,7 +42,7 @@ export default async function Page({ params }: { params: Promise<{ n: string }> 
           </ul>
         }
       />
-      <TestGrid tests={tests.filter((test) => getToeicParts(test).includes(n))} attempts={attempts.filter((a) => a.parts.length === 1 && a.parts[0] === n)} fixedParts={[n]} />
+      <TestGrid tests={tests.filter((test) => getToeicParts(test).includes(n))} fixedParts={[n]} />
     </>
   );
 }

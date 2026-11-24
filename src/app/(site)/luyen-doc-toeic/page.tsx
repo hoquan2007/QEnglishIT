@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { FileText, BookOpenText } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Luyện đọc TOEIC — Part 5, 6, 7 & đọc song ngữ" };
@@ -9,7 +9,7 @@ export const revalidate = 300;
 const TYPE_LABEL: Record<string, string> = { email: "Email", article: "Bài báo", notice: "Thông báo", ad: "Quảng cáo", chat: "Tin nhắn", form: "Biểu mẫu", letter: "Thư", memo: "Bản ghi nhớ" };
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("reading_passages").select("slug, title, level, passage_type, questions").order("sort_order");
   const levels = [...new Set((data ?? []).map((p) => p.level))].sort();
   return (
@@ -18,7 +18,7 @@ export default async function Page() {
         desc="Đọc từng đoạn Anh – Việt, trả lời câu hỏi có giải thích, học từ vựng then chốt. Kết hợp luyện Part 5, 6, 7 theo đề." />
       <div className="mb-8 grid gap-3 sm:grid-cols-3">
         {[5, 6, 7].map((p) => (
-          <Link key={p} href={`/luyen-part-${p}-toeic`} className="card flex items-center gap-3 p-4 hover:shadow-lg">
+          <Link key={p} href={`/luyen-part-${p}-toeic`} className="reveal card lift flex items-center gap-3 p-4">
             <span className="grid h-10 w-10 place-items-center rounded-xl bg-emerald-50 text-emerald-600"><BookOpenText className="h-5 w-5" /></span>
             <div><div className="font-bold">Luyện Part {p}</div><div className="text-xs text-slate-500">{p === 5 ? "Hoàn thành câu" : p === 6 ? "Hoàn thành đoạn văn" : "Đọc hiểu"} · theo đề</div></div>
           </Link>
@@ -29,7 +29,7 @@ export default async function Page() {
           <h2 className="mb-3 text-lg font-extrabold">Mục tiêu TOEIC {lv}+</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {(data ?? []).filter((p) => p.level === lv).map((p) => (
-              <Link key={p.slug} href={`/luyen-doc-song-ngu/${p.slug}`} className="card p-4 transition hover:shadow-lg">
+              <Link key={p.slug} href={`/luyen-doc-song-ngu/${p.slug}`} className="reveal card lift p-4">
                 <div className="flex items-center gap-2 text-xs">
                   <span className="chip !py-0.5">{TYPE_LABEL[p.passage_type ?? ""] ?? p.passage_type}</span>
                   <span className="ml-auto text-slate-500">{(p.questions as unknown[]).length} câu hỏi</span>

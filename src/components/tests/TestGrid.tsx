@@ -1,19 +1,45 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { FileText, Clock, Flame, Play, Dumbbell } from "lucide-react";
 import type { Attempt, Test } from "@/lib/types";
 import { isToeicListeningReading } from "@/lib/toeic";
 import { formatNumber } from "@/lib/utils";
 import { ModeDialog } from "./ModeDialog";
+import { useAuthUser } from "@/lib/useAuth";
+import { supabaseBrowser } from "@/lib/supabase/client";
 
-export function TestGrid({ tests, attempts, fixedParts }: { tests: Test[]; attempts: Attempt[]; fixedParts?: number[] }) {
+/** Cards rendered per collection before "Xem thêm" — keeps the DOM light on long lists. */
+const PAGE = 9;
+
+export function TestGrid({ tests, fixedParts }: { tests: Test[]; fixedParts?: number[] }) {
+  const user = useAuthUser();
+  const [allAttempts, setAllAttempts] = useState<Attempt[]>([]);
+  useEffect(() => {
+    if (!user) return;
+    let alive = true;
+    supabaseBrowser()
+      .from("test_attempts")
+      .select("*")
+      .eq("user_id", user.id)
+      .order("started_at", { ascending: false })
+      .then(({ data }) => alive && setAllAttempts((data ?? []) as Attempt[]));
+    return () => {
+      alive = false;
+    };
+  }, [user]);
+  const attempts = useMemo(() => {
+    if (!user) return [];
+    const part = fixedParts?.length === 1 ? fixedParts[0] : null;
+    return part === null ? allAttempts : allAttempts.filter((a) => a.parts.length === 1 && a.parts[0] === part);
+  }, [user, allAttempts, fixedParts]);
   const collections = useMemo(() => {
     const m = new Map<string, number>();
     tests.forEach((t) => m.set(t.collection, (m.get(t.collection) ?? 0) + 1));
     return [...m.entries()];
   }, [tests]);
   const [filter, setFilter] = useState<string>("all");
+  const [expanded, setExpanded] = useState<Record<string, boolean>>({});
   const [dialog, setDialog] = useState<{ test: Test; mode: "exam" | "practice" } | null>(null);
 
   const status = (t: Test) => {
@@ -46,10 +72,10 @@ export function TestGrid({ tests, attempts, fixedParts }: { tests: Test[]; attem
         <section key={c} className="mb-10">
           <h2 className="mb-4 text-lg font-extrabold">{c} <span className="text-sm font-medium text-slate-400">{n} đề</span></h2>
           <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-            {tests.filter((t) => t.collection === c).map((t, i) => {
+            {tests.filter((t) => t.collection === c).slice(0, expanded[c] ? undefined : PAGE).map((t, i) => {
               const st = status(t);
               return (
-                <div key={t.id} className="card p-4 transition hover:shadow-lg">
+                <div key={t.id} className="reveal card lift p-4">
                   <div className="flex items-center gap-2">
                     <span className="grid h-7 w-7 place-items-center rounded-full bg-brand-500 text-xs font-bold text-white">{i + 1}</span>
                     <h3 className="font-bold">{t.title}</h3>
@@ -70,6 +96,13 @@ export function TestGrid({ tests, attempts, fixedParts }: { tests: Test[]; attem
               );
             })}
           </div>
+          {n > PAGE && (
+            <div className="mt-4 text-center">
+              <button className="btn btn-outline" onClick={() => setExpanded((e) => ({ ...e, [c]: !e[c] }))}>
+                {expanded[c] ? "Thu gọn" : `Xem thêm ${n - PAGE} đề`}
+              </button>
+            </div>
+          )}
         </section>
       ))}
       {dialog && <ModeDialog test={dialog.test} initialMode={dialog.mode} fixedParts={fixedParts} onClose={() => setDialog(null)} />}

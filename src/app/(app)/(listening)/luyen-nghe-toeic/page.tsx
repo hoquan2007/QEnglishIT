@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { PenLine, Image as ImageIcon, MessageCircle, Users, Mic, ArrowRight } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 import { DictationTabs } from "@/components/listening/DictationTabs";
+import { DictationProgress } from "@/components/listening/DictationProgress";
+
+export const revalidate = 300;
 
 export const metadata = { title: "Luyện nghe TOEIC: Part 1, 2, 3, 4 & Nghe chép chính tả" };
 
@@ -14,18 +17,12 @@ const PART_CARDS = [
 ];
 
 export default async function Page() {
-  const sb = await supabaseServer();
-  const [{ data: groups }, { data: tests }, { data: u }] = await Promise.all([
+  const sb = supabasePublic();
+  const [{ data: groups }, { data: tests }] = await Promise.all([
     sb.from("question_groups").select("id, part, test_id").lte("part", 4),
     sb.from("tests").select("id, slug, title").order("sort_order"),
-    sb.auth.getUser(),
   ]);
   const byPart = (p: number) => (groups ?? []).filter((g) => g.part === p).length;
-  let done = 0;
-  if (u.user) {
-    const { count } = await sb.from("listening_check_progress").select("item_key", { count: "exact", head: true }).eq("correct", true);
-    done = count ?? 0;
-  }
   return (
     <>
       <PageHero
@@ -39,7 +36,7 @@ export default async function Page() {
         byPart={
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {PART_CARDS.map((c) => (
-              <Link key={c.p} href={`/luyen-nghe-toeic/part-${c.p}`} className="card group overflow-hidden transition hover:shadow-lg">
+              <Link key={c.p} href={`/luyen-nghe-toeic/part-${c.p}`} className="reveal card lift group overflow-hidden">
                 <div className={`grid h-24 place-items-center bg-gradient-to-br ${c.color} text-white`}><c.icon className="h-9 w-9" /></div>
                 <div className="p-4">
                   <div className="font-bold">{c.title}</div>
@@ -52,25 +49,14 @@ export default async function Page() {
         byTest={
           <div className="grid gap-3 sm:grid-cols-2">
             {(tests ?? []).map((t) => (
-              <Link key={t.id} href={`/luyen-nghe-toeic/de/${t.slug}`} className="card flex items-center justify-between p-4 hover:shadow-lg">
+              <Link key={t.id} href={`/luyen-nghe-toeic/de/${t.slug}`} className="reveal card lift flex items-center justify-between p-4">
                 <span className="font-bold">{t.title}</span>
                 <span className="text-sm text-slate-500">{(groups ?? []).filter((g) => g.test_id === t.id).length} bài nghe →</span>
               </Link>
             ))}
           </div>
         }
-        progress={
-          <div className="card p-6">
-            {u.user ? (
-              <>
-                <div className="text-sm text-slate-500">Số câu đã nghe chép đúng</div>
-                <div className="text-4xl font-extrabold text-emerald-600">{done}</div>
-              </>
-            ) : (
-              <p className="text-slate-500"><Link href="/login?next=/luyen-nghe-toeic" className="text-brand-600 underline">Đăng nhập</Link> để lưu tiến độ nghe chép.</p>
-            )}
-          </div>
-        }
+        progress={<DictationProgress />}
       />
     </>
   );

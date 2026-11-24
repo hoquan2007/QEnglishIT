@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { Dictation, type Line } from "./Dictation";
 
 export async function ListeningLessonDetail({ slug, base, backLabel }: { slug: string; base: string; backLabel: string }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: l } = await sb.from("listening_lessons").select("*").eq("slug", slug).maybeSingle();
   if (!l) notFound();
   const { data: sib } = await sb.from("listening_lessons").select("slug").eq("kind", l.kind).order("sort_order");

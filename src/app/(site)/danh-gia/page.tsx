@@ -1,14 +1,14 @@
 import { Star, Quote } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 import { ReviewForm } from "@/components/ReviewForm";
 import { formatDate } from "@/lib/utils";
 
 export const metadata = { title: "Đánh giá của học viên" };
-export const dynamic = "force-dynamic";
+export const revalidate = 60;
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("student_reviews").select("*").eq("is_approved", true).order("created_at", { ascending: false });
   const reviews = data ?? [];
   const avg = reviews.length ? (reviews.reduce((s, r) => s + r.rating, 0) / reviews.length).toFixed(1) : "–";

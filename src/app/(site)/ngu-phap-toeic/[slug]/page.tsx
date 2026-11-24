@@ -1,19 +1,22 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { GrammarLesson } from "@/components/grammar/GrammarLesson";
 import type { GrammarTopic, QuizItem } from "@/lib/types";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("grammar_topics").select("title, title_vi").eq("slug", (await params).slug).maybeSingle();
   return { title: data ? `${data.title} — ${data.title_vi ?? "Ngữ pháp TOEIC"}` : "Ngữ pháp TOEIC" };
 }
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: topic } = await sb.from("grammar_topics").select("*").eq("slug", slug).maybeSingle();
   if (!topic) notFound();
   const [{ data: qs }, { data: siblings }] = await Promise.all([

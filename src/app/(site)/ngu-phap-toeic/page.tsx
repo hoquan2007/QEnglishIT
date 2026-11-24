@@ -1,23 +1,17 @@
 import { BookOpen, Target, Gift, Sparkles } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { GrammarBrowser } from "@/components/grammar/GrammarBrowser";
 
 export const metadata = { title: "Ngữ pháp TOEIC — Chinh phục Part 5" };
 export const revalidate = 300;
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: topics } = await sb
     .from("grammar_topics")
     .select("id, slug, title, title_vi, level, category, difficulty, sort_order, summary")
     .eq("is_published", true)
     .order("sort_order");
-  const { data: u } = await sb.auth.getUser();
-  let progress: Record<string, { status: string; score: number | null }> = {};
-  if (u.user) {
-    const { data } = await sb.from("user_progress").select("item_id, status, score").eq("item_type", "grammar_topic");
-    progress = Object.fromEntries((data ?? []).map((p) => [p.item_id, { status: p.status, score: p.score }]));
-  }
   const list = topics ?? [];
   return (
     <>
@@ -39,7 +33,7 @@ export default async function Page() {
           })}
         </div>
       </section>
-      <GrammarBrowser topics={list} progress={progress} />
+      <GrammarBrowser topics={list} />
     </>
   );
 }

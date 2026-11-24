@@ -2,6 +2,8 @@ import { Languages } from "lucide-react";
 import { PageHero } from "@/components/PageHero";
 import { ListeningLessonList } from "@/components/listening/LessonList";
 
+export const revalidate = 300;
+
 export const metadata = { title: "Nghe song ngữ Anh – Việt" };
 
 export default function Page() {

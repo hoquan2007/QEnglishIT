@@ -1,17 +1,20 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { Markdown } from "@/components/Markdown";
 import { DocActions } from "@/components/DocActions";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("documents").select("title").eq("slug", (await params).slug).maybeSingle();
   return { title: data?.title ?? "Tài liệu" };
 }
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: d } = await sb.from("documents").select("*").eq("slug", (await params).slug).maybeSingle();
   if (!d) notFound();
   return (

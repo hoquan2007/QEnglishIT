@@ -1,14 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { ArrowLeft, Menu, X } from "lucide-react";
 import { LogoMark } from "./Logo";
 import { cn } from "@/lib/utils";
-import * as Icons from "lucide-react";
+import { ICONS, type IconName } from "./icons";
 
-export type ShellItem = { href: string; label: string; desc?: string; icon: keyof typeof Icons; color?: string };
+export type ShellItem = { href: string; label: string; desc?: string; icon: IconName; color?: string };
 export type ShellGroup = { heading?: string; items: ShellItem[] };
 
 export function SectionShell({
@@ -23,11 +23,9 @@ export function SectionShell({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
-  const search = useSearchParams();
-  const full = pathname + (search.toString() ? `?${search}` : "");
   const [open, setOpen] = useState(false);
 
-  const isActive = (href: string) => (href.includes("?") ? full === href : pathname === href);
+  const isActive = (href: string) => pathname === href;
 
   const sidebar = (
     <div className="flex h-full flex-col gap-1 overflow-y-auto p-4">
@@ -45,7 +43,7 @@ export function SectionShell({
         <div key={gi} className="mb-1">
           {g.heading && <div className="px-3 pb-1 pt-3 text-[11px] font-bold uppercase tracking-wider text-slate-400">{g.heading}</div>}
           {g.items.map((it) => {
-            const Icon = Icons[it.icon] as React.ComponentType<{ className?: string }>;
+            const Icon = ICONS[it.icon];
             const active = isActive(it.href);
             return (
               <Link
@@ -87,7 +85,7 @@ export function SectionShell({
             {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
           </button>
           <span className="font-semibold text-slate-700">{title}</span>
-          <Link href="/tien-do-hoc-tap" className="ml-auto text-sm font-medium text-brand-600 hover:underline">Tiến độ của tôi</Link>
+          <Link href="/tien-do-hoc-tap" prefetch={false} className="ml-auto text-sm font-medium text-brand-600 hover:underline">Tiến độ của tôi</Link>
         </div>
         <div className="mx-auto max-w-6xl px-4 py-6 md:px-8">{children}</div>
       </div>

@@ -1,14 +1,17 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { Dictation } from "@/components/listening/Dictation";
 import { PARTS } from "@/lib/toeic";
+
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
 
 export const metadata = { title: "Nghe chép chính tả TOEIC" };
 
 export default async function Page({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: g } = await sb.from("question_groups").select("id, part, group_order, transcript, transcript_vi, test_id, tests(title)").eq("id", id).maybeSingle();
   if (!g || g.part > 4) notFound();
   const { data: sib } = await sb.from("question_groups").select("id").eq("part", g.part).eq("test_id", g.test_id).order("group_order");

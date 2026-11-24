@@ -1,19 +1,22 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { Markdown } from "@/components/Markdown";
 import { formatDate } from "@/lib/utils";
 import { ViewPing } from "@/components/ViewPing";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("blog_posts").select("title, excerpt").eq("slug", (await params).slug).maybeSingle();
   return { title: data?.title ?? "Blog", description: data?.excerpt ?? undefined };
 }
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: p } = await sb.from("blog_posts").select("*").eq("slug", slug).maybeSingle();
   if (!p) notFound();
   const { data: more } = await sb.from("blog_posts").select("slug, title").eq("category", p.category).neq("slug", slug).limit(4);

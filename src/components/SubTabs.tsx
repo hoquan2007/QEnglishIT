@@ -2,17 +2,17 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import * as Icons from "lucide-react";
+import { ICONS, type IconName } from "./icons";
 import { cn } from "@/lib/utils";
 
-export function SubTabs({ tabs }: { tabs: { href: string; label: string; icon: keyof typeof Icons }[] }) {
+export function SubTabs({ tabs }: { tabs: { href: string; label: string; icon: IconName }[] }) {
   const pathname = usePathname();
   const activeHref = [...tabs].sort((a, b) => b.href.length - a.href.length).find((t) => pathname === t.href || pathname.startsWith(t.href + "/"))?.href;
   return (
     <div className="mb-6 flex justify-center">
       <div className="inline-flex gap-1 rounded-2xl border border-slate-200 bg-white p-1 shadow-sm">
         {tabs.map((t) => {
-          const Icon = Icons[t.icon] as React.ComponentType<{ className?: string }>;
+          const Icon = ICONS[t.icon];
           return (
             <Link
               key={t.href}

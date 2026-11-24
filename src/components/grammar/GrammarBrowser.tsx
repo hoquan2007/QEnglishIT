@@ -4,10 +4,12 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import { CheckCircle2, Search, SlidersHorizontal } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useUserProgress } from "@/lib/useAuth";
 
 type T = { id: string; slug: string; title: string; title_vi: string | null; level: string; category: string; difficulty: string | null; sort_order: number; summary: string | null };
 
-export function GrammarBrowser({ topics, progress }: { topics: T[]; progress: Record<string, { status: string; score: number | null }> }) {
+export function GrammarBrowser({ topics }: { topics: T[] }) {
+  const progress = useUserProgress("grammar_topic");
   const [q, setQ] = useState("");
   const [tab, setTab] = useState("all");
   const [onlyTodo, setOnlyTodo] = useState(false);
@@ -50,7 +52,7 @@ export function GrammarBrowser({ topics, progress }: { topics: T[]; progress: Re
         {shown.map((t) => {
           const p = progress[t.id];
           return (
-            <Link key={t.id} href={`/ngu-phap-toeic/${t.slug}`} className="card group p-5 transition hover:-translate-y-0.5 hover:shadow-lg">
+            <Link key={t.id} href={`/ngu-phap-toeic/${t.slug}`} className="reveal card lift group p-5">
               <div className="flex items-start gap-3">
                 <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-brand-500 text-sm font-bold text-white">{t.sort_order}</span>
                 <div className="min-w-0 flex-1">

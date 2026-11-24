@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { SectionShell, type ShellGroup } from "@/components/SectionShell";
 
 const groups: ShellGroup[] = [
@@ -18,10 +17,8 @@ const groups: ShellGroup[] = [
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <Suspense>
-      <SectionShell brandSubtitle="Listening · Part 1–4 · Dictation" title="Luyện nghe TOEIC" groups={groups}>
-        {children}
-      </SectionShell>
-    </Suspense>
+    <SectionShell brandSubtitle="Listening · Part 1–4 · Dictation" title="Luyện nghe TOEIC" groups={groups}>
+      {children}
+    </SectionShell>
   );
 }

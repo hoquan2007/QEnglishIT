@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Mic } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Luyện nói TOEIC Speaking" };
@@ -15,7 +15,7 @@ const SPEAKING_TYPES: Record<string, { label: string; q: string; desc: string }>
 };
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("speaking_tasks").select("slug, title, task_type").order("sort_order");
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">

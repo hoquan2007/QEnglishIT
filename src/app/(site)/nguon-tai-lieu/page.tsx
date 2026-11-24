@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { PageHero } from "@/components/PageHero";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 
 export const metadata = { title: "Nguồn tài liệu và ghi công" };
-export const dynamic = "force-dynamic";
+export const revalidate = 3600;
 
 type ContentSource = {
   id: string;
@@ -30,7 +30,7 @@ export default async function Page() {
   let loadFailed = false;
 
   try {
-    const sb = await supabaseServer();
+    const sb = supabasePublic();
     const { data, error } = await sb
       .from("content_sources")
       .select("id, title, license, attribution, notes, url")

@@ -1,12 +1,15 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { VocabLesson } from "@/components/vocab/VocabLesson";
 import type { VocabWord } from "@/lib/types";
 import { FAMILIES } from "@/lib/vocab";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 async function load(collection: string, lesson: string) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: col } = await sb.from("vocab_collections").select("id, slug, title, family").eq("slug", collection).maybeSingle();
   if (!col) return null;
   const { data: les } = await sb

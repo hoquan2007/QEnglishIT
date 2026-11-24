@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { SectionShell, type ShellGroup } from "@/components/SectionShell";
 import { PARTS } from "@/lib/toeic";
 
@@ -26,10 +25,8 @@ const groups: ShellGroup[] = [
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <Suspense>
-      <SectionShell brandSubtitle="Luyện đề TOEIC sát đề thật" title="Luyện đề TOEIC" groups={groups}>
-        {children}
-      </SectionShell>
-    </Suspense>
+    <SectionShell brandSubtitle="Luyện đề TOEIC sát đề thật" title="Luyện đề TOEIC" groups={groups}>
+      {children}
+    </SectionShell>
   );
 }

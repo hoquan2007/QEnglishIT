@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Library, ArrowRight } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { FAMILIES } from "@/lib/vocab";
 import { PageHero } from "@/components/PageHero";
 import { WordSearch } from "@/components/vocab/WordSearch";
@@ -15,7 +15,7 @@ const COLORS: Record<string, string> = {
 };
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const [{ data }, { count: words }] = await Promise.all([
     sb.from("vocab_collections").select("family, vocab_lessons(count)"),
     sb.from("vocab_words").select("id", { count: "exact", head: true }),

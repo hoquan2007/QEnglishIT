@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { FolderOpen, Download, FileText } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Tài liệu TOEIC miễn phí" };
 export const revalidate = 300;
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("documents").select("slug, title, description, category, file_type, downloads").order("created_at");
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">

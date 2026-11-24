@@ -1,10 +1,13 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { WritingTask } from "@/components/practice/WritingTask";
 
+export const revalidate = 300;
+export async function generateStaticParams() { return []; }
+
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data: t } = await sb.from("writing_tasks").select("*").eq("slug", (await params).slug).maybeSingle();
   if (!t) notFound();
   return (

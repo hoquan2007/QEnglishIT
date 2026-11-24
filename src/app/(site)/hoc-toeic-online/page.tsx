@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { GraduationCap, ArrowRight, BookOpen } from "lucide-react";
-import { supabaseServer } from "@/lib/supabase/server";
+import { supabasePublic } from "@/lib/supabase/public";
 import { PageHero } from "@/components/PageHero";
 
 export const metadata = { title: "Khóa học TOEIC online miễn phí" };
 export const revalidate = 300;
 
 export default async function Page() {
-  const sb = await supabaseServer();
+  const sb = supabasePublic();
   const { data } = await sb.from("courses").select("slug, title, description, target_score, course_lessons(count)").order("sort_order");
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
