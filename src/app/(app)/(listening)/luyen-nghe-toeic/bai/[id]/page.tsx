@@ -19,8 +19,8 @@ export default async function Page({ params }: { params: Promise<{ id: string }>
   const next = sib?.[idx + 1]?.id;
   return (
     <>
-      <Link href={`/luyen-nghe-toeic/part-${g.part}`} className="text-sm text-brand-600 hover:underline">← {PARTS[g.part - 1].name}</Link>
-      <h1 className="mt-2 text-2xl font-extrabold">{PARTS[g.part - 1].name} · Bài {idx + 1} <span className="text-base font-medium text-slate-400">{(g.tests as unknown as { title: string })?.title}</span></h1>
+      <Link href={`/luyen-nghe-toeic/part-${g.part}`} className="text-sm text-ui-brand-text hover:underline">← {PARTS[g.part - 1].name}</Link>
+      <h1 className="mt-2 text-2xl font-extrabold">{PARTS[g.part - 1].name} · Bài {idx + 1} <span className="text-base font-medium text-ui-faint">{(g.tests as unknown as { title: string })?.title}</span></h1>
       <Dictation transcript={g.transcript ?? ""} transcriptVi={g.transcript_vi} keyPrefix={g.id} nextHref={next ? `/luyen-nghe-toeic/bai/${next}` : undefined} />
     </>
   );

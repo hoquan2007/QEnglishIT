@@ -18,16 +18,16 @@ export function DictationProgress() {
       .then(({ count }) => setDone(count ?? 0));
   }, [user]);
 
-  if (user === undefined) return <div className="card h-28 animate-pulse bg-slate-100/60" />;
+  if (user === undefined) return <div className="card h-28 animate-pulse bg-ui-subtle/60" />;
   return (
     <div className="card p-6">
       {user ? (
         <>
-          <div className="text-sm text-slate-500">Số câu đã nghe chép đúng</div>
-          <div className="text-4xl font-extrabold text-emerald-600">{done === null ? "…" : <CountUp to={done} />}</div>
+          <div className="text-sm text-ui-muted">Số câu đã nghe chép đúng</div>
+          <div className="text-4xl font-extrabold text-ui-emerald-text">{done === null ? "…" : <CountUp to={done} />}</div>
         </>
       ) : (
-        <p className="text-slate-500"><Link href="/login?next=/luyen-nghe-toeic" className="text-brand-600 underline">Đăng nhập</Link> để lưu tiến độ nghe chép.</p>
+        <p className="text-ui-muted"><Link href="/login?next=/luyen-nghe-toeic" className="text-ui-brand-text underline">Đăng nhập</Link> để lưu tiến độ nghe chép.</p>
       )}
     </div>
   );

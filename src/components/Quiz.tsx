@@ -57,7 +57,7 @@ export function Quiz({
         const reveal = showAll || (instant && sel !== undefined);
         return (
           <div key={i} className="card p-4">
-            <p className="font-medium"><span className="mr-1 font-bold text-brand-600">{i + 1}.</span>{q.question_text}</p>
+            <p className="font-medium"><span className="mr-1 font-bold text-ui-brand-text">{i + 1}.</span>{q.question_text}</p>
             <div className="mt-3 grid gap-2 sm:grid-cols-2">
               {q.options.map((o) => {
                 const isSel = sel === o.key;
@@ -69,10 +69,10 @@ export function Quiz({
                     onClick={() => setAnswers((a) => ({ ...a, [i]: o.key }))}
                     className={cn(
                       "flex items-center gap-2 rounded-xl border px-3 py-2 text-left text-sm",
-                      !reveal && (isSel ? "border-brand-400 bg-brand-50" : "border-slate-200 hover:bg-slate-50"),
-                      reveal && right && "border-emerald-400 bg-emerald-50",
-                      reveal && isSel && !right && "border-rose-400 bg-rose-50",
-                      reveal && !isSel && !right && "border-slate-200 opacity-60",
+                      !reveal && (isSel ? "border-brand-400 bg-ui-brand-tint" : "border-ui-line hover:bg-ui-canvas"),
+                      reveal && right && "border-emerald-400 bg-ui-emerald-tint",
+                      reveal && isSel && !right && "border-rose-400 bg-ui-rose-tint",
+                      reveal && !isSel && !right && "border-ui-line opacity-60",
                     )}
                   >
                     <b className="w-5">{o.key}</b>{o.text}
@@ -81,7 +81,7 @@ export function Quiz({
               })}
             </div>
             {reveal && (
-              <div className={cn("mt-3 flex gap-2 rounded-lg p-3 text-sm", sel === q.correct_answer ? "bg-emerald-50 text-emerald-800" : "bg-rose-50 text-rose-800")}>
+              <div className={cn("mt-3 flex gap-2 rounded-lg p-3 text-sm", sel === q.correct_answer ? "bg-ui-emerald-tint text-ui-emerald-deep" : "bg-ui-rose-tint text-ui-rose-deep")}>
                 {sel === q.correct_answer ? <CheckCircle2 className="h-5 w-5 shrink-0" /> : <XCircle className="h-5 w-5 shrink-0" />}
                 <div><b>Đáp án {q.correct_answer}.</b> {q.explanation}</div>
               </div>
@@ -95,10 +95,10 @@ export function Quiz({
         </button>
       ) : (
         <div className="card flex flex-wrap items-center gap-4 p-5">
-          <Trophy className="h-10 w-10 text-amber-500" />
+          <Trophy className="h-10 w-10 text-ui-amber-bright" />
           <div className="flex-1">
             <div className="text-xl font-extrabold">{correct}/{items.length} câu đúng</div>
-            <div className="text-sm text-slate-500">+{correct * 2} XP · {correct / items.length >= 0.7 ? "Hoàn thành bài học!" : "Cần đạt 70% để hoàn thành bài."}</div>
+            <div className="text-sm text-ui-muted">+{correct * 2} XP · {correct / items.length >= 0.7 ? "Hoàn thành bài học!" : "Cần đạt 70% để hoàn thành bài."}</div>
           </div>
           <button className="btn btn-outline" onClick={() => { setAnswers({}); setSubmitted(false); }}><RotateCcw className="h-4 w-4" />Làm lại</button>
         </div>

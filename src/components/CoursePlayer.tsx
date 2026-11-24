@@ -34,21 +34,21 @@ export function CoursePlayer({ course, lessons, current, done: initialDone }: { 
   return (
     <div className="grid gap-6 lg:grid-cols-[320px_1fr]">
       <aside className="card h-fit p-4 lg:sticky lg:top-20">
-        <Link href="/hoc-toeic-online" className="text-xs text-brand-600 hover:underline">← Tất cả khóa học</Link>
+        <Link href="/hoc-toeic-online" className="text-xs text-ui-brand-text hover:underline">← Tất cả khóa học</Link>
         <h1 className="mt-2 text-lg font-extrabold">{course.title}</h1>
-        <div className="mt-2 flex items-center gap-2 text-xs text-slate-500">
-          <div className="h-2 flex-1 rounded-full bg-slate-100"><div className="h-2 rounded-full bg-emerald-500" style={{ width: `${pct}%` }} /></div>{pct}%
+        <div className="mt-2 flex items-center gap-2 text-xs text-ui-muted">
+          <div className="h-2 flex-1 rounded-full bg-ui-subtle"><div className="h-2 rounded-full bg-emerald-500" style={{ width: `${pct}%` }} /></div>{pct}%
         </div>
         <ol className="mt-4 max-h-[60vh] space-y-1 overflow-y-auto">
           {lessons.map((x, i) => {
             const Icon = ICON[x.lesson_type as keyof typeof ICON] ?? FileText;
             return (
               <li key={x.id}>
-                <Link href={`/khoa-hoc-toeic/${course.slug}?bai=${x.slug}`} className={cn("flex items-center gap-2 rounded-lg px-2 py-2 text-sm hover:bg-slate-50", x.id === l?.id && "bg-brand-50 font-semibold text-brand-700")}>
-                  {done.has(x.id) ? <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-500" /> : <Circle className="h-4 w-4 shrink-0 text-slate-300" />}
-                  <span className="w-5 text-xs text-slate-400">{i + 1}</span>
+                <Link href={`/khoa-hoc-toeic/${course.slug}?bai=${x.slug}`} className={cn("flex items-center gap-2 rounded-lg px-2 py-2 text-sm hover:bg-ui-canvas", x.id === l?.id && "bg-ui-brand-tint font-semibold text-ui-brand-strong")}>
+                  {done.has(x.id) ? <CheckCircle2 className="h-4 w-4 shrink-0 text-ui-emerald-bright" /> : <Circle className="h-4 w-4 shrink-0 text-ui-inactive" />}
+                  <span className="w-5 text-xs text-ui-faint">{i + 1}</span>
                   <span className="flex-1">{x.title}</span>
-                  <Icon className="h-3.5 w-3.5 text-slate-400" />
+                  <Icon className="h-3.5 w-3.5 text-ui-faint" />
                 </Link>
               </li>
             );
@@ -57,7 +57,7 @@ export function CoursePlayer({ course, lessons, current, done: initialDone }: { 
       </aside>
       {l ? (
         <article className="card p-6 md:p-8">
-          <div className="text-xs font-bold uppercase tracking-wider text-brand-600">Bài {idx + 1} · {l.duration_minutes ? `${l.duration_minutes} phút` : l.lesson_type}</div>
+          <div className="text-xs font-bold uppercase tracking-wider text-ui-brand-text">Bài {idx + 1} · {l.duration_minutes ? `${l.duration_minutes} phút` : l.lesson_type}</div>
           <h2 className="mt-1 text-2xl font-extrabold">{l.title}</h2>
           {l.video_url && (
             <div className="mt-4 aspect-video overflow-hidden rounded-2xl bg-black">
@@ -66,20 +66,20 @@ export function CoursePlayer({ course, lessons, current, done: initialDone }: { 
           )}
           {l.content_md && <Markdown className="mt-4">{l.content_md}</Markdown>}
           {l.link_href && (
-            <Link href={l.link_href} className="mt-5 flex items-center gap-3 rounded-2xl border border-brand-200 bg-brand-50 p-4 hover:bg-brand-100">
-              <ExternalLink className="h-5 w-5 text-brand-600" />
-              <div className="flex-1"><div className="font-bold text-brand-800">Mở bài luyện tập</div><div className="text-xs text-brand-700">{l.link_href}</div></div>
-              <ChevronRight className="h-5 w-5 text-brand-600" />
+            <Link href={l.link_href} className="mt-5 flex items-center gap-3 rounded-2xl border border-ui-brand-line bg-ui-brand-tint p-4 hover:bg-ui-brand-soft">
+              <ExternalLink className="h-5 w-5 text-ui-brand-text" />
+              <div className="flex-1"><div className="font-bold text-ui-brand-deep">Mở bài luyện tập</div><div className="text-xs text-ui-brand-strong">{l.link_href}</div></div>
+              <ChevronRight className="h-5 w-5 text-ui-brand-text" />
             </Link>
           )}
-          <div className="mt-8 flex justify-end gap-2 border-t border-slate-100 pt-5">
+          <div className="mt-8 flex justify-end gap-2 border-t border-ui-divider pt-5">
             <button className="btn btn-primary" onClick={complete}>
               <CheckCircle2 className="h-4 w-4" />{done.has(l.id) ? "Đã hoàn thành" : "Đánh dấu hoàn thành"}{next && " & học tiếp"}
             </button>
           </div>
         </article>
       ) : (
-        <div className="card p-10 text-center text-slate-500">Khóa học đang được cập nhật.</div>
+        <div className="card p-10 text-center text-ui-muted">Khóa học đang được cập nhật.</div>
       )}
     </div>
   );

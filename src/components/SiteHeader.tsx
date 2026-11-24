@@ -8,6 +8,7 @@ import {
   ChevronDown, Mail, Menu, X, User, LogOut, BarChart3, Settings, Shield,
 } from "lucide-react";
 import { Logo } from "./Logo";
+import { ThemeToggle } from "./ThemeToggle";
 import { NAV } from "./nav";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { cn } from "@/lib/utils";
@@ -49,10 +50,10 @@ export function SiteHeader() {
   const active = (href: string) => pathname === href || pathname.startsWith(href + "/");
 
   return (
-    <header className="sticky top-0 z-40 border-b border-slate-200/70 bg-white/85 backdrop-blur">
-      <div className="mx-auto flex h-16 max-w-7xl items-center gap-4 px-4">
+    <header className="sticky top-0 z-40 border-b border-ui-line/70 bg-ui-surface/85 backdrop-blur">
+      <div className="mx-auto flex h-16 max-w-7xl items-center gap-2 px-4 sm:gap-4 min-[1400px]:max-w-[1480px] min-[1400px]:gap-2 2xl:gap-4">
         <Logo />
-        <nav className="mx-auto hidden items-center gap-0.5 xl:flex">
+        <nav className="mx-auto hidden items-center gap-0.5 min-[1400px]:flex">
           {NAV.map((item) => {
             const Icon = ICONS[item.icon as keyof typeof ICONS];
             const isActive = active(item.href) || item.children?.some((c) => active(c.href));
@@ -61,8 +62,8 @@ export function SiteHeader() {
                 <Link
                   href={item.href}
                   className={cn(
-                    "flex items-center gap-1.5 whitespace-nowrap rounded-lg px-2.5 py-2 text-[13.5px] font-medium text-slate-600 hover:bg-brand-50 hover:text-brand-700",
-                    isActive && "bg-brand-50 text-brand-700",
+                    "flex items-center gap-1.5 whitespace-nowrap rounded-lg px-1.5 py-2 text-[13.5px] font-medium text-ui-secondary hover:bg-ui-brand-tint hover:text-ui-brand-strong 2xl:px-2.5",
+                    isActive && "bg-ui-brand-tint text-ui-brand-strong",
                   )}
                 >
                   <Icon className="h-4 w-4" />
@@ -73,9 +74,9 @@ export function SiteHeader() {
                   <div className="invisible absolute left-0 top-full pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100">
                     <div className="card w-64 p-2 shadow-xl">
                       {item.children.map((c) => (
-                        <Link key={c.href} href={c.href} className="block rounded-lg px-3 py-2 hover:bg-brand-50">
-                          <div className="text-sm font-semibold text-slate-800">{c.label}</div>
-                          {c.desc && <div className="text-xs text-slate-500">{c.desc}</div>}
+                        <Link key={c.href} href={c.href} className="block rounded-lg px-3 py-2 hover:bg-ui-brand-tint">
+                          <div className="text-sm font-semibold text-ui-strong">{c.label}</div>
+                          {c.desc && <div className="text-xs text-ui-muted">{c.desc}</div>}
                         </Link>
                       ))}
                     </div>
@@ -86,23 +87,24 @@ export function SiteHeader() {
           })}
         </nav>
 
-        <div className="ml-auto flex items-center gap-2 xl:ml-0">
+        <div className="ml-auto flex shrink-0 items-center gap-2 min-[1400px]:ml-0">
+          <ThemeToggle />
           {user ? (
             <>
-              <Link href="/hop-thu" className="relative rounded-lg p-2 text-slate-500 hover:bg-slate-100" aria-label="Hộp thư">
+              <Link href="/hop-thu" className="relative rounded-lg p-2 text-ui-muted hover:bg-ui-subtle" aria-label="Hộp thư">
                 <Mail className="h-5 w-5" />
                 {unread > 0 && (
-                  <span className="absolute -right-0.5 -top-0.5 grid h-4 min-w-4 place-items-center rounded-full bg-rose-500 px-1 text-[10px] font-bold text-white">
+                  <span className="absolute -right-0.5 -top-0.5 grid h-4 min-w-4 place-items-center rounded-full bg-ui-rose-fill px-1 text-[10px] font-bold text-white">
                     {unread}
                   </span>
                 )}
               </Link>
               <div className="relative">
-                <button onClick={() => setMenuOpen((v) => !v)} className="flex items-center gap-2 rounded-lg px-2 py-1.5 hover:bg-slate-100">
-                  <span className="grid h-8 w-8 place-items-center rounded-full bg-brand-500 text-sm font-bold text-white">
+                <button onClick={() => setMenuOpen((v) => !v)} className="flex items-center gap-2 rounded-lg px-2 py-1.5 hover:bg-ui-subtle">
+                  <span className="grid h-8 w-8 place-items-center rounded-full bg-ui-brand-fill text-sm font-bold text-white">
                     {(user.email ?? "U")[0].toUpperCase()}
                   </span>
-                  <span className="hidden max-w-36 truncate text-sm font-medium text-slate-700 xl:block">{user.email}</span>
+                  <span className="hidden max-w-36 truncate text-sm font-medium text-ui-body xl:block">{user.email}</span>
                 </button>
                 {menuOpen && (
                   <div className="card absolute right-0 top-full mt-2 w-56 p-1.5 shadow-xl">
@@ -111,7 +113,7 @@ export function SiteHeader() {
                     <MenuLink href="/vocabulary-sets" icon={<Library className="h-4 w-4" />}>Bộ từ vựng của tôi</MenuLink>
                     <MenuLink href="/hop-thu" icon={<Mail className="h-4 w-4" />}>Hộp thư</MenuLink>
                     <MenuLink href="/admin" icon={<Shield className="h-4 w-4" />}>Quản trị</MenuLink>
-                    <button onClick={signOut} className="flex w-full items-center gap-2 rounded-lg px-3 py-2 text-sm text-rose-600 hover:bg-rose-50">
+                    <button onClick={signOut} className="flex w-full items-center gap-2 rounded-lg px-3 py-2 text-sm text-ui-rose-text hover:bg-ui-rose-tint">
                       <LogOut className="h-4 w-4" /> Đăng xuất
                     </button>
                   </div>
@@ -119,30 +121,36 @@ export function SiteHeader() {
               </div>
             </>
           ) : user === undefined ? (
-            <span className="h-9 w-24 animate-pulse rounded-xl bg-slate-100" aria-hidden />
+            <span className="h-9 w-24 animate-pulse rounded-xl bg-ui-subtle" aria-hidden />
           ) : (
             <>
-              <Link href="/login" className="btn btn-ghost hidden sm:inline-flex">Đăng nhập</Link>
-              <Link href="/signup" className="btn btn-primary !py-2">
+              <Link href="/login" className="btn btn-ghost !hidden sm:!inline-flex">Đăng nhập</Link>
+              <Link href="/signup" className="btn btn-primary !hidden !py-2 sm:!inline-flex">
                 <User className="h-4 w-4" /> Đăng ký
               </Link>
             </>
           )}
-          <button className="rounded-lg p-2 xl:hidden" onClick={() => setMobileOpen((v) => !v)} aria-label="Menu">
+          <button className="rounded-lg p-2 min-[1400px]:hidden" onClick={() => setMobileOpen((v) => !v)} aria-label="Menu" aria-expanded={mobileOpen}>
             {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
           </button>
         </div>
       </div>
 
       {mobileOpen && (
-        <div className="border-t border-slate-200 bg-white px-4 py-3 xl:hidden">
+        <div className="max-h-[calc(100dvh-4rem)] overflow-y-auto border-t border-ui-line bg-ui-surface px-4 py-3 min-[1400px]:hidden">
+          {user === null && (
+            <div className="mb-2 flex flex-wrap gap-2 border-b border-ui-divider pb-3 sm:hidden">
+              <Link href="/login" className="btn btn-outline">Đăng nhập</Link>
+              <Link href="/signup" className="btn btn-primary">Đăng ký</Link>
+            </div>
+          )}
           {NAV.map((item) => (
             <div key={item.label} className="py-1">
-              <Link href={item.href} className="block rounded-lg px-3 py-2 font-semibold text-slate-800 hover:bg-brand-50">
+              <Link href={item.href} className="block rounded-lg px-3 py-2 font-semibold text-ui-strong hover:bg-ui-brand-tint">
                 {item.label}
               </Link>
               {item.children?.map((c) => (
-                <Link key={c.href} href={c.href} className="block rounded-lg px-6 py-1.5 text-sm text-slate-600 hover:bg-brand-50">
+                <Link key={c.href} href={c.href} className="block rounded-lg px-6 py-1.5 text-sm text-ui-secondary hover:bg-ui-brand-tint">
                   {c.label}
                 </Link>
               ))}
@@ -156,7 +164,7 @@ export function SiteHeader() {
 
 function MenuLink({ href, icon, children }: { href: string; icon: React.ReactNode; children: React.ReactNode }) {
   return (
-    <Link href={href} className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-slate-700 hover:bg-slate-100">
+    <Link href={href} className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-ui-body hover:bg-ui-subtle">
       {icon}
       {children}
     </Link>

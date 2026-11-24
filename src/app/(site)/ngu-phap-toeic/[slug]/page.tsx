@@ -31,7 +31,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
 
   return (
     <div className="mx-auto max-w-4xl">
-      <Link href="/ngu-phap-toeic" className="text-sm text-brand-600 hover:underline">← Tất cả chủ điểm</Link>
+      <Link href="/ngu-phap-toeic" className="text-sm text-ui-brand-text hover:underline">← Tất cả chủ điểm</Link>
       <div className="mt-3">
         <div className="flex flex-wrap gap-2 text-xs">
           <span className="chip">TOEIC {topic.level}+</span>
@@ -39,8 +39,8 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
           <span className="chip">{topic.difficulty}</span>
         </div>
         <h1 className="mt-3 text-3xl font-extrabold">{topic.title}</h1>
-        {topic.title_vi && <p className="text-lg text-slate-500">{topic.title_vi}</p>}
-        {topic.summary && <p className="mt-2 text-slate-600">{topic.summary}</p>}
+        {topic.title_vi && <p className="text-lg text-ui-muted">{topic.title_vi}</p>}
+        {topic.summary && <p className="mt-2 text-ui-secondary">{topic.summary}</p>}
       </div>
       <GrammarLesson topic={topic as GrammarTopic} exercises={exercises} quiz={quiz} />
       <div className="mt-10 flex justify-between gap-3">

@@ -49,8 +49,8 @@ export function CartButton({ wordId, className }: { wordId: string; className?: 
   }
 
   return (
-    <button onClick={toggle} className={cn("rounded-full p-2 hover:bg-rose-50", className)} aria-label="Đánh dấu từ">
-      <Heart className={cn("h-4 w-4", on ? "fill-rose-500 text-rose-500" : "text-slate-400")} />
+    <button onClick={toggle} className={cn("rounded-full p-2 hover:bg-ui-rose-tint", className)} aria-label="Đánh dấu từ">
+      <Heart className={cn("h-4 w-4", on ? "fill-rose-500 text-ui-rose-bright" : "text-ui-faint")} />
     </button>
   );
 }

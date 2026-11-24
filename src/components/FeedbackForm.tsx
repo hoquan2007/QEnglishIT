@@ -30,7 +30,7 @@ export function FeedbackForm() {
       </div>
       <textarea className="input min-h-40" required placeholder="Nội dung..." value={message} onChange={(e) => setMessage(e.target.value)} />
       <button className="btn btn-primary"><Send className="h-4 w-4" />Gửi</button>
-      {msg && <p className="text-sm text-emerald-700">{msg}</p>}
+      {msg && <p className="text-sm text-ui-emerald-strong">{msg}</p>}
     </form>
   );
 }

@@ -13,8 +13,8 @@ export default async function Page() {
     .order("created_at", { ascending: false });
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
-      <h1 className="flex items-center gap-2 text-3xl font-extrabold"><Mail className="h-7 w-7 text-brand-500" />Hộp thư</h1>
-      <p className="text-slate-500">Phản hồi, báo lỗi của bạn và câu trả lời từ đội ngũ QEnglishIT.</p>
+      <h1 className="flex items-center gap-2 text-3xl font-extrabold"><Mail className="h-7 w-7 text-ui-brand-bright" />Hộp thư</h1>
+      <p className="text-ui-muted">Phản hồi, báo lỗi của bạn và câu trả lời từ đội ngũ QEnglishIT.</p>
       <Inbox threads={(threads ?? []) as never} />
     </div>
   );

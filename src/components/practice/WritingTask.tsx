@@ -46,18 +46,18 @@ export function WritingTask({ task }: { task: Task }) {
     <div className="mt-5 grid gap-5 lg:grid-cols-[1fr_1.2fr]">
       <div className="space-y-4">
         <div className="card p-5">
-          <div className="mb-2 text-xs font-bold uppercase tracking-wider text-sky-600">Đề bài</div>
+          <div className="mb-2 text-xs font-bold uppercase tracking-wider text-ui-sky-text">Đề bài</div>
           <Markdown className="prose-sm">{task.prompt}</Markdown>
           {task.image_description && (
             <div className="mt-3 rounded-xl bg-gradient-to-br from-slate-700 to-slate-900 p-4 text-sm text-slate-100">
-              <div className="mb-1 flex items-center gap-2 text-xs uppercase tracking-widest text-slate-400"><ImageIcon className="h-4 w-4" />Hình ảnh</div>
+              <div className="mb-1 flex items-center gap-2 text-xs uppercase tracking-widest text-ui-faint"><ImageIcon className="h-4 w-4" />Hình ảnh</div>
               {task.image_description}
             </div>
           )}
           {kw.length > 0 && (
             <div className="mt-3 flex flex-wrap gap-2">
               {kw.map(({ k, ok }) => (
-                <span key={k} className={cn("chip", ok && "!border-emerald-300 !bg-emerald-50 !text-emerald-700")}>{ok ? <Check className="h-3 w-3" /> : <X className="h-3 w-3" />}{k}</span>
+                <span key={k} className={cn("chip", ok && "!border-ui-emerald-line !bg-ui-emerald-tint !text-ui-emerald-strong")}>{ok ? <Check className="h-3 w-3" /> : <X className="h-3 w-3" />}{k}</span>
               ))}
             </div>
           )}
@@ -67,10 +67,10 @@ export function WritingTask({ task }: { task: Task }) {
       <div className="space-y-4">
         <div className="card p-5">
           <div className="mb-3 flex items-center justify-between text-sm">
-            <span className={cn("flex items-center gap-1.5 font-mono font-semibold", remaining < 60 ? "text-rose-600" : "text-brand-700")}>
+            <span className={cn("flex items-center gap-1.5 font-mono font-semibold", remaining < 60 ? "text-ui-rose-text" : "text-ui-brand-strong")}>
               <Clock className="h-4 w-4" />{formatDuration(Math.max(0, remaining))}
             </span>
-            <span className={cn("font-semibold", words >= target ? "text-emerald-600" : "text-slate-500")}>{words} từ{target > 8 ? ` / tối thiểu ${target}` : ""}</span>
+            <span className={cn("font-semibold", words >= target ? "text-ui-emerald-text" : "text-ui-muted")}>{words} từ{target > 8 ? ` / tối thiểu ${target}` : ""}</span>
           </div>
           <textarea
             className="input min-h-72 font-[inherit] leading-relaxed"
@@ -81,11 +81,11 @@ export function WritingTask({ task }: { task: Task }) {
             disabled={Boolean(saved)}
           />
           <button className="btn btn-primary mt-3 w-full" disabled={!words || Boolean(saved)} onClick={save}><Save className="h-4 w-4" />Nộp bài</button>
-          {saved && <p className="mt-2 text-center text-sm text-emerald-700">{saved}</p>}
+          {saved && <p className="mt-2 text-center text-sm text-ui-emerald-strong">{saved}</p>}
         </div>
         <div className="card p-5">
           <button className="btn btn-outline" onClick={() => setShowSample((v) => !v)}>{showSample ? "Ẩn bài mẫu" : "Xem bài mẫu"}</button>
-          {showSample && <div className="mt-3 whitespace-pre-wrap rounded-xl bg-emerald-50 p-4 text-sm leading-relaxed">{task.sample_answer}</div>}
+          {showSample && <div className="mt-3 whitespace-pre-wrap rounded-xl bg-ui-emerald-tint p-4 text-sm leading-relaxed">{task.sample_answer}</div>}
         </div>
       </div>
     </div>

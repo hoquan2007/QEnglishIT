@@ -10,7 +10,7 @@ export function SubTabs({ tabs }: { tabs: { href: string; label: string; icon: I
   const activeHref = [...tabs].sort((a, b) => b.href.length - a.href.length).find((t) => pathname === t.href || pathname.startsWith(t.href + "/"))?.href;
   return (
     <div className="mb-6 flex justify-center">
-      <div className="inline-flex gap-1 rounded-2xl border border-slate-200 bg-white p-1 shadow-sm">
+      <div className="inline-flex gap-1 rounded-2xl border border-ui-line bg-ui-surface p-1 shadow-sm">
         {tabs.map((t) => {
           const Icon = ICONS[t.icon];
           return (
@@ -19,7 +19,7 @@ export function SubTabs({ tabs }: { tabs: { href: string; label: string; icon: I
               href={t.href}
               className={cn(
                 "flex items-center gap-1.5 rounded-xl px-4 py-2 text-sm font-semibold",
-                activeHref === t.href ? "bg-brand-500 text-white" : "text-brand-700 hover:bg-brand-50",
+                activeHref === t.href ? "bg-ui-brand-fill text-white" : "text-ui-brand-strong hover:bg-ui-brand-tint",
               )}
             >
               <Icon className="h-4 w-4" />

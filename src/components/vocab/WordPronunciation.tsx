@@ -10,7 +10,7 @@ export function WordPronunciation({ word }: { word: VocabWord }) {
     { key: "uk", label: "Anh", ipa: word.ipa_uk, url: word.audio_uk_url },
   ] as const;
   const available = dialects.filter(({ ipa, url }) => ipa || url);
-  const buttonClass = "inline-flex items-center gap-1 rounded-md px-1.5 py-1 text-sm text-brand-700 hover:bg-brand-50";
+  const buttonClass = "inline-flex items-center gap-1 rounded-md px-1.5 py-1 text-sm text-ui-brand-strong hover:bg-ui-brand-tint";
 
   return (
     <div className="flex flex-wrap items-center gap-x-1">

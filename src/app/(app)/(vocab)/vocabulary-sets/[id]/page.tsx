@@ -13,9 +13,9 @@ export default async function Page({ params }: { params: Promise<{ id: string }>
   const words = (data ?? []).map((r) => r.vocab_words as unknown as VocabWord).filter(Boolean);
   return (
     <>
-      <Link href="/vocabulary-sets" className="text-sm text-brand-600 hover:underline">← Bộ từ vựng của tôi</Link>
+      <Link href="/vocabulary-sets" className="text-sm text-ui-brand-text hover:underline">← Bộ từ vựng của tôi</Link>
       <h1 className="mb-1 mt-2 text-2xl font-extrabold">{set.title}</h1>
-      <p className="mb-5 text-sm text-slate-500">{set.description ?? `${words.length} từ`}</p>
+      <p className="mb-5 text-sm text-ui-muted">{set.description ?? `${words.length} từ`}</p>
       <WordCollectionView words={words} empty="Bộ từ trống. Thêm từ từ các bài học bằng nút thư mục." />
     </>
   );

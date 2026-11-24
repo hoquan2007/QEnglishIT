@@ -86,11 +86,11 @@ export function AuthForm({ mode }: { mode: Mode }) {
     <form onSubmit={submit} className="space-y-4">
       {(mode === "login" || mode === "signup") && (
         <>
-          <button type="button" onClick={google} className="btn btn-outline w-full !border-slate-200 !text-slate-700">
+          <button type="button" onClick={google} className="btn btn-outline w-full !border-ui-line !text-ui-body">
             <GoogleIcon /> Tiếp tục với Google
           </button>
-          <div className="flex items-center gap-3 text-xs text-slate-400">
-            <div className="h-px flex-1 bg-slate-200" /> hoặc <div className="h-px flex-1 bg-slate-200" />
+          <div className="flex items-center gap-3 text-xs text-ui-faint">
+            <div className="h-px flex-1 bg-ui-track" /> hoặc <div className="h-px flex-1 bg-ui-track" />
           </div>
         </>
       )}
@@ -107,18 +107,18 @@ export function AuthForm({ mode }: { mode: Mode }) {
         </Field>
       )}
       {mode === "login" && (
-        <div className="text-right text-sm"><Link href="/forgot-password" className="text-brand-600 hover:underline">Quên mật khẩu?</Link></div>
+        <div className="text-right text-sm"><Link href="/forgot-password" className="text-ui-brand-text hover:underline">Quên mật khẩu?</Link></div>
       )}
-      {error && <p className="rounded-lg bg-rose-50 p-3 text-sm text-rose-600">{error}</p>}
-      {info && <p className="rounded-lg bg-emerald-50 p-3 text-sm text-emerald-700">{info}</p>}
+      {error && <p className="rounded-lg bg-ui-rose-tint p-3 text-sm text-ui-rose-text">{error}</p>}
+      {info && <p className="rounded-lg bg-ui-emerald-tint p-3 text-sm text-ui-emerald-strong">{info}</p>}
       <button className="btn btn-primary w-full" disabled={loading}>
         {loading ? "Đang xử lý..." : { login: "Đăng nhập", signup: "Đăng ký miễn phí", forgot: "Gửi liên kết", reset: "Đổi mật khẩu" }[mode]}
       </button>
-      <p className="text-center text-sm text-slate-500">
+      <p className="text-center text-sm text-ui-muted">
         {mode === "login" ? (
-          <>Chưa có tài khoản? <Link href={`/signup?next=${encodeURIComponent(next)}`} className="font-semibold text-brand-600">Đăng ký</Link></>
+          <>Chưa có tài khoản? <Link href={`/signup?next=${encodeURIComponent(next)}`} className="font-semibold text-ui-brand-text">Đăng ký</Link></>
         ) : (
-          <>Đã có tài khoản? <Link href={`/login?next=${encodeURIComponent(next)}`} className="font-semibold text-brand-600">Đăng nhập</Link></>
+          <>Đã có tài khoản? <Link href={`/login?next=${encodeURIComponent(next)}`} className="font-semibold text-ui-brand-text">Đăng nhập</Link></>
         )}
       </p>
     </form>
@@ -128,7 +128,7 @@ export function AuthForm({ mode }: { mode: Mode }) {
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <label className="block">
-      <span className="mb-1.5 block text-sm font-medium text-slate-700">{label}</span>
+      <span className="mb-1.5 block text-sm font-medium text-ui-body">{label}</span>
       {children}
     </label>
   );

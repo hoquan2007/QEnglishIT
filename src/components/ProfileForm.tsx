@@ -21,22 +21,22 @@ export function ProfileForm({ email, profile, referralLink }: { email: string; p
   return (
     <>
       <form onSubmit={save} className="card mt-6 space-y-4 p-6">
-        <label className="block"><span className="mb-1 block text-sm font-medium">Email</span><input className="input bg-slate-50" value={email} disabled /></label>
+        <label className="block"><span className="mb-1 block text-sm font-medium">Email</span><input className="input bg-ui-canvas" value={email} disabled /></label>
         <label className="block"><span className="mb-1 block text-sm font-medium">Tên hiển thị</span><input className="input" value={p.display_name} onChange={(e) => setP({ ...p, display_name: e.target.value })} /></label>
         <label className="block">
-          <span className="mb-1 block text-sm font-medium">Mục tiêu điểm TOEIC: <b className="text-brand-600">{p.target_score}</b></span>
+          <span className="mb-1 block text-sm font-medium">Mục tiêu điểm TOEIC: <b className="text-ui-brand-text">{p.target_score}</b></span>
           <input type="range" min={300} max={990} step={5} value={p.target_score} onChange={(e) => setP({ ...p, target_score: Number(e.target.value) })} className="w-full accent-cyan-500" />
         </label>
         <label className="block"><span className="mb-1 block text-sm font-medium">Ảnh đại diện (URL)</span><input className="input" value={p.avatar_url} onChange={(e) => setP({ ...p, avatar_url: e.target.value })} placeholder="https://..." /></label>
         <div className="flex items-center gap-3">
           <button className="btn btn-primary"><Save className="h-4 w-4" />Lưu</button>
           <Link href="/reset-password" className="btn btn-ghost">Đổi mật khẩu</Link>
-          {msg && <span className="text-sm text-emerald-600">{msg}</span>}
+          {msg && <span className="text-sm text-ui-emerald-text">{msg}</span>}
         </div>
       </form>
       <div className="card mt-4 p-6">
         <h2 className="font-bold">Mời bạn bè cùng học</h2>
-        <p className="text-sm text-slate-500">Chia sẻ liên kết giới thiệu của bạn.</p>
+        <p className="text-sm text-ui-muted">Chia sẻ liên kết giới thiệu của bạn.</p>
         <div className="mt-3 flex gap-2">
           <input className="input" value={referralLink} readOnly />
           <button className="btn btn-outline" onClick={() => { navigator.clipboard.writeText(referralLink); setCopied(true); }}><Copy className="h-4 w-4" />{copied ? "Đã chép" : "Sao chép"}</button>

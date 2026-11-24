@@ -21,10 +21,10 @@ export function Logo({ subtitle = "LUYỆN THI TOEIC" }: { subtitle?: string }) 
     <Link href="/" className="flex items-center gap-2.5 shrink-0">
       <LogoMark />
       <span className="leading-tight">
-        <span className="block text-[17px] font-extrabold tracking-tight text-slate-900">
-          QEnglish<span className="text-brand-500">IT</span>
+        <span className="block text-[17px] font-extrabold tracking-tight text-ui-title">
+          QEnglish<span className="text-ui-brand-bright">IT</span>
         </span>
-        <span className="block text-[10px] font-semibold tracking-[0.18em] text-slate-500">{subtitle}</span>
+        <span className="block text-[10px] font-semibold tracking-[0.18em] text-ui-muted">{subtitle}</span>
       </span>
     </Link>
   );

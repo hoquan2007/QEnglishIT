@@ -6,6 +6,7 @@ import type { Question, Test } from "@/lib/types";
 import { getTestPartLabel, isListeningPart, isToeicListeningReading, scaleListening, scaleReading, scoreLevel } from "@/lib/toeic";
 import { formatDuration } from "@/lib/utils";
 import { LogoMark } from "@/components/Logo";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export function computeResult(questions: Question[], answers: Record<string, string>, parts: number[], toeic: boolean) {
   const L = toeic ? questions.filter((q) => isListeningPart(q.part)) : [];
@@ -56,15 +57,16 @@ export function ResultView({
   const weak = [...tagStats.entries()].filter(([, s]) => s.n >= 2).sort((a, b) => a[1].c / a[1].n - b[1].c / b[1].n).slice(0, 6);
 
   return (
-    <div className="min-h-screen bg-slate-50 pb-16">
-      <div className="flex h-14 items-center gap-3 border-b border-slate-200 bg-white px-4">
+    <div className="min-h-screen bg-ui-canvas pb-16">
+      <div className="flex h-14 items-center gap-3 border-b border-ui-line bg-ui-surface px-4">
         <Link href="/luyen-de-toeic"><LogoMark size={30} /></Link>
-        <span className="font-semibold">Kết quả · {test.title}</span>
-        {saving && <span className="text-xs text-slate-400">Đang lưu...</span>}
+        <span className="min-w-0 flex-1 truncate font-semibold">Kết quả · {test.title}</span>
+        {saving && <span className="text-xs text-ui-faint">Đang lưu...</span>}
+        <ThemeToggle />
       </div>
       <div className="mx-auto max-w-5xl px-4 pt-8">
         <div className="grid gap-4 md:grid-cols-[1.2fr_1fr]">
-          <div className="card bg-gradient-to-br from-brand-500 to-sky-700 p-6 text-white">
+          <div className="card bg-gradient-to-br from-ui-brand-fill to-sky-700 p-6 text-white">
             <div className="text-sm text-brand-100">{r.total !== null ? "Điểm TOEIC ước tính" : "Kết quả luyện tập"}</div>
             {r.total !== null ? (
               <>
@@ -80,10 +82,10 @@ export function ResultView({
             </div>
           </div>
           <div className="card grid grid-cols-2 gap-3 p-5">
-            <Mini icon={<CheckCircle2 className="h-5 w-5 text-emerald-500" />} label="Đúng" value={correct} />
-            <Mini icon={<XCircle className="h-5 w-5 text-rose-500" />} label="Sai" value={wrong} />
-            <Mini icon={<MinusCircle className="h-5 w-5 text-slate-400" />} label="Bỏ qua" value={skipped} />
-            <Mini icon={<Clock className="h-5 w-5 text-brand-500" />} label="Thời gian" value={formatDuration(elapsed)} />
+            <Mini icon={<CheckCircle2 className="h-5 w-5 text-ui-emerald-bright" />} label="Đúng" value={correct} />
+            <Mini icon={<XCircle className="h-5 w-5 text-ui-rose-bright" />} label="Sai" value={wrong} />
+            <Mini icon={<MinusCircle className="h-5 w-5 text-ui-faint" />} label="Bỏ qua" value={skipped} />
+            <Mini icon={<Clock className="h-5 w-5 text-ui-brand-bright" />} label="Thời gian" value={formatDuration(elapsed)} />
             <button className="btn btn-primary col-span-2" onClick={onReview}><Eye className="h-4 w-4" />Xem đáp án & giải thích</button>
             <button className="btn btn-outline" onClick={onRetry}><RotateCcw className="h-4 w-4" />Làm lại</button>
             <Link className="btn btn-outline" href="/luyen-de-toeic/tien-do"><ListChecks className="h-4 w-4" />Lịch sử</Link>
@@ -96,10 +98,10 @@ export function ResultView({
             {byPart.map((b) => (
               <div key={b.p} className="grid grid-cols-[110px_1fr_90px] items-center gap-3 text-sm">
                 <span className="font-semibold">{getTestPartLabel(test, b.p)}</span>
-                <div className="h-3 rounded-full bg-slate-100">
+                <div className="h-3 rounded-full bg-ui-subtle">
                   <div className={`h-3 rounded-full ${b.pct >= 75 ? "bg-emerald-500" : b.pct >= 50 ? "bg-amber-400" : "bg-rose-400"}`} style={{ width: `${b.pct}%` }} />
                 </div>
-                <span className="text-right text-slate-600">{b.c}/{b.n} · {b.pct}%</span>
+                <span className="text-right text-ui-secondary">{b.c}/{b.n} · {b.pct}%</span>
               </div>
             ))}
           </div>
@@ -110,11 +112,11 @@ export function ResultView({
             <h2 className="font-bold">Dạng câu cần cải thiện</h2>
             <div className="mt-3 flex flex-wrap gap-2">
               {weak.map(([t, s]) => (
-                <span key={t} className="chip !border-rose-200 !bg-rose-50 !text-rose-700">{t} · {s.c}/{s.n}</span>
+                <span key={t} className="chip !border-ui-rose-line !bg-ui-rose-tint !text-ui-rose-strong">{t} · {s.c}/{s.n}</span>
               ))}
             </div>
-            <p className="mt-3 text-sm text-slate-500">
-              Ôn lại tại <Link href="/ngu-phap-toeic" className="text-brand-600 underline">Ngữ pháp TOEIC</Link> hoặc luyện riêng từng Part.
+            <p className="mt-3 text-sm text-ui-muted">
+              Ôn lại tại <Link href="/ngu-phap-toeic" className="text-ui-brand-text underline">Ngữ pháp TOEIC</Link> hoặc luyện riêng từng Part.
             </p>
           </div>
         )}
@@ -126,8 +128,8 @@ export function ResultView({
               const a = answers[q.id];
               const ok = a === q.correct_answer;
               return (
-                <div key={q.id} className={`rounded-md px-1 py-1 text-center text-xs ${ok ? "bg-emerald-50 text-emerald-700" : a ? "bg-rose-50 text-rose-700" : "bg-slate-50 text-slate-400"}`}>
-                  <b>{q.number}</b> {a ?? "–"}{!ok && <span className="text-emerald-600">→{q.correct_answer}</span>}
+                <div key={q.id} className={`rounded-md px-1 py-1 text-center text-xs ${ok ? "bg-ui-emerald-tint text-ui-emerald-strong" : a ? "bg-ui-rose-tint text-ui-rose-strong" : "bg-ui-canvas text-ui-faint"}`}>
+                  <b>{q.number}</b> {a ?? "–"}{!ok && <span className="text-ui-emerald-text">→{q.correct_answer}</span>}
                 </div>
               );
             })}
@@ -150,10 +152,10 @@ function ScoreBox({ label, score, sub }: { label: string; score: number; sub: st
 
 function Mini({ icon, label, value }: { icon: React.ReactNode; label: string; value: number | string }) {
   return (
-    <div className="flex items-center gap-3 rounded-xl bg-slate-50 p-3">
+    <div className="flex items-center gap-3 rounded-xl bg-ui-canvas p-3">
       {icon}
       <div>
-        <div className="text-xs text-slate-500">{label}</div>
+        <div className="text-xs text-ui-muted">{label}</div>
         <div className="font-bold">{value}</div>
       </div>
     </div>

@@ -32,7 +32,7 @@ export function DeleteSetButton({ id }: { id: string }) {
   const router = useRouter();
   return (
     <button
-      className="rounded p-1 text-slate-400 hover:text-rose-600"
+      className="rounded p-1 text-ui-faint hover:text-ui-rose-text"
       aria-label="Xoá bộ từ"
       onClick={async () => {
         if (!confirm("Xoá bộ từ này?")) return;

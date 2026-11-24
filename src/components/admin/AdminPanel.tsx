@@ -35,7 +35,7 @@ export function AdminPanel({ stats, feedback, reviews }: { stats: Record<string,
     <>
       <div className="mt-6 grid grid-cols-2 gap-3 md:grid-cols-4 lg:grid-cols-7">
         {Object.entries(stats).map(([k, v]) => (
-          <div key={k} className="card p-4"><div className="text-xs text-slate-500">{STAT_LABEL[k] ?? k}</div><div className="text-2xl font-extrabold text-brand-600">{v}</div></div>
+          <div key={k} className="card p-4"><div className="text-xs text-ui-muted">{STAT_LABEL[k] ?? k}</div><div className="text-2xl font-extrabold text-ui-brand-text">{v}</div></div>
         ))}
       </div>
       <div className="mt-6 flex gap-2">
@@ -46,11 +46,11 @@ export function AdminPanel({ stats, feedback, reviews }: { stats: Record<string,
         <div className="mt-4 space-y-3">
           {feedback.map((f) => (
             <div key={f.id} className="card p-4">
-              <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500">
+              <div className="flex flex-wrap items-center gap-2 text-xs text-ui-muted">
                 <span className="chip !py-0">{f.kind}</span>
-                <span className={f.status === "open" ? "text-amber-600" : "text-emerald-600"}>{f.status}</span>
+                <span className={f.status === "open" ? "text-ui-amber-text" : "text-ui-emerald-text"}>{f.status}</span>
                 <span>{formatDate(f.created_at)}</span>
-                {f.page_url && <a href={f.page_url} className="text-brand-600 underline">{f.page_url}</a>}
+                {f.page_url && <a href={f.page_url} className="text-ui-brand-text underline">{f.page_url}</a>}
                 {f.question_id && <span>QID {f.question_id.slice(0, 8)}</span>}
               </div>
               <p className="mt-2">{f.message}</p>
@@ -59,7 +59,7 @@ export function AdminPanel({ stats, feedback, reviews }: { stats: Record<string,
                   <input className="input !py-1.5" placeholder="Trả lời người dùng..." value={reply[f.id] ?? ""} onChange={(e) => setReply({ ...reply, [f.id]: e.target.value })} />
                   <button className="btn btn-primary !py-1.5" onClick={() => sendReply(f)}><Send className="h-4 w-4" /></button>
                 </div>
-              ) : <p className="mt-2 text-xs text-slate-400">Khách (không đăng nhập) — không thể trả lời.</p>}
+              ) : <p className="mt-2 text-xs text-ui-faint">Khách (không đăng nhập) — không thể trả lời.</p>}
             </div>
           ))}
         </div>
@@ -67,13 +67,13 @@ export function AdminPanel({ stats, feedback, reviews }: { stats: Record<string,
         <div className="mt-4 space-y-3">
           {reviews.map((r) => (
             <div key={r.id} className="card flex items-start gap-4 p-4">
-              <div className="flex-1"><b>{r.display_name}</b> · {r.rating}★<p className="mt-1 text-sm text-slate-600">{r.content}</p></div>
+              <div className="flex-1"><b>{r.display_name}</b> · {r.rating}★<p className="mt-1 text-sm text-ui-secondary">{r.content}</p></div>
               <button className="btn btn-primary !py-1.5" onClick={() => approve(r.id)}><Check className="h-4 w-4" />Duyệt</button>
             </div>
           ))}
         </div>
       )}
-      <p className="mt-8 text-sm text-slate-500">Nhập nội dung hàng loạt: chỉnh file JSON trong <code>content/</code> rồi chạy <code>npm run seed</code>.</p>
+      <p className="mt-8 text-sm text-ui-muted">Nhập nội dung hàng loạt: chỉnh file JSON trong <code>content/</code> rồi chạy <code>npm run seed</code>.</p>
     </>
   );
 }

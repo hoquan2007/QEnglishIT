@@ -17,16 +17,16 @@ export default async function Page() {
       <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {(data ?? []).map((s) => (
           <div key={s.id} className="card p-5">
-            <Link href={`/vocabulary-sets/${s.id}`} className="text-lg font-bold hover:text-brand-700">{s.title}</Link>
-            {s.description && <p className="text-sm text-slate-500">{s.description}</p>}
-            <div className="mt-3 flex items-center justify-between text-xs text-slate-500">
+            <Link href={`/vocabulary-sets/${s.id}`} className="text-lg font-bold hover:text-ui-brand-strong">{s.title}</Link>
+            {s.description && <p className="text-sm text-ui-muted">{s.description}</p>}
+            <div className="mt-3 flex items-center justify-between text-xs text-ui-muted">
               <span>{(s.vocabulary_set_items as unknown as { count: number }[])?.[0]?.count ?? 0} từ · {formatDate(s.created_at)}</span>
               <DeleteSetButton id={s.id} />
             </div>
           </div>
         ))}
       </div>
-      {!data?.length && <p className="mt-6 text-center text-slate-500">Bạn chưa có bộ từ nào.</p>}
+      {!data?.length && <p className="mt-6 text-center text-ui-muted">Bạn chưa có bộ từ nào.</p>}
     </>
   );
 }

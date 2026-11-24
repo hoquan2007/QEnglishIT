@@ -30,18 +30,18 @@ export function ReportButton({ questionId, label = "Báo lỗi/Góp ý" }: { que
 
   return (
     <>
-      <button onClick={() => { setOpen(true); setDone(false); }} className="flex items-center gap-1.5 rounded-lg px-2 py-1 text-xs text-slate-500 hover:bg-slate-100">
+      <button onClick={() => { setOpen(true); setDone(false); }} className="flex items-center gap-1.5 rounded-lg px-2 py-1 text-xs text-ui-muted hover:bg-ui-subtle">
         <TriangleAlert className="h-3.5 w-3.5" /> {label}
       </button>
       {open && (
-        <div className="fixed inset-0 z-50 grid place-items-center bg-slate-900/50 p-4" onClick={() => setOpen(false)}>
+        <div className="fixed inset-0 z-50 grid place-items-center bg-ui-overlay/50 dark:bg-ui-overlay/75 p-4" onClick={() => setOpen(false)}>
           <div className="card w-full max-w-md p-6" onClick={(e) => e.stopPropagation()}>
             <div className="flex items-center justify-between">
               <h3 className="text-lg font-bold">Báo lỗi / Góp ý</h3>
               <button onClick={() => setOpen(false)} aria-label="Đóng"><X className="h-5 w-5" /></button>
             </div>
             {done ? (
-              <p className="mt-4 rounded-lg bg-emerald-50 p-3 text-sm text-emerald-700">Cảm ơn bạn! Phản hồi đã được gửi, đội ngũ sẽ trả lời trong Hộp thư.</p>
+              <p className="mt-4 rounded-lg bg-ui-emerald-tint p-3 text-sm text-ui-emerald-strong">Cảm ơn bạn! Phản hồi đã được gửi, đội ngũ sẽ trả lời trong Hộp thư.</p>
             ) : (
               <>
                 <textarea className="input mt-4 min-h-28" placeholder="Mô tả lỗi: đáp án sai, giải thích chưa đúng, audio lỗi..." value={msg} onChange={(e) => setMsg(e.target.value)} />

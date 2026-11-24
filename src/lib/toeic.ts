@@ -60,11 +60,11 @@ export const scaleListening = (correct: number, total = 100) => interpolate(L_PO
 export const scaleReading = (correct: number, total = 100) => interpolate(R_POINTS, (correct / total) * 100);
 
 export function scoreLevel(total: number) {
-  if (total >= 905) return { label: "Thành thạo quốc tế", color: "text-emerald-600", cefr: "C1" };
-  if (total >= 785) return { label: "Nâng cao", color: "text-sky-600", cefr: "B2" };
-  if (total >= 550) return { label: "Trung cấp", color: "text-cyan-600", cefr: "B1" };
-  if (total >= 225) return { label: "Sơ cấp", color: "text-amber-600", cefr: "A2" };
-  return { label: "Mới bắt đầu", color: "text-rose-600", cefr: "A1" };
+  if (total >= 905) return { label: "Thành thạo quốc tế", color: "text-ui-emerald-text", cefr: "C1" };
+  if (total >= 785) return { label: "Nâng cao", color: "text-ui-sky-text", cefr: "B2" };
+  if (total >= 550) return { label: "Trung cấp", color: "text-ui-cyan-text", cefr: "B1" };
+  if (total >= 225) return { label: "Sơ cấp", color: "text-ui-amber-text", cefr: "A2" };
+  return { label: "Mới bắt đầu", color: "text-ui-rose-text", cefr: "A1" };
 }
 
 export const SCORE_TABLE = [

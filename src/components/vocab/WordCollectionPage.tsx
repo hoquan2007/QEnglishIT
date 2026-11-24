@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 
 export function WordCollectionView({ words, empty }: { words: VocabWord[]; empty: React.ReactNode }) {
   const [mode, setMode] = useState<"list" | "flash">("list");
-  if (!words.length) return <div className="card p-10 text-center text-slate-500">{empty}</div>;
+  if (!words.length) return <div className="card p-10 text-center text-ui-muted">{empty}</div>;
   return (
     <>
       <div className="mb-4 flex gap-2">
@@ -24,7 +24,7 @@ export function WordCollectionView({ words, empty }: { words: VocabWord[]; empty
 export function LoginNeeded({ next }: { next: string }) {
   return (
     <div className="card p-10 text-center">
-      <p className="text-slate-600">Đăng nhập để sử dụng tính năng này.</p>
+      <p className="text-ui-secondary">Đăng nhập để sử dụng tính năng này.</p>
       <Link href={`/login?next=${next}`} className="btn btn-primary mt-4">Đăng nhập</Link>
     </div>
   );

@@ -35,11 +35,11 @@ export default async function Page({ params }: { params: Promise<{ mode: string 
           const firstLine = (g.transcript ?? "").split("\n")[0].replace(/^[A-Z0-9()]+:\s*/, "");
           return (
             <Link key={g.id} href={`/luyen-nghe-toeic/bai/${g.id}`} className="card p-4 transition hover:shadow-lg">
-              <div className="flex items-center justify-between text-xs text-slate-500">
-                <span className="font-semibold text-brand-600">Bài {i + 1}</span>
+              <div className="flex items-center justify-between text-xs text-ui-muted">
+                <span className="font-semibold text-ui-brand-text">Bài {i + 1}</span>
                 <span>{(g.tests as unknown as { title: string })?.title}</span>
               </div>
-              <p className="mt-2 line-clamp-2 text-sm text-slate-700">{firstLine}</p>
+              <p className="mt-2 line-clamp-2 text-sm text-ui-body">{firstLine}</p>
             </Link>
           );
         })}

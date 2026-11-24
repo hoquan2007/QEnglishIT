@@ -40,14 +40,14 @@ export default async function Page({ params }: { params: Promise<{ collection: s
   const fam = FAMILIES[d.col.family];
   return (
     <>
-      <div className="text-sm text-slate-500">
-        <Link href={fam?.route ?? "/tu-vung-tieng-anh"} className="text-brand-600 hover:underline">{d.col.title}</Link> / {d.les.title}
+      <div className="text-sm text-ui-muted">
+        <Link href={fam?.route ?? "/tu-vung-tieng-anh"} className="text-ui-brand-text hover:underline">{d.col.title}</Link> / {d.les.title}
       </div>
       <h1 className="mt-2 text-2xl font-extrabold">
         {d.les.day_number ? `Ngày ${d.les.day_number}: ` : ""}{d.les.title}
-        {d.les.title_vi && <span className="ml-2 text-lg font-semibold text-slate-400">{d.les.title_vi}</span>}
+        {d.les.title_vi && <span className="ml-2 text-lg font-semibold text-ui-faint">{d.les.title_vi}</span>}
       </h1>
-      <p className="text-sm text-slate-500">{d.words.length} từ vựng</p>
+      <p className="text-sm text-ui-muted">{d.words.length} từ vựng</p>
       <VocabLesson lessonId={d.les.id} words={d.words} nextHref={next ? `/tu-vung/${collection}/${next.slug}` : undefined} />
     </>
   );

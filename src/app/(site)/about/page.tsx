@@ -10,7 +10,7 @@ export default function Page() {
       <div className="text-center">
         <div className="mx-auto w-fit"><LogoMark size={64} /></div>
         <h1 className="mt-4 text-4xl font-extrabold">Về <span className="text-gradient">QEnglishIT</span></h1>
-        <p className="mx-auto mt-3 max-w-2xl text-lg text-slate-600">
+        <p className="mx-auto mt-3 max-w-2xl text-lg text-ui-secondary">
           QEnglishIT là nền tảng luyện thi TOEIC miễn phí, giúp người học Việt Nam luyện đề, nghe, đọc, ngữ pháp và từ vựng với giải thích chi tiết bằng tiếng Việt.
         </p>
       </div>
@@ -24,9 +24,9 @@ export default function Page() {
           const Icon = I as typeof Heart;
           return (
             <div key={t as string} className="card p-6">
-              <Icon className="h-6 w-6 text-brand-500" />
+              <Icon className="h-6 w-6 text-ui-brand-bright" />
               <h2 className="mt-3 font-bold">{t as string}</h2>
-              <p className="mt-1 text-sm text-slate-600">{d as string}</p>
+              <p className="mt-1 text-sm text-ui-secondary">{d as string}</p>
             </div>
           );
         })}
@@ -35,7 +35,7 @@ export default function Page() {
         <Link href="/gop-y-chia-se" className="btn btn-outline">Góp ý cho chúng tôi</Link>
         <Link href="/luyen-de-toeic" className="btn btn-primary">Bắt đầu luyện thi</Link>
       </div>
-      <p className="mt-10 text-center text-xs text-slate-400">TOEIC® là thương hiệu đã đăng ký của ETS. QEnglishIT không liên kết hay được ETS chứng thực.</p>
+      <p className="mt-10 text-center text-xs text-ui-faint">TOEIC® là thương hiệu đã đăng ký của ETS. QEnglishIT không liên kết hay được ETS chứng thực.</p>
     </div>
   );
 }

@@ -33,11 +33,11 @@ export default async function Page({ params }: { params: Promise<{ n: string }> 
       <PageHero
         badge={`Luyện chuyên sâu · ${meta.skill}`}
         icon={n <= 4 ? <Headphones className="h-3.5 w-3.5" /> : <BookOpenText className="h-3.5 w-3.5" />}
-        title={<>{meta.name}: <span className="text-brand-500">{meta.title}</span></>}
+        title={<>{meta.name}: <span className="text-ui-brand-bright">{meta.title}</span></>}
         desc={`${meta.count} câu mỗi đề (câu ${meta.range[0]}–${meta.range[1]}). Chọn đề bên dưới để luyện riêng ${meta.name} ở chế độ Luyện tập (xem giải thích ngay) hoặc Thi thử.`}
         right={
-          <ul className="max-w-sm space-y-2 rounded-2xl bg-white/80 p-4 text-sm text-slate-600 ring-1 ring-brand-100">
-            <li className="font-bold text-slate-800">Mẹo làm bài</li>
+          <ul className="max-w-sm space-y-2 rounded-2xl bg-ui-surface/80 p-4 text-sm text-ui-secondary ring-1 ring-ui-brand-soft">
+            <li className="font-bold text-ui-strong">Mẹo làm bài</li>
             {TIPS[n].map((t) => <li key={t}>• {t}</li>)}
           </ul>
         }

@@ -29,7 +29,7 @@ export function ReviewForm() {
       <div className="flex gap-1">
         {[1, 2, 3, 4, 5].map((n) => (
           <button type="button" key={n} onClick={() => setF({ ...f, rating: n })} aria-label={`${n} sao`}>
-            <Star className={`h-6 w-6 ${n <= f.rating ? "fill-amber-400 text-amber-400" : "text-slate-300"}`} />
+            <Star className={`h-6 w-6 ${n <= f.rating ? "fill-amber-400 text-amber-400" : "text-ui-inactive"}`} />
           </button>
         ))}
       </div>
@@ -39,8 +39,8 @@ export function ReviewForm() {
       </div>
       <textarea className="input min-h-28" placeholder="Chia sẻ trải nghiệm của bạn..." required value={f.content} onChange={(e) => setF({ ...f, content: e.target.value })} />
       <button className="btn btn-primary w-full">Gửi đánh giá</button>
-      {needLogin && <p className="text-sm text-slate-600">Vui lòng <Link href="/login?next=/danh-gia" className="text-brand-600 underline">đăng nhập</Link> để gửi đánh giá.</p>}
-      {msg && <p className="text-sm text-emerald-700">{msg}</p>}
+      {needLogin && <p className="text-sm text-ui-secondary">Vui lòng <Link href="/login?next=/danh-gia" className="text-ui-brand-text underline">đăng nhập</Link> để gửi đánh giá.</p>}
+      {msg && <p className="text-sm text-ui-emerald-strong">{msg}</p>}
     </form>
   );
 }
