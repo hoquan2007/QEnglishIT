@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Library, ArrowRight } from "lucide-react";
+import { Library, ArrowRight, BookOpen } from "lucide-react";
 import { supabaseServer } from "@/lib/supabase/server";
 import { FAMILIES } from "@/lib/vocab";
 import { PageHero } from "@/components/PageHero";
@@ -24,8 +24,24 @@ export default async function Page() {
     <>
       <PageHero badge="Từ vựng tiếng Anh" icon={<Library className="h-3.5 w-3.5" />} title={<>Khám phá thế giới <span className="text-brand-500">từ vựng</span></>}
         desc={`${words ?? 0}+ từ vựng và cụm từ có phiên âm, nghĩa tiếng Việt, ví dụ song ngữ, phát âm và flashcard lặp lại ngắt quãng.`} />
-      <WordSearch />
+      <div className="flex flex-wrap items-start gap-2">
+        <div className="min-w-0 flex-1 basis-64"><WordSearch /></div>
+        <Link href="/tu-dien-tieng-anh" className="btn btn-outline">
+          <BookOpen className="h-4 w-4" aria-hidden /> Tra từ điển
+        </Link>
+      </div>
       <div className="mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+        <Link href="/1000-cum-tu-tieng-anh-thong-dung" className="card group overflow-hidden transition hover:-translate-y-0.5 hover:shadow-xl">
+          <div className="bg-gradient-to-br from-teal-400 to-teal-600 p-5 text-white">
+            <div className="text-xs font-bold uppercase tracking-widest opacity-80">Học theo cụm</div>
+            <div className="mt-1 text-xl font-extrabold">1000 cụm tiếng Anh thông dụng</div>
+          </div>
+          <div className="p-5"><p className="text-sm text-slate-600">Giao tiếp, cụm động từ và kết hợp từ với phát âm, flashcard và luyện tập.</p></div>
+          <div className="flex items-center justify-between border-t border-slate-100 px-5 py-3 text-sm">
+            <span className="text-slate-500">50 bài học</span>
+            <span className="flex items-center gap-1 font-semibold text-brand-600">Học ngay <ArrowRight className="h-4 w-4 transition group-hover:translate-x-1" /></span>
+          </div>
+        </Link>
         {Object.entries(FAMILIES).map(([key, f]) => (
           <Link key={key} href={f.route} className="card group overflow-hidden transition hover:-translate-y-0.5 hover:shadow-xl">
             <div className={`bg-gradient-to-br ${COLORS[key]} p-5 text-white`}>

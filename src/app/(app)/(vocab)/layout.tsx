@@ -5,9 +5,11 @@ const groups: ShellGroup[] = [
   {
     items: [
       { href: "/tu-vung-tieng-anh", label: "Từ vựng tiếng Anh", desc: "Khám phá thế giới từ vựng", icon: "LayoutGrid", color: "bg-slate-100 text-slate-600" },
+      { href: "/tu-dien-tieng-anh", label: "Tra từ điển", desc: "Nghĩa, phiên âm và phát âm", icon: "BookOpen", color: "bg-violet-100 text-violet-600" },
       { href: "/tu-vung-toeic", label: "Từ vựng TOEIC", desc: "Theo chủ đề, flashcard song ngữ", icon: "BookOpen", color: "bg-sky-100 text-sky-600" },
       { href: "/1000-tu-vung-toeic-50-ngay", label: "1000 từ TOEIC trong 50 ngày", desc: "Lộ trình 20 từ mỗi ngày", icon: "CalendarDays", color: "bg-orange-100 text-orange-600" },
       { href: "/3000-tu-vung-tieng-anh-thong-dung", label: "3000 từ thông dụng", desc: "A1 – C1 cho người mới bắt đầu", icon: "Languages", color: "bg-indigo-100 text-indigo-600" },
+      { href: "/1000-cum-tu-tieng-anh-thong-dung", label: "1000 cụm thông dụng", desc: "50 bài học, flashcard và luyện tập", icon: "Layers", color: "bg-teal-100 text-teal-600" },
       { href: "/tu-vung-tieng-anh-giao-tiep", label: "Tiếng Anh giao tiếp", desc: "Cụm từ & mẫu câu theo tình huống", icon: "MessagesSquare", color: "bg-pink-100 text-pink-600" },
       { href: "/tu-vung-ielts", label: "Từ vựng IELTS", desc: "Học thuật theo chủ đề", icon: "GraduationCap", color: "bg-rose-100 text-rose-600" },
       { href: "/tu-vung-vstep", label: "Từ vựng VSTEP", desc: "Bậc 3 – Bậc 5", icon: "Landmark", color: "bg-emerald-100 text-emerald-600" },
