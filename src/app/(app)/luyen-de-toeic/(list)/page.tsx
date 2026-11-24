@@ -14,7 +14,7 @@ export default async function Page() {
       <PageHero
         badge="Luyện đề TOEIC online"
         icon={<FileStack className="h-3.5 w-3.5" />}
-        title={<>Luyện đề TOEIC <span className="text-brand-500">miễn phí</span></>}
+        title={<>Luyện đề TOEIC <span className="text-ui-brand-bright">miễn phí</span></>}
         desc={`${tests.length} đề luyện tập với hai chế độ Thi thử và Luyện tập. Xem đáp án và giải thích chi tiết từng câu.`}
       />
       <TestGrid tests={tests} />

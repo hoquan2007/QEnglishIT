@@ -14,9 +14,9 @@ export function DictationTabs({ byPart, byTest, progress }: { byPart: React.Reac
   return (
     <>
       <div className="mb-5 flex justify-center">
-        <div className="inline-flex gap-1 rounded-2xl border border-slate-200 bg-white p-1">
+        <div className="inline-flex gap-1 rounded-2xl border border-ui-line bg-ui-surface p-1">
           {tabs.map((t, i) => (
-            <button key={t.l} onClick={() => setTab(i)} className={cn("flex items-center gap-1.5 rounded-xl px-4 py-2 text-sm font-semibold", tab === i ? "bg-brand-500 text-white" : "text-slate-600 hover:bg-slate-100")}>
+            <button key={t.l} onClick={() => setTab(i)} className={cn("flex items-center gap-1.5 rounded-xl px-4 py-2 text-sm font-semibold", tab === i ? "bg-ui-brand-fill text-white" : "text-ui-secondary hover:bg-ui-subtle")}>
               <t.i className="h-4 w-4" />{t.l}
             </button>
           ))}

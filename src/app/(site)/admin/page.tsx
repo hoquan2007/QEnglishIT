@@ -9,8 +9,8 @@ export default async function Page() {
   if (!(await isAdmin())) {
     return (
       <div className="mx-auto max-w-lg px-4 py-20 text-center">
-        <Shield className="mx-auto h-10 w-10 text-slate-300" />
-        <p className="mt-3 text-slate-600">Bạn không có quyền truy cập trang quản trị.</p>
+        <Shield className="mx-auto h-10 w-10 text-ui-inactive" />
+        <p className="mt-3 text-ui-secondary">Bạn không có quyền truy cập trang quản trị.</p>
       </div>
     );
   }
@@ -23,7 +23,7 @@ export default async function Page() {
   ]);
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <h1 className="flex items-center gap-2 text-3xl font-extrabold"><Shield className="h-7 w-7 text-brand-500" />Quản trị QEnglishIT</h1>
+      <h1 className="flex items-center gap-2 text-3xl font-extrabold"><Shield className="h-7 w-7 text-ui-brand-bright" />Quản trị QEnglishIT</h1>
       <AdminPanel stats={{ ...(stats as Record<string, number>), attempts: (attempts as unknown as { count?: number })?.count ?? 0 }} feedback={feedback ?? []} reviews={reviews ?? []} />
     </div>
   );

@@ -84,7 +84,7 @@ export function SpeakingTask({ task }: { task: Task }) {
     <div className="mt-5 space-y-4">
       <div className="card p-6">
         <div className="mb-2 flex items-center justify-between">
-          <span className="text-xs font-bold uppercase tracking-wider text-violet-600">Đề bài</span>
+          <span className="text-xs font-bold uppercase tracking-wider text-ui-violet-text">Đề bài</span>
           {task.task_type === "read_aloud" && (
             <button onClick={() => speak(task.prompt, 0.95)} className="btn btn-ghost !py-1 text-xs"><Volume2 className="h-4 w-4" />Nghe mẫu đọc</button>
           )}
@@ -92,27 +92,27 @@ export function SpeakingTask({ task }: { task: Task }) {
         <Markdown>{task.prompt}</Markdown>
         {task.image_description && (
           <div className="mt-4 rounded-2xl bg-gradient-to-br from-slate-700 to-slate-900 p-5 text-slate-100">
-            <div className="mb-2 flex items-center gap-2 text-xs uppercase tracking-widest text-slate-400"><ImageIcon className="h-4 w-4" />Hình ảnh</div>
+            <div className="mb-2 flex items-center gap-2 text-xs uppercase tracking-widest text-ui-faint"><ImageIcon className="h-4 w-4" />Hình ảnh</div>
             {task.image_description}
           </div>
         )}
-        <div className="mt-3 text-xs text-slate-500">Chuẩn bị {task.prep_seconds ?? 0}s · Trả lời {task.response_seconds ?? 0}s</div>
+        <div className="mt-3 text-xs text-ui-muted">Chuẩn bị {task.prep_seconds ?? 0}s · Trả lời {task.response_seconds ?? 0}s</div>
       </div>
 
       <div className="card p-6 text-center">
         {phase === "ready" && <button className="btn btn-primary !px-8" onClick={begin}><Mic className="h-4 w-4" />Bắt đầu</button>}
         {(phase === "prep" || phase === "record") && (
           <>
-            <div className={cn("text-sm font-bold uppercase tracking-wider", phase === "prep" ? "text-amber-600" : "text-rose-600")}>
+            <div className={cn("text-sm font-bold uppercase tracking-wider", phase === "prep" ? "text-ui-amber-text" : "text-ui-rose-text")}>
               {phase === "prep" ? "Thời gian chuẩn bị" : "● Đang ghi âm"}
             </div>
             <div className="mt-1 font-mono text-5xl font-extrabold">{left}s</div>
-            <div className="mx-auto mt-3 h-2 max-w-sm rounded-full bg-slate-100">
+            <div className="mx-auto mt-3 h-2 max-w-sm rounded-full bg-ui-subtle">
               <div className={cn("h-2 rounded-full", phase === "prep" ? "bg-amber-400" : "bg-rose-500")} style={{ width: `${(left / total) * 100}%` }} />
             </div>
             <div className="mt-4 flex justify-center gap-2">
               {phase === "prep" && <button className="btn btn-outline" onClick={() => { setLeft(0); }}>Bắt đầu nói ngay</button>}
-              {phase === "record" && <button className="btn bg-rose-500 text-white" onClick={stopRecording}><Square className="h-4 w-4" />Dừng</button>}
+              {phase === "record" && <button className="btn bg-ui-rose-fill text-white" onClick={stopRecording}><Square className="h-4 w-4" />Dừng</button>}
             </div>
           </>
         )}
@@ -123,14 +123,14 @@ export function SpeakingTask({ task }: { task: Task }) {
             <button className="btn btn-outline mt-3" onClick={begin}><RotateCcw className="h-4 w-4" />Nói lại</button>
           </>
         )}
-        {err && <p className="mt-3 text-sm text-rose-600">{err}</p>}
+        {err && <p className="mt-3 text-sm text-ui-rose-text">{err}</p>}
       </div>
 
       <div className="card p-6">
         <button className="btn btn-outline" onClick={() => setShowSample((v) => !v)}><Play className="h-4 w-4" />{showSample ? "Ẩn bài mẫu" : "Xem bài mẫu"}</button>
         {showSample && task.sample_answer && (
-          <div className="mt-4 rounded-xl bg-emerald-50 p-4">
-            <p className="leading-relaxed text-slate-800">{task.sample_answer}</p>
+          <div className="mt-4 rounded-xl bg-ui-emerald-tint p-4">
+            <p className="leading-relaxed text-ui-strong">{task.sample_answer}</p>
             <button onClick={() => speak(task.sample_answer!, 0.95)} className="btn btn-ghost mt-2 !py-1 text-xs"><Volume2 className="h-4 w-4" />Nghe bài mẫu</button>
           </div>
         )}

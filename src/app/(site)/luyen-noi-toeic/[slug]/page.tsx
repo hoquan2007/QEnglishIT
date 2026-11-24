@@ -12,7 +12,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   if (!t) notFound();
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
-      <Link href="/luyen-noi-toeic" className="text-sm text-brand-600 hover:underline">← Luyện nói TOEIC</Link>
+      <Link href="/luyen-noi-toeic" className="text-sm text-ui-brand-text hover:underline">← Luyện nói TOEIC</Link>
       <h1 className="mt-2 text-2xl font-extrabold">{t.title}</h1>
       <SpeakingTask task={t} />
     </div>

@@ -21,9 +21,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   const idx = (sib ?? []).findIndex((s) => s.slug === slug);
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
-      <Link href="/luyen-doc-toeic" className="text-sm text-brand-600 hover:underline">← Luyện đọc TOEIC</Link>
+      <Link href="/luyen-doc-toeic" className="text-sm text-ui-brand-text hover:underline">← Luyện đọc TOEIC</Link>
       <h1 className="mt-2 text-2xl font-extrabold">{p.title}</h1>
-      <p className="text-sm text-slate-500">TOEIC {p.level}+ · {p.passage_type}</p>
+      <p className="text-sm text-ui-muted">TOEIC {p.level}+ · {p.passage_type}</p>
       <BilingualReader
         id={p.id}
         paragraphs={p.paragraphs}

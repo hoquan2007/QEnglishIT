@@ -105,10 +105,10 @@ function FullListen({ lines, rate, audioUrl }: { lines: Line[]; rate: number; au
       </div>
       <div className="mt-4 space-y-2">
         {lines.map((l, i) => (
-          <button key={i} onClick={() => play(i)} className={cn("block w-full rounded-xl p-3 text-left transition", cur === i ? "bg-brand-50 ring-1 ring-brand-200" : "hover:bg-slate-50")}>
-            <span className="mr-2 text-xs font-bold text-brand-600">{l.speaker}</span>
-            {showEn ? <span className="text-slate-800">{l.text}</span> : <span className="text-slate-300">••••••••••••</span>}
-            {showVi && l.vi && <span className="mt-1 block text-sm text-slate-500">{l.vi}</span>}
+          <button key={i} onClick={() => play(i)} className={cn("block w-full rounded-xl p-3 text-left transition", cur === i ? "bg-ui-brand-tint ring-1 ring-ui-brand-line" : "hover:bg-ui-canvas")}>
+            <span className="mr-2 text-xs font-bold text-ui-brand-text">{l.speaker}</span>
+            {showEn ? <span className="text-ui-strong">{l.text}</span> : <span className="text-ui-inactive">••••••••••••</span>}
+            {showVi && l.vi && <span className="mt-1 block text-sm text-ui-muted">{l.vi}</span>}
           </button>
         ))}
       </div>
@@ -151,7 +151,7 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
   if (!line) {
     return (
       <div className="card p-10 text-center">
-        <CheckCircle2 className="mx-auto h-12 w-12 text-emerald-500" />
+        <CheckCircle2 className="mx-auto h-12 w-12 text-ui-emerald-bright" />
         <p className="mt-3 text-xl font-extrabold">Hoàn thành! {score}/{lines.length} câu đúng</p>
         <div className="mt-4 flex justify-center gap-2">
           <button className="btn btn-outline" onClick={() => { setI(0); setScore(0); }}><RotateCcw className="h-4 w-4" />Làm lại</button>
@@ -188,13 +188,13 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
 
   return (
     <div className="card p-6">
-      <div className="flex items-center justify-between text-sm text-slate-500">
-        <span>Câu {i + 1}/{lines.length} · <b className="text-brand-600">{line.speaker}</b></span>
+      <div className="flex items-center justify-between text-sm text-ui-muted">
+        <span>Câu {i + 1}/{lines.length} · <b className="text-ui-brand-text">{line.speaker}</b></span>
         <span>Đúng {score}</span>
       </div>
-      <div className="mt-1 h-1.5 rounded-full bg-slate-100"><div className="h-1.5 rounded-full bg-brand-500" style={{ width: `${(i / lines.length) * 100}%` }} /></div>
+      <div className="mt-1 h-1.5 rounded-full bg-ui-subtle"><div className="h-1.5 rounded-full bg-brand-500" style={{ width: `${(i / lines.length) * 100}%` }} /></div>
       <div className="mt-5 flex justify-center">
-        <button onClick={play} className="grid h-16 w-16 place-items-center rounded-full bg-brand-500 text-white shadow-lg hover:bg-brand-600" aria-label="Nghe">
+        <button onClick={play} className="grid h-16 w-16 place-items-center rounded-full bg-ui-brand-fill text-white shadow-lg hover:bg-ui-brand-fill-hover" aria-label="Nghe">
           <Volume2 className="h-7 w-7" />
         </button>
       </div>
@@ -205,8 +205,8 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
             mask.idx.includes(k) ? (
               <input key={k} disabled={result !== null} value={blanks[k] ?? ""} onChange={(e) => setBlanks({ ...blanks, [k]: e.target.value })}
                 onKeyDown={(e) => e.key === "Enter" && result === null && check()}
-                className={cn("rounded-md border-b-2 bg-slate-50 px-1 text-center outline-none",
-                  result === null ? "border-brand-300" : normalizeText(blanks[k] ?? "") === normalizeText(w) ? "border-emerald-500 text-emerald-700" : "border-rose-500 text-rose-600")}
+                className={cn("rounded-md border-b-2 bg-ui-canvas px-1 text-center outline-none",
+                  result === null ? "border-ui-brand-outline" : normalizeText(blanks[k] ?? "") === normalizeText(w) ? "border-emerald-500 text-ui-emerald-strong" : "border-rose-500 text-ui-rose-text")}
                 style={{ width: `${Math.max(3, w.length + 1)}ch` }} />
             ) : (
               <span key={k}>{w}</span>
@@ -222,23 +222,23 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
       )}
 
       {mode === "dictate" && hint && result === null && (
-        <p className="mt-2 font-mono text-sm text-slate-400">{target.map((w) => w[0] + "_".repeat(Math.max(0, w.replace(/[^A-Za-z']/g, "").length - 1))).join(" ")}</p>
+        <p className="mt-2 font-mono text-sm text-ui-faint">{target.map((w) => w[0] + "_".repeat(Math.max(0, w.replace(/[^A-Za-z']/g, "").length - 1))).join(" ")}</p>
       )}
 
       {mode === "check" && result === null && (
-        <p className="mt-6 text-center text-slate-500">Nghe kỹ câu, tự nhẩm lại, rồi bấm “Hiện đáp án” để tự đánh giá.</p>
+        <p className="mt-6 text-center text-ui-muted">Nghe kỹ câu, tự nhẩm lại, rồi bấm “Hiện đáp án” để tự đánh giá.</p>
       )}
 
       {(result !== null || (mode === "check" && hint)) && (
-        <div className="mt-5 rounded-xl bg-slate-50 p-4">
+        <div className="mt-5 rounded-xl bg-ui-canvas p-4">
           <p className="text-lg">
             {mode === "dictate"
               ? target.map((w, k) => (
-                  <span key={k} className={cn("mr-1.5", normalizeText(w) === typed[k] ? "text-emerald-700" : "rounded bg-rose-100 text-rose-700")}>{w}</span>
+                  <span key={k} className={cn("mr-1.5", normalizeText(w) === typed[k] ? "text-ui-emerald-strong" : "rounded bg-ui-rose-soft text-ui-rose-strong")}>{w}</span>
                 ))
               : line.text}
           </p>
-          {line.vi && <p className="mt-1 text-sm text-slate-500">{line.vi}</p>}
+          {line.vi && <p className="mt-1 text-sm text-ui-muted">{line.vi}</p>}
         </div>
       )}
 
@@ -248,8 +248,8 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
             <button className="btn btn-primary" onClick={() => setHint(true)}><Eye className="h-4 w-4" />Hiện đáp án</button>
           ) : result === null ? (
             <>
-              <button className="btn bg-emerald-500 text-white" onClick={() => grade(true)}><CheckCircle2 className="h-4 w-4" />Nghe được</button>
-              <button className="btn bg-rose-500 text-white" onClick={() => grade(false)}><XCircle className="h-4 w-4" />Chưa nghe được</button>
+              <button className="btn bg-ui-emerald-fill text-white" onClick={() => grade(true)}><CheckCircle2 className="h-4 w-4" />Nghe được</button>
+              <button className="btn bg-ui-rose-fill text-white" onClick={() => grade(false)}><XCircle className="h-4 w-4" />Chưa nghe được</button>
             </>
           ) : (
             <button className="btn btn-primary" onClick={next}>Câu tiếp<ChevronRight className="h-4 w-4" /></button>
@@ -262,7 +262,7 @@ function SentenceDrill({ lines, mode, rate, keyPrefix, nextHref }: { lines: Line
           </>
         ) : (
           <>
-            <span className={cn("flex items-center gap-1 font-semibold", result ? "text-emerald-600" : "text-rose-600")}>
+            <span className={cn("flex items-center gap-1 font-semibold", result ? "text-ui-emerald-text" : "text-ui-rose-text")}>
               {result ? <CheckCircle2 className="h-5 w-5" /> : <XCircle className="h-5 w-5" />}{result ? "Chính xác!" : "Chưa đúng"}
             </span>
             <button className="btn btn-primary" onClick={next}>Câu tiếp<ChevronRight className="h-4 w-4" /></button>

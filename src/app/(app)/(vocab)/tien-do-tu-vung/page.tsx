@@ -21,23 +21,23 @@ export default async function Page() {
   ]);
   const completed = (lessons ?? []).filter((l) => l.status === "completed").length;
   const cards = [
-    ["Từ đã học", total ?? 0, "text-brand-600"],
-    ["Đã thuộc (≥21 ngày)", known ?? 0, "text-emerald-600"],
-    ["Đến hạn ôn", due ?? 0, "text-amber-600"],
-    ["Đã đánh dấu", cart ?? 0, "text-rose-600"],
-    ["Bài hoàn thành", completed, "text-violet-600"],
+    ["Từ đã học", total ?? 0, "text-ui-brand-text"],
+    ["Đã thuộc (≥21 ngày)", known ?? 0, "text-ui-emerald-text"],
+    ["Đến hạn ôn", due ?? 0, "text-ui-amber-text"],
+    ["Đã đánh dấu", cart ?? 0, "text-ui-rose-text"],
+    ["Bài hoàn thành", completed, "text-ui-violet-text"],
   ] as const;
   return (
     <>
       <PageHero badge="Thống kê ghi nhớ" icon={<ChartColumn className="h-3.5 w-3.5" />} title="Tiến độ luyện từ" desc="Số liệu cập nhật theo thời gian thực từ các phiên flashcard, quiz và nghe – viết." />
       <div className="grid gap-3 sm:grid-cols-3 lg:grid-cols-5">
         {cards.map(([l, v, c]) => (
-          <div key={l} className="card p-4"><div className="text-xs text-slate-500">{l}</div><div className={`text-3xl font-extrabold ${c}`}>{v}</div></div>
+          <div key={l} className="card p-4"><div className="text-xs text-ui-muted">{l}</div><div className={`text-3xl font-extrabold ${c}`}>{v}</div></div>
         ))}
       </div>
       <div className="card mt-4 p-6">
-        <div className="text-sm text-slate-500">Tỉ lệ thuộc lâu dài</div>
-        <div className="mt-2 h-4 rounded-full bg-slate-100">
+        <div className="text-sm text-ui-muted">Tỉ lệ thuộc lâu dài</div>
+        <div className="mt-2 h-4 rounded-full bg-ui-subtle">
           <div className="h-4 rounded-full bg-gradient-to-r from-brand-400 to-emerald-500" style={{ width: `${total ? ((known ?? 0) / total) * 100 : 0}%` }} />
         </div>
         <div className="mt-4 flex gap-2">

@@ -52,7 +52,7 @@ export default async function Page() {
       {loadFailed ? (
         <div role="alert" className="card p-6">
           <h2 className="font-bold">Chưa tải được nguồn tài liệu</h2>
-          <p className="mt-2 text-sm text-slate-600">
+          <p className="mt-2 text-sm text-ui-secondary">
             Không thể tải danh sách nguồn lúc này. Vui lòng tải lại trang hoặc thử lại sau.
           </p>
           <Link href="/nguon-tai-lieu" className="btn btn-outline mt-4">Thử lại</Link>
@@ -60,7 +60,7 @@ export default async function Page() {
       ) : sources.length === 0 ? (
         <div className="card p-6">
           <h2 className="font-bold">Chưa có nguồn tài liệu</h2>
-          <p className="mt-2 text-sm text-slate-600">
+          <p className="mt-2 text-sm text-ui-secondary">
             Danh sách nguồn chưa được cập nhật. Vui lòng quay lại sau để xem thông tin giấy phép và ghi công.
           </p>
         </div>
@@ -78,21 +78,21 @@ export default async function Page() {
                     ["Ghi chú", source.notes],
                   ].map(([label, value]) => (
                     <div key={label}>
-                      <dt className="font-semibold text-slate-900">{label}</dt>
-                      <dd className="mt-1 whitespace-pre-wrap break-words text-slate-600">
+                      <dt className="font-semibold text-ui-title">{label}</dt>
+                      <dd className="mt-1 whitespace-pre-wrap break-words text-ui-secondary">
                         {value?.trim() || "Chưa có thông tin."}
                       </dd>
                     </div>
                   ))}
                   <div>
-                    <dt className="font-semibold text-slate-900">Trang chính thức</dt>
-                    <dd className="mt-1 break-words text-slate-600">
+                    <dt className="font-semibold text-ui-title">Trang chính thức</dt>
+                    <dd className="mt-1 break-words text-ui-secondary">
                       {url ? (
                         <a
                           href={url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="text-brand-600 underline underline-offset-4 hover:text-brand-700 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-600"
+                          className="text-ui-brand-text underline underline-offset-4 hover:text-ui-brand-strong focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ui-brand-text"
                         >
                           {url}<span className="sr-only"> (mở trong thẻ mới)</span>
                         </a>

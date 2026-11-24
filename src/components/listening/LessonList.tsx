@@ -13,8 +13,8 @@ export async function ListeningLessonList({ kind, base }: { kind: "bilingual" | 
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {(data ?? []).filter((l) => (l.level ?? "") === lv).map((l, i) => (
               <Link key={l.slug} href={`${base}/${l.slug}`} className="reveal card lift p-4">
-                <div className="flex items-center gap-2 text-xs text-slate-500">
-                  <span className="grid h-6 w-6 place-items-center rounded-full bg-brand-500 text-[11px] font-bold text-white">{i + 1}</span>
+                <div className="flex items-center gap-2 text-xs text-ui-muted">
+                  <span className="grid h-6 w-6 place-items-center rounded-full bg-ui-brand-fill text-[11px] font-bold text-white">{i + 1}</span>
                   {l.topic && <span>{l.topic}</span>}
                   <span className="ml-auto">{(l.segments as unknown[]).length} câu</span>
                 </div>

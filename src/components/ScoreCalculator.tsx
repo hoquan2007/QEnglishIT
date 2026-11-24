@@ -15,12 +15,12 @@ export function ScoreCalculator() {
         <h2 className="font-bold">Máy tính điểm TOEIC</h2>
         {([["Listening", l, setL, sl], ["Reading", r, setR, sr]] as const).map(([name, v, set, s]) => (
           <label key={name} className="block">
-            <div className="flex justify-between text-sm"><span>{name}: <b>{v}</b>/100 câu đúng</span><b className="text-brand-600">{s}/495</b></div>
+            <div className="flex justify-between text-sm"><span>{name}: <b>{v}</b>/100 câu đúng</span><b className="text-ui-brand-text">{s}/495</b></div>
             <input type="range" min={0} max={100} value={v} onChange={(e) => set(Number(e.target.value))} className="w-full accent-cyan-500" />
           </label>
         ))}
       </div>
-      <div className="grid place-items-center rounded-2xl bg-gradient-to-br from-brand-500 to-sky-700 px-10 py-6 text-center text-white">
+      <div className="grid place-items-center rounded-2xl bg-gradient-to-br from-ui-brand-fill to-sky-700 px-10 py-6 text-center text-white">
         <div>
           <div className="text-sm text-brand-100">Tổng điểm</div>
           <div className="text-5xl font-extrabold">{sl + sr}</div>

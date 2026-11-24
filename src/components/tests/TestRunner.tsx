@@ -16,6 +16,7 @@ import { Markdown } from "@/components/Markdown";
 import { ReportButton } from "@/components/ReportButton";
 import { ResultView, computeResult } from "./ResultView";
 import { LogoMark } from "@/components/Logo";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 type Phase = "intro" | "running" | "result" | "review";
 
@@ -189,7 +190,7 @@ export function TestRunner({
     return (
       <div className="grid min-h-screen place-items-center p-6 text-center">
         <div>
-          <p className="text-slate-500">Đề này chưa có câu hỏi cho phần đã chọn.</p>
+          <p className="text-ui-muted">Đề này chưa có câu hỏi cho phần đã chọn.</p>
           <Link href="/luyen-de-toeic" className="btn btn-primary mt-4">Quay lại danh sách đề</Link>
         </div>
       </div>
@@ -198,13 +199,13 @@ export function TestRunner({
 
   if (phase === "intro") {
     return (
-      <div className="min-h-screen bg-slate-50">
+      <div className="min-h-screen bg-ui-canvas">
         <TopBar onBack={() => router.push("/luyen-de-toeic")} />
         <div className="mx-auto mt-10 max-w-xl px-4">
           <div className="card p-8 text-center">
-            <div className="mx-auto grid h-14 w-14 place-items-center rounded-2xl bg-brand-50 text-brand-600"><FileText className="h-7 w-7" /></div>
+            <div className="mx-auto grid h-14 w-14 place-items-center rounded-2xl bg-ui-brand-tint text-ui-brand-text"><FileText className="h-7 w-7" /></div>
             <h1 className="mt-4 text-2xl font-extrabold">{test.title}</h1>
-            <p className="mt-1 text-sm text-slate-500">
+            <p className="mt-1 text-sm text-ui-muted">
               {mode === "exam" ? "Chế độ Luyện thi · Mô phỏng đề thi thật, đáp án ẩn cho đến khi nộp bài." : "Chế độ Luyện tập · Xem đáp án và giải thích ngay sau mỗi câu."}
             </p>
             <div className="mt-6 grid grid-cols-2 gap-3">
@@ -215,7 +216,7 @@ export function TestRunner({
               {parts.map((p) => <span key={p} className="chip">{getTestPartLabel(test, p)}</span>)}
             </div>
             <button className="btn btn-primary mt-6 !px-8" onClick={start}><Play className="h-4 w-4" />Bắt đầu</button>
-            {toeic && parts.some(isListeningPart) && <p className="mt-4 text-xs text-slate-400">Hãy bật loa hoặc tai nghe để làm phần nghe.</p>}
+            {toeic && parts.some(isListeningPart) && <p className="mt-4 text-xs text-ui-faint">Hãy bật loa hoặc tai nghe để làm phần nghe.</p>}
           </div>
         </div>
       </div>
@@ -247,16 +248,16 @@ export function TestRunner({
   const answeredCount = questions.filter((q) => answers[q.id]).length;
 
   return (
-    <div className="flex h-screen flex-col bg-slate-50">
+    <div className="flex h-screen flex-col bg-ui-canvas">
       <TopBar onBack={() => router.push("/luyen-de-toeic")}>
         <span className={cn("flex items-center gap-1.5 rounded-full px-3 py-1 font-mono text-sm font-semibold",
-          limit && remaining < 300 ? "bg-rose-50 text-rose-600" : "bg-brand-50 text-brand-700")}>
+          limit && remaining < 300 ? "bg-ui-rose-tint text-ui-rose-text" : "bg-ui-brand-tint text-ui-brand-strong")}>
           <Clock className="h-4 w-4" />
           {reviewing ? "Xem lại" : formatDuration(limit ? remaining : elapsed)}
         </span>
-        <span className="hidden text-sm text-slate-500 sm:inline">Đã làm {answeredCount}/{questions.length}</span>
+        <span className="hidden text-sm text-ui-muted sm:inline">Đã làm {answeredCount}/{questions.length}</span>
         <div className="ml-auto flex items-center gap-2">
-          <button onClick={() => setShowVi((v) => !v)} className={cn("btn btn-ghost !px-2.5 !py-1.5", showVi && "bg-brand-50 !text-brand-700")} title="Bản dịch">
+          <button onClick={() => setShowVi((v) => !v)} className={cn("btn btn-ghost !px-2.5 !py-1.5", showVi && "bg-ui-brand-tint !text-ui-brand-strong")} title="Bản dịch">
             <Languages className="h-4 w-4" />
           </button>
           <button onClick={() => setShowPalette((v) => !v)} className="btn btn-ghost !px-2.5 !py-1.5" title="Danh sách câu">
@@ -282,8 +283,8 @@ export function TestRunner({
       <div className="relative flex min-h-0 flex-1">
         <div className={cn("grid min-h-0 flex-1", hasLeft ? "lg:grid-cols-2" : "grid-cols-1")}>
           {hasLeft && (
-            <div className="min-h-0 overflow-y-auto border-r border-slate-200 bg-brand-50/40 p-4">
-              <div className="mb-2 text-xs font-bold uppercase tracking-wider text-brand-700">
+            <div className="min-h-0 overflow-y-auto border-r border-ui-line bg-ui-brand-tint/40 p-4">
+              <div className="mb-2 text-xs font-bold uppercase tracking-wider text-ui-brand-strong">
                 {partLabel}
               </div>
               {isL && (
@@ -294,23 +295,23 @@ export function TestRunner({
                 <div className="card mt-4 p-5">
                   <Markdown className="prose-sm">{group.passage}</Markdown>
                   {showVi && group.passage_vi && (
-                    <div className="mt-4 border-t border-dashed border-slate-200 pt-4">
-                      <Markdown className="prose-sm text-slate-600">{group.passage_vi}</Markdown>
+                    <div className="mt-4 border-t border-dashed border-ui-line pt-4">
+                      <Markdown className="prose-sm text-ui-secondary">{group.passage_vi}</Markdown>
                     </div>
                   )}
                 </div>
               )}
               {isL && (reviewing || group.questions.every((q) => revealed.has(q.id))) && group.transcript && (
                 <div className="card mt-4 p-4 text-sm">
-                  <div className="mb-2 font-bold text-slate-700">Transcript</div>
-                  <pre className="whitespace-pre-wrap font-sans text-slate-700">{group.transcript}</pre>
-                  {group.transcript_vi && <pre className="mt-3 whitespace-pre-wrap border-t border-dashed pt-3 font-sans text-slate-500">{group.transcript_vi}</pre>}
+                  <div className="mb-2 font-bold text-ui-body">Transcript</div>
+                  <pre className="whitespace-pre-wrap font-sans text-ui-body">{group.transcript}</pre>
+                  {group.transcript_vi && <pre className="mt-3 whitespace-pre-wrap border-t border-dashed pt-3 font-sans text-ui-muted">{group.transcript_vi}</pre>}
                 </div>
               )}
             </div>
           )}
           <div className="min-h-0 overflow-y-auto p-4">
-            {!hasLeft && <div className="mb-2 text-xs font-bold uppercase tracking-wider text-brand-700">{partLabel}</div>}
+            {!hasLeft && <div className="mb-2 text-xs font-bold uppercase tracking-wider text-ui-brand-strong">{partLabel}</div>}
             <div className="mx-auto max-w-3xl space-y-4">
               {group.questions.map((q, qi) => (
                 <QuestionCard
@@ -339,22 +340,22 @@ export function TestRunner({
         </div>
 
         {showPalette && (
-          <div className="absolute inset-y-0 right-0 z-20 w-80 overflow-y-auto border-l border-slate-200 bg-white p-4 shadow-2xl">
+          <div className="absolute inset-y-0 right-0 z-20 w-80 overflow-y-auto border-l border-ui-line bg-ui-surface p-4 shadow-2xl">
             <div className="mb-3 font-bold">Danh sách câu hỏi</div>
             {parts.map((p) => {
               const qs = questions.filter((q) => q.part === p);
               if (!qs.length) return null;
               return (
                 <div key={p} className="mb-4">
-                  <div className="mb-1.5 text-xs font-semibold text-slate-500">{getTestPartLabel(test, p)}</div>
+                  <div className="mb-1.5 text-xs font-semibold text-ui-muted">{getTestPartLabel(test, p)}</div>
                   <div className="grid grid-cols-6 gap-1.5">
                     {qs.map((q) => {
                       const g = groups.findIndex((x) => x.id === q.group_id);
                       const state = reviewing || revealed.has(q.id)
-                        ? answers[q.id] === q.correct_answer ? "bg-emerald-500 text-white" : answers[q.id] ? "bg-rose-500 text-white" : "bg-slate-200"
-                        : answers[q.id] ? "bg-brand-500 text-white" : "bg-slate-100 text-slate-600";
+                        ? answers[q.id] === q.correct_answer ? "bg-ui-emerald-fill text-white" : answers[q.id] ? "bg-ui-rose-fill text-white" : "bg-ui-track"
+                        : answers[q.id] ? "bg-ui-brand-fill text-white" : "bg-ui-subtle text-ui-secondary";
                       return (
-                        <button key={q.id} onClick={() => goGroup(g)} className={cn("relative rounded-md py-1.5 text-xs font-semibold", state, g === gi && "ring-2 ring-brand-300")}>
+                        <button key={q.id} onClick={() => goGroup(g)} className={cn("relative rounded-md py-1.5 text-xs font-semibold", state, g === gi && "ring-2 ring-ui-brand-outline")}>
                           {q.number}
                           {flagged.has(q.id) && <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-orange-500" />}
                         </button>
@@ -368,11 +369,11 @@ export function TestRunner({
         )}
       </div>
 
-      <div className="flex items-center justify-between border-t border-slate-200 bg-white px-4 py-2.5">
+      <div className="flex items-center justify-between border-t border-ui-line bg-ui-surface px-4 py-2.5">
         <ReportButton questionId={group.questions[activeQ]?.id} />
         <div className="flex items-center gap-2">
           <button className="btn btn-outline !py-1.5" disabled={gi === 0} onClick={() => goGroup(gi - 1)}><ChevronLeft className="h-4 w-4" />Trước</button>
-          <span className="text-sm text-slate-500">
+          <span className="text-sm text-ui-muted">
             Câu {group.questions[0]?.number}
             {group.questions.length > 1 && `–${group.questions.at(-1)?.number}`}
           </span>
@@ -385,9 +386,10 @@ export function TestRunner({
 
 function TopBar({ onBack, children }: { onBack: () => void; children?: React.ReactNode }) {
   return (
-    <div className="flex h-14 shrink-0 items-center gap-3 border-b border-slate-200 bg-white px-4">
-      <button onClick={onBack} className="rounded-lg p-1.5 hover:bg-slate-100" aria-label="Quay lại"><ArrowLeft className="h-5 w-5" /></button>
+    <div className="flex min-h-14 shrink-0 flex-wrap items-center gap-1.5 border-b border-ui-line bg-ui-surface px-2 py-2 sm:h-14 sm:flex-nowrap sm:gap-3 sm:px-4 sm:py-0">
+      <button onClick={onBack} className="rounded-lg p-1.5 hover:bg-ui-subtle" aria-label="Quay lại"><ArrowLeft className="h-5 w-5" /></button>
       <LogoMark size={30} />
+      <ThemeToggle />
       {children}
     </div>
   );
@@ -395,8 +397,8 @@ function TopBar({ onBack, children }: { onBack: () => void; children?: React.Rea
 
 function Stat({ label, value }: { label: string; value: string }) {
   return (
-    <div className="rounded-xl border border-slate-200 bg-slate-50 p-3">
-      <div className="text-xs text-slate-500">{label}</div>
+    <div className="rounded-xl border border-ui-line bg-ui-canvas p-3">
+      <div className="text-xs text-ui-muted">{label}</div>
       <div className="text-lg font-extrabold">{value}</div>
     </div>
   );
@@ -409,7 +411,7 @@ function PhotoCard({ group }: { group: QuestionGroup }) {
   }
   return (
     <div className="mt-4 overflow-hidden rounded-2xl bg-gradient-to-br from-slate-700 to-slate-900 p-6 text-slate-100">
-      <div className="mb-3 flex items-center gap-2 text-xs uppercase tracking-widest text-slate-400"><ImageIcon className="h-4 w-4" />Mô tả hình ảnh</div>
+      <div className="mb-3 flex items-center gap-2 text-xs uppercase tracking-widest text-ui-faint"><ImageIcon className="h-4 w-4" />Mô tả hình ảnh</div>
       <p className="text-[15px] leading-relaxed">{group.image_description}</p>
     </div>
   );
@@ -430,11 +432,11 @@ function QuestionCard({
   onFlag: () => void;
 }) {
   return (
-    <div onClick={onFocus} className={cn("card p-4 transition", active && "ring-2 ring-brand-200")}>
+    <div onClick={onFocus} className={cn("card p-4 transition", active && "ring-2 ring-ui-brand-line")}>
       <div className="flex items-start gap-2">
-        <span className="font-bold text-brand-600">Câu {q.number}.</span>
-        <p className="flex-1 font-medium text-slate-800">{q.question_text ?? (q.part === 2 ? "Mark your answer on your answer sheet." : "")}</p>
-        <button onClick={onFlag} className={cn("rounded p-1", flagged ? "text-orange-500" : "text-slate-300 hover:text-slate-500")} aria-label="Đánh dấu">
+        <span className="font-bold text-ui-brand-text">Câu {q.number}.</span>
+        <p className="flex-1 font-medium text-ui-strong">{q.question_text ?? (q.part === 2 ? "Mark your answer on your answer sheet." : "")}</p>
+        <button onClick={onFlag} className={cn("rounded p-1", flagged ? "text-ui-orange-bright" : "text-ui-inactive hover:text-ui-muted")} aria-label="Đánh dấu">
           <Flag className="h-4 w-4" />
         </button>
       </div>
@@ -447,18 +449,18 @@ function QuestionCard({
               key={o.key}
               onClick={() => onChoose(o.key)}
               className={cn(
-                "flex items-center gap-3 rounded-xl border px-3 py-2.5 text-left text-sm transition",
-                !revealed && isSel && "border-brand-400 bg-brand-50",
-                !revealed && !isSel && "border-slate-200 hover:border-brand-300 hover:bg-slate-50",
-                revealed && isRight && "border-emerald-400 bg-emerald-50",
-                revealed && isSel && !isRight && "border-rose-400 bg-rose-50",
-                revealed && !isSel && !isRight && "border-slate-200 opacity-70",
+                "flex items-center gap-3 rounded-xl border px-3 py-2.5 text-left text-sm motion-safe:transition",
+                !revealed && isSel && "border-brand-400 bg-ui-brand-tint",
+                !revealed && !isSel && "border-ui-line hover:border-ui-brand-outline hover:bg-ui-canvas",
+                revealed && isRight && "border-emerald-400 bg-ui-emerald-tint",
+                revealed && isSel && !isRight && "border-rose-400 bg-ui-rose-tint",
+                revealed && !isSel && !isRight && "border-ui-line opacity-70",
               )}
             >
               <span className={cn("grid h-7 w-7 shrink-0 place-items-center rounded-full text-xs font-bold",
-                isSel ? "bg-brand-500 text-white" : "bg-slate-100 text-slate-600",
-                revealed && isRight && "bg-emerald-500 text-white",
-                revealed && isSel && !isRight && "bg-rose-500 text-white")}>
+                isSel ? "bg-ui-brand-fill text-white" : "bg-ui-subtle text-ui-secondary",
+                revealed && isRight && "bg-ui-emerald-fill text-white",
+                revealed && isSel && !isRight && "bg-ui-rose-fill text-white")}>
                 {o.key}
               </span>
               {!hideOptionText && <span>{o.text}</span>}
@@ -467,15 +469,15 @@ function QuestionCard({
         })}
       </div>
       {revealed && (q.explanation || q.translation) && (
-        <div className="mt-3 space-y-2 rounded-xl bg-slate-50 p-3 text-sm">
+        <div className="mt-3 space-y-2 rounded-xl bg-ui-canvas p-3 text-sm">
           <div>
             <span className="font-semibold">Đáp án đúng: </span>
-            <span className="font-bold text-emerald-600">{q.correct_answer}</span>
-            {selected && selected !== q.correct_answer && <span className="ml-2 text-rose-600">(Bạn chọn {selected})</span>}
-            {!selected && <span className="ml-2 text-slate-400">(Bỏ trống)</span>}
+            <span className="font-bold text-ui-emerald-text">{q.correct_answer}</span>
+            {selected && selected !== q.correct_answer && <span className="ml-2 text-ui-rose-text">(Bạn chọn {selected})</span>}
+            {!selected && <span className="ml-2 text-ui-faint">(Bỏ trống)</span>}
           </div>
-          {q.explanation && <div className="text-slate-700"><span className="font-semibold">Giải thích: </span>{q.explanation}</div>}
-          {(showVi || revealed) && q.translation && <div className="text-slate-500"><span className="font-semibold">Dịch: </span>{q.translation}</div>}
+          {q.explanation && <div className="text-ui-body"><span className="font-semibold">Giải thích: </span>{q.explanation}</div>}
+          {(showVi || revealed) && q.translation && <div className="text-ui-muted"><span className="font-semibold">Dịch: </span>{q.translation}</div>}
         </div>
       )}
     </div>

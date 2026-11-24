@@ -28,17 +28,17 @@ export function WordSearch() {
 
   return (
     <div className="relative">
-      <Search className="absolute left-3 top-3.5 h-4 w-4 text-slate-400" />
+      <Search className="absolute left-3 top-3.5 h-4 w-4 text-ui-faint" />
       <input className="input !py-3 !pl-9" placeholder="Tra từ vựng tiếng Anh hoặc nghĩa tiếng Việt..." value={q} onChange={(e) => setQ(e.target.value)} />
       {q.trim().length >= 2 && res.length > 0 && (
-        <div className="card absolute inset-x-0 top-full z-20 mt-2 max-h-96 divide-y divide-slate-100 overflow-y-auto shadow-xl">
+        <div className="card absolute inset-x-0 top-full z-20 mt-2 max-h-96 divide-y divide-ui-divider overflow-y-auto shadow-xl">
           {res.map((w) => (
             <div key={w.id} className="flex items-start gap-3 p-3">
               <div className="flex-1">
-                <div><b>{w.word}</b> <span className="text-sm text-slate-500">{w.pos}</span></div>
+                <div><b>{w.word}</b> <span className="text-sm text-ui-muted">{w.pos}</span></div>
                 <WordPronunciation word={w} />
-                <div className="text-sm text-slate-700">{w.meaning_vi}</div>
-                {w.example_en && <div className="text-xs italic text-slate-500">{w.example_en}</div>}
+                <div className="text-sm text-ui-body">{w.meaning_vi}</div>
+                {w.example_en && <div className="text-xs italic text-ui-muted">{w.example_en}</div>}
               </div>
               <CartButton wordId={w.id} />
             </div>

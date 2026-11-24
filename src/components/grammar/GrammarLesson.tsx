@@ -21,13 +21,13 @@ export function GrammarLesson({ topic, exercises, quiz }: { topic: GrammarTopic;
   const [tab, setTab] = useState<(typeof TABS)[number]["key"]>("lecture");
   return (
     <div className="mt-6">
-      <div className="sticky top-16 z-10 -mx-1 flex gap-1 overflow-x-auto rounded-2xl border border-slate-200 bg-white/95 p-1 backdrop-blur">
+      <div className="sticky top-16 z-10 -mx-1 flex gap-1 overflow-x-auto rounded-2xl border border-ui-line bg-ui-surface/95 p-1 backdrop-blur">
         {TABS.map((t) => (
           <button
             key={t.key}
             onClick={() => setTab(t.key)}
             className={cn("flex flex-1 items-center justify-center gap-1.5 whitespace-nowrap rounded-xl px-3 py-2 text-sm font-semibold",
-              tab === t.key ? "bg-brand-500 text-white" : "text-slate-600 hover:bg-slate-100")}
+              tab === t.key ? "bg-ui-brand-fill text-white" : "text-ui-secondary hover:bg-ui-subtle")}
           >
             <t.icon className="h-4 w-4" />{t.label}
             {t.key === "exercise" && <span className="text-xs opacity-70">({exercises.length})</span>}
@@ -42,13 +42,13 @@ export function GrammarLesson({ topic, exercises, quiz }: { topic: GrammarTopic;
           <div className="space-y-3">
             {topic.examples.map((e, i) => (
               <div key={i} className="card flex gap-3 p-4">
-                <button onClick={() => speak(e.en)} className="h-9 w-9 shrink-0 rounded-full bg-brand-50 text-brand-600 hover:bg-brand-100" aria-label="Nghe">
+                <button onClick={() => speak(e.en)} className="h-9 w-9 shrink-0 rounded-full bg-ui-brand-tint text-ui-brand-text hover:bg-ui-brand-soft" aria-label="Nghe">
                   <Volume2 className="mx-auto h-4 w-4" />
                 </button>
                 <div>
                   <p className="font-medium">{e.en}</p>
-                  <p className="text-sm text-slate-500">{e.vi}</p>
-                  {e.note && <p className="mt-1 text-xs text-brand-700">💡 {e.note}</p>}
+                  <p className="text-sm text-ui-muted">{e.vi}</p>
+                  {e.note && <p className="mt-1 text-xs text-ui-brand-strong">💡 {e.note}</p>}
                 </div>
               </div>
             ))}
@@ -63,7 +63,7 @@ export function GrammarLesson({ topic, exercises, quiz }: { topic: GrammarTopic;
 
 function Prose({ md }: { md: string | null }) {
   return (
-    <article className="card prose prose-slate max-w-none p-6 prose-headings:font-extrabold prose-table:text-sm prose-th:border prose-td:border prose-th:bg-slate-50 prose-th:px-3 prose-td:px-3 md:p-8">
+    <article className="card prose prose-slate max-w-none p-6 prose-headings:font-extrabold prose-table:text-sm prose-th:border prose-td:border prose-th:bg-ui-canvas prose-th:px-3 prose-td:px-3 md:p-8">
       <ReactMarkdown remarkPlugins={[remarkGfm]}>{md ?? "Đang cập nhật..."}</ReactMarkdown>
     </article>
   );

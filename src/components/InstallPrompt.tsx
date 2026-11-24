@@ -31,19 +31,19 @@ export function InstallPrompt() {
     } catch {}
   };
   return (
-    <div className="card fixed bottom-4 right-4 z-50 flex max-w-sm gap-3 p-4 shadow-2xl">
-      <div className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-brand-500 text-white">
+    <div className="card fixed bottom-4 left-4 right-4 z-50 flex max-w-sm gap-3 p-4 shadow-2xl sm:left-auto">
+      <div className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-ui-brand-fill text-white">
         <Download className="h-5 w-5" />
       </div>
       <div className="text-sm">
         <div className="font-bold">Cài đặt ứng dụng QEnglishIT</div>
-        <p className="text-slate-500">Truy cập nhanh từ màn hình chính, học TOEIC như một ứng dụng thật.</p>
+        <p className="text-ui-muted">Truy cập nhanh từ màn hình chính, học TOEIC như một ứng dụng thật.</p>
         <div className="mt-2 flex gap-2">
           <button className="btn btn-primary !px-3 !py-1.5 text-xs" onClick={() => evt.prompt().then(close)}>Cài đặt</button>
           <button className="btn btn-ghost !px-3 !py-1.5 text-xs" onClick={close}>Để sau</button>
         </div>
       </div>
-      <button onClick={close} className="self-start text-slate-400" aria-label="Đóng"><X className="h-4 w-4" /></button>
+      <button onClick={close} className="self-start text-ui-faint" aria-label="Đóng"><X className="h-4 w-4" /></button>
     </div>
   );
 }

@@ -19,21 +19,21 @@ export default async function Page() {
         <div className="grid gap-4 sm:grid-cols-2">
           {reviews.map((r) => (
             <div key={r.id} className="card p-5">
-              <Quote className="h-5 w-5 text-brand-300" />
-              <p className="mt-2 text-sm text-slate-700">{r.content}</p>
+              <Quote className="h-5 w-5 text-ui-brand-icon" />
+              <p className="mt-2 text-sm text-ui-body">{r.content}</p>
               <div className="mt-4 flex items-center justify-between">
                 <div>
                   <div className="font-bold">{r.display_name}</div>
-                  {r.score_after && <div className="text-xs text-emerald-600">{r.score_before ?? "?"} → {r.score_after} điểm</div>}
+                  {r.score_after && <div className="text-xs text-ui-emerald-text">{r.score_before ?? "?"} → {r.score_after} điểm</div>}
                 </div>
                 <div className="text-right">
-                  <div className="flex">{Array.from({ length: 5 }).map((_, i) => <Star key={i} className={`h-4 w-4 ${i < r.rating ? "fill-amber-400 text-amber-400" : "text-slate-200"}`} />)}</div>
-                  <div className="text-[11px] text-slate-400">{formatDate(r.created_at)}</div>
+                  <div className="flex">{Array.from({ length: 5 }).map((_, i) => <Star key={i} className={`h-4 w-4 ${i < r.rating ? "fill-amber-400 text-amber-400" : "text-ui-unfilled"}`} />)}</div>
+                  <div className="text-[11px] text-ui-faint">{formatDate(r.created_at)}</div>
                 </div>
               </div>
             </div>
           ))}
-          {!reviews.length && <div className="card col-span-2 p-10 text-center text-slate-500">Chưa có đánh giá nào. Hãy là người đầu tiên!</div>}
+          {!reviews.length && <div className="card col-span-2 p-10 text-center text-ui-muted">Chưa có đánh giá nào. Hãy là người đầu tiên!</div>}
         </div>
         <ReviewForm />
       </div>
